@@ -9,9 +9,244 @@
   "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:INFO_2025.12.17/INFO.rar)",
   "archive": [
     {
-      "note": "RAR archive - listing requires unrar/7z binary (not available in this sandbox); bytes pinned by sha256",
-      "signature": "526172211a070100",
-      "is_rar5": true
+      "name": "CLI Manual.docx",
+      "bytes": 2704581,
+      "compressed": 2671179,
+      "crc32": "62122fc9",
+      "modified": [
+        2025,
+        12,
+        17,
+        13,
+        45,
+        54
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "Performance of PeakNetX Platform_EN.pptx",
+      "bytes": 97089,
+      "compressed": 88366,
+      "crc32": "e0f6e6d1",
+      "modified": [
+        2025,
+        12,
+        17,
+        12,
+        46,
+        37
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "Performance of VastLakes Platform_EN.pptx",
+      "bytes": 105121,
+      "compressed": 95908,
+      "crc32": "c18ac869",
+      "modified": [
+        2025,
+        12,
+        17,
+        12,
+        52,
+        2
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "Saga Software Function List_EN.pptx",
+      "bytes": 154139,
+      "compressed": 140762,
+      "crc32": "f9b606bd",
+      "modified": [
+        2025,
+        12,
+        17,
+        12,
+        39,
+        49
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH1G Series Switches Datasheet_EN.pptx",
+      "bytes": 9009253,
+      "compressed": 8931121,
+      "crc32": "795aa8ae",
+      "modified": [
+        2025,
+        12,
+        17,
+        13,
+        13,
+        52
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH25G Series Switches Datasheet_EN.pptx",
+      "bytes": 4891176,
+      "compressed": 4861538,
+      "crc32": "d61b23f7",
+      "modified": [
+        2025,
+        12,
+        17,
+        13,
+        45,
+        45
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "User Manual.docx",
+      "bytes": 12445592,
+      "compressed": 11806745,
+      "crc32": "b46a9bb6",
+      "modified": [
+        2025,
+        12,
+        17,
+        13,
+        27,
+        20
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "Web Manual.docx",
+      "bytes": 3351215,
+      "compressed": 2979804,
+      "crc32": "827a00f9",
+      "modified": [
+        2025,
+        12,
+        17,
+        13,
+        26,
+        0
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH-8C48DX/1.png",
+      "bytes": 2268398,
+      "compressed": 2246790,
+      "crc32": "ef70a042",
+      "modified": [
+        2024,
+        8,
+        19,
+        9,
+        8,
+        2
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH-8C48DX/2.png",
+      "bytes": 4509768,
+      "compressed": 4488440,
+      "crc32": "d4cce146",
+      "modified": [
+        2024,
+        8,
+        19,
+        9,
+        7,
+        54
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH-8C48DX/3.png",
+      "bytes": 3833628,
+      "compressed": 3801074,
+      "crc32": "ac4df736",
+      "modified": [
+        2024,
+        8,
+        19,
+        9,
+        8,
+        4
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH-8C48DX/4.png",
+      "bytes": 3968879,
+      "compressed": 3937561,
+      "crc32": "b3f7d71f",
+      "modified": [
+        2024,
+        8,
+        19,
+        9,
+        8,
+        0
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH-8C48DX/5.png",
+      "bytes": 4978829,
+      "compressed": 4965460,
+      "crc32": "b00e108a",
+      "modified": [
+        2024,
+        8,
+        19,
+        9,
+        8,
+        2
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "ANW-DC-RFP-EN.pdf",
+      "bytes": 114015,
+      "compressed": 109060,
+      "crc32": "72bd1401",
+      "modified": [
+        2025,
+        12,
+        15,
+        13,
+        17,
+        56
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "CENTEC web gui.jpg",
+      "bytes": 548089,
+      "compressed": 283234,
+      "crc32": "dd2df560",
+      "modified": [
+        2024,
+        11,
+        20,
+        13,
+        13,
+        53
+      ],
+      "is_dir": false
+    },
+    {
+      "name": "STH-8C48DX/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": null,
+      "modified": [
+        2025,
+        12,
+        17,
+        12,
+        42,
+        32
+      ],
+      "is_dir": true
     }
   ]
 }

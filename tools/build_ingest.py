@@ -302,26 +302,79 @@ def strings_from_binary(data, min_len=4):
     return res
 
 
+WORD97_CTRL = {"\r": "\n", "\x07": "\t", "\x0b": "\n", "\x0c": "\n",
+              "\x1e": "-", "\x1f": "", "\x13": "", "\x14": "", "\x15": ""}
+
+
+def word97_text(path):
+    """Decode the real text of a Word 97-2003 binary .doc via FIB + CLX piece table."""
+    import struct
+    import olefile
+
+    ole = olefile.OleFileIO(path)
+    wd = ole.openstream("WordDocument").read()
+    flags = struct.unpack_from("<H", wd, 0x0A)[0]
+    tname = "1Table" if (flags & 0x0200) else "0Table"
+    if not ole.exists(tname):
+        tname = "1Table" if ole.exists("1Table") else "0Table"
+    tbl = ole.openstream(tname).read()
+    fc_clx, lcb_clx = struct.unpack_from("<II", wd, 0x01A2)
+    clx = tbl[fc_clx:fc_clx + lcb_clx]
+    i = 0
+    while i < len(clx) and clx[i] == 0x01:          # Prc entries
+        cb = struct.unpack_from("<H", clx, i + 1)[0]
+        i += 3 + cb
+    if i >= len(clx) or clx[i] != 0x02:
+        raise ValueError("no Pcdt in CLX")
+    lcb = struct.unpack_from("<I", clx, i + 1)[0]
+    plc = clx[i + 5:i + 5 + lcb]
+    n = (len(plc) - 4) // 12
+    cps = [struct.unpack_from("<I", plc, 4 * k)[0] for k in range(n + 1)]
+    pieces = []
+    for k in range(n):
+        off = 4 * (n + 1) + 8 * k
+        fc = struct.unpack_from("<I", plc, off + 2)[0]
+        compressed = bool(fc & 0x40000000)
+        fc &= 0x3FFFFFFF
+        if compressed:
+            fc //= 2
+        pieces.append((cps[k], cps[k + 1], fc, compressed))
+    out = []
+    for cpa, cpb, fc, comp in pieces:
+        ln = cpb - cpa
+        if comp:
+            out.append(wd[fc:fc + ln].decode("cp1252", "replace"))
+        else:
+            out.append(wd[fc:fc + 2 * ln].decode("utf-16-le", "replace"))
+    ole.close()
+    return "".join(out), pieces, tname
+
+
 def extract_doc(path):
-    """Legacy .doc (OLE2). Best effort: WordDocument stream + printable runs."""
+    """Legacy .doc (OLE2): full text via Word97 piece table; run scan as fallback."""
     out = []
     try:
-        import olefile
-        ole = olefile.OleFileIO(path)
-        out.append("OLE streams: " + ", ".join("/".join(s) for s in ole.listdir()) + "\n\n")
-        if ole.exists("WordDocument"):
-            data = ole.openstream("WordDocument").read()
-        else:
-            data = open(path, "rb").read()
-        ole.close()
-    except Exception:
+        text, pieces, tname = word97_text(path)
+        body = "".join(WORD97_CTRL.get(c, c) for c in text)
+        ncomp = sum(1 for p in pieces if p[3])
+        out.append("Word 97-2003 binary .doc - text decoded from the CLX piece table "
+                   "(all character runs, in document order).\n")
+        out.append(f"Table stream: {tname}   pieces: {len(pieces)} "
+                   f"(compressed: {ncomp})   characters: {len(body)}\n")
+        out.append("Control codes mapped: 0x0D->newline (paragraph), 0x07->tab (cell/row end), "
+                   "0x0B->newline, 0x0C->newline (page break), 0x13/0x14/0x15->field markers, "
+                   "0x1E->hyphen, 0x1F->dropped.\n\n")
+        out.append("```text\n" + body + "\n```\n")
+        out.append("\nNOTE: layout/formatting of the binary .doc is not representable as "
+                   "plain text; every character of the document body is reproduced above.\n")
+    except Exception as exc:
         data = open(path, "rb").read()
-    runs = strings_from_binary(data, min_len=4)
-    out.append(f"Printable runs extracted: {len(runs)}\n"
-               "NOTE: legacy binary .doc - text recovered via run extraction "
-               "(character order preserved as stored; layout/formatting not representable).\n\n")
-    for off, s in runs:
-        out.append(f"{off:>10}\t{s}\n")
+        runs = strings_from_binary(data, min_len=4)
+        out.append(f"Piece-table decode failed ({type(exc).__name__}: {exc}); "
+                   f"falling back to printable-run extraction.\n"
+                   f"Printable runs extracted: {len(runs)}\n\n")
+        for off, s in runs:
+            out.append(f"{off:>10}\t{s}\n")
     return "".join(out)
 
 
@@ -332,6 +385,30 @@ def extract_pub(path):
            f"Printable runs extracted: {len(runs)}\n\n"]
     for off, s in runs:
         out.append(f"{off:>10}\t{s}\n")
+    return "".join(out)
+
+
+def extract_cdr(path):
+    """CorelDRAW (RIFF) - chunk map + every printable text run."""
+    import struct
+    data = open(path, "rb").read()
+    out = [f"CorelDRAW binary. size={len(data)} bytes\n"]
+    if data[:4] == b"RIFF":
+        out.append(f"RIFF form: {data[8:12].decode('latin-1', 'replace')}  "
+                   f"declared size={struct.unpack_from('<I', data, 4)[0]}\n")
+    out.append("RIFF chunks:\n")
+    pos = 12
+    while pos + 8 <= len(data):
+        cid = data[pos:pos + 4].decode("latin-1", "replace")
+        sz = struct.unpack_from("<I", data, pos + 4)[0]
+        out.append(f"  {pos:>9}  {cid!r}  {sz} bytes\n")
+        pos += 8 + sz + (sz & 1)
+        if sz == 0:
+            break
+    runs = strings_from_binary(data, min_len=4)
+    out.append(f"\nPrintable runs: {len(runs)}\n\n")
+    for off, s_ in runs:
+        out.append(f"{off:>10}\t{s_}\n")
     return "".join(out)
 
 
@@ -461,12 +538,20 @@ def archive_listing(path, ext):
                         e.update(bytes=f.uncompressed, crc32=f.crc32,
                                  compressed=f.compressed, is_dir=f.is_directory)
     elif ext == ".rar":
-        with open(path, "rb") as fh:
-            head = fh.read(16)
-        entries.append({"note": "RAR archive - listing requires unrar/7z binary "
-                                "(not available in this sandbox); bytes pinned by sha256",
-                        "signature": head[:8].hex(),
-                        "is_rar5": head[:8] == b"Rar!\x1a\x07\x01\x00"})
+        try:
+            import rarfile
+            with rarfile.RarFile(path) as rf:
+                for zi in rf.infolist():
+                    entries.append({"name": zi.filename, "bytes": zi.file_size,
+                                    "compressed": zi.compress_size,
+                                    "crc32": f"{zi.CRC:08x}" if zi.CRC else None,
+                                    "modified": list(zi.date_time),
+                                    "is_dir": zi.isdir()})
+        except Exception as exc:  # noqa: BLE001
+            with open(path, "rb") as fh:
+                head = fh.read(16)
+            entries.append({"note": f"RAR header parse failed ({exc}); bytes pinned by sha256",
+                            "signature": head[:8].hex()})
     return entries
 
 
@@ -531,11 +616,13 @@ def main():
             elif ext == ".pdf":
                 body = extract_pdf(src_path); method = "pypdf - every page text layer (image-only pages flagged, not dropped)"
             elif ext == ".doc":
-                body = extract_doc(src_path); method = "olefile + printable-run extraction (legacy binary .doc)"
+                body = extract_doc(src_path); method = "Word97 FIB + CLX piece-table decode - every character run of the .doc body, in document order (+ printable-run fallback)"
             elif ext == ".pub":
                 body = extract_pub(src_path); method = "Microsoft Publisher binary + printable-run extraction"
             elif ext == ".psd":
                 body = extract_psd(src_path); method = "psd-tools - full layer tree, names, bboxes, text layers"
+            elif ext == ".cdr":
+                body = extract_cdr(src_path); method = "CorelDRAW RIFF chunk map + printable-run extraction"
             elif ext == ".ai":
                 body = extract_ai(src_path); method = "pypdf (PDF-compatible AI) else printable-run extraction"
         except Exception as exc:  # noqa: BLE001

@@ -1,0 +1,117 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "archive": "INFO_2025.12.17/INFO.rar",
+  "bytes": 51409149,
+  "sha256": "0ae26b9717670bac7124b14f407d31bdb375e418d496dd2bcc3527f730fc2e78",
+  "decoder": "none (RAR payload needs unrar, absent in sandbox)",
+  "note": "member bytes are pinned by the archive sha256 above; every member is also present loose in the same folder except where status says differs-from-loose-file / missing-loose",
+  "members": [
+    {
+      "member": "CLI Manual.docx",
+      "bytes": 2704581,
+      "loose": "INFO_2025.12.17/CLI Manual.docx",
+      "status": "covered-by-loose-file",
+      "sha256": "df05aacbb12ed2f0c80b1cd4a5f502591fd989e4603ca9331f4a0ed4a67ab636"
+    },
+    {
+      "member": "Performance of PeakNetX Platform_EN.pptx",
+      "bytes": 97089,
+      "loose": "INFO_2025.12.17/Performance of PeakNetX Platform_EN.pptx",
+      "status": "covered-by-loose-file",
+      "sha256": "c269792b0c21a8f3f4fbbe177adc17d132d73e1f2d6764d98ce12b017ab07237"
+    },
+    {
+      "member": "Performance of VastLakes Platform_EN.pptx",
+      "bytes": 105121,
+      "loose": "INFO_2025.12.17/Performance of VastLakes Platform_EN.pptx",
+      "status": "covered-by-loose-file",
+      "sha256": "08ee6f0ea7d341efca6ecd5354f7d84f6ca4b66a17445b1f3e532fec10a3ee06"
+    },
+    {
+      "member": "Saga Software Function List_EN.pptx",
+      "bytes": 154139,
+      "loose": "INFO_2025.12.17/Saga Software Function List_EN.pptx",
+      "status": "differs-from-loose-file",
+      "sha256": "3caa5c7de784d52e470ed7266e511c817f3fe0c66f3b194260263f8c47984ec6"
+    },
+    {
+      "member": "STH1G Series Switches Datasheet_EN.pptx",
+      "bytes": 9009253,
+      "loose": "INFO_2025.12.17/STH1G Series Switches Datasheet_EN.pptx",
+      "status": "covered-by-loose-file",
+      "sha256": "29df2cac8237ebbe4b8418db21ea3a1f53e529a026183fc6611600588fdfaabb"
+    },
+    {
+      "member": "STH25G Series Switches Datasheet_EN.pptx",
+      "bytes": 4891176,
+      "loose": "INFO_2025.12.17/STH25G Series Switches Datasheet_EN.pptx",
+      "status": "covered-by-loose-file",
+      "sha256": "299865d1d7867a4acc9404c6d793cce31be036908c042d99b2acc2e5741d33b1"
+    },
+    {
+      "member": "User Manual.docx",
+      "bytes": 12445592,
+      "loose": "INFO_2025.12.17/User Manual.docx",
+      "status": "covered-by-loose-file",
+      "sha256": "9c57640bd5e9e115b141021638b00437d55a2e52b7c539453b86e13e1f8d88a3"
+    },
+    {
+      "member": "Web Manual.docx",
+      "bytes": 3351215,
+      "loose": "INFO_2025.12.17/Web Manual.docx",
+      "status": "covered-by-loose-file",
+      "sha256": "a1154a39fdd3bdff7cb51448039520d072ac2451b0ed33768f4e78a698e14b85"
+    },
+    {
+      "member": "STH-8C48DX/1.png",
+      "bytes": 2268398,
+      "loose": "INFO_2025.12.17/STH-8C48DX/1.png",
+      "status": "covered-by-loose-file",
+      "sha256": "f50a73973cc8d9dea6ba81f5fcc5c37f86dad875c228b466818cabe6c4a90bb5"
+    },
+    {
+      "member": "STH-8C48DX/2.png",
+      "bytes": 4509768,
+      "loose": "INFO_2025.12.17/STH-8C48DX/2.png",
+      "status": "covered-by-loose-file",
+      "sha256": "104b378f9258e4eb2758597a6ead4ae25456cbe9e64505a789072ac2a2c69a93"
+    },
+    {
+      "member": "STH-8C48DX/3.png",
+      "bytes": 3833628,
+      "loose": "INFO_2025.12.17/STH-8C48DX/3.png",
+      "status": "covered-by-loose-file",
+      "sha256": "daf0bb94d8092e3ff6a1c2c8b9a82f73b18e7cdcf3256891015057cea333bf36"
+    },
+    {
+      "member": "STH-8C48DX/4.png",
+      "bytes": 3968879,
+      "loose": "INFO_2025.12.17/STH-8C48DX/4.png",
+      "status": "covered-by-loose-file",
+      "sha256": "6556fca55624d91e092e3ccfe9cb5f53de2cb3a08417d781ae310b5c99aa7be0"
+    },
+    {
+      "member": "STH-8C48DX/5.png",
+      "bytes": 4978829,
+      "loose": "INFO_2025.12.17/STH-8C48DX/5.png",
+      "status": "covered-by-loose-file",
+      "sha256": "8cb59e0fcdcca83cc5fcb3dde1fa5bc67542f6d51d901a7bd3cd69368eceadc6"
+    },
+    {
+      "member": "ANW-DC-RFP-EN.pdf",
+      "bytes": 114015,
+      "loose": "INFO_2025.12.17/ANW-DC-RFP-EN.pdf",
+      "status": "covered-by-loose-file",
+      "sha256": "a031e10fe936dd2646b5e4a2ec39e28b2bbda7d9e5006ef04c86ef327cbb41b0"
+    },
+    {
+      "member": "CENTEC web gui.jpg",
+      "bytes": 548089,
+      "loose": "INFO_2025.12.17/CENTEC web gui.jpg",
+      "status": "covered-by-loose-file",
+      "sha256": "7a0ad65a72780e59197edc1397f2eb221c66d0475a50563e85b11b794e3368b5"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "archive_member": "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip/customize/www/logo_light.png",
+  "bytes": 132729,
+  "sha256": "c3e948448c824c68aa77953d31f393cf25eab54405a0438e1ac77d5fcc26c0f3",
+  "image": {
+    "format": "PNG",
+    "width": 2557,
+    "height": 768,
+    "mode": "RGBA",
+    "frames": 1,
+    "dpi": [
+      96.012,
+      96.012
+    ]
+  }
+}

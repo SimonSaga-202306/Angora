@@ -1,0 +1,19 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "archive_member": "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-01.jpg",
+  "bytes": 209444,
+  "sha256": "6da93ad80821e2bf22024c7537894ec28d8ad7f1ad35285ba4fd0c778dbf1180",
+  "image": {
+    "format": "JPEG",
+    "width": 2371,
+    "height": 816,
+    "mode": "RGB",
+    "frames": 1,
+    "dpi": [
+      150,
+      150
+    ]
+  }
+}

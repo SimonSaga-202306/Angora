@@ -5,19 +5,19 @@
   "source_files": 781,
   "artifacts": 781,
   "source_bytes": 787973154,
-  "artifact_bytes": 41323127,
-  "artifact_chars": 40290238,
-  "artifact_lines": 2707188,
+  "artifact_bytes": 41513083,
+  "artifact_chars": 40465473,
+  "artifact_lines": 2698988,
   "by_kind": {
     "02-extracted": {
-      "files": 176,
-      "bytes": 6770112,
-      "chars": 6535878
+      "files": 178,
+      "bytes": 6957252,
+      "chars": 6708257
     },
     "03-binary-meta": {
-      "files": 213,
-      "bytes": 162310,
-      "chars": 158546
+      "files": 211,
+      "bytes": 165126,
+      "chars": 161402
     },
     "01-text-verbatim": {
       "files": 392,
@@ -133,5 +133,29 @@
   },
   "statuses": {
     "ok": 781
-  }
+  },
+  "layer_04_archive_members": {
+    "member_rows": 86,
+    "artifacts": 72,
+    "artifact_bytes": 3396150,
+    "by_kind": {
+      "verbatim": 37,
+      "meta": 24,
+      "extracted": 9,
+      "inventory": 1,
+      "covered-by-loose-file": 14,
+      "differs-from-loose-file": 1
+    },
+    "archives": [
+      "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip",
+      "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip",
+      "3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip",
+      "5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip",
+      "5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip",
+      "INFO_2025.12.17/INFO.rar",
+      "IoT Board/PC0012_Saga.7z"
+    ]
+  },
+  "grand_total_artifacts": 853,
+  "grand_total_artifact_bytes": 44909233
 }

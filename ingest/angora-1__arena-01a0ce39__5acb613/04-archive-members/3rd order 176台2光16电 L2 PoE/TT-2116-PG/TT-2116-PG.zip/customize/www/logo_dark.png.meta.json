@@ -1,0 +1,19 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "archive_member": "3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/customize/www/logo_dark.png",
+  "bytes": 33045,
+  "sha256": "5b12878a9681d00d37475c2d87f0b71917ab050c69d767991d24c654f2f9f1c9",
+  "image": {
+    "format": "PNG",
+    "width": 969,
+    "height": 312,
+    "mode": "RGBA",
+    "frames": 1,
+    "dpi": [
+      96.012,
+      96.012
+    ]
+  }
+}

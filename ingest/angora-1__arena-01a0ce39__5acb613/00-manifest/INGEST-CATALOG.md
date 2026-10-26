@@ -268,8 +268,8 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0045/781  `1st order sample  3层10G 24口 48口/郑州仨戛通讯器材有限公司 P20240510-01（未税6000RMB）.doc`  (1562112 bytes)
 - sha256: `da85a0fb5b03503c0fb39a5a7bb38576bde1839d7939e9f95c505a4e5f3c32fb`
-- artifact: `02-extracted/1st order sample  3层10G 24口 48口/郑州仨戛通讯器材有限公司 P20240510-01（未税6000RMB）.doc.extracted.md` (300222 bytes, 300184 chars)
-- method: olefile + printable-run extraction (legacy binary .doc)
+- artifact: `02-extracted/1st order sample  3层10G 24口 48口/郑州仨戛通讯器材有限公司 P20240510-01（未税6000RMB）.doc.extracted.md` (5551 bytes, 2983 chars)
+- method: Word97 FIB + CLX piece-table decode - every character run of the .doc body, in document order (+ printable-run fallback)
 - status: ok
 
 ## 0046/781  `1st order sample  3层10G 24口 48口/采购合同.pdf`  (176897 bytes)
@@ -370,14 +370,14 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0062/781  `2nd order sample 2层10G 16口 2光8管理/STC-424DGGPM-280W.cdr`  (651266 bytes)
 - sha256: `3f862c580ff29139264a3bd0e49be42753a083567bd4b6d4637580de9b089f6d`
-- artifact: `03-binary-meta/2nd order sample 2层10G 16口 2光8管理/STC-424DGGPM-280W.cdr.meta.json` (538 bytes, 518 chars)
-- method: binary metadata (sha256 + intrinsic properties)
+- artifact: `02-extracted/2nd order sample 2层10G 16口 2光8管理/STC-424DGGPM-280W.cdr.extracted.md` (376780 bytes, 376770 chars)
+- method: CorelDRAW RIFF chunk map + printable-run extraction
 - status: ok
 
 ## 0063/781  `2nd order sample 2层10G 16口 2光8管理/STC-448DGGPM.cdr`  (489242 bytes)
 - sha256: `db15a133cc54f66e6932108ed0660a994d5824bae05b1a08eda37a5d7531e24d`
-- artifact: `03-binary-meta/2nd order sample 2层10G 16口 2光8管理/STC-448DGGPM.cdr.meta.json` (528 bytes, 508 chars)
-- method: binary metadata (sha256 + intrinsic properties)
+- artifact: `02-extracted/2nd order sample 2层10G 16口 2光8管理/STC-448DGGPM.cdr.extracted.md` (92719 bytes, 92708 chars)
+- method: CorelDRAW RIFF chunk map + printable-run extraction
 - status: ok
 
 ## 0064/781  `2nd order sample 2层10G 16口 2光8管理/STSC20241021007.xls`  (5769216 bytes)
@@ -892,8 +892,8 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0149/781  `3rd order 176台2光16电 L2 PoE/郑州仨戛通讯器材有限公司 P20250303-01（未税265220RMB）.doc`  (26624 bytes)
 - sha256: `4007be46904736abd2edb87a9ec2989ded1df208ca7711296acb0647e0c3f84c`
-- artifact: `02-extracted/3rd order 176台2光16电 L2 PoE/郑州仨戛通讯器材有限公司 P20250303-01（未税265220RMB）.doc.extracted.md` (2908 bytes, 2870 chars)
-- method: olefile + printable-run extraction (legacy binary .doc)
+- artifact: `02-extracted/3rd order 176台2光16电 L2 PoE/郑州仨戛通讯器材有限公司 P20250303-01（未税265220RMB）.doc.extracted.md` (5401 bytes, 2897 chars)
+- method: Word97 FIB + CLX piece-table decode - every character run of the .doc body, in document order (+ printable-run fallback)
 - status: ok
 
 ## 0150/781  `3rd order 176台2光16电 L2 PoE/采购_Smartbyte/Quotation_176pcs Industrial switch&power adapter.xls`  (174592 bytes)
@@ -1168,8 +1168,8 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0195/781  `4th order sample  2层10G 24口 48口/Unshipped/郑州仨戛通讯器材有限公司 P20250304-01（未税9110RMB）.doc`  (27648 bytes)
 - sha256: `cf1ad7135e9a57ab29a8fc7c865e6f2a2e9563da03ae2c8fa356acb5ae5fa5d3`
-- artifact: `02-extracted/4th order sample  2层10G 24口 48口/Unshipped/郑州仨戛通讯器材有限公司 P20250304-01（未税9110RMB）.doc.extracted.md` (3014 bytes, 2976 chars)
-- method: olefile + printable-run extraction (legacy binary .doc)
+- artifact: `02-extracted/4th order sample  2层10G 24口 48口/Unshipped/郑州仨戛通讯器材有限公司 P20250304-01（未税9110RMB）.doc.extracted.md` (5469 bytes, 2971 chars)
+- method: Word97 FIB + CLX piece-table decode - every character run of the .doc body, in document order (+ printable-run fallback)
 - status: ok
 
 ## 0196/781  `4th order sample  2层10G 24口 48口/Unshipped/采购合同_STSC20250228007.xls`  (468480 bytes)
@@ -1228,8 +1228,8 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0205/781  `4th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250508-01（未税8190RMB）.doc`  (27648 bytes)
 - sha256: `ec6cb1f8b505d36c3d94ec6e9491f7826f0c37d24d3cbeda5fbc3166dbcb6d90`
-- artifact: `02-extracted/4th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250508-01（未税8190RMB）.doc.extracted.md` (3004 bytes, 2966 chars)
-- method: olefile + printable-run extraction (legacy binary .doc)
+- artifact: `02-extracted/4th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250508-01（未税8190RMB）.doc.extracted.md` (5457 bytes, 2959 chars)
+- method: Word97 FIB + CLX piece-table decode - every character run of the .doc body, in document order (+ printable-run fallback)
 - status: ok
 
 ## 0206/781  `4th order sample  2层10G 24口 48口/采购合同_STSC20250507007.xls`  (558592 bytes)
@@ -1438,8 +1438,8 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0240/781  `5th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250530-01（未税14630RMB）.doc`  (27648 bytes)
 - sha256: `9ff4c8bf66ee575ff71c829607dd933a5fa43388f5d813314c54c1d3286ff7d6`
-- artifact: `02-extracted/5th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250530-01（未税14630RMB）.doc.extracted.md` (3006 bytes, 2968 chars)
-- method: olefile + printable-run extraction (legacy binary .doc)
+- artifact: `02-extracted/5th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250530-01（未税14630RMB）.doc.extracted.md` (5462 bytes, 2964 chars)
+- method: Word97 FIB + CLX piece-table decode - every character run of the .doc body, in document order (+ printable-run fallback)
 - status: ok
 
 ## 0241/781  `5th order sample  2层10G 24口 48口/采购合同_STSC20250526007.pdf`  (279533 bytes)
@@ -1600,8 +1600,8 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0267/781  `6th order 6台工业2光8/郑州仨戛通讯器材有限公司 P20250624-01（未税4272RMB）.doc`  (27648 bytes)
 - sha256: `ceb008fb63507f6fcca112333a1126e168d77bbe7fcd02ff00fddfa603622a90`
-- artifact: `02-extracted/6th order 6台工业2光8/郑州仨戛通讯器材有限公司 P20250624-01（未税4272RMB）.doc.extracted.md` (2764 bytes, 2724 chars)
-- method: olefile + printable-run extraction (legacy binary .doc)
+- artifact: `02-extracted/6th order 6台工业2光8/郑州仨戛通讯器材有限公司 P20250624-01（未税4272RMB）.doc.extracted.md` (5219 bytes, 2815 chars)
+- method: Word97 FIB + CLX piece-table decode - every character run of the .doc body, in document order (+ printable-run fallback)
 - status: ok
 
 ## 0268/781  `6th order 6台工业2光8/采购合同_STSC20250619007.pdf`  (330876 bytes)
@@ -1768,7 +1768,7 @@ Source: `SimonSaga-202306/Angora-1` @ `arena/01a0ce39-angora` (`5acb6132a6a6090b
 
 ## 0295/781  `INFO_2025.12.17/INFO.rar`  (51409149 bytes)
 - sha256: `0ae26b9717670bac7124b14f407d31bdb375e418d496dd2bcc3527f730fc2e78`
-- artifact: `03-binary-meta/INFO_2025.12.17/INFO.rar.meta.json` (674 bytes, 674 chars)
+- artifact: `03-binary-meta/INFO_2025.12.17/INFO.rar.meta.json` (4556 bytes, 4556 chars)
 - method: binary metadata (sha256 + intrinsic properties)
 - status: ok
 
