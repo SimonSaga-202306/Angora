@@ -1,0 +1,9 @@
+#!/bin/bash
+# Attention: no .sh suffix for run-parts
+
+export mod_routers=$new_routers
+export new_routers=
+
+export mod_domain_name=$new_domain_name
+export new_domain_name=
+

@@ -1,0 +1,15 @@
+{
+  "login_page_help": "one of ['lt', 'logo', 'nologo']",
+  "login_page": "nologo",
+  "data_upgrade": true,
+  "langs": [
+    {
+     "name": "Korean",
+      "value": "ko_KR"
+    },
+    {
+      "name": "English",
+      "value": "en_US"
+    }
+  ]
+}

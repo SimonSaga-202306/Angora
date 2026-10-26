@@ -7,7 +7,8 @@
 - artifact bytes: **41,513,083**
 - artifact characters: **40,465,473**
 - archive-member artifacts (layer 04): **72**
-- total artifacts: **853** (781 primary + 72 archive members)
+- deep-content artifacts (layer 05): **4903**
+- total artifacts: **5756** (781 primary + 72 archive members + 4903 deep-content)
 - result: **PASS**
 
 | # | check | result | detail |
@@ -29,7 +30,13 @@
 | 15 | archive member totals consistent (nested members included) | PASS | 85 indexed member rows cover 62 direct container members + expanded nested members |
 | 16 | legacy .doc decoded to real body text (>=100 CJK chars each) | PASS | 6 docs; bad: none |
 | 17 | no document extraction collapsed to a stub (<300 chars) | PASS | stubs: none |
-| 18 | total artifacts = 781 primary + archive-member layer | PASS | 781 + 72 = 853 |
+| 19 | firmware container chain verified (xz->tar->UBI->UBIFS, md5 self-check) | PASS | members=['rootfs.xz', 'upgrade.cfg', 'uboot.bin'], rootfs md5 match=True, uboot md5 match=True |
+| 20 | firmware rootfs: every text file materialised verbatim | PASS | 4881 files on disk vs 4881 declared (39,164,587 bytes) |
+| 21 | firmware rootfs: every non-text file pinned by sha256 | PASS | 2118 rows vs 2118 binaries (118,280,374 bytes) |
+| 22 | scanned PDF pages: image payloads + per-page notes preserved | PASS | 4 images, 3 page notes, missing: none |
+| 23 | nested CAD STEP: header + full entity histogram extracted | PASS | 1,857,292 lines, 1,427,383 entities, 62 types, 62 histogram rows |
+| 24 | macOS AppleDouble sidecars parsed field by field | PASS | 8 parsed, well-formed 8, unparsable 0 |
+| 25 | total artifacts = 781 primary + layer 04 + layer 05 | PASS | 781 + 72 + 4903 = 5756 |
 
 ## File count reconciliation
 
@@ -43,5 +50,6 @@
 | binary metadata artifacts | 211 |
 | files with no artifact | 0 |
 | archive-member artifacts (layer 04) | 72 |
-| **total artifacts** | **853** |
+| deep-content artifacts (layer 05) | 4903 |
+| **total artifacts** | **5756** |
 

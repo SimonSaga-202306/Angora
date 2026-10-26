@@ -1,0 +1,4 @@
+tmpfs /tmp tmpfs rw,nosuid,noexec,relatime 0 0
+tmpfs /swupgrade/bin tmpfs rw,nosuid,noexec,relatime 0 0
+ubi1:variable /var ubifs defaults 0 0
+ubi2:data  /data ubifs defaults 0 0

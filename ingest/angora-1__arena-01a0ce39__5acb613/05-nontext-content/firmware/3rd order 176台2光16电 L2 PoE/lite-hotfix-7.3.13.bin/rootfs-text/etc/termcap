@@ -1,0 +1,70 @@
+#	Reconstructed via infocmp from file: /lib/terminfo/v/vt100
+vt100|vt100-am|dec vt100 (w/advanced video):\
+	:am:bs:ms:xn:xo:\
+	:co#80:it#8:li#24:vt#3:\
+	:DO=\E[%dB:K1=\EOq:K2=\EOr:K3=\EOs:K4=\EOp:K5=\EOn:\
+	:LE=\E[%dD:RI=\E[%dC:UP=\E[%dA:ae=^O:as=^N:bl=^G:cd=\E[J:\
+	:ce=\E[K:cl=\E[H\E[J:cm=\E[%i%d;%dH:cr=^M:cs=\E[%i%d;%dr:\
+	:ct=\E[3g:do=^J:ho=\E[H:k0=\EOy:k1=\EOP:k2=\EOQ:k3=\EOR:\
+	:k4=\EOS:k5=\EOt:k6=\EOu:k7=\EOv:k8=\EOl:k9=\EOw:kb=^H:\
+	:kd=\EOB:ke=\E[?1l\E>:kl=\EOD:kr=\EOC:ks=\E[?1h\E=:\
+	:ku=\EOA:le=^H:mb=\E[5m:md=\E[1m:me=\E[0m:mr=\E[7m:nd=\E[C:\
+	:rc=\E8:rs=\E>\E[?3l\E[?4l\E[?5l\E[?7h\E[?8h:\
+	:..sa=\E[0%?%p1%p6%|%t;1%;%?%p2%t;4%;%?%p1%p3%|%t;7%;%?%p4%t;5%;m%?%p9%t\016%e\017%;$<2>:\
+	:sc=\E7:se=\E[m:sf=^J:so=\E[7m:sr=\EM:st=\EH:ta=^I:ue=\E[m:\
+	:up=\E[A:us=\E[4m:
+#	Reconstructed via infocmp from file: /lib/terminfo/x/xterm
+xterm|xterm-debian|X11 terminal emulator:\
+	:am:bs:km:mi:ms:xn:\
+	:co#80:it#8:li#24:\
+	:AL=\E[%dL:DC=\E[%dP:DL=\E[%dM:DO=\E[%dB:IC=\E[%d@:\
+	:K2=\EOE:LE=\E[%dD:RI=\E[%dC:SF=\E[%dS:SR=\E[%dT:\
+	:UP=\E[%dA:ae=\E(B:al=\E[L:as=\E(0:bl=^G:bt=\E[Z:cd=\E[J:\
+	:ce=\E[K:cl=\E[H\E[2J:cm=\E[%i%d;%dH:cr=^M:\
+	:cs=\E[%i%d;%dr:ct=\E[3g:dc=\E[P:dl=\E[M:do=^J:ec=\E[%dX:\
+	:ei=\E[4l:ho=\E[H:im=\E[4h:is=\E[!p\E[?3;4l\E[4l\E>:\
+	:k1=\EOP:k2=\EOQ:k3=\EOR:k4=\EOS:k5=\E[15~:k6=\E[17~:\
+	:k7=\E[18~:k8=\E[19~:k9=\E[20~:kD=\E[3~:kI=\E[2~:kN=\E[6~:\
+	:kP=\E[5~:kb=\177:kd=\EOB:ke=\E[?1l\E>:kh=\EOH:kl=\EOD:\
+	:kr=\EOC:ks=\E[?1h\E=:ku=\EOA:le=^H:mb=\E[5m:md=\E[1m:\
+	:me=\E[0m:mr=\E[7m:nd=\E[C:rc=\E8:\
+	:..sa=%?%p9%t\E(0%e\E(B%;\E[0%?%p6%t;1%;%?%p2%t;4%;%?%p1%p3%|%t;7%;%?%p4%t;5%;%?%p7%t;8%;m:\
+	:sc=\E7:se=\E[27m:sf=^J:so=\E[7m:sr=\EM:st=\EH:ta=^I:\
+	:te=\E[?1049l:ti=\E[?1049h:ue=\E[24m:up=\E[A:us=\E[4m:\
+	:vb=\E[?5h\E[?5l:ve=\E[?12l\E[?25h:vi=\E[?25l:\
+	:vs=\E[?12;25h:
+#	Reconstructed via infocmp from file: /lib/terminfo/l/linux
+# (rmacs/smacs removed for consistency)
+linux|linux console:\
+	:am:eo:mi:ms:xn:xo:\
+	:it#8:\
+	:AL=\E[%dL:DC=\E[%dP:DL=\E[%dM:DO=\E[%dB:IC=\E[%d@:\
+	:K2=\E[G:LE=\E[%dD:RI=\E[%dC:UP=\E[%dA:al=\E[L:bl=^G:\
+	:cd=\E[J:ce=\E[K:cl=\E[H\E[J:cm=\E[%i%d;%dH:cr=^M:\
+	:cs=\E[%i%d;%dr:ct=\E[3g:dc=\E[P:dl=\E[M:do=^J:ec=\E[%dX:\
+	:ei=\E[4l:ho=\E[H:ic=\E[@:im=\E[4h:k1=\E[[A:k2=\E[[B:\
+	:k3=\E[[C:k4=\E[[D:k5=\E[[E:k6=\E[17~:k7=\E[18~:k8=\E[19~:\
+	:k9=\E[20~:kD=\E[3~:kI=\E[2~:kN=\E[6~:kP=\E[5~:kb=\177:\
+	:kd=\E[B:kh=\E[1~:kl=\E[D:kr=\E[C:ku=\E[A:le=^H:mb=\E[5m:\
+	:md=\E[1m:me=\E[0m:mh=\E[2m:mr=\E[7m:nd=\E[C:nw=^M^J:\
+	:rc=\E8:\
+	:..sa=\E[0;10%?%p1%t;7%;%?%p2%t;4%;%?%p3%t;7%;%?%p4%t;5%;%?%p5%t;2%;%?%p6%t;1%;%?%p9%t;11%;m:\
+	:sc=\E7:se=\E[27m:sf=^J:so=\E[7m:sr=\EM:st=\EH:ta=^I:\
+	:ue=\E[24m:up=\E[A:us=\E[4m:vb=200\E[?5h\E[?5l:\
+	:ve=\E[?25h\E[?0c:vi=\E[?25l\E[?1c:vs=\E[?25h\E[?8c:
+#	Reconstructed via infocmp from file: /lib/terminfo/a/ansi
+# (rmacs/smacs removed for consistency)
+ansi|ansi/pc-term compatible with color:\
+	:am:bs:mi:ms:\
+	:co#80:it#8:li#24:\
+	:AL=\E[%dL:DC=\E[%dP:DL=\E[%dM:DO=\E[%dB:IC=\E[%d@:\
+	:LE=\E[%dD:RI=\E[%dC:SF=\E[%dS:SR=\E[%dT:UP=\E[%dA:\
+	:al=\E[L:bl=^G:bt=\E[Z:cd=\E[J:ce=\E[K:cl=\E[H\E[J:\
+	:cm=\E[%i%d;%dH:cr=^M:ct=\E[3g:dc=\E[P:dl=\E[M:do=\E[B:\
+	:ec=\E[%dX:ei=:ho=\E[H:im=:kI=\E[L:kb=^H:kd=\E[B:kh=\E[H:\
+	:kl=\E[D:kr=\E[C:ku=\E[A:le=\E[D:mb=\E[5m:md=\E[1m:\
+	:me=\E[0m:mr=\E[7m:nd=\E[C:nw=\r\E[S:\
+	:..rp=%p1%c\E[%p2%{1}%-%db:\
+	:..sa=\E[0;10%?%p1%t;7%;%?%p2%t;4%;%?%p3%t;7%;%?%p4%t;5%;%?%p6%t;1%;%?%p7%t;8%;%?%p9%t;11%;m:\
+	:se=\E[m:sf=^J:so=\E[7m:st=\EH:ta=\E[I:ue=\E[m:up=\E[A:\
+	:us=\E[4m:

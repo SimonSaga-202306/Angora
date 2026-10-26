@@ -1,0 +1,11 @@
+TARGETS = xinetd urandom dkos sendsigs rsyslog umountnfs.sh hwclock.sh rpcbind networking umountfs umountroot halt reboot
+sendsigs: xinetd
+rsyslog: xinetd sendsigs
+umountnfs.sh: sendsigs xinetd rsyslog
+hwclock.sh: rsyslog
+rpcbind: umountnfs.sh
+networking: umountnfs.sh rpcbind
+umountfs: networking umountnfs.sh rpcbind urandom xinetd hwclock.sh
+umountroot: umountfs
+halt: umountroot
+reboot: umountroot

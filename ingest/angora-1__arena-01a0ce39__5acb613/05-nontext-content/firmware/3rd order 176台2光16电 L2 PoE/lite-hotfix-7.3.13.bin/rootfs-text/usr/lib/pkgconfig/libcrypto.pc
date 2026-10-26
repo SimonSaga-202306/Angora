@@ -1,0 +1,12 @@
+prefix=/home/liulang/projects/backup/dkssl/dist_root/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 1.0.2h
+Requires: 
+Libs: -L${libdir} -lcrypto
+Libs.private: -lrt -ldl
+Cflags: -I${includedir} 

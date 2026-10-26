@@ -1,0 +1,11 @@
+prefix=/root/projects/ubigen/src/dkos/dksrc/dist_root/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/libtac
+
+Name: libtac
+Description: A TACACS+ protocol client implementation
+URL: https://github.com/kravietz/pam_tacplus/
+Version: 1.7.0
+Libs: -L${libdir} -ltac
+Cflags: -I${includedir} 

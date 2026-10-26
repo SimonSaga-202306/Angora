@@ -1,0 +1,12 @@
+service telnet
+{
+    flags = IPv6
+      socket_type = stream
+        protocol = tcp
+          wait = no
+            user = root
+              server = /usr/sbin/in.telnetd
+                log_on_failure += USERID
+                instances = 32
+        disable         = no 
+              }

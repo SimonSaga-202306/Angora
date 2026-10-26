@@ -28,6 +28,19 @@ def main():
             p = os.path.join(root, f)
             l4_files.append((os.path.relpath(p, D), os.path.getsize(p)))
     l4_bytes = sum(b for _, b in l4_files)
+    l5_files = []
+    for root, _, files in os.walk(f"{D}/05-nontext-content"):
+        for f in files:
+            p = os.path.join(root, f)
+            l5_files.append((os.path.relpath(p, D), os.path.getsize(p)))
+    l5_bytes = sum(b for _, b in l5_files)
+    l5dirs = {}
+    for rel, b in l5_files:
+        k = rel.split("/")[1] if len(rel.split("/")) > 1 else rel
+        t = l5dirs.setdefault(k, [0, 0])
+        t[0] += 1
+        t[1] += b
+    deep = json.load(open(f"{D}/05-nontext-content/DEEP-INGEST.json"))
 
     by_kind = Counter(r["kind"] for r in arows)
     top = OrderedDict()
@@ -45,8 +58,14 @@ def main():
         "by_kind": dict(by_kind),
         "archives": sorted({r["archive"] for r in arows}),
     }
-    summary["grand_total_artifacts"] = summary["artifacts"] + len(l4_files)
-    summary["grand_total_artifact_bytes"] = summary["artifact_bytes"] + l4_bytes
+    summary["layer_05_nontext_content"] = {
+        "artifacts": len(l5_files), "artifact_bytes": l5_bytes,
+        "by_area": {k: {"files": v[0], "bytes": v[1]} for k, v in sorted(l5dirs.items())},
+        "firmware": deep["firmware"], "pdf_scan": deep["pdf_scan"],
+        "appledouble": deep["appledouble"], "cad": deep["cad"],
+    }
+    summary["grand_total_artifacts"] = summary["artifacts"] + len(l4_files) + len(l5_files)
+    summary["grand_total_artifact_bytes"] = (summary["artifact_bytes"] + l4_bytes + l5_bytes)
     json.dump(summary, open(f"{D}/00-manifest/SUMMARY.json", "w"),
               ensure_ascii=False, indent=2)
 
@@ -64,7 +83,8 @@ def main():
     L.append("| 目录 | 57 个子目录 + 根目录，最深 5 层 |")
     L.append(f"| 源字节总量 | **{fmt(summary['source_bytes'])}** bytes (≈787.97 MB) |")
     L.append(f"| 产物文件总数 | **{fmt(summary['grand_total_artifacts'])}**"
-             f"（{fmt(summary['artifacts'])} + {fmt(len(l4_files))} 压缩包成员） |")
+             f"（{fmt(summary['artifacts'])} 一级 + {fmt(len(l4_files))} 压缩包成员"
+             f" + {fmt(len(l5_files))} 深层内容） |")
     L.append(f"| 产物字节总量 | **{fmt(summary['grand_total_artifact_bytes'])}** bytes |")
     L.append(f"| 产物字符总量 | **{fmt(summary['artifact_chars'])}** 字符 / {fmt(summary['artifact_lines'])} 行 |")
     L.append("| 缺漏文件数 | **0** |\n")
@@ -91,7 +111,8 @@ ingest/angora-1__arena-01a0ce39__5acb613/
 ├── 01-text-verbatim/        392 个文本类文件：逐字节原样副本（sha256 已复验）
 ├── 02-extracted/            178 个 Office/PDF/PSD/AI/CDR：全量文本抽取
 ├── 03-binary-meta/          211 个图片/视频/固件：字节身份 + 内在属性
-└── 04-archive-members/      压缩包解层：每个成员各自成产物 + ARCHIVE-MEMBERS-INDEX.csv
+├── 04-archive-members/      压缩包解层：每个成员各自成产物 + ARCHIVE-MEMBERS-INDEX.csv
+└── 05-nontext-content/      “无法文本化”项目的深层内容：固件全解 / 扫描 PDF / AppleDouble / CAD
 ```\n""")
     L.append("### 4.1 一级层（781 源文件 → 781 产物，1:1）\n")
     L.append("| 产物类别 | 文件数 | 处理方式 | 完整性保证 |\n|---|---:|---|---|")
@@ -130,14 +151,32 @@ ingest/angora-1__arena-01a0ce39__5acb613/
     L.append("4. `04-archive-members/` — 压缩包内逐成员全文/元数据\n")
     L.append("排序规则：UTF-8 路径字典序（与 `git ls-files` 一致），100% 可复现。\n")
 
-    L.append("## 6. 已知的物理限制（不是遗漏）\n")
-    L.append("| 项 | 说明 | 数量 |\n|---|---|---|")
-    L.append("| 扫描/矢量 PDF 无文本层 | 页级已标注 `[page has no extractable text layer ...]`，页面未丢弃 | 3 个文件 3 页（另有 2 个 `._*` AppleDouble 伪 PDF 成员）|")
-    L.append("| 旧版二进制 .doc | Word97 FIB + CLX 分片表解码，正文逐字还原；版式不可文本化 | 6 个文件 |")
-    L.append("| .pub / .cdr / .ai 二进制 | 可打印串 / RIFF 块表 / PDF 兼容层抽取；图形版式不可文本化 | 4 / 2 / 2 个文件 |")
-    L.append("| RAR 成员解压 | 沙箱无 unrar：成员字节由容器 sha256 锁定；14/15 成员另有散文件覆盖，1 个成员版本不同已标注 | 1 个压缩包 |")
-    L.append("| 62 MB 固件 `lite-hotfix-7.3.13.bin` | 记录头部魔数 + 前 8 KiB 串 + sha256，全文非文本 | 1 个文件 |")
-    L.append("| 86 MB CAD `PC0012-000.step`（嵌套 7z 内） | 记录容器 sha256 + 完整条目表，不展开入库 | 1 个成员 |")
+    L.append("## 6. 原先“无法文本化”的五类，现在的实际入库深度\n")
+    fw = deep["firmware"]
+    L.append("| 项目 | 数量 | 已入库到什么层级 | 产物 |\n|---|---|---|---|")
+    L.append(f"| 扫描/矢量 PDF | 3 个文件 3 页 | 页级 notes（尺寸/绘制算子/字体/内嵌图清单）"
+             f"+ 内嵌位图原样 4 张 = {deep['pdf_scan']['images']} 个 | `05-nontext-content/pdf-scan/` |")
+    L.append(f"| `.bin` 固件 62 MB | 1 | **完全解开**：XZ → tar（3 成员）→ UBI → UBIFS，"
+             f"入口 {fmt(fw['entries'])} 条；文本 {fmt(fw['text_files'])} 个 / "
+             f"{fmt(fw['text_bytes'])} B 逐字节副本；非文本 {fmt(fw['binary_files'])} 个 "
+             f"逐个 sha256；upgrade.cfg 声明的 md5 与实算**一致** | "
+             f"`05-nontext-content/firmware/…` |")
+    L.append(f"| `.psd` 之外的 CAD STEP | 1（嵌套 7z） | 头段原文 + 全文件 "
+             f"{fmt(deep['cad']['step_lines'])} 行实体直方图（{fmt(deep['cad']['entities'])} 条实体 / "
+             f"{deep['cad']['entity_types']} 类） | `05-nontext-content/cad/` |")
+    L.append(f"| `__MACOSX/._*` AppleDouble | 8 | 逐字段解析（magic/version/Finder type+creator/"
+             f"资源叉偏移）；例：`PDF `/`ART5`、`JPEG`/`8BIM` | `05-nontext-content/appledouble/` |")
+    L.append(f"| `.pub` ×4 / `.ai` ×2 / `.cdr` ×2 | 8 | OLE 流清单 + 可打印串全量（不抽样）+ "
+             "`.cdr` RIFF 块表 + `.ai` PDF 兼容层文本 | `02-extracted/` |")
+    L.append("")
+    L.append("仍然存在的硬限制（已逐条标注，不是遗漏）：\n")
+    L.append("| 项 | 说明 |\n|---|---|")
+    L.append("| 扫描件无 OCR | 沙箱无 tesseract，且这些是土耳其语证照/保修书；"
+             "已存位图与算子清单，不做文字猜测 |")
+    L.append("| RAR 载荷 | 无 unrar 二进制、`unrar-cffi` 编译失败：成员字节由容器 sha256 锁定；"
+             "15 个成员中 14 个另有散文件覆盖，1 个版本不同已标注 |")
+    L.append("| `.pub` 版式 | MS Publisher 二进制正文流无公开规范解码器：字符全量但版式不可复原 |")
+    L.append("| 86 MB STEP | 逐行统计而非整体入库：几何文件本身由 sha256 锁定 |")
     L.append("")
     L.append("## 7. 复核方式\n")
     L.append("```bash\n# 16 项完整性校验（文件数/路径集合/字节总量/逐一 sha256/空产物/目录层级/压缩包成员）\n")

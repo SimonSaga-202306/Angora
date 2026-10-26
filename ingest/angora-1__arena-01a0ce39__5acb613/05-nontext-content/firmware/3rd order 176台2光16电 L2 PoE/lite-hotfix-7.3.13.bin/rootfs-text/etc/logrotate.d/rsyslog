@@ -1,0 +1,15 @@
+/var/log/all
+/var/log/syslog
+/var/log/mstp.log
+/var/log/wtmp
+{
+	rotate 3
+	daily
+	missingok
+	minsize 10M
+	delaycompress
+	compress
+	postrotate
+		invoke-rc.d rsyslog rotate > /dev/null
+	endscript
+}

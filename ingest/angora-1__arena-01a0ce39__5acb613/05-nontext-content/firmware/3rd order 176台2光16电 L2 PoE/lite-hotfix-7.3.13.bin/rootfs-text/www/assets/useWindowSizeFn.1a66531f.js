@@ -1,0 +1,1 @@
+import{bn as e,aq as n,a5 as t}from"./vendor.85ccbe3d.js";function r(r,s=150,i){let o=()=>{r()};const a=t(o,s);o=a;const d=()=>{i&&i.immediate&&o(),window.addEventListener("resize",o)},c=()=>{window.removeEventListener("resize",o)};return e((()=>{d()})),n((()=>{c()})),[d,c]}export{r as u};

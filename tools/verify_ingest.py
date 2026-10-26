@@ -197,12 +197,64 @@ def main():
           f"{len(all_dirs)} directories, max depth "
           f"{max(len(f.split('/')) for f in files)} levels")
 
+    # ---- layer 05: deep content of the "non-text" files ----
+    deep = json.load(open(os.path.join(DST, "05-nontext-content", "DEEP-INGEST.json")))
+    fw = deep["firmware"]
+    check("19 firmware container chain verified (xz->tar->UBI->UBIFS, md5 self-check)",
+          fw["root_md5_ok"] and fw["uboot_md5_ok"] and
+          fw["members"] == ["rootfs.xz", "upgrade.cfg", "uboot.bin"],
+          f"members={fw['members']}, rootfs md5 match={fw['root_md5_ok']}, "
+          f"uboot md5 match={fw['uboot_md5_ok']}")
+
+    fwdir = os.path.join(DST, "05-nontext-content", "firmware",
+                         "3rd order 176台2光16电 L2 PoE", "lite-hotfix-7.3.13.bin")
+    txt_on_disk = sum(len(fs) for _, _, fs in os.walk(os.path.join(fwdir, "rootfs-text")))
+    check("20 firmware rootfs: every text file materialised verbatim",
+          txt_on_disk == fw["text_files"],
+          f"{txt_on_disk} files on disk vs {fw['text_files']} declared "
+          f"({fw['text_bytes']:,} bytes)")
+
+    bin_rows = sum(1 for _ in open(os.path.join(fwdir, "rootfs-binary-index.tsv"),
+                                   encoding="utf-8")) - 1
+    check("21 firmware rootfs: every non-text file pinned by sha256",
+          bin_rows == fw["binary_files"],
+          f"{bin_rows} rows vs {fw['binary_files']} binaries ({fw['binary_bytes']:,} bytes)")
+
+    scan = list(csv.DictReader(open(os.path.join(DST, "05-nontext-content", "pdf-scan",
+                                                 "SCAN-INDEX.csv"), encoding="utf-8")))
+    missing_img = [r["artifact"] for r in scan
+                   if not os.path.isfile(os.path.join(DST, "05-nontext-content",
+                                                      r["artifact"]))]
+    notes = []
+    for r, _, fs in os.walk(os.path.join(DST, "05-nontext-content", "pdf-scan")):
+        notes += [f for f in fs if f.endswith(".notes.md")]
+    check("22 scanned PDF pages: image payloads + per-page notes preserved",
+          not missing_img and len(notes) == 3,
+          f"{len(scan)} images, {len(notes)} page notes, missing: {missing_img or 'none'}")
+
+    cad = deep["cad"]
+    cad_file = os.path.join(DST, "05-nontext-content", "cad",
+                            "PC0012-000.step.header.md")
+    cad_hist = sum(1 for line in open(cad_file, encoding="utf-8") if line.startswith("| `"))
+    check("23 nested CAD STEP: header + full entity histogram extracted",
+          os.path.isfile(cad_file) and cad_hist >= cad["entity_types"],
+          f"{cad['step_lines']:,} lines, {cad['entities']:,} entities, "
+          f"{cad['entity_types']} types, {cad_hist} histogram rows")
+
+    ad = deep["appledouble"]
+    ad_files = [f for f in os.listdir(os.path.join(DST, "05-nontext-content", "appledouble"))
+                if f.endswith(".parse.json")]
+    check("24 macOS AppleDouble sidecars parsed field by field",
+          len(ad_files) == ad["appledouble_members"],
+          f"{len(ad_files)} parsed, well-formed {ad['well_formed']}, "
+          f"unparsable {ad['placeholder']}")
+
     summary = json.load(open(os.path.join(DST, "00-manifest", "SUMMARY.json")))
     checks.sort(key=lambda c: int(c[0].split(" ")[0]))
-    check("18 total artifacts = 781 primary + archive-member layer",
-          len(recs) + len([f for f in l4 if not f.endswith(".csv")]) ==
-          summary["grand_total_artifacts"],
-          f"{len(recs)} + {len(l4) - 1} = {summary['grand_total_artifacts']}")
+    l5_n = summary["layer_05_nontext_content"]["artifacts"]
+    check("25 total artifacts = 781 primary + layer 04 + layer 05",
+          len(recs) + (len(l4) - 1) + l5_n == summary["grand_total_artifacts"],
+          f"{len(recs)} + {len(l4) - 1} + {l5_n} = {summary['grand_total_artifacts']}")
     total_chars = summary["artifact_chars"]
     checks.sort(key=lambda c: int(c[0].split(" ")[0]))
     ok_all = all(c[1] for c in checks)
@@ -215,8 +267,10 @@ def main():
              f"- artifact bytes: **{summary['artifact_bytes']:,}**",
              f"- artifact characters: **{total_chars:,}**",
              f"- archive-member artifacts (layer 04): **{len(l4) - 1}**",
+             f"- deep-content artifacts (layer 05): **{summary['layer_05_nontext_content']['artifacts']}**",
              f"- total artifacts: **{summary['grand_total_artifacts']}** "
-             f"(781 primary + {len(l4) - 1} archive members)",
+             f"(781 primary + {len(l4) - 1} archive members + "
+             f"{summary['layer_05_nontext_content']['artifacts']} deep-content)",
              f"- result: **{'PASS' if ok_all else 'FAIL'}**", "",
              "| # | check | result | detail |", "|---|---|---|---|"]
     for name, ok, detail in checks:
@@ -232,7 +286,9 @@ def main():
               f"| binary metadata artifacts | {len(meta)} |",
               f"| files with no artifact | {len(files) - len(recs)} |",
               f"| archive-member artifacts (layer 04) | {len(l4) - 1} |",
-              f"| **total artifacts** | **{len(recs) + len(l4) - 1}** |", ""]
+              f"| deep-content artifacts (layer 05) | "
+              f"{summary['layer_05_nontext_content']['artifacts']} |",
+              f"| **total artifacts** | **{summary['grand_total_artifacts']}** |", ""]
     with open(os.path.join(DST, "00-manifest", "VERIFICATION.md"), "w",
               encoding="utf-8") as fh:
         fh.write("\n".join(lines) + "\n")

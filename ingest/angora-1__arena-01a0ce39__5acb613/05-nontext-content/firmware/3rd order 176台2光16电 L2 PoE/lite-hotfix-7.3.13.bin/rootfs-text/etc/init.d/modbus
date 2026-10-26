@@ -1,0 +1,58 @@
+#! /bin/sh
+
+### BEGIN INIT INFO
+# Provides:             modbus-agent
+# Required-Start:       $remote_fs $syslog
+# Required-Stop:        $remote_fs $syslog
+# Default-Start:        2 3 4 5
+# Default-Stop:
+# Short-Description:    Modbus agent
+### END INIT INFO
+
+set -e
+
+. /lib/lsb/init-functions
+
+export PATH="${PATH:+$PATH:}/usr/bin:/sbin"
+
+case "$1" in
+  start)
+        log_daemon_msg "Starting Modbus agent" "modbus-agent" || true
+       if start-stop-daemon --start -b --quiet --oknodo --pidfile /var/run/modbus-agent.pid -m --exec /usr/bin/modbus-agent; then
+#  if daemon --pidfile /var/run/modbus-agent.pid /usr/bin/modbus-agent; then
+            log_end_msg 0 || true
+        else
+            log_end_msg 1 || true
+        fi
+        ;;
+  stop)
+        log_daemon_msg "Stopping Modbus agent" "modbus-agent" || true
+        if start-stop-daemon --stop --quiet --oknodo --pidfile /var/run/modbus-agent.pid; then
+            log_end_msg 0 || true
+        else
+            log_end_msg 1 || true
+        fi
+        ;;
+
+  reload|force-reload)
+        exit 3
+        ;;
+
+  restart)
+        $0 stop && sleep 2 && $0 start
+        ;;
+
+  try-restart)
+  exit 3
+        ;;
+
+  status)
+        exit 3
+        ;;
+
+  *)
+        log_action_msg "Usage: /etc/init.d/modbus {start|stop|restart}" || true
+        exit 1
+esac
+
+exit 0

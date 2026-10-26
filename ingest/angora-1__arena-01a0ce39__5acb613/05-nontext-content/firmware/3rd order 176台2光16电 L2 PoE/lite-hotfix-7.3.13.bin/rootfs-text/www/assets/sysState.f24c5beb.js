@@ -1,0 +1,1 @@
+import{x as t}from"./vendor.85ccbe3d.js";import"./index.f64c21c2.js";const e=t({id:"app-sys-state",state:()=>({state:null,clean:!1}),getters:{getState(){return this.state},getClean(){return this.clean}},actions:{setState(t){this.state=t},setClean(t){this.clean=t}}});export{e as u};

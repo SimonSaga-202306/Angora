@@ -1,0 +1,29 @@
+#!/bin/bash
+# Attention: no .sh suffix for run-parts
+
+debugfile= #/tmp/dhcpcmgmt.txt
+msg=
+
+case $reason in
+BOUND)
+    msg="interface=$interface;reason=$reason;ip=$new_ip_address;mask=$new_subnet_mask;router=$mod_routers;old_routers=$old_routers"
+    ;;
+RELEASE)
+    msg="interface=$interface;reason=$reason;ip=$new_ip_address;mask=$new_subnet_mask;router=$mod_routers;old_routers=$old_routers"
+    ;;
+BOUND6)
+    msg="interface=$interface;reason=$reason;prefix=$new_ip6_address/64;router=$mod_routers;old_routers=$old_routers" # $new_ip6_prefixlen is also hardcoded, and diff in ac5/lite
+    ;;
+RELEASE6)
+    msg="interface=$interface;reason=$reason;old_prefix=$old_ip6_address/64;old_routers=$old_routers" # $old_ip6_prefixlen is also hardcoded, and diff in ac5/lite
+    ;;
+*) #echo "Please make sure the option is start/stop."
+    ;;
+esac
+
+if [ -n "$debugfile" ]; then echo "=====================================================================================" >>$debugfile && echo $msg >>$debugfile && env >>$debugfile; fi
+if grep MAC5 /proc/cmdline >/dev/null 2>&1; then # is this enough?
+    if [ -n "$msg" ]; then echo $msg | nc -u 127.0.0.1 3000 -c; fi
+else
+    if [ -n "$msg" ]; then echo $msg | nc -u 127.0.0.1 3000 -q 0; fi
+fi

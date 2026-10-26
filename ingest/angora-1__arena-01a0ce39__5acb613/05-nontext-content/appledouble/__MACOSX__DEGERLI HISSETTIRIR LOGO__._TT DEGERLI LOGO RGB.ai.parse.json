@@ -1,0 +1,32 @@
+{
+  "archive": "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip",
+  "member": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB.ai",
+  "bytes": 210,
+  "sha256": "01c0d4676231d1aeffc6d5b3eb76626adffce4d3b79eb03a5ed525e6674f255d",
+  "kind": "AppleDouble (macOS metadata sidecar)",
+  "version": "0x00020000",
+  "filler_hex": "4d6163204f5320582020202020202020",
+  "entry_count": 2,
+  "finder_type": "PDF ",
+  "finder_creator": "ART5",
+  "entries": [
+    {
+      "id": 9,
+      "name": "finder_info",
+      "offset": 50,
+      "length": 160,
+      "in_bounds": true,
+      "finder_type_code": "PDF ",
+      "finder_creator_code": "ART5"
+    },
+    {
+      "id": 2,
+      "name": "resource_fork",
+      "offset": 210,
+      "length": 0,
+      "in_bounds": true
+    }
+  ],
+  "truncated": false,
+  "note": "macOS 元数据旁文件（Finder 类型/创建者码、资源叉）。本体文档在同目录同名正式成员中已完整入库；此处把旁文件结构逐字段解析出来。"
+}

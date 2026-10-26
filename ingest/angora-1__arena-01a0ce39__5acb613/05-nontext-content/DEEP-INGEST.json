@@ -1,0 +1,32 @@
+{
+  "firmware": {
+    "text_files": 4881,
+    "text_bytes": 39164587,
+    "binary_files": 2118,
+    "binary_bytes": 118280374,
+    "entries": 9655,
+    "root_md5_ok": true,
+    "uboot_md5_ok": true,
+    "members": [
+      "rootfs.xz",
+      "upgrade.cfg",
+      "uboot.bin"
+    ],
+    "tar_bytes": 98078720
+  },
+  "pdf_scan": {
+    "pdfs": 3,
+    "images": 4
+  },
+  "appledouble": {
+    "appledouble_members": 8,
+    "well_formed": 8,
+    "placeholder": 0
+  },
+  "cad": {
+    "step_bytes": 89837796,
+    "step_lines": 1857292,
+    "entity_types": 62,
+    "entities": 1427383
+  }
+}
