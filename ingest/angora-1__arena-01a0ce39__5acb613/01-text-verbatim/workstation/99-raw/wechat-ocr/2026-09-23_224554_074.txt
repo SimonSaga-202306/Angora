@@ -1,0 +1,387 @@
+# SOURCE: Weixin Image_2026-09-23_224554_074.png
+# SIZE: 1548x20196  SLICES: 20
+############################################################
+Levent KILIC
+2025-8-6 14:16
+Hi Simon, how are you doing?
+We are finally expecting the signed order this week. Contractual issues have been addressed.
+I know it has taken this long.
+Big customers like Turk Telekom, every department (finance, legal, procurement) is a kingdom in itself
+Hi, Levent,
+I am good, thanks. How are things there?
+Thats great news
+Yes, it takes long time to lock this order, I understand
+Thanks for your efforts.
+Actually our production dept checked the order status with me for a few times
+but as you said, it takes time and patience, haha
+2025-8-6 14:42
+I know, I have been telling partner and customer that we need time for manufacturing. We need to get
+moving... The customer iscreating a time pressure on them selves...
+We hope to get good news soon
+thanks again for your efforts, I will check with production dept now
+lets see
+Levent KILiC: We hope to get good news soon
+yess. thanks for your support and patience
+2025-8-6 15:33
+Hi, Levent,
+Just checked with the production dept, we have a POTENTIAL problem with leadtime(6 weeks)
+It's about the chips
+1, we need to get Marvell chips from our supplier in HK
+But now, the supplier told us the chip inventory is currently low
+Best to finalize this project IN THIS WEEK
+2, or it is an option to pay some deposit, we get the chips now
+then we will NEVER worry about leadtime whenever this project is finalized
+Please let me know.
+Thanks
+I understaand...I will check with the customer again today
+ok, thanks .
+the sooner, the better
+2025-8-6 15:50
+According to our chip supplier, if we cannot lock the chips from current inventory
+The leadtime will be VERY long(26 weeks) after all the materials are consumed
+Please do let your client know leadtime could be a huge problem if this project cannot be finalized soon
+I understand...
+thanks, Levent
+I understand...
+thanks, Levent
+I know this is an awkward situation now
+We just let your client know whats going on, do our part
+They will decide, and we act accordingly
+2025-8-6 16:04
+Yep. Thanks.
+2025-8-19 01:49
+Hi Simon, still waiting for the confirmed order.
+Good news the number is going up to 1,500
+Not so good news, still waiting for official order
+Wll keep you updated minute by minute this week
+2025-8-19 02:33
+Hi, Levent,
+Thanks a lot for your info.
+I am now travelling and will be back to work from 21st.
+1, very glad to know that the quantity increased.
+2, that's great, lets keep in close touch about the progress.
+3, just a small question, the leadtime will still be a big concern, right?
+thanks
+3- I' m not sure about that.
+Probably yes
+3- I' m not sure about that.
+Probably yes
+But the order is delayed too much. So may be there is room for negotiation
+ok. lets see.
+I will check on possible leadtime and let u know.
+Thanks
+Thanks... great
+Safe travels
+2025-8-19 02:38
+thanks
+2025-8-28 16:16
+Hi Simon, how are you doing ?
+Still traveling or back home already?
+Hi, Levent.
+I am good, back to work already.
+Actually today I would like to send you a message
+Its about the Amazon and TT order
+And
+Shopify store(its similar to Amazon, but a different strategy)
+suddenly I remember that PayPal is not available in Turkey, right?
+2025-8-28 16:23
+unfortunately no paypal in Turkey :-( That's a problem
+suddenly
+I remember that PayPal is not available in Turkey, right?
+2025-8-28 16:23
+unfortunately no paypal in Turkey :-( That's a problem
+We are waiting for confirmed order from Telekom. Final paperwork about the order
+it is about 1,100 pcs
+I will ask you to contact the GBIS (SFP) manufacturer for us.
+Karen, right?
+Levent KILlC: I will ask you to contact the GBIS
+(SFP) manufacturer for us.
+2025-8-28 16:40
+correct
+Did you complete testing of the SFP modules? All okay I think?
+2025-8-28 16:46
+doing the test now, I will send report when available
+okay great... Thank you
+thanks
+2025-9-4 16:44
+Hi, Levent,
+1, testing reports are available now.
+The sfp modules are fine(commercial and industrial grade)
+But still, we strongly suggest using industrial grade sfp modules on industrial switches.
+2, last time I mentioned Shopify, maybe you can try it.
+It is like Amazon, about online sales, but much simpler
+1, testing reports are available now.
+The sfp modules are fine(commercial and industrial grade)
+But still, we strongly suggest using industrial grade sfp modules on industrial switches.
+2, last time I mentioned Shopify, maybe you can try it.
+It is like Amazon, about online sales, but much simpler
+The payment is collected via PayPal
+I know PayPal is unavailable in Turkey, but its fine in UK
+Before Amazon is for UK market, right?
+Perhaps you can think about Shopify UK
+Cost for Shopify is not much
+You can try to learn about this platform
+3, how is TT project?
+Thank you.
+2025-9-4 16:44
+75.00
+-39.93
+电源指示
+故障报警
+POWER  LIGHT
+FAILURE
+电源指示
+故障报警
+POWER LIGHT
+FAILURE
+Hi Simon, many thanks for the reports. Now feel much more confident about the solution. I will check with
+Karen regarding the cost of the industrial. If it is within budget, we can prefer industrial version to make
+sure.
+am now sending the email
+I will check Shopify. That may be an easier entry level
+sure
+Levent KILIC: Hi Simon, many thanks for the
+reports. Now feel much more confident about th...
+I think so, please check, its easier and cost MUCH less than Amazon
+Levent KILlC: I will check Shopify. That may be an
+easier entrylevel
+We are waiting the final confirmed order. Telekom finance caused some trouble about the letter of credit
+from the partner. Yhey are now resolving it
+so everything is settled about switch discussion? just the official approval?
+Levent KILlC:We are waiting the final confirmed
+order. Telekom finance caused some trouble abo...
+so everything is settled about switch discussion? just the official approval?
+Levent KILiC: We are waiting the final confirmed
+order. Telekom finance caused some trouble abo...
+2025-9-4 16:49
+yes correct... We expect 1,oo0 pcs order... Finger crossed...
+I know it has talen very long time...
+We are also very sorry about this delay.
+Still chasing though
+haha, its fine, patience is key in life@
+lets just make it good
+yep... it is a big virtue
+2025-9-4 17:04
+2025-9-25 15:56
+Hi, Levent,
+How are you?
+1, any update about the TT order?
+2, would like to let you know that, we have this feature now.
+it helps reduce operation and maintenance costs
+This feature is available in some L2/L3 models, we will add it to more models soon.
+Thanks
+2, would like to let you know that, we have this feature now.
+it helps reduce operation and maintenance costs
+This feature is available in some L2/L3 models, we will add it to more models soon.
+Thanks
+Supportfanmonitoringand
+dualPSUstatusmonitoring
+DualACInput
+2025-9-25 16:40
+Hi Simon, that'  s just great feature.
+We are also waiting for this order very much.Already too late
+Keeping our fingers crossed
+We are also waiting for this order very much.Already too late
+Keeping our fingers crossed
+I understand next week is a holiday in China ???
+haha, what is the situation now? TT is delaying or still about some governmental procedures?
+2025-9-25 16:42
+yes, National Day. It lasts a week
+Levent KILiC: I understand next week is a holiday
+in China ???
+then after this, no long holiday till Spring Festival(in 3 to 4 months)
+best if we could lock TT order in Oct or Nov
+It' s paperwork with the partner. Letter of credit, contract, all stupid stuff
+Yep that' s the intention
+OK, we waited for long.
+Lets just still wait and pray
+And perhaps you can check on this
+NewProposal-Hi Simon, we areworl
+W
+AgendaforWe...
+AgendaforWeChat meeting at2025.dc
+there are some interesting points
+AgendaforWeChatmeetingat2025.dc
+there are some interesting points
+2025-9-25 16:48
+Sure  good idea.
+Let me work on this and share the latest update
+ok, thanks.
+from our side, we think this TT order will bring our cooperation to a new stage.
+And we would also like to know more about your business patterns etc.
+So lets wait and see
+Yep
+same here. Looking at a big order in one shot
+2025-9-25 16:54
+please read the proposals again when you are free
+Some points are interesting.
+About TT order, lets wait and see, not much we can do now.
+2025-10-23 17:28
+Hi Slmon, hope all is well with you. Long time no speak...
+Our TT order is already delayed longer than planned. The partner is trying to solve some financial issues.
+They never say no, but i am a little worried now. We gave them a deadline until the end of the month to
+comeupwith a solidyes/noresponse
+Hi, Levent. I am good, hurt my leg on the holiday, its good now, haha
+How are you?
+This has put us in a very awkward situation. I'm sorry about this personally.
+Hi, Levent. I am good, hurt my leg on the holiday, its good now, haha
+How are you?
+This has put us in a very awkward situation. I'm sorry about this personally.
+oh so sorry to hear..I hope you get well back soon
+Simon: Hi, Levent. I am good, hurt my leg on the
+holiday, its good now, haha How are you?
+we have started planning for 2026 sales/ marketing etc.
+its good now, going to the gym today
+Levent KILiC: oh so sorry to hear.. I hope you get
+well back soon
+Goog good... Anything for the quick recovery
+we are too, as you may notice, we have not updated Q4 datasheets
+we are planning something
+Levent KILlC: we have started planning for 2026
+sales/marketing etc.
+thanks, haha
+Levent KILlC: Goog good... Anything for the quick
+recovery
+about the TT order, dont worry
+I am sure you have poured plenty of time in this project
+never feel sorry about this
+we are one team
+lets just wait and see
+anything we can do for you?
+Levent KILlC: we have started planning for 2026
+sales/ marketing etc.
+anything we can do for you?
+Levent KILlC: we have started planning for 2026
+sales/ marketing etc.
+Yes I will come back to you with some questions and input for the planning.
+2025-10-23 17:33
+I will workover theweekend and sendyou a draftMonday
+OK
+Please just let me know.
+I will combine the resources here and do the best
+2025-10-23 17:35
+thanks...
+besides this, do you need any extra support or something?
+Levent KILlC: Yes I will come back to you with
+some questions and input for the planning.
+I will check
+thank you, yes for 2026 we will need a lot of cooperation.
+OK, pls just include everything in the list if possible
+yes
+2025-10-23 17:41
+thanks, looking forward to it
+2025-10-23 18:10
+2025-11-3 16:32
+Hi, Levent.
+Just to let you know that
+we are checking the reply from Taylan
+I will send a response asap
+thanks, and sorry for this trouble
+2025-11-3 16:55
+Hi Simon, many thanks. It's a strange problem.. Confusing to identify the real challenge
+Thank you for your support
+we are checking the reply
+and actually still Taylan did not very explitecly describe the problems
+lets see, I will let u know soon
+It is a smart traffic project, there are cameras all around. The problem is that some frames are lost during
+video transmission. And since it is a traffic cameras, the video streaming is important
+2025-11-3 17:01
+got it.
+we will send a reply soon, probably some more questions for you
+got it.
+we will send a reply soon, probably some more questions for you
+sure...no worries
+any news about TT order and 2026 planning?
+2025-11-3 17:08
+No update about the TT order still :-(
+2026 planning I will share this week
+almost complete
+ok, thanks
+pls confirm if possible to do a remote control?
+the faulty switch and good switches on site(MUST BE ON SITE)
+we will check the configuration, compare the configurations etc.
+yes they are all on site
+I will check remote control option
+2025-11-3 17:13
+ok, thanks
+2025-11-3 20:14
+你撤回了一条消息
+ok, thanks
+2025-11-3 20:14
+你撤回了一条消息
+Hi again, Levent
+Got the email from Taylan
+when can we set up the remote control?
+it seems urgent, your clients are very upset..
+2025-11-3 20:22
+Let me check.
+OK
+2025-11-3 20:37
+I spoke to Taylan. We can setup a AnyDesk remote connection at 10:00 your time tomorrow morning.
+That is 05:00 Turkish time
+Wouldthatworkforyou
+checking
+2025-11-3 20:48
+5am Turkish time isnt too early?
+after remote control, we are talking about the switches on site, right?
+2025-11-3 21:07
+Yes correct.We will connect to the real switches in the field
+2025-11-3 21:07
+Yes correct.We will connect to the real switches in the field
+OK
+5am is OK with you?
+2025-11-3 21:25
+Yes, it should be okay... Taylan said so
+Ok
+2025-11-3 21:36
+just confirme with our engineer, its basically OK
+there is no need to prepare anything for now
+we will first check and see whats going on
+okay...
+sorry for this trouble
+no worries. thank you for your support
+2025-11-4 09:45
+good morning, Levent
+pls let me know when you are ready
+good morning, Levent
+pls let me know when you are ready
+2025-11-4 10:01
+Hi Simon do we have a chat group with Taylan and engineer on your end
+Let me check
+a moment pls
+2025-11-4 10:06
+lets do Anydesk now?
+2025-11-10 14:37
+Hi Simon, how are you doing?
+Just spoke to our poartner for Turk Telekom project.
+Despite all the delay, they say the project is still alive and are trying to finalize paperwork asap
+I justwanted toshare the update.
+Hi, Levent,
+Good to know this
+thanks for your efforts along the way
+Any more feedback about the 16 port switch?
+I mean the after-sales project
+2025-11-10 14:43
+Any more feedback about the 16 port switch?
+I mean the after-sales project
+2025-11-10 14:43
+You mean the industrial one we have tested last week?
+yes
+No updates yet... All seems to be quiet.
+2025-11-10 14:48
+This week we will plan installing an NMS monitoring software to collect logs
+We will check form there
+ok, pls let us know if there is any news
+sure.. will keep you updated at every step
+is planning for 2026 ready?
+ALmost. Will share this week with you
+ok thanks
+2025-11-25 14:42
+Hi, Levent,
+anv news about the II oroiect?
+2025-11-2514:42
+Hi, Levent,
+any news ahout the TT nroiect?
+%
+(
+Send

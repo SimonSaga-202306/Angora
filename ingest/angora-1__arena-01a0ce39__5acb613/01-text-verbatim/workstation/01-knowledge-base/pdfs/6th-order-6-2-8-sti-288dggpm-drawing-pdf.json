@@ -1,0 +1,11 @@
+{
+  "source": "6th order 6台工业2光8/STI-288DGGPM drawing.pdf",
+  "pages": 1,
+  "chars": 209,
+  "content": [
+    {
+      "page": 1,
+      "text": "131mm\n1\n3\n9\n10\n9 10\nUSB Data\n2\n4\n５\n７\n６\n８\nP S\n115mm 54mm\n158mm\n176mm\n51mm58.7mm\n44mm\n48.3mm\n9mm\n48.3mm\nConsole\n115200，8，N，1\nReset\nNon-PoE：DC 12-58V; PoE:DC 44-57V\nPWR1 PWR2\nVout Vo+\nVo-\nDI+\nDI-\nA\nB\nRS485RelayDI"
+    }
+  ]
+}

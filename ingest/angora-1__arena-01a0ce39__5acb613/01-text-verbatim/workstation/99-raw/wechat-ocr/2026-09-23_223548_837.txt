@@ -1,0 +1,224 @@
+# SOURCE: Weixin Image_2026-09-23_223548_837.png
+# SIZE: 1542x12327  SLICES: 12
+############################################################
+Levent KILIC
+2024-5-27 17:29
+你撤回了—条消息
+So this is about
+The left column is of the project requirements
+If STC-424XGGM could be an equivalent of your existing model(or even better)?
+Absolutely
+Ok, got it.
+I will let u know
+Thanks
+thanks, Levent
+2024-5-29 12:22
+Hi Simon
+Any updates about the RFP responses?
+2024-5-29 13:25
+Hi, Levent
+2024-5-29 13:25
+its not ready yet
+is it urgent?
+its not ready yet
+is it urgent?
+some items are a little technical
+2024-5-29 14:00
+No problem. This week Friday is okay
+OK, we are working on it now
+i will let u know
+2024-5-29 17:09
+I made a reply, please check, Levent
+2024-5-29 17:18
+Thanks. I will check it now
+OK, thanks
+2024-6-6 10:28
+Hi Simon, how are you doing today
+Many thanks for your support
+Good morning, Levent
+Many thanks for your support
+Good morning, Levent
+I am about to write a reply mail about the query last night
+Please let me know if you will share a new software that supports the features Taylan discussed yesterday
+Thank you
+Simon: I am about to write a reply mail about the
+query last night
+thanks
+projects. But this is needed only sometimes.
+However stacking feature is a sign of enterprise grade device
+Honestly "stack" feature is not easy for most small companies
+So I will appreciate if you can also check how is the possibility of a stacking feature in Marvell versions only
+Agreed
+Simon: Honestly "stack" feature is not easy for
+most small companies
+2024-6-6 10:35
+checking
+Levent KILlC: So I will appreciate if you can also
+check how is the possibility of a stacking feature ..
+I will make a conclusive reply on email soon
+Thank you
+I will make a conclusive reply on email soon
+Thank you
+thanks, Levent
+2024-6-6 11:15
+I made a reply, pls check
+Got your email. Thanks.
+sorry for the mistake in the manual..
+2024-6-6 11:18
+Let's see what we can do with what we have
+No worries
+OK, thanks, Levent.
+Thanks
+2024-6-14 19:48
+Hi Simon, how are you doing today? Hope all is well.
+Just sent you an email about a hot project.
+Can you pls check the email and respond as soon as you can.
+2024-6-14 21:55
+Hi, Levent.
+2024-6-14 21:55
+Hi, Levent.
+I am good, thanks
+got your email, let me check and reply
+thanks
+2024 6 14 22:32
+Thanks.
+I just made a reply
+its about the RFP format
+also, what is your expected production time?
+Just sent you the PDF version
+We will need shipment within a week after the order
+yes, i got it, checking now
+ok
+Levent KILlC: We will need shipment within a week
+after the order
+2024-6-14 22:43
+Great. Thank you
+i will give a conclusive reply tomorrow, OK?
+Great. Thank you
+i will give a conclusive reply tomorrow, OK?
+We need to check point by point and confirm
+now i am at 7.20 7.21
+Oh okay. Almost done
+Thanks  for the effort Simon
+Thanks, Levent.
+I will give a thorough and conclusive reply tomorrow
+That' s great. Thanks
+2024-6-15 18:17
+Hi, Levent. I made a reply, pls check, thanks
+Hi Simon, many thanks for your prompt reply
+2024-6-15 18:19
+I will get Taylan, as our CTO to review your responses.
+HTTPS is the main issue
+Ok, thanks
+As far as I see, only HTTPS is the challenge.
+Ok, thanks
+As far as I see, only HTTPS is the challenge.
+We have our own brand SFPs
+We also have our own management software
+We have to confirm
+1. SFlow
+2 Ip/Port/MAC based Access Lists
+3. SNMP MiB Files
+I understand these 3 points are okay
+can you pls confirm ?
+do you mean confirm 1 2 3?
+1. SFlow
+2 Ip/Port/MAC based Access Lists
+3. SNMP MiB Files
+yes, that's correct
+for https, we have another Marvell chip as a solution, but it takes too long to stock and manufacture..
+Ok
+Levent KILIC: yes, that's correct
+2024-6-15 18:25
+Let's check with Taylan and customer. I am not sure how much time we have
+Simon: for https, we have another Marvell chip as
+a solution, but it takes too long to stock and ma..
+All supported
+Simon: do you mean confirm 1 2 3? 1. SFlow 2 Ip/
+Port/MAC based Access Lists 3. SNMP MiB Files
+its now just about HTTPS
+All supported
+Simon: do you mean confirm 1 2 3? 1. SFlow 2 Ip/
+Port/MAC based Access Lists 3. SNMP MiB Files
+its now just about HTTPS
+OK, thanks
+Levent KILlC: Let' s check with Taylan and
+customer. I am not sure how much time we have
+2024-6-15 18:30
+Thanks again for your quick response
+thanks, Levent
+2024-7-2 14:12
+Hi Simon, how are you doing today ?
+I just sent you an email with a question. Can you pls confirm with your technical team for the response?
+Many thanks
+Hi, Levent. I am good, thanks.
+hows everything there?
+let me check my email box now
+All good, thankyou.. waiting foryour response
+ok, thanks
+2024-7-9 15:36
+Hi Simon, how are you doing ?
+2024-7-9 15:36
+Hi Simon, how are you doing ?
+Can you pls share the Price List for Commercil Realtek switches ?
+Hi, Levent. I am good here
+Yes
+We are trying torevise our own product catalogue
+Commercial Ethernet.pdf
+PDF
+2.2M Not Downloaded
+微信电脑版
+Thanks
+still there is a google drive link containing the model information
+2024-7-9 15:38
+if you need to check, pls just log in and download
+Lcvcnt KILlC: Wc arc trying to rcvisc our own
+productcatalogue
+will appreciate that too... Can you pls give me the link again. I will add it to my drive
+https://drive.google.com/drive/folders/1wNsTvziltiWj1YykyM9yNyLUx4F62ZJK?usp=sharing
+its about this
+2024-7-9 15:52
+great. thank you
+thanks, Levent.
+2024-7-11 19:31
+Hi Slmon, many thanks for your response to Taylan's email. He also just responded to you.
+I understand we will need to go up one level to a higher Marvel processor to provide https and sftp
+features.
+Am I understanding correctly ?
+That gives us a lead time for manufacturing? Correct ?
+2024-7-11 19:46
+Hi, Levent. Thanks for your info
+Yes, it' s another variant of previous Marvell chip
+Levent KILiC: I understand we will need to go up
+one level to a higher Marvel processor to provid..
+HTTPS is not a big issue with this new chip
+Sftp is the problem, the chip supports it but we need to develop it
+In the reply file, I explained the sftp thing(we need more info from u to evaluate it)
+Sftp is the problem, the chip supports it but we need to develop it
+In the reply file, I explained the sftp thing(we need more info from u to evaluate it)
+I will check soon, out of the office now
+Levent KILiC: Hi Slmon, many thanks for your
+response to Taylan's email. He also just responde...
+2024-7-11 19:55
+Thanks for your reply. Taylan explained in hie eamil about the requirements for sftp feature... Thanks
+202471120:00
+Ok, I will check soon(in one hour)
+Thanks
+2024-7-12 11:50
+Hi, Levent
+I just sent an email, pls check when available and let me know, thanks
+2024-7-12 12:29
+Hi Simon. Will do. Thanks
+2024-8-6 16:05
+2024-7-12 12:29
+Hi Simon. Will do. Thanks
+2024-8-6 16:05
+Hi Slmon, how are you doing today ?
+We have the 3124-TX in the office. We need to show customer Layer 3 features
+Software Version: release/7.1.0 (r957 74ad5d5)
+Hi, Levent. I am good, thanks
+how are things there?
+This is the software version on the switch
+2024-8-6 16:06
+B
+Send

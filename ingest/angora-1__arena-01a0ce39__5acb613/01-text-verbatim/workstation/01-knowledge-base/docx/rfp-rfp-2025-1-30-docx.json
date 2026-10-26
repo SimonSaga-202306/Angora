@@ -1,0 +1,66 @@
+{
+ "source": "RFP/RFP_2025.1.30.docx",
+ "chars": 340,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "Supplier: LT-IS6310G-2GX8GT"
+  },
+  {
+   "type": "p",
+   "data": "Seller: STI-280DGGM"
+  },
+  {
+   "type": "p",
+   "data": "Buyer: ANW-1108-V"
+  },
+  {
+   "type": "p",
+   "data": "合同号：STSC20241021007"
+  },
+  {
+   "type": "p",
+   "data": "是客户之前下的一个样品，当时的出货WEB图如下"
+  },
+  {
+   "type": "p",
+   "data": "客户想把这个样品发给他客户测试"
+  },
+  {
+   "type": "p",
+   "data": "该客户为Turk Telekom, 非常大的一个客户"
+  },
+  {
+   "type": "p",
+   "data": "需求"
+  },
+  {
+   "type": "p",
+   "data": "改logo型号及其他简单序列号信息，基本还是常规定制"
+  },
+  {
+   "type": "p",
+   "data": "时间：We have been invited for a test on February 3rd."
+  },
+  {
+   "type": "p",
+   "data": "Logo文件：ZIP文件（里边有AI源文件，直接使用即可）"
+  },
+  {
+   "type": "p",
+   "data": "型号：TT-2208-TG"
+  },
+  {
+   "type": "p",
+   "data": "序列号/MAC信息：暂无，我稍后问一下客户"
+  },
+  {
+   "type": "p",
+   "data": "我这边和客户说7号，是返工后的第一个周五"
+  },
+  {
+   "type": "p",
+   "data": "能快就快，快不了就按照这个时间来就行"
+  }
+ ]
+}

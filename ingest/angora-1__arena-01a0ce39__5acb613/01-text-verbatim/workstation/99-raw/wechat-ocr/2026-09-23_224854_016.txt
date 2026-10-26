@@ -1,0 +1,658 @@
+# SOURCE: Weixin Image_2026-09-23_224854_016.png
+# SIZE: 1546x27554  SLICES: 27
+############################################################
+Levent KILIC
+3/16 Monday 14:57
+Hi Simon, here is the output from Taylan. It seems the chipset is Vitesse
+Switch# sh ver
+MEMORY
+: Total=89563 KBytes,Free=77465 KBytes, Max=77424 KBytes
+FLASH
+:0x40000000-0x40fffff,256x0x10000blocks
+MAC Address
+: 20-77-59-11-fd-74
+SN
+Previous Restart : Cold
+System Contact
+System Name
+: Switch
+System Location :
+Timezone Offset : 0
+Systcm Timc
+: 1970 01 01T00:00:37+00:00
+System Uptime: 00:00:37
+Active Image
+Image
+: DIS-300G-10PS_V00.00.03B01_8GTP-2GF-RH_PSE8B-F2 REV3.5_PSE-8AT-MR
+REV1.1_8238B_202510201532.dat (primary)
+Version
+: v00.00.03B01
+Date
+: 2025-10-20T15:32:04+08:00
+Alternate Image
+Image
+: A0000000A8F3 (backup)
+Version
+: v00.00.10040
+Date
+: 2025-08-14T17:14:41+08:00
+Bootloader
+Image
+: RedBoot (bootloader)
+Version
+: version 1_20-Vitesse
+Date
+: 23:33:21, Mar 23 2020
+SID : 1
+Chipset ID
+: ASIC
+Board Type
+: Switch Board
+Port Count
+:10
+Product
+: DIS-300G-10PS Switch
+Software
+00.0003B01
+Chipset ID
+: ASIC
+Board Type
+: Switch Board
+Port Count
+:10
+Product
+: DIS-300G-10PS Switch
+Software Version : v00.00.03B01
+Build Date
+:2025-10-20T15:32:04+08:00
+Switch#
+thanks
+better if there is a specific chip name: Taylan should know how to get it
+but it is not urgent
+pls go on with your testing
+this helps a lot
+Levent KILIC: Switch# sh ver MEMORY
+Total=89563 KBytes, Free=77465 KBytes, Max=7...
+since there is no console connection, it looks difficult.
+The PCB is also covered
+3/16 Monday 15:03
+ok, dont worry
+this should be good for now
+thanks
+3/16 Monday 15:34
+Thank you Simon.
+3/16 Monday 16:32
+Hi again, Levent
+it is Vitesse 7428 chip
+I know this chip well, sorting out the features and prices
+Hi again, Levent
+it is Vitesse 7428 chip
+I know this chip well, sorting out the features and prices
+great thanks Simon..
+now we should focus on point 2: DLINk price from your tender
+ok working on it
+I will let u know if we have any progress here
+thanks
+thanks Simon
+3/18Wednesday 19:35
+Hi Simon, here is the latest on the pricing... It is a difficult deal..
+The end user price is $140 from last year.
+3/18Wednesday19:35
+This is the end user price
+Part of it is for the partner margin.
+it includes switch + power supply + 1G SFP
+let's discuss when you have the time
+3/18 Wednesday 19:43
+let's discuss when you have the time
+3/18Wednesday 19:43
+m in the gym now
+Yes, I will check and reply
+Thanks
+3/18Wednesday 19:53
+Aha ha ha
+2
+good luck
+3/19 Thursday 13:29
+Hi, Levent,
+We are finalizing the info and will give a detailed report soon
+1. Compliance
+2. Price
+3. Explanation
+Thanks
+3/19 Thursday 13:39
+Great. Thanks Simon... Pls keep in mind we have an option for SFP from NEM Engne. You have tested their
+products before. Their proce / quality atio is very good so far.
+3/19 Thursday 13:39
+Great. Thanks Simon... Pls keep in mind we have an option for SFP from NEM Engne. You have tested their
+products before. Their proce / quality atio is very good so far.
+But we dont have anyone for Power Supply. May be you can help us on that front.
+yes I get it
+3. Explanation
+this will include everything
+I will let u know soon
+3/19 Thursday 14:45
+Thanks. Looking forward to it
+3/23 Monday 13:29
+Hi, Levent,
+I hope you had a good weekend
+1. Compliance
+Our models will be
+STI-288DGGPM with DI/DO/RS485 for industrial switch
+STC-424DGGPM-280W for commercial switch
+They are good for this project
+2. Price
+The recent continuous rise in the prices of memory chips and non-ferrous metals (such as copper and iron)
+has directly and significantly impacted raw material costs.
+Here is our offer
+It is in RMB and NOT including optical modules
+STI-288DGGPMwithDI/DO/RS485:850RMB/SET
+Including 1*switch, 1*120W MEANWELL Power supply NDR-120-48, 1*1-meter SC-LC patchcord,
+customized packing box
+WITHOUT network cable(it is not mentioned in the tender)
+And there is MoQ for this, 500pcs
+STI-288DGGPMwithDI/DO/RS485:850RMB/SET
+Including 1*switch, 1*120W MEANWELL Power supply NDR-120-48, 1*1-meter SC-LC patchcord,
+customized packing box
+WITHOUT network cable(it is not mentioned in the tender)
+And there is MoQ for this, 500pcs
+Or we cannot get the best material prices from our suppliers
+STC-424DGGPM-280W:830RMB/SET
+Including 1*switch, normal packing box(not customized, it is not mandatory), 1*3-meter CAT6e network
+cable(the length and quantity are NOT mentioned in the tender, so we just add this spec in the quotation),
+WITHOUT patchcord(it is not mentioned in the tender), necessary mounting accessories
+And it is based on 200~300 pieces as you mentioned, the quantity needed in this tender
+Those 2 quotations are valid before 2026.08.31
+3. Explanation
+3.1 Confirmation
+As the quotation goes, CAT6e network cable(the length and quantity are NOT mentioned in the tender
+For the switches, it will be samples for testing and approval first, right?
+Let's say when it passes
+The bulk order will be completed in one time or in several times?
+Is there any new info we need to work on?
+3.2 Payment
+We quoted RMB
+The exchange rate now is very unstable
+USD-RMB or USD-LIRA
+We opened a bank A/C that collected LiRA, I mentioned this before.
+So it is more flexible for you
+3.3 Shipment
+We can choose a slower and cheaper one to save the cost
+3.4 As I explained above, memory chips and non-ferrous metals are significantly influencing the final offer
+I believe the competitors are also suffering from this
+I did simple math
+Our offer 850RMB + optical module(let's say 30RMB) and shipping cost
+This will roughly make it 140USD/SET
+Plus your and your partner's profit, the final offer will be around 200USD/SET?
+Tough...
+So, please let us know if you have any info about the competitors in the tender
+We will see if there is anything extra we can do
+Thanks
+lougn.
+So, please let us know if you have any info about the competitors in the tender
+We will see if there is anything extra we can do
+Thanks
+3/23Monday13:37
+Hi Simon, many thanks for the detailed analysis. I will work the numbers, discuss with the client and we will
+try our best to
+yes thanks
+honestly for pricing, we can do a little better, but just a little?
+the material cost is increasing too much
+we have to save a little room for that, so a little better!
+Oh I know. With all the Al investments and the wars going on, the raw material supply and even
+transportation is changing daily.
+I hope the customers will also understand this.
+Let' s keep numbers as is for discussion now
+yes, changing every day
+actually we have received many supplier letters for increasing the material cost
+丰达兴实业涨价通知函
+(1).pdf
+PDF
+340.3K
+QQ邮箱
+北斗星联络函.pdf
+PDF
+240.5K
+微信电脑版
+北斗星联络函.pdf
+PDF
+240.5K
+微信电脑版
+3/23 Monday 13:42
+so thats why there is MoQ
+3/23 Monday 13:42
+its a lot of pressure...
+Totally understand
+thanks, lets see how to make it better
+3/23 Monday 13:53
+3/24 Tuesday 20:11
+Hi Simon, the Turkish Police published the RFP today. The tender is on April 28 and 29th.
+The one on28th is for3,300pieces of industrial
+The one on 29th is for 600 pieces of industrial and 200 pieces of 24-port
+No changes in the RFP text, that's good news
+Hl, Levent, thanks for this
+There is a NEW draft for anotther rfp at Turkish Police, this one is for 1,085 pieces of industrial (same
+switch). No date published for tendering
+its a month away, we will go through the items for a few more times to ensure compliance
+switch). No date published for tendering
+its a month away, we will go through the items for a few more times to ensure compliance
+I have complied an Excel file for financial analysis. Still work in progress, plan to share it with you after I
+review it with the partner
+then its price, we will try better
+yep, thanks. we make sure we got everything right on the documentation side
+no problem, I will handle it
+Levent KILlC: yep, thanks. we make sure we got
+everything right on the documentation side
+thanks... as always
+3/24 Tuesday 20:16
+if compliance is not a problem, we focus on cutting the cost
+As I explained, there is some slight room for a discount
+we will do our best
+yep... compliance seems okay.
+lets see...
+I will go through it for a few more times, a month away
+I think Turkish Police will get the best switches ever when we win the tender ;-)
+They have been getting some shitty switches
+if compliance is behind us, we can just focus on pricing and new information
+They have been getting some shitty switches
+if compliance is behind us, we can just focus on pricing and new information
+am not sure
+Levent KILlC: They have been getting some shitty
+switches
+from the RFP content, the switch spec is not very complicated
+yes sure... compliance is done for now with
+but Dlink proposed Vitesse 7428 solution
+Aha ha ha...
+Simon: I am not sure
+I guess there are some hidden requirements maybe.
+but I will just make sure the required specs on paper are just fine
+3/24 Tuesday 20:20
+for now, I can say the models are good enough for this RFP
+i guess pricing would be a big headache!
+yes
+agreed
+lets see, we will do our best
+I will also check transportation cost from time to time
+then you will have an updated estimation of the total cost before import
+I will also check transportation cost from time to time
+then you will have an updated estimation of the total cost before import
+yes we should plan for sea transportation, but not sure how long it will take...
+May be we can go crazy and plan for land (truck) transportation too
+I will check from time to time, dont worry
+Levent KILlC: yes we should plan for sea
+transportation, but not sure how long it will take...
+Truck may be safer and shorter than sea transportation these days
+I will also check
+lets just work out every possible option
+yes, thanks
+thanks
+3/30 Monday13:29
+Hi Slmon, how are you ? We plan to work on financing with the partner this week.
+Just wanted to check financing options in case they ask me
+Is Letter of Credit an option ?
+Or a combination ? like 30% upfront payment and 70% L/C
+Hi, Levent,
+I am good, thanks
+work
+onfinancing?
+Hi, Levent,
+I am good, thanks
+work on financing?
+meaning?
+Its a discussion with your partner?
+Sorry, we do not do L/C
+30%/70% TT is OK
+btw, what would be the payment from the Turkish policy?
+They will pay you after getting the materials AND approval?
+3/30 Monday 13:39
+Yes, Turkish Police will pay ONLY after final acceptance, meaning all the equipment is received and
+inspected.
+My estimation is roughly speaking $500K needed for equipment, transfer,etc, another $10oK for VAT at the
+time of import.
+So the partner would need to finance around $60ok for 4-6 months depending on the project timeline.
+I get it, its a lot and a big burden
+about the tender, it should be
+1. we submit the model info
+2. wait for evaluation and competition
+3. probably some samples for testing?
+I mean before the official order
+3/30 Monday 13:44
+Yes, absolutely correct
+So if and when we win the tender on 28th April, the contract and order will probably take a month to come
+through, i.e. end of May 2026
+I see, we will discuss internally and let u know
+probably it will still be 30%/70% TT
+pls try to use this term to negoniate with your partner and collect their feedback
+I see, we will discuss internally and let u know
+probably it will still be 30%/70% TT
+pls try to use this term to negoniate with your partner and collect their feedback
+3/30 Monday 13:53
+understood.
+and pls also share what you expect from us
+we need to have a comprehensive evaluation, not talking about payment in isolation
+the material cost is a big problem now, we have many in stock
+this is also big pressure, honestly its best that we can collect full payment asap
+3/30 Monday 14:00
+okay. thanks.. will try to make it as smooth as possible for us both
+This is for your eyes only please... Just check to see my analysis and any inputs are welcome.
+3/30 Monday 14:04
+3/30 Monday 15:17
+just finished a meeting, thanks, let me check
+3/31Tuesday 11:50
+Good morning, Levent,
+1. Transport
+it will not cost that much even if we do UPS express
+Roughly 50K YUAN by the current rate
+Good morning, Levent,
+1. Transport
+it will not cost that much even if we do UPS express
+Roughly 50K YUAN by the current rate
+We also talked about sea or truck options
+This might be a channel to save the cost
+2. FX Risk Contingency
+Though the exchange rate is changing rapidly
+Perhaps you can talk with the bank to lock the exchange rate(Forward Contract)
+might be helpful
+3. VAT Financing Cost
+Is partial shipment available? this is also impacting shipping cost.
+This will help save your cost within 6 months, or at the very least, more controllable
+financially, this is our advice.
+And payment must be T/T 30%/70%, we do not do L/C
+If partial shipment is allowed, it would be easier for both.
+I will go through the product specs again to confirm full compliance.
+And send a list of to-confirm details, though you might not have answers now
+But it will help us control the situation
+thanks
+3/31 Tuesday 12:01
+Hi Simon, many thanks for the feedback. I m planning a meeting with the partner today. Will keep you
+posted following the meeting
+ok thanks
+4/1 Wednesday 12:50
+Hi Simon, I had a meeting with the partner yesterday. I am trying to sort out the VAT financing issue. I will
+have another meeting with a distributor on Thursday. This is to use as an intermediary in Dubai. So the
+partner may import the goods without paying any VAT. So there will not be any cost of VAT financing.
+I also asked the partner to ask for a quotation from DLink. Just to see what they' re offering price is like.
+partner may import the goods without paying any VAT. So there will not be any cost of VAT financing.
+I also asked the partner to ask for a quotation from DLink. Just to see what they' re offering price is like.
+Also trying to sort out the financing with partners as well. It is not easy to finance $5oo,0o0 for 4 to 6 months.
+4/1Wednesday13:29
+Hi, Levent,
+this is very good, a big save!
+Levent KILIC: Hi Simon, I had a meeting with the
+partner yesterday. I am trying to sort out the VA..
+yes pls
+Levent KILiC: I also asked the partner to ask for a
+quotation from DLink. Just to see what they'
+re
+Understand
+Levent KILiC: Also trying to sort out the financing
+with partners as well. It is not easy to finance $5..
+I will try to look at realtek options
+just checking its a feasible solution.
+I will let u know
+4/1 Wednesday 14:59
+Okay thanks. Looking forward to hearing from you
+thanks
+4/2 Thursday 21:23
+Hi Simon, pls check the draft document attached. I will share our standard data sheet as well.
+LTaniks
+4/2 Thursday 21:23
+Hi Simon, pls check the draft document attached. I will share our standard data sheet as well.
+May be we can do a new datasheet just for this Turkish Police version. as in the attached file
+ANW-IND-8P-2SFP_Datas
+heet.pdf
+PDF
+191.5K
+微信电脑版
+ANW-2023-INDUSTRIAL-
+DATASHEET-202...5-TR.pdf
+PDF
+1.1M
+微信电脑版
+pls see the highlighted words on the draft doc
+Hi Levent, I am reading the English versio
+yes, it is good
+maybe we can just include every line of required spec in this new datasheet
+Levent KILlC:May be we can do a new datasheet
+just for this Turkish Police version. as in the attac...
+pls check page 4
+is it better if add some mroe info?
+4/2 Thursday 21:28
+is it better if add some mroe info?
+4/2 Thursday 21:28
+sure. i can share the word file if you wish to edit
+eg: about alarm output, actually I/O is an option, SNMP trap will also give an alarm
+but just dont know which type is needed in this tender
+we can write both
+4/2 Thursday 21:28
+ANW-IND-8P-2SFP_Datas
+heet.docx
+W
+30.4K
+微信电脑版
+i can check.
+eg: about the PoE/PoE+ for all 8 ports
+we can add, all 8 PoE ports support 15.4w/30w
+just feed enough power(240w PsU=8*30W per port, 120W=8*15.4W per port)
+something like this
+about power budget, we will deliver 120w power supply... is there a 120w version of the switch? from a
+cost perspective does it make sense?
+no big difference
+great
+now PoE chip just supports PoE/PoE+
+great
+now PoE chip just supports PoE/PoE+
+thats fine
+will go through the datasheet and give feedback
+4/2 Thursday 21:34
+Great. Thanks. Good night  for you now
+still in the office, haha
+oh no :-(
+working on some documentation matters
+oh okay.. let me go away not to disturb you... googd luck
+this weekend, I will check all the available options here and let u know
+models, shipping options etc.
+okay great. i hope DLink pricing information will come by then too
+Levent KILlC: oh okay.. let me go away not to
+disturb you... googd luck
+ok pls keep me posted
+Levent KILIC: okay great. i hope DLink pricing
+information will come by then too
+Levent KILIC: okay great. i hope DLink pricing
+information will come by then too
+4/2 Thursday 21:39
+just on a final note: Probably we will ask for the SFP modules ship to your side and be added into the
+packing boxes. One in each.
+And I would ask you to pay them for procurement.
+yeah
+this is fine
+Levent KILiC: just on a final note: Probably we will
+ask for the SFP modules ship to your side and be...
+thanks
+so you pay us, we take care of all the rest?
+get modules from the supplier, pack it, and pay this supplier?
+Levent KILlC: And I would ask you to pay them for
+procurement.
+4/2 Thursday 22:10
+That' s the plan
+4/2 Thursday 22:26
+ok, no problem!
+4/2Thursday 22:46
+ok, no problem
+4/2 Thursday 22:46
+4/8 Wednesday 13:43
+Hi, Levent,
+1. About shipment
+Express is NOT an option, it is too expensive.
+We will only consider sea shipment
+Cost is 50K~70K RMB, I am still waiting for info...
+According to this shipping forwarder, it seems to be DDP
+This sounds good because it includes import duty and customs
+But, there is also risk in this
+Let me explain how this works
+Those shipping forwarders got many registered companies around the world
+Mostly shell companies, but it is legally fine
+They will act as the importer, their info will show on the tracking document
+they will do the customs clearance, pay the import duty etc.
+Once materials received, it will be shipped to final and real buyers like Angora
+This is not rare in foreign trader, well, it is kinda frequent actually
+We did it many times for various clients
+The importer on the tracking info will be a local shell company registered by the shipping forwarder
+this may cause 2 main problems
+One is the import itself, this is a big project, total value is huge
+It is really worrying if something is wrong in import.
+Typically, it will be just fine, BUT, it is still a potential risk!!
+The other is the info on the tracking document
+you are handing the materials over to the police and get payment AFTER approval
+So it will be, will they demand exactly the same info between bid winner(Angora) and real importer(a local
+shell company)
+Similarly, Certificate of Origin, financial auditing etc.
+If they say, it must be the same info, it will be a big problem for you to get the payment from the police!!
+That is also why it is very slow to get the DDP cost now, waiting for 2 days
+2, About Realtek model
+If they say, it must be the same info, it will be a big problem for you to get the payment from the police!!
+That is also why it is very slow to get the DDP cost now, waiting for 2 days
+2, About Realtek model
+I checked another option, price is much better, but the features are not good enough
+There are incompliances
+We better stickwith Marvell models
+Lets still try to optimize it
+the serious part is shipment!
+any news?
+Levent KILIC: okay great. i hope DLink pricing
+intormationwill come by then too
+4/8 Wednesday 14:13
+Hi Simon,
+I will write a long message to tell about the progress with partners. For now we have two potential partners
+discussing. Dealing seems to be aggressive to get this year's tender as well. They are not disclosing prices
+for this year. They will give it to partners in the last minute as usual in a tendering process. But last year 's
+price was around $142 and user pricing. And the partners were not happy and complaining that they did
+not make any money on this pricing.
+I have a theory working on the Turkish lira inflation rates et cetera to estimate this year' s pricing on a Us
+dollar basis. I will explain it in a longer message. I' m driving now. So this is a dictation message.
+4/8 Wednesday 15:38
+Hl, Levent, thanks for your info, yes pls waiting
+4/9 Thursday 15:00
+Hi, Levent, any news?
+ialiksToT
+4/9 Thursday 15:00
+Hi, Levent, any news?
+In inna meeting now. I' Il call.I' Il write back to you.
+Λ thanks
+4/9 Thursday 18:35
+Hi Simon, i have had a meeting with the partner today. DLink is trying to visit a few partners as well
+We will wait until last minute to give partners pricing.
+It is very tough competition. But we will try our best
+4/9 Thursday 18:57
+Hi Levent
+so its about the pricing, right?
+4/9 Thursday 19:10
+basically yes
+as I said, I tried a Realtek option, price is much better
+some features are not good enough, you can say, non or partial compliant
+do we need to study it?
+i don't think so. It would be a problem to deliver partially compliant product
+let's see what we can do.
+i don't think so. It would be a problem to deliver partially compliant product
+let's see what we can do.
+OK, I will also think it over here
+4/9 Thursday 19:16
+thank you...I texted Karen about SFP pricing. It is also available now. We can save some more money in
+shipping them inside the same box, even installed on the swithces
+4/9 Thursday 20:56
+thanks
+4/10 Friday 12:11
+Hi Levent,
+Once again about shipment, and once again express is NEVER an option, too expensive
+In my last reply, I talked about a DDP solution
+Not receiving a reply yet...
+At the same time, I checked another option
+that is FOB
+1. it is still by sea, shipping time is roughly the same, 1~2 months
+2. for this option, cost is about 20K RMB
+3. it will be your side handling the customs clearance, duty etc.
+Now lets look at the price chart
+Before, transport was 75K, much much less!
+One important question is about import duty and customs
+you wrote 1.5%
+is this a fixed rate? based on invoice value?
+As you can see from the chart, for material cost
+there is not much we can do, its saving is just minimal or even negligible
+We should try to work on saving other costs
+Like shipment, like VAT financing cost etc.
+This is big
+there is not much we can do, its saving is just minimal or even negligible
+We should try to work on saving other costs
+Like shipment, like VAT financing cost etc.
+This is big
+About product, lets stick with Marvell
+As we discussed yesterday, Realtek seems not working, some non- or partial- compliant items
+Thanks
+4/10 Friday 12:11
+this does not help much as I explained
+Levent KILlC: thank you.. I texted Karen about SFP
+pricing. It is also available now. We can save som...
+we should focus on something big
+at the same time, exchange rate issue
+I have a theory working on the Turkish lira
+inflation rates et cetera to estimate this year’ s
+pricing on a US dollar basis. I will explain it in a
+longer message. I' m driving now. So this is a
+dictation message.
+United States Dollar to Chinese Yuan
+1Sb/ CMr - DIBRERCr
+6.8319+379% -0.26816M
+we dont really know whats coming next, maybe better or even worse
+this is also something big
+thanks
+4/10 Friday 12:51
+and i thought about the timeline when I was having lunch
+tender time: 23rd, Apr
+I guess it takes a week(maybe longer) to finalize the winner?
+then get a few samples to test
+this involves shipping time and testing time
+Probably it will be end of May when everything is finalize
+after that, its a formal order
+4K!
+it takes at least a month for production, quantity is big
+this makes it about end of June
+Shipping time: 1~2 months
+In all of this, there might be some delays in each steps
+When materials arrive, its probably early Sept or even end of Sept
+And
+we still need to think about approval issue
+document auditing, installation etc.
+When all is done, maybe its the end of this year!
+Then you can just get the payment from the police??
+Exchange rate would be a huge problem
+as u can see, there are too many unexpected or uncertain factors
+we need to think it over and get prepared!
+4/10 Friday 13:39
+Hi Simon sure. You are right.
+we need to think it over and get prepared!
+4/10 Friday 13:39
+Hi Simon sure. You are right.
+From your point, we will secure payment to you with shipment.
+We will manage the exchange risk on this end
+Hi Levent
+I mean we need to
+1. optimize the "big" items
+2. get prepared
+this is the point!
+from my analysis and estimation, there is indeed something we can do and optimize
+at the same time, I come to realize that this project just involves too many uncertainties
+we should just prepare ourself for that
+4/16 Thursday 11:34
+Hi Slmon, how are you doing today? I'm trying to finalize the costing structure. Here are a few points for
+you to confirm pls:
+1- Can you do 825 Yuan for the switch
+2- If you buy SFP module from NEM Engineering, can you arrange paperwork so Saga does not pay VAT to
+NEM. Becasue the SFP modules are to be exported?
+3- Are you okay with 30% upfront payment and 70% before shipment?
+4- Any arrangement with freight with ship?
+The tender on the 28th is for
+600 pcs 8-port and 200 pcs for 24-port
+The tender on the 29th is for 3,294 ocs 8-port
+Thetenderonthe29thisfor3,294ocs8-port
+hulead
+((
+Send

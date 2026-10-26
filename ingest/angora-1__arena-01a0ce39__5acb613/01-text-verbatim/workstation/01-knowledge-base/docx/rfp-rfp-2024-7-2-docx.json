@@ -1,0 +1,62 @@
+{
+ "source": "RFP/RFP_2024.7.2.docx",
+ "chars": 211,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "需求型号：LT-IS6310GP-2GX8GT"
+  },
+  {
+   "type": "p",
+   "data": "用于当地警察局安防项目"
+  },
+  {
+   "type": "p",
+   "data": "1.1.6"
+  },
+  {
+   "type": "p",
+   "data": "是否需要带Serial接口的设备？"
+  },
+  {
+   "type": "p",
+   "data": "1.1.7"
+  },
+  {
+   "type": "p",
+   "data": "是指正常的环网吧？"
+  },
+  {
+   "type": "p",
+   "data": "1.1.14"
+  },
+  {
+   "type": "p",
+   "data": "ICMP能支持吧？"
+  },
+  {
+   "type": "p",
+   "data": "目前在Web manual和CLI manual中均出现了该词条"
+  },
+  {
+   "type": "p",
+   "data": "1.1.25"
+  },
+  {
+   "type": "p",
+   "data": "请看一下是否满足，主要是借了IPC后的功能要求"
+  },
+  {
+   "type": "p",
+   "data": "其他的我看基本都OK"
+  },
+  {
+   "type": "p",
+   "data": "客户说：该类（2+8，PoE带管理）的询价后续会比较多"
+  },
+  {
+   "type": "p",
+   "data": "我稍后回复时会建议客户买样测试"
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+# SOURCE: Weixin Image_2026-09-23_223630_948.png
+# SIZE: 1537x13455  SLICES: 13
+############################################################
+Levent KILIC
+2024-8-6 16:06
+ok
+can you pls check if this supports Layer 3 features? How we can verify
+do you mean
+how to set/display L3 features on 3124-TX, then you can show it to your customer, right?
+2024-8-6 16:11
+correct
+OK. For this switch, the L3 features are basically about ARP, ECMP, IPV4/IPV6, VRRP, RIP, OSPF, BGP4, IS-IS.
+need to show those features, right?
+yep
+pls check CLI manual
+I will also confirm this with our engineer team
+thank you... will check now
+2024-8-6 16:33
+Hi Simon, ou engineer tested it. All is OKAY.. Thank you
+2024-8-6 16:33
+Hi Simon, ou engineer tested it. All is OKAY... Thank you
+We are discussing with a customer... Fongers crossed
+2024-8-6 16:47
+Hi, Levent. good to know that
+I just talked with our engineers, if its just about showing some L3 features, its not very difficult
+but if its about some very complex application&changes, it becomes very technical
+Thanks.. it seems our engineer also sorted out...
+No worries...
+I think you could understand this(you are an engineer too)
+L3 features are complex
+ok
+pls come to me if you need any support
+It is too early now. But I will come back to you for negotiations about
+STC-424XGGM L2+ and L3 pricing... The difference is too high... But that is not the point now.. Let's first try
+to get the technical approval from the customer.
+2024-8-6 16:52
+OK
+fyi: we have very very thin profit for commercial L2 switches(Marvell)
+its for marketing purpose
+OK
+fyi: we have very very thin profit for commercial L2 switches(Marvell)
+its for marketing purpose
+anyway, pls just let me know if you need any support(price, leadtime, technica...)
+I will do my best
+Thank you... One step at a time...
+2024-8-6 16:59
+Do you have full 24 x SFP version of the aggregation switches ?
+sure, thanks. Levent
+Not a combo version, SFP only
+1G based?
+Levent KILIC: Do you have full 24 x SFP version of
+the aggregation switches ?
+either.. 24 x SFP + 4x SFP+ or higher
+(24xSFP) + (4xSFP+)
+2024-8-6 17:00
+Absolutely
+48*1G+4*10G
+16*1G SFP+8*1G Comb0+4*10G
+Marvell, L3 based
+Can you also pls add these models to the Google drive ?
+its there
+Oh I cannot open the files though...
+Let me try again
+let me share it now
+Thanks
+https://drive.google.com/drive/folders/1VgbeAC66cd70p9xa9ed_rJ8sa02xk20v?usp=drive_link
+2024-8-6 17:10
+Thanks Simon... Appreciate it
+2024-8-6 21:21
+Hi Simon, another quick question for you :
+We plan to offer a bundle of industrial switch + 1G-LX SFP module..
+Would have an approved SFP ?
+We already have 2 SFP vendors, but may be we can bundle at your site?
+2024-8-6 22:20
+Hi, Levent. Thanks for your info
+Do you mean buying industrial switches from us, sfp modules from your previous vendors
+And gather all the materials at our place for single shipment?
+2024-8-6 22:35
+I just wanted to check if Saga can supply SFPs too
+Ok. Sorry, we do not have sfp modules
+2024-8-6 22:35
+I just wanted to check if Saga can supply SFPs too
+Ok. Sorry, we do not have sfp modules
+They are from our supplier
+Understand. No problem
+Not produced by ourself
+Just wanted to check
+Ok, thanks
+2024-8-6 22:37
+2024-8-15 16:08
+Hi, Levent,
+How are you?
+Its about 2 things
+1, is the project still alive?
+250pcs STI-280DDGM
+2, do you sometimes use high-speed switches?
+We are going to launch STH series(H=high-speed network)
+Its about 25G/40G/100G switches for data center and SME.
+Thank you.
+2024 8 15 16:30
+Hi
+Simon, thank you. Hope you are doing well too
+Thank you.
+2024 8 15 16:30
+Hi t Simon, thank you. Hope you are doing well too
+1- we are expecting the order for the 250 pieces. Actually we are expecting 375 pieces of order. Even better.
+Before the end of August
+2- Hi speed switches are interesting.
+let me check with sales guys
+3- we need to visit you in your factory some time.
+2024-8-15 16:36
+Hi, Levent,
+Thanks for your info.
+1, OK, are there any problems or requirements we need to think about?
+2, OK, pls let me know
+3, OK, when will this be? Like around ordering of this batch?
+ABout the requirements for the order, let me chek with the operations. Let's clear the list of reuirements to
+be more specific.
+We plan to make our visit to see this batch. Let's just see... That's the idea... There is also another trip
+planning to London. Will keep you posted
+Yes, that will be great.
+The discussion lasts long, some functions are OK but with strings attached, a new chip is adopted.
+Better make a list to clarify everything
+Levent KILlC: ABout the requirements for the
+order, let me chek with the operations. Let's clear..
+ok
+Levent KILlC: We plan to make our visit to see this
+batch. Let's just see... That's the idea... There is al..
+ok
+Levent KILlC: We plan to make our visit to see this
+batch. Let's just see... That's the idea.. There is al...
+2024-8-26 16:46
+Hi Slmon, how are you doing today? Have a nice week
+Do you have any updates about the Data Center models for switches ?
+Hi, Levent. I am good, thanks for asking
+how are things there?
+not yet
+we are just revising the software and datasheet
+this takes some time
+Levent KILlC: Do you have any updates about the
+Data Center models for switches ?
+about data center switch, is there any requirment or something?
+okay. no worries. We have a project that needed 1 or 2 units. Nothing urgent
+Do you have any models in the edge models supporting stacking ?
+no for current product list
+but for data center switches, we are adding stacking in the feature list
+its expected to be ready in a few months and will be ready for all data center models
+is there a specification like 32*100G or 2*40G or something?
+Levent KILiC: okay. no worries. We have a project
+that needed 1 or 2 units. Nothing urgent
+2024-8-26 16:52
+48x25Gbps model was asked
+that needed 1 or 2 units. Nothing urgent
+2024-8-26 16:52
+48x25Gbps model was asked
+Ok, let me check and get back to you soon
+thank you
+2024-8-27 15:23
+Hi, Levent.
+This is about the data center switch
+1.48x25Gbps model is on the list, but with a higher standard.
+The port is about 6*100G and 48*25G, 6 more 100G fiber ports
+2.lt is not ready yet and expected to be launched in 3~4 weeks.
+At the meantime, stacking function is not available in this launch, but our engineering team is developing
+it(it is a planned function)
+3.One important thing is, for this series we are using a domestic chip CENTEC(website is https://
+www.centec.com/). Its a very strong and competitive solution supplier in China.
+Not sure if this chip is acceptable to you.
+Because for industrial switches, it is all Marvell based.
+Please let me know, thanks
+2024-8-27 15:39
+Hi Simon. Many thanks for the update.
+I will check with Taylan and get back to you on this
+ok.
+I will check with Taylan and get back to you on this
+ok.
+3rd point: chip issue
+pls let me know, thanks
+2024-8-27 15:44
+Yep. We know Centec. Not very popular here. But let' s check
+great. you know this chip brand
+pls discuss with Taylan about how you would like to do data center switches
+testing purpose, business purpose(centered category or just on the shelf)
+soemthing liek that
+I think this helps to understand and decide if you are going to introduce some models of this series
+2024-8-27 15:50
+okay. thank you
+2024-9-10 17:04
+Hi, Levent
+saw this
+will you attend this exhibition?
+just curious
+2024-9-10 17:12
+Hi Simon, this is mainly for Defense sector
+We do not attend to this show
+We are more in commercial/ enterprise market
+We have a few projects at Defense
+2024-9-10 17:17
+thanks for the info
+any update about the industrial switch project?
+2024-9-10 17:30
+We have agreed on the order. Waiting for official PO
+Wewill
+money
+nextEriday,That'stheplan
+2024-9-10 17:30
+We have agreed on the order. Waiting for official PO
+We will transfer money
+next Friday. That' s the plan
+We will need software development as well
+Then we can update software in Turkey
+around 20th, right?
+Levent KILiC: We will transfer money
+next
+Friday. That' s the plan
+this is about the points we discussed before, right?
+Levent KILiC: We will need software development
+as well
+2024-9-10 17:36
+Yes and yes. Both correct
+2024-9-10 17:41
+thanks for the info
+I will confirm internally about the software, leadtime, materials.
+to make sure things are all OK
+2024-9-10 18:18
+Great thanks
+2024-9-17 00:12
+Hi, Levent
+am now traveling in Germany
+I got your email, thanks for the update
+Really bad luck that something is wrong with my PC
+I am trying to fix it
+I will make a reply to your email asap, thanks .
+Thanks. No worries
+Send

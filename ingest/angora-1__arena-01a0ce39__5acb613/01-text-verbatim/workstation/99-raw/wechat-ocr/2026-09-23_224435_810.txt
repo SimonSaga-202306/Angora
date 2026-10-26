@@ -1,0 +1,413 @@
+# SOURCE: Weixin Image_2026-09-23_224435_810.png
+# SIZE: 1536x25265  SLICES: 25
+############################################################
+Levent KILIC
+2025-6-26 13:30
+Hi Slmon, I was out at customer meetings all day yesterday. I will study your document very carefully today.
+I just need some time
+2025-6-26 13:35
+Good morning, Levent
+sure, its not urgent
+Thank you. It is VERY important. I just want to make sure I give enough attention to read it.
+By the way, pls keep us posted on the shipment of the 6 pcs whenever you are ready
+as always, no worries
+Levent KILiC: By the way, pls keep us posted on
+the shipment of the 6 pcs whenever you are ready
+thanks
+Levent KILIC: Thank you. It is VERY important. I
+just want to make sure I give enough attention t..
+2025-6-26 17:04
+Hi Simon, just sent you a new email about the previous topic of manufacturing?
+Can you pls take a look when you have the time
+Hi, Levent.
+thanks, let me check
+2025-6-26 17:11
+its mainly about the loT board, right?
+yes, that's correct
+ok
+actually for now, we probably need more info about this loT board
+for now, we just have a photo from you
+Pls let me know which of the 3 options you would like to move forward.
+We can provide all information, no problems
+We would definitely prefer that we work with Saga
+2025-6-26 17:22
+1, honestly we do not have any manufacturing lines or capabilities for this loT board
+2, lets say if we have more info about this board, what we do is,
+we talk with some suppliers we know well, they will manufacture this board, we will be acting as an
+assisting role...
+so your 3 options, it will be about option 2 or option 3
+2025-6-26 17:28
+understand... that;s great
+we will do our best to help with this loT board
+2025-6-26 17:28
+understand... that;s great
+we will do our best to help with this loT board
+its also part of this big project, right?
+is it confidential?
+we will SURELY need more info to move on...
+2025-6-26 17:32
+a photo is far from enough.
+yes it is the same project. I will sson share more information with you
+ok, thanks. we will do our best
+thanks
+2025-6-26 18:00
+Hi Simon, I just emailed you the ZIP file. I will share it from here too
+it is 9MB file
+PC0012_Saga.7z
+8.8M Not Downloaded
+hi, Levent.
+thanks, let me confirm internally and update u
+thanks
+thanks, let me confirm internally and update u
+thanks
+2025-6-2618:14
+1, our hardware engineer is assessing the info about loT board, thanks
+I will let u know if there is news
+2, 6 units are ready and will be shipped tomorrow
+I will let u know, thanks
+2025-6-26 18:33
+Thanks... great news
+I will soon upload the info the google drive folder
+thanks
+thanks Simon
+2025-6-26 21:52
+Hi, Levent
+2025-6-26 21:52
+I just replied your email
+perhaps its better if we could talk with your engineer about the loT board
+we need more info
+thanks
+2025-6-30 13:22
+Hi Simon how are you doing today
+Any updates about the shipment ?
+I have an idea about the ioT board. I am not sure if it is worth it. The idea is to reduce costs and increase quality
+I think it will be a lot more cost effective to use standard casings for the finished product. Is it possible to
+use one of the available casings for switches for this ioT board?
+It may be required to redraw the PCB from scratch? Is that possible?
+2025-6-30 13:29
+Hi, Levent
+its in the shipping agent's warehouse now, being processed
+Levent KILiC: Any updates about the shipment ?
+about the loT board, as mentioned in email, there will be a casing for it
+its in the shipping agent's warehouse now, being processed
+Levent KILlC: Any updates about the shipment?
+about the loT board, as mentioned in email, there will be a casing for it
+your idca is, usc onc of thc cxisting switch casings for thc loT board, savc timc and cost
+but this may need to redraw the pcb?
+2025-6-3014:03
+Correct
+Thanks
+Simon: its in the shipping agent's warehouse now,
+being processed
+The loT board will go in a casing to become a finished product
+2025-6-30 14:20
+Ok, we will check and let u know
+UPS/1Z0R01390431219736
+Thank you
+Working on a draft business plan to share with you. Just sent an email about it. Please allow us a few days
+thanks, I got it
+so now its basically about the casing, right?
+2025-6-30 14:27
+Well, I mean we will eventually need to place the board in a casing to become a product.
+2025-6-30 14:27
+Well, I mean we will eventually need to place the board in a casing to become a product.
+its this, right?
+Levent KILIC: I think it will be a lot more cost
+effective to use standard casings for the finished..
+My personal design philosophy is to use most standard components to minimise cost.
+But i' m not doing designing any more. So i leave it to engineers
+Right
+Simon: its this, right?
+haha, OK
+Levent KILlC: My personal design philosophy is to
+use most standard components to minimise cost...
+one of the available casings for switches
+do you mean our existing switch cases or something?
+2025-6-30 14:39
+Yes exactly
+An existing Industrial casing
+2025-6-30 14:40
+OK, I will now talk with our engineer and see if we can do
+maybe you need to redesign the pcb or something
+Exactly  that' s the challenge. We may need to redraw / redesign the pcb board. But I think it may be worth it.
+We need to find a casing any how
+Exactly  that' s the challenge. We may need to redraw / redesign the pcb board. But I think it may be worth it.
+We need to find a casing any how
+got it
+I am talking with our engineet
+Do you have engineering teams to redraw the PCB board? Or no ?
+we will let u know what we can do from our side
+Thanks great
+2025-6-30 16:21
+Hi again, Levent,
+2 issues
+1, the awb number has been updated
+Now it is 1Z0R01390404273719
+2, about the loT board case
+After internal discussion, we would like to know
+2.1: your expected leadtime for samples
+2.2: your expected case size
+samples
+If it is done by your side, we can send necessary info about our current switch case info
+You can redesign the pcb (do some modifications) for this switch case
+In order to minimize the workload, we will recommend a proper case, thats why we would like to know
+your expected size for the case
+2025-6-30 16:27
+Hi Simon, thank you for the information.
+1- okay. Will update accordingly
+2- i will update you after we discuss internally
+sure, thanks
+2025-7-1 17:40
+Hi Simon hiw are you today
+We expect 1,000 pcs of the iot board as well
+We discussed 2 options:
+1- if we keep current board design, can you provide us with a casing from your cases ?
+2- you can manufacture the current board and we can sort out the casing in Turkey.
+Hi, Levent,
+I am good, thanks.
+So those 2 options seem about not changing the PCB design for now, right?
+Option 1, maybe do some modifications to our existing case to be suited for this loT board
+Option 2, just manufacture the loT board, make sure it works fine(you will do testings)
+Then we will talk about case, maybe you will get the case locally
+Am I right?
+Option 2, just manufacture the loT board, make sure it works fine(you will do testings)
+Then we will talk about case, maybe you will get the case locally
+Am I right?
+2025-7-1 18:15
+That'  s absolutely true
+Any feedback from your team
+Ok
+actually we are waiting for your feedback, here we are now
+LeventKILlC:Anyfeedbackfromyour team
+this is our feedback
+Simon: Hi again, Levent, 2 issues 1, the awb
+number has been updated Now it is 1Z0R013904...
+now if case is not a critical problem at the moment, we will work on BOM list & cost, and the case
+2025-7-1 18:27
+We will need 10-15 samples wothin 3-4 weeks for the iot board, then we expect an order or 1,000
+got it, thanks
+I will let u know soon
+Now let's focus on BOM list and cost pls
+sure
+thanks
+sure
+thanks
+1, 6 units is on the way now
+2, working on this loT board now
+2025-7-1 18:28
+3, waiting for your feedback about the new proposals
+yep. for 3 I have had a few meetings yesterday and today. I will write to you in an email
+ok, thanks, no rush.
+lets take it slow and make it good
+yep. thanks
+2025-7-2 16:19
+Hi, Levent,
+After our internal overall discussion, I am very sorry to tell you that
+We may need to hold this loT board project for now due to below reasons
+1, it is not our focus, we actually would like the order of Ethernet switch. Then help work on this loT board
+issue
+Now it looks like we need to focus on this project
+2, our engineering team is now busy, and we are not fully familiar with this loT board BOM info
+It will take us much longer time to work on it
+Conclusion is, we will probably hold it for now and try to focus on the TT project (Ethernet switch)
+Then we will do our best about this loT board
+I am so sorry for this...
+Hi Simon, no worries. Thank you for your support as always.
+We will sort it out on our end.
+thls...
+Hi Simon, no worries. Thank you for your support as always.
+We will sort it out on our end.
+2025-7-2 16:24
+. I am so sorry for this
+Distraction is not a good thing.
+No no please don' t be. That' s okay.
+yes, we actually would like to focus on switche. on top of this, help work on this loT board production
+its busy here and some other practical reasons, we need to hold it for now
+2025-7-2 16:50
+That' s okay.  no worries
+thanks so much for your understanding
+Is there another company you can refer us to.
+May be another company be interested in this iot manufacturing.
+we will check and let u know
+It's just convenient to work with a familiar company you know
+got it
+If not, no worries either way
+got it
+If not, no worries either way
+we will do our best, give us some time pls
+Thanks. Sure
+2025-7-2 16:55
+2025-7-7 14:35
+Hi Simon, how are you doing today ?
+pls text me back when you are availabe
+2025-7-7 14:57
+Hi, Levent
+am good, thanks. Lets talk
+hi again, how are you doing?
+The big switch project is going on track. We are expecting developments soon
+So I just wanted to touch base with you for planning
+thats great
+2025-7-7 14:59
+There willbe a 10 pcs pilot order and then 800 or 1,000 order.
+2025-7-7 14:59
+There will be a 10 pcs pilot order and then 800 or 1,000 order.
+We are trying to combine the two orders to be one order
+As we discussed, a financier will transfer the payment.
+I would kindly ask you to sync with your finance dept as how to reimburse the payment later
+Can we invoice you as software? That would help us
+So it is the situation we discussed before?
+Your client will transfer the money(including your profit)
+Then we will repay you the extra amount
+correct... it is more than our profit, there are other costs in it.. But yes, in short that's the case
+2025-7-7 15:05
+Got it.
+1, when can we ROUGHLY finalize this combined order?
+We need to prepare the materials
+2, any requirements about leadtime and technical features?
+3, about reimbursement, I will check internally and let u know
+yes, this is OK
+Levent KILlC: Can we invoice you as software?
+That would help us
+great. software invoicing is the best
+as to your questions:
+1- We are HOPING as soon as next week.
+as to your questions:
+1- We are HOPING as soon as next week.
+2- The lead time is 2 months for delivery which means 6 weeks for shipment from Saga. Technical features
+suer
+2025-7-7 15:10
+OK
+So it will be AC5 based model, exactly the same as 6 units in last order(you will inform us if there is a
+change about the features)
+Production time: 6 weeks, and 2 weeks for shipment & customs clearance
+That will be about 2 months in this order
+right?
+Yes and yes
+2 months is maximum. If we can deliver sooner, it' s better
+2025-7-7 15:16
+OK
+I am now checking the materials and reimbursement
+6 units should be arriving today
+pls test soon and let us know if we need to change anything for this big project
+its kinda busy here. best to finalize the technical features asap
+then we can just focus on standard production
+2025-7-7 15:27
+Yep, we have finished customs  procedures back on Friday. We are expecting switches in the office today
+Will keep you updated
+2025-7-7 15:34
+OK.
+Just confirmed
+1, We have enough chips now, but kinda short of PCB boards, 6 weeks is basically OK.
+But still, best to confirm this big project asap
+There are new orders coming in
+We cannot hold the materials for this order unless a deposit is paid
+2, reimbursement is fine
+It will be via the HK bank for collecting payment in previous orders
+The most important thing is to finalize the order
+Or everything is "pending" , not easy to move on at our side..
+And very sorry to tell you that, there is not any solid progress about the loT board here
+Its busy here, and its something we are not very good at
+ad s  isosa  a  a   n s m sn  s na
+manufacturc or rccommcnd any supplicrs
+2025-7-7 15:40
+I understand, don' t worry about the iot device. We will sort it out another way
+We also don't want to make a move too early.
+Thank a lot for your understanding
+2025-7-7 15:41
+This is just a heads up, bit we need to make sure we have all the paperwork and payment inn place before
+we start
+sure
+Pls let me know if there are any progress
+Then I will check with the production dept from time to time
+Thanks
+any update about the new proposals?
+2025-7-7 15:46
+Which ones are you referring to
+this one
+Oh this is even better.
+I have talked to 5 different people and had meetings.
+Currently we are leaning toward selling on Amazon UK through our UK company and brand
+I have a few more meetings to make
+But it looks like we can try something in Europe with some digital marketing
+2025-7-7 15:51
+I just need some more time to finalise details
+Good to know
+The core point is an online store to expose your brand, products and solutions
+It can be amazon store or https://networkmarket.online/ etc.
+Levent KILlC: Currently we are leaning toward
+selling on Amazon UK through our UK company...
+Amazonhas a35%marketshare and theyhave abusinessmodel
+That makes most sense for now
+Amazon store needs stock
+This probably increase your cask flow stress
+but we can help if you finalize amazon stores
+This probably increase your cask flow stress
+but we can help if you finalize amazon stores
+Yep. That' s true. This is where we need to work closer on the financials
+Like you do not have to pay full payment for Amazon stock units
+Maybe pay 80%, just pay the rest within 3 months
+It is like the idea you mentioned last year
+OK. pls let me know if you have a decision, I will check what we can do for you
+2025-7-7 15:59
+Thnaks. Working on the details of how to sell on Amazon
+ok, thanks
+Okay here is what the switch and ioT box will look like on a DIN rail inside a cabinet
+The loT box is still a prototype
+2025-7-7 16:08
+你撤回了一条消息
+so its horizontal?
+你撤回了一条消息
+so its horizontal?
+good to know this, noted
+Levent KILIC:
+2025-7-7 16:09
+Yep. That' s the plan
+It's a field cabinet. So the space is precious
+2025-7-7 16:14
+OK
+From our side, honestly there is not much we can do about loT board for now
+It can ONLY be after this big project
+2025-7-7 17:50
+No worries
+OK, thanks
+delivered, right?
+am now writng certificate of warranty
+You mean the switches ? They are on their way
+Here is the PCB for the loT board
+the tracking record shows delivery.
+haha
+Levent KILiC: You mean the switches ? They are on
+their way
+you got the prototype locally?
+Levent KILIC:
+2025-7-7 17:57
+No made in China. Its 6 layer pcb
+2025-7-7 18:03
+so you got a new supplier for manufacturing?
+2025-7-7 19:10
+Not yet. These are prototypes
+We are still looking for a volume manufacturer
+2025-7-7 19:15
+According to our engineer, it helps a lot if there is a ready sample(this prototype)
+2025-7-719:21
+According to our engineer, it helps a lot if there is a ready sample(this prototype)
+2025-7-7 19:21
+Understand. Great. Let' s complete testing these prototypes, then we talk again
+2025-7-7 19:33
+OK, thanks. I will let u know if what we can do something here
+Thanks.
+2025-7-11 15:16
+Hi Simon, a busy week here with customer negotiations
+We are almost done with the contract.
+We will probably come with an order of 800 pcs. We will need initial 10 pcs shipped immediately though
+Can you please let me know if the inventory is available
+And can you please share a delivery estimation for the remaining 790 pcs
+Hi, Levent.
+Thanks for your info
+Thats great news indeed.
+1, OK for immediate shipment of 10pcs
+2, Stock, do you mean 800pcs?
+Send
+?
+(
+Send

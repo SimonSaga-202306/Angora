@@ -1,0 +1,21 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "tronx.png",
+  "bytes": 116370,
+  "sha256": "f33557de5963e2ccadf8ea252b3b9c60c201e4a4b5d4acb951a91b7770b24274",
+  "seq": 379,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:tronx.png)",
+  "image": {
+    "format": "PNG",
+    "width": 2363,
+    "height": 2363,
+    "mode": "RGBA",
+    "frames": 1,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  }
+}

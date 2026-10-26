@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "/home/user/Angora/workstation/99-raw/ocr_wechat_aligned.py", line 18, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+total images: 25
+[1/25] OK Weixin Image_2026-09-23_223455_452 1527x9527 lines=117
+[2/25] OK Weixin Image_2026-09-23_223548_837 1542x12327 lines=199
+[3/25] OK Weixin Image_2026-09-23_223630_948 1537x13455 lines=213
+[4/25] OK Weixin Image_2026-09-23_223705_915 1544x15174 lines=257
+[5/25] OK Weixin Image_2026-09-23_223749_931 1536x17255 lines=262
+[6/25] OK Weixin Image_2026-09-23_223845_147 1542x23475 lines=360
+[7/25] OK Weixin Image_2026-09-23_223920_371 1543x18702 lines=264
+[8/25] OK Weixin Image_2026-09-23_223957_115 1545x18596 lines=338
+[9/25] OK Weixin Image_2026-09-23_224033_579 1544x18486 lines=307
+[10/25] OK Weixin Image_2026-09-23_224111_987 1546x19560 lines=311
+[11/25] OK Weixin Image_2026-09-23_224156_330 1547x20993 lines=307
+[12/25] OK Weixin Image_2026-09-23_224233_298 1546x24894 lines=383
+[13/25] OK Weixin Image_2026-09-23_224308_147 1549x18931 lines=299
+[14/25] OK Weixin Image_2026-09-23_224347_969 1545x21429 lines=354
+[15/25] OK Weixin Image_2026-09-23_224435_810 1536x25265 lines=381
+[16/25] OK Weixin Image_2026-09-23_224520_306 1544x23522 lines=452
+[17/25] OK Weixin Image_2026-09-23_224554_074 1548x20196 lines=347
+[18/25] OK Weixin Image_2026-09-23_224626_417 1543x19534 lines=373
+[19/25] OK Weixin Image_2026-09-23_224715_689 1550x21910 lines=414
+[20/25] OK Weixin Image_2026-09-23_224805_273 1551x29352 lines=515
+[21/25] OK Weixin Image_2026-09-23_224854_016 1546x27554 lines=582
+[22/25] OK Weixin Image_2026-09-23_225131_496 1545x23105 lines=458
+[23/25] OK Weixin Image_2026-09-23_225200_641 1545x20127 lines=385
+[24/25] OK Weixin Image_2026-09-23_225232_904 1547x19619 lines=369
+[25/25] OK Weixin Image_2026-09-23_225251_736 1546x5422 lines=106
+ALL DONE

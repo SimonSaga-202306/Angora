@@ -1,0 +1,21 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Steps for upgrading.png",
+  "bytes": 33187,
+  "sha256": "b8b0dff1b0ea4d038d55b2e9d550a2770eb6ab75a319bb1738964f60b51956ca",
+  "seq": 83,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Steps for upgrading.png)",
+  "image": {
+    "format": "PNG",
+    "width": 1647,
+    "height": 635,
+    "mode": "RGBA",
+    "frames": 1,
+    "dpi": [
+      95.9866,
+      95.9866
+    ]
+  }
+}

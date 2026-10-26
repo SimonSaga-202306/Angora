@@ -1,0 +1,175 @@
+{
+  "source": "PVCs.xlsx",
+  "description": "PVC 标签 / 铭牌耗材库存（订单号、已用量、单位成本，对应 2026-02-05 微信对话）",
+  "sheets": [
+    {
+      "name": "ANW-2116-PG",
+      "header": [
+        "Order reference",
+        "Consumed Quantity"
+      ],
+      "records": [
+        {
+          "Order reference": "STSC20241021007",
+          "Consumed Quantity": "8"
+        },
+        {
+          "Order reference": "STSC20250526007",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Sub-toal(in pieces)",
+          "Consumed Quantity": "28"
+        },
+        {
+          "Order reference": "Total(in pieces)",
+          "Consumed Quantity": "100"
+        },
+        {
+          "Order reference": "Remaining(in pieces)",
+          "Consumed Quantity": "72"
+        },
+        {
+          "Order reference": "Unit Cost(in USD)",
+          "Consumed Quantity": "2.3"
+        },
+        {
+          "Order reference": "To Be Deducted(in USD)",
+          "Consumed Quantity": "64.4"
+        }
+      ]
+    },
+    {
+      "name": "TRX-AS-24TP4X",
+      "header": [
+        "Order reference",
+        "Consumed Quantity"
+      ],
+      "records": [
+        {
+          "Order reference": "STSC20250526007",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Sub-toal(in pieces)",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Total(in pieces)",
+          "Consumed Quantity": "100"
+        },
+        {
+          "Order reference": "Remaining(in pieces)",
+          "Consumed Quantity": "80"
+        },
+        {
+          "Order reference": "Unit Cost(in USD)",
+          "Consumed Quantity": "2.3"
+        },
+        {
+          "Order reference": "To Be Deducted(in USD)",
+          "Consumed Quantity": "46"
+        }
+      ]
+    },
+    {
+      "name": "TRX-AS-48TP4X",
+      "header": [
+        "Order reference",
+        "Consumed Quantity"
+      ],
+      "records": [
+        {
+          "Order reference": "STSC20250526007",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Sub-toal(in pieces)",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Total(in pieces)",
+          "Consumed Quantity": "100"
+        },
+        {
+          "Order reference": "Remaining(in pieces)",
+          "Consumed Quantity": "80"
+        },
+        {
+          "Order reference": "Unit Cost(in USD)",
+          "Consumed Quantity": "2.3"
+        },
+        {
+          "Order reference": "To Be Deducted(in USD)",
+          "Consumed Quantity": "46"
+        }
+      ]
+    },
+    {
+      "name": "ANW-2224-PX",
+      "header": [
+        "Order reference",
+        "Consumed Quantity"
+      ],
+      "records": [
+        {
+          "Order reference": "STSC20250526007",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Sub-toal(in pieces)",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Total(in pieces)",
+          "Consumed Quantity": "100"
+        },
+        {
+          "Order reference": "Remaining(in pieces)",
+          "Consumed Quantity": "80"
+        },
+        {
+          "Order reference": "Unit Cost(in USD)",
+          "Consumed Quantity": "2.3"
+        },
+        {
+          "Order reference": "To Be Deducted(in USD)",
+          "Consumed Quantity": "46"
+        }
+      ]
+    },
+    {
+      "name": "ANW-2248-PX",
+      "header": [
+        "Order reference",
+        "Consumed Quantity"
+      ],
+      "records": [
+        {
+          "Order reference": "STSC20250526007",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Sub-toal(in pieces)",
+          "Consumed Quantity": "20"
+        },
+        {
+          "Order reference": "Total(in pieces)",
+          "Consumed Quantity": "100"
+        },
+        {
+          "Order reference": "Remaining(in pieces)",
+          "Consumed Quantity": "80"
+        },
+        {
+          "Order reference": "Unit Cost(in USD)",
+          "Consumed Quantity": "2.3"
+        },
+        {
+          "Order reference": "To Be Deducted(in USD)",
+          "Consumed Quantity": "46"
+        }
+      ]
+    }
+  ]
+}

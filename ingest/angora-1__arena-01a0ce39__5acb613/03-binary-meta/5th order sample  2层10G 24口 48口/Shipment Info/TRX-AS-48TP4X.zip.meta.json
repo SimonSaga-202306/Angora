@@ -1,0 +1,110 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip",
+  "bytes": 85487,
+  "sha256": "4dfa3b7ab0c8e9203a8db4b97f5cb59af8f1fe5f2b50bc62d2a398f6e62babdf",
+  "seq": 229,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip)",
+  "archive": [
+    {
+      "name": "customize/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": "00000000",
+      "modified": [
+        2025,
+        6,
+        3,
+        16,
+        34,
+        26
+      ]
+    },
+    {
+      "name": "customize/config",
+      "bytes": 87,
+      "compressed": 82,
+      "crc32": "773b2682",
+      "modified": [
+        2025,
+        6,
+        3,
+        16,
+        34,
+        40
+      ]
+    },
+    {
+      "name": "customize/www/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": "00000000",
+      "modified": [
+        2025,
+        6,
+        3,
+        16,
+        34,
+        26
+      ]
+    },
+    {
+      "name": "customize/www/favicon.ico",
+      "bytes": 2462,
+      "compressed": 469,
+      "crc32": "de040c7c",
+      "modified": [
+        2025,
+        4,
+        15,
+        14,
+        58,
+        2
+      ]
+    },
+    {
+      "name": "customize/www/logo_dark.png",
+      "bytes": 43703,
+      "compressed": 34565,
+      "crc32": "695aed3b",
+      "modified": [
+        2025,
+        6,
+        4,
+        16,
+        57,
+        28
+      ]
+    },
+    {
+      "name": "customize/www/logo_light.png",
+      "bytes": 60243,
+      "compressed": 49147,
+      "crc32": "cb28190d",
+      "modified": [
+        2025,
+        6,
+        4,
+        16,
+        57,
+        30
+      ]
+    },
+    {
+      "name": "customize/www/sysconf.json",
+      "bytes": 184,
+      "compressed": 126,
+      "crc32": "a57daa9d",
+      "modified": [
+        2025,
+        4,
+        15,
+        14,
+        58,
+        2
+      ]
+    }
+  ]
+}

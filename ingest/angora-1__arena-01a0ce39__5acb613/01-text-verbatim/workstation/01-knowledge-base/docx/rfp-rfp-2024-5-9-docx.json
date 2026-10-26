@@ -1,0 +1,114 @@
+{
+ "source": "RFP/RFP_2024.5.9.docx",
+ "chars": 587,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "1. Dual power supply"
+  },
+  {
+   "type": "p",
+   "data": "2. Hot swappable power units"
+  },
+  {
+   "type": "p",
+   "data": "3. Multicast PIM protocol"
+  },
+  {
+   "type": "p",
+   "data": "4. VRF Lite support"
+  },
+  {
+   "type": "p",
+   "data": "5. 4096 VLAN support"
+  },
+  {
+   "type": "p",
+   "data": "6. Extended temperatures (-40 +70)on non-industrial models"
+  },
+  {
+   "type": "p",
+   "data": "7. BFD support"
+  },
+  {
+   "type": "p",
+   "data": "8. NAT support"
+  },
+  {
+   "type": "p",
+   "data": "9. Netflow protocol support"
+  },
+  {
+   "type": "p",
+   "data": "10. Y1731 protocol support"
+  },
+  {
+   "type": "p",
+   "data": "11. TWAMP protocol support"
+  },
+  {
+   "type": "p",
+   "data": "12. Route Tracking"
+  },
+  {
+   "type": "p",
+   "data": "客户又问了这些"
+  },
+  {
+   "type": "p",
+   "data": "1 2 OK"
+  },
+  {
+   "type": "p",
+   "data": "3 我在管理手册中找到了这个，请再确认一下是否支持 不支持 PIM protocol"
+  },
+  {
+   "type": "p",
+   "data": "4 未找到相关记录 不支持"
+  },
+  {
+   "type": "p",
+   "data": "5 OK"
+  },
+  {
+   "type": "p",
+   "data": "6 用商业级外壳装工业级的板子是否OK?  不支持"
+  },
+  {
+   "type": "p",
+   "data": "7 未找到相关记录  不支持"
+  },
+  {
+   "type": "p",
+   "data": "8 前一阵确认了，不支持"
+  },
+  {
+   "type": "p",
+   "data": "9 应该是指Sflow这个，请再确认一下是否支持"
+  },
+  {
+   "type": "p",
+   "data": "如果是指Sflow这个功能，管理型产品是支持的"
+  },
+  {
+   "type": "p",
+   "data": "10 未找到相关记录  不支持"
+  },
+  {
+   "type": "p",
+   "data": "11 未找到相关记录   不支持"
+  },
+  {
+   "type": "p",
+   "data": "12 不确定，能找到一些相关的信息，请确认一下是否支持  支持"
+  },
+  {
+   "type": "p",
+   "data": "还有一些其他需求客户并未列出，客户发了再说"
+  },
+  {
+   "type": "p",
+   "data": "问的这些和昨天问的4台无关"
+  }
+ ]
+}

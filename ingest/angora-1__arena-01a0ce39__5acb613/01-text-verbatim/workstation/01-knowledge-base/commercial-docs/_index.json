@@ -1,0 +1,1479 @@
+[
+  {
+    "file": "1st order sample  3层10G 24口 48口/CI.xls",
+    "slug": "1st-order-sample-3-10g-24-48-ci-xls",
+    "rows": 46,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20240508007",
+      "date": "8th, May, 2024",
+      "payment_term": "T/T in advance",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-28DGGPM",
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "1st order sample  3层10G 24口 48口/PL for Zhengzhou Saga Telecom P-24051001.xls",
+    "slug": "1st-order-sample-3-10g-24-48-pl-for-zhengzhou-saga-telecom-p-24051001-xls",
+    "rows": 18,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "invoice_no": "P",
+      "amount": "0.05"
+    }
+  },
+  {
+    "file": "1st order sample  3层10G 24口 48口/Quotation.xls",
+    "slug": "1st-order-sample-3-10g-24-48-quotation-xls",
+    "rows": 28,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "Angora Networks",
+      "date": "2nd, May, 2024",
+      "price_term": "EXW",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "lkilic@angoranetworks.com",
+        "s.sagatelecom@gmail.com",
+        "tesen@angoranetworks.com"
+      ],
+      "models": [
+        "STC-28DGGPM",
+        "STC-424XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "1st order sample  3层10G 24口 48口/出货/普通快递发票.xlsx",
+    "slug": "1st-order-sample-3-10g-24-48-xlsx",
+    "rows": 16,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey"
+    }
+  },
+  {
+    "file": "1st order sample  3层10G 24口 48口/采购合同.xlsx",
+    "slug": "1st-order-sample-3-10g-24-48-xlsx",
+    "rows": 44,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-S8210GP-2GX8GT",
+        "LT-S8528XGP-4XS24GT",
+        "LT-S8552XGP-4XS48GT"
+      ]
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/CI.xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-ci-xls",
+    "rows": 47,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20241021007",
+      "date": "21st, Oct, 2024",
+      "payment_term": "T/T in advance, CPT to Ankara, Turkey",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "T/T in advance, CPT to Ankara, Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-416DGGPM",
+        "STI-280DGGM"
+      ]
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/PL.xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-pl-xls",
+    "rows": 19,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "issued_by": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "amount": "29.40",
+      "emails": [
+        "s.sagatelecom@gmail.com"
+      ]
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/STSC20241021007.xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-stsc20241021007-xls",
+    "rows": 51,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20241021007",
+      "date": "21st, Oct, 2024",
+      "payment_term": "T/T in advance",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424DGGPM",
+        "STI-280DGGM"
+      ]
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/STSC20241028007.xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-stsc20241028007-xls",
+    "rows": 42,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20241028007",
+      "date": "28th, Oct, 2024",
+      "payment_term": "T/T in advance",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-416DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/STSC20241105007.xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-stsc20241105007-xls",
+    "rows": 47,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20241105007",
+      "date": "5th, Nov, 2024",
+      "payment_term": "T/T in advance",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-416DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/出货/普通快递发票.xlsx",
+    "slug": "2nd-order-sample-2-10g-16-2-8-xlsx",
+    "rows": 17,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey"
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/出货/深圳联邦UPS最新版报关需要资料表格-买单 .xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-ups-xls",
+    "rows": 21,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey"
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/装箱单PL .xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-pl-xls",
+    "rows": 20,
+    "facts": {
+      "invoice_no": "Consigner",
+      "amount": "0.14"
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/采购合同_STSC20241021007.xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-stsc20241021007-xls",
+    "rows": 67,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-IS6310G-2GX8GT",
+        "LT-S8328GP-4GX16GT-S"
+      ]
+    }
+  },
+  {
+    "file": "2nd order sample 2层10G 16口 2光8管理/采购合同_STSC20241105007.xls",
+    "slug": "2nd-order-sample-2-10g-16-2-8-stsc20241105007-xls",
+    "rows": 57,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-S8328GP-4GX16GT-S"
+      ]
+    }
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/Packing List.xls",
+    "slug": "3rd-order-176-2-16-l2-poe-packing-list-xls",
+    "rows": 16,
+    "facts": {
+      "invoice_no": "Consigner",
+      "amount": "0.11"
+    }
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/STSC20250117007.xls",
+    "slug": "3rd-order-176-2-16-l2-poe-stsc20250117007-xls",
+    "rows": 58,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250117007",
+      "date": "17th, Jan, 2025",
+      "payment_term": "T/T in advance",
+      "issued_by": "Simon",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STI-21616DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/Shipment Info/Commercial Invoice_R1.xls",
+    "slug": "3rd-order-176-2-16-l2-poe-shipment-info-commercial-invoice-r1-xls",
+    "rows": 52,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250117007",
+      "date": "17th, Jan, 2025",
+      "payment_term": "T/T in advance",
+      "issued_by": "Simon",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STI-21616DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/Shipment Info/PL_STSC20250117007.xls",
+    "slug": "3rd-order-176-2-16-l2-poe-shipment-info-pl-stsc20250117007-xls",
+    "rows": 18,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "issued_by": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "amount": "1.94",
+      "emails": [
+        "s.sagatelecom@gmail.com"
+      ]
+    }
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/Shipment Info/买单报关模板.xls",
+    "slug": "3rd-order-176-2-16-l2-poe-shipment-info-xls",
+    "rows": 21,
+    "facts": {}
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/Shipment Info/普通快递发票.xlsx",
+    "slug": "3rd-order-176-2-16-l2-poe-shipment-info-xlsx",
+    "rows": 15,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey"
+    }
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/采购_Smartbyte/Quotation_176pcs Industrial switch&power adapter.xls",
+    "slug": "3rd-order-176-2-16-l2-poe-smartbyte-quotation-176pcs-industrial-switch-power-adapter-xls",
+    "rows": 44,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "Angora Networks",
+      "date": "11th, Dec, 2024",
+      "price_term": "EXW",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "emails": [
+        "lkilic@angoranetworks.com",
+        "s.sagatelecom@gmail.com",
+        "tesen@angoranetworks.com"
+      ],
+      "models": [
+        "STI-21616DGGPM",
+        "STI-PA-240W-48V5A"
+      ]
+    }
+  },
+  {
+    "file": "3rd order 176台2光16电 L2 PoE/采购_Smartbyte/采购合同_STSC20250117007.xls",
+    "slug": "3rd-order-176-2-16-l2-poe-smartbyte-stsc20250117007-xls",
+    "rows": 51,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-IS6318GP-2GX16GT"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/PL_STSC20250507007.xls",
+    "slug": "4th-order-sample-2-10g-24-48-pl-stsc20250507007-xls",
+    "rows": 19,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "issued_by": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "amount": "0.13",
+      "emails": [
+        "s.sagatelecom@gmail.com"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Packing List .xls",
+    "slug": "4th-order-sample-2-10g-24-48-packing-list-xls",
+    "rows": 17,
+    "facts": {
+      "invoice_no": "Consigner",
+      "amount": "0.13"
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/STSC20250507007.xls",
+    "slug": "4th-order-sample-2-10g-24-48-stsc20250507007-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250507007",
+      "date": "7th, May, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424DGGPM",
+        "STC-448DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/STSC20250507007_R1.xls",
+    "slug": "4th-order-sample-2-10g-24-48-stsc20250507007-r1-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250507007",
+      "date": "7th, May, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Unshipped/PL_STSC20250228007.xls",
+    "slug": "4th-order-sample-2-10g-24-48-unshipped-pl-stsc20250228007-xls",
+    "rows": 19,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "issued_by": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "amount": "0.15",
+      "emails": [
+        "s.sagatelecom@gmail.com"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Unshipped/Packing List .xls",
+    "slug": "4th-order-sample-2-10g-24-48-unshipped-packing-list-xls",
+    "rows": 17,
+    "facts": {
+      "invoice_no": "Consigner",
+      "amount": "0.15"
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007.xls",
+    "slug": "4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-xls",
+    "rows": 50,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250228007",
+      "date": "28th, Feb, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424DGGPM",
+        "STC-448DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007_R1.xls",
+    "slug": "4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-r1-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250228007",
+      "date": "28th, Feb, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424DGGPM",
+        "STC-448DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007_R2.xls",
+    "slug": "4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-r2-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250228007",
+      "date": "28th, Feb, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424DGGPM",
+        "STC-448DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007_R3.xls",
+    "slug": "4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-r3-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250228007",
+      "date": "28th, Feb, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/Unshipped/采购合同_STSC20250228007.xls",
+    "slug": "4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-xls",
+    "rows": 62,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-S8328XGP-4XS24GT-S",
+        "LT-S8352XGP-4XS48GT"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/买单报关_STSC20250507007.xls",
+    "slug": "4th-order-sample-2-10g-24-48-stsc20250507007-xls",
+    "rows": 20,
+    "facts": {
+      "models": [
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/普通快递发票_STSC20250507007.xlsx",
+    "slug": "4th-order-sample-2-10g-24-48-stsc20250507007-xlsx",
+    "rows": 16,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey"
+    }
+  },
+  {
+    "file": "4th order sample  2层10G 24口 48口/采购合同_STSC20250507007.xls",
+    "slug": "4th-order-sample-2-10g-24-48-stsc20250507007-xls",
+    "rows": 59,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-S8328XGP-4XS24GT-S",
+        "LT-S8352XGP-4XS48GT"
+      ]
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/Packing List .xls",
+    "slug": "5th-order-sample-2-10g-24-48-packing-list-xls",
+    "rows": 16,
+    "facts": {
+      "invoice_no": "Consigner",
+      "amount": "0.25"
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/STSC20250526007.xls",
+    "slug": "5th-order-sample-2-10g-24-48-stsc20250526007-xls",
+    "rows": 57,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250526007",
+      "date": "26th, May, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/STSC20250526007_R1.xls",
+    "slug": "5th-order-sample-2-10g-24-48-stsc20250526007-r1-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250526007",
+      "date": "26th, May, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/Shipment Info/CI.xls",
+    "slug": "5th-order-sample-2-10g-24-48-shipment-info-ci-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250526007",
+      "date": "26th, May, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/Shipment Info/PL_STSC20250526007.xls",
+    "slug": "5th-order-sample-2-10g-24-48-shipment-info-pl-stsc20250526007-xls",
+    "rows": 18,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "issued_by": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "amount": "51.59",
+      "emails": [
+        "s.sagatelecom@gmail.com"
+      ]
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/Shipment Info/买单报关_STSC20250526007.xls",
+    "slug": "5th-order-sample-2-10g-24-48-shipment-info-stsc20250526007-xls",
+    "rows": 20,
+    "facts": {
+      "models": [
+        "STC-424XGGPM",
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/Shipment Info/普通快递发票_STSC20250526007.xlsx",
+    "slug": "5th-order-sample-2-10g-24-48-shipment-info-stsc20250526007-xlsx",
+    "rows": 16,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey"
+    }
+  },
+  {
+    "file": "5th order sample  2层10G 24口 48口/采购合同_STSC20250526007.xls",
+    "slug": "5th-order-sample-2-10g-24-48-stsc20250526007-xls",
+    "rows": 56,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-S8328XGP-4XS24GT-S",
+        "LT-S8352XGP-4XS48GT"
+      ]
+    }
+  },
+  {
+    "file": "6th order 6台工业2光8/STSC20250619007.xls",
+    "slug": "6th-order-6-2-8-stsc20250619007-xls",
+    "rows": 52,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250619007",
+      "date": "19th, June, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "6th order 6台工业2光8/STSC20250619007_R1.xls",
+    "slug": "6th-order-6-2-8-stsc20250619007-r1-xls",
+    "rows": 52,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250619007",
+      "date": "19th, June, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "6th order 6台工业2光8/Shipment Info/CI.xls",
+    "slug": "6th-order-6-2-8-shipment-info-ci-xls",
+    "rows": 52,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250619007",
+      "date": "19th, June, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "6th order 6台工业2光8/Shipment Info/PL_STSC20250619007.xls",
+    "slug": "6th-order-6-2-8-shipment-info-pl-stsc20250619007-xls",
+    "rows": 17,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "issued_by": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "amount": "0.02",
+      "emails": [
+        "s.sagatelecom@gmail.com"
+      ]
+    }
+  },
+  {
+    "file": "6th order 6台工业2光8/Shipment Info/买单报关_STSC20250619007.xls",
+    "slug": "6th-order-6-2-8-shipment-info-stsc20250619007-xls",
+    "rows": 15,
+    "facts": {
+      "models": [
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "6th order 6台工业2光8/Shipment Info/普通快递发票_STSC20250619007.xlsx",
+    "slug": "6th-order-6-2-8-shipment-info-stsc20250619007-xlsx",
+    "rows": 14,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey"
+    }
+  },
+  {
+    "file": "6th order 6台工业2光8/采购合同_STSC20250619007.xls",
+    "slug": "6th-order-6-2-8-stsc20250619007-xls",
+    "rows": 54,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "email": "s.sagatelecom@gmail.com",
+      "emails": [
+        "peter@smartbyte.com.cn",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "LT-IS6310GP-2GX8GT"
+      ]
+    }
+  },
+  {
+    "file": "PVCs.xlsx",
+    "slug": "pvcs-xlsx",
+    "rows": 36,
+    "facts": {}
+  },
+  {
+    "file": "Quotation_48 port switch 150pcs.xls",
+    "slug": "quotation-48-port-switch-150pcs-xls",
+    "rows": 36,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "Angora Networks",
+      "date": "3rd, Dec, 2024",
+      "price_term": "EXW",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "emails": [
+        "lkilic@angoranetworks.com",
+        "s.sagatelecom@gmail.com",
+        "tesen@angoranetworks.com"
+      ],
+      "models": [
+        "STC-448XGGPM"
+      ]
+    }
+  },
+  {
+    "file": "Quotation_5电口 工业MC.xls",
+    "slug": "quotation-5-mc-xls",
+    "rows": 29,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "Angora Networks",
+      "date": "18th, Nov, 2024",
+      "price_term": "EXW",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "emails": [
+        "lkilic@angoranetworks.com",
+        "s.sagatelecom@gmail.com",
+        "tesen@angoranetworks.com"
+      ],
+      "models": [
+        "STI-050GE",
+        "STI-110GE"
+      ]
+    }
+  },
+  {
+    "file": "RFP/2024.5.27_RFP.xlsx",
+    "slug": "rfp-2024-5-27-rfp-xlsx",
+    "rows": 76,
+    "facts": {}
+  },
+  {
+    "file": "RFP/Saga Software Function List-release 7.3.0.xlsx",
+    "slug": "rfp-saga-software-function-list-release-7-3-0-xlsx",
+    "rows": 125,
+    "facts": {}
+  },
+  {
+    "file": "RFP/Turk_Telekom_Test_Items.xlsx",
+    "slug": "rfp-turk-telekom-test-items-xlsx",
+    "rows": 60,
+    "facts": {}
+  },
+  {
+    "file": "Saga Feature List_7.5.x_L2+.xlsx",
+    "slug": "saga-feature-list-7-5-x-l2-xlsx",
+    "rows": 146,
+    "facts": {}
+  },
+  {
+    "file": "SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-20240227.xlsx",
+    "slug": "smartbyte-managed-industrial-ethernet-switch-pricelist-on-cny-for-simon-20240227-xlsx",
+    "rows": 33,
+    "facts": {
+      "email": "peter@smartbyte.com.cn",
+      "emails": [
+        "peter@smartbyte.com.cn"
+      ],
+      "models": [
+        "LT-IS3206F-2FX4TX",
+        "LT-IS3206FP-2FX4TX",
+        "LT-IS3206G-2GX4GT",
+        "LT-IS3206GP-2GX4GT",
+        "LT-IS3210G-2GX8GT",
+        "LT-IS3210GP-2GX8T",
+        "LT-IS6212XGP-4XS8GT",
+        "LT-IS6228GP-4GX24GT-4BT",
+        "LT-IS6306G-2GX4GT",
+        "LT-IS6306GP-2GX4GT",
+        "LT-IS6306GP-2GX4GT-2BT",
+        "LT-IS6310G-2GX8GT",
+        "LT-IS6310GP-2GX8GT",
+        "LT-IS6310GP-2GX8GT-2BT",
+        "LT-IS6312G-4GX8GT",
+        "LT-IS6312GP-4GX8GT",
+        "LT-IS6312GP-4GX8GT-2BT",
+        "LT-IS6312XG-4XS8GT",
+        "LT-IS6316G-8GX8GT",
+        "LT-IS6316GP-8GX8GT",
+        "LT-IS6316XG-4XS4GX8GT",
+        "LT-IS6316XGP-4XS4GX8GT",
+        "LT-IS6318G-2GX16GT",
+        "LT-IS6318GP-2GX16GT",
+        "LT-IS6318XG-2XS16GT",
+        "LT-IS6318XGP-2XS16GT",
+        "LT-IS6320XG-4XS8GX8GT",
+        "LT-IS6328G-20GX8GC",
+        "LT-IS6328G-4GX24GT",
+        "LT-IS6328G-4GX24GT-U",
+        "LT-IS6328GP-4GX24GT",
+        "LT-IS6328GP-4GX24GT-U",
+        "LT-IS6328GP-4GX24GT-U-2BT",
+        "LT-IS6328XG-4XS16GX8GC",
+        "LT-IS6328XG-4XS24GT",
+        "LT-IS6328XG-4XS24GT-U",
+        "LT-IS6328XGP-4XS24GT",
+        "LT-IS6328XGP-4XS24GT-4BT",
+        "LT-IS6328XGP-4XS24GT-U",
+        "LT-IS6328XGP-4XS24GT-U-2BT",
+        "LT-IS6516XG-4XS4GX8GT",
+        "LT-IS6516XGP-4XS4GX8GT",
+        "LT-IS6518XG-2XS16GT",
+        "LT-IS6518XGP-2XS16GT",
+        "LT-IS6520XG-4XS16GT",
+        "LT-IS6520XG-4XS8GX8GT",
+        "LT-IS6520XGP-4XS16GT",
+        "LT-IS6520XGP-4XS16GT-4BT",
+        "LT-IS6528XG-4XS16GT8GC-U",
+        "LT-IS6528XG-4XS16GX8GC-U",
+        "LT-IS6528XG-4XS24GT",
+        "LT-IS6528XG-4XS24GT-U",
+        "LT-IS6528XGP-4XS16GT8GC-U",
+        "LT-IS6528XGP-4XS16GT8GC-U-2BT",
+        "LT-IS6528XGP-4XS24GT",
+        "LT-IS6528XGP-4XS24GT-4BT",
+        "LT-IS6528XGP-4XS24GT-U",
+        "LT-IS6528XGP-4XS24GT-U-2BT",
+        "LT-IS6552XG-4XS48GT-U"
+      ]
+    }
+  },
+  {
+    "file": "SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-价格有效期2026.09.1--2026.12.30.xlsx",
+    "slug": "smartbyte-managed-industrial-ethernet-switch-pricelist-on-cny-for-simon-2026-09-1-2026-12-30-xlsx",
+    "rows": 34,
+    "facts": {
+      "email": "peter@smartbyte.com.cn",
+      "emails": [
+        "peter@smartbyte.com.cn"
+      ],
+      "models": [
+        "LT-IS3206F-2FX4TX",
+        "LT-IS3206FP-2FX4TX",
+        "LT-IS3206G-2GX4GT",
+        "LT-IS3206GP-2GX4GT",
+        "LT-IS3210G-2GX8GT",
+        "LT-IS3210GP-2GX8T",
+        "LT-IS6228GP-4GX24GT-4BT",
+        "LT-IS6306G-2GX4GT",
+        "LT-IS6306GP-2GX4GT",
+        "LT-IS6306GP-2GX4GT-2BT",
+        "LT-IS6310G-2GX8GT",
+        "LT-IS6310GP-2GX8GT",
+        "LT-IS6310GP-2GX8GT-2BT",
+        "LT-IS6312G-4GX8GT",
+        "LT-IS6312GP-4GX8GT",
+        "LT-IS6312GP-4GX8GT-2BT",
+        "LT-IS6312XG-4XS8GT",
+        "LT-IS6312XGP-4XS8GT",
+        "LT-IS6312XGP-4XS8GT-2BT",
+        "LT-IS6316G-8GX8GT",
+        "LT-IS6316GP-8GX8GT",
+        "LT-IS6316XG-4XS4GX8GT",
+        "LT-IS6316XGP-4XS4GX8GT",
+        "LT-IS6318G-2GX16GT",
+        "LT-IS6318GP-2GX16GT",
+        "LT-IS6318XG-2XS16GT",
+        "LT-IS6318XGP-2XS16GT",
+        "LT-IS6320G-4GX16GT-D",
+        "LT-IS6320GP-4GX16GT-D",
+        "LT-IS6320GP-4GX16GT-D-4BT",
+        "LT-IS6320XG-4XS8GX8GT-D",
+        "LT-IS6328G-20GX8GC-D",
+        "LT-IS6328G-4GX24GT-D",
+        "LT-IS6328G-4GX24GT-U-D",
+        "LT-IS6328GP-4GX24GT",
+        "LT-IS6328GP-4GX24GT-U",
+        "LT-IS6328GP-4GX24GT-U-2BT",
+        "LT-IS6328XG-4XS16GX8GC-D",
+        "LT-IS6328XG-4XS24GT-D",
+        "LT-IS6328XG-4XS24GT-U-D",
+        "LT-IS6328XGP-4XS24GT",
+        "LT-IS6328XGP-4XS24GT-4BT",
+        "LT-IS6328XGP-4XS24GT-U",
+        "LT-IS6328XGP-4XS24GT-U-2BT",
+        "LT-IS6516XG-4XS4GX8GT",
+        "LT-IS6516XGP-4XS4GX8GT",
+        "LT-IS6518XG-2XS16GT",
+        "LT-IS6518XGP-2XS16GT",
+        "LT-IS6520XG-4XS16GT",
+        "LT-IS6520XG-4XS8GX8GT",
+        "LT-IS6520XGP-4XS16GT",
+        "LT-IS6520XGP-4XS16GT-4BT",
+        "LT-IS6528XG-4XS16GT8GC-U",
+        "LT-IS6528XG-4XS16GX8GC-U",
+        "LT-IS6528XG-4XS24GT",
+        "LT-IS6528XG-4XS24GT-U",
+        "LT-IS6528XGP-4XS16GT8GC-U",
+        "LT-IS6528XGP-4XS16GT8GC-U-2BT",
+        "LT-IS6528XGP-4XS24GT",
+        "LT-IS6528XGP-4XS24GT-4BT",
+        "LT-IS6528XGP-4XS24GT-U",
+        "LT-IS6528XGP-4XS24GT-U-2BT",
+        "LT-IS6552XG-4XS48GT-U"
+      ]
+    }
+  },
+  {
+    "file": "SmartByte managed Ethernet switch pricelist for Simon-20240516 更新.xlsx",
+    "slug": "smartbyte-managed-ethernet-switch-pricelist-for-simon-20240516-xlsx",
+    "rows": 27,
+    "facts": {
+      "email": "peter@smartbyte.com.cn",
+      "emails": [
+        "peter@smartbyte.com.cn"
+      ],
+      "models": [
+        "LT-IS8528XG-4XS16GT8GC",
+        "LT-IS8528XGP-4XS16GT8GC",
+        "LT-S8212G-4GX8GT",
+        "LT-S8212GP-4GX8GT",
+        "LT-S8310G-2GX8GT",
+        "LT-S8310GP-2GX8GT",
+        "LT-S8328G-4GX24GT-S",
+        "LT-S8328GP-4GX24GT",
+        "LT-S8328GP-4GX24GT-S",
+        "LT-S8328XG-4XS24GT-S",
+        "LT-S8328XGP-4XS24GT",
+        "LT-S8328XGP-4XS24GT-S",
+        "LT-S8352G-4GX48GT",
+        "LT-S8352GP-4GX48GT",
+        "LT-S8352XG-4XS48GT",
+        "LT-S8352XGP-4XS48GT",
+        "LT-S8528XG-4XS16GX8GC",
+        "LT-S8528XG-4XS24GT",
+        "LT-S8528XGP-4XS24GT",
+        "LT-S8552XG-4XS48GT",
+        "LT-S8552XG-4XS48GX",
+        "LT-S8552XGP-4XS48GT"
+      ]
+    }
+  },
+  {
+    "file": "SmartByte managed Ethernet switch pricelist for Simon-价格有效期2026.09.1--2026.12.30.xlsx",
+    "slug": "smartbyte-managed-ethernet-switch-pricelist-for-simon-2026-09-1-2026-12-30-xlsx",
+    "rows": 23,
+    "facts": {
+      "email": "peter@smartbyte.com.cn",
+      "emails": [
+        "peter@smartbyte.com.cn"
+      ],
+      "models": [
+        "LT-IS8528XG-4XS16GT8GC",
+        "LT-IS8528XGP-4XS16GT8GC",
+        "LT-S8310G-2GX8GT",
+        "LT-S8310GP-2GX8GT",
+        "LT-S8328G-4GX24GT-S",
+        "LT-S8328GP-4GX24GT",
+        "LT-S8328GP-4GX24GT-S",
+        "LT-S8328XG-4XS24GT-S",
+        "LT-S8328XGP-4XS24GT-S",
+        "LT-S8352G-4GX48GT",
+        "LT-S8352GP-4GX48GT",
+        "LT-S8352XG-4XS48GT",
+        "LT-S8352XGP-4XS48GT",
+        "LT-S8528XG-4XS16GX8GC",
+        "LT-S8528XG-4XS24GT",
+        "LT-S8528XGP-4XS24GT",
+        "LT-S8552XG-4XS48GT",
+        "LT-S8552XG-4XS48GX",
+        "LT-S8552XGP-4XS48GT"
+      ]
+    }
+  },
+  {
+    "file": "SmartByte popular Unmanaged industrial Ethernet switch and industrial MC  pricelist on CNY for Simon-20240111 更新.xlsx",
+    "slug": "smartbyte-popular-unmanaged-industrial-ethernet-switch-and-industrial-mc-pricelist-on-cny-for-simon-20240111-xlsx",
+    "rows": 50,
+    "facts": {
+      "email": "peter@smartbyte.com.cn",
+      "emails": [
+        "peter@smartbyte.com.cn"
+      ],
+      "models": [
+        "LT-IMC30F-1FX2TX-E",
+        "LT-IMC30F-2FX2TX-E",
+        "LT-IMC30F-E",
+        "LT-IMC30FP-1FX2TX-E",
+        "LT-IMC30FP-2FX2TX-E",
+        "LT-IMC30FP-E",
+        "LT-IMC30G-1GX2GT-E",
+        "LT-IMC30G-2GX2GT-E",
+        "LT-IMC30G-E",
+        "LT-IMC30GP-1GX2GT-E",
+        "LT-IMC30GP-2GX2GT-E",
+        "LT-IMC30GP-E",
+        "LT-IS3005F-1FX4TX",
+        "LT-IS3005F-5TX-E",
+        "LT-IS3005F-5TX-M",
+        "LT-IS3005FP-1FX4TX",
+        "LT-IS3005FP-5TX",
+        "LT-IS3005G-1GX4GT",
+        "LT-IS3005G-5GT",
+        "LT-IS3005G-5GT-M",
+        "LT-IS3005GP-1GX4GT",
+        "LT-IS3005GP-5GT",
+        "LT-IS3006F-2FX4TX",
+        "LT-IS3006FP-2FX4TX",
+        "LT-IS3006G-1GT1GX4GT",
+        "LT-IS3006G-2GX4GT",
+        "LT-IS3006GP-1GT1GX4GT",
+        "LT-IS3006GP-2GX4GT",
+        "LT-IS3008F-8TX",
+        "LT-IS3008FP-8TX",
+        "LT-IS3008G-8GT",
+        "LT-IS3008GP-8GT",
+        "LT-IS3009F-1FX8TX",
+        "LT-IS3009FP-1FX8TX",
+        "LT-IS3010G-2GX8GT",
+        "LT-IS3010GP-2GX8GT",
+        "LT-IS6012GP-4GX8GT",
+        "LT-IS6016G-16GT",
+        "LT-IS6016GP-16GT",
+        "LT-IS6018G-2GX16GT",
+        "LT-IS6018GP-2GX16GT"
+      ]
+    }
+  },
+  {
+    "file": "TRY.xls",
+    "slug": "try-xls",
+    "rows": 61,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "ANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.",
+      "invoice_no": "STSC20250619007",
+      "date": "19th, June, 2025",
+      "payment_term": "T/T in advance, DAP",
+      "issued_by": "Simon Cheng",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "Levent.Kilic@AngoraNetworks.com",
+        "s.sagatelecom@gmail.com"
+      ],
+      "models": [
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "Turkey Client List.xlsx",
+    "slug": "turkey-client-list-xlsx",
+    "rows": 61,
+    "facts": {
+      "email": "info@iotsistem.com",
+      "phone_tr": "90533 74 63788",
+      "emails": [
+        "4steknolojiltd@gmail.com",
+        "a.tugrul@efb-elektronik.com.tr",
+        "bayi@gelecekbt.com",
+        "bilgi@industrialnetworkcenter.com",
+        "bilgi@switchmerkezi.com",
+        "can@asyatelekom.net",
+        "deniz@kozaguvenlik.com.tr",
+        "destek@akakce.com",
+        "destek@baburtech.com",
+        "destek@destekelektronik.com.tr",
+        "eds@eds.com.tr",
+        "eleman@bimel.com.tr",
+        "erete@erete.com.tr",
+        "furkan@optima.tc",
+        "gizem.kiziltan@pavotek.com.tr",
+        "gmt@gmtcontrol.com",
+        "gokhan@okisan.com",
+        "hello@ccsguvenlik.com.tr",
+        "hilal.kirlioglu@pavotek.com.tr",
+        "ik@akakce.com",
+        "iletisim@cebecigrup.com",
+        "info@4sltd.com.tr",
+        "info@areskom.com.tr",
+        "info@bestabilisim.com",
+        "info@cenova.com.tr",
+        "info@coptek.com.tr",
+        "info@coredata.com.tr",
+        "info@cryptolink.com.tr",
+        "info@efb-elektronik.com.tr",
+        "info@entegronnetwork.com",
+        "info@eretekne.com",
+        "info@eslife.com.tr",
+        "info@filizguvenlik.com.tr",
+        "info@hanelektronik.com",
+        "info@inovatech.com.tr",
+        "info@intenet.com.tr",
+        "info@iotsistem.com",
+        "info@lansan.com.tr",
+        "info@longlinenetwork.com",
+        "info@metcom.com.tr",
+        "info@mfd.com.tr",
+        "info@nfsteknoloji.com",
+        "info@nova-grup.com",
+        "info@oncuguvenlik.com.tr",
+        "info@pavotek.com.tr",
+        "info@rfteknoloji.com.tr",
+        "info@snexus.com.tr",
+        "info@teamon.com.tr",
+        "info@technopc.com.tr",
+        "info@tekmarshop.com",
+        "info@teknolojipazar.com",
+        "info@teleone.com.tr",
+        "info@telkolink.com",
+        "kaankokarcali@gmail.com",
+        "murat.soyak@erete.com.tr",
+        "nokta@noktaelektronik.net",
+        "nouman.ali@pavotek.com.tr",
+        "okisan@okisan.com",
+        "ozen.taylanli@erete.com.tr",
+        "purchasing@fgmarket.com.tr",
+        "sales@gemaxxnetwork.com",
+        "satis@asyatelekom.net",
+        "satis@coredata.com.tr",
+        "satis@egemenelektronik.com",
+        "satis@konakguvenlik.com.tr",
+        "satis@lemaxguvenlik.com",
+        "satis@opax.com",
+        "shaalan@kiracbilisim.com.tr"
+      ]
+    }
+  },
+  {
+    "file": "mac_address&serial_number.xlsx",
+    "slug": "mac-address-serial-number-xlsx",
+    "rows": 1537,
+    "facts": {}
+  },
+  {
+    "file": "成本统计.xlsx",
+    "slug": "xlsx",
+    "rows": 61,
+    "facts": {
+      "models": [
+        "LT-IS6310G-2GX8GT",
+        "LT-S8310GP-2GX8GT",
+        "LT-S8328GP-4GX16GT-S",
+        "LT-S8528XGP-4XS24GT",
+        "LT-S8552XGP-4XS48GT",
+        "STC-424XGGPM",
+        "STC-448XGGPM",
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "未付款 1/Quotation.xls",
+    "slug": "1-quotation-xls",
+    "rows": 34,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "Angora Networks",
+      "date": "23rd, Nov, 2024",
+      "price_term": "EXW",
+      "contact": "Levent Kilic",
+      "email": "s.sagatelecom@gmail.com",
+      "phone_tr": "90 (312) 241 77 47",
+      "emails": [
+        "lkilic@angoranetworks.com",
+        "s.sagatelecom@gmail.com",
+        "tesen@angoranetworks.com"
+      ],
+      "models": [
+        "STC-28DGGPM",
+        "STC-424XGGPM-280W",
+        "STC-448XGGPM",
+        "STC-C0",
+        "STC-DX0",
+        "STC-G0",
+        "STC-G20-SD",
+        "STC-QX0",
+        "STC-XG0",
+        "STC-XG10-SD",
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "未付款 1/STSC20241129007.xls",
+    "slug": "1-stsc20241129007-xls",
+    "rows": 64,
+    "facts": {
+      "seller": "Zhengzhou Saga Telecom Co., Ltd.",
+      "buyer": "TRONX BILISIM VE SAGLIK TEKNOLOJILERI LTD. STI.",
+      "invoice_no": "STSC20241129007",
+      "date": "29th, Nov, 2024",
+      "payment_term": "T/T in advance",
+      "issued_by": "Simon Cheng",
+      "contact": "Mr. Mustafa Calik",
+      "email": "s.sagatelecom@gmail.com",
+      "address_ankara": "Çamlica Mah. Anadolu Bulvari, Ti̇Mko-1 Sokak No:20 Z-1, Yeni̇Mahalle 06200 Ankara Turkey",
+      "emails": [
+        "mustafa.calik@tronx.com.tr",
+        "s.sagatelecom@gmail.com"
+      ]
+    }
+  },
+  {
+    "file": "未付款 1/Tronx Saga Siparis Listesi Smartbyte报价.xlsx",
+    "slug": "1-tronx-saga-siparis-listesi-smartbyte-xlsx",
+    "rows": 23,
+    "facts": {
+      "email": "mustafa.calik@tronx.com.tr",
+      "address_ankara": "ANKARA TURKEY",
+      "emails": [
+        "mustafa.calik@tronx.com.tr"
+      ],
+      "models": [
+        "STC-28DGGPM",
+        "STC-424DGGPM-280W",
+        "STC-448XGGPM",
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "未付款 1/Tronx Saga Siparis Listesi-3.xlsx",
+    "slug": "1-tronx-saga-siparis-listesi-3-xlsx",
+    "rows": 20,
+    "facts": {
+      "email": "mustafa.calik@tronx.com.tr",
+      "address_ankara": "ANKARA TURKEY",
+      "emails": [
+        "mustafa.calik@tronx.com.tr"
+      ],
+      "models": [
+        "STC-28DGGPM",
+        "STC-424DGGPM-280W",
+        "STC-448XGGPM",
+        "STI-288DGGPM"
+      ]
+    }
+  },
+  {
+    "file": "警察局项目/CGKS_Field_Switch_DLink_DIS300G_Compliance.xlsx",
+    "slug": "cgks-field-switch-dlink-dis300g-compliance-xlsx",
+    "rows": 31,
+    "facts": {}
+  },
+  {
+    "file": "警察局项目/Turkey_Police_RFP_Compliance_Template.xlsx",
+    "slug": "turkey-police-rfp-compliance-template-xlsx",
+    "rows": 69,
+    "facts": {}
+  },
+  {
+    "file": "运费一览表.xlsx",
+    "slug": "xlsx",
+    "rows": 10,
+    "facts": {}
+  }
+]

@@ -1,0 +1,119 @@
+# SOURCE: Weixin Image_2026-09-23_225251_736.png
+# SIZE: 1546x5422  SLICES: 6
+############################################################
+Levent KILIC
+8/17 Monday 17:29
+Hi Simon, many thanks. I will read it carefully
+I hope nothong erious on the personal side... Take care my friend
+haha no, its about coding. I've using Al to write some codes for personal use, you know, to earn more
+money, haha
+Levent KILiC: I hope nothong erious on the
+personal side... Take care my friend
+actually this reply is not complex, its about your business plan
+Saga's roadmap is already fixed..
+its like
+1 to move on with Saga about our full product line and support
+2 just keep CENTEC L3 as an option for now, not strategically include it in your business postioning
+3 look for new suppliers for marvell enterprise L3 product
+whatever it is, it will be a big choice
+and we will support you
+8/26Wednesday 13:59
+Hi, Levent,
+1. As I repeatedly explained before, we are doing AC5 now.
+AC5 bin file is ready
+For Marvell L2+, maybe you can get some samples to test the features and integrate it to your NMS
+2. About CENTEC L3, please take your time
+It is a strategic move I understand
+Thank you.
+For Marvell L2+, maybe you can get some samples to test the features and integrate it to your NMS
+2. About CENTEC L3, please take your time
+It is a strategic move I understand
+Thank you.
+ac5-release-7.5.0.bin
+56.4M
+微信电脑版
+8/26 Wednesday 14:09
+Hi  Simon, great to hear from you. Many thanks for the update. Let' s plan for samples as soon as
+possible. Agreed.
+As for Centec, I believe we should also make a quick poll with the customers and market in general and
+collectsome feedback.
+thanks, Levent
+1. we will adjust our prices from 1st, Sept.
+Will update you
+2. yes please
+customer feedback and market positioning are vital in choosing CENTEC or not
+btw, Al is empowering Saga, feeding many talks between us
+we have this
+Saga Telecom —— Firma
+Profili (TR).pdf
+PDF
+367.7K
+微信电脑版
+1- Price changes are inevitable I guess.
+8/26Wednesday 14:13
+this is just an example fyi
+Simon:
+Saga Telecom
+Firma Profili
+8/26 Wednesday 14:13
+this is just an example fyi
+Simon:  Saga Telecom — Firma Profili
+(TR).pdf
+PDF
+dont worry, price support as agreed before still stands, will let u know
+Levent KILIC: 1- Price changes are inevitable I
+guess.
+The fle looks great. Only a few smallflaws but great..
+Thank you for your support in the pricing. We have all the trust in you guys
+haha, its from Al
+plan is, we support you in Turkish market regarding prices, materials and discussions
+with the partial help of Al for sure
+Levent KILiC: The fle looks great. Only a few small
+flaws but great..Thank you for your support in ..
+that file is an example, we are not moving into Turkish market by ourself, but by you
+its like we can adapt it by your ideas etc.
+8/26Wednesday14:19
+great thank you. Always here to support you
+its a misunderstanding I guess
+meaning is, we support you in the dark, Saga itself will NOT enter Turkish market directly
+Simon: that file is an example, we are not moving
+into Turkish market by ourself, but by you its lik...
+Aha ha ha. No worries, I understand this. We know and we REALLY appreciate
+thanks
+Aha ha ha. No worries, I understand this.. We know and we REALLY appreciate
+thanks
+8/26Wednesday 14:24
+8/30 Sunday 20:42
+Hi Simon, how ar eyou doing... Just a few quick questions for Monday morning
+STI-4xxXGGPMfamilyrunsRIP/OSPF/BGP/ECMP/VRRP?
+Is a 48-port industrial PoE+ L3 variant of STl-4480xGGM-U available?
+Hi Levent
+yes
+Levent KILIC: STI-4xx XGGPM family runs RIP/
+OSPF/BGP/ECMP/VRRP?
+we can
+But PoE version do not have a huge demand
+Levent KILIC: Is a 48-port industrial PoE+ L3
+variant of STI-4480XGGM-U available?
+hey that was quick. I was not expecting you to be available, let alone work at this time
+thanks
+8/30Sunday20:50
+thanks
+8/30 Sunday 20:50
+haha
+i am still working now
+That is great. we can order 48-port industrial PoE+ Layer 3 for Turk Telekom.
+I am working too...
+I will keep ypu posted on the progress
+thanks, haha
+Levent KILiC: That is great.we can order 48-port
+industrial PoE+ Layer 3 for Turk Telekom.I am ..
+lets see!
+8/30 Sunday 20:58
+forsome reasoni don't understand TT asks abouot 48-port industrial
+8/30 Sunday 21:03
+in some certain projects, industrial is better
+like factories with too much dust or EMl Interference or salt spray, high humidity environment like in wharfs
+basically just in certain projects
+understood
+Send

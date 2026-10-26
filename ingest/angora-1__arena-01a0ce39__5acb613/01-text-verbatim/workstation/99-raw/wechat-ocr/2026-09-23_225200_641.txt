@@ -1,0 +1,418 @@
+# SOURCE: Weixin Image_2026-09-23_225200_641.png
+# SIZE: 1545x20127  SLICES: 20
+############################################################
+Levent KILIC
+6/5 Friday 14:40
+Hey Simon, how are you doing?
+We have a new lead. It is a bit long shot. But in my humble opinion it is a grat niche project.
+It is for a military grade switch to be used in vehicles.
+I believe this is a real differentiator for both you and us.
+There is a potential end user (army of course), who wants to have a Turkish brand to avoid dependency in
+American or other sources.
+Pls this is highly confifential for now. Pls see attached a draft document we have compiled.
+Let's discuss if Saga also interested in this niche and very different market.
+24-Port Gigabit _Military_S
+witch_Spec_DraftC.pdf
+PDF
+360.6K
+微信电脑版
+6/5 Friday 14:48
+Hi, Levent,
+I am good, thanks.
+How are you there?
+Thanks for the info, let me study
+6/5 Friday 14:56
+Thanks. This may really be a good opportunity to differentiate
+Studying
+Thanks.Thismay reallybe a good opportunity to differentiate
+Studying
+6/8 Monday 13:51
+Hi Simon, have a good week... Did you have a chance to check the military switch opportunity ?
+Hi, Levent,
+Thanks.
+I checked, sorry, its not focus.
+1. High IP-rated models are not available
+2. Too many certification requirements
+Sorry...
+6/8 Monday 13:52
+we do not do this type
+No worries. I understand.
+Pls note that I did not mean to ask Saga to invest into engneering on this.
+We are working on a lead and if this comes along we can work with Saga as our R&D house by carrying the
+engineering costs. The intellectual propoerty would be our customer's.
+adoid pay  s e ns po nd o a  a  sna no j! s  ui ba psn o
+6/8 Monday 14:37
+Hi again, Levent,
+Just had a meeting, and sorry to tell you that
+Our current technical resources and R&D time for this model are not allowing us..
+its too long
+Hi again, Levent,
+Just had a meeting, and sorry to tell you that
+Our current technical resources and R&D time for this model are not allowing us..
+its too long
+For now, we focus on the final matters of AC3 to AC5 transition
+and niche projects are probably not for us
+We stick with popular models and solutions, this is high ROl
+based on this, we customize some features for certain clients
+6/8 Monday 14:47
+That's fine. I totally understand.
+Let's focus on selling what we already have
+yes please
+and you are working with Larch Networks?
+we are talking now, acutally talked for a few times
+about SONIC, SMBs etc.
+6/8 Monday 16:07
+Yes we know them.
+6/8 Monday 17:01
+ok thanks I will let u know if Saga releases new info
+6/11 Thursday 22:12
+Hi Simon, we are working on a frame agreement with a partner for an ODM model for standard products.
+ok thanks I will let u know if Saga releases new info
+6/11 Thursday 22:12
+Hi Simon, we are working on a frame agreement with a partner for an ODM model for standard products.
+Standard commercial and industrial models.
+It' s basically L2+ models
+We will work on a gradual pricing model for 1, 100, 500, 1000 pcs
+Have you switched to AC5 chipset yet? Any revisions on the current pricing?
+Hi, Levent,
+thanks for your info
+yes, AC5 switching is basically ready for all models
+about price, it will be a little more expensive, its the memory price!
+any specs?
+Levent KILlC: Hi Simon, we are working on a frame
+agreement with a partner for an ODM model for...
+Oh no
+The specs are the same as current models for now. I will make a list for you and share later today
+You can have a file in the morning.
+6/11 Thursday 22:17
+ok thanks
+what is this?
+LeventKILIC:Ohno
+ok thanks
+what is this?
+Levent KILIC: Oh no
+about price?
+6/11 Thursday 22:27
+yea... any increase is a scary thing, as you would guess
+6/11 Thursday 22:30
+its not much actually
+and as I explained before
+we will support you on pricing
+this one
+Simon: 1. thanks for this 2. actually we meant a
+long-term price support! long-term means anyt...
+yes i know. thank you.
+we hope to establish a long term, steady business with this ODM partner.
+ok, wait for the list, lets see what we can do
+As you can imagine, continous business is much better than one-off business. even if less profits, the net
+amount is much bigger
+yes
+we will give our max price support
+yes
+we will give our max price support
+thank you as always
+thanks .
+6/11 1hursday 22:35
+staying up late tonight?
+not really, haha
+its 10.30pm here, I usually sleep around 12pm
+midnight, so its cool, haha
+6/11 Thursday 23:13
+Oh you are right. I thought it was late
+The night is still young
+6/11 Thursday 23:25
+haha, 5 hours difference
+yep I just got that
+hows everything there
+I am trying to figure out myself. the economy and politics are crazy as everywhere. People are trying to
+navigate uncertainity
+6/11 Thursday 23:31
+navigateuncertainity
+6/11 Thursday 23:31
+1. exchange rate is a big problem, usd to lira, usd to rmb
+both are bad
+2. marvell is very strong, its gaining momentum in Al and stock market
+so its good to stick with Marvell solutions
+this could be a long-term advantage
+well yes, politics makes everything more complex and chaotic.
+absolutely.. Turkish economy needs a huge devaluation against UsD... But the government is holding it
+up... I dont know why
+lira to RMB is an option as I explained before
+we are also suffering now
+United States Dollar to Chinese Yuan
+6.7728 45.84% -0.42001
+i know... we can probably do Lira to Yuan
+maybe just skip usd
+6/11 Thursday 23:34
+yes
+well
+yes
+well
+the reason I mentioned Larch is, I saw your logo on their website
+haha
+they are Marvell-focused, this is good
+yes they are a good partner. but politically we had a lot of problems in Turkey because we cooperate with
+an israeli compnay.
+thecurrentgovernment is morereligous
+seeing this makes things easier actually
+we just give you best support and keep the marvell game going
+Simon: the reason I mentioned Larch is, I saw your
+logo on their website
+yep
+politics..
+Levent KILlC: yes they are a good partner. but
+politically we had a lot of problems in Turkey bec..
+unfortunately.. we are just rying to navigate in a turbulant political environment.
+this is fine... things go ups and downs.
+but as I said, we will keep the marvell game going, one way or the other, long-term perspective is
+important
+agreed
+6/11 Thursday 23:41
+lets see
+agreed
+6/11 Thursday 23:41
+lets see
+6/12 Friday 02:13
+IBC-ANW-Switch-List.pdf
+PDF
+27.8K
+微信电脑版
+IBC-ANW-Switch-List.xlsx
+11.2K
+微信电脑版
+same file in PDF and Excel. Pls check the details.
+6/12Friday 11:35
+Hi Slmon, how are you doing today?
+Any chance to check the files?
+Hi, Levent, yes i checked
+will send a detailed reply today
+Great, thank you. This is getting a serious discussion and the frame agreement will be yearly. The quantities
+are 1K ranges.
+6/12 Friday 11:41
+We have a yet ANOTHER lead for a frame contract. I will share the technical specs for this now.
+ok thansk
+We have a yet ANOTHER lead for a frame contract. I will share the technical specs for this now.
+ok thansk
+The seecond one is for Turk Telekom, but they need some more Layer 3 features. Mainly multicast and
+stacking.
+I did a quick check, Marvell AC5 seems to meet these requirements. Pls check the Technical specs as you
+receive them
+So now we have 2 big leads for 2 frame contracts:
+1- A major defence company (which you have the list)
+2- Turk Telekom (specs following)
+6/12 Friday 11:47
+TT-Tech-Specs-2026-
+EN.pdf
+PDF
+50.7K
+微信电脑版
+Pls note all information and documents are confidential
+thanks, will check
+but stacking would be a big problem...
+I will write you a detailed reply later
+6/12 Friday 11:51
+okay. let's discuss stacking in detail. We also have some experience.
+What happens is we design a 4-port uplink device. 2 uplink-ports supprt stacking feature by software. So
+you can chain upto 6 switches.
+I think it is doable. But let's discuss in detail later
+What happens is we design a 4-port uplink device. 2 uplink-ports supprt stacking feature by software. So
+you can chain upto 6 switches.
+I think it is doable. But let's discuss in detail later
+Here is another analysis I have done with Al.
+6/12 Friday 11:58
+TT-Marvell-AC5.pdf
+PDF
+220.2K
+微信电脑版
+yes, for the chip itself, it supports stacking(this info is available in Marvell chip datasheet)
+its our technical direction and resources!
+we dont do stacking
+anyway I will explain soon
+98DX35xx Typi
+Aggregation
+0/25GR
+Access Edge
+lets try to figure out a solution!
+okay. We want to work with YOU on this Turk Telekom project. You have been very supportive all along.
+Let's see what we can do.
+okay. We want to work with YOU on this Turk Telekom project. You have been very supportive all along.
+Let's see what we can do.
+6/12 Friday 12:03
+ok thanks
+6/12 Friday 15:52
+Hi, Levent,
+1 Please check our offer, quoted in RMB
+It is a very big support on pricing
+We will handle all the increasing material cost(memory, PCBs etc.)
+If you cross check, it is even lower than those unit prices in our public price list
+2. For customizations, all good
+As I wrote, there might be a fee for some customizations
+We will quote when there is some progress
+But please rest assured that it will be a big support as well
+3. About another project, stacking is NOT available, confirmed!
+We are not going to develop it at the moment.
+3.1: maybe it is an option to ask for help from Larch or your other partners?
+3.2: I will take some extra time reading the specs in TT project and reply, its a bit busy here
+Please let me know
+Thanks
+IBC-ANW-Switch-List_Quo
+tation_2026.06.12.xlsx
+11.6K
+微信电脑版
+6/15 Monday 11:09
+Hi Simon, thank you for the update. Just a quick question: what' s the chipset for the prices for IBC switch
+quotes?
+MarvellAC5
+Hi Simon, thank you for the update. Just a quick question: what' s the chipset for the prices for IBC switch
+quotes?
+Marvell AC5
+Oh okay, you are fully committed to AC5 chipset now. Transferring all models to AC5
+yes
+Still, we have some AC3 models in stock, handling it
+Great. Thanks.
+but if our clients insist on AC5, we will just do AC5
+For the TT project, pls give us some time, studying it
+About TT lead, I will have a meeting with Taylan today to discuss options.
+Sure. No worries. Thank you
+Simon: For the TT project, pls give us some time,
+studying it
+6/15 Monday 11:15
+thanks.
+6/15 Monday 23:06
+To help you evaluate the TT Techncal Specifications. Pls see below
+The key structural observations from the data:
+Types 3, 4, 5 are nearly identical in features — the only differences are that Type 4 has no stacking
+requirement, and Type 5 adds the industrial temperature/fanless constraint.
+just the
+The key structural observations from the data:
+Types 3, 4, 5 are nearly identical in features — the only differences are that Type 4 has no stacking
+requirement, and Type 5 adds the industrial temperature/fanless constraint.
+Types 1 and 2 are L2+ only — no routing protocols, no PIM, no QoS-per-interface. The difference is just the
+Add-on variant in Type 2.
+Type 6 is the outlier — fiber-only ports, much higher performance (128 Mpps / 196 Gbps), adds BGP, drops
+STP/RSTP/MSTP, and requires redundant PSU. It also does not explicitly require 802.1X or TACACS+.
+TT-Switch-Feature-
+Matrix.xlsx
+17.7K
+微信电脑版
+6/15 Monday 23:12
+ok thanks Levent
+6/15 Monday 23:31
+6/17 Wednesday 14:25
+Hi Simon, any updates for me about the Turk Telekom RFP?
+HI Levent
+There are some unavailable features
+1. Stacking
+2. OSPFv3
+3.PIM-SM/PIM-DM andSSM
+4. Type 6 100G QSFP28
+We are nowworking on 2frame agreements
+1- Defence COmpany
+1-a Commercial Edge Switches
+1-b Military switch (we PASS this one)
+2-Turk Telekom
+2-a 6 different types of switches, 5 edgde and 1 ToR
+1- Defence COmpany
+1-a Commercial Edge Switches
+1-b Military switch (we PASS this one)
+2-Turk Telekom
+2-a 6 different types of switches, 5 edgde and 1 ToR
+for other features, basically good
+2-a: ToR is not available for Marvell options
+At Turk Telekom, our partner is strong, so we can give our L2+
+As I understand we cannot deliver stacking and L3, correct?
+there are L3 switches, but from L3 features, there are still some missing ones
+OSPFv3 is it
+PIM-SM/PIM-DM and SSM
+and this
+Yes, L2+ is good enough
+6/17 Wednesday 14:31
+Understand. Let me work on this. Thank you.
+this is confirmed and will not be developed for now
+Simon: HI Levent There are some unavailable
+features 1. Stacking 2. OSPFv3 3. PIM-SM/PIM-D..
+we are still studying the excel, will let u know more info soon
+Thank you, let's focus on L2+ then. We will try something else for models requiring stacking and other features.
+6/17 Wednesday 14:41
+Thank you, let's focus on L2+ then. We will try something else for models requiring stacking and other features.
+6/17 Wednesday 14:41
+T2 is probably the only feasible
+stacking and OSPFv3 are basically mandatory in T1, 3 4 5 6
+confirmed, not available
+T2 is totally good for now
+Q
+## The key structural observations from the data:
+1. Types 3, 4, 5 are nearly identical in features — the only differences are that Type 4 has no stacking
+requirement, and Type 5 adds the industrial temperature/fanless constraint.
+2. Types 1 and 2 are L2+ only — no routing protocols, no PlM, no QoS-per-interface. The difference is just
+the Add-on variant in Type 2.
+3. Type 6 is the outlier —- fiber-only ports, much higher performance (128 Mpps / 196 Gbps), adds BGP,
+drops STP/RSTP/MSTP, and requires redundant PSU. It also does not explicitly require 802.1X or TACACS+.
+TT-Switch-Feature-
+Matrix.xlsx
+X
+17.8K
+微信电脑版
+For modesindice as PoE o PoEiAnex 1Switch Tatle, e swh
+shallspport IEEE 23f PoEsnd IEEE 23at PoE+ as bullin
+funcCionlt: Noeotel power s shl e rqured for hisfee.
+The sch shal b stackable Aches wihin the stak shalbemanaed
+rum off6 units shall be stackablein a single
+Sack.ashletvic s td
+6/17 Wednesday 14:46
+The snich shal be stackable A
+rating without interrupton.
+6/17 Wednesday 14:46
+For now, only T2 is good @9
+6/17 Wednesday 21:23
+Hi again, Levent
+After careful evaluation, T2 is good
+all features are compliant
+T2 is a good-to-go, for other projects, lets discuss and see
+6/17Wednesday21:24
+thanks
+ok great. thanks
+6/18 Thursday 00:35
+I passed the quotation to the customer. They will come back next Monday.
+JWill keep you posted
+6/18 Thursday 13:34
+Hi Levent
+IBC-ANW-Switch-List_Quotation_2026.06.12
+Hi Levent
+IBC-ANW-Switch-List_Quotation_2026.06.12
+this quotation?
+6/18Thursday 13:47
+Yes
+Hi there
+ok thanks lets wait and see
+6/18Thursday 13:57
+6/30 Tuesday 13:38
+Hi, Levent,
+1 any progress about the quotation? IBC-ANW-Switch-List_Quotation_2026.06.12
+2 please check this
+Saga Feature
+List 7.5.x_ L2+.xlsx
+X
+99.0K
+微信电脑版
+we mainly upgraded L2+ features
+Hi Simon, thanks for sharing the information. Great improvements.
+we mainly upgraded L2+ features
+Hi Simon, thanks for sharing the information. Great improvements.
+6/30 Tuesday 13:44
+As for IBC switches, I keep regular follow up with them. They tell me all is okay and waiting management
+confirmation
+Things sometimes get longer at management level
+I choose to believe they for now.
+its OK, lets wait, just checking!
+its basically about this
+Simon:  Saga Feature List_7.5.x_L2+.xlsx
+6/30 Tuesday 13:51
+All good thanks
+6/30 Tuesday 13:57
+thanks
+7/6 Monday 17:09
+Hi Simon, we are working on positioning the unstackable L2+ Industrial version for the TT project.
+Here is a draft for a quick user manual to come out of the box. Just a draft for now for your review.
+～
+Send

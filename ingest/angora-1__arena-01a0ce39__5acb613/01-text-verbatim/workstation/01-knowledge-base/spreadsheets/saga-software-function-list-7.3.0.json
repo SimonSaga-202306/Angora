@@ -1,0 +1,758 @@
+{
+  "source": "RFP/Saga Software Function List-release 7.3.0.xlsx",
+  "title": "Saga 软件功能清单 release 7.3.0",
+  "description": "含 Marvell AlleyCat 3 与 AlleyCat 5 两代平台逐项对照",
+  "banner": "Application Protocol\n Features",
+  "rows": [
+    {
+      "category": "Switch Specification",
+      "subcategory": "Switch Specification",
+      "feature": "Marvell \nAlleyCat 3 series",
+      "value": "Marvell \nAlleyCat 5 series / Remark"
+    },
+    {
+      "category": "Port features",
+      "subcategory": "Support IEEE 802.3x Flow Control",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port features",
+      "subcategory": "Support Interface Counters",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port features",
+      "subcategory": "SupportJumbo Frame, maxium:10222bytes",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port aggregation",
+      "subcategory": "Support GE Port Aggregaiton",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port aggregation",
+      "subcategory": "Support 10GE Port Aggregation",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port aggregation",
+      "subcategory": "Support Static Aggregation",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port aggregation",
+      "subcategory": "Support LACP Dynamic Aggragation",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port aggregation",
+      "subcategory": "Aggregation Groups creation supported number",
+      "feature": "64",
+      "value": "64"
+    },
+    {
+      "category": "Port aggregation",
+      "subcategory": "Number of Each Aggregation Group Members",
+      "feature": "8",
+      "value": "8"
+    },
+    {
+      "category": "VLAN",
+      "subcategory": "IEEE 802.1Q Tagged VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "VLAN",
+      "subcategory": "MAC-based VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "VLAN",
+      "subcategory": "IP-based VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "VLAN",
+      "subcategory": "Protocol-based VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "VLAN",
+      "subcategory": "VLAN Range",
+      "feature": "1-4094",
+      "value": "1-4094"
+    },
+    {
+      "category": "Mac- address Table",
+      "subcategory": "Support Static Mac-address Management",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Mac- address Table",
+      "subcategory": "Support Dynamic Mac-address Management",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Mac- address Table",
+      "subcategory": "Support Filtering Mac-address",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Mac- address Table",
+      "subcategory": "Support Mac-address Limit based on port and VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Mac- address Table",
+      "subcategory": "Support Mac-address Flapping based on Port or VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Mac- address Table",
+      "subcategory": "Mac-address Table Size",
+      "feature": "16k",
+      "value": "16k"
+    },
+    {
+      "category": "GVRP",
+      "subcategory": "Normal Mode",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "GVRP",
+      "subcategory": "Fixed Mode",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "GVRP",
+      "subcategory": "Forbidden Mode",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QinQ",
+      "subcategory": "Support Port-based QinQ",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QinQ",
+      "subcategory": "Support VLAN-based QinQ",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QinQ",
+      "subcategory": "Support VLAN-Mapping",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QinQ",
+      "subcategory": "Support Flow-based QinQ",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "MSTP",
+      "subcategory": "Support 802.1D STP",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "MSTP",
+      "subcategory": "Support 802.1W RSTP",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "MSTP",
+      "subcategory": "Support 802.1S MSTP",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "MSTP",
+      "subcategory": "Support BPDU Guard",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "MSTP",
+      "subcategory": "Number of Single Ring Device Connections* Suggested",
+      "feature": "20",
+      "value": "20"
+    },
+    {
+      "category": "ERPS（G.8032)",
+      "subcategory": "Support Major Ring",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ERPS（G.8032)",
+      "subcategory": "Support linking the Sub Ring and other Rings",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ERPS（G.8032)",
+      "subcategory": "Recovery Time",
+      "feature": "20ms",
+      "value": "20ms"
+    },
+    {
+      "category": "ERPS（G.8032)",
+      "subcategory": "Number of Single Ring Device Connections* Suggested",
+      "feature": "20",
+      "value": "20"
+    },
+    {
+      "category": "Storm Suppression",
+      "subcategory": "Speed Limited basing on port bandwidth percentage",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Storm Suppression",
+      "subcategory": "Support broadcast storm suppression(broadcast; unknown multicast; unknown unicast)",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "SPAN",
+      "subcategory": "Supported Number of Sessions",
+      "feature": "7",
+      "value": "7"
+    },
+    {
+      "category": "SPAN",
+      "subcategory": "Support Many-to-One Mode",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "RSPAN",
+      "subcategory": "Remote Port mirroring(Remote Switch Port Analyzer)",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "LLDP",
+      "subcategory": "Link Layer Discovery Protocol",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Port isolation",
+      "subcategory": "Isolate Groups supported number",
+      "feature": "1",
+      "value": "1"
+    },
+    {
+      "category": "Static Routing",
+      "subcategory": "Support VLAN Interface（SVI） and Route Port",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Static Routing",
+      "subcategory": "Support IPv4 Static Routing Table Entry Configuration",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Static Routing",
+      "subcategory": "Support ARP Dynamic Learning and Static Configuration",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Static Routing",
+      "subcategory": "Support IPv6 Static Routing Table Entry Configuration",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Static Routing",
+      "subcategory": "Support IPv6 Neighbor Discovery and Static Configuration",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Static Routing",
+      "subcategory": "Routing Prefix Table Size For IPv4, for IPv6 Divide by 4",
+      "feature": "256",
+      "value": "768"
+    },
+    {
+      "category": "RIP",
+      "subcategory": "Routing Information Protocol",
+      "feature": "P",
+      "value": "P / L3 only"
+    },
+    {
+      "category": "OSPFv2",
+      "subcategory": "Open Shortest Path First",
+      "feature": "P",
+      "value": "P / L3 only"
+    },
+    {
+      "category": "IS-IS",
+      "subcategory": "Intermediate System-to-Intermediate System",
+      "feature": "P",
+      "value": "P / L3 only"
+    },
+    {
+      "category": "BGP4",
+      "subcategory": "Border Gateway Protocol V4",
+      "feature": "P",
+      "value": "P / L3 only"
+    },
+    {
+      "category": "ECMP",
+      "subcategory": "Equal Cost Multi Path",
+      "feature": "P",
+      "value": "P / L3 only"
+    },
+    {
+      "category": "DHCPv4 Client",
+      "subcategory": "Dynamic Host Configuration Protocol, For IPv4",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "DHCPv6 Client",
+      "subcategory": "Dynamic Host Configuration Protocol For IPv6",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "DHCPv4 Snooping",
+      "subcategory": "Support DHCP Snooping Trust Port",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "DHCPv4 Snooping",
+      "subcategory": "Support DHCP Snooping Option-82",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "DHCPv4 Snooping",
+      "subcategory": "Support DHCP Snooping Circuit-id and Remote-id Customized",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "DHCPv4 Server",
+      "subcategory": "DHCP Server,  For IPv4",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "Support QoS Class, Remarking",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "Support SP, WRR Queue Scheduling",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "Ingress Port-based Rate-limit",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "Egress Port-based Rate-limit",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "Policy-based QoS",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "Port Queue Numbers",
+      "feature": "8",
+      "value": "8"
+    },
+    {
+      "category": "IGMP Snooping",
+      "subcategory": "Internet Group Management Protocol Snooping",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "IGMP Snooping",
+      "subcategory": "Multicast Table Size",
+      "feature": "1k",
+      "value": "1k"
+    },
+    {
+      "category": "ACL",
+      "subcategory": "Support IP Standard ACL",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ACL",
+      "subcategory": "Support IP Extended ACL",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ACL",
+      "subcategory": "Support Mac ACL",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ACL",
+      "subcategory": "Support IPv6 ACL",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ACL",
+      "subcategory": "Supporting ACL  application on VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ACL",
+      "subcategory": "Maximum number of ACL Entrys, Include Input and Output",
+      "feature": "240",
+      "value": "480"
+    },
+    {
+      "category": "Port Security",
+      "subcategory": "Support Port Security",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "IP Source Gurad",
+      "subcategory": "Support IP Source Guard, Port-based IP/Mac Binding Access",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "ARP Check",
+      "subcategory": "ARP Check(ARP packet filtering)",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Ddos",
+      "subcategory": "Ddos Attack Protection",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Dot1x",
+      "subcategory": "Port Access Control",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Dot1x",
+      "subcategory": "Mac-address Access Control",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Dot1x",
+      "subcategory": "RADIUS Server",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "AAA",
+      "subcategory": "RADIUS Authentication Access Switch",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "AAA",
+      "subcategory": "TACACS Authentication Access Switch",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "AAA",
+      "subcategory": "Authorization",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Loop Detect",
+      "subcategory": "Based on Port or VLAN",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "VRRP",
+      "subcategory": "Virtual Router Redundancy Protocol",
+      "feature": "P",
+      "value": "P / L3 only"
+    },
+    {
+      "category": "Dual Stack",
+      "subcategory": "IPv4 and IPv6 Dual Stack Management",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Syslog Management",
+      "subcategory": "Syslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Syslog Management",
+      "subcategory": "Supports Connecting up to 3 Servers",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Syslog Management",
+      "subcategory": "For IPv4 and IPv6",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "User management",
+      "subcategory": "Support Authentication by Password Protection",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "User management",
+      "subcategory": "Support Local Management of User Privilege",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "User management",
+      "subcategory": "Remote Authorization by RADIUS or TARCAS",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "User management",
+      "subcategory": "Support User Privilege Level 0 to 15",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Login Service Management",
+      "subcategory": "Up to 8 Users Online Simultaneously by vty",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Login Service Management",
+      "subcategory": "Access Control Based on IPv4 or IPv6 ACL",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Device firmware management",
+      "subcategory": "Support Firmware Upgrade by WEB",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Device firmware management",
+      "subcategory": "Support Firmware Upgrade by CLI",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Device firmware management",
+      "subcategory": "Support Dual Partition",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Web Management",
+      "subcategory": "Web Management",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Web Management",
+      "subcategory": "Support HTTP V1.1",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Web Management",
+      "subcategory": "Support HTTPS",
+      "feature": "O",
+      "value": "P"
+    },
+    {
+      "category": "Web Management",
+      "subcategory": "For IPv4 and IPv6",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "failure detection",
+      "subcategory": "Ping and Tracerout, For IPv4 and IPv6",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "failure detection",
+      "subcategory": "Support Dying-gasp",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "failure detection",
+      "subcategory": "Support Optical-DDM",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "failure detection",
+      "subcategory": "Support One Click Fault Information Collection",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "failure detection",
+      "subcategory": "Support Cable Detect",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "NTP",
+      "subcategory": "For IPv4 and IPv6",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Configuration import/export",
+      "subcategory": "Remote Configuration import/export by FTP/TFTP)",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Configuration import/export",
+      "subcategory": "Local Configuration Import/export by USB",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "sFLOW",
+      "subcategory": "Sampled Flow",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "SNMP",
+      "subcategory": "Supporting Version(SNMP V2C/V3)",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "RMON",
+      "subcategory": "RMON",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "PoE",
+      "subcategory": "Support PD Alive Detect",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "PoE",
+      "subcategory": "Support PoE Port Power Feeding Priority management",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "PoE",
+      "subcategory": "Support PoE Port Power Limit",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "PoE",
+      "subcategory": "Support PoE Power Alarm threshold settings",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "PoE",
+      "subcategory": "Support PoE Reseve Power settings",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "PoE",
+      "subcategory": "Support PoE Legacy Mode",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "PoE",
+      "subcategory": "IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Telnet Server",
+      "subcategory": "Support Telnet Server, For IPv4 and IPv6",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "Telnet Client",
+      "subcategory": "Support Telnet Client, For IPv4 and IPv6",
+      "feature": "P",
+      "value": "P"
+    },
+    {
+      "category": "SSH Server",
+      "subcategory": "Support SSH2 , for IPv4 and IPv6",
+      "feature": "P",
+      "value": "P"
+    }
+  ]
+}

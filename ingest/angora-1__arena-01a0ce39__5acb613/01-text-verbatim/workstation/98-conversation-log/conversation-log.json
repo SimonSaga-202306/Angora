@@ -1,0 +1,409 @@
+{
+  "schema": "angora.conversation-log/v1",
+  "created": "2026-09-27",
+  "owner": "Simon (user) / Arena agent",
+  "rule": {
+    "1": "Record every round of user conversation into MD with timestamps",
+    "2": "All subsequent conversations must be recorded",
+    "3": "This rule is written into workstation/README.md §0"
+  },
+  "source_of_truth_md": "workstation/98-conversation-log/00-conversation-log.md",
+  "time_anchors": {
+    "rounds_1_4": "2026-09-23 (25 commits)",
+    "rounds_5_8": "2026-09-26 (8 commits)",
+    "round_9": "2026-09-27",
+    "note": "Per-round exact times unknown; intra-round times come from git log",
+    "round_10": "2026-09-27 22:59 (+08:00, Asia/Shanghai)",
+    "round_11": "2026-09-27 23:12 (+08:00, Asia/Shanghai)",
+    "round_12": "2026-09-27 23:34 (+08:00, Asia/Shanghai)",
+    "round_13": "2026-10-06 17:28 / 17:40 (approx, +08:00, Asia/Shanghai; screenshot upload 17:25:57 per filename)",
+    "round_14": "2026-10-08 ≈09:10 / 09:20 (approx, +08:00, Asia/Shanghai)",
+    "round_15": "2026-10-08 (~09:50 +08:00)",
+    "round_16": "2026-10-08T10:20:00+08:00",
+    "round_30": "2026-10-21 ≈18:55 (+08:00, Asia/Shanghai)",
+    "round_31": "2026-10-21 ≈20:10 (+08:00, Asia/Shanghai)"
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "date": "2026-09-23",
+      "heading": "第 1 轮",
+      "raw_instruction": "1 之前的一些财务上对不上的不用管了 PASS 因为都是很早的了\n2 未成交 未付款的单子也不管了 PASS 因为都是很早的了\n3 仓库里的项目 RFQ RFP等都不管了 PASS 因为都是很早的了\n做以下动作\n1 重构仓库内容 就是你读取相关信息 编写MD JSON等\n2 深度挖他们相关的信息 比如领英 facebook youtube啥的 挨个处理就行 全量挖 不要漏东西\n3 搞一下他们的进口情况\n4 全量爬取镜像他们网站 copy所有的信息 是所有的 1个标点符号都不能漏了\n5 挖他们和Turk Telekom的关系 他们在和我的日常对话中时常提到TT公司\n上述信息先放在workstation里 暂时不推PR 需要时我会和你说\n📌 **约束生效中**：本轮明确「暂时不推 PR」（后于第 3 轮被推翻）。\n📌 **永久 PASS**：① 历史财务对不上的差异 ② 未成交/未付款的旧单 ③ 仓库内旧 RFQ/RFP。",
+      "char_count": 415,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 2,
+      "date": "2026-09-23",
+      "heading": "第 2 轮",
+      "raw_instruction": "继续干刚才没干完的\n另外做下边任务\n1 挖他们公司人的信息 尤其是Taylan和Levent 他们2个是头头\n我这里指的是深度挖 他们的工作经历啊 工作重心啊啥的\n同时也挖他们公司其他人的信息\n反正不要漏了 深度全量挖去\n2 按照这个来\n（**《竞对情报深度收集方法论 · 完全版》全文** —— 18 个章节：公开数字资产 / 图片视觉情报 / 规格书 /\n认证合规 / 供应链反向溯源 / 招聘情报 / 中标招投标 / 工商财务 / 专利 / 客户渠道 / 海关贸易 /\n舆情口碑 / 人员情报 / 展会 / 隐蔽渠道 / 搜索语法 / 工具速查 / 输出结构 18 项档案模板）\n注意，这里边有一些是不适用的，上述主要是针对中国公司的你进行一个相关适配和筛选\n目的就是一个：深度挖\n3 他们目前主要是做政府类项目\n这方面挖一下他们的进展比如竞标 拿到的项目啥的\n4 调查一下他们和larch networks的关系，他们网站上有larch的标，larch网站上也有他们的\n5 他们和EWIND进口的数据能拿到吗 比如时间 产品 数量等\n和Larch networks的呢\n和Neme Engae的呢，这个公司网站是啥 咋搜不到信息?\n6 2026 年 4 月改版的 VERGE 页面，把我方供的型号全换掉了\n这个信息给我好好挖一下，比如给我MD或者网站或者PDF链接啥的\n我看看\n7 已确认我们被替换 —— 新 SYNAPSE 系列正好补上我方 8 月拒绝做的那个坑\n一样，给我信息 我研究一下啥的\n8 TT 要求卡着我方产品的硬伤（温度）\n这是哪个项目 其实75 85度这个严格来说没太大差别的 我们也可以宣传85 也能过测试\n但主要是现在都在考虑PoE满载下的工作温度，一定是满载而不是常规运行 所以说了75\n这个项目/标给我信息 我研究一下\n8 继续挖angora和中国公司的合作关系，比如和哪些有合作 有过合作啥的 挖的越多越好\n9 另外Ewind / Larch这2个公司我很熟悉 你挖吧 能挖多少挖多少",
+      "char_count": 860,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 3,
+      "date": "2026-09-23",
+      "heading": "第 3 轮",
+      "raw_instruction": "1 Neme Engae = 深圳 NEM Engine Technology（光模块/DAC 高速线缆厂，不是交换机对手）\n那就是了 Karen的模块公司\n你在main的gmail信息里也能看到的\nkaren@nemengine.com   @Karen LEE\n这个我知道他们在合作，Levent告诉过我的\n2 taylan和levent我有他们的微信 主要是我和levent对接\n聊了很多很多 但微信没办法导出信息 没办法给你看 后续再说吧\n3 你miss了一个很重要的点\n我是一个贸易商 从这个公司采购 https://www.smartbyte-switch.com/\nLarch networks的工业交换机 https://larch-networks.com/industrial-switches/\n是从这个公司买：https://www.lanaotek.com/products/din-rail-l2-l3-managed-switch/\n这个公司是一个贸易商，从很多公司买\nLanaotek背后的公司是这个：https://en.scodeno.com/product_list_8.html\nscodeno这个品牌和smartbyte的老板 这2个老板是亲兄弟\n一个叫刘念，smartbyte的叫刘情\n你可以看到，lanaotek网站上有smartbyte的产品，比如IDSL3M-04X24GHP-SU-L\nhttps://www.lanaotek.com/products/24xge-rj45-4x10g-sfp-support-di-do-and-rs485-port-1-4-support-bt-90w/\n这个链接\n所以：整个链条你看到了吧\nSmartbyte和我是一起的\nScodeno > lanaotek > larch networks的硬件工业交换机\n由于2个工厂是兄弟公司，lanaotek 也有Smartbyte的一些产品，比较错综复杂\n另外再补充一个信息给你，larch和我们公司接触过  看main的gmail邮件\n4. 三家供应商\nEwind  是的 这个是真对手\nLarch  不算是对手吧 第三点解释了\nNeme Engae Technology 不是对手 第一点解释了\n5 把信息进仓库：6+7：\n先把上述所有信息，所有的，从第一轮开始讨论的结论全部推PR 进仓库\n然后再做下边任务\n①反搜 Angora 官网产品图定位 ODM（最直接）；② 下载那两个宣传册 PDF 比对；\n③ 查 Larch 案例页看有没有 Angora 项目；④ 拉 Volza 逐票明细量化我方份额。\n挨个搞 都弄了 不要遗漏\n⭐⭐ **供应链关系链（用户亲述，权威）**\n```\nSmartByte（刘情）──── 与我方（Simon）同一阵营\n│ 老板是亲兄弟\nScodeno（刘念）──► Lanaotek（贸易商）──► Larch Networks 硬件\n│ 兄弟公司交叉铺货\n└──► Lanaotek 亦售 SmartByte 型号（如 IDSL3M-04X24GHP-SU-L）\n```\n- **SmartByte 老板：刘情**；**Scodeno 老板：刘念**（亲兄弟）\n- **Larch 曾与我方接触**（见 main 的 Gmail）\n⭐⭐ **三家供应商定性（最终结论，勿再变动）**\n| 公司 | 定性 | 依据 |\n|---|---|---|\n| **Ewind** | ✅ **真对手** | 用户明确 |\n| **Larch Networks** | ❌ 不算对手 | 与 Scodeno/Lanaotek 同族，敏感 |\n| **NEM Engine Technology** | ❌ 不是对手 | 光模块/DAC 厂，Karen LEE 的公司 |\n📌 **PR 策略变更**：本轮推翻第 1 轮「暂时不推 PR」→ **改为全部推 PR 进仓库**。",
+      "char_count": 1668,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 4,
+      "date": "2026-09-23",
+      "heading": "第 4 轮",
+      "raw_instruction": "1 Gmail - Booster PoE Switch\nGmail - Managed Optical Bypass Switch\n这几个email 一共是5个 刚传上去没多久 main仓库 你再看看 ALAN和larch对接的\n2 宣传册 PDF 下载并解析成功\n这都是2023年的了 其实参考意义不大\n你看我仓库和Angora成交的单子啊 都是24 25年合作的\n3 但它同时在 Larch 的客户页上。为了保\"100% 国产自主\"的政府项目人设，它不能公开承认用 Larch\n是的 Levent在微信上和我说过这个\nthe reason I mentioned Larch is, I saw your logo on their website\nHaha\nthey are Marvell-focused, this is good\nyes they are a good partner. but politically we had a lot of problems in Turkey because we cooperate with an israeli compnay.\nthe current government is more religous\n我们对话的一个小片段\n由于larch和lanaotek scodeno smartbyte等复杂的关系，而且我只是小的贸易商，采购量也不大，我们不考虑和larch再主动接触，只被动回应即可\n这是可以利用的杠杆 —— 不透明的供应商（我方）反而有空间：{ASS 不考虑\n4 VERGE 家族至今给不了 Levent 要的那套动态路由 L3\n我们产品是满足的\n8/30 Sunday 20:42\nHi Simon, how ar eyou doing... Just a few quick questions for Monday morning\nSTI-4xx XGGPM family runs RIP/OSPF/BGP/ECMP/VRRP?\nIs a 48-port industrial PoE+ L3 variant of STI-4480XGGM-U available?\n我前一阵子还和levent沟通这个，所以L3型号也是OK的\n但你看仓库啊：SAGA Enterprise L3 Recommendation Report\nReply on SAGA Enterprise L3 Recommendation Report\n这个对话 其实我们是想把重心放在L2+的  smartbyte觉得L3需求少，跟进麻烦（功能开发啥的），很多推广和技术资源都放在了L2+，你可以看看Saga Feature List_7.5.x_L2+（main仓库刚传的）功能还是很强大的\n5 继续爬：把网站剩下 30% 爬完（RU 语种、博客、隐私政策）\n6 和Ewind的合作信息挖了多少? 我是和angora2024年5月开始合作的，后续一直在沟通\n不过最近15个月都是没单子，但levent一直在问项目\n感觉EWIND是2024年之前合作了的吧？\n用 ImportGenius / Panjiva 试（大概率也是墙）\n大概率也是墙？？试了吗？\ndo your best, OK?\n继续挖，能挖多少挖多少\n7 上述1 2 3轮中的问题再好好处理一下，深度挖，尽全力去挖\n⭐⭐ **Larch 政治风险（Levent 原话，微信）**\n*\"they are a good partner. but **politically we had a lot of problems in Turkey because we cooperate\nwith an israeli company**. the current government is more religous\"*\n→ 这是 Angora 不能公开承认用 Larch 的**真实原因**（保\"100% 国产自主\"政府项目人设）。\n📌 **我方对 Larch 的策略（用户定）**：**不主动接触，只被动回应**。\n理由：关系复杂 + 我方采购量小。\n⭐ **L3 能力澄清**：我方产品**满足** Levent 要的 RIP/OSPF/BGP/ECMP/VRRP。\n但 SmartByte 战略重心在 **L2+**（L3 需求少、跟进麻烦），\n参见 `Saga Feature List_7.5.x_L2+`（功能强大）。\n⚠️ **用户批评**：「大概率也是墙？？试了吗？」→ **禁止预先宣告信源被封**，必须实际尝试。\n（此条已升级为永久约束）",
+      "char_count": 1943,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 5,
+      "date": "2026-09-23",
+      "heading": "第 5 轮",
+      "raw_instruction": "1 下轮细读？？ 为啥不直接读了\n2 网站剩余 30%（RU 语种 ×6、博客全文、隐私政策、/submarine/）继续爬\n3 Ewind 合作时间线 —— 你的判断（2024 年之前）我倾向认同：Volza 样本提单是 2023-11，\nTurkeyTradeData 统计窗口 2023-08~2024-07 共 21 票全来自中国，而那个窗口里我方只有 1 单\n（2024-05, $1,265）。说明 Ewind 的合作大概率在 2024 年 5 月我方开始合作之前就已经在走。\n下轮我深挖验证。\n4 我这就去试，不试不罢休。 OK\n5 1/2/3 轮的遗留问题再深挖一轮。 OK\n专业一些 深度全量挖取 调用不同的方法去挖\n⚠️ **用户批评**：「下轮细读？？为啥不直接读了」\n→ **禁止把任务推迟到\"下一轮\"**，当场做完。（已升级为永久约束）",
+      "char_count": 381,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 6,
+      "date": "2026-09-26",
+      "heading": "第 6 轮",
+      "raw_instruction": "1 SYNAPSE 这是啥 哪个公司吗 给我more info\n2 Gordion 数据中心线 这又是啥 more info\n3 ImportGenius 继续挖 挖EWIND以及其他中国同行的客户信息 如你说的 一些没被墙\n深度挖 关于中国同行比如Utepo/ONV/UNIPOE/Scodeno等\n4 新发现分销商 Advensis 法国那个公司？ 是angora的分销商？有证据吗？\n5 抓 HITIT 页面，与 Ewind 目录逐型号比对（验证白牌假设）\n抓 Synapse（1797）+ 8-24-48口（428）宣传册 PDF\n试 TradeInt / Tendata 要土耳其数据（宣称有土国\"独家\"数据）\n新域名恢复后补齐 RU + 博客全文 → 镜像 100%\n追 DX1518/DX1548 芯片到底是什么、\"our customer\"是谁\n6 读一下main仓库的wechat talk这个文件夹：我长录屏了所有和levent的对话\n你把所有信息copy下来 搞成MD或者JSON吧 把时间戳啥的也加上\n7 另外你还需要啥关于Angora的信息 去深度 更好的理解这个公司\n告诉我 我看看能搞到不\n继续挖，如我一直说的，全量 深度 多渠道\n给我挖！",
+      "char_count": 535,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 7,
+      "date": "2026-09-26",
+      "heading": "第 7 轮",
+      "raw_instruction": "1 给你的录屏记录就是所有的信息了 包含了2026年的了\n2024 2025年的 图里有明确的时间戳\n没有写2026的 但只有月和日的就是2026年的聊天记录了\n2 Angora 2026 年的报价单 / PI / 产品目录 我没有\n今年他们一个单子也没下 光问了\n我也没给他们报价单 因为最近涨价了 你看聊天记录啊\n你把所有内容读完了吗 读完你就知道了 关于价格和支持\n3 新版 VERGE 里 ANW-IND-8P-2SFP 和 ANW-2023-E8GT 的规格书或照片 不是很在意\n你可以看到 我们还是在进行高强度的微信沟通和项目处理\n替换1 2个型号没啥问题的\n重要的是我深入理解这个客户并拿到单子！\nhttps://www.angoranetworks.com/verge-network-switch-serisi/\nEndüstriyel Yerli Switch Ürün Broşürü\n这个PDF我看了一下 和之前的一样 没啥变化\nANW-VERGE-2023-INDUSTRIAL-DATASHEET-20210423-TR\nANW-VERGE-2023-ENTERPRISE-DATASHEET-20210423-TR  2个PDF我传到了main\n4 Angora 的 NMS / 固件版本号 不知道 只有gmail沟通力taylan录入了我们2光8工业管理的信息\n5 TT 2026 年那份技术规格书（不是 2023 通用公告）不知道\n6 你手上有 SmartByte 的完整目录吗 有 传到了main 注意：这已经是最新的了 2025\n应该他们有2026的 不过我手上没有\n如果需要更多信息 你直接爬他们网站 https://www.smartbyte-switch.com/\n他们8月初才更新了网站 信息基本都是最新的了\n同时，我把smartbyte给我的价格也传到了main 你读取一下\n7 Angora 的 Ticaret Sicil 文件（你有一份 2024-03-11 的）无\n8 Levent 说过的\"strong partner\"（能推动 TT 发标的那个）是谁 无 需要我问吗\n感觉问这个不太合适吧\n9 下一步我继续：① 等 OCR 跑完合并成时间轴 MD/JSON；② 抓 Scodeno 官网型号表验证 HITIT 工业三款；\n③ 抓 Lanaotek 工业交换机页比对 ANW-IND-8P-2SFP；④ 试 TradeInt/Tendata 要土耳其数据；\n⑤ 新域名恢复后补齐 RU + 博客全文。 都搞了 专业一些\n10 另外，你要把所有给你的信息理解了\ngmail对话 微信对话 相关信息等\n我最开始不是和你说了吗 都要搞成MD JSON这些吗 方便读取\n你搞了吗\n⭐⭐ **年份规则（用户亲述，权威）**\n- 录屏里**带年份**的时间戳 → 按年份（2024 / 2025）\n- **只有月和日、没写年份** → **一律是 2026 年**\n- 已实现并经星期名校验（`WECHAT-TIMESTAMP-VERIFICATION.md`）\n⭐ **2026 年业务实况**：**Angora 今年一单未下，只在问价**。\n我方**未发过 2026 年报价单**（因近期涨价）。\n📌 用户强调：**核心目标是\"深入理解客户并拿单\"**，个别型号被替换不重要。",
+      "char_count": 1412,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 8,
+      "date": "2026-09-26",
+      "heading": "第 8 轮",
+      "raw_instruction": "1 给你一些补充信息\nScodeno / Lanaotek / Larch 他们3个是一家 他们还在大量使用AC3 少部分AC5\n我Saga和smartbyte是一家 已经全面AC5了 由于最近涨价比较厉害，才部分采用了AC3，原则上是不采用任何AC了\n你就直接简单理解为，smartbyte会一直领先Scodeno就行了\n不存在被反超的可能 只可能一个水平\n这是现实经验 从规格书 网站啥的看不出来的\n2 ① 合并 2026 微信对话；OK\n3 ② Larch 工业页第 2 段 + IronMan PDF；③ Larch NPB 页比对 Karınca；\n④ Scodeno 官网型号表；⑤ Lanaotek 工业页；\n**你没必要盯着这3个公司了啊 我让你调研angora的 看我给你的历史信息，他们3个是一家本来就没办法去干啥了，兄弟公司，很敏感，最近他们又在谈大订单**\n**别管他们3个公司了**\n4 ⑥ TradeInt/Tendata 试土耳其数据；⑦ 新域名恢复后补齐镜像。OK\n5 之前给你的任务都搞定了吗 再看看\n6 关于第 8 点（Levent 说的 \"strong partner\"）—— 我觉得可以问，但要换问法。\n别问\"谁是你背后推动 TT 招标的关系\"，而是顺着项目问：\n\"这个项目最终是谁系统集成/交付？我们需要准备什么认证文件和授权书给集成方？\"\n他大概率会自然说出公司名。\n**这个PASS angora跟我聊天挺好的 他觉得OK了自然会说的**\n⭐⭐ **芯片代次格局（用户亲述，现实经验，规格书看不出来）**\n| 阵营 | 芯片状态 |\n|---|---|\n| **Saga / SmartByte（我方）** | **已全面 AC5**；因近期涨价才**部分**采用 AC3；**原则上不采用任何 AC** |\n| **Scodeno / Lanaotek / Larch（三家一家）** | **大量 AC3，少部分 AC5** |\n→ **SmartByte 永远领先 Scodeno，不存在被反超，最多持平。**\n🚫 **停止深挖 Larch / Scodeno / Lanaotek**（用户第 8 轮明确）：\n「别管他们3个公司了」——三家一家、兄弟公司、敏感、最近在谈大订单。\n📌 **\"strong partner\" 问题 → PASS**（用户裁定）：\n不问。Angora 与我方沟通良好，**他觉得 OK 了自然会主动说**。",
+      "char_count": 1044,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 9,
+      "date": "2026-09-27",
+      "heading": "第 9 轮",
+      "raw_instruction": "1 这几个都不用管了 都不是啥重要的问题\nINFO.rar（51 MB，RAR 5.0） —— 沙箱无 root，unrar 编译失败。但目录清单已完整读出并存盘，\n里面藏着 5 份仓库里没有的 PPTX：PeakNetX、VastLakes（都是 CENTEC 平台）、STH1G / STH25G 系列数据表。\n配合刚发现的 CENTEC L3 战略，建议你优先本地 unrar x 后给我。\n官网 /download/425|428|485|488|491/ 数据表 PDF，需本地下载。\n官网评论区 reCAPTCHA 阻断（无价值，已跳过）。\n48 口澄清和阶梯报价按你说的 PASS 了，没动。\n要不要我接着把那 5 份 CENTEC PPTX 留好入库脚本，你解压完直接跑\n**着重看以下任务**\n2 读取相关信息 编写MD JSON等\n这个是否全量编写了 没有遗漏是吧？\n3 深度挖他们人员的信息：挖完了吗 管理层 员工等\n领英 facebook youtube X等 所有渠道能挖的都给我挖了 入库\n4 他们的竞标情况挖的如何 入库了吗 深度挖取\n5 微信对话内容是否全量提取了 尤其是时间戳，这个一定一定别给忘记了，务必加上去\n6 所有Angora信息都挖了吗 要从成立起初到现在所有的变化\n口号 供应商 业务范围和方向 人员变化 进出口营业额等等 各个维度都要挖\n然后整理好入库\n再说一次，所有信息都要入库\n不能有遗漏\n用各种方法交叉检查 复查 抽查等\n这是我们之前对话几轮我的回复内容 还有最近的几次我没记录\n1 你统一记录进MD 带上时间戳\n2 后续所有的对话内容都要记录\n3 把这个规则写进readme\n这部分是上一轮结束后又推进的工作，按用户第 9 轮第 1 条要求一并记录。",
+      "char_count": 753,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 10,
+      "date": "2026-09-27",
+      "heading": "第 10 轮",
+      "received_at": "2026-09-27T22:59:00+08:00",
+      "raw_instruction": "推PR 全部入库",
+      "char_count": 8,
+      "source": "user_verbatim"
+    },
+    {
+      "round": 11,
+      "date": "2026-09-27",
+      "heading": "第 11 轮",
+      "received_at": "2026-09-27T23:12:00+08:00",
+      "raw_instruction": "# Agent 宪法：上下文连续性规范\n> 将本文件放入仓库根目录，或作为 System Prompt 的一部分。  \n> 所有参与本项目的 AI Agent 必须无条件遵守以下规范。\n\n---\n\n## 第一条：首要义务 — 读取上下文\n\n**每次新对话开始，Agent 的第一个动作必须是：**\n\n1. 读取仓库根目录的 `AGENT-README.md`\n2. 读取本文件（`AGENT-CONSTITUTION.md`）\n3. 在执行任何操作前，向用户输出一段\"状态确认\"，格式如下：\n\n```\n📋 上下文已加载\n- 当前任务：<从 README 读取>\n- 工作分支：<从 README 读取>\n- 上次进度：<从 README 读取>\n- 我的下一步计划：<基于 README 的判断>\n\n请确认是否继续，或告知调整方向。\n```\n\n**违反此条的任何操作输出均视为无效，用户有权要求重置。**\n\n---\n\n## 第二条：分支操作规范\n\nAgent 在处理 Git 相关任务时，**必须实际执行命令获取状态，禁止依赖记忆或假设**：\n\n```bash\n# 每次操作前必须执行的检查序列\ngit status                        # 工作区状态\ngit branch -a                     # 所有分支（含远程）\ngit log --oneline --graph -20     # 近期提交图\ngit stash list                    # 未保存的变更\n```\n\n**分支操作前的强制确认**：  \n涉及 `merge` / `rebase` / `reset` / `force push` 的操作，必须先向用户描述影响范围，等待明确确认（\"确认\" / \"yes\" / \"继续\"）后方可执行。\n\n---\n\n## 第三条：状态同步义务 — 更新 README\n\n以下任何事件发生后，Agent **必须**更新 `AGENT-README.md`：\n\n| 触发事件       | 必须更新的字段             |\n| ---------- | ------------------- |\n| 任务完成       | 已完成任务列表、正在进行的任务、下一步 |\n| 新分支创建      | 分支全景图、关键 Commit 记录  |\n| 重要决策       | 关键决策 & 背景知识         |\n| 发现 Bug / 坑 | 当前已知问题、关键决策（已踩过的坑）  |\n| 对话即将结束     | 对话历史摘要、最后更新时间       |\n| 遗留未完成任务    | 遗留问题、待办任务           |\n\n更新后，Agent 必须输出：\n```\n✅ AGENT-README.md 已更新\n变更摘要：<一句话说明更新了什么>\n```\n\n---\n\n## 第四条：禁止行为清单\n\n以下行为被明确禁止，无论用户是否要求：\n\n| 禁止行为 | 原因 |\n|----------|------|\n| 未读 README 直接操作代码或 git | 可能破坏已有进度 |\n| 假设文件内容而不实际读取 | 分支内容随时可能变化 |\n| 在未确认的情况下执行破坏性操作 | 不可逆风险 |\n| 对话结束时不更新 README | 导致下一 Agent 失去上下文 |\n| 在 README 中记录密钥、密码、token | 安全风险 |\n| 删除 README 中的历史记录条目 | 历史可追溯性原则，只增不删 |\n\n---\n\n## 第五条：对话中断恢复协议\n\n当用户使用关键词「**接着上次**」「**继续**」「**恢复**」「**新对话**」时，Agent 必须：\n\n1. 立即触发第一条的\"首要义务\"流程\n2. 不得要求用户重新解释背景（背景在 README 中）\n3. 如 README 信息不足以判断状态，主动询问**具体缺失信息**，而非要求用户\"重新描述需求\"\n\n---\n\n## 第六条：文件读取完整性原则\n\n处理代码任务时：\n\n- **必须**先读取相关文件的完整内容，再进行修改\n- **禁止**仅凭文件名或部分内容猜测实现\n- 涉及多个文件的重构，必须先列出所有受影响文件，确认后逐一处理\n- 每次 `str_replace` 前必须重新 `view` 目标文件（防止上下文中的版本已过时）\n\n---\n\n## 第七条：不确定性处理\n\n当 Agent 对以下情况不确定时，**必须停下来问用户**，不得自行决定：\n\n- 该修改哪个分支\n- 某个需求的优先级\n- 是否可以删除某段代码\n- 架构层面的取舍\n- 任何\"我猜应该是这样\"的情况\n\n不确定时的标准输出格式：\n```\n❓ 需要确认\n问题：<具体问题>\n选项A：<描述及影响>\n选项B：<描述及影响>\n我的倾向：<A/B，原因是...>\n```\n\n---\n\n## 附录：README 更新模板（每次对话结束时使用）\n\n```markdown\n### 对话 N — YYYY-MM-DD HH:mm\n**主题**：<本次做了什么>\n**产出**：\n  - 文件变更：<列出>\n  - 决策：<列出>\n  - Commit：<hash + message>\n**遗留问题**：<未完成的事，或None>\n**下一步**：<明确的下一个动作>\n```\n\n---\n\n*本宪法版本：v1.0 | 创建于 2026-08-31 | 需要修订时请同时更新版本号*\n\n\n# AGENT-README.md\n> **用途**：本文件是 AI Agent 的\"对话状态快照\"，用于在会话中断、刷新或切换新对话时，让新 Agent 无缝衔接上下文。  \n> **维护规则**：每次对话结束或阶段性完成后，必须更新本文件。新对话开始时，Agent 必须首先读取本文件。\n\n---\n\n## 📌 项目概览\n\n| 字段 | 内容 |\n|------|------|\n| 项目名称 | `<填写>` |\n| 仓库路径 | `<填写>` |\n| 当前主分支 | `<填写，如 main / master>` |\n| 工作分支 | `<填写，如 feature/xxx>` |\n| 最后更新时间 | `<YYYY-MM-DD HH:mm>` |\n| 最后更新由 | `<对话轮次 or 任务描述>` |\n\n---\n\n## 🎯 项目目标\n\n> 用 2-3 句话描述这个项目在做什么，解决什么问题。\n\n---\n\n## 🗺️ 当前任务状态\n\n### 正在进行的任务\n```\n任务：<描述>\n状态：进行中 / 阻塞 / 待确认\n阻塞原因：<如有>\n下一步：<明确的下一个动作>\n```\n\n### 已完成的任务（最近5条）\n- [x] `<任务描述>` — 完成于 `<时间>`\n- [x] `<任务描述>` — 完成于 `<时间>`\n\n### 待办任务（按优先级）\n- [ ] 🔴 高优：`<任务>`\n- [ ] 🟡 中优：`<任务>`\n- [ ] 🟢 低优：`<任务>`\n\n---\n\n## 🌿 分支全景图\n\n> Agent 必须在开始任何操作前执行 `git branch -a` 和 `git log --oneline -20` 获取最新状态，不得依赖记忆。\n\n```\nmain\n├── feature/xxx     ← 当前工作分支，最新 commit: <hash> <message>\n├── feature/yyy     ← 状态: <已合并/废弃/待合并>\n└── fix/zzz         ← 状态: <描述>\n```\n\n**关键 Commit 记录**\n\n| Commit Hash | 分支 | 说明 |\n|-------------|------|------|\n| `<hash>` | `<branch>` | `<message>` |\n| `<hash>` | `<branch>` | `<message>` |\n\n---\n\n## 🏗️ 架构 & 关键文件\n\n```\n<项目根目录>/\n├── <关键文件或目录>   # 说明其作用\n├── <关键文件或目录>   # 说明其作用\n└── <关键文件或目录>   # 说明其作用\n```\n\n**重要约定**\n- 编码规范：`<如 ESLint / Black / 自定义>`\n- 测试命令：`<如 npm test / pytest>`\n- 构建命令：`<如 npm run build>`\n- 环境变量：`<关键 env 变量名，不要填值>`\n\n---\n\n## 🧠 关键决策 & 背景知识\n\n> 记录那些\"不看历史对话就不会知道\"的决定，防止新 Agent 重蹈覆辙。\n\n- **决策**：`<我们为什么选择 X 而不是 Y>`  \n  **原因**：`<简要说明>`\n\n- **已踩过的坑**：`<描述>`  \n  **解决方案**：`<描述>`\n\n- **绕过方案（Workaround）**：`<描述>`  \n  **临时原因**：`<描述，记得后续清理>`\n\n---\n\n## 💬 对话历史摘要\n\n> 按时间倒序，每次对话一条记录。\n\n### 对话 N — `<YYYY-MM-DD>`\n**主题**：`<本次对话做了什么>`  \n**产出**：`<文件变更 / 决策 / 结论>`  \n**遗留问题**：`<未解决的事项>`\n\n### 对话 N-1 — `<YYYY-MM-DD>`\n**主题**：`<本次对话做了什么>`  \n**产出**：`<文件变更 / 决策 / 结论>`  \n**遗留问题**：`<未解决的事项>`\n\n---\n\n## ⚠️ 当前已知问题\n\n| 问题描述 | 严重程度 | 状态 |\n|----------|----------|------|\n| `<描述>` | 🔴高 / 🟡中 / 🟢低 | 排查中 / 待修复 / 已绕过 |\n\n---\n\n## 🤖 给新 Agent 的交接指令\n\n> 新对话开始时，Agent 必须严格按以下顺序执行，不得跳过：\n\n```\nStep 1: 读取本文件（AGENT-README.md），理解全部上下文\nStep 2: 执行 git status 确认工作区状态\nStep 3: 执行 git branch -a 确认所有分支\nStep 4: 执行 git log --oneline -10 确认最近提交\nStep 5: 读取\"正在进行的任务\"，确认下一步行动\nStep 6: 向用户简要复述理解到的状态，等待确认后再操作\n```\n\n**禁止行为**\n- ❌ 不得在未读取本文件前执行任何 git 操作\n- ❌ 不得假设分支内容，必须实际读取文件确认\n- ❌ 不得在用户确认前自行决定修改方向\n- ❌ 不得覆盖用户已有的本地修改\n\n---\n\n*本文件由 Agent 自动维护，最后一次人工校验：`<日期>\n\n# Agent 宪法：上下文连续性规范（含深度审计版）\n\n> 将本文件放入仓库根目录，或作为 System Prompt 的一部分。 所有参与本项目的 AI Agent 必须无条件遵守以下规范。 本版本在原有框架基础上，新增「第八条：深度审计协议」，用于解决\"总结式记录必然遗漏细节\"的问题。\n\n---\n\n## 第一条：首要义务 — 读取上下文\n\n**每次新对话开始，Agent 的第一个动作必须是：**\n\n1. 读取仓库根目录的 `AGENT-README.md`\n2. 读取本文件（`AGENT-CONSTITUTION.md`）\n3. 在执行任何操作前，向用户输出一段\"状态确认\"，格式如下：\n\n```\n📋 上下文已加载\n- 当前任务：<从 README 读取>\n- 工作分支：<从 README 读取>\n- 上次进度：<从 README 读取>\n- 我的下一步计划：<基于 README 的判断>\n\n请确认是否继续，或告知调整方向。\n```\n\n**违反此条的任何操作输出均视为无效，用户有权要求重置。**\n\n---\n\n## 第二条：分支操作规范\n\nAgent 在处理 Git 相关任务时，**必须实际执行命令获取状态，禁止依赖记忆或假设**：\n\n```bash\ngit status\ngit branch -a\ngit log --oneline --graph -20\ngit stash list\n```\n\n**分支操作前的强制确认**： 涉及 `merge` / `rebase` / `reset` / `force push` 的操作，必须先向用户描述影响范围，等待明确确认后方可执行。\n\n---\n\n## 第三条：状态同步义务 — 更新 README\n\n以下任何事件发生后，Agent **必须**更新 `AGENT-README.md`：\n\n|触发事件|必须更新的字段|\n|---|---|\n|任务完成|已完成任务列表、正在进行的任务、下一步|\n|新分支创建|分支全景图、关键 Commit 记录|\n|重要决策|关键决策 & 背景知识|\n|发现 Bug / 坑|当前已知问题、关键决策（已踩过的坑）|\n|对话即将结束|对话历史摘要、最后更新时间|\n|遗留未完成任务|遗留问题、待办任务|\n\n更新后，Agent 必须输出：\n\n```\n✅ AGENT-README.md 已更新\n变更摘要：<一句话说明更新了什么>\n```\n\n> ⚠️ **重要提示**：本条只规定\"要更新\"，但不保证\"更新得全\"。完整性由第八条的审计协议保障，**两者缺一不可**。\n\n---\n\n## 第四条：禁止行为清单\n\n|禁止行为|原因|\n|---|---|\n|未读 README 直接操作代码或 git|可能破坏已有进度|\n|假设文件内容而不实际读取|分支内容随时可能变化|\n|在未确认的情况下执行破坏性操作|不可逆风险|\n|对话结束时不更新 README|导致下一 Agent 失去上下文|\n|在 README 中记录密钥、密码、token|安全风险|\n|删除 README 中的历史记录条目|历史可追溯性原则，只增不删|\n|**仅通读一遍对话就直接下结论\"已全部记录\"**|通读式总结是语义压缩，天然会丢细节，不能作为完整性的证据|\n|**审计和写入由同一次思考过程完成，不做角色切换**|容易产生确认偏误，自己写的自己审不出问题|\n\n---\n\n## 第五条：对话中断恢复协议\n\n当用户使用关键词「**接着上次**」「**继续**」「**恢复**」「**新对话**」时，Agent 必须：\n\n1. 立即触发第一条的\"首要义务\"流程\n2. 不得要求用户重新解释背景（背景在 README 中）\n3. 如 README 信息不足以判断状态，主动询问**具体缺失信息**，而非要求用户\"重新描述需求\"\n\n---\n\n## 第六条：文件读取完整性原则\n\n- **必须**先读取相关文件的完整内容，再进行修改\n- **禁止**仅凭文件名或部分内容猜测实现\n- 涉及多个文件的重构，必须先列出所有受影响文件，确认后逐一处理\n- 每次 `str_replace` 前必须重新 `view` 目标文件\n\n---\n\n## 第七条：不确定性处理\n\n当 Agent 对以下情况不确定时，**必须停下来问用户**，不得自行决定：\n\n- 该修改哪个分支\n- 某个需求的优先级\n- 是否可以删除某段代码\n- 架构层面的取舍\n- 任何\"我猜应该是这样\"的情况\n\n标准输出格式：\n\n```\n❓ 需要确认\n问题：<具体问题>\n选项A：<描述及影响>\n选项B：<描述及影响>\n我的倾向：<A/B，原因是...>\n```\n\n---\n\n## 第八条：深度审计协议（核心新增）\n\n> **设计原则**：普通总结（\"通读一遍然后概括\"）是有损压缩，模型会本能地\"抓重点\"而丢\"边角信息\"。 因此审计不能靠\"再读一遍、再仔细一点\"，而必须靠**机械化、可核对、多角色、多方法交叉**的流程。 **每次要写入 README 之前，必须完整走完以下四个阶段，不得跳步、不得合并简化。**\n\n### 阶段一：分块处理（防止长对话注意力稀释）\n\n- 若本次对话内容较长（预估超过约 3000-5000 字/轮次较多），**不得一次性通读后直接总结**。\n- 按对话轮次或字符数切分为若干块（block），逐块单独提取信息，不依赖对前面内容的\"印象\"。\n- 每一块单独输出一份提取结果，最后再合并、去重、排序。\n\n### 阶段二：分类穷举抽取（用\"穷举清单\"代替\"总结\"）\n\n对每一块内容，**分别、独立**回答以下问题（禁止合并成一句话概括）：\n\n```\n1️⃣ 文件/路径：本块中提到的所有文件名、路径、目录结构有哪些？（哪怕只出现一次）\n2️⃣ 决策与否决：本块中做出的所有决策，以及用户明确否决/放弃的方案有哪些？\n3️⃣ Bug与坑：本块中发现的所有报错信息、异常现象、边界情况有哪些？\n4️⃣ 未解决事项：本块中提到但未处理完的问题、悬而未决的疑问有哪些？\n5️⃣ 版本控制信息：本块中出现的所有 commit hash、分支名、tag 有哪些？\n6️⃣ 关键数字与配置：本块中提到的所有具体数值、参数、环境变量名（不含密钥值）有哪些？\n7️⃣ 用户明确要求/偏好：用户在本块中提出的、未必是\"任务\"但属于\"要求\"的内容有哪些？\n   （例如：\"以后不要用 xxx 方式\" \"命名要遵循 yyy 规则\"）\n```\n\n> 每一类必须逐条列出，不允许用\"略\"、\"等等\"、\"以及其他若干\"这类模糊收尾。 如某一类确实没有内容，必须明确写\"本块无此类信息\"，而不是留空——**留空和\"确认无\"是两种不同状态，必须区分**。\n\n### 阶段三：锚点机械核对（不依赖模型\"理解\"，靠字符串比对）\n\n1. 从原始对话全文中，机械提取（可用 grep/正则思路）所有**专有名词**：\n    - 文件名、函数名、类名\n    - 错误信息关键片段\n    - commit hash（长度特征明显）\n    - 分支名\n    - 用户提到的具体人名/项目名/服务名\n2. 逐一核对：这个词是否已经出现在即将写入 README 的内容里？\n3. 未出现的，回头判断是否需要补充；补充后重新核对一次，直到清单清零或明确标注\"无需记录\"（并写明原因）。\n\n**输出格式：**\n\n```\n🔍 锚点核对表\n| 专有名词 | 类型 | 是否已入 README | 备注 |\n|---------|------|-----------------|------|\n| xxx.py  | 文件 | ✅ 已记录         |      |\n| abc123  | commit | ❌ 未记录       | 需补充 |\n```\n\n### 阶段四：角色分离交叉检查（防止确认偏误）\n\n- **写手角色**：完成 README 更新草稿。\n    \n- **审计员角色**（同一 Agent，但必须显式切换视角，假装\"没看过写手的思考过程\"）：\n    \n    - 只对比\"原始对话全文\" vs \"写手产出的 README 更新草稿\"\n    - 只回答一个问题：\"原始对话里有、README 草稿里没有的信息点是什么？\"\n    - **不做总结、不做润色、只做差异发现**\n- **逆向复述校验（往返测试）**：\n    \n    - 审计员**只看 README 草稿，不看原对话**，尝试复述\"这次对话大概发生了什么\"\n    - 将这份复述与原始对话做比对：\n        - 复述中出现了原对话没有的内容 → 说明 README 有编造/推断成分，需修正\n        - 复述中缺失了原对话有的关键内容 → 说明 README 有遗漏，需补充\n    - 这一步专门用于捕捉\"正向审计容易漏掉\"的系统性盲区\n\n### 阶段五：抽样复核（固定锚点，而非随机凭感觉）\n\n不要\"随便抽查几段\"，而要固定在以下位置抽查，形成可重复的检查习惯：\n\n- 对话**开头 10%**片段\n- 对话**中间 50%**片段\n- 对话**结尾 10%**片段\n- 以及：**上一轮 Agent 交接时特别强调过的内容**（如有）\n\n对每个抽查片段，重新走一遍\"阶段二的分类穷举\"，并核对结果是否已体现在 README 中。\n\n### 阶段六：输出审计报告（每次更新 README 后必须附带）\n\n```\n📊 深度审计报告\n✅ 已确认覆盖的信息点（按类别列出）：\n   - 文件/路径：...\n   - 决策：...\n   - Bug/坑：...\n   - 未解决事项：...\n   - 版本信息：...\n\n⚠️ 审计中发现并已补充的遗漏项：\n   - <具体内容> → 已补充至 README 的 <字段名>\n\n❓ 不确定是否需要记录、需要用户判断的信息：\n   - <具体内容，说明为何不确定>\n\n🔁 本次审计使用的方法：\n   - [x] 分块处理  [x] 分类穷举  [x] 锚点核对\n   - [x] 角色分离交叉检查  [x] 逆向复述校验  [x] 固定位置抽样复核\n\n🧮 覆盖率自估：本次对话预估信息点共 <N> 项，已确认记录 <M> 项，\n    未确认/待用户判断 <K> 项。\n```\n\n> **只有输出了完整的审计报告，本轮 README 更新才算完成。缺少审计报告的更新视为无效更新，需要重做。**\n\n---\n\n## 第九条：对话中断恢复协议（保留原第五条内容，编号后移）\n\n已并入第五条，此处不重复。\n\n---\n\n## 附录一：README 更新模板（每次对话结束时使用）\n\n```markdown\n### 对话 N — YYYY-MM-DD HH:mm\n**主题**：<本次做了什么>\n**产出**：\n  - 文件变更：<列出>\n  - 决策：<列出>\n  - Commit：<hash + message>\n**遗留问题**：<未完成的事，或None>\n**下一步**：<明确的下一个动作>\n**审计状态**：✅ 已完成第八条深度审计 / ⚠️ 部分完成，原因：<...>\n```\n\n## 附录二：AGENT-README.md 主体模板\n\n（沿用原结构，不变）\n\n```markdown\n# AGENT-README.md\n\n## 📌 项目概览\n| 字段 | 内容 |\n|------|------|\n| 项目名称 | `<填写>` |\n| 仓库路径 | `<填写>` |\n| 当前主分支 | `<填写>` |\n| 工作分支 | `<填写>` |\n| 最后更新时间 | `<YYYY-MM-DD HH:mm>` |\n| 最后更新由 | `<对话轮次 or 任务描述>` |\n\n## 🎯 项目目标\n> 用 2-3 句话描述这个项目在做什么，解决什么问题。\n\n## 🗺️ 当前任务状态\n### 正在进行的任务\n```\n\n任务：<描述> 状态：进行中 / 阻塞 / 待确认 阻塞原因：<如有> 下一步：<明确的下一个动作>\n\n```\n### 已完成的任务（最近5条）\n- [x] `<任务描述>` — 完成于 `<时间>`\n\n### 待办任务（按优先级）\n- [ ] 🔴 高优：`<任务>`\n- [ ] 🟡 中优：`<任务>`\n- [ ] 🟢 低优：`<任务>`\n\n## 🌿 分支全景图\n```\n\nmain ├── feature/xxx ← 当前工作分支，最新 commit: <hash> <message> ├── feature/yyy ← 状态: <已合并/废弃/待合并> └── fix/zzz ← 状态: <描述>\n\n```\n**关键 Commit 记录**\n| Commit Hash | 分支 | 说明 |\n|-------------|------|------|\n| `<hash>` | `<branch>` | `<message>` |\n\n## 🏗️ 架构 & 关键文件\n```\n\n<项目根目录>/ ├── <关键文件或目录> # 说明其作用 └── <关键文件或目录> # 说明其作用\n\n```\n**重要约定**\n- 编码规范：`<...>`\n- 测试命令：`<...>`\n- 构建命令：`<...>`\n- 环境变量：`<关键 env 变量名，不要填值>`\n\n## 🧠 关键决策 & 背景知识\n- **决策**：`<...>`　**原因**：`<...>`\n- **已踩过的坑**：`<...>`　**解决方案**：`<...>`\n- **绕过方案**：`<...>`　**临时原因**：`<...>`\n\n## 💬 对话历史摘要\n### 对话 N — `<YYYY-MM-DD>`\n**主题**：`<...>`\n**产出**：`<...>`\n**遗留问题**：`<...>`\n**审计状态**：`<...>`\n\n## ⚠️ 当前已知问题\n| 问题描述 | 严重程度 | 状态 |\n|----------|----------|------|\n| `<描述>` | 🔴高/🟡中/🟢低 | 排查中/待修复/已绕过 |\n\n## 🔍 深度审计记录（新增）\n> 记录每轮审计的覆盖率自估，用于追踪\"记录质量\"是否持续可靠。\n\n| 对话轮次 | 预估信息点 | 已记录 | 待确认 | 审计方法是否全部执行 |\n|---------|-----------|--------|--------|---------------------|\n| N | <N> | <M> | <K> | ✅ / ⚠️ 部分 |\n\n## 🤖 给新 Agent 的交接指令\n```\n\nStep 1: 读取本文件，理解全部上下文 Step 2: 执行 git status / git branch -a / git log --oneline -10 Step 3: 读取\"正在进行的任务\"，确认下一步行动 Step 4: 检查\"深度审计记录\"表，若上一轮审计标注 ⚠️ 部分， 优先补齐未完成的审计项，再继续新任务 Step 5: 向用户简要复述理解到的状态，等待确认后再操作\n\n```\n\n**禁止行为**\n- ❌ 不得在未读取本文件前执行任何 git 操作\n- ❌ 不得假设分支内容，必须实际读取文件确认\n- ❌ 不得在用户确认前自行决定修改方向\n- ❌ 不得覆盖用户已有的本地修改\n- ❌ **不得跳过第八条深度审计协议直接标记\"已更新\"**\n\n---\n\n_本宪法版本：v2.0（新增第八条深度审计协议）| 基于 v1.0 (2026-08-31) 修订_\n\n按照这2个记录和审计规则搞一下仓库",
+      "char_count": 11036,
+      "source": "user_verbatim",
+      "note": "粘贴含 AGENT-CONSTITUTION v1.0 + AGENT-README 模板 + v2.0（深度审计版）；v1.0 原文以此处存档"
+    },
+    {
+      "round": 12,
+      "date": "2026-09-27",
+      "heading": "第 12 轮",
+      "received_at": "2026-09-27T23:34:00+08:00",
+      "raw_instruction": "v1.0 的存放方式 单独成一个文件存档吧 看着方便一些 其他的信息再检查一次\n\n\n\n再深度搜索评估一下 是否之前所有的讨论内容啥的都入库了 确保不能有遗漏\n\n一定好好搜索一下 角角落落都反复核查 抽查 double check，确保一切入库\n\n再审计一次 确保一切都入库了 多抽查一下 多个方法检查抽查 一定确保不能有遗漏的信息",
+      "char_count": 165,
+      "source": "user_verbatim",
+      "note": "v1.0 单独存档 + 9 方法全量复查（162/162 锚点、44/44 引文、语料重算一致；8 处修复）"
+    },
+    {
+      "round": 13,
+      "date": "2026-10-06",
+      "heading": "第 13 轮",
+      "received_at": "2026-10-06T17:28:00+08:00",
+      "raw_instruction": "1：你可以从微信的聊天记录看到 \nLevent一直在问产品 项目\n但是没下单\n这种状态大概持续了15个月以上\n没下单超过一年：你也从repo的订单时间戳看得出来\n所以你挖一下他们的进口记录啥的\n不管你用啥方法给我搞到 常规的 非常规的方法 whatever，我只要结果\n\n2：挖一下他们的客户啥的 例如从 型号 产品指纹（参照这个标准） 社媒 图片反搜 等等渠道\n还是那个原则 我只看结果 过程你自己想办法\n\n3：我之前是考虑以angora这个公司为土耳其市场的锚点\n但他们下单确实少且慢 还有必要继续把希望放在他们身上吗？\n我还有其他的公司作为选择吗？\n要注意：我们走的是Marvell路线 marvell prestera系列的芯片和产品规格 对标mikrotik\n挖掘分析一下咋搞\n\n4：Weixin Image_2026-10-06_172557_877\n这个图传上去了 又有新的对话了",
+      "char_count": 397,
+      "source": "user_verbatim",
+      "note": "四任务：进口记录深挖 / 客户指纹 / 锚点战略（Marvell Prestera 对标 Mikrotik 约束）/ 新图 877 入库。"
+    },
+    {
+      "round": 13,
+      "date": "2026-10-06",
+      "heading": "第 13 轮（补充指令）",
+      "received_at": "2026-10-06T17:40:00+08:00",
+      "raw_instruction": "确认 同时把2处理一下 尽最大努力去搞",
+      "char_count": 19,
+      "source": "user_verbatim",
+      "note": "确认工作区恢复方案（ff 合并）；补充要求任务 2（客户）尽最大努力。"
+    },
+    {
+      "round": 14,
+      "date": "2026-10-08",
+      "heading": "第 14 轮",
+      "received_at": "2026-10-08T09:10:00+08:00",
+      "raw_instruction": "继续深挖angora的土耳其本土竞争者 Pnetworks就是一个典型\n多挖 深挖\n\n一定要头脑风暴来搞 拓展思路 深度挖掘 全部落库\n\n并列成一个csv和xlsx和MD  一共是3个文件 都搞一下\n\n后续挖的也录入 这个算是一个规则",
+      "char_count": 117,
+      "source": "user_verbatim",
+      "note": "本土竞争者深挖（PNetworks=典型）+ 头脑风暴 + 三件套（MD+CSV+XLSX）+ 确立规则5（后续竞争者情报同步录入三件套）。"
+    },
+    {
+      "round": 14,
+      "date": "2026-10-08",
+      "heading": "第 14 轮（恢复确认）",
+      "received_at": "2026-10-08T09:20:00+08:00",
+      "raw_instruction": "确认，快进合并恢复",
+      "char_count": 9,
+      "source": "user_verbatim",
+      "note": "确认工作区第 4 次重置的恢复方案（ff 合并至 def4cbc）。"
+    },
+    {
+      "round": 15,
+      "date": "2026-10-08",
+      "heading": "第 15 轮",
+      "received_at": "2026-10-08T09:50:00+08:00",
+      "raw_instruction": "都搞了",
+      "char_count": 3,
+      "source": "user_verbatim",
+      "note": "任务级批准：执行第 14 轮 3 条遗留线索（PNetworks 31 datasheets 解析 / rehbersanayi EKAP 中标扫描 / ensun top-14 剩余补全）。产出：99-raw/pnetworks-datasheets-extract-2026-10-08.md + 110 三件套规则 5 同步更新（PNetworks 判定升级=全栈竞争者；EKAP 0 命中部分扫描；ensun #11=Provider）。"
+    },
+    {
+      "round": 16,
+      "date": "2026-10-08",
+      "heading": "第 16 轮",
+      "received_at": "2026-10-08T10:20:00+08:00",
+      "raw_instruction": "都搞了 需你邮箱这个啥意思？",
+      "char_count": 15,
+      "source": "user_verbatim",
+      "note": "任务级批准：执行第 15 轮 3 条低优线索（rehbersanayi 全量 547 条 EKAP 扫描 / PNetworks 其余 datasheets / TTK 95.24Mpps 定制关系证实）+ 解释'需你邮箱'（Volza/TradeData.pro 免费样例注册邮箱，非新信源、非阻塞）。产出：99-raw/pnetworks-round16-fullscan-2026-10-08.md + 110 三件套规则 5 同步（MD §10 / CSV 行1+行15 / XLSX 20×20）+ WREADME(351) + TASK-STATUS 行 AD + ledger §10。关键结论：datasheets 全量 26/27（Edgecore 底座=Intel Habana+Broadcom+SONiC 官方新闻稿 2024-02-29；白牌贴牌面板照片实锤；n11 零售 156,612 TL/48口PoE+；PN-AC2=WiFi6+LTE CPE）；rehbersanayi 穷举收口 60/547 三路 0 命中（更正第 15 轮 ≈120 误估，余 487 条=JS 分页不可达）；TTK=煤矿机构（更正非国铁），3 类规格=市场标准参数（定制假设不成立），2.2.40 同品牌光模块条款+3.3 授权书（我方进 TR 标单须捆绑自品牌 SFP ¥25/只）。"
+    },
+    {
+      "round": 17,
+      "date": "2026-10-08",
+      "heading": "第 17 轮",
+      "received_at": "2026-10-08T11:20:00+08:00",
+      "raw_instruction": "s.sagatelecom@gmail.com 用这个邮箱吧 /（启扬 = PASS）/ 继续挖掘相关的土耳其公司 越多越好",
+      "char_count": 38,
+      "source": "user_verbatim_fragments",
+      "note": "① 提供 Volza/TTD 注册邮箱（业务注册邮箱，非密钥）；② 启扬（郑州启扬工控）PASS 关闭；③ 主任务=角色分层全量挖掘土耳其公司（越多越好）。产出：99-raw/turkey-companies-round17-2026-10-08.md + 110 三件套规则 5 同步（MD §11 / CSV 19→80 数据行×20（+61 行：Longline/StorNET/ALCTL/OFT/Mekrotik/DECKRO/安全簇6/DC20/渠道2/公共IT24/低相关2；更新 Mikrotik/Keenetic/PNetworks/Netaş 4 行）/ XLSX 81×20 重建，图例扩 A–J）+ WREADME(352) + TASK-STATUS 行16-18 + ledger §11。关键结论：Longline=本土白牌工业交换机直接竞对（LNG5700-8TP2S 7,182 TL 'Menşei: Türkiye'，STI 8 口线正面同价带）；StorNET=换牌分销+LR-Link（CN 工业交换机）TR 分销=潜在供货对象；ALCTL=Alcatel-Lucent Teletaş 86%+ Nokia（yerli 制造叙事参照，不打我方价位）；总统府 16 家国家网络安全企业名单（2023-08）含 PAVO/Barikat/Labris；TR DC 建设潮（Turkcell +8.4MW/Khazna 100MW/Equinix 收 Zenium）=TMS 线客户池；⭐Poyraz=Mikrotik TR Master Distribütör 2015 起=双轨主力通道再证；OFT=GPON 本土第二参照；AP 零售锚点再验证企业 AP 无本土品牌。边界：Volza 公开页=注册墙（用户侧 2 分钟非阻塞）；ensun top-14 名实全识别（#8=StorNET）。"
+    },
+    {
+      "round": 18,
+      "date": "2026-10-08",
+      "heading": "第 18 轮",
+      "received_at": "2026-10-08T12:10:00+08:00",
+      "raw_instruction": "1 双轨 3选1 啥意思？ 2 不考虑合并 这个不要提了 3 继续 尽最大努力挖出最多的信息",
+      "char_count": 40,
+      "source": "user_verbatim",
+      "note": "① 解释 97 号双轨（A=Angora 公共 niche 保留 / B=ELCORE+Poyraz 量级主力）+ 白牌三选一（自有品牌直供 / ELCORE 系白牌 / Angora 贴牌）② 常设指示：PR 合并不再考虑不再提及（TASK-STATUS 行 20）③ 主任务=最大努力继续挖掘。产出：99-raw/turkey-companies-round18-2026-10-08.md + 110 三件套规则 5 同步（MD §12 / CSV 80→88 数据行×20（+8：ULAK/EPATİ/CRYPTTECH/SECUNNİX 打包/TSGK 全名单打包/PN-Link/ELCORE/ISP 买家池；更新 6：PNetworks/Aselsan/L&N/Longline 重大升级/Poyraz/V-SOL）/ XLSX 89×20）+ WREADME(353) + TASK-STATUS 行 19-20 + ledger §12。关键结论：TSGK 官方安全产业地图（373 产品/150+ 成员全名单；网络设备仅 8 项=本土企业交换空档结构证据；数据二极管 6 项）；Longline 升级 2000/2008 老厂全产品线 10 型号威胁中-高→高（与我方逐线重叠）；Poyraz 品牌矩阵（Mikrotik Master 站内自证 + V-Sol/Ruijie/PN-Link 中国品牌已在组合=零排斥先例；5,000+SKU/B2B 注册）；ELCORE 19 年/70+ 供应商/1,500+ 伙伴；L&N=PNetworks 官方公共渠道实锤（2022-03-17，我方 L&N 通道利益冲突确认）；ULAK=ASELSAN 51% MAYA SD-WAN 商用（Türksat+TT 500 点位）；ISP 买家池（BTK 58 家/54-39-6%/dmo 230 型号多品牌开放）。边界：siberkume 产品网格 JS 渲染/n11 品类 404+dmo JS/Trabzon İKN 2026/1272126 结果未验证。"
+    },
+    {
+      "round": 19,
+      "date": "2026-10-08",
+      "heading": "第 19 轮",
+      "received_at": "2026-10-08T13:30:00+08:00",
+      "raw_instruction": "50 家土耳其客户公司名单（URL+两列AI评估%+联系人+来源+备注，全文见 99-raw/turkey-customer-list-round19-2026-10-08.md）+ ① 深搜评估这 50 家客户公司 ② 只把优质客户/对标的写入 MD+Excel，不要无价值/不相关的写进表里 ③ 备注和AI评估列只是参考输入，不要直接拿它们当证据，结论要自己深搜得出 + 常设：我司业务没有二极管类产品 只是angora有 所以后续不要再给我找二极管类的信息了 + 3个渠道都要 先挖掘 后续我再根据情况决定",
+      "source": "user_verbatim",
+      "char_count": 56,
+      "note": "50 家逐家深搜（fetch 7+search 16+双 AI 交叉 27；后段 fetch 代理 OSS InvalidAccessKeyId 故障→search 补位并标注）。收录 23 家（A5：Telkolink+GelecekBT 同集团〔Perpa+CLR 进口商+品类逐线对应〕/NOVA〔31 自有 PoE SKU〕/Snexus〔全 ladder 自有 L3 10G〕/Cenova〔CCTV+自有 PoE〕/CryptoLink〔CRL 7 datasheet 公共 niche=轨道 A〕；B+3：Coptek/Karer〔库存1000+〕/Hane；B12：Öncü Sec-on/ErETE XPS+EdgeCore/Eretekne/CCS BC-ODS/Rima Antaira/NFS Surenix/Koza GreenTech/Portel 3OneData/RF 3Onedata/iotsistem 暖线索/Lansan/Opax；B-3：CCTV Depo SECUZI 305m/TeleOne 部分验证/Konak）。排除 24 家逐家留痕（红灯 6/封闭无关 7/小规模 3/失联 8；第 22 轮复核更正）。⭐ 重大更正 #44 Entegron=LONGLINE 第二品牌（官网自述 2000 同址+Longline test center+CE/RoHS/ISO9001/FCC；57 SKU PoE 31/EPON 9/GPON 6/GEPON OLT/10G 接入/Reverse PoE MDU）→ 客户除名、110 行 20 三件套同步（MD §12.6，威胁维持高）。新建 08-customer-pipeline/111 三件套 23×17（XLSX 24×17 回读通过）。新常设：① 不找二极管类信息 ② 白牌 3 渠道全部先挖掘、决策延后。跟进序：iotsistem（暖线索）→NOVA→Telkolink/GelecekBT→Snexus→Cenova/CryptoLink。"
+    },
+    {
+      "round": 20,
+      "date": "2026-10-08",
+      "heading": "第 20 轮 · 2026-10-08（≈15:10，+08:00）",
+      "received_at": "2026-10-08T15:10:00+08:00",
+      "raw_instruction": "用户给出 IASF 2025 展会客户名单 50 条（49 编号+1 无号）（公司/国别（部分空）/联系人/现场记录备注）+ 指令\"同样要求 搞一下\"（= 沿用第 19 轮标准：逐家深搜、只收优质/对标入 111 管线、排除逐家留痕、现场记录仅供参考、不涉二极管、不提 PR）",
+      "source": "99-raw/turkey-customer-list-round20-iasf2025-2026-10-08.md",
+      "char_count": 50,
+      "note": "执行：50 条逐家 web_search 10 批（fetch_page 仍故障）→ 111 三件套扩至 45 行（新增 22：B+3 SFPTURKEY/HAFYA(军队项目)/Makros(i-PRO Premium Dist.)，B2 ONSİS(GM 样品意向)/Hiperonline(ISP)，B-17；#64 Snexus 并入既有 A 核心行 3）+ 排除 27 逐家留痕（含 New World Polo=纺织厂数据冲突、Acusense=Hikvision 红灯、ANIL=Ruijie 深绑）；落库 raw r20 + WREADME(358) + TASK-STATUS V + ledger §14 + AGENT-README 审计"
+    },
+    {
+      "round": 21,
+      "date": "2026-10-08",
+      "heading": "第 21 轮 · 2026-10-08（≈16:20，+08:00）",
+      "received_at": "2026-10-08T16:20:00+08:00",
+      "raw_instruction": "用户补发 IASF 2025 完整名单 3 表 86 条（r20 的 50 条为子集）+ 指令：重新梳理可能有遗漏 / 1 和之前一样要求 / 2 已分析的不再分析、着重没分析过的土耳其客户 / 3 只看土耳其、非土耳其只留档不分析",
+      "source": "99-raw/turkey-customer-list-round21-iasf2025-full-2026-10-08.md",
+      "char_count": 86,
+      "note": "执行：86 条分类（51 已分析跳过 + 非土留档 8 + 新土耳其 27 深搜 4 批）→ 111 扩至 51 行（新增 6：Telemobil B70 具体项目问交期 / Pelikan B64 Perpa 批发工业 L2L3 PoE / Bilge B62 三城+渠道伙伴奖 / Zeytek B-58 / FOLINE B-58 DC / NAZEMCO B-50）+ 排除 21 逐家留痕（强信号：Sami CEUIK 已购样品+来深、selimkalaka 换源窗口）；⚠️ Equinix（Istanbul DC SFP 买家，全球公司）留档提请用户裁量；落库 raw r21 + WREADME(359) + TASK-STATUS W + ledger §15 + AGENT-README 审计"
+    },
+    {
+      "round": 22,
+      "date": "2026-10-08",
+      "heading": "第 22 轮 · 2026-10-08（≈17:30，+08:00）",
+      "received_at": "2026-10-08T17:30:00+08:00",
+      "raw_instruction": "1 eu.equinix.com 不跟进 只看土耳其国家 / 2 仔细检查一下刚才那么多轮的信息是否都已经入库了 不要有遗漏",
+      "source": "—（无新原始文件；裁定+审计均原地落档）",
+      "char_count": 2,
+      "note": "执行：① Equinix C8 裁定落档（不跟进，非土留档不开线；raw r21 §2/§3 + 111 §九 + TASK-STATUS 行 AE + LEDGER §16.1）② 全轮入库审计 = 全部在库无遗漏（raw r17-r21 五份 / 111 51×17 + XLSX 52×17 / 110 88×20 + XLSX 89×20 / LEDGER §1-§15 / 本日志 + JSON / TASK-STATUS 行 V、W / 文件数 359；r19 50=25✅+24❌+1→110、r20 50=22+1 并入+27、r21 86=51+8+27 逐家对平）③ 修复 7 处记录层问题（AGENT-README 对话摘要补 19-21、审计表补 18-21、关键 commit 表补 r18-r21、WREADME 头部停 r19 刷新、commit 快照刷新 8d01704→3fb2643、r19「排除 26」→24（6 文件）、r21「无法核实 17」→16（3 文件））"
+    },
+    {
+      "round": 23,
+      "date": "2026-10-21",
+      "heading": "第 23 轮 · 2026-10-21（≈17:00，+08:00）",
+      "received_at": "2026-10-21T17:00:00+08:00",
+      "raw_instruction": "把你之前做的再过一次 看看有没有啥新发现 新的信息 / 继续挖掘angora的相关信息",
+      "source": "99-raw/r23-recheck-mining-2026-10-21.md（新增；rehbersanayi 新窗口 60 条 + 官网/零售 8 站复核）",
+      "char_count": 3,
+      "note": "执行：① 沙箱重置恢复（0dee834/359 文件）+ fetch_page 代理恢复 ② EKAP 新窗口 10-09→10-19 = 110 公司 6 起新中标（Pantech 132.5M/1 投标 İKN 2026/1708449 / Fonet 137.7M İKN 2026/1214002 / Artı ve Artı 9M 含网络设备 İKN 2026/1479835 / NETCAD 两单 / Itech İKN 2026/1798180 / Gruptechs İKN 2026/1712577）+ Angora/PN/Ewind/Longline 0 命中（10-01→10-08 = 盲区）③ ⭐Ewind 2026：S3936GM（Microchip/Vitesse）+ 工业云管理系列（802.3bt 90W）④ PNetworks n11 锚点不变 + PN8GE2CG 61-64K + Trendyol 78,307 渠道价差 ⑤ Longline hepsiburada 116 产品 + M3XF4GE24 137,900 TL ⑥ Keenetic 零售落地（1.6-3.3K/30 卖家）⑦ Angora 官网停更 32 个月 ⑧ 待核：Opax=解决（Nevşehir 主体）/ Fiberix=确认排除（ISP）/ Duzgun↔Toptansarf=部分解决 ⑨ 落库 = raw r23（360 文件）+ 110 10 行 + 111 2 行 + 台账全套"
+    },
+    {
+      "round": 24,
+      "date": "2026-10-21",
+      "heading": "第 24 轮 · 2026-10-21（≈17:40，+08:00）",
+      "received_at": "2026-10-21T17:40:00+08:00",
+      "raw_instruction": "你把Ewind网站爬下来入库吧 必要时开workflow去爬",
+      "source": "06-competitors/112-ewind-website-mirror-2026-10-21.md（新增；site: 索引 workflow 6 轮检索 = 规格表级快照）",
+      "char_count": 4,
+      "note": "执行：ewindnet.com 直连 3 次 OSS 故障 → site:ewindnet.com 索引爬取 workflow（6 轮）→ 新建 112 号档案（361 文件）：公司面（$50.67M/500+ 员工/20 SMT/National High-tech/100+ 国/CPSE 2025/四川省公安厅案例）+ 五大产品线 90+ SKU（商用受管 13 含 S3936GM Vitesse 598Gbps / 2.5G-10G 7 含 W- 新系列 / 非受管 12 / ⭐Cloud-AI PoE 6 含 EwindCloud 平台 + 2026 两 AI PoE 新页 / 工业 15+ / OEM 定制 EW-S1810CF-AP 拨码 E/V/D = 300m+Watchdog 与 Longline 同卖点 / 光猫 9 / 注入分离 16）+ 2026 时间线 + 情报解读 7 条 + 边界（0 价格 B2B）；110 行 15 三件套 + §14 同步"
+    },
+    {
+      "round": 25,
+      "date": "2026-10-21",
+      "heading": "第 25 轮 · 2026-10-21（≈19:20，+08:00）",
+      "received_at": "2026-10-21T19:20:00+08:00",
+      "raw_instruction": "他们网站信息都爬完了？如果爬完了就去爬他们的宣传网站 反正只要关于EWIND的信息都要爬 都入库了",
+      "source": "06-competitors/113-ewind-promo-full-presence-2026-10-21.md（新增；10 轮 site: workflow = 12 语言站 + Alibaba + 社媒 + 展会）",
+      "char_count": 45,
+      "note": "执行：第 24 轮 = ewindnet 英文主站；本轮宣传面/全渠道 10 轮 site: 检索 → 新建 113 号档案（362 文件）：⭐土耳其 = 官方 Malatya 案例（12 语言站同步）+ 1Net Telekom（BTK 持牌运营商）总经理 LinkedIn 推广 = 疑似渠道 + 海关口径土耳其 = 中国 PoE 出口 Top10；⭐Alibaba 宣传店铺（270+ SKU/Verified/#3 popular/Brand=EWIND/OEM/主要市场美伊英沙菲意加利）+ 首批价格锚 $21.55-$115（S1820CG-AP 20 口 300W = $111-115）+ 24 口被动 PoE 250m 主推；r24 缺口全补 12+ 款（IS3814M/BT 60W-90W 注入器/PIS3814M 240W/PIS3606M/S1806CF-AP/S1508CF/S1906 两款/95W BT 线/2936GM-8GF-AP/工业电源 3）；官网类目计数 27 分页（ES 63/Injector 25/Accessory 64）；WiFi 13 款（WiFi7 = Qualcomm IPQ5322/EW1800 = BCM6755/EW-API210 户外）；社媒 = FB×3（EU-US 专页 Maggi Lin）+ LinkedIn（COMPUTEX 2026/OSPF-BGP-VXLAN/#Vitess）+ ZoomInfo（Jarvis Xie MD/Kathy Chiang/Arya Le）；展会 10+ 场全录（每年 20+ 场）；12 语言站；5 电话/3 邮箱/4 地址；110 行 15 三件套 + §15 同步"
+    },
+    {
+      "round": 26,
+      "date": "2026-10-21",
+      "heading": "第 26 轮 · 2026-10-21（≈20:10，+08:00）",
+      "received_at": "2026-10-21T20:10:00+08:00",
+      "raw_instruction": "EWIND信息都爬完了？",
+      "source": "06-competitors/113-ewind-promo-full-presence-2026-10-21.md §11（追加；3 轮收尾检索 + 直连第 4 次测试）",
+      "char_count": 11,
+      "note": "执行：收尾核验批 = 直连第 4 次仍 OSS 故障 + 3 轮收尾检索 → 10G Managed PoE 17 SKU ≈ 全量 + Unmanaged 15 款全量闭合；新增 7+ 款：⭐S5954GM-AP(RTL) = Realtek 芯片版本（商用 L3 芯片源 = Vitesse + Realtek 双方案）/ S53952QM 48×10G+4×100G 1760Gbps / S57948QM 48×2.5-5GE+4×100G 1280Gbps MAC112K（5GE 接入新线）/ S2828GM-AP / S5728GM-AP(-AT) L3 完整规格 400/600W（128 静态路由/QinQ）/ S2854GM-AP 800W / S53928QM 完整规格 / PIS5736GM-8GF-AP-BT(VTS) 36 口 800W L3 工业 / Unmanaged S1505 系（1 年）+S1605 系（2 年）全量 + Datasheet 版本化（V11.19.2025-V19.11.2025）；⭐最终完整性结论 = Ewind 信息层面 ≈95%+ 已爬完，5 项硬边界（Malatya 正文/Alibaba 270+ 逐个/FB-LD 正文/官网 PDF 需直连恢复/动态内容 = 监控项）已声明；113 §11 + 110 行 15 三件套 + §16 + 全套台账同步"
+    },
+    {
+      "round": 27,
+      "date": "2026-10-21",
+      "heading": "第 27 轮 · 2026-10-21（+08:00）",
+      "received_at": "2026-10-21T00:00:00+08:00",
+      "raw_instruction": "我把Angora的订单信息传到Drive里了，你读取一下，把信息入库 全部都要入库 你看看咋入库 尽量是不要占太多内存",
+      "source": "workstation/09-orders/120-angora-orders-dossier-2026-10-21.md（新建；Google Drive 317 项逐夹逐文件读取）+ 120-angora-orders-master-2026-10-21.csv（9 单行级 P&L）",
+      "char_count": 59,
+      "note": "执行：Google Drive 连接器全量读取（36 根项 + 13 文件夹 = 317 项；可读全抽取、legacy .xls/.doc ~15 份只索引、图片/视频/7z/RAR ~150 项不下载 = 最小占用）→ 新建 09-orders/ 120 号双档案；9 单合同-发票-成本表 6/6 对平（累计 6 单：收款 57,194 USD / 利润 75,789.12 RMB 18.3%）；⭐TT 贴牌通道实锤（TT-2208-PG 6+10 台，MAC 池 A5:00:00~A5:05:FF 2048 地址）+ EGM 3,294 台规格原文（KGYS/ÇGKS）+ CENTEC L3 方案包（INFO_2025.12.17）+ 3rd 夹 62MB 固件 = AC3 冻结实证；Unpaid-1 TronX $1,480 = PASSED 仅登记；更正 r13 链条未断；LK 护照 PII 仅索引"
+    },
+    {
+      "round": 28,
+      "date": "2026-10-21",
+      "heading": "第 28 轮 · 2026-10-21 ≈17:35（+08:00）",
+      "received_at": "2026-10-21T17:00:00+08:00",
+      "raw_instruction": "基本上所有关于Angora的信息都给你了 wechat Talk 订单 相关文件等。你再看看时间戳 应该是从2024年开始沟通的。统一理解一下这些信息。然后再重头分析一下Angora",
+      "source": "workstation/09-orders/121-angora-master-reanalysis-2026-10-21.md（新建；26 张 WeChat Talk 长截图视觉对平 + 三源时间戳核对 + 全库重头分析）",
+      "char_count": 62,
+      "note": "执行：google_drive 26 张 PNG 落盘（58MB）+ PIL 顶/尾裁剪 ×52 + 视觉核验（顶 9 抽验/底 3/全图 1）→ ⭐沟通起点实锤 2024-05-02 16:36（图 1 首行「You have added Levent KILIÇ as your Weixin contact」）→ 25 张（09-23）= Levent 会话完整长截图平铺（图 1 顶=会话最顶 2024-5-2 16:36 / 图 25 底=会话最底 8/30 21:03）+ 图 26（10-06）= 88 台订单段（已在库 r13「877 图」）→ 26/26 张 = 0 新消息（58MB 原图核验后删除）→ 新建 121 号重头分析主档（统一时间线/关系四阶段/全口径经济账含 88 台在手 104,720 RMB/10 风险+7 机会/综合重判）+ 全套簿记（LEDGER §22/TASK-STATUS 行 AK/WREADME 365）"
+    },
+    {
+      "round": 29,
+      "date": "2026-10-21",
+      "heading": "第 29 轮 · 2026-10-21 ≈18:10（+08:00）",
+      "received_at": "2026-10-21T18:00:00+08:00",
+      "raw_instruction": "继续挖掘angora的相关信息 因为每次我感觉他们下单或者沟通都是要融资啥的 他们自己没钱嘛 账上啥的 而且TayLan很少和我沟通 基本没有 都是levent 他们内部啥情况 财务状况呢 营收啥的呢",
+      "source": "workstation/09-orders/122-angora-financials-internal-dynamics-2026-10-21.md（新建；微信语料 16 条 Levent 融资原话铁证链 + 内部结构 + 营收推算 + 公开信源 8 类）",
+      "char_count": 78,
+      "note": "执行：语料全量财务关键词挖掘 + 关键块回读定日期 + 公开信源（ZoomInfo <$5M / RocketReach 10 人 / IANA PEN=Taylan / ictmedia 2023 专访前 Cisco 联合创始 / KOZ'23 / İKMB 名单 BORÇ=年会费欠缴澄清 / EGM 招标动态）→ 三问结论：① 融资假设 ✅ 验证成立（资本极轻项目融资驱动；EGM 项目 partner 垫资 $600K/4-6 月全披露）② 内部结构（Levent GM / Taylan CTO 辞董事会仍在职 / Hakan Oztuna 布尔萨沉默资方 / 外部 partners 影子决策链）③ 营收 <$5M + 10 人 + EGM 单标 = 公司盘子 7-11 倍 → 必须外部融资 → 新建 122 号档案 + 121 Camlıca 更正（安卡拉非伊斯坦布尔）+ 合规红旗 3 条 + 全套簿记（LEDGER §23/TASK-STATUS 行 AL/WREADME 366）"
+    },
+    {
+      "round": 30,
+      "date": "2026-10-21",
+      "heading": "第 30 轮 · 2026-10-21 ≈18:55（+08:00）",
+      "received_at": "2026-10-21T18:45:00+08:00",
+      "raw_instruction": "88台项目已经凉了 我传一下信息 MAIN上 Weixin Image_2026-10-21_174720_411.png 我记得之前说过 levent和TT关系还可以 他似乎也是从TT出来的？ 查一下这个方向吧",
+      "source": "workstation/09-orders/123-angora-88-dead-levent-tt-background-2026-10-21.md（新建；origin/main 411 图 = 2026-10-08 13:03→17:00 新对话 61 轮全转录 + 语料追加 + XING/RocketReach Levent-TT 考证）",
+      "char_count": 78,
+      "note": "执行：origin/main 411 图（1545×7431px）视觉全转录 = 2026-10-08 新对话 61 轮（语料 2,601→2,662，追加入库）→ ⭐88 台 = 已凉（Levent 原话：partner 因交期改主意、转投土耳其本地现货 cryptoink.com.tr；'a very critical and important deal for us'）+ 13 条新信息（本地库存 25-50 台 / 融资算术两难 / Lira 账户 + 'test this soon with a small order' / 'funds for investment from other projects' / 定位 = Maipu/H3C 纯厂商 / MikroTik L2+ 联合争夺 + CRS328 $449 vs 我方 $300 / resale 'That's exactly what we do now' / USD/TRY 49.21）→ ⭐Levent-TT 考证 = 非 TT 员工而是 Cisco Turk Telekom 战略客户经理 15 年+（XING 2010-08 起；2008-2010 Service AM TT+公共部门；早年 Lipman/Ingenico/Miletus；并行 CONNEXITE London MP = UK 实体）→ 新建 123 号（367 文件）+ 121/122 r30 状态注 + 全套簿记（LEDGER §24/TASK-STATUS 行 AM/WREADME 367）"
+    },
+    {
+      "round": 31,
+      "date": "2026-10-21",
+      "heading": "第 31 轮 · 2026-10-21 ≈20:10（+08:00）",
+      "received_at": "2026-10-21T19:55:00+08:00",
+      "raw_instruction": "Agenda for WeChat meeting at 2025这个文档中提到了 https://networkmarket.online/ 你查查这个 我们的微信对话中也提过这个 / 他们已经关闭了 / 原本还有一个线上宣传平台 现在也没了 / 看看能否查出来啥信息不 / 刚才的2个问题你不用管",
+      "source": "workstation/09-orders/124-angora-online-platforms-forensics-2026-10-21.md（新建；agenda docx + WeChat 2025-06/07 语料 + Wayback CDX/快照取证 + 官网/子站存活核验）",
+      "char_count": 104,
+      "note": "执行：① 语料对平（agenda 2025 docx + 2025-06-20 Levent 原话 'Network market is now closed. We did not do a lot of business'）② Wayback：networkmarket.online = Ticimax 64180 土耳其零售店（TRONX 我方品牌全线 + ORCA 自有配件），2023-05→2025-03 完整、2025-07-16 最后抓取 = 301 死链（关闭窗 2025 H1）；2025-03 价目 20+ SKU（工业 8 口 12.7x 加价 / OM1 核心 $37,700 / NMS 许可零售）+ 价格通胀实证；IG = Orca Technics（38 粉近休眠）③ 用户「另一个线上平台」= **thince.net**（THiNCE 瘦客户机站，2020→2025-05 完整、2025-10-15 域名停放 = 已没）④ angoranetworks.com 仍活 / Amazon UK 未见落地店铺 ⑤ 新建 124 号（368 文件，5 节）+ 全套簿记（LEDGER §25/TASK 行 AN/JSON 33/WREADME 368）"
+    },
+    {
+      "round": "32",
+      "date": "2026-10-21",
+      "heading": "第 32 轮 · 2026-10-21 ≈21:0x（+08:00）",
+      "received_at": "2026-10-21T21:05:00+08:00",
+      "raw_instruction": "（贴谷歌搜 \"tronx poe switch\" 命中的 tronx.com.tr 土耳其语原文）你把相关信息抓取一下 / 把所有的信息都入库 刚才的商城以及TronX以及Angora的官网等 只要是抓到的信息，都要入库：这个一个宪法式的规则（两遍）/ larchnetworks 的官网上有 angora 的图标 他们 2 家何时合作的？我在微信上也和 levent 提过几句这个 也都挖掘一下相关信息 都入库",
+      "source": "workstation/09-orders/125-tronx-website-forensics-2026-10-21.md + workstation/06-competitors/41-larch-angora-partnership-timeline-2026-10-21.md（均新建）+ 40 号增补节八",
+      "char_count": "187",
+      "note": "执行：① tronx.com.tr 全页取证 = TRONX BİLİŞİM VE SAĞLIK TEKNOLOJİLERİ LTD（安卡拉，2008 医疗起家）+ Levent 2025-07-23 verbatim 'TronX is a brand we have created together with a partner for his sales only...We are more like backoffice for him. We manufacture, give him tech support etc' + Switch 8 型号全规格（工业 8 口 = 第 6 单同构；OM1/OM2 = 48x25G+8x100G）+ ⭐NPB T-IQ-PB-1/2 = 48x10/25G+6x100G Marvell 1.9Tbps = 我方 Marvell NPB 的 TronX 品牌化（license 分级）+ 参考客户 EGM/Jandarma/交通部/卫生部 + Wayback 0 快照 ② Larch×Angora 合作起点 = 2023（TTD 进口下限 2023-08 + Larch 官网 Angora logo 首现 2023-11〔Wayback 二分：2023-09-26 旧墙无 → 2023-11-14 新 24-logo 墙 angora.webp uploads/2023/11〕+ 2026-06-11 Levent 'a good partner' + 以色列政治问题 verbatim）+ Larch 公司档案全量（2009 创立/Marvell 战略/2016 OpenROS/2018 BC3 SONiC/2020 400G Falcon/2025 Ironman；Dorado AI Fabric OCP 2026-10 最新）③ 宪法规则落库 = AGENT-CONSTITUTION.md 第十条（v2.1）+ WREADME §0 规则 6（全量入库义务，每轮对平自查）④ angoranetworks.com 重验 = 活着（新闻停 2023-12）⑤ 370 文件"
+    },
+    {
+      "round": "33",
+      "date": "2026-10-21",
+      "heading": "第 33 轮 · 2026-10-21 ≈22:3x（+08:00）",
+      "received_at": "2026-10-21T22:20:00+08:00",
+      "raw_instruction": "levent 一直说 通过 partner 竞标 是 TronX 吗？ / 刚才再读一下 wechat 记录和 drive 信息 这次只要出现的公司名 网站 公司相关讨论 合作商/合作事宜等 你都好好搜搜 多挖一些信息出来 入库",
+      "source": "workstation/09-orders/126-angora-partner-bidding-map-2026-10-21.md + workstation/99-raw/r33-partner-company-mining-2026-10-21.md（均新建）+ 110 三件套（行 89 Kyland 新入 + 行 2 Netaş 增量）+ 111 三件套（行 13 Rima 重验）",
+      "char_count": "103",
+      "note": "执行：① 用户问题直接答案 = 「通过 partner 竞标」不是 TronX = ⭐Elips（2026-07-06 L9751-9755 Levent verbatim 'that is bidding partner and they are the money (i.e. capital) behind this deal'；TT 项目用户手册 = ELIPS 品牌 ELS-L2PI-8GP-2F〔8 口 Gig PoE+ 30W/口+2 SFP〕≈ 我方 STI-288DGGPM 族；TronX = 品牌/销售伙伴另一层关系，全语料从未点名为投标 partner）② partner 103 处提及全对平（aligned MD grep ±2 行全量 verbatim → 99-raw r33；15+ 关键行日期钉死：2024-05 3rd 单 back-to-back / 2025-04 铁路 Kyland kitlist+Moxa 渠道 / 2025-05 2,000 台 partner 下单+Angora→Saga 补 $100 / 2025-05-29 TronX logo 源文件经 brand partner / 2025-06-23 TT 演示单 partner 欲直付 Saga+Levent 隐瞒我方名+'other costs embedded…pay other people' / 2025-06-24 Levent 'We can be your exclusive distributor in Turkey?' / 2026-02 TT 1,000 台死因 'partner lied and kicked us out' / 2026-03-06 EGM C-Type 报告 = partner 出+'Saga, Angora (and your tender partner) and Turkish Police' 框架 / 2026-03-09 TT co-dev 'new partner. Politically connected'+源码诉求 / Austria+UK(Connexite) 经土耳其卖欧洲 / NETAS 3 样品（项目死）+Moxa/Hirschmann 替换 / 2026-04 EGM 3 伙伴（Dahua 捆绑/DLink 暧昧/loyal 200 台）+distributor 融资+尾分钟报价+Game Theory / DLink $135 all-in 锚 / Plan B 隐藏 Vitesse 工厂 / 'You are our strategic partner' / 2026-05 城市警队标 partner 第 3 名+Dahua 赢相机侧+我方 switch+Hikvision 组合 / 2026-06 ODM 框架伙伴梯度价 / 2026-10 'That's exactly what we do now…like Maipu, H3C'）→ 三层结构（竞标+资本 = Elips / 品牌销售 = TronX 背后伙伴 / 招标执行 = 每标轮动）+ Levent 竞标 playbook ③ 外网取证（宪法第十条）：⭐Elips Elektronik San. ve Tic. Ltd. Şti.（elips.com，1988 起，1,000+ 客户，Wealth Fund/General Staff（总参谋部）/Farmasi/Tekfen/Silkar 客户，51-200 人；同名 7 家排除；法律实体待 Levent 确认）/ ⭐Kyland = 北京东土科技（创业板 300353；EPA 标准起草者/Aquam EN50155 铁路系/KD5886 128G/KD3004 自主 PHY；京津高铁/青藏应用 → 110 行 89 新入）/ ⭐UDE = U.D. Electronic Corp（TPEX:3689 台湾）= 我方 RJ45 连接器供应商（Simon 2025-01-10 'we are using this brand' = 3rd 单备料曾因其缺货延迟）/ Rima Elektronik 官网重验（安防/IT 集成商+自有 Digifort AI VMS 人脸 99.87%+Axis/FLIR/Milestone/Dahua/Hikvision/D-Link/Broadcom 品牌矩阵；Levent 2025-03-07 'We have not done business before' = 非 Angora 客户 → 111 行 13 更新）/ Netaş 增量（曾从我方买 3 台样品〔项目已死〕+'looking for a Moxa or Hirschmann replacement' → 110 行 2 更新）④ Drive 317 项文件索引复核 = 无新公司名 ⑤ 372 文件"
+    },
+    {
+      "round": "34",
+      "date": "2026-10-21",
+      "heading": "第 34 轮 · 2026-10-21 ≈18:29（+08:00）",
+      "received_at": "2026-10-21T18:05:00+08:00",
+      "raw_instruction": "语料出现的所有公司 网站全部爬一下 都入库 / 与 Angora 的合作关系/结构 各角度深挖 / 尤其 larch networks",
+      "source": "workstation/06-competitors/127-angora-ecosystem-companies-crawl-2026-10-21.md + workstation/99-raw/r34-ecosystem-crawl-2026-10-21.md（均新建）+ 41 号 §10 增补（只增不删）+ 110 三件套（行 90-98 新入 9 行）",
+      "char_count": "26",
+      "note": "执行：① 语料 26 项定性（人 2：Taylan=CTO/Karen=NEM + 公司 24，全部有落库位置）② ⭐⭐Sagatele（深圳）= 我方 ODM 工厂 100% 证据（双域名全抓 + 语料 L528/L2368/L4042/L8765 + 官网「Marvell Prestera AC5 Lite/AC5/AC5+」= 语料「AC5/AC3」命名同源）③ ⭐Larch 第二波直连 20+ 页：全目录 4 线×芯片号（AC5+=98DX2538 / AC5X=98DX3510(M) MACsec 12 SKU / Campus AC3=98DX223S≠工业 226S / DC Aldrin 98DX8xxx+Falcon 98CX85xx+Teralynx 7/10〔64×800〕+NVIDIA X2）+ 2025-11-02 加入 SONiC Foundation + OCP 2026 B31（TeraLynx 10+Hardened SONiC+ConnectX-7+Dorado Cruz）+ blog 26 篇 + client 24（Angora 第 4）+ partner 8 + contacts + 新 BD 线 Irina Murzina → 41 号 §10 ④ ⭐Elips 法定实体名坐实（ELİPS ELEKTRONİK SAN. VE TİC. LTD. ŞTİ，registry 268901，1990-10-03；10 源）⑤ 生态 18 站全爬（含 D-Link DIS-110G 工业线 2026-09-11 / Dahua 赢标 L9275 / Netaş EYDEP A 级 / Marvell 2026 定位 / cryptoink 不可达×3=休眠 等）+ 6 项异常状态入库 ⑥ 语料 16 处 verbatim（TronX=姊妹品牌 L4290/4314/4471 / Connexite=英国客户 L5813 / UDE=L2698 RJ45 BOM）⑦ 110 行 90-98 三件套 + 127 号（8 节）+ 99-raw r34（7 节，对平总表 PASS）+ 全套簿记（374 文件）。对平自查=全部落库无遗漏。"
+    },
+    {
+      "round": "35",
+      "date": "2026-10-21",
+      "heading": "第 35 轮 · 2026-10-21 ≈19:1x（+08:00）",
+      "received_at": "2026-10-21T18:50:00+08:00",
+      "raw_instruction": "继续挖东西吧 看看能搞出来啥",
+      "source": "workstation/99-raw/r35-deep-dive-batch-2026-10-21.md（新建，11 节逐字底稿）+ 127 号 §9（只增）+ 41 号 §10.8-10.11（只增）+ 123 号 r35 补（只增）+ 110 三件套行 1/9/90/98 + 110 MD §19 + LEDGER §29 + TASK 行 AS + AGENT-README 6 处 + WREADME 375",
+      "char_count": 0,
+      "note": "自由指令轮（原文 12 字）；逐字见 raw_instruction；执行产出=99-raw/r35 11 节 + 127 §9 + 41 §10.8-10.11 + 123 r35 补 + 110 行 1/9/90/98 + MD 第 35 轮块"
+    },
+    {
+      "round": "36",
+      "date": "2026-10-21",
+      "heading": "第 36 轮 · 2026-10-21 ≈20:0x（+08:00）",
+      "received_at": "2026-10-21T19:55:00+08:00",
+      "raw_instruction": "你去挖一些土耳其本地的客户 公司啥的吧 就是和 saga 产品很契合的 类似那个 PNetworks",
+      "source": "99-raw/r36-turkey-local-customer-mining-2026-10-21.md（新建，8 节逐字底稿）+ 111 三件套行 52-55（56×17 断言）+ 111 MD §十 + 110 三件套行 2/20 备注 + LEDGER §30 + TASK 行 AT + AGENT-README 7 处 + WREADME 376",
+      "char_count": 50,
+      "note": "土耳其本土「类 PNetworks」品牌侧客户深挖→111 行 52-55（upTech/Nokta Perpa 916 SKU 注册品牌主 / WINET MikroTik 授权+自有 417 SKU / TekniksatGroup TGD 自有 48V PoE switch 线 / ULAK 防务客户池）+ 110 行 2/20 备注（Netaş 2024 年报 800GE×ZTE / Longline 软广实锤）+ 99-raw r36 8 节底稿 + 对平自查 PASS"
+    },
+    {
+      "round": "37",
+      "date": "2026-10-25",
+      "heading": "第 37 轮 · 2026-10-25 ≈11:5x（+08:00）",
+      "received_at": "2026-10-25T11:40:00+08:00",
+      "raw_instruction": "我在main上传了2个客户list 你读一下 深入挖掘一下这些客户 看看哪些能跟进啥的\n2025土耳其ISAF客户.xlsx main又传了这个 一起处理吧",
+      "char_count": 78,
+      "source": "main 上传三件：AI客户评估_TR 10.06.xlsx（No.1-50 双 AI 评估）+ Turkey Client List.xlsx（299）+ 2025土耳其ISAF客户.xlsx（4 sheet 去重 98）→ 99-raw 7 件（3 TSV 逐字+union JSON+detail sheets+2 分析 MD）+ build111_r37.py + 111 三件套 145 行 + 110 行 1/20 + 112 号主档 + LEDGER §31 + TASK AU + AGENT-README + WREADME",
+      "note": "用户两份客户名单+ISAF 2025 展会名单全量入库：111 管线 55→145 行（24 新客 56-79=用户双评估重新定级〔r19 排除同批，留痕保留〕+ ISAF 66 行 80-145〔A 12 含 Telemobil/HAFYA 军项目/Sami CEUIK 500 台+A- 8 含 Selim Kalaka 郑州换源+B/C 46〕+23 行备注+行 2/3 面见）；110 行 1 PavoTek=Pavo 子公司/行 20 Entegron=LONGLINE 自有 CN OEM 坐实；112 号跟进推荐主档（Tier1 既库 7+ISAF A 12+Selim Kalaka）；bypass 专项 8 条→下轮专刊+样品；非土 13+equinix 不跟进（r22）；对平自查 PASS；385 文件"
+    },
+    {
+      "round": "38",
+      "date": "2026-10-25",
+      "heading": "第 38 轮 · 2026-10-25 ≈12:0x（+08:00）",
+      "received_at": "2026-10-25T11:55:00+08:00",
+      "raw_instruction": "把这些所有的客户 挖到的 给你的统一整理进一个xlsx里吧 分不同的sheet 注意是xlsx",
+      "char_count": 47,
+      "source": "新建 08-customer-pipeline/build114_r38.py（确定性构建，只读仓内底稿）+ 114-turkey-customer-all-in-one-2026-10-25.xlsx（单文件 7 sheet）+ LEDGER §32 + TASK AV + AGENT-README 8 处 + WREADME",
+      "note": "土耳其客户总档统一 XLSX（7 sheet）：README说明 / 跟进推荐112 55 行结构化（Tier1 20=既库 7+ISAF A 12+Selim Kalaka 最高优先 / Tier2 12 / Tier3 21 / 战略留档 2）/ 全管线111 145 行×17 列 / ISAF2025 98 条全量+处理状态（TR 新 66 家 76 条〔10 家跨 sheet×2〕+在库 3+Karaal×2+非土 14/13 家+特殊 3）/ 用户双评估 50+库映射 / TCL 原始 299+映射 / 110 竞对地图 98 行；断言全过；纯整理轮 0 新抓取；387 文件"
+    }
+  ]
+}

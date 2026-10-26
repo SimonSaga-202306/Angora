@@ -1,0 +1,221 @@
+# 2024.6.15_TT-RFP-EN.pdf
+
+> 来源：`RFP/2024.6.15_TT-RFP-EN.pdf`　·　页数：5　·　提取字符数：6714
+
+---
+
+
+## Page 1
+
+7. TECHNICAL SPECIFICATIONS  
+7.1. The device must be industrial type and resistant to severe
+environmental conditions. In order to guarantee this durability of
+the device, it must have the following certificates and test
+reports related to them must be submitted to the relevant
+institution when necessary.
+- IEC 61000-4-2 (ESD)
+- IEC 61000-4-3 (RS)
+- IEC 61000-4-4 (EFT)
+- IEC 61000-4-5 (Surge)
+- IEC 61000-4-6 (CS)
+- EN 55032: 2012/AC: 2013 (CE & RE) Class B
+ACCEPTED
+ 
+ 
+7.2. If the certificates in Article 2.4 cannot be provided, it must
+be guaranteed by the company that the device is of industrial
+type and is resistant to severe environmental conditions, has the
+necessary protections so that it will not fail under conditions
+such as lightning strikes, energy problems, etc. and all
+malfunctions occurring in the product must be eliminated under
+warranty.
+ACCEPTED
+ 
+ 
+7.3. The device to be offered shall have 4/6/8 copper ethernet
+ports that can operate at 10/100/1000Mbps speeds. In addition,
+there will be at least 2 SFP module slots on the device to support
+1 / 2.5 Gbps speeds.
+ACCEPTED
+7.4.  
+ 
+7.5. 1 1000 Base-LX SFP module produced by the manufacturer
+(it shall be proved with the production documents that it is not
+OEM) may be requested by TT together with the device. The
+price of the requested module will be specified in the offer price
+list.
+ACCEPTED
+
+
+## Page 2
+
+7.6. The Industrial Switch shall have at least 4/6/8
+(two/four/eight) 10/100/1000Base-T/TX RJ45 autosense
+MDI/MDI-x ports and at least 2 (two)
+100/1000/2500MbpsBaseSFP ports. 1000Base-SX, 1000Base-
+LX, 1000Base-T/T/TX, 2.5GBase-SX and 2.5GBase-LX
+modules can be installed to SFP ports. The transceiver modules
+to be supplied will be original modules produced by the
+Industrial Switch manufacturer. OEM modules will not be
+accepted.
+ACCEPTED
+ 
+7.7. The Industrial Switch shall have at least 512 (five hundred
+twelve) MB RAM and at least 128 (one hundred twenty eight)
+MB flash memory.
+ACCEPTED
+ 
+ 
+ 
+7.8. At least 16000 (sixteen thousand) MAC addresses shall be
+supported.
+ACCEPTED
+ 
+7.9. Industrial Switch shall include overcurrent and overvoltage
+protection circuit.
+ACCEPTED
+ 
+7.10. Industrial Switch shall have an all-metal external enclosure
+in IP40 standards.
+ACCEPTED
+ 
+7.11. Industrial Switch must have the necessary apparatus to be
+mounted on a 19 inch rack cabinet.
+ACCEPTED
+7.12. All ports on the Industrial Switch will be able to operate at
+the same time without congestion and at cable speed.
+ACCEPTED
+7.13. Industrial Switch shall support IEEE 802.1q VLAN
+protocol. It shall support at least 256 (two hundred and fifty-six)
+active VLANs and 4000 (four thousand) VLAN IDs.
+
+
+## Page 3
+
+ACCEPTED
+ 
+7.14. The Industrial Switch shall support IEEE 802.1D mac
+bridging standards. It shall also support 802.1s MST protocol to
+prevent loops on different subnets, independently, and 802.1w
+protocol for fast convergence.
+ACCEPTED
+ 
+7.15. The device must support RING protocol. Traffic flow
+transition over the redundant link should be under 20ms (twenty
+milliseconds).
+ACCEPTED
+ 
+7.16. Industrial Switch shall support 802.3ad protocol and shall
+be able to group at least 8 (eight) ports with the same feature
+(port-channel).
+ACCEPTED
+ 
+ 
+7.17. Industrial Switch should support Jumbo Frame up to 10K
+size.
+ACCEPTED
+ 
+7.18. DHCP scopes should be defined on the Industrial Switch
+and it should be able to send IP address and other necessary
+information to end devices.
+ACCEPTED
+ 
+7.19. Industrial Switch should provide 802.1ab Link Layer
+Discovery Protocol support for the detection of other devices
+connected to it. Thus, it will be able to collect information about
+its neighboring devices and transmit information about itself to
+its neighbors.
+ACCEPTED
+ 
+7.20. Industrial Switch will be sent to the sites configured with
+the configurations previously given by Türk Telekom.
+ACCEPTED
+7.21. Industrial Switch should support quality of service
+configuration. For each port, there should be speed limiting in
+the direction of incoming traffic and traffic shaping in the
+direction of outgoing traffic, 8 hardware queues, weighted and
+
+
+## Page 4
+
+strict prioritization support, DSCP, 802.1p Class of service, ToS
+based, classification and re-marking, congestion avoidance
+algorithm service features.
+ACCEPTED
+ 
+7.22. Industrial Switch shall be able to take at least Dynamic
+ARP Inspection or Dynamic ARP Protection, DHCP Snooping,
+Management ACL, L2/L3/L4 Access Control Lists, Ip Source
+Guard security measures or support related protocols in order to
+ensure layer 2 security.
+ACCEPTED
+ 
+ 
+7.23. Industrial Switch shall support static routing and routing
+between defined vlan interfaces.
+ACCEPTED
+ 
+7.24. Port mirroring support shall be available. Multiple source
+ports can be mirrored to the destination port.
+ACCEPTED
+ 
+7.25. Industrial Switch should support SNMP v3, HTTPS
+SSHv2 and sFTP features for management purposes.
+ACCEPTED
+ 
+ 
+7.26. All necessary configurations should be possible from the
+Industrial Switch HTTPS based web interface. In addition, this
+web interface should have Turkish language support.
+ACCEPTED
+ 
+7.27. Industrial Switch firmware updates can be updated via
+sFTP protocol with the current firmware file in the file extension
+of the server previously written in it.
+ACCEPTED
+ 
+7.28. The events and alarms that occur on the Industrial Switch
+can be sent to external systems using SNMP Trap and syslog
+protocols. Events and alarms should also be queried periodically
+by SNMP get. In addition, using one of the sflow protocols, it
+will be able to sample traffic and send these samples to external
+systems.
+
+
+## Page 5
+
+ACCEPTED
+ 
+7.29. Devices shall have a console port. All functions of the
+device can be done through the command line accessible via
+console or SSHv2.
+ACCEPTED
+7.30. The device shall be able to authenticate for management
+purposes from a central authentication server using TACACS or
+Radius protocol.
+ACCEPTED
+ 
+7.31. Industrial Switches must be able to provide an external
+management platform upon request. The management platform
+should provide at least 250 devices without requiring additional
+licenses.
+ACCEPTED
+ 
+ 
+7.32. If requested, the management platform should be able to
+monitor different branded Industrial Switches operating in the
+existing structure in detail. No additional cost should be charged
+for this feature.
+ACCEPTED
+ 
+ 
+7.33. If requested, the management platform should be capable
+of displaying all status, vlan information, connected user and
+mac address information, graphical representation of traffic
+passing through the interfaces, temperature and processor usage
+of devices and neighboring device information of different brand
+devices, as a minimum.
+ACCEPTED
+ 
+ 
+Translated with DeepL.com (free version)

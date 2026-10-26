@@ -1,0 +1,421 @@
+# SOURCE: Weixin Image_2026-09-23_224626_417.png
+# SIZE: 1543x19534  SLICES: 19
+############################################################
+Levent KILIC
+2025-11-25 14:42
+Hi, Levent,
+1, any news about the TT project?
+2, still waiting for your 2026 planning
+3, are there any projects/needs available besides TT?
+4, very earlier, we discussed core switches(10G/100G)
+Just to let you know that, we are going to officially launch this series(STH series, H=high speed) in year
+2026
+Lets see
+Thanks
+2025-11-28 14:54
+ss no biss roy Aos An  I uoi s
+Here' s a quick summary
+1- partner is still optimistic about the prospects. They keep working on the financials. We have identified
+internally a deadline of Dec 15thfor final decision
+2-2026plan isfinished.I will share this weekend
+3- we have a few leads, some big ones too. But the economy is too slow in investment. We keep trying. We
+have some industrial opportunities
+May be we can even try Realtek units if they are more cost effective
+4-would like to know more about the new units.
+2025-11-28 15:02
+Hi, Levent,
+Thanks for your info.
+1, Good to know this, lets wait and see.
+2, Thanks, waiting.
+Hi, Levent,
+Thanks for your info.
+1, Good to know this, lets wait and see.
+2, Thanks, waiting.
+We are also going to do a big shift in chipset and promotion in 2026
+3, Yes, Realtek models are available
+And we are reducing the prices for more sales.
+Let's try Realtek in some projects.
+Preferably unmanaged models.
+4, This is related to point 2.
+We are going to officially launch this series.
+In year 2026, we will focus on Marvell and CENTEC chipsets.
+We have strong technical strength about them.
+Well, not good enough on Realtek, so thats why I said, Preferably unmanaged models in point 3
+I will let you know more later.
+Thanks
+2025-11-28 16:55
+No problem... Centec is okay too... I think Marvell and Centec is a good strategy as long as you are
+conficent about the technical solutions.
+2025-11-28 16:56
+Yes, we are technically good about Marvell and Centec
+but honestly not on Realtek, so unmanaged models would be preferable..
+perhaps lets do this?
+if this TT order is placed, we can send you a free sample(CENTEC model) for tesitng?
+you can do some testings, get familiar with the WEB Ul etc.
+high-speed network switches usually take long to test and get some real orders
+I guess free samples would be good
+high-speed network switches usually take long to test and get some real orders
+I guess free samples would be good
+its just a proposa...
+2025-11-28 17:02
+of course... Centec is okay, even in the unmanaged versions... No problems
+ok, lets wait and see
+2025-11-28 17:08
+2025-12-1 14:23
+Hi Simon, here is the fisr draft version for you.
+Biz-Plan-2026-Draft.pdf
+PDF
+114.1K
+微信电脑版
+2025-12-1 14:48
+Hl, Levent. Just finished a meeting
+let me check, thanks
+Levent KILIC:  Biz-Plan-2026-Draft.pdf
+d
+thanks...
+2025-12-1 16:12
+Simon, just a quick question about TACACS support? Do we have TACACS suppoer in Marvell commercial
+edge units ?
+2025-12-1 16:12
+Simon, just a quick question about TACACS support? Do we have TACACS suppoer in Marvell commercial
+edge units ?
+yes
+both industrial and commercial grade units support
+okay great...
+2025-12-116:17
+There is a big RFP which we would like to participate... But it alsa asks for 16 ports 10G (SFP+) Layer 3 switch.
+Do you have the Data Center models available yet?
+Edge-Switch.pdf
+PDF
+3.9M
+微信电脑版
+Core-Switch-10G.pdf
+PDF
+8.4M
+微信电脑版
+Pls feed these 2 RFPs in the Al. Although they are in Turkish, I got it analyzed with Grok. But you can try
+with any Al.
+Let us know if we can meet these requirements.
+The tender is on December 8th
+ok, thanks, a little busy now, will work on it soon/today
+okay great. thanks
+ok, thanks, a little busy now, will work on it soon/today
+okay great. thanks
+thanks
+2025-12-1 16:28
+Do you have ChatGPT ?
+Iwill share a linkwith"Group Chat"feature.
+yes, I have many Als available, Gemini GPT etc.
+2025-12-1 16:29
+ok
+https://chatgpt.com/gg/v/692d516d75bc819c8b2b458aaedc6523?token=PHJFfDcBFG3aTMcpe0nQbA
+thanks, in the group now
+maybe you can rename the group?
+done
+thanks, I will let u know soon
+I also sent a link to Taylan. He will join soon too
+ok, but you are expecting to use Marvell chip for this RFP?
+not necessarily.. open to your suggestions
+ok, I will study soon
+not necessarily.. open to your suggestions
+ok, I will study soon
+thanks
+2025-12-1 17:38
+Translation.docx
+W
+17.9K
+微信电脑版
+is this the correct translation?
+its from Gemini Al
+2025-12-1 17:44
+yes, it looks like...
+I have thought of STC-448DGGM and STC-424XGGM
+I hope they are correct
+for access switches, its not a big issur
+its the core switch
+i know
+2025-12-1 18:55
+Sorry, it is not workable
+Core switches got too many private protocols, Huawei
+navailable
+2025-12-1 18:55
+Sorry, it is not workable
+Core switches got too many private protocols, Huawei
+There are some other important features unavailable
+2025-12-1 19:16
+no problems...
+we will check core switches on our side
+2025-12-1 19:22
+ok, thanks .
+2025-12-2 11:24
+Good morning, Levent,
+Studied your business plan, so it is mainly about
+SKD and market strategies
+For local market, just finished products
+For EU market, SKD is preferable
+This is OK, we will help with SKD
+And please let us know if you need more support in firmware & hardware.
+Thanks
+2025-12-2 16:08
+Thanks Simon...
+About the RFP yesterday, the customer has split the swtches. So we only have the Edge Switches now.
+As far as I see, L2+ version would be enough. But there are some technical items which may need L3
+software. This is a may be.
+About the RFP yesterday, the customer has split the swtches. So we only have the Edge Switches now.
+As far as I see, L2+ version would be enough. But there are some technical items which may need L3
+software. This is a may be.
+We plan to use the costs for the L2 version.
+2025-12-2 16:10
+Pls check the excel
+Saga-ASFAT-2025-ihale-
+Kisim-2.xlsx
+10.0K
+微信电脑版
+2025-12-2 16:36
+Hi, Levent.
+Good to know this, this makes things easier
+so left side is your budget/target price? right side is quantity?
+aha, its our prices, we can do better
+right side is quantity?
+from the tender PDF and translation of Gemini Al, we do not have enough info
+2025-12-2 16:41
+do you think our models(24-port and 48-port) are good for this tender?
+better double-confirm it, it seems to be a big project...
+Yes, these are the quantities...
+For the specs pls try to feed thie attached RFP into Gemini again..
+Yes, these are the quantities...
+For the specs pls try to feed thie attached RFP into Gemini again..
+It is the Egde RFP with common ctiteria and 2 sections for 24 port and 48 port
+Edge-Switch.pdf
+PDF
+3.9M
+微信电脑版
+ok, let me do it
+thanks
+2025-12-2 17:24
+Hi, Levent,
+After analysis, we have some problems
+1, MTBF: the requested value is very high
+This is not a big issue actually
+2, RAM/FLASH size
+This is a big headache
+I A      4 A 5A +
+Our L3 switches support: 1*512MB DDR3 RAM, 1*512M NAND FLASH, 1*4MB SPI FLASH
+Both are not compliant
+According to Gemini, for edge switches, 512MB is usually enough
+But in this tender, its 2GB for each
+Probably this is a "special" value to leave out the competitors
+3, A minor feature
+IP SLA: this is a Cisco protocol, there are similar features, Ping/Tracert and sFlow
+it is a non-comliant item anyway about point 3
+for other features, all good
+2025-12-2 17:56
+The main problem is RAM/FLASH capacity, correct ?
+yes
+The main problem is RAM/FLASH capacity, correct ?
+yes
+2GB is too much, it exceeds normal needs for access switches
+What can we do about it? Modifications ?
+I will check with Taylan on the technical side too
+just tell the truth I guess, because 2GB is just NOT normal or standard
+Taylan will verify this
+thanks
+Levent KILlC: I will check with Taylan on the
+technical side too
+2025-12-2 18:02
+Do you have an idea which competitor supports this?
+well, I think this is not a normal/standard value
+probably its JUST for a certain company, to keep other competitors out
+2025-12-2 21:22
+Hi Simon, another quick question for tomorrow morning... What option can we suggest for IP-SLA?
+IP SLA: this is a Cisco protocol, there are similar features, Ping/Tracert and sFlow
+those are similar features
+yes, the problem in the RFP is about jitter. Other features okay. But how about jitter
+do you mean we need to provide the data of jitter?
+yes, the problem in the RFP is about jitter. Other features okay. But how about jitter
+do you mean we need to provide the data of jitter?
+2025-12-2 21:25
+let me check with our engineer
+think we have a probem wihth Jitter
+ok
+and in RFP item 3.7.11 asks for SCP or SFTP. Do we have any of these protocola or can we commit to it ?
+By the way pls feel free to offer Centec or Realtek if these are easier to provide in the RFP response
+2025-12-2 21:32
+checking with our engineer now, any more problems?
+guess we will stick with Marvell
+we discussed this before, SFTP
+Levent KILIC: and in RFP item 3.7.11 asks for SCP
+or SFTP. Do we have any of these protocola or ca...
+I will let u know soon
+okay. Just to sum up for your engineer,
+RFP 3.7.11
+RFP 3.7.20
+RFP 3.10.7 for 24-port and
+RFP 3.11.7 for 48-port
+Ok, thanks
+RFP 3.7.20
+RFP 3.10.7 for 24-port and
+RFP 3.11.7 for 48-port
+Ok, thanks
+checking now
+2025-12-2 21:40
+so no English version for this tender?
+Edge-Switch
+it would be easier for our engineering team if there is an English version
+for now
+we think it is just about Jitter
+other items, primary conclusion is all OK
+Nope, unforntunately no english version
+ok
+this
+Simon: other items, primary conclusion is all OK
+okay... main issue is jitter... i undertsand you can sort out the RAM and Flash issues too
+tomorrow we will go through the PDF again
+ok. thanks
+tomorrowwewill go through thePDF again
+ok. thanks
+yes, ram and flash is not a big issue for now
+Levent KILIC: okay... main issue is jitter... i
+undertsand you can sort out the RAM and Flash .
+2025-12-3 14:50
+Good morning, Levent,
+1, MTBF: this value can be just modified, no big issue
+2, RAM and Flash: it can be 2GB each.
+RAM: we can simply change it to 2GB without modifying the PCBs
+Flash: we need to adapt the PCBs to make it 2GB
+So you can just say, 2GB each is fine.
+If we win this tender, we will just make it 2GB each in production.
+2025-12-3 14:50
+3, Big problem about IP SLA
+According to our engineering team, this is a Cisco-based function.
+It includes different small features like ICMP echo, ICMP jitter, ftp etc.
+ICMP echo can be replaced by Ping/Tracert
+Well, a big problem about ICMP jitter, it involves software, we cannot give a definite conclusion now
+We can only say, trying might work
+And about Jitter
+I talked with GPT, reply is there are 3 types of Jitter
+Three Types of Jitter Implementations
+1. Basic RTT Jitter (Simple Consecutive RTT Difference)
+This method calculates jitter based on the difference between consecutive ICMP Echo RTT measurements.
+Send continuous ICMP Echo requests
+Three Types of Jitter Implementations
+1. Basic RTT Jitter (Simple Consecutive RTT Difference)
+This method calculates jitter based on the difference between consecutive ICMP Echo RTT measurements.
+Send continuous ICMP Echo requests
+Record each RTT value
+Jitter = (RTT(n) - RTT(n-1)I (average or maximum)
+No timestamp field required
+No support needed from the remote device
+V Easiest to implement, widely accepted in most RFPs.
+2. ICMP Timestamp-Based Jitter (Enhanced Payload Timestamp)
+This method adds a custom timestamp field into the ICMP Echo payload.
+Insert a sender-side timestamp into the ICMP payload
+Remote device simply echoes back the payload
+Use RTT and timestamp to compute jitter
+Does not require any special support on the remote device
+V Still easy to implement; suitable for professional-grade jitter measurement.
+3. Cisco-Style UDP Jitter (Full IP SLA Responder)
+This method mimics Cisco IP SLA Jitter using UDP packets with timestamp information.
+Requires both sender and responder to support the protocol
+Parses timestamps for one-way delay and jitter
+Measures packet loss, MOS, and detailed statistics
+This is Cisco proprietary and not supported by most vendors
+x High implementation complexity, not recommended unless explicitly required.
+Accroding to GPT, it should be about type 1 or type 2
+not very difficult
+anyway, please confirm with Taylan or your client about Jitter type
+4, SFTP is OK
+We discussed this last year, it is ready now.
+pls let me know, thanks
+2025-12-3 14:57
+Hi Slmon, many thnks for all the responses. The customer just came up with a modifcation this morning to
+the RFP. They are squeezing more for Cisco. This is the Turkish Air Force and they are Cisco customer.
+We arestudying themodifications.I willkeepyouposted on theprogres today
+aha, then everything makes sense
+We are studying the modifications. I will keep you posted on the progres today
+aha, then everything makes sense
+With the responsesfromyou
+ok, thanks
+2025-12-3 16:29
+Hi Simon, the modification asks for MAC Security on the edg switches. Can you pls check if we can support this
+checking
+thanks
+2025-12-3 16:38
+MAC security and air force project
+I guess this is about MACsec?
+2025-12-3 17:01
+correct
+a big problem. unavailable on Marvell
+we need to change new chip and use new software, R&D etc.
+this is too demanding
+checking Centec option now, but I guess it will not be easy as well
+this is too demanding
+checking Centec option now, but I guess it will not be easy as well
+hmmm i see okay... thanks... waiting to hear back
+2025-12-3 17:07
+thanks
+2025-12-3 17:25
+Sorry to tell you, not available on CENTEC
+Marvell specs is our best option now
+accroding to our engineer, MACsec is a complex feature
+most small companies are not capable of it or will not invest time in this
+2025-12-3 17:38
+i understand... no worries... abort then...
+thanks
+2025-12-3 17:53
+ThankYoU for the Support as almaya
+2025-12-6 15:14
+Hi Simon, just a quick question: do you have any models with Marvell AC5X chipset (MACsec-enabled
+98Dx35xxpartnumbers) tosupport MACsecfeatures?
+2025-12-6 15:14
+Hi Simon, just a quick question: do you have any models with Marvell AC5X chipset (MACsec-enabled
+98Dx35xxpart numbers) to support MACsec features?
+Or any designs but not production?
+Hi, Levent
+so this is just about submitting the info?
+like, not having to be a ready solution or sample
+just some revelant info is enough?
+Levent KlLlC: Or any designs but not production ?
+Yes  just checking the options, possibilities
+ok, let me check with our engineer
+any news about TT project btw?
+You can answer:
+1- we have a design, no production
+2- we don't have any design
+2, I can answer now
+Still waiting for financial settlement with TurkTelekom and partner
+Simon: any news about TT project btw?
+it is a completly new thing=HW & SW
+Okay. No worries. Just checking
+Simon: 2, I can answer now
+2025-12-6 15:19
+Okay. No worries.Just checking
+Simon: 2, I can answer now
+2025-12-6 15:19
+let me check anyway
+Thank you
+2025-12-6 15:34
+24GE + 4 SFP+ 98DX3540
+48GE + 4 SFP+ 98DX3560
+it will be those 2 chips, but we are far from R&D of it
+it will be just pure discussion..
+good for L2+ L3
+Simon: 24GE + 4 SFP+ 98DX3540 48GE + 4 SFP+
+98Dx3560 it willbe those2 chips,but we are far..
+2025-12-6 15:46
+No worries.
+thanks for checking it out
+2025-12-11 16:51
+Simon Hi
+I will need a favour from you.
+Since we still did not get the order for the Turk Telekom project, Karen at NEM Engineering needs her GBIC
+SFP modules back.
+Can you kindly send these units back to her ?
+Since we still did not get the order for the Turk Telekom project, Karen at NEM Engineering needs her GBIC
+SFP modules back.
+Can you kindly send these units back to her ?
+2025-12-11 16:57
+Hi, Levent,
+Yes, we will send it back today
+Thank you Simon, really appreciate it..
+Send

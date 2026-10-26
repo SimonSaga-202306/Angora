@@ -1,0 +1,21 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "WeChat Talk/Weixin Image_2026-09-23_223957_115.png",
+  "bytes": 2138840,
+  "sha256": "d5d3b76af40ed50677b7a2ae5657c2230d1374450f363ae038567a71102963a7",
+  "seq": 358,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:WeChat Talk/Weixin Image_2026-09-23_223957_115.png)",
+  "image": {
+    "format": "PNG",
+    "width": 1545,
+    "height": 18596,
+    "mode": "RGBA",
+    "frames": 1,
+    "dpi": [
+      103.9876,
+      103.9876
+    ]
+  }
+}

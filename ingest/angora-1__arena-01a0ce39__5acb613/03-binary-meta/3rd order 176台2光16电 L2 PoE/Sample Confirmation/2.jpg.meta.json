@@ -1,0 +1,31 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "3rd order 176台2光16电 L2 PoE/Sample Confirmation/2.jpg",
+  "bytes": 7283599,
+  "sha256": "60191922ed6ef8c3c3dd08e3cec599e12199dc23d3f9d06943be5ec65b1255e9",
+  "seq": 116,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:3rd order 176台2光16电 L2 PoE/Sample Confirmation/2.jpg)",
+  "image": {
+    "format": "MPO",
+    "width": 5712,
+    "height": 4284,
+    "mode": "RGB",
+    "frames": 2,
+    "exif": {
+      "296": "2",
+      "34665": "160",
+      "271": "Apple",
+      "305": "17.5.1",
+      "274": "1",
+      "306": "2025:02:12 16:06:02",
+      "282": "72.0",
+      "283": "72.0"
+    },
+    "dpi": [
+      300,
+      300
+    ]
+  }
+}

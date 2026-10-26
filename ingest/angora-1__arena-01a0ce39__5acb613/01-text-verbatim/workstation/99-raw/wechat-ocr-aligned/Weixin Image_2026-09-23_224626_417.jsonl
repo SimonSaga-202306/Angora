@@ -1,0 +1,373 @@
+{"y": 35.2, "x0": 16.0, "x1": 126.0, "xc": 70.8, "text": "Levent KILIC", "conf": 0.969, "slice": 0, "speaker": "Levent"}
+{"y": 103.5, "x0": 706.0, "x1": 838.0, "xc": 772.0, "text": "2025-11-25 14:42", "conf": 0.999, "slice": 0, "speaker": null}
+{"y": 162.0, "x0": 575.0, "x1": 666.0, "xc": 620.5, "text": "Hi, Levent,", "conf": 0.957, "slice": 0, "speaker": "Levent"}
+{"y": 186.0, "x0": 575.0, "x1": 862.0, "xc": 718.5, "text": "1, any news about the TT project?", "conf": 0.977, "slice": 0, "speaker": "Simon"}
+{"y": 209.0, "x0": 575.0, "x1": 893.0, "xc": 734.0, "text": "2, still waiting for your 2026 planning", "conf": 0.993, "slice": 0, "speaker": "Simon"}
+{"y": 234.0, "x0": 575.0, "x1": 1021.0, "xc": 798.0, "text": "3, are there any projects/needs available besides TT?", "conf": 0.995, "slice": 0, "speaker": "Simon"}
+{"y": 257.0, "x0": 575.0, "x1": 1023.0, "xc": 799.0, "text": "4, very earlier, we discussed core switches(10G/100G)", "conf": 0.99, "slice": 0, "speaker": "Simon"}
+{"y": 280.5, "x0": 574.0, "x1": 1440.0, "xc": 1007.0, "text": "Just to let you know that, we are going to officially launch this series(STH series, H=high speed) in year", "conf": 0.989, "slice": 0, "speaker": "Simon"}
+{"y": 303.5, "x0": 575.0, "x1": 624.0, "xc": 599.5, "text": "2026", "conf": 1.0, "slice": 0, "speaker": "Levent"}
+{"y": 328.2, "x0": 573.0, "x1": 649.0, "xc": 611.0, "text": "Lets see", "conf": 0.999, "slice": 0, "speaker": "Levent"}
+{"y": 351.5, "x0": 576.0, "x1": 641.0, "xc": 608.5, "text": "Thanks", "conf": 0.999, "slice": 0, "speaker": "Levent"}
+{"y": 415.0, "x0": 707.0, "x1": 836.0, "xc": 771.5, "text": "2025-11-28 14:54", "conf": 0.996, "slice": 0, "speaker": null}
+{"y": 542.8, "x0": 98.0, "x1": 319.0, "xc": 208.5, "text": "Here' s a quick summary", "conf": 0.976, "slice": 0, "speaker": "Levent"}
+{"y": 612.5, "x0": 100.0, "x1": 980.0, "xc": 540.0, "text": "1- partner is still optimistic about the prospects. They keep working on the financials. We have identified", "conf": 0.986, "slice": 0, "speaker": "Levent"}
+{"y": 637.5, "x0": 101.0, "x1": 521.0, "xc": 311.0, "text": "internallya deadlineofDec15thfor final decision", "conf": 0.973, "slice": 0, "speaker": "Levent"}
+{"y": 706.5, "x0": 102.0, "x1": 511.0, "xc": 306.5, "text": "2- 2026 plan is finished.I will share this weekend", "conf": 0.93, "slice": 0, "speaker": "Levent"}
+{"y": 776.5, "x0": 99.0, "x1": 1001.0, "xc": 550.0, "text": "3- we have a few leads, some big ones too. But the economy is too slow in investment. We keep trying. We", "conf": 0.991, "slice": 0, "speaker": "Levent"}
+{"y": 801.0, "x0": 101.0, "x1": 396.0, "xc": 248.5, "text": "have some industrial opportunities", "conf": 0.963, "slice": 0, "speaker": "Levent"}
+{"y": 871.0, "x0": 99.0, "x1": 671.0, "xc": 385.0, "text": "May be we can even try Realtek units if they are more cost effective", "conf": 0.974, "slice": 0, "speaker": "Levent"}
+{"y": 941.0, "x0": 100.0, "x1": 509.0, "xc": 304.5, "text": "4- would like to know more about the new units.", "conf": 0.985, "slice": 0, "speaker": "Levent"}
+{"y": 1003.5, "x0": 704.0, "x1": 836.0, "xc": 770.0, "text": "2025-11-28 15:02", "conf": 0.981, "slice": 0, "speaker": null}
+{"y": 1062.0, "x0": 630.0, "x1": 721.0, "xc": 675.5, "text": "Hi, Levent,", "conf": 0.957, "slice": 0, "speaker": "Simon"}
+{"y": 1086.0, "x0": 631.0, "x1": 807.0, "xc": 719.0, "text": "Thanks for your info.", "conf": 0.99, "slice": 1050, "speaker": "Simon"}
+{"y": 1134.0, "x0": 631.0, "x1": 961.0, "xc": 796.0, "text": "1, Good to know this, lets wait and see.", "conf": 0.982, "slice": 0, "speaker": "Simon"}
+{"y": 1180.5, "x0": 630.0, "x1": 787.0, "xc": 708.2, "text": "2, Thanks, waiting.", "conf": 0.963, "slice": 1050, "speaker": "Simon"}
+{"y": 1205.5, "x0": 630.0, "x1": 1209.0, "xc": 919.5, "text": "We are also going to do a big shift in chipset and promotion in 2026", "conf": 0.991, "slice": 1050, "speaker": "Simon"}
+{"y": 1252.0, "x0": 632.0, "x1": 927.0, "xc": 779.5, "text": "3, Yes, Realtek models are available", "conf": 0.971, "slice": 1050, "speaker": "Simon"}
+{"y": 1276.0, "x0": 630.0, "x1": 1022.0, "xc": 826.0, "text": "And we are reducing the prices for more sales.", "conf": 0.996, "slice": 1050, "speaker": "Simon"}
+{"y": 1300.2, "x0": 630.0, "x1": 913.0, "xc": 771.5, "text": "Let's try Realtek in some projects.", "conf": 0.997, "slice": 1050, "speaker": "Simon"}
+{"y": 1324.5, "x0": 631.0, "x1": 894.0, "xc": 762.5, "text": "Preferably unmanaged models.", "conf": 0.999, "slice": 1050, "speaker": "Simon"}
+{"y": 1371.5, "x0": 631.0, "x1": 860.0, "xc": 745.5, "text": "4, This is related to point 2.", "conf": 0.997, "slice": 1050, "speaker": "Simon"}
+{"y": 1396.0, "x0": 631.0, "x1": 997.0, "xc": 814.0, "text": "We are going to officially launch this series.", "conf": 0.999, "slice": 1050, "speaker": "Simon"}
+{"y": 1442.5, "x0": 631.0, "x1": 1133.0, "xc": 882.0, "text": "In year 2026, we will focus on Marvell and CENTEC chipsets.", "conf": 0.981, "slice": 1050, "speaker": "Simon"}
+{"y": 1466.0, "x0": 630.0, "x1": 1028.0, "xc": 829.0, "text": "We have strong technical strength about them.", "conf": 0.997, "slice": 1050, "speaker": "Simon"}
+{"y": 1490.5, "x0": 631.0, "x1": 1439.0, "xc": 1035.0, "text": "Well, not good enough on Realtek, so thats why I said, Preferably unmanaged models in point 3", "conf": 0.993, "slice": 1050, "speaker": "Simon"}
+{"y": 1536.5, "x0": 630.0, "x1": 880.0, "xc": 755.0, "text": "I will let you know more later.", "conf": 0.99, "slice": 1050, "speaker": "Simon"}
+{"y": 1561.0, "x0": 630.0, "x1": 694.0, "xc": 662.0, "text": "Thanks", "conf": 0.999, "slice": 1050, "speaker": "Simon"}
+{"y": 1695.5, "x0": 706.0, "x1": 838.0, "xc": 772.0, "text": "2025-11-28 16:55", "conf": 0.997, "slice": 1050, "speaker": null}
+{"y": 1753.0, "x0": 101.0, "x1": 929.0, "xc": 515.0, "text": "No problem... Centec is okay too.. I think Marvell and Centec is a good strategy as long as you are", "conf": 0.984, "slice": 1050, "speaker": "Levent"}
+{"y": 1777.0, "x0": 101.0, "x1": 433.0, "xc": 267.0, "text": "conficent about the technical solutions.", "conf": 0.999, "slice": 1050, "speaker": "Levent"}
+{"y": 1840.0, "x0": 707.0, "x1": 837.0, "xc": 772.0, "text": "2025-11-28 16:56", "conf": 0.986, "slice": 1050, "speaker": null}
+{"y": 1899.0, "x0": 819.0, "x1": 1274.0, "xc": 1046.5, "text": "Yes, we are technically good about Marvell and Centec", "conf": 0.993, "slice": 1050, "speaker": "Simon"}
+{"y": 1923.0, "x0": 815.0, "x1": 1430.0, "xc": 1122.5, "text": "but honestly not on Realtek, so unmanaged models would be preferable..", "conf": 0.985, "slice": 1050, "speaker": "Simon"}
+{"y": 1992.0, "x0": 729.0, "x1": 906.0, "xc": 817.5, "text": "perhaps lets do this?", "conf": 0.998, "slice": 1050, "speaker": "Simon"}
+{"y": 2016.5, "x0": 728.0, "x1": 1438.0, "xc": 1083.0, "text": "if this TT order is placed, we can send you a free sample(CENTEC model) for tesitng?", "conf": 0.98, "slice": 1050, "speaker": "Simon"}
+{"y": 2085.0, "x0": 938.0, "x1": 1435.0, "xc": 1186.2, "text": "you can do some testings, get familiar with the WEB Ul etc.", "conf": 0.992, "slice": 1050, "speaker": "Simon"}
+{"y": 2155.5, "x0": 769.0, "x1": 1439.0, "xc": 1104.0, "text": "high-speed network switches usually take long to test and get some real orders", "conf": 0.99, "slice": 1050, "speaker": "Simon"}
+{"y": 2225.5, "x0": 1133.0, "x1": 1439.0, "xc": 1286.0, "text": "I guess free samples would be good", "conf": 0.997, "slice": 2100, "speaker": "Simon"}
+{"y": 2250.0, "x0": 1130.0, "x1": 1294.0, "xc": 1212.0, "text": "its just a proposal..", "conf": 0.962, "slice": 2100, "speaker": "Simon"}
+{"y": 2313.0, "x0": 705.0, "x1": 836.0, "xc": 770.5, "text": "2025-11-28 17:02", "conf": 0.999, "slice": 2100, "speaker": null}
+{"y": 2371.0, "x0": 100.0, "x1": 733.0, "xc": 416.5, "text": "of course... Centec is okay, even in the unmanaged versions.. No problems", "conf": 0.973, "slice": 2100, "speaker": "Levent"}
+{"y": 2443.0, "x0": 1241.0, "x1": 1432.0, "xc": 1336.5, "text": "ok, lets wait and see", "conf": 0.991, "slice": 2100, "speaker": "Simon"}
+{"y": 2505.5, "x0": 706.0, "x1": 838.0, "xc": 772.0, "text": "2025-11-28 17:08", "conf": 0.998, "slice": 2100, "speaker": null}
+{"y": 2628.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-12-1 14:23", "conf": 0.998, "slice": 2100, "speaker": null}
+{"y": 2685.5, "x0": 100.0, "x1": 487.0, "xc": 293.8, "text": "Hi Simon, here is the fisr draft version for you.", "conf": 0.964, "slice": 2100, "speaker": "Levent"}
+{"y": 2760.5, "x0": 98.0, "x1": 302.0, "xc": 200.0, "text": "Biz-Plan-2026-Draft.pdf", "conf": 0.999, "slice": 2100, "speaker": "Levent"}
+{"y": 2779.0, "x0": 344.0, "x1": 375.0, "xc": 359.5, "text": "PDF", "conf": 0.997, "slice": 2100, "speaker": "Levent"}
+{"y": 2790.5, "x0": 98.0, "x1": 153.0, "xc": 125.5, "text": "114.1K", "conf": 0.996, "slice": 2100, "speaker": "Levent"}
+{"y": 2825.5, "x0": 124.0, "x1": 203.0, "xc": 163.5, "text": "微信电脑版", "conf": 1.0, "slice": 2100, "speaker": "Levent"}
+{"y": 2877.0, "x0": 708.0, "x1": 832.0, "xc": 770.0, "text": "2025-12-1 14:48", "conf": 0.966, "slice": 2100, "speaker": null}
+{"y": 2935.0, "x0": 1148.0, "x1": 1439.0, "xc": 1293.2, "text": "Hl, Levent. Just finished a meeting", "conf": 0.984, "slice": 2100, "speaker": "Simon"}
+{"y": 3005.5, "x0": 1264.0, "x1": 1439.0, "xc": 1351.5, "text": "let me check, thanks", "conf": 0.997, "slice": 2100, "speaker": "Simon"}
+{"y": 3047.8, "x0": 1087.0, "x1": 1380.0, "xc": 1233.5, "text": "Levent KILIC:  Biz-Plan-2026-Draft.pdf", "conf": 0.972, "slice": 2100, "speaker": "Simon"}
+{"y": 3064.5, "x0": 1394.0, "x1": 1422.0, "xc": 1408.0, "text": "PDF", "conf": 0.995, "slice": 2100, "speaker": "Simon"}
+{"y": 3135.0, "x0": 98.0, "x1": 173.0, "xc": 135.5, "text": "thanks...", "conf": 0.998, "slice": 2100, "speaker": "Levent"}
+{"y": 3196.5, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-12-1 16:12", "conf": 0.95, "slice": 3150, "speaker": null}
+{"y": 3256.0, "x0": 101.0, "x1": 984.0, "xc": 542.5, "text": "Simon, just a quick question about TACACS support? Do we have TACACS suppoer in Marvell commercial", "conf": 0.978, "slice": 3150, "speaker": "Levent"}
+{"y": 3279.5, "x0": 100.0, "x1": 210.0, "xc": 155.0, "text": "edge units ?", "conf": 0.999, "slice": 2100, "speaker": "Levent"}
+{"y": 3351.0, "x0": 1404.0, "x1": 1441.0, "xc": 1422.5, "text": "yes", "conf": 0.999, "slice": 3150, "speaker": "Simon"}
+{"y": 3419.0, "x0": 1001.0, "x1": 1440.0, "xc": 1220.5, "text": "both industrial and commercial grade units support", "conf": 0.998, "slice": 3150, "speaker": "Simon"}
+{"y": 3490.0, "x0": 99.0, "x1": 206.0, "xc": 152.5, "text": "okay great...", "conf": 0.986, "slice": 3150, "speaker": "Levent"}
+{"y": 3552.5, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-12-1 16:17", "conf": 0.997, "slice": 3150, "speaker": null}
+{"y": 3611.5, "x0": 102.0, "x1": 1013.0, "xc": 557.5, "text": "There is a big RFP which we would like to participate... But it alsa asks for 16 ports 10G (SFP+) Layer 3 switch.", "conf": 0.99, "slice": 3150, "speaker": "Levent"}
+{"y": 3680.5, "x0": 101.0, "x1": 531.0, "xc": 316.0, "text": "Do you have the Data Center models available yet?", "conf": 0.98, "slice": 3150, "speaker": "Levent"}
+{"y": 3754.0, "x0": 99.0, "x1": 239.0, "xc": 169.0, "text": "Edge-Switch.pdf", "conf": 1.0, "slice": 3150, "speaker": "Levent"}
+{"y": 3773.5, "x0": 344.0, "x1": 377.0, "xc": 360.5, "text": "PDF", "conf": 0.998, "slice": 3150, "speaker": "Levent"}
+{"y": 3784.0, "x0": 96.0, "x1": 141.0, "xc": 118.5, "text": "3.9M", "conf": 0.999, "slice": 3150, "speaker": "Levent"}
+{"y": 3819.5, "x0": 126.0, "x1": 203.0, "xc": 164.5, "text": "微信电脑版", "conf": 0.999, "slice": 3150, "speaker": "Levent"}
+{"y": 3883.0, "x0": 98.0, "x1": 278.0, "xc": 188.0, "text": "Core-Switch-10G.pdf", "conf": 0.999, "slice": 3150, "speaker": "Levent"}
+{"y": 3899.5, "x0": 344.0, "x1": 375.0, "xc": 359.5, "text": "PDF", "conf": 0.997, "slice": 3150, "speaker": "Levent"}
+{"y": 3909.8, "x0": 95.0, "x1": 141.0, "xc": 118.0, "text": "8.4M", "conf": 0.999, "slice": 3150, "speaker": "Levent"}
+{"y": 3947.0, "x0": 124.0, "x1": 202.0, "xc": 163.0, "text": "微信电脑版", "conf": 1.0, "slice": 3150, "speaker": "Levent"}
+{"y": 4004.5, "x0": 99.0, "x1": 970.0, "xc": 534.5, "text": "Pls feed these 2 RFPs in the Al. Although they are in Turkish, I got it analyzed with Grok. But you can try", "conf": 0.983, "slice": 3150, "speaker": "Levent"}
+{"y": 4028.0, "x0": 100.0, "x1": 201.0, "xc": 150.5, "text": "with any Al.", "conf": 0.985, "slice": 3150, "speaker": "Levent"}
+{"y": 4098.0, "x0": 100.0, "x1": 501.0, "xc": 300.5, "text": "Let us know if we can meet these requirements.", "conf": 0.984, "slice": 3150, "speaker": "Levent"}
+{"y": 4168.0, "x0": 102.0, "x1": 365.0, "xc": 233.5, "text": "The tender is on December 8th", "conf": 0.953, "slice": 3150, "speaker": "Levent"}
+{"y": 4238.0, "x0": 972.0, "x1": 1436.0, "xc": 1203.8, "text": "ok, thanks, a little busy now, will work on it soon/today", "conf": 0.981, "slice": 3150, "speaker": "Simon"}
+{"y": 4308.5, "x0": 101.0, "x1": 259.0, "xc": 180.0, "text": "okay great. thanks", "conf": 0.965, "slice": 3150, "speaker": "Levent"}
+{"y": 4378.5, "x0": 1376.0, "x1": 1439.0, "xc": 1407.5, "text": "thanks", "conf": 1.0, "slice": 4200, "speaker": "Simon"}
+{"y": 4442.0, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-1 16:28", "conf": 0.997, "slice": 4200, "speaker": null}
+{"y": 4500.0, "x0": 100.0, "x1": 302.0, "xc": 201.2, "text": "Do you have ChatGPT ?", "conf": 0.983, "slice": 4200, "speaker": "Levent"}
+{"y": 4569.5, "x0": 99.0, "x1": 469.0, "xc": 284.2, "text": "Iwill share a linkwith\"Group Chat\" feature.", "conf": 0.928, "slice": 4200, "speaker": "Levent"}
+{"y": 4640.0, "x0": 1045.0, "x1": 1437.0, "xc": 1240.8, "text": "yes, I have many Als available, Gemini GPT etc.", "conf": 0.979, "slice": 4200, "speaker": "Simon"}
+{"y": 4703.5, "x0": 709.0, "x1": 830.0, "xc": 769.5, "text": "2025-12-1 16:29", "conf": 0.988, "slice": 4200, "speaker": null}
+{"y": 4761.0, "x0": 1412.0, "x1": 1441.0, "xc": 1426.5, "text": "ok", "conf": 0.962, "slice": 4200, "speaker": "Simon"}
+{"y": 4831.0, "x0": 102.0, "x1": 959.0, "xc": 530.5, "text": "https://chatgpt.com/gg/v/692d516d75bc819c8b2b458aaedc6523?token=PHJFfDcBFG3aTMcpe0nQbA", "conf": 0.997, "slice": 4200, "speaker": "Levent"}
+{"y": 4901.2, "x0": 1223.0, "x1": 1439.0, "xc": 1331.0, "text": "thanks, in the group now", "conf": 0.999, "slice": 4200, "speaker": "Simon"}
+{"y": 4972.5, "x0": 1142.0, "x1": 1438.0, "xc": 1290.0, "text": "maybe you can rename the group?", "conf": 0.999, "slice": 4200, "speaker": "Simon"}
+{"y": 5040.8, "x0": 98.0, "x1": 150.0, "xc": 124.0, "text": "done", "conf": 0.998, "slice": 4200, "speaker": "Levent"}
+{"y": 5111.5, "x0": 1191.0, "x1": 1440.0, "xc": 1315.2, "text": "thanks, I will let u know soon", "conf": 0.998, "slice": 4200, "speaker": "Simon"}
+{"y": 5181.5, "x0": 101.0, "x1": 501.0, "xc": 301.0, "text": "I also sent a link to Taylan. He will join soon too", "conf": 0.971, "slice": 4200, "speaker": "Levent"}
+{"y": 5250.5, "x0": 945.0, "x1": 1436.0, "xc": 1190.2, "text": "ok, but you are expecting to use Marvell chip for this RFP?", "conf": 0.986, "slice": 4200, "speaker": "Simon"}
+{"y": 5321.5, "x0": 100.0, "x1": 456.0, "xc": 278.0, "text": "not necessarily.. open to your suggestions", "conf": 0.955, "slice": 5250, "speaker": "Levent"}
+{"y": 5388.5, "x0": 1266.0, "x1": 1440.0, "xc": 1352.8, "text": "ok, I will study soon", "conf": 0.998, "slice": 4200, "speaker": "Simon"}
+{"y": 5461.0, "x0": 98.0, "x1": 162.0, "xc": 130.0, "text": "thanks", "conf": 1.0, "slice": 5250, "speaker": "Levent"}
+{"y": 5523.5, "x0": 710.0, "x1": 831.0, "xc": 770.5, "text": "2025-12-1 17:38", "conf": 0.992, "slice": 5250, "speaker": null}
+{"y": 5587.5, "x0": 1153.0, "x1": 1294.0, "xc": 1223.5, "text": "Translation.docx", "conf": 0.999, "slice": 5250, "speaker": "Simon"}
+{"y": 5604.0, "x0": 1403.0, "x1": 1426.0, "xc": 1414.5, "text": "W", "conf": 0.765, "slice": 5250, "speaker": "Simon"}
+{"y": 5616.2, "x0": 1152.0, "x1": 1200.0, "xc": 1176.0, "text": "17.9K", "conf": 0.994, "slice": 5250, "speaker": "Simon"}
+{"y": 5652.0, "x0": 1179.0, "x1": 1258.0, "xc": 1218.5, "text": "微信电脑版", "conf": 1.0, "slice": 5250, "speaker": "Simon"}
+{"y": 5710.5, "x0": 1186.0, "x1": 1438.0, "xc": 1312.0, "text": "is this the correct translation?", "conf": 0.987, "slice": 5250, "speaker": "Simon"}
+{"y": 5734.0, "x0": 1186.0, "x1": 1344.0, "xc": 1265.0, "text": "its from Gemini Al", "conf": 0.992, "slice": 5250, "speaker": "Simon"}
+{"y": 5796.0, "x0": 708.0, "x1": 832.0, "xc": 770.0, "text": "2025-12-1 17:44", "conf": 0.98, "slice": 5250, "speaker": null}
+{"y": 5854.5, "x0": 97.0, "x1": 249.0, "xc": 173.2, "text": "yes, it looks like...", "conf": 0.965, "slice": 5250, "speaker": "Levent"}
+{"y": 5924.0, "x0": 101.0, "x1": 544.0, "xc": 322.5, "text": "I have thought of STC-448DGGM and STC-424XGGM", "conf": 0.955, "slice": 5250, "speaker": "Levent"}
+{"y": 5995.5, "x0": 100.0, "x1": 296.0, "xc": 198.0, "text": "I hope they are correct", "conf": 0.976, "slice": 5250, "speaker": "Levent"}
+{"y": 6065.5, "x0": 1124.0, "x1": 1438.0, "xc": 1281.0, "text": "for access switches, its not a big issur", "conf": 1.0, "slice": 5250, "speaker": "Simon"}
+{"y": 6205.5, "x0": 1282.0, "x1": 1439.0, "xc": 1360.5, "text": "its the core switch", "conf": 1.0, "slice": 5250, "speaker": "Simon"}
+{"y": 6275.0, "x0": 98.0, "x1": 163.0, "xc": 130.5, "text": "i know", "conf": 0.942, "slice": 5250, "speaker": "Levent"}
+{"y": 6339.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-12-1 18:55", "conf": 0.986, "slice": 5250, "speaker": null}
+{"y": 6396.5, "x0": 982.0, "x1": 1183.0, "xc": 1082.5, "text": "Sorry, it is not workable", "conf": 1.0, "slice": 5250, "speaker": "Simon"}
+{"y": 6421.0, "x0": 982.0, "x1": 1439.0, "xc": 1210.5, "text": "Core switches got too many private protocols, Huawei", "conf": 0.999, "slice": 5250, "speaker": "Simon"}
+{"y": 6440.5, "x0": 1322.0, "x1": 1427.0, "xc": 1374.5, "text": "unavailable", "conf": 0.963, "slice": 5250, "speaker": "Simon"}
+{"y": 6441.8, "x0": 983.0, "x1": 1048.0, "xc": 1015.5, "text": "Therear", "conf": 0.962, "slice": 5250, "speaker": "Simon"}
+{"y": 6443.5, "x0": 982.0, "x1": 1428.0, "xc": 1205.0, "text": "There are some other important features unavailable", "conf": 0.98, "slice": 6300, "speaker": "Simon"}
+{"y": 6578.5, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-12-1 19:16", "conf": 0.993, "slice": 6300, "speaker": null}
+{"y": 6637.0, "x0": 97.0, "x1": 225.0, "xc": 161.2, "text": "no problems...", "conf": 0.954, "slice": 6300, "speaker": "Levent"}
+{"y": 6706.5, "x0": 99.0, "x1": 431.0, "xc": 265.0, "text": "we will checkcore switches on our side", "conf": 0.933, "slice": 6300, "speaker": "Levent"}
+{"y": 6770.0, "x0": 709.0, "x1": 832.0, "xc": 770.5, "text": "2025-12-1 19:22", "conf": 0.996, "slice": 6300, "speaker": null}
+{"y": 6828.5, "x0": 1322.0, "x1": 1435.0, "xc": 1378.2, "text": "ok, thanks...", "conf": 0.869, "slice": 6300, "speaker": "Simon"}
+{"y": 6893.0, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-2 11:24", "conf": 0.98, "slice": 6300, "speaker": null}
+{"y": 6951.5, "x0": 815.0, "x1": 1009.0, "xc": 912.0, "text": "Good morning, Levent,", "conf": 0.993, "slice": 6300, "speaker": "Simon"}
+{"y": 6998.5, "x0": 814.0, "x1": 1222.0, "xc": 1018.0, "text": "Studied your business plan, so it is mainly about", "conf": 1.0, "slice": 6300, "speaker": "Simon"}
+{"y": 7021.8, "x0": 813.0, "x1": 1041.0, "xc": 927.0, "text": "SKD and market strategies", "conf": 0.985, "slice": 6300, "speaker": "Simon"}
+{"y": 7046.5, "x0": 813.0, "x1": 1142.0, "xc": 977.5, "text": "For local market, just finished products", "conf": 0.996, "slice": 6300, "speaker": "Simon"}
+{"y": 7069.5, "x0": 813.0, "x1": 1089.0, "xc": 951.0, "text": "For EU market, SKD is preferable", "conf": 0.984, "slice": 6300, "speaker": "Simon"}
+{"y": 7117.0, "x0": 815.0, "x1": 1086.0, "xc": 950.5, "text": "This is OK, we will help with SKD", "conf": 0.984, "slice": 6300, "speaker": "Simon"}
+{"y": 7141.5, "x0": 814.0, "x1": 1437.0, "xc": 1125.5, "text": "And please let us know if you need more support in firmware & hardware.", "conf": 0.967, "slice": 6300, "speaker": "Simon"}
+{"y": 7189.0, "x0": 813.0, "x1": 878.0, "xc": 845.5, "text": "Thanks", "conf": 0.999, "slice": 6300, "speaker": "Simon"}
+{"y": 7252.0, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-12-2 16:08", "conf": 0.997, "slice": 6300, "speaker": null}
+{"y": 7309.5, "x0": 100.0, "x1": 233.0, "xc": 166.8, "text": "Thanks Simon...", "conf": 0.962, "slice": 6300, "speaker": "Levent"}
+{"y": 7380.0, "x0": 100.0, "x1": 954.0, "xc": 527.0, "text": "About the RFP yesterday, the customer has split the swtches. So we only have the Edge Switches now.", "conf": 0.988, "slice": 6300, "speaker": "Levent"}
+{"y": 7450.5, "x0": 100.0, "x1": 944.0, "xc": 522.0, "text": "As far as I see, L2+ version would be enough. But there are some technical items which may need L3", "conf": 0.995, "slice": 6300, "speaker": "Levent"}
+{"y": 7473.0, "x0": 102.0, "x1": 322.0, "xc": 212.0, "text": "software. This is a may be.", "conf": 0.992, "slice": 7350, "speaker": "Levent"}
+{"y": 7543.0, "x0": 101.0, "x1": 466.0, "xc": 283.5, "text": "We plan to use the costs for the L2 version.", "conf": 0.967, "slice": 7350, "speaker": "Levent"}
+{"y": 7607.0, "x0": 710.0, "x1": 831.0, "xc": 770.5, "text": "2025-12-2 16:10", "conf": 0.991, "slice": 7350, "speaker": null}
+{"y": 7664.0, "x0": 99.0, "x1": 260.0, "xc": 179.8, "text": "Pls check the excel", "conf": 0.997, "slice": 7350, "speaker": "Levent"}
+{"y": 7740.5, "x0": 99.0, "x1": 301.0, "xc": 200.0, "text": "Saga-ASFAT-2025-ihale-", "conf": 0.996, "slice": 7350, "speaker": "Levent"}
+{"y": 7764.0, "x0": 98.0, "x1": 202.0, "xc": 150.0, "text": "Kisim-2.xlsx", "conf": 0.997, "slice": 7350, "speaker": "Levent"}
+{"y": 7793.0, "x0": 97.0, "x1": 145.0, "xc": 121.0, "text": "10.0K", "conf": 0.996, "slice": 7350, "speaker": "Levent"}
+{"y": 7829.0, "x0": 127.0, "x1": 203.0, "xc": 165.0, "text": "微信电脑版", "conf": 0.999, "slice": 7350, "speaker": "Levent"}
+{"y": 7880.0, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-2 16:36", "conf": 0.998, "slice": 7350, "speaker": null}
+{"y": 7938.0, "x0": 1070.0, "x1": 1160.0, "xc": 1115.0, "text": "Hi, Levent.", "conf": 0.999, "slice": 7350, "speaker": "Simon"}
+{"y": 7961.5, "x0": 1071.0, "x1": 1438.0, "xc": 1254.5, "text": "Good to know this, this makes things easier", "conf": 0.999, "slice": 7350, "speaker": "Simon"}
+{"y": 8031.5, "x0": 919.0, "x1": 1438.0, "xc": 1178.5, "text": "so left side is your budget/target price? right side is quantity?", "conf": 0.984, "slice": 7350, "speaker": "Simon"}
+{"y": 8100.5, "x0": 1135.0, "x1": 1436.0, "xc": 1285.5, "text": "aha, its our prices, we can do better", "conf": 0.999, "slice": 7350, "speaker": "Simon"}
+{"y": 8126.5, "x0": 1136.0, "x1": 1319.0, "xc": 1227.5, "text": "right side is quantity?", "conf": 0.992, "slice": 7350, "speaker": "Simon"}
+{"y": 8195.5, "x0": 776.0, "x1": 1436.0, "xc": 1106.0, "text": "from the tender PDF and translation of Gemini Al, we do not have enough info", "conf": 0.982, "slice": 7350, "speaker": "Simon"}
+{"y": 8258.0, "x0": 709.0, "x1": 832.0, "xc": 770.5, "text": "2025-12-2 16:41", "conf": 0.998, "slice": 7350, "speaker": null}
+{"y": 8316.5, "x0": 832.0, "x1": 1438.0, "xc": 1135.0, "text": "do you think our models(24-port and 48-port) are good for this tender?", "conf": 0.997, "slice": 7350, "speaker": "Simon"}
+{"y": 8340.5, "x0": 831.0, "x1": 1286.0, "xc": 1058.5, "text": "better double-confirm it, it seems to be a big project..", "conf": 0.978, "slice": 7350, "speaker": "Simon"}
+{"y": 8410.5, "x0": 101.0, "x1": 351.0, "xc": 226.0, "text": "Yes, these are the quantities...", "conf": 0.991, "slice": 7350, "speaker": "Levent"}
+{"y": 8479.5, "x0": 101.0, "x1": 653.0, "xc": 377.0, "text": "For the specs pls try to feed thie attached RFP into Gemini again..", "conf": 0.988, "slice": 8400, "speaker": "Levent"}
+{"y": 8550.5, "x0": 100.0, "x1": 759.0, "xc": 429.5, "text": "It is the Egde RFP with common ctiteria and 2 sections for 24 port and 48 port", "conf": 0.993, "slice": 8400, "speaker": "Levent"}
+{"y": 8625.5, "x0": 99.0, "x1": 239.0, "xc": 169.0, "text": "Edge-Switch.pdf", "conf": 1.0, "slice": 8400, "speaker": "Levent"}
+{"y": 8643.0, "x0": 344.0, "x1": 376.0, "xc": 360.0, "text": "PDF", "conf": 0.996, "slice": 8400, "speaker": "Levent"}
+{"y": 8653.5, "x0": 96.0, "x1": 141.0, "xc": 118.5, "text": "3.9M", "conf": 0.999, "slice": 8400, "speaker": "Levent"}
+{"y": 8689.5, "x0": 127.0, "x1": 203.0, "xc": 165.0, "text": "微信电脑版", "conf": 0.999, "slice": 8400, "speaker": "Levent"}
+{"y": 8746.0, "x0": 1306.0, "x1": 1439.0, "xc": 1372.5, "text": "ok, let me do it", "conf": 0.984, "slice": 8400, "speaker": "Simon"}
+{"y": 8817.0, "x0": 97.0, "x1": 162.0, "xc": 129.5, "text": "thanks", "conf": 0.997, "slice": 8400, "speaker": "Levent"}
+{"y": 8880.5, "x0": 708.0, "x1": 831.0, "xc": 769.5, "text": "2025-12-2 17:24", "conf": 0.998, "slice": 8400, "speaker": null}
+{"y": 8938.0, "x0": 678.0, "x1": 768.0, "xc": 723.0, "text": "Hi, Levent,", "conf": 0.999, "slice": 8400, "speaker": "Simon"}
+{"y": 8962.0, "x0": 679.0, "x1": 1008.0, "xc": 843.5, "text": "After analysis, we have some problems", "conf": 0.996, "slice": 8400, "speaker": "Simon"}
+{"y": 8986.5, "x0": 680.0, "x1": 1028.0, "xc": 854.0, "text": "1, MTBF: the requested value is very high", "conf": 0.987, "slice": 8400, "speaker": "Simon"}
+{"y": 9010.0, "x0": 678.0, "x1": 930.0, "xc": 804.0, "text": "This is not a big issue actually", "conf": 0.988, "slice": 8400, "speaker": "Simon"}
+{"y": 9033.5, "x0": 678.0, "x1": 845.0, "xc": 761.5, "text": "2, RAM/FLASH size", "conf": 0.999, "slice": 8400, "speaker": "Simon"}
+{"y": 9057.5, "x0": 679.0, "x1": 869.0, "xc": 774.0, "text": "This is a big headache", "conf": 0.999, "slice": 8400, "speaker": "Simon"}
+{"y": 9129.8, "x0": 678.0, "x1": 878.0, "xc": 778.0, "text": "Both are not compliant", "conf": 0.993, "slice": 8400, "speaker": "Simon"}
+{"y": 9152.5, "x0": 679.0, "x1": 1232.0, "xc": 955.5, "text": "According to Gemini, for edge switches, 512MB is usually enough", "conf": 0.985, "slice": 8400, "speaker": "Simon"}
+{"y": 9175.8, "x0": 678.0, "x1": 969.0, "xc": 823.5, "text": "But in this tender, its 2GB for each", "conf": 0.99, "slice": 8400, "speaker": "Simon"}
+{"y": 9200.0, "x0": 678.0, "x1": 1195.0, "xc": 936.5, "text": "Probably this is a \"special\" value to leave out the competitors", "conf": 0.987, "slice": 8400, "speaker": "Simon"}
+{"y": 9224.5, "x0": 679.0, "x1": 838.0, "xc": 758.5, "text": "3, A minor feature", "conf": 0.994, "slice": 8400, "speaker": "Simon"}
+{"y": 9247.5, "x0": 679.0, "x1": 1352.0, "xc": 1015.5, "text": "IP SLA: this is a Cisco protocol, there are similar features, Ping/Tracert and sFlow", "conf": 0.991, "slice": 8400, "speaker": "Simon"}
+{"y": 9317.0, "x0": 1040.0, "x1": 1439.0, "xc": 1239.2, "text": "it is a non-comliant item anyway about point 3", "conf": 0.983, "slice": 8400, "speaker": "Simon"}
+{"y": 9388.5, "x0": 1209.0, "x1": 1439.0, "xc": 1324.0, "text": "for other features, all good", "conf": 1.0, "slice": 8400, "speaker": "Simon"}
+{"y": 9451.0, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-2 17:56", "conf": 0.998, "slice": 8400, "speaker": null}
+{"y": 9509.0, "x0": 104.0, "x1": 536.0, "xc": 320.0, "text": "The main problem is RAM/FLASH capacity, correct?", "conf": 0.945, "slice": 9450, "speaker": "Levent"}
+{"y": 9509.5, "x0": 103.0, "x1": 538.0, "xc": 320.5, "text": "The main problem is RAM/FLASH capacity, correct ?", "conf": 0.983, "slice": 8400, "speaker": "Levent"}
+{"y": 9581.0, "x0": 1404.0, "x1": 1441.0, "xc": 1422.5, "text": "yes", "conf": 0.999, "slice": 8400, "speaker": "Simon"}
+{"y": 9648.2, "x0": 921.0, "x1": 1438.0, "xc": 1179.2, "text": "2GB is too much, it exceeds normal needs for access switches", "conf": 0.985, "slice": 9450, "speaker": "Simon"}
+{"y": 9719.0, "x0": 101.0, "x1": 453.0, "xc": 277.0, "text": "What can we do about it? Modifications ?", "conf": 0.991, "slice": 9450, "speaker": "Levent"}
+{"y": 9789.0, "x0": 101.0, "x1": 506.0, "xc": 303.5, "text": "I will check with Taylan on the technical side too", "conf": 0.984, "slice": 9450, "speaker": "Levent"}
+{"y": 9859.5, "x0": 851.0, "x1": 1438.0, "xc": 1144.2, "text": "just tell the truth I guess, because 2GB is just NOT normal or standard", "conf": 0.992, "slice": 9450, "speaker": "Simon"}
+{"y": 9882.5, "x0": 853.0, "x1": 1027.0, "xc": 940.0, "text": "Taylan will verify this", "conf": 0.966, "slice": 9450, "speaker": "Simon"}
+{"y": 9952.0, "x0": 1376.0, "x1": 1440.0, "xc": 1408.0, "text": "thanks", "conf": 0.999, "slice": 9450, "speaker": "Simon"}
+{"y": 9997.0, "x0": 1125.0, "x1": 1438.0, "xc": 1281.5, "text": "Levent KILIC: I will check with Taylan on the", "conf": 0.98, "slice": 9450, "speaker": "Simon"}
+{"y": 10015.2, "x0": 1124.0, "x1": 1256.0, "xc": 1189.8, "text": "technical side too", "conf": 0.957, "slice": 9450, "speaker": "Simon"}
+{"y": 10068.0, "x0": 709.0, "x1": 832.0, "xc": 770.5, "text": "2025-12-2 18:02", "conf": 0.998, "slice": 9450, "speaker": null}
+{"y": 10125.5, "x0": 101.0, "x1": 550.0, "xc": 325.5, "text": "Do you have an idea which competitor supports this?", "conf": 0.994, "slice": 9450, "speaker": "Levent"}
+{"y": 10194.0, "x0": 841.0, "x1": 1235.0, "xc": 1038.0, "text": "well, I think this is not a normal/standard value", "conf": 0.994, "slice": 9450, "speaker": "Simon"}
+{"y": 10220.0, "x0": 839.0, "x1": 1440.0, "xc": 1139.5, "text": "probably its JUST for a certain company, to keep other competitors out", "conf": 0.977, "slice": 9450, "speaker": "Simon"}
+{"y": 10283.0, "x0": 709.0, "x1": 832.0, "xc": 770.5, "text": "2025-12-2 21:22", "conf": 0.998, "slice": 9450, "speaker": null}
+{"y": 10340.5, "x0": 99.0, "x1": 937.0, "xc": 518.0, "text": "Hi Simon, another quick question for tomorrow morning. What option can we suggest for IP-SLA?", "conf": 0.981, "slice": 9450, "speaker": "Levent"}
+{"y": 10409.5, "x0": 766.0, "x1": 1438.0, "xc": 1102.0, "text": "IP SLA: this is a Cisco protocol, there are similar features, Ping/Tracert and sFlow", "conf": 0.994, "slice": 9450, "speaker": "Simon"}
+{"y": 10480.0, "x0": 1223.0, "x1": 1439.0, "xc": 1330.8, "text": "those are similar features", "conf": 0.986, "slice": 9450, "speaker": "Simon"}
+{"y": 10550.5, "x0": 98.0, "x1": 801.0, "xc": 449.5, "text": "yes, the problem in the RFP is about jitter. Other features okay. But how about jitter", "conf": 0.984, "slice": 9450, "speaker": "Levent"}
+{"y": 10620.5, "x0": 1007.0, "x1": 1437.0, "xc": 1221.8, "text": "do you mean we need to provide the data of jitter?", "conf": 0.988, "slice": 10500, "speaker": "Simon"}
+{"y": 10683.5, "x0": 709.0, "x1": 832.0, "xc": 770.5, "text": "2025-12-2 21:25", "conf": 0.99, "slice": 10500, "speaker": null}
+{"y": 10741.5, "x0": 1175.0, "x1": 1437.0, "xc": 1306.0, "text": "let me check with our engineer", "conf": 0.993, "slice": 10500, "speaker": "Simon"}
+{"y": 10811.5, "x0": 101.0, "x1": 968.0, "xc": 534.5, "text": "RFP item 3.7.20 asks something similar to IP-SLA and in paranthesis it asks for packet loss, delay, jitter. I", "conf": 0.988, "slice": 10500, "speaker": "Levent"}
+{"y": 10834.5, "x0": 101.0, "x1": 402.0, "xc": 251.5, "text": "thinkwehave a probemwihthJitter", "conf": 0.969, "slice": 10500, "speaker": "Levent"}
+{"y": 10905.0, "x0": 1411.0, "x1": 1443.0, "xc": 1427.0, "text": "ok", "conf": 0.973, "slice": 10500, "speaker": "Simon"}
+{"y": 10974.5, "x0": 101.0, "x1": 971.0, "xc": 536.0, "text": "and in RFP item 3.7.11 asks for SCP or SFTP. Do we have any of these protocola or can we commit to it ?", "conf": 0.985, "slice": 10500, "speaker": "Levent"}
+{"y": 11044.5, "x0": 101.0, "x1": 931.0, "xc": 516.0, "text": "By the way pls feel free to offer Centec or Realtek if these are easier to provide in the RFP response", "conf": 0.989, "slice": 10500, "speaker": "Levent"}
+{"y": 11107.0, "x0": 708.0, "x1": 831.0, "xc": 769.5, "text": "2025-12-2 21:32", "conf": 0.982, "slice": 10500, "speaker": null}
+{"y": 11166.0, "x0": 983.0, "x1": 1437.0, "xc": 1209.8, "text": "checking with our engineer now, any more problems?", "conf": 0.991, "slice": 10500, "speaker": "Simon"}
+{"y": 11235.0, "x0": 1166.0, "x1": 1438.0, "xc": 1301.8, "text": "guess we will stick with Marvell", "conf": 0.99, "slice": 10500, "speaker": "Simon"}
+{"y": 11304.5, "x0": 1178.0, "x1": 1439.0, "xc": 1308.2, "text": "we discussed this before, SFTP", "conf": 0.996, "slice": 10500, "speaker": "Simon"}
+{"y": 11349.5, "x0": 1076.0, "x1": 1425.0, "xc": 1250.5, "text": "Levent KILIC: and in RFP item 3.7.11 asks for SCP", "conf": 0.979, "slice": 10500, "speaker": "Simon"}
+{"y": 11370.0, "x0": 1076.0, "x1": 1436.0, "xc": 1256.0, "text": "or SFTP. Do we have any of these protocola or ca...", "conf": 0.966, "slice": 10500, "speaker": "Simon"}
+{"y": 11427.2, "x0": 1259.0, "x1": 1440.0, "xc": 1349.2, "text": "I will let u know soon", "conf": 0.968, "slice": 10500, "speaker": "Simon"}
+{"y": 11497.0, "x0": 99.0, "x1": 430.0, "xc": 264.8, "text": "okay. Just to sum up for your engineer,", "conf": 0.991, "slice": 10500, "speaker": "Levent"}
+{"y": 11543.5, "x0": 101.0, "x1": 191.0, "xc": 146.0, "text": "RFP 3.7.11", "conf": 0.985, "slice": 10500, "speaker": "Levent"}
+{"y": 11567.8, "x0": 99.0, "x1": 193.0, "xc": 146.0, "text": "RFP 3.7.20", "conf": 0.996, "slice": 10500, "speaker": "Levent"}
+{"y": 11591.0, "x0": 100.0, "x1": 326.0, "xc": 213.0, "text": "RFP 3.10.7 for 24-port and", "conf": 0.98, "slice": 10500, "speaker": "Levent"}
+{"y": 11614.5, "x0": 99.0, "x1": 290.0, "xc": 194.8, "text": "RFP 3.11.7 for 48-port", "conf": 0.982, "slice": 11550, "speaker": "Levent"}
+{"y": 11685.0, "x0": 1344.0, "x1": 1439.0, "xc": 1391.5, "text": "Ok, thanks", "conf": 1.0, "slice": 10500, "speaker": "Simon"}
+{"y": 11755.8, "x0": 1318.0, "x1": 1439.0, "xc": 1378.2, "text": "checking now", "conf": 0.999, "slice": 11550, "speaker": "Simon"}
+{"y": 11819.5, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-2 21:40", "conf": 0.992, "slice": 11550, "speaker": null}
+{"y": 11877.0, "x0": 1125.0, "x1": 1438.0, "xc": 1281.5, "text": "so no English version for this tender?", "conf": 0.977, "slice": 11550, "speaker": "Simon"}
+{"y": 11946.2, "x0": 1329.0, "x1": 1441.0, "xc": 1384.8, "text": "Edge-Switch", "conf": 0.999, "slice": 11550, "speaker": "Simon"}
+{"y": 12016.5, "x0": 831.0, "x1": 1439.0, "xc": 1135.0, "text": "it would be easier for our engineering team if there is an English version", "conf": 0.99, "slice": 11550, "speaker": "Simon"}
+{"y": 12087.0, "x0": 1368.0, "x1": 1442.0, "xc": 1405.0, "text": "for now", "conf": 0.998, "slice": 11550, "speaker": "Simon"}
+{"y": 12156.5, "x0": 1192.0, "x1": 1437.0, "xc": 1314.5, "text": "we think it is just about Jitter", "conf": 0.997, "slice": 11550, "speaker": "Simon"}
+{"y": 12226.5, "x0": 1096.0, "x1": 1439.0, "xc": 1267.5, "text": "other items, primary conclusion is all OK", "conf": 0.995, "slice": 11550, "speaker": "Simon"}
+{"y": 12296.5, "x0": 101.0, "x1": 443.0, "xc": 272.0, "text": "Nope, unforntunately no english version", "conf": 0.988, "slice": 11550, "speaker": "Levent"}
+{"y": 12366.0, "x0": 1412.0, "x1": 1441.0, "xc": 1426.5, "text": "ok", "conf": 0.971, "slice": 11550, "speaker": "Simon"}
+{"y": 12436.2, "x0": 1401.0, "x1": 1440.0, "xc": 1420.5, "text": "this", "conf": 1.0, "slice": 11550, "speaker": "Simon"}
+{"y": 12479.5, "x0": 1092.0, "x1": 1440.0, "xc": 1266.0, "text": "Simon: other items, primary conclusion is all OK", "conf": 0.996, "slice": 11550, "speaker": "Simon"}
+{"y": 12537.5, "x0": 100.0, "x1": 828.0, "xc": 464.0, "text": "okay... main issue is jitter... i undertsand you can sort out the RAM and Flash issues too", "conf": 0.972, "slice": 11550, "speaker": "Levent"}
+{"y": 12607.5, "x0": 1068.0, "x1": 1438.0, "xc": 1253.0, "text": "tomorrow we will go through the PDF again", "conf": 0.993, "slice": 11550, "speaker": "Simon"}
+{"y": 12609.2, "x0": 1068.0, "x1": 1439.0, "xc": 1253.2, "text": "tomorrowwewill go through thePDF again", "conf": 0.96, "slice": 12600, "speaker": "Simon"}
+{"y": 12676.0, "x0": 98.0, "x1": 193.0, "xc": 145.5, "text": "ok. thanks", "conf": 0.995, "slice": 11550, "speaker": "Levent"}
+{"y": 12747.5, "x0": 1066.0, "x1": 1440.0, "xc": 1252.8, "text": "yes, ram and flash is not a big issue for now", "conf": 0.989, "slice": 12600, "speaker": "Simon"}
+{"y": 12791.0, "x0": 1074.0, "x1": 1371.0, "xc": 1222.5, "text": "Levent KILIC: okay... main issue is jitte.. i", "conf": 0.907, "slice": 12600, "speaker": "Simon"}
+{"y": 12811.0, "x0": 1074.0, "x1": 1434.0, "xc": 1253.8, "text": "undertsand you can sort out the RAM and Flash ..", "conf": 0.974, "slice": 12600, "speaker": "Simon"}
+{"y": 13003.5, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-3 14:50", "conf": 0.986, "slice": 12600, "speaker": null}
+{"y": 13061.5, "x0": 1242.0, "x1": 1437.0, "xc": 1339.2, "text": "Good morning, Levent,", "conf": 1.0, "slice": 12600, "speaker": "Simon"}
+{"y": 13132.5, "x0": 995.0, "x1": 1439.0, "xc": 1217.0, "text": "1, MTBF: this value can be just modified, no big issue", "conf": 0.993, "slice": 12600, "speaker": "Simon"}
+{"y": 13202.5, "x0": 882.0, "x1": 1198.0, "xc": 1040.0, "text": "2, RAM and Flash: it can be 2GB each.", "conf": 0.993, "slice": 12600, "speaker": "Simon"}
+{"y": 13226.5, "x0": 882.0, "x1": 1438.0, "xc": 1160.0, "text": "RAM: we can simply change it to 2GB without modifying the PCBs", "conf": 0.998, "slice": 12600, "speaker": "Simon"}
+{"y": 13249.0, "x0": 879.0, "x1": 1294.0, "xc": 1086.5, "text": "Flash: we need to adapt the PCBs to make it 2GB", "conf": 0.985, "slice": 12600, "speaker": "Simon"}
+{"y": 13274.0, "x0": 883.0, "x1": 1189.0, "xc": 1036.0, "text": "So you can just say, 2GB each is fine.", "conf": 0.964, "slice": 12600, "speaker": "Simon"}
+{"y": 13297.5, "x0": 879.0, "x1": 1428.0, "xc": 1153.5, "text": "If we win this tender, we will just make it 2GB each in production.", "conf": 0.984, "slice": 12600, "speaker": "Simon"}
+{"y": 13360.0, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-3 14:50", "conf": 0.996, "slice": 12600, "speaker": null}
+{"y": 13417.0, "x0": 598.0, "x1": 838.0, "xc": 718.0, "text": "3, Big problem about IP SLA", "conf": 0.995, "slice": 12600, "speaker": "Simon"}
+{"y": 13442.5, "x0": 598.0, "x1": 1154.0, "xc": 876.0, "text": "According to our engineering team, this is a Cisco-based function.", "conf": 0.997, "slice": 12600, "speaker": "Simon"}
+{"y": 13467.0, "x0": 598.0, "x1": 1177.0, "xc": 887.5, "text": "It includes different small features like ICMP echo, ICMP jitter, ftp etc.", "conf": 0.982, "slice": 12600, "speaker": "Simon"}
+{"y": 13488.5, "x0": 598.0, "x1": 965.0, "xc": 781.5, "text": "ICMP echo can be replaced by Ping/Tracert", "conf": 0.997, "slice": 12600, "speaker": "Simon"}
+{"y": 13513.5, "x0": 598.0, "x1": 1440.0, "xc": 1018.8, "text": "Well, a big problem about ICMP jitter, it involves software, we cannot give a definite conclusion now", "conf": 0.993, "slice": 12600, "speaker": "Simon"}
+{"y": 13537.5, "x0": 597.0, "x1": 899.0, "xc": 748.0, "text": "We can only say, trying might work", "conf": 0.999, "slice": 12600, "speaker": "Simon"}
+{"y": 13607.0, "x0": 1012.0, "x1": 1150.0, "xc": 1081.0, "text": "And about Jitter", "conf": 0.986, "slice": 12600, "speaker": "Simon"}
+{"y": 13631.5, "x0": 1011.0, "x1": 1437.0, "xc": 1224.0, "text": "I talked with GPT, reply is there are 3 types of Jitter", "conf": 0.98, "slice": 12600, "speaker": "Simon"}
+{"y": 13701.5, "x0": 553.0, "x1": 871.0, "xc": 712.0, "text": "Three Types of Jitter Implementations", "conf": 0.996, "slice": 12600, "speaker": "Simon"}
+{"y": 13724.5, "x0": 549.0, "x1": 1008.0, "xc": 778.8, "text": "1. Basic RTT Jitter (Simple Consecutive RTT Difference)", "conf": 0.995, "slice": 12600, "speaker": "Simon"}
+{"y": 13749.5, "x0": 552.0, "x1": 1438.0, "xc": 995.0, "text": "This method calculates jitter based on the difference between consecutive ICMP Echo RTT measurements.", "conf": 0.995, "slice": 12600, "speaker": "Simon"}
+{"y": 13772.0, "x0": 550.0, "x1": 866.0, "xc": 708.0, "text": "Send continuous ICMP Echo requests", "conf": 0.994, "slice": 13650, "speaker": "Simon"}
+{"y": 13795.5, "x0": 549.0, "x1": 744.0, "xc": 646.8, "text": "Record each RTT value", "conf": 0.996, "slice": 13650, "speaker": "Simon"}
+{"y": 13820.0, "x0": 549.0, "x1": 976.0, "xc": 762.8, "text": "Jitter = (RTT(n) - RTT(n-1)I (average or maximum)", "conf": 0.985, "slice": 13650, "speaker": "Simon"}
+{"y": 13843.5, "x0": 549.0, "x1": 794.0, "xc": 671.8, "text": "No timestamp field required", "conf": 0.991, "slice": 13650, "speaker": "Simon"}
+{"y": 13868.5, "x0": 550.0, "x1": 923.0, "xc": 736.5, "text": "No support needed from the remote device", "conf": 0.996, "slice": 13650, "speaker": "Simon"}
+{"y": 13891.0, "x0": 554.0, "x1": 1020.0, "xc": 787.2, "text": "Y Easiest to implement, widely accepted in most RFPs.", "conf": 0.99, "slice": 13650, "speaker": "Simon"}
+{"y": 13915.0, "x0": 550.0, "x1": 1087.0, "xc": 818.8, "text": "2. ICMP Timestamp-Based Jitter (Enhanced Payload Timestamp)", "conf": 0.985, "slice": 13650, "speaker": "Simon"}
+{"y": 13938.5, "x0": 550.0, "x1": 1162.0, "xc": 856.2, "text": "This method adds a custom timestamp field into the ICMP Echo payload.", "conf": 0.99, "slice": 13650, "speaker": "Simon"}
+{"y": 13964.0, "x0": 552.0, "x1": 1007.0, "xc": 779.5, "text": "Insert a sender-side timestamp into the ICMP payload", "conf": 0.988, "slice": 13650, "speaker": "Simon"}
+{"y": 13987.0, "x0": 550.0, "x1": 950.0, "xc": 750.0, "text": "Remote device simply echoes back the payload", "conf": 0.999, "slice": 13650, "speaker": "Simon"}
+{"y": 14010.0, "x0": 549.0, "x1": 901.0, "xc": 725.2, "text": "Use RTT and timestamp to compute jitter", "conf": 0.989, "slice": 13650, "speaker": "Simon"}
+{"y": 14034.5, "x0": 552.0, "x1": 1049.0, "xc": 800.5, "text": "Does not require any special support on the remote device", "conf": 0.99, "slice": 13650, "speaker": "Simon"}
+{"y": 14057.5, "x0": 557.0, "x1": 1207.0, "xc": 882.0, "text": "V Still easy to implement; suitable for professional-grade jitter measurement.", "conf": 0.992, "slice": 13650, "speaker": "Simon"}
+{"y": 14080.5, "x0": 550.0, "x1": 954.0, "xc": 752.2, "text": "3. Cisco-Style UDP Jitter (Full IP SLA Responder)", "conf": 0.982, "slice": 13650, "speaker": "Simon"}
+{"y": 14105.0, "x0": 550.0, "x1": 1282.0, "xc": 916.2, "text": "This method mimics Cisco IP SLA Jitter using UDP packets with timestamp information.", "conf": 0.997, "slice": 13650, "speaker": "Simon"}
+{"y": 14129.0, "x0": 549.0, "x1": 1064.0, "xc": 806.8, "text": "Requires both sender and responder to support the protocol", "conf": 0.982, "slice": 13650, "speaker": "Simon"}
+{"y": 14153.0, "x0": 549.0, "x1": 947.0, "xc": 748.2, "text": "Parses timestamps for one-way delay and jitter", "conf": 0.985, "slice": 13650, "speaker": "Simon"}
+{"y": 14176.5, "x0": 549.0, "x1": 972.0, "xc": 760.5, "text": "Measures packet loss, MOS, and detailed statistics", "conf": 0.984, "slice": 13650, "speaker": "Simon"}
+{"y": 14200.8, "x0": 549.0, "x1": 1065.0, "xc": 807.2, "text": "This is Cisco proprietary and not supported by most vendors", "conf": 0.99, "slice": 13650, "speaker": "Simon"}
+{"y": 14224.5, "x0": 552.0, "x1": 1228.0, "xc": 890.0, "text": "x High implementation complexity, not recommended unless explicitly required.", "conf": 0.99, "slice": 13650, "speaker": "Simon"}
+{"y": 14294.0, "x0": 883.0, "x1": 1333.0, "xc": 1108.0, "text": "Accroding to GPT, it should be about type 1 or type 2", "conf": 0.976, "slice": 13650, "speaker": "Simon"}
+{"y": 14318.5, "x0": 881.0, "x1": 1026.0, "xc": 953.5, "text": "not very difficult", "conf": 0.998, "slice": 13650, "speaker": "Simon"}
+{"y": 14365.5, "x0": 880.0, "x1": 1438.0, "xc": 1158.8, "text": "anyway, please confirm with Taylan or your client about Jitter type", "conf": 0.982, "slice": 13650, "speaker": "Simon"}
+{"y": 14433.8, "x0": 1077.0, "x1": 1192.0, "xc": 1134.2, "text": "4, SFTP is OK", "conf": 0.986, "slice": 13650, "speaker": "Simon"}
+{"y": 14458.5, "x0": 1077.0, "x1": 1439.0, "xc": 1257.8, "text": "We discussed this last year, it is ready now.", "conf": 0.999, "slice": 13650, "speaker": "Simon"}
+{"y": 14528.0, "x0": 1237.0, "x1": 1438.0, "xc": 1337.2, "text": "pls let me know, thanks", "conf": 0.995, "slice": 13650, "speaker": "Simon"}
+{"y": 14590.5, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-12-3 14:57", "conf": 0.986, "slice": 13650, "speaker": null}
+{"y": 14649.5, "x0": 102.0, "x1": 995.0, "xc": 548.5, "text": "Hi Slmon, many thnks for all the responses. The customer just came up with a modifcation this morning to", "conf": 0.985, "slice": 13650, "speaker": "Levent"}
+{"y": 14673.0, "x0": 102.0, "x1": 945.0, "xc": 523.5, "text": "the RFP. They are squeezing more for Cisco. This is the Turkish Air Force and they are Cisco customer.", "conf": 0.979, "slice": 13650, "speaker": "Levent"}
+{"y": 14743.0, "x0": 101.0, "x1": 765.0, "xc": 433.2, "text": "Wearestudyingthemodifications.Iwillkeepyoupostedontheprogrestoday", "conf": 0.99, "slice": 14700, "speaker": "Levent"}
+{"y": 14743.5, "x0": 99.0, "x1": 767.0, "xc": 433.0, "text": "We are studying the modifications.I will keepyou posted on the progres today", "conf": 0.94, "slice": 13650, "speaker": "Levent"}
+{"y": 14814.0, "x0": 1151.0, "x1": 1439.0, "xc": 1295.0, "text": "aha, then everything makes sense", "conf": 0.996, "slice": 13650, "speaker": "Simon"}
+{"y": 14883.0, "x0": 100.0, "x1": 348.0, "xc": 224.2, "text": "With theresponses from you", "conf": 0.94, "slice": 14700, "speaker": "Levent"}
+{"y": 14952.8, "x0": 1347.0, "x1": 1439.0, "xc": 1393.0, "text": "ok, thanks", "conf": 0.99, "slice": 14700, "speaker": "Simon"}
+{"y": 15159.0, "x0": 709.0, "x1": 832.0, "xc": 770.5, "text": "2025-12-3 16:29", "conf": 0.998, "slice": 14700, "speaker": null}
+{"y": 15215.5, "x0": 99.0, "x1": 1035.0, "xc": 567.0, "text": "Hi Simon, the modification asks for MAC Security on the edg switches. Can you pls check if we can support this", "conf": 0.987, "slice": 14700, "speaker": "Levent"}
+{"y": 15286.2, "x0": 1359.0, "x1": 1440.0, "xc": 1399.5, "text": "checking", "conf": 1.0, "slice": 14700, "speaker": "Simon"}
+{"y": 15356.0, "x0": 98.0, "x1": 163.0, "xc": 130.5, "text": "thanks", "conf": 1.0, "slice": 14700, "speaker": "Levent"}
+{"y": 15419.0, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-12-3 16:38", "conf": 0.977, "slice": 14700, "speaker": null}
+{"y": 15478.2, "x0": 1147.0, "x1": 1437.0, "xc": 1291.8, "text": "MAC security and air force project", "conf": 0.999, "slice": 14700, "speaker": "Simon"}
+{"y": 15501.0, "x0": 1149.0, "x1": 1399.0, "xc": 1274.0, "text": "I guess this is about MACsec?", "conf": 0.994, "slice": 14700, "speaker": "Simon"}
+{"y": 15563.5, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-12-3 17:01", "conf": 0.992, "slice": 14700, "speaker": null}
+{"y": 15622.8, "x0": 97.0, "x1": 166.0, "xc": 131.5, "text": "correct", "conf": 0.999, "slice": 14700, "speaker": "Levent"}
+{"y": 15692.0, "x0": 922.0, "x1": 1245.0, "xc": 1083.5, "text": "a big problem. unavailable on Marvell", "conf": 0.988, "slice": 14700, "speaker": "Simon"}
+{"y": 15717.0, "x0": 922.0, "x1": 1437.0, "xc": 1179.5, "text": "we need to change new chip and use new software, R&D etc.", "conf": 0.985, "slice": 14700, "speaker": "Simon"}
+{"y": 15764.5, "x0": 922.0, "x1": 1112.0, "xc": 1017.0, "text": "this is too demanding", "conf": 0.997, "slice": 15750, "speaker": "Simon"}
+{"y": 15834.0, "x0": 882.0, "x1": 1438.0, "xc": 1159.8, "text": "checking Centec option now, but I guess it will not be easy as well", "conf": 0.984, "slice": 14700, "speaker": "Simon"}
+{"y": 15903.5, "x0": 101.0, "x1": 512.0, "xc": 306.5, "text": "hmmm i see okay... thanks... waiting to hear back", "conf": 0.97, "slice": 15750, "speaker": "Levent"}
+{"y": 15966.5, "x0": 710.0, "x1": 831.0, "xc": 770.5, "text": "2025-12-3 17:07", "conf": 0.997, "slice": 15750, "speaker": null}
+{"y": 16025.8, "x0": 1376.0, "x1": 1439.0, "xc": 1407.5, "text": "thanks", "conf": 0.999, "slice": 15750, "speaker": "Simon"}
+{"y": 16088.0, "x0": 709.0, "x1": 830.0, "xc": 769.5, "text": "2025-12-3 17:25", "conf": 0.947, "slice": 15750, "speaker": null}
+{"y": 16148.0, "x0": 1084.0, "x1": 1438.0, "xc": 1261.0, "text": "Sorry to tell you, not available on CENTEC", "conf": 0.985, "slice": 15750, "speaker": "Simon"}
+{"y": 16217.5, "x0": 1125.0, "x1": 1438.0, "xc": 1281.2, "text": "Marvell specs is our best option now", "conf": 0.989, "slice": 15750, "speaker": "Simon"}
+{"y": 16287.0, "x0": 804.0, "x1": 1273.0, "xc": 1038.5, "text": "accroding to our engineer, MACsec is a complex feature", "conf": 0.994, "slice": 15750, "speaker": "Simon"}
+{"y": 16311.0, "x0": 802.0, "x1": 1417.0, "xc": 1109.5, "text": "most small companies are not capable of it or will not invest time in this", "conf": 0.991, "slice": 15750, "speaker": "Simon"}
+{"y": 16373.5, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-12-3 17:38", "conf": 0.98, "slice": 15750, "speaker": null}
+{"y": 16432.0, "x0": 100.0, "x1": 433.0, "xc": 266.5, "text": "i understand... no worries... abort then...", "conf": 0.958, "slice": 15750, "speaker": "Levent"}
+{"y": 16573.0, "x0": 1376.0, "x1": 1440.0, "xc": 1408.0, "text": "thanks", "conf": 1.0, "slice": 15750, "speaker": "Simon"}
+{"y": 16636.5, "x0": 709.0, "x1": 830.0, "xc": 769.5, "text": "2025-12-3 17:53", "conf": 0.983, "slice": 15750, "speaker": null}
+{"y": 16694.0, "x0": 101.0, "x1": 421.0, "xc": 261.2, "text": "ThankYOU for theSupport as almaya", "conf": 0.94, "slice": 15750, "speaker": "Levent"}
+{"y": 16828.5, "x0": 708.0, "x1": 831.0, "xc": 769.5, "text": "2025-12-6 15:14", "conf": 0.998, "slice": 15750, "speaker": null}
+{"y": 16887.5, "x0": 101.0, "x1": 955.0, "xc": 528.0, "text": "Hi Simon, just a quick question: do you have any models with Marvell AC5X chipset (MACsec-enabled", "conf": 0.977, "slice": 16800, "speaker": "Levent"}
+{"y": 16911.0, "x0": 99.0, "x1": 562.0, "xc": 330.5, "text": "98DX35xx part numbers) to support MACsec features?", "conf": 0.996, "slice": 16800, "speaker": "Levent"}
+{"y": 16911.5, "x0": 102.0, "x1": 560.0, "xc": 331.0, "text": "98Dx35xxpartnumbers)tosupportMACsecfeatures?", "conf": 0.989, "slice": 15750, "speaker": "Levent"}
+{"y": 16980.5, "x0": 100.0, "x1": 409.0, "xc": 254.5, "text": "Or any designs but not production ?", "conf": 0.998, "slice": 16800, "speaker": "Levent"}
+{"y": 17051.5, "x0": 1098.0, "x1": 1184.0, "xc": 1141.0, "text": "Hi, Levent", "conf": 0.999, "slice": 16800, "speaker": "Simon"}
+{"y": 17074.5, "x0": 1095.0, "x1": 1437.0, "xc": 1266.0, "text": "so this is just about submitting the info?", "conf": 0.997, "slice": 16800, "speaker": "Simon"}
+{"y": 17146.0, "x0": 1031.0, "x1": 1439.0, "xc": 1235.0, "text": "like, not having to be a ready solution or sample", "conf": 0.988, "slice": 16800, "speaker": "Simon"}
+{"y": 17169.5, "x0": 1029.0, "x1": 1321.0, "xc": 1175.0, "text": "just some revelant info is enough?", "conf": 0.985, "slice": 16800, "speaker": "Simon"}
+{"y": 17212.5, "x0": 1079.0, "x1": 1440.0, "xc": 1259.5, "text": "Levent KILlC: Or any designs but not production ?", "conf": 0.973, "slice": 16800, "speaker": "Simon"}
+{"y": 17269.5, "x0": 101.0, "x1": 484.0, "xc": 292.5, "text": "Yes  just checking the options, possibilities", "conf": 0.976, "slice": 16800, "speaker": "Levent"}
+{"y": 17338.5, "x0": 1144.0, "x1": 1437.0, "xc": 1290.5, "text": "ok, let me check with our engineer", "conf": 0.985, "slice": 16800, "speaker": "Simon"}
+{"y": 17409.0, "x0": 1165.0, "x1": 1437.0, "xc": 1300.8, "text": "any news about TT project btw?", "conf": 0.983, "slice": 16800, "speaker": "Simon"}
+{"y": 17479.0, "x0": 99.0, "x1": 241.0, "xc": 170.2, "text": "You can answer:", "conf": 0.971, "slice": 16800, "speaker": "Levent"}
+{"y": 17502.2, "x0": 100.0, "x1": 402.0, "xc": 251.2, "text": "1- we have a design, no production", "conf": 0.988, "slice": 16800, "speaker": "Levent"}
+{"y": 17549.5, "x0": 99.0, "x1": 355.0, "xc": 227.2, "text": "2- we don' t have any design", "conf": 0.974, "slice": 16800, "speaker": "Levent"}
+{"y": 17621.0, "x0": 1243.0, "x1": 1416.0, "xc": 1329.5, "text": "2, I can answer now", "conf": 0.962, "slice": 16800, "speaker": "Simon"}
+{"y": 17691.5, "x0": 100.0, "x1": 661.0, "xc": 380.5, "text": "Still waiting for financial settlement with Turk Telekom and partner", "conf": 0.976, "slice": 16800, "speaker": "Levent"}
+{"y": 17736.5, "x0": 101.0, "x1": 387.0, "xc": 244.0, "text": "Simon: any news about TT project btw?", "conf": 0.992, "slice": 16800, "speaker": "Levent"}
+{"y": 17794.0, "x0": 1114.0, "x1": 1438.0, "xc": 1276.0, "text": "it is a completly new thing=HW & SW", "conf": 0.978, "slice": 16800, "speaker": "Simon"}
+{"y": 17863.0, "x0": 99.0, "x1": 370.0, "xc": 234.8, "text": "Okay. No worries. Just checking", "conf": 0.986, "slice": 16800, "speaker": "Levent"}
+{"y": 17905.0, "x0": 100.0, "x1": 298.0, "xc": 199.0, "text": "Simon: 2, I can answer now", "conf": 0.978, "slice": 16800, "speaker": "Levent"}
+{"y": 17956.8, "x0": 708.0, "x1": 832.0, "xc": 770.0, "text": "2025-12-6 15:19", "conf": 0.992, "slice": 17850, "speaker": null}
+{"y": 18015.5, "x0": 1261.0, "x1": 1437.0, "xc": 1348.8, "text": "let me check anyway", "conf": 0.97, "slice": 17850, "speaker": "Simon"}
+{"y": 18084.8, "x0": 98.0, "x1": 194.0, "xc": 146.0, "text": "Thank you", "conf": 0.997, "slice": 17850, "speaker": "Levent"}
+{"y": 18149.0, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-6 15:34", "conf": 0.998, "slice": 17850, "speaker": null}
+{"y": 18206.0, "x0": 969.0, "x1": 1187.0, "xc": 1078.0, "text": "24GE + 4 SFP+ 98DX3540", "conf": 0.979, "slice": 17850, "speaker": "Simon"}
+{"y": 18231.0, "x0": 969.0, "x1": 1188.0, "xc": 1078.5, "text": "48GE + 4 SFP+ 98DX3560", "conf": 0.98, "slice": 17850, "speaker": "Simon"}
+{"y": 18278.0, "x0": 965.0, "x1": 1432.0, "xc": 1198.2, "text": "it will be those 2 chips, but we are far from R&D of it", "conf": 0.969, "slice": 17850, "speaker": "Simon"}
+{"y": 18348.8, "x0": 1179.0, "x1": 1432.0, "xc": 1305.2, "text": "it will be just pure discussion..", "conf": 0.987, "slice": 17850, "speaker": "Simon"}
+{"y": 18418.2, "x0": 1297.0, "x1": 1439.0, "xc": 1367.8, "text": "good for L2+ L3", "conf": 0.997, "slice": 17850, "speaker": "Simon"}
+{"y": 18462.0, "x0": 1075.0, "x1": 1425.0, "xc": 1250.0, "text": "Simon: 24GE + 4 SFP+ 98DX3540 48GE + 4 SFP+", "conf": 0.989, "slice": 17850, "speaker": "Simon"}
+{"y": 18482.5, "x0": 1074.0, "x1": 1436.0, "xc": 1255.0, "text": "98Dx3560 it will be those 2 chips, but we are far..", "conf": 0.983, "slice": 17850, "speaker": "Simon"}
+{"y": 18534.0, "x0": 709.0, "x1": 833.0, "xc": 771.0, "text": "2025-12-6 15:46", "conf": 0.999, "slice": 17850, "speaker": null}
+{"y": 18590.5, "x0": 100.0, "x1": 450.0, "xc": 275.2, "text": "No worries. @ thanks for checking it out", "conf": 0.998, "slice": 17850, "speaker": "Levent"}
+{"y": 18795.5, "x0": 706.0, "x1": 836.0, "xc": 771.0, "text": "2025-12-11 16:51", "conf": 0.998, "slice": 17850, "speaker": null}
+{"y": 18853.0, "x0": 100.0, "x1": 211.0, "xc": 155.5, "text": "Simon Hi ,", "conf": 0.971, "slice": 17850, "speaker": "Levent"}
+{"y": 18876.8, "x0": 99.0, "x1": 348.0, "xc": 223.5, "text": "I will need a favour from you.", "conf": 0.961, "slice": 17850, "speaker": "Levent"}
+{"y": 18924.0, "x0": 102.0, "x1": 995.0, "xc": 548.5, "text": "Since we still did not get the order for the Turk Telekom project, Karen at NEM Engineering needs her GBIC", "conf": 0.99, "slice": 18900, "speaker": "Levent"}
+{"y": 18949.0, "x0": 100.0, "x1": 261.0, "xc": 180.5, "text": "SFP modules back.", "conf": 0.999, "slice": 17850, "speaker": "Levent"}
+{"y": 19017.0, "x0": 102.0, "x1": 483.0, "xc": 292.5, "text": "Can you kindly send these units back to her ?", "conf": 0.978, "slice": 18900, "speaker": "Levent"}
+{"y": 19081.0, "x0": 706.0, "x1": 835.0, "xc": 770.5, "text": "2025-12-11 16:57", "conf": 0.993, "slice": 18900, "speaker": null}
+{"y": 19139.0, "x0": 1182.0, "x1": 1271.0, "xc": 1226.5, "text": "Hi, Levent,", "conf": 0.994, "slice": 18900, "speaker": "Simon"}
+{"y": 19163.2, "x0": 1181.0, "x1": 1435.0, "xc": 1308.0, "text": "Yes, wewill send it back today", "conf": 0.982, "slice": 18900, "speaker": "Simon"}
+{"y": 19233.5, "x0": 102.0, "x1": 424.0, "xc": 263.0, "text": "Thank you Simon, really appreciate it..", "conf": 0.964, "slice": 18900, "speaker": "Levent"}
+{"y": 19509.5, "x0": 71.0, "x1": 230.0, "xc": 150.5, "text": "白", "conf": 0.73, "slice": 18900, "speaker": "Levent"}
+{"y": 19510.5, "x0": 1463.0, "x1": 1503.0, "xc": 1483.0, "text": "Send", "conf": 0.997, "slice": 18900, "speaker": "Simon"}

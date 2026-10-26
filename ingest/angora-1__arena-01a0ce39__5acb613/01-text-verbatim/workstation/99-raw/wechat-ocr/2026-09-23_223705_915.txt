@@ -1,0 +1,291 @@
+# SOURCE: Weixin Image_2026-09-23_223705_915.png
+# SIZE: 1544x15174  SLICES: 15
+############################################################
+Levent KILIC
+Thanks. No worries
+You are traveling on your festival time
+Yes
+Levent KILlC: You are traveling on your festival
+time
+I will try to fix it asap
+2024-9-17 00:45
+Thanks.
+2024-9-18 15:13
+Hi, Levent
+I made a reply last night
+pls kindly check and let me know
+thanks
+2024-9-18 15:20
+Hi Simon, many thanks M I received it alright
+pls let me know your feedback
+About customization, I have submitted your case
+pls let me know your feedback
+About customization, I have submitted your case
+Sure. I will keep you posted tomorrow. We had a problem with customer.
+Ok, pls let me know if we can help with anything
+Thank you. Sure I will comeback to you
+2024-10-1 17:54
+Hi Simon, how are you ? Sorry to bother you on your holidays.
+Do you have the following certifications for the industrial product
+EN61000-4-2 (ESD), EN61000-4-4 (EFT), EN61000-4-5, IEC 60068-2-27, IEC 60068-2-32, IEC 60068-2-6
+EMC Standards
+The EMC standards you mentioned are not covered by EN 62368-1:2020:
+EN 61000-4-2 (ESD -Electrostatic Discharge)
+EN 61000-4-4(EFT-Electrical Fast Transient)
+EN 61000-4-5 (Surge)
+These standards are part of the IEC 61000 series, which deals with electromagnetic compatibility testing3.
+They are typically required separately for EMC compliance and CE marking.
+Environmental Testing Standards
+The IEC 60068 series standards you listed are also not covered by EN 62368-1:2020:
+IEC 60068-2-27 (Shock)
+IEC 60068-2-32 (Free fall)
+IEC 60068-2-6 (Vibration)
+These standards are part of the IEC 60068 series, which focuses on environmental testing of electronic and
+electrical products4.
+2024-10-1 18:54
+Hi, Levent
+thanks for your info
+2024-10-118:54
+Hi, Levent
+thanks for your info
+so this is about EN 62368-1:2020 certification?
+For 61000 series, we got the certificates
+But for 60068 series, we do not have the certificates, it is just about internal testing(not authoritative/
+standard)
+In most cases, clients just focus on 61000 series, s0 we als0 add 60068 series
+2024-10-1 19:00
+okay great.. thank you
+is this about the project we are on now?
+No no this is for another project, an RFP from a minucipality.. Different project.
+isee
+The project we are on id going on ( fingers crossed )
+thanks for your efforts .
+about the proposal I shared, we can talk about it later
+I think it is a great opportunity
+Thanks for your support and patience
+2024-10-14 21:38
+Hi Slmon how are you?
+2024-10-14 21:38
+Hi Slmon how are you?
+2024-10-14 21:48
+Hi, Levent. I am doing good
+Thanks
+How about you?
+Great thanks... We have a few small orders we plan to place this week
+or early next
+Good to know this
+Is this about the testing depot?
+2024-10-14 21:55
+Yes and some small customer test projects too
+OK
+Any model names?
+We can prepare it beforehand
+I will get back on this tomorrow...
+2024-10-14 21:57
+thanks
+I will get back on this tomorrow...
+2024-10-14 21:57
+thanks
+How about the project(switch 385pcs)?
+it is still pending on customer side. We have a meeting on Thursday to discuss
+Ok, pls let me know if we could help with anything
+We are one team
+thank you. will keep you poste
+The model name isSTC-424DGGPM-280W for5pieces
+2024-10-14 22:03
+Oh, it' s easy then
+Just got an order for this model a few days ago
+Yep... With Angora Software and etc.
+No problem
+Thanks
+2024-10-17 16:59
+Simon hi, how are you doing today ?
+2024-10-17 16:59
+Simon hi, how are you doing today ?
+We had a director level meeting with the customer today. They have agreed to the new order. Now we will
+expect to get the official order from them for 385 pieces. I hope to keep you posted early next week
+As for the 5 pieces STC-424DGGPM-280W, can you pls share a Pl with me ?
+2024-10-17 17:05
+Hi, Levent. I am good, thanks for the info
+great, finally
+Levent KILlC: We had a director level meeting with
+the customer today. They have agreed to the ne..
+OK, I will make one
+leadtime is soon, like 2~3 days will be ready
+Levent KILIC: As for the 5 pieces
+STC-424DGGPM-280W, can you pls share a Pl wi...
+about those 5 pieces
+with your logo and model names, right?
+2024-10-17 17:30
+yes, correct...
+pls share your model name
+ANW-2116-PG
+its 2*fiber and 24*PoE
+now it shows number 16
+ANW-2116-PG
+its 2*fiber and 24*PoE
+now it shows number 16
+is it final?
+sorry, 4*fiber
+Simon: its 2*fiber and 24*PoE now it shows
+number 16
+Hmmm you are right. Let me check with Engineering..
+Ok, Pl is ready now
+wating for your model name
+2024-10-17 17:35
+your catalogue shows 4x2.5Gbps SFP ports, right ?
+Not 2
+yes
+great. thanks
+will get back asap
+great. thanks
+will get back asap
+sure, thanks
+Just talked to engineering. thank you for warning
+Our model name is ANW-2224-PG
+STSC20241017007.pdf
+333.7K Not Downloaded
+PDF
+微信电脑版
+do I send a copy on email?
+Will appreciate it. I am a bit old schoool
+2024-10-17 17:40
+experienced
+Aha ha ha you are very kind
+it depends on your thought
+when I was at school, sometimes
+we read some good English lines, its kinda like chicken soup
+beautiful lines, and meaningful
+now after some years of work, come to know that those lines are really helpful
+we read some good English lines, its kinda like chicken soup
+beautiful lines, and meaningful
+now after some years of work, come to know that those lines are really helpful
+or say, its really like that
+absolutely correct.. They help a lot
+lets see
+2024-10-17 17:57
+thanks
+2024-10-21 12:28
+Hi  Simon how are you doing today.
+Can you please revise the invoice to add 2 pieces of the industrial switch model for the bigger 385 pieces project
+We hope to finalize paperwork with the customer on this project this week
+2024-10-21 12:59
+Hi, Levent.
+OK
+Levent KILlC: Can you please revise the invoice to
+add 2 pieces of the industrial switch model for th..
+great news
+Levent KILlC: Can you please revise the invoice to
+add 2 pieces of the industrial switch model for th..
+Levent KILlC: We hope to finalize paperwork with
+the customer on this project this week
+2024-10-21 13:00
+about the pvc mask Taylan mentioned, what do we do?
+its OK, but there is extra cost for it
+moq is 20pcs, each piece is 3usd
+the more, the cheaper...
+that is exactly why I said in the reply email that, best if this model is frequently ordered
+then the customized pvc masks can be consumed
+2024-10-21 13:19
+Yep let's do the front panel as many as we can
+Let me reply to your email
+2024-10-21 13:30
+Ok.
+2024-10-21 15:19
+Hi, Levent.
+I got your email, thanks.
+About to make a reply, would like to confirm with you here about 2 things
+PVC mask cost
+20pcs: 3usd/pc
+100pcs: 2.3usd/pc
+300pcs: 1.5usd/pc
+I would suggest 100pcs
+It might take a year or less to consume them all, hopefully there are several projects for this model
+The final quantity is up to you.
+100pcs: 2.3usd/pc
+300pcs: 1.5usd/pc
+I would suggest 100pcs
+It might take a year or less to consume them all, hopefully there are several projects for this model
+The final quantity is up to you.
+Regarding 2 units of industrial switch, I will include it in the revised Pl.
+And your model name is?
+2024-10-21 15:36
+100 pieces is great...
+Let me check the model name again
+OK, I am writing a reply now, waiting for it
+in this email, I will add something else
+STI-280DGGM
+its about the project and proposal, this is important,l
+oh okay... looking forward to it
+yes, this is our model name
+Levent KILIC: STI-280DGGM
+yep this is the product we plan to order 385 pieces. So we need 2 samples for this
+ok, pls let me know your model name for it
+ANW-1108-V
+This is our model name
+ANW-1108-V
+This is our model name
+2024-10-21 15:43
+ok, thanks
+I will make a reply on email soon
+Thank. you Simon
+2024-10-21 17:36
+Thank you for the email. I will respond in detail later in the day
+Thanks, Levent
+pls
+Simon: its about the project and proposal, this is
+important
+2024-10-22 10:14
+Hi, Levent.
+STC-424DGGPM-280W.cdr
+636.0K Not Downloaded
+微信电脑版
+This is the source file for PVC mask
+2024-10-22 10:15
+This is the source file for PVC mask
+2024-10-22 10:15
+pls do your design on it and let us know, thanks
+2024-10-22 11:40
+Hi Simon, thanks
+2024-10-22 14:11
+Hi Simon, just transfeered $1,545 to your side. It should be with you today or tomorrow latest
+We will need to adjust the invoice to include just the product prices, and put in the remark "Delivery terms:
+CPT to Ankara, Turkey"
+This is for the customs purposes. The customs asks the invoice to exactly match the amount transferred
+Stupid Turkish customs rules
+I will share the SWiFT transfer document as soon as I get it from the bank
+2024-10-22 14:27
+Hi, Levent. Thanks for your info
+ok, as long as it helps your import
+Levent KILlC: We will need to adjust the invoice to
+include just the product prices, and put in the re...
+haha。。
+Levent KILIC: Stupid Turkish customs rules
+haha。
+Levent KILiC: Stupid Turkish customs rules
+from our side, we will just do our best to support you
+and would like to know your feedback on the proposal&project
+thanks
+Thanks
+2024-10-22 14:32
+The proposal looks all good to us
+Let' s close this order first and then we can discuss the details
+Levent KILlC: The proposal looks all good to us
+Still working with customer to place official order
+OK
+1, we are now preparing the materials
+2, pls share the PVC design once done
+Levent KILiC: Let' s close this order first and then
+we can discuss the details
+ok, lets see
+Levent KILlC: Still working with customer to place
+official order
+2024-10-22 14:47
+The PVC design is on its way
+ok, thanks
+2024-10-2214:47
+ThePvCdesignisonitsway
+ok, thanks
+I just got confirmation from the bank for SwiFT. please watch your account payment landing.
+sure, i will let u know once I have any news
+Send

@@ -1,0 +1,190 @@
+{
+ "source": "3rd order 176台2光16电 L2 PoE/Reply on RFP 2024.12.10.docx",
+ "chars": 2475,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "There are some interesting features that may help stand out."
+  },
+  {
+   "type": "p",
+   "data": "1, hardware material"
+  },
+  {
+   "type": "p",
+   "data": "1.1"
+  },
+  {
+   "type": "p",
+   "data": "Expert Design"
+  },
+  {
+   "type": "p",
+   "data": "The upper panel, aluminum"
+  },
+  {
+   "type": "p",
+   "data": "The other sides, iron"
+  },
+  {
+   "type": "p",
+   "data": "This ensures better dissipation especially for PoE models"
+  },
+  {
+   "type": "p",
+   "data": "Though this model STI-280DGGM is Non-PoE."
+  },
+  {
+   "type": "p",
+   "data": "1.2"
+  },
+  {
+   "type": "p",
+   "data": "Push-in Terminal Block"
+  },
+  {
+   "type": "p",
+   "data": "Now on the market many suppliers are doing traditional screw-type terminal block as below"
+  },
+  {
+   "type": "p",
+   "data": "This is more difficult in installation than push-in type"
+  },
+  {
+   "type": "p",
+   "data": "On top of this, the heat sink part&EMI protection is better than peer suppliers."
+  },
+  {
+   "type": "p",
+   "data": "You have the 2 units and can easily understand those points."
+  },
+  {
+   "type": "p",
+   "data": "It is not necessarily helpful in this project, but maybe."
+  },
+  {
+   "type": "p",
+   "data": "And this is exactly we are better than competitors."
+  },
+  {
+   "type": "p",
+   "data": "2, hardware features"
+  },
+  {
+   "type": "p",
+   "data": "2.1"
+  },
+  {
+   "type": "p",
+   "data": "Serial function"
+  },
+  {
+   "type": "p",
+   "data": "Our engineer suggested this to be mandatory in this tender."
+  },
+  {
+   "type": "p",
+   "data": "As far as we know, few peer suppliers have a full range of industrial switches with serial function."
+  },
+  {
+   "type": "p",
+   "data": "Some suppliers just have 1 or 2 models while we have many.At the same time, the price is not expensive after adding it."
+  },
+  {
+   "type": "p",
+   "data": "Meanwhile, there is USB&Alarm function available,"
+  },
+  {
+   "type": "p",
+   "data": "We think this is critical to stand out from this tender."
+  },
+  {
+   "type": "p",
+   "data": "2.2"
+  },
+  {
+   "type": "p",
+   "data": "Chip info"
+  },
+  {
+   "type": "p",
+   "data": "It is Marvell Based IC and we develop our own software(codes)"
+  },
+  {
+   "type": "p",
+   "data": "For most peer suppliers, they do Realtek, Vitesse or Broadcom"
+  },
+  {
+   "type": "p",
+   "data": "Moreover, the software is foreign, that is to say, when there is a substantial software change, they are very passive and subject to the software supplier."
+  },
+  {
+   "type": "p",
+   "data": "For us, we can easily change most of the requested features(of course cost and R&D time is a big concern), but technically its very possible."
+  },
+  {
+   "type": "p",
+   "data": "Our engineer suggested maybe add a term “have the capability to do software change for future purpose if any”, some kind of description like this to stand out"
+  },
+  {
+   "type": "p",
+   "data": "3, software features"
+  },
+  {
+   "type": "p",
+   "data": "3.1"
+  },
+  {
+   "type": "p",
+   "data": "SFTP feature is available, please add this in the requirement list."
+  },
+  {
+   "type": "p",
+   "data": "We discussed this before."
+  },
+  {
+   "type": "p",
+   "data": "For most peer suppliers, they are not technically able to do this."
+  },
+  {
+   "type": "p",
+   "data": "For Huawei, H3C those big guys, they are not in this competition, right?"
+  },
+  {
+   "type": "p",
+   "data": "So this gives us an edge."
+  },
+  {
+   "type": "p",
+   "data": "3.2"
+  },
+  {
+   "type": "p",
+   "data": "Additional features"
+  },
+  {
+   "type": "p",
+   "data": "We are open to some new features you possibly need."
+  },
+  {
+   "type": "p",
+   "data": "In our daily work, we receive some RFPs that got some features not on our list yet."
+  },
+  {
+   "type": "p",
+   "data": "We are now not knowing who you are competing with, maybe locally or with other EU brands."
+  },
+  {
+   "type": "p",
+   "data": "Sure thing is, our models are good enough against peer Chinese suppliers."
+  },
+  {
+   "type": "p",
+   "data": "So maybe its good to let us know the features you think helpful after evaluating the strengths and models of the competitors in this tender."
+  },
+  {
+   "type": "p",
+   "data": "We will see how to move on."
+  }
+ ]
+}

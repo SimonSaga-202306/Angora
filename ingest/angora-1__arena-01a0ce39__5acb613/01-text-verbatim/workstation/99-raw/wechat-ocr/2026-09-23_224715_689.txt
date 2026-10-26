@@ -1,0 +1,469 @@
+# SOURCE: Weixin Image_2026-09-23_224715_689.png
+# SIZE: 1550x21910  SLICES: 21
+############################################################
+Levent KILIC
+2025-12-11 16:51
+Simon Hi
+I will need a favour from you.
+Since we still did not get the order for the Turk Telekom project, Karen at NEM Engineering needs her GBIC
+SFP modules back.
+Can you kindly send these units back to her ?
+2025-12-11 16:57
+Hi, Levent,
+Yes, we will send it back today
+Thank you Simon, really appreciate it...
+2025-12-15 12:03
+Good morning, Levent
+Can we expect some progress about TT project?
+It seems that holiday will be started from tomorrow
+Maybe from 16 December to 5 January
+Business will be slower
+So I guess if there is no progress, probably next year..
+Hi Simon, this week we planned a meeting with the partner. We also need to make a decision about this
+project whether it is still a GO or NO-GO...
+We are also very tired because of this project
+ok, thanks for your efforts .
+project whether it is still a GO or NO-GO...
+We are also very tired because of this project
+ok, thanks for your efforts..
+I am just checking, its OK if we still have to wait
+Just to confirm with you, every detail is finalized yet?
+aid bupuad-buol sun ou! ason n au aow pnod ot aey sop 'tiem snt osie ue nos 'sa j!
+2025-12-15 12:15
+Yeo thanks. I will keep you posted very soon.
+AS
+2025-12-15 12:21
+2025-12-15 21:17
+Hi Slmon, just received a Cisco RFP. Pls take a look. I will appreciate your opinion. Tomorrow though... Not now...
+Thanks
+Hi, Levent
+ANW-DC-RFP-EN.pdf
+PDF
+111.3K
+微信电脑版
+You can share it now, I will just check
+OK, I will let u know
+You can share it now, I will just check
+OK, I will let u know
+They have asked for stacking and MAC Sec for Cisco
+Thanks
+ok
+2025-12-16 13:41
+Hi Simon, any luck with the RFP?
+Hi, Levent. We are still evaluating it, pls give us some time
+Sure. Thanks.
+2025-12-16 21:24
+HI Levent
+Just a quick message
+CENTEC models are good
+am working on the updated info
+I guess tomorrow will be OK
+am working on the updated info
+I guess tomorrow will be OK
+thanks
+oh okay... yes, tomorrow is great... many thanks.
+2025-12-17 21:47
+Hi, Levent
+INFO.rar
+49.0M
+6
+微信电脑版
+Please check the info
+MACsec is OK
+Stacking requires ST license
+lets get into details after your initial review
+2025-12-17 21:48
+thanks
+Thanks Simon. I will check it
+1/6 22:07
+Hi Simon, how are you?
+1/6 22:07
+Hi Simon, how are you?
+Wishing you a happy new year in 2026
+Hi, Levent. I am good, thanks
+And happy new year!!
+how are things there?
+your holiday is over?
+About the TT project, our partner lied to us and kicked us out of the project and decided to goo with a
+different technical solution.
+We are totally dissappointed by this :-(
+Yes holidays are over yesterday
+Sorry to hear that...
+a different technical solution means?
+let's see if we can win some other projects
+its a long road e
+They said Turk Telekom forced them to work with another company. But we know this is a lie
+Thanks, we will have many more projects. We are very agressive and optmistic in 2026
+well, this sometimes happens, in China as well
+Levent KILlC: They said Turk Telekom forced them
+to work with another company. But we know this..
+well, this sometimes happens, in China as well
+Levent KILlC: They said Turk Telekom forced them
+to work with another company. But we know this..
+a big project just involves too many parties
+1/6 22:13
+But no... We should at least be getting some business..
+I do not accept such behavour.
+Nut learnt a very expensive lesson :-(
+to some extent, its good to know this
+its closing, we dont have to waste more time on that
+we can turn to different new projects and business
+we will always move on!!
+absolutely... I will make up for the 1,500 pcs in other projects this year...
+We will sell in Turkey and in the UK..
+haha, thanks for your kind words
+its OK, we will just move on, this is a very important thing I just realized
+perhaps we will win some good projects, maybe not
+but we just do our business with hope and care
+time and hard work will reward us
+thanks... ds always... for your suppor I and encouragerment
+thicic
+hiz
+20262
+time and hard work will reward us
+thanks... ds always... for your suppor I and encouragerment
+this is about the biz plan 2026?
+Levent KILlC: We will sell in Turkey and in the UK..
+we are one team, and let's move on
+Levent KILiC: thanks.. as always... for your support
+and encouragement
+Yes... this is the plan
+Simon: this is about the biz plan 2026?
+1/6 22:18
+Thanks... Let's do that
+Simon:
+we are one team,and let's move on
+thanks, Levent. Lets hope we can work out something big in year 2026  @
+1/6 22:26
+1/12 03:02
+Hi Slmon,pls take a look at this promotionIhavebeenplanning for Q1 and Q2 tocreate a run rate
+business.
+1- It is invitation only and fixed price
+2- Pls comment on the model configurations, any suggestions welcome
+3- Let me know your thoughts, would this be interesting for you f you were a micro Systems Integrator
+(103 people field shop) serving 10-20 customers
+"Levent KILIC" recalled a message
+1/12 03:12
+(103 people field shop) serving 10-20 customers
+"Levent KILIC" recalled a message
+1/12 03:12
+Untitled.pdf
+PDF
+5.9M
+微信电脑版
+1/12 14:28
+Good morning, Levent
+Thanks for your info
+I read it, its interesting
+I did this
+This business design involves below cost
+Unit price
+Shipping Cost
+Customs Tax
+Your Profit
+Bonus
+ANW-2222-8TP2U
+Unit Price: 90USD/PC
+Shipping Cost: 15USD/PC
+According to past orders, it is about 10USD/Kg on average
+Customs Tax: 20USD
+20% of Unit Price+Shipping Cost, not sure if this is the right value
+Your CIF price is roughly
+90+15+20=125USD/PC
+This is approximately the amount you actually pay to get EACH unit
+So, let' s include your profit
+If it is 30%, the price Sls get is 162.5USD/PC
+Your unit profit is 37.5USD/PC
+Their profit lets say 20%, the end users will get the unit at 195USD/PC
+Now we have 2 problems
+1, About the bonus, the amount is inside or outside your profit
+Inside your profit?
+Your unit profit is 37.5USD/PC
+Their profit lets say 20%, the end users will get the unit at 195USD/PC
+Now we have 2 problems
+1, About the bonus, the amount is inside or outside your profit
+Inside your profit?
+This will makes your profit very thin
+Let' s do the math
+Bronze (10-24 switches/quarter): $500 cash bonus
+10PCS, this means your profit is minus even
+Outside your profit?
+Totally or partially?
+If totally, this will make the unit prices Sls get very high
+Probably partially
+Either way, this will be added in the final prices end user pay
+So, we need to think, are the prices still competitive?
+Compared with local brands, competitors etc.
+It can be foreseen that the sales quantity will not be many unless if it is for certain governmental or similar
+projects
+its just about sales aspect, the bonus might be too much?
+For the models, commercial switch 8-port is desktop type
+we have 1U rack type, maybe its better
+I would be interested if I were a local Sl
+but
+this? Angora would still have a good profit?
+Simon: its just about sales aspect, the bonus
+might be too much?
+1/12 14:41
+Hi Simon, many thanks for the feedback.
+I did makemore detailed version.Exactlybecause ofwhatyou suggested.
+Pls take
+thanksfor the feedback.
+I did make more detailed version. Exactly because of what you suggested.
+Pls take a look at the following...
+ANW-PROMO-2026-
+Q1.pdf
+PDF
+94.1K
+微信电脑版
+2nd page in English.
+ok, thanks, let me check
+I included suggested sales prices. This is for your eyes only please. Do not share with anyone.
+I did a profit analysis. It is okay
+sure
+Levent KILiC: I included suggested sales prices.
+This is for your eyes only please. Do not share wi...
+ok, I will give my suggestions soon
+Levent KILIC: I did a profit analysis. It is okay
+thanks
+I changed industrial model to LAYER 2 only
+Commercial models should be Layer 2+.
+1/12 14:45
+Commercial models should be Layer 2+.
+1/12 14:45
+its the 3 three models you purchased before, right?
+or the industrial 8-port model is L2 managed, not L2+?
+Yes. pls see the descriptions. I changed 8-port commercial model and industrial model
+ok
+Industrial Layer 2 is , I think better, mostly for camera projects. They do not need Layer 2+
+This is for micro small companies
+it makes sense if it is just for simple CCTV projects
+Levent KILlC: Industrial Layer 2 is , I think better,
+mostly for camera projects. They do not need La...
+and brand awareness
+1/12 15:04
+1, ANW-4222-8TP2U model does not support 100M fiber speed
+Please delete it in the description
+2, the prices and strategy will make Angora well profitable
+The bonus would be a strong stimulation to Sls because they will gather their resources for promotion.
+It is just too much, 25pcs=600USD reward
+But
+A problem is the competitiveness
+are the models still very competitive when Sls add their profit?
+Well, we do not have to worry about this too much.
+Because, no sales, no bonus
+If any Sls want to get this bonus, they have to try very hard in sales
+It is just a problem we should give a little thought
+are the models still very competitive when Sls add their profit?
+Well, we do not have to worry about this too much.
+Because, no sales, no bonus
+If any Sls want to get this bonus, they have to try very hard in sales
+It is just a problem we should give a little thought
+3, do you think it is a good idea to send some samples to interested Sls?
+They will know the features for better sales
+Maybe the samples at a discounted price?
+They might have different projects or customers, you can develop another strategy like direct sales(no
+bonus, of course at a lower unit price)
+This will probably undermine the bonus sales
+but it is just a new idea fyi, just play it by ear, direct sales or bonus sales
+4, yes, this bonus sales will enhance your brand awareness whether there are interested Sls.
+It is just a long-standing strategy
+Someone someday wants to have this big bonus?
+Join the program, maybe there are some good projects in hand
+This works
+1/12 15:11
+Yes,we need to send samples.
+To scale we give out some generous bonus
+I think this is a good pattern/strategy
+Like I said, someday, someone, and some projects
+The bonus is just there
+If any customers can sell your products, they will get the big bonus
+they will know Angora
+this is good
+just the competitiveness~ if this strategy can really generate sales
+1/12 15:36
+Yep let's see...
+1/12 15:41
+Yep let's see...
+1/12 15:41
+1/20 23:18
+Simon hi
+Sorry for the late inconvenience
+Just a quick question about the industrial switches
+Do we have IEC61850 certificate ? Or any compliance ?
+1/21 00:01
+Hl, Levent
+Hi Simon
+Sorry, it is not available
+Compliance is enough for customer.
+Oh okay
+Industry Standard
+EMIl: FCC Part 15B Class A
+Surge protection of power: IEC 61000-4-5 6KV/4KV(8/20us)
+Surge protection of Ethernet ports: IEC 61000-4-5 6KV/2KV(10/700us)
+RS: IEC 61000-4-3 80 MHz-1 GHz: 10 V/m
+EFT: IEC 61000-4-4 power interface: 4K; Ethernet ports: 2K
+CS: IEC 61000-4-6 10V
+ESD: IEC 61000-4-2 Level 4(8K/15K)
+Shock: IEC 60068-2-27
+Free fall: IEC 60068-2-32
+Vibration: IEC 60068-2-6
+ESD: IEC 61000-4-2 Level 4(8K/15K)
+Shock: IEC 60068-2-27
+Free fall: IEC 60068-2-32
+Vibration: IEC 60068-2-6
+this is it
+Ok thanks  let me check
+thanks
+1/26 19:39
+Hi Simon, how are you? Pls let us know if you have stacking in the following mode. A customer asked for 2
+pieces for sample testing. But they need stacking.
+https://www.sagatelecom.com.cn/productinfo/2704452.html?templateld=1133605
+1/26 19:40
+Hi, Levent.
+I am good, thanks
+I hope you had a good weekend
+sorry, stacking is NOT and will NOT be available on Marvell models
+thanks all good... I had a good rest...
+but centec model is OK
+we got this license
+Oh okay. Do you have same configuration in Centec? We can try this version
+so the spec is 4*10G uplinks and 24*1G sfp downlink, support stacking?
+Oh okay. Do you have same configuration in Centec? We can try this version
+so the spec is 4*10G uplinks and 24*1G sfp downlink, support stacking?
+yrd
+yes
+You recalled a message
+你撤回了一条消息
+Aha ha ha, why did you recall the message ?
+I just shared a higher spec
+I will check and let u know soon
+oh okay... So looking forward to hearing from you.
+1/26 19:45
+This is the minimum spec of course. Let's try with whatever you have.
+just checked
+it will be the model I just recalled
+it got 2*40G and 24*10G fiber ports
+ok great. if you can also share the pricing and shipment before CNY that will be grat
+1/26 19:50
+shipment? is this a confirmed order or you need some for testing?
+I got info in hand
+Mounting Info.pptx
+8.9M
+微信电脑版
+XLite Series.pptx
+2.0M
+微信电脑版
+STH-2C24XF-HSI
+this model
+it is a confirmed order with Angora software. The customer is ordering 2 pieces to test
+PerformanceofBigFlow
+Platform_EN_V2.1.pptx
+97.9K
+微信电脑版
+1/26 19:52
+97.9K
+微信电脑版
+1/26 19:52
+Saga Software Function
+List_EN_V2.4.pptx
+R
+149.7K
+微信电脑版
+ok
+and the pricing information pls
+with Angora software
+can you explain more?
+This is more thancustomer wants,but it is okay
+OEM model with Angora branded software
+Simon:withAngora software canyou explain
+more?
+Or neutral OEM version if it is too diffuclt to change now
+if you mean to add your logo and model name on the Ul, its OK
+Levent KILIC: OEM model with Angora branded
+software
+confirming the price now
+yes exactly what I mean.
+its OK
+Many tanks for decodin and understanding what I mean... Sorry about shorthand writing...
+its OK
+Many tanks for decodin and understanding what I mean... Sorry about shorthand writing...
+1/26 19:58
+1300usd/pc
+pls read this btw
+Simon: Mounting Info.pptx
+ok sure...
+Thanks
+the spec is just much higher, its 2*100G uplinks(sorry for wrong message just now) and 24*10G sfp+
+actually
+if this is for testing, its good
+ggreat...
+you can officially know CENTEC and XLite series, our software features etc.
+ok great. we will study it
+thanks
+1/27 13:31
+Good morning, Levent
+We will have a long holiday very soon, like in about 10 working days
+Good morning, Levent
+We will have a long holiday very soon, like in about 10 working days
+About the 2 units, lets finalize it asap if its a confirmed order
+or we need to wait about 1 month
+thanks
+1/2713:36
+Hi Simon, I know about the CNY. We will talk to the customer today and see what he wants to do.
+I will keep you posted
+2/2 13:29
+Hi, Levent,
+Any news about the samples?
+Just to let you know that, our holiday starts next week
+So we have to wait by the end of this month if we cannot finalize it
+thanks
+Hi Simon, the customer decided to go another way.
+So we don' t need the samples for this project.
+OK, no problem
+thanks
+2/2 13:34
+lets wait for another opportunity
+2/2 13:47
+lets wait for another opportunity
+2/2 13:47
+Thanks Simon.
+2/2 21:14
+Hi again, Levent
+Product Link 2026Q2.pdf
+96.3K
+PDF
+微信电脑版
+we updated the product links, pls check
+there will be a new update(the feature list) soon
+lets see, thanks
+2/2 21:24
+Ooo thanks Simon.
+2/4 14:58
+Hi, Levent,
+1, please check our roadmap
+2, our holiday starts from next week
+but pls just let me know if there is any query
+Lets hope for the best in 2026
+thanks
+Tailored Managed Networking Solutions
+Lets hope for the best in 2026
+thanks
+Tailored Managed Networking Solutions
+Phase 1
+Saga
+Phase 2
+Aces Layer
+S KARVELL
+CENTEC
+DG -C
+Scalable - Coherent • Stable • Low-Friction
+Roadmap.pdf
+PDF
+79.2K
+微信电脑版
+2/415:09
+Hi Slmon, thanks.. Will keep you posted
+2/5 20:17
+Hi Simon, we need the PVC for 24-Poe and 48-PoE Angora versions.
+Send

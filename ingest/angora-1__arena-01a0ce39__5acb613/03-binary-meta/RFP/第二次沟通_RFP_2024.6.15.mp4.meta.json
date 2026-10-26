@@ -1,0 +1,14 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "RFP/第二次沟通_RFP_2024.6.15.mp4",
+  "bytes": 32186757,
+  "sha256": "a80380dc79195387594bb63f15c4afae2dcc33aa9a0f8be3b4ddd771dd9e50b9",
+  "seq": 339,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:RFP/第二次沟通_RFP_2024.6.15.mp4)",
+  "video": {
+    "ftyp_brand": "mp42",
+    "duration_seconds": 32.256
+  }
+}

@@ -1,0 +1,417 @@
+# SOURCE: Weixin Image_2026-09-23_224233_298.png
+# SIZE: 1546x24894  SLICES: 24
+############################################################
+Levent KILIC
+2025-3-7 09:47
+Hl, Levent.
+UPS/1ZB600960435009531
+I will monitor the status as well
+thanks..
+2025-3-7 10:19
+Hi Simon, great news. Thanks
+2025-3-7 19:10
+Thank you for the update Simon
+11th is OK?
+estimated date of arrival
+Should be fine. If not delayed further
+estimated date of arrival
+Should be fine. If not delayed further
+I hope we get paid as soon as possible too
+you are not getting the payment from your client yet?
+is it Turk Telekom or someone else?.
+2025-3-7 19:15
+sorry to know this, thought you got paid
+2025-3-7 20:22
+Let'  s hope everything goes well
+2025-3-7 20:27
+Pls inform your customs agent to do the needful
+2025-3-7 20:46
+Yes I will contact him
+Simon: Pls inform your customs agent to do the
+needful
+2025-3-7 20:57
+YesIwillcontacthim
+Simon: Pls inform your customs agent to do the
+needful
+2025-3-7 20:57
+Thanks
+2025-3-7 22:11
+just a quick question
+https://www.rimaelektronik.com/
+is this a big local company?
+its on a previous list, just noticed this company
+Hi Simon. Let me check. We have not done business before
+OK
+we will not contact any local companies
+I will update the local client list and let you know
+Thank you. M we have the Turk Telekom deal cooking slowly
+Simon: we will not contact any local companies
+We will soon as for samples. Expecting to hear from them
+ok, thanks for your efforts lets see
+2025-3-10 16:17
+ok, thanks for your efforts
+lets see
+2025-3-1016:17
+Hi, Levent
+1, please do the needful
+2, about the payment for 7 units of 10g switches, can we expect it today or tomorrow?
+thanks
+2025-3-17 16:04
+Hi, Levent.
+delivered?
+Hi Simon, yesss..Just arrived this moming
+ok, hopefully its not late for your client
+just wondering why it took this long?
+Seems okay for now.
+is this procedural?
+2025-3-17 16:06
+Or is it about some document details?
+Nope, we had a delay in paying taxes.. The taxes summed up to USD$10,000 :-(
+Levent KILlC: Seems okay for now.
+The governments are always winning like casinos
+thats about 21% of the order
+its close to the rate in a previous order for an Italian client
+yes, 20% VAT and 1% other costs :-(
+hope you still have a decent profit?
+it is okay. But this is an introduction projec... So we hope we can get more business
+OK
+yes, in this order we cut our profit in shipping cost and power supply cost..
+OK
+yes, in this order we cut our profit in shipping cost and power supply cost..
+we gave a huge support
+Levent KILlC: it is okay... But this is an introduction
+project... So we hope we can get more business
+we look for long-term business, especially from your another client Turk Telekom
+it seems a big client after checking their website and profile...
+2025-3-17 16:12
+and what about payment for another order(a few switches)?
+its ready and the info is uploaded to the google drive folder
+We plan to the payment this week... Just working on cash flow
+Asolutely.. We hope to get more orders this year
+Simon: we look for long-term business, especially
+from your another client Turk Telekom it seems ...
+lets see
+2025-3-26 15:09
+Hi, Levent
+1, how is payment for those edge switches? Its been about 3 weeks since we prepared the switches ready
+2, any update about the core switch(100G and 25 fiber ports) on email?
+3, any news from the Turk Telekom?
+thanks
+2025-3-26 15:23
+thanks
+2025-3-26 15:23
+Hi Simon, Things got mixed up with the political events recently. We have an religious break coming up
+Monday and Tuesday next week. Hoping things will calm down a bit
+1- Payment is planned, but cash flow stuck. So we plan doing it after the break, the first week of April.
+2- Core switch is quoted to the customer. Personally we prefer to work with you on all the portfolio. So I am
+hoping to hear back form the customer next week. So this will be our ODM project with branding TronX.
+We will provide 3 models : 24-PoE commercial, 48-PoE commercial and the data center switch. We get
+squeezed on the Data Center pricing. But we hope to balance it with the other models.
+3- Turk Telekom field tests are planned mid-April. We expec to get clearence end of April. We are driving
+the customer to place a test order of minimum 500 or 1,oo0 after the pilot testing. Again this will be Turk
+Telekombranding
+2025-3-26 15:31
+Thanks for your info, Levent
+1, Sorry to hear about the political events, hope everything is good with you all there.
+2, OK, lets wait and see.
+3, For core switches, from our side, we are now more concerned about the features.
+Clearly it is much more complex than edge switches.
+I will see what we can do about pricing here.
+4, Good to know this.
+So basically many things will be finalized in April..
+2025-3-26 15:43
+Yes, April is critical for us too
+2025-3-26 15:50
+lets see
+2025-3-26 15:50
+lets see
+2025-4-7 15:01
+Hi, Levent. I hope you had a good weekend
+Any news about the payment?
+Hi Simon, thank you.. All okay for now :-)
+Plan to transfer payment tomorrow. We expect some collection today.
+Will keep you posted.
+ok, thanks
+2025-4-7 15:03
+We may need a change in the quantitties, but will get back on this after I discuss with the team
+need more units?
+may be but may be not
+ok, lets see
+thanks..
+2025-4-9 21:40
+nllecs
+2025-4-9 21:40
+Hi Simon, a customer asked for an alternative kitlist for the attached kitlist. it is a railway project i guess.
+we may not have the OT protocols in the switches, pls let us know if you have any comments on this
+Hi, Levent. Thanks for your info
+so this is about Kyland brand?
+this is the original kitlist. if we can suggest an alternative, they will consider
+except OTT
+2025-4-9 21:45
+well, honestly its not easy to move on...
+the specs are not common, they are designed for a special purpose(protocols, port combinations..)
+2025-4-9 22:30
+As far as i see, we have options for hardware. May be protocols for software is a problem. Let me check
+with customer
+hardware is also a problem.
+hardware is also a problem..
+those specs are unusual..
+2025-4-21 13:56
+Hi, Levent. I hope you had a good weekend
+pls check my email and reply, thanks
+2025-4-21 14:10
+Hi Simon, thanks for your email
+Will get back to you as soon as possible
+2025-4-21 14:26
+Hi, Levent.
+pls let us know the situation now...
+its about 6 weeks since we prepared the materials.
+I will get back to you today.
+ok, thanks
+I will get back to you today.
+ok, thanks
+2025-4-22 11:25
+Hi  Simon, hope all is going well today.
+Just replied to your email
+Good morning, Levent.
+its early there..
+I read your mail, thanks
+lets wait and see
+Thanks.
+Yes, I wake up early around 06:00 - 06:30 for years. It' s kind of automatic
+2025-4-22 11:30
+it seems that many foreigners(to us) wake up early..
+they sleep around 11pm or even a bit earlier, and wake up at 4am or 5am
+Tim Cook(CFO of apple) is an example.
+haha
+Levent KILiC: Thanks. Yes, I wake up early around
+06:00 - 06:30 for years. It' s kind of automatic
+Aha ha ha
+5
+I sleep at 11:00 too.
+Levent KILiC: Thanks. Yes, I wake up early around
+06:00 - 06:30 for years. It' s kind of automatic
+Aha ha ha  I sleep at 11:00 too.
+But no where near Tim Cook in business
+Working in it
+I have been studying Taoism recently
+Each of us has our own tempo and life beliefs
+We just need to get it right
+Seek inwards, not outwards
+Something like this, haha
+Tim Cook is good, you are good, I am good
+As long as we are on the right track
+2025-4-22 11:36
+Great point of view. You are absolutely on the right path.
+Enlightenment begins from inside. So we should go inwards
+lets hope we all get the enlightenment.
+2025-4-22 11:42
+以 lets see
+how is testing with Turk Telekom?
+We will make test installations in 2 sites this week.
+how is testing with Turk Telekom?
+We will make test installations in 2 sites this week.
+m pushing for a start on procurement.
+ok, thanks for your efforts.
+We keep this project secret
+on our end.
+pls let us know if we could help in any way
+Levent KILiC: We keep this project secret
+on
+our end.
+It' s a very important and big project. Trying to keep in under the radar from other competitors
+Thanks
+Simon: pls let us know if we could help in any way
+OK
+I guess what we can do is mainly on product features and business terms(price, leadtime..)
+Please do let us know if we can do something for you
+We have been working on this since last June as I remember
+You must have been pouring more in this project
+2025-4-22 11:52
+Yep thanks. Trying our best to pull it off
+lets see
+Yep thanks. Trying our best to pull it off
+lets see
+2025-4-25 16:50
+Hi, Levent.
+2025-4-25 16:50
+can we expect payment today?
+2, last time you asked Kyland products
+we now find a reliable channel for Kyland products
+its about ORIGINAL brand/products
+not sure if your end user still needs them or they already have Kyland models
+just sharing this fyi, maybe its useful
+btw: this channel also supplier original MOXA products, maybe sometimes it will be useful
+thanks
+2025-4-25 16:56
+Hi Simon, many thanks for your support.
+Kyland and Moxa sometimes come up in railways projects. I will check with partner
+2025-4-25 16:56
+Hi Simon, many thanks for your support.
+Kyland and Moxa sometimes come up in railways projects. I will check with partner
+Yes, its always good to have a channel available, maybe it works someday..
+We expect payment from customer to transfer to you
+Today may be late. We will transfer all payment to you as soon as we get from the customer.
+Cash flow is a real problem nowadays
+Simon: Yes, its always good to have a channel
+available, maybe it works someday..
+I noticed this
+sorry to tell you that our HK account is not receiving your currency directly..
+2025-4-25 17:02
+an option is, maybe you can transfer much more(a certain amount) for future orders
+its like a deposit
+we did this for Russian clients, you know, the political issues, its even hard to receive their payment now
+before some clients chose to transfer a huge amount, just keep it at our account
+if something is needed in the future, just deduct the amount
+but this requires trust and long-term cooperation
+we did this for Russian clients, you know, the political issues, its even hard to receive their payment now
+before some clients chose to transfer a huge amount, just keep it at our account
+if something is needed in the future, just deduct the amount
+but this requires trust and long-term cooperation
+still, its an option, maybe it works someday...
+That' s a great option. Trust and long term cooperation is 100% with Saga. No problems.
+It' s just cash flow management. We will consider depositing money to Saga. Much better than banks
+its just an option fyi
+we did this before
+if someday you think necessary, lets move on
+lets wait for the response from your client then...
+2025-4-25 17:07
+Yep thank
+Thank you
+2025-5-7 16:12
+Hi Simon, how are you ? Back from your Labor Day break ???
+We are trying to transfer money today. I will need a revised invoice pls
+2025-5-7 16:13
+Hi. Levent.
+We are trying to transfer money today. I will need a revised invoice pls
+2025-5-7 16:13
+Hi, Levent.
+haha, yes, back to work
+STSC20250228007_R2.pdf
+PDF
+389.9K Not Downloaded
+Levent KILlC: Hi Simon, how are you ? Back from
+your Labor Day break ???
+can you pls revise this invoice by revising 24-ports to 3 pieces...
+We will transfer you $1,695
+Pls keep all transport costs same...
+We have already been causing you a lot of problem
+there are 3 versions in total
+V2: 4*24 port and 3*48 port, 2.5G based optical ports
+V3: 4*24 port and 3*48 port, 10G based optical ports
+so we will do V2(2.5G fiber) and total qty is 6(3+3), right?
+yes, now final quantity is 3 + 3 = 6 pieces total
+got it, let me revise the invoice and share it on email
+2025-5-7 16:20
+Thank you very much
+2025-5-7 16:35
+I just sent an email, pls check
+2025-5-7 16:50
+Yep, received it thank you...Just sent out the bank instruction. They needed the proforma invoice...
+Things are getting very funny
+Will keep you posted on the progress
+I shared it on email
+Levent KILlC: Yep, received it thank you... Just sent
+out the bank instruction. They needed the profor..
+ok, thanks .
+2025-5-7 22:22
+Hi Simon, pls check your bank account for $1,665 tomorrow. I just got confirmation from the bank.
+OK, thanks for your info, Levent
+I will let u know when we got it and arrange production
+have a good night, thanks
+you too.. talk to you tomorrow
+2025-5-8 14:11
+Good morning, Levent
+I sent an email, pls take some time to check and reply
+2025-5-8 14:12
+thanks
+2025-5-8 14:24
+Hi Simon, i read it.. I will talk to Tylan to take actions on this one... Many thanks
+thank you
+2025-5-8 15:34
+Hi Simon, just talked to Taylan again. There seems to be a confusion about the product configuration :-(
+We need uplinks in 10G, the current order is for 2.5G
+an
+We need uplinks in 10G, the current order is for 2.5G
+Can I suggest that you ship the 10G version, and we can pay the difference for these 6 units in the next order ?
+oK
+Levent KILIC: We need uplinks in 10G, the current
+order is for 2.5G
+I will revise the invoice
+You recalled a message.
+2025-5-8 15:39
+OK, just checked, the difference will be 255usd
+Levent KILiC: Can I suggest that you ship the 10G
+version, and we can pay the difference for these ..
+Let me send info on email, thanks ,
+2025-5-8 15:45
+just sent this, thanks
+2025-5-10 14:17
+Hi, Levent. Got your mail and make a reply
+have a good weekend, thanks  @
+2025-5-10 14:29
+Thanks M for the response Simon.
+We are working very hard to close this order with our partner.
+yes and thanks for your continuous efforts
+Not even the contract these days
+工
+Sowillkeepyou updated ateverystep
+that is great
+In my reply, the mentioned period is just exact
+3 weeks
+but it will probably take a bit longer even, the poe chips might be a small problem
+anyway, its good to keep both well informed
+thinqs will qet much easier
+anyway, its good to keep both well informed
+things will get much easier
+lets see
+I understand. This is why we are pushng our partner to negotiate a partial delivery. The firs 1,oo0 within a
+month, the remaining in the next month... This will give us some space to manuever.
+2025-5-10 14:35
+yes, it will be VERY good if you can convince your client
+partial shipment is too helpful regarding material preparation&production, payment etc.
+2025-5-10 14:36
+pls do your best,
+btw
+pls talk with Taylan about AC5 based samples
+we think this is important
+2025-5-10 14:45
+Agreed, yes.. I will talk to him..
+Ok, thanks
+waiting for your feedback on email Ji
+waiting for your feedback on email.
+2025-5-20 18:56
+Hi Slmon, how are you ? I will write to you about a potential arrangement for the big project.
+Hi, Levent
+It's kind of long. I will write later, so we can catch up tomorrow
+sure
+thanks
+so there is solid progress?
+reading yoru reply now
+Yes, it looks like. I replied to you r email. But there is some other item I would like to discuss not in the email
+OK, lets see
+2025-5-21 09:58
+Hi Simon,
+Just wanted to reach out to you to check 1 commercial and 1 technical issue.
+Please considerboth confidential
+*1- Technical:* In this new big project we will have a second piece of hardware. This is a custom IOT board
+manufacture this custom board for us complete with the components and testing ? The quantity will be
+the same as our project quantity, i.e. 2,000.
+*2-Commercial:* This is the critical and confidential part. Due to contractual and financial arrangements,
+manufacture this custom board for us complete with the components and testing ? The quantity will be
+the same as our project quantity, i.e. 2,000.
+*2-Commercial:* This is the critical and confidential part. Due to contractual and financial arrangements,
+our partner may need to place the order for the 2,oo0 pcs of the switch. So my question is about the
+following scenario:
+Assume we have switch+SFP cost of $150/each. Our partner will transfer $250/each for this combination.
+Can we send Saga a new invoice from Angora to reimburse the $100 ? This scenario will solve a lot of
+contractual issues for us.
+We also plan to get some inventory for the end of the year. We hope to reimburse some of this amount as
+equipment. But we will check with our regulations how to do that.
+Will appreciate your feedback.
+2025-5-21 10:25
+Good morning, Levent,
+You are still very early, haha
+Thanks for your info
+1, we will check
+Send

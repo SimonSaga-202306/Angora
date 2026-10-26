@@ -1,0 +1,302 @@
+{
+ "Weixin Image_2026-09-23_223455_452": {
+  "threshold": 561.4,
+  "left_is_simon": false,
+  "n_left": 25,
+  "n_right": 70,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 9,
+   "simon_markers_right": 9,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_223548_837": {
+  "threshold": 564.9,
+  "left_is_simon": false,
+  "n_left": 71,
+  "n_right": 100,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 7,
+   "simon_markers_right": 14,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_223630_948": {
+  "threshold": 564.5,
+  "left_is_simon": false,
+  "n_left": 67,
+  "n_right": 118,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 6,
+   "simon_markers_right": 8,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_223705_915": {
+  "threshold": 780.9,
+  "left_is_simon": false,
+  "n_left": 94,
+  "n_right": 130,
+  "evidence": {
+   "simon_markers_left": 1,
+   "levent_markers_left": 5,
+   "simon_markers_right": 8,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_223749_931": {
+  "threshold": 601.8,
+  "left_is_simon": false,
+  "n_left": 79,
+  "n_right": 144,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 6,
+   "simon_markers_right": 8,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_223845_147": {
+  "threshold": 636.9,
+  "left_is_simon": false,
+  "n_left": 97,
+  "n_right": 214,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 5,
+   "simon_markers_right": 10,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_223920_371": {
+  "threshold": 601.6,
+  "left_is_simon": false,
+  "n_left": 69,
+  "n_right": 153,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 4,
+   "simon_markers_right": 7,
+   "levent_markers_right": 2
+  }
+ },
+ "Weixin Image_2026-09-23_223957_115": {
+  "threshold": 723.9,
+  "left_is_simon": false,
+  "n_left": 116,
+  "n_right": 176,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 8,
+   "simon_markers_right": 4,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_224033_579": {
+  "threshold": 564.9,
+  "left_is_simon": false,
+  "n_left": 85,
+  "n_right": 189,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 3,
+   "simon_markers_right": 9,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_224111_987": {
+  "threshold": 605.0,
+  "left_is_simon": false,
+  "n_left": 70,
+  "n_right": 193,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 7,
+   "simon_markers_right": 11,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_224156_330": {
+  "threshold": 637.3,
+  "left_is_simon": false,
+  "n_left": 95,
+  "n_right": 164,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 12,
+   "simon_markers_right": 12,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_224233_298": {
+  "threshold": 742.5,
+  "left_is_simon": false,
+  "n_left": 134,
+  "n_right": 193,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 14,
+   "simon_markers_right": 11,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_224308_147": {
+  "threshold": 603.8,
+  "left_is_simon": false,
+  "n_left": 90,
+  "n_right": 163,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 11,
+   "simon_markers_right": 10,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_224347_969": {
+  "threshold": 706.0,
+  "left_is_simon": false,
+  "n_left": 121,
+  "n_right": 190,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 8,
+   "simon_markers_right": 7,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_224435_810": {
+  "threshold": 739.7,
+  "left_is_simon": false,
+  "n_left": 147,
+  "n_right": 182,
+  "evidence": {
+   "simon_markers_left": 2,
+   "levent_markers_left": 9,
+   "simon_markers_right": 6,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_224520_306": {
+  "threshold": 598.6,
+  "left_is_simon": false,
+  "n_left": 132,
+  "n_right": 263,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 10,
+   "simon_markers_right": 9,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_224554_074": {
+  "threshold": 638.9,
+  "left_is_simon": false,
+  "n_left": 99,
+  "n_right": 203,
+  "evidence": {
+   "simon_markers_left": 2,
+   "levent_markers_left": 8,
+   "simon_markers_right": 10,
+   "levent_markers_right": 2
+  }
+ },
+ "Weixin Image_2026-09-23_224626_417": {
+  "threshold": 635.7,
+  "left_is_simon": false,
+  "n_left": 122,
+  "n_right": 205,
+  "evidence": {
+   "simon_markers_left": 1,
+   "levent_markers_left": 6,
+   "simon_markers_right": 5,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_224715_689": {
+  "threshold": 675.4,
+  "left_is_simon": false,
+  "n_left": 138,
+  "n_right": 235,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 14,
+   "simon_markers_right": 10,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_224805_273": {
+  "threshold": 606.0,
+  "left_is_simon": false,
+  "n_left": 182,
+  "n_right": 283,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 11,
+   "simon_markers_right": 10,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_224854_016": {
+  "threshold": 636.3,
+  "left_is_simon": false,
+  "n_left": 205,
+  "n_right": 326,
+  "evidence": {
+   "simon_markers_left": 1,
+   "levent_markers_left": 14,
+   "simon_markers_right": 9,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_225131_496": {
+  "threshold": 675.8,
+  "left_is_simon": false,
+  "n_left": 140,
+  "n_right": 267,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 9,
+   "simon_markers_right": 9,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_225200_641": {
+  "threshold": 740.7,
+  "left_is_simon": false,
+  "n_left": 156,
+  "n_right": 184,
+  "evidence": {
+   "simon_markers_left": 1,
+   "levent_markers_left": 8,
+   "simon_markers_right": 9,
+   "levent_markers_right": 1
+  }
+ },
+ "Weixin Image_2026-09-23_225232_904": {
+  "threshold": 782.0,
+  "left_is_simon": false,
+  "n_left": 138,
+  "n_right": 196,
+  "evidence": {
+   "simon_markers_left": 1,
+   "levent_markers_left": 8,
+   "simon_markers_right": 7,
+   "levent_markers_right": 0
+  }
+ },
+ "Weixin Image_2026-09-23_225251_736": {
+  "threshold": 565.5,
+  "left_is_simon": false,
+  "n_left": 22,
+  "n_right": 75,
+  "evidence": {
+   "simon_markers_left": 0,
+   "levent_markers_left": 3,
+   "simon_markers_right": 3,
+   "levent_markers_right": 0
+  }
+ }
+}

@@ -1,0 +1,223 @@
+<!-- ============================================================ -->
+<!-- FILE 288/781 -->
+<!-- PATH: Gmail - Supported SONiC for Saga Ethernet Switches _ COMPUTEX.pdf -->
+<!-- SIZE: 222586 bytes -->
+<!-- SHA256: afe9951993c2b4daa90c5bb9083c57602d54b2d7bbc539b37f71b21f0c63956b -->
+<!-- EXTRACTION: pypdf - every page text layer (image-only pages flagged, not dropped) -->
+<!-- ============================================================ -->
+
+PDF: pages=5
+Metadata: {"/Title": "Gmail - Supported SONiC for Saga Ethernet Switches | COMPUTEX", "/Creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0", "/Producer": "Skia/PDF m153", "/CreationDate": "D:20260923132926+00'00'", "/ModDate": "D:20260923132926+00'00'"}
+
+## PAGE 1/5
+Alan Guo <a.sagatelecom@gmail.com>
+Supported SONiC for Saga Ethernet Switches | COMPUTEX
+10 messages
+Alexander Cheskis <alexander@larch-networks.com> Fri, May 22, 2026 at 9:31 PM
+To: Alan from Saga Telecom <a.sagatelecom@gmail.com>
+Cc: Oksana Loi <oksana@larch-networks.com>, Inna Murzina <imurzina@larch-networks.com>, Alexander Gribenko
+<a.gribenko@larch-networks.com>
+Dear Alan,
+I hope you are doing well. You shared your updated Ethernet switch product links with us earlier this year, and I
+wanted to reconnect ahead of COMPUTEX.
+Larch Networks can help switch vendors add a commercially supported SONiC option without building a full in-house
+NOS team. Our package is not just development work: it includes Larch Hardened SONiC, platform enablement, long-
+term maintenance, security and bug-fix updates, and Tier-2/Tier-3 support under an annual license/support model.
+Given Saga’s 8/24/48-port managed switch portfolio and industrial/commercial focus, this could be a practical way to
+offer customers a more open and programmable software option.
+We will be at COMPUTEX / InnoVEX, booth S0905. Would you be open to a short meeting in Taipei to discuss
+whether SONiC could fit one of Saga’s switch lines?
+Best regards,
+Alexander Cheskis
+CEO, Larch Networks
+Alan from Saga Telecom <a.sagatelecom@gmail.com> Mon, May 25, 2026 at 10:03 AM
+To: Alexander Cheskis <alexander@larch-networks.com>
+Hi, Alexander,
+Thanks for your info and the introduction to Larch Networks’ SONiC offering.
+1. At the moment, our Marvell based models are mainly focusing L2+/L3 SMBs and enterprise network, lower-speed
+deployments.
+As you may notice, our high-speed networks is about CENTEC chip, a famous domestic chip with easy access to
+product materials and fairly mature technical R&D.
+So based on our current product direction, we do not see an immediate fit for SONiC integration.
+We will let you know if something comes up.
+Btw: we will soon launch a new version of software features, I will let you know.
+2. We appreciate learning more about your solution and will certainly keep you in mind as our portfolio evolves.
+Been studying your website and models...
+3. Wish you a successful COMPUTEX this year, and let's keep in touch.
+Thank you.
+[Quoted text hidden]
+--
+Alan
+Saga Telecom, OEM Factory
+Tailored Managed Networking Solutions Provider
+Built to Last, Continuous Supply, Evolving Together
+Alexander Cheskis <alexander@larch-networks.com> Mon, May 25, 2026 at 1:26 PM
+To: a.sagatelecom@gmail.com
+Cc: oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com
+Hi Alan,
+2026/9/23 21:29 Gmail - Supported SONiC for Saga Ethernet Switches | COMPUTEX
+https://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 1/5
+
+## PAGE 2/5
+Thanks for the candid reply — fully understood on the CENTEC track for high-speed.
+Let me flip the question. On the Marvell side, we're actively interested — could you share which Marvell-based models
+you have ready to ship today? Port counts, speeds, form factors, indicative pricing and lead times would be very
+helpful.
+We have customers asking for exactly that class of managed switch, and depending on the lineup we may well be a
+buyer / OEM partner rather than a SONiC vendor.
+If the lineup looks like a fit, definitely worth a meeting at COMPUTEX. Booth S0905, Nangang Hall 2 — happy to lock
+in a slot any time between May 31 and June 5.
+Best regards,
+Alex
+[Quoted text hidden]
+Alan from Saga Telecom <a.sagatelecom@gmail.com> Mon, May 25, 2026 at 3:11 PM
+To: Alexander Cheskis <alexander@larch-networks.com>
+Cc: oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com
+Hi, Alex,
+Thanks for your info.
+1. We are switching from AC3 and AC5 chipset for ALL models, this is almost done.
+You are a professional at Marvell and must know that AC5 is a very good balance option on cost & performance.
+And AC5 will be our long-term anchored solution.
+2. As I explained in point 1, it is an overall upgrading.
+And our Marvell models are about L2+/L3 managed switches(1G/10G based).
+Basically you can still refer to the product links I shared before.
+Port combo, speeds or software structure, there is not much of a big change.
+But price will be a bit higher due to the soaring memory prices.
+3. For high-speed Marvell switches, honestly it is difficult for us to do some aggressive R&D due to technical
+resources and ROI.
+So we will probably do a referral to you if anyone asks.
+So, I guess yes, there might be a good possibility to work out something!!
+Let's talk more.
+Thank you.
+[Quoted text hidden]
+Alexander Cheskis <alexander@larch-networks.com> Tue, May 26, 2026 at 8:18 PM
+To: a.sagatelecom@gmail.com
+Cc: oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com, sales.team@larch-
+networks.com
+Hi Alan,
+Thanks — this is very useful context on the AC3 to AC5 transition and the L2+/L3, 1G/10G positioning.
+To size this properly on our side, could you please share a few details:
+1. AC5 models ready, or near-ready, to ship:
+   - port counts: 8 / 24 / 48
+   - port types: 1G copper / SFP+ / SFP28 combinations
+   - PoE / PoE+ vs non-PoE versions
+   - datasheet links are fine if available
+2. Indicative pricing and current lead times across the AC5 lineup.
+   Even ballpark ranges would help us understand which models are best to promote first to our customers.
+For COMPUTEX, would either Wednesday, June 3 or Thursday, June 4 work for a 30-minute meeting?
+We will be at booth S0905, Nangang Hall 2. We are happy to come to your booth if Saga is exhibiting, or we would be
+glad to host you at ours.
+2026/9/23 21:29 Gmail - Supported SONiC for Saga Ethernet Switches | COMPUTEX
+https://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 2/5
+
+## PAGE 3/5
+Best regards,
+Alex
+[Quoted text hidden]
+Alan from Saga Telecom <a.sagatelecom@gmail.com> Wed, May 27, 2026 at 2:39 PM
+To: Alexander Cheskis <alexander@larch-networks.com>
+Cc: oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com, sales.team@larch-
+networks.com
+Hi, Alex,
+Thanks for your information.
+1. As I explained before, AC3 to AC5 transition is almost done for ALL models.
+Here are the details.
+1.1: for commercial models, 8 / 24 / 48 Port L2+/L3 models, AC5 is fully ready and in normal production.
+1.2: for industrial models, ALL models got AC5-ready samples.
+4 / 8 port models, AC5 is fully ready and in normal production.
+For 16 / 24 port models, AC5 is ready, but we are still handling AC3 stocks.
+Once those stock units are sold, we will just say goodbye to AC3 for good.
+That is to say, we can supply AC5 version for almost all models now.
+- port counts: 8 / 24 / 48: Yes
+- port types: 1G copper / SFP+ / SFP28 combinations: Not SFP28, we mainly focus on 1G/10G.
+- PoE / PoE+ vs non-PoE versions: Yes
+- datasheet links are fine if available: Still, you can read the links I shared before.
+According to our engineering team, there is not much of a change regarding WEB UI and product design.
+It will be like a seamless transition, users just do not feel the change from AC3 to AC5.
+2. Indicative pricing and current lead times across the AC5 lineup.
+2.1: The increasing memory price is a headache for now.
+Generally, there will be a 15USD add-up to the prices for each managed model.
+This is just a general rule for your reference.
+We will quote individually once we receive a specific request.
+2.2: Leadtime is not a problem.
+All the AC5 models mentioned above got stock materials, it usually takes 4~7 working days for less than 50 units.
+3. Which models are best to promote first to our customers
+Well, this is kind of easy to know.
+3.1: ALL features on L2+ models are available on L3 models.
+Eg: you can test a 48 port L3 model rather than 48 port L2+ model.
+3.2: Commercial models are sharing the same software features as industrial models.
+Eg: you can test an 8 port industrial model rather than a 8 port commercial model.
+3.3: On top of this, some interesting models might be useful.
+Fiber Optic Bypass Feature, Power Booster Feature, DI/DO/RS485 Feature, Dual PSU and PSU monitoring feature,
+90W PoE and heat dissipation design etc.
+Those features are integrated in regular models, it is like an add-on.
+So, I guess just a few models will help understand our HW and SW features.
+4. For COMPUTEX
+Sorry, Saga is not attending it.
+Maybe an online meeting is easier after some in-depth talks?
+Please let me know.
+Thank you.
+[Quoted text hidden]
+Oksana Loy <oksana@larch-networks.com> Tue, Jun 2, 2026 at 8:06 PM
+To: Alan from Saga Telecom <a.sagatelecom@gmail.com>
+Cc: Alexander Cheskis <alexander@larch-networks.com>, a.gribenko@larch-networks.com, sales.team@larch-
+networks.com
+Hi Alan,
+Would you be available to meet with us on June 10 or 11? What time would be convenient for you?
+Thanks in advance,
+2026/9/23 21:29 Gmail - Supported SONiC for Saga Ethernet Switches | COMPUTEX
+https://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 3/5
+
+## PAGE 4/5
+BR, Oksana Loi. 
+[Quoted text hidden]
+--
+Alan from Saga Telecom <a.sagatelecom@gmail.com> Wed, Jun 3, 2026 at 11:31 AM
+To: Oksana Loy <oksana@larch-networks.com>
+Hi, Oksana,
+How is your exhibition?
+Wish you a big success.
+Do you mean we meet on Taiwan? or?
+May I know what this is for?
+Like a discussion on L2 / L3 Ethernet switches for SMBs?
+Thank you.
+[Quoted text hidden]
+Oksana Loy <oksana@larch-networks.com> Wed, Jun 3, 2026 at 9:54 PM
+To: Alan from Saga Telecom <a.sagatelecom@gmail.com>
+Cc: Alexander Gribenko <a.gribenko@larch-networks.com>, Alexander Cheskis <alexander@larch-networks.com>
+Hi Alan,
+The exhibition is going very well, and we have a lot of visitors.
+As Alex mentioned earlier, we would like to arrange a short online meeting to discuss whether SONiC could fit one of
+Saga’s switch lines.
+Could you please let us know if you would be available for a short meeting on June 10 or June 11 at 3:30 PM?
+Thanks in advance,
+BR, Oksana Loi.
+[Quoted text hidden]
+--
+Alan from Saga Telecom <a.sagatelecom@gmail.com> Fri, Jun 5, 2026 at 1:54 PM
+To: Oksana Loy <oksana@larch-networks.com>
+Cc: Alexander Gribenko <a.gribenko@larch-networks.com>, Alexander Cheskis <alexander@larch-networks.com>
+Hi, Oksana,
+Thanks for your information.
+1. Good to know that everything is going well there!
+2. In previous emails, we discussed high-speed network switches(Marvell based and CENTEC based) and L2 / L3
+Ethernet switches for SMBs.
+Your focus is on Marvell SONiC for high-speed networks.
+But we are currently using CENTEC chips for this category.
+As I explained, this is easier for us considering technical & commercial resources and ROI.
+We are just using Marvell chips for L2 / L3 switches, mostly 1G / 10G based.
+Based on our current product direction, we do not see an immediate fit for Marvell SONiC integration.
+Sorry...
+Anyway, thanks for this.
+3. Today should be the last day for this exhibition.
+Wish you a fruitful one and a happy DIY travel after the show.
+2026/9/23 21:29 Gmail - Supported SONiC for Saga Ethernet Switches | COMPUTEX
+https://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 4/5
+
+## PAGE 5/5
+Thank you.
+[Quoted text hidden]
+2026/9/23 21:29 Gmail - Supported SONiC for Saga Ethernet Switches | COMPUTEX
+https://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 5/5
+
+Pages without text layer: 0/5

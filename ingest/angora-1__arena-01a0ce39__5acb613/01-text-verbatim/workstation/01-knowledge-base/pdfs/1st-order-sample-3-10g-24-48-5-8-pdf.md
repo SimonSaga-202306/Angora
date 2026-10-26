@@ -1,0 +1,35 @@
+# 水单 5.8.pdf
+
+> 来源：`1st order sample  3层10G 24口 48口/水单 5.8.pdf`　·　页数：1　·　提取字符数：1149
+
+---
+
+
+## Page 1
+
+ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET
+SANAYİ ANONİM ŞİRK
+ANGORA NETWORKS BİLİŞİM TEKNOL ÇAMLICA
+MAH. ANADOLU BLV.
+NO: 20 / 06810 YENİMAHALLE ANKARA
+ŞUBE KODU/ADI : 1989/ÇAYYOLU/ANKARA ŞUBESİ
+IBAN : TR09 0001 0019 8997 0378 9850 02
+HESAP NUMARASI : 1989/97037898-5002
+VERGİ DAİRESİ : ULUS VERGİ DAİRESİ
+VERGİ KİMLİK NO : 0690520220
+İŞLEM TARİHİ : 08/05/2024-09:49:31 - F01365
+VALÖR : 08.05.2024
+İŞLEM YERİ : INTERNET
+PEŞİN ÖDEME İTHALAT DOSYA TRANSFERİ
+1989ITPE24073126 USD 1.265,00 PEŞİN ÖDEME İTHALAT DOSYA TRANSFERİ­STSC20240508007 ­
+ZHENGZHOU SAGA TELECOM CO., LTD.
+1989­97037898­5001­PEŞİN ÖDEME KOMİSYONU:657,39 TRY
+1989-97037898-5001 BSMV TUTARI:32,87 TRY
+1989­97037898­5002 MAL BEDELİ İÇİN ALINAN:1.265,00 USD
+Hesabınıza 1.265,00 USD ve 690,26 TRY borç kaydedilmiştir
+08/05/2024-09:49:46 INTTITTR INTERNET
+Saygılarımızla
+T.C. ZİRAAT BANKASI A.Ş.
+İNTERNET ŞUBESİ
+Taraflar arasında  tüm uyuşmazlıklarda, Banka'nın defter kayıtları ve belgeleri,müstenitli  olsun olmasın, kesin ve aksi ileri sürülemez delil niteliğindedir.
+Merkez: Finanskent Mahallesi Finans Caddesi No:44A Ümraniye/İstanbul Ticaret Sicil No:475225­5  www.ziraatbank.com.tr

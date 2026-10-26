@@ -1,0 +1,8468 @@
+{
+ "source": "INFO_2025.12.17/Web Manual.docx",
+ "chars": 111416,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "Content"
+  },
+  {
+   "type": "p",
+   "data": "1 Preface11"
+  },
+  {
+   "type": "p",
+   "data": "1.1 Declaration11"
+  },
+  {
+   "type": "p",
+   "data": "1.2 Suggestion feedback11"
+  },
+  {
+   "type": "p",
+   "data": "1.3 Audience11"
+  },
+  {
+   "type": "p",
+   "data": "2 WEB login12"
+  },
+  {
+   "type": "p",
+   "data": "2.1 Overview12"
+  },
+  {
+   "type": "p",
+   "data": "2.2 Manage network port IP address and gateway configuration12"
+  },
+  {
+   "type": "p",
+   "data": "2.3 User account and password configuration12"
+  },
+  {
+   "type": "p",
+   "data": "2.4 Web page login12"
+  },
+  {
+   "type": "p",
+   "data": "3 Main Page14"
+  },
+  {
+   "type": "p",
+   "data": "3.1 Overview14"
+  },
+  {
+   "type": "p",
+   "data": "3.2 Top Control Bar14"
+  },
+  {
+   "type": "p",
+   "data": "3.3 Navigation Bar14"
+  },
+  {
+   "type": "p",
+   "data": "3.4 monitor16"
+  },
+  {
+   "type": "p",
+   "data": "3.5 Interface Panel16"
+  },
+  {
+   "type": "p",
+   "data": "3.6 Device Infomation16"
+  },
+  {
+   "type": "p",
+   "data": "3.7 Device Usage17"
+  },
+  {
+   "type": "p",
+   "data": "3.8 Device Temprature18"
+  },
+  {
+   "type": "p",
+   "data": "3.9 Fan18"
+  },
+  {
+   "type": "p",
+   "data": "4 Ethernet Status19"
+  },
+  {
+   "type": "p",
+   "data": "4.1 Overview19"
+  },
+  {
+   "type": "p",
+   "data": "4.2 Ethernet Status19"
+  },
+  {
+   "type": "p",
+   "data": "4.2.1 Ethernet Status Main Page19"
+  },
+  {
+   "type": "p",
+   "data": "4.2.2 Interface Management20"
+  },
+  {
+   "type": "p",
+   "data": "4.3 Ethernet Stats21"
+  },
+  {
+   "type": "p",
+   "data": "4.3.1 Ethernet Stats Main Page21"
+  },
+  {
+   "type": "p",
+   "data": "4.3.2 Interface Stats Detail21"
+  },
+  {
+   "type": "p",
+   "data": "5 Link Aggregation23"
+  },
+  {
+   "type": "p",
+   "data": "5.1 Overview23"
+  },
+  {
+   "type": "p",
+   "data": "5.2 Global23"
+  },
+  {
+   "type": "p",
+   "data": "5.3 Link Aggregation24"
+  },
+  {
+   "type": "p",
+   "data": "5.3.1 Link Aggregation Main Page24"
+  },
+  {
+   "type": "p",
+   "data": "5.3.2 Add Static Link Aggregation24"
+  },
+  {
+   "type": "p",
+   "data": "5.3.3 Manage Link Aggregation25"
+  },
+  {
+   "type": "p",
+   "data": "6 Storm Control27"
+  },
+  {
+   "type": "p",
+   "data": "6.1 Overview27"
+  },
+  {
+   "type": "p",
+   "data": "6.2 View Storm Control27"
+  },
+  {
+   "type": "p",
+   "data": "6.3 Configure Storm Control28"
+  },
+  {
+   "type": "p",
+   "data": "7 Flow Control30"
+  },
+  {
+   "type": "p",
+   "data": "7.1 Overview30"
+  },
+  {
+   "type": "p",
+   "data": "7.2 View Flow Control30"
+  },
+  {
+   "type": "p",
+   "data": "7.3 Configure Flow Control31"
+  },
+  {
+   "type": "p",
+   "data": "8 Port Isolate32"
+  },
+  {
+   "type": "p",
+   "data": "8.1 Overview32"
+  },
+  {
+   "type": "p",
+   "data": "8.2 Global32"
+  },
+  {
+   "type": "p",
+   "data": "8.3 Port Isolate32"
+  },
+  {
+   "type": "p",
+   "data": "8.4 Port Isolate Management33"
+  },
+  {
+   "type": "p",
+   "data": "9 Port Detect35"
+  },
+  {
+   "type": "p",
+   "data": "9.1 Overview35"
+  },
+  {
+   "type": "p",
+   "data": "9.2 Params Configuration35"
+  },
+  {
+   "type": "p",
+   "data": "9.3 Detect Configuration36"
+  },
+  {
+   "type": "p",
+   "data": "10 VLAN37"
+  },
+  {
+   "type": "p",
+   "data": "10.1 Overview37"
+  },
+  {
+   "type": "p",
+   "data": "10.2 VLAN Summary37"
+  },
+  {
+   "type": "p",
+   "data": "10.2.1 VLAN Summary Main Page37"
+  },
+  {
+   "type": "p",
+   "data": "10.2.2 Add/Delete VLAN Settings38"
+  },
+  {
+   "type": "p",
+   "data": "10.2.3 Add/Delete Vlan Range Settings38"
+  },
+  {
+   "type": "p",
+   "data": "10.2.4 VLAN Detailed Configuration39"
+  },
+  {
+   "type": "p",
+   "data": "10.3 VLAN Interface40"
+  },
+  {
+   "type": "p",
+   "data": "10.3.1 VLAN Interface Main Page40"
+  },
+  {
+   "type": "p",
+   "data": "10.3.2 Add VLAN Interface41"
+  },
+  {
+   "type": "p",
+   "data": "10.3.3 Delete VLAN Interface41"
+  },
+  {
+   "type": "p",
+   "data": "10.3.4 Edit VLAN Interface42"
+  },
+  {
+   "type": "p",
+   "data": "10.4 Access/Trunk Port42"
+  },
+  {
+   "type": "p",
+   "data": "10.4.1 Access/Trunk Port Main Page42"
+  },
+  {
+   "type": "p",
+   "data": "10.4.2 Access/Trunk Port Modification43"
+  },
+  {
+   "type": "p",
+   "data": "11 VLAN Classifier45"
+  },
+  {
+   "type": "p",
+   "data": "11.1 Overview45"
+  },
+  {
+   "type": "p",
+   "data": "11.2 Add VLAN Classifier Rules46"
+  },
+  {
+   "type": "p",
+   "data": "11.3 Delete VLAN Classifier Rules47"
+  },
+  {
+   "type": "p",
+   "data": "11.3.1 Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page. Select checkbox need to be deleted, in “VLAN Classifier Rules” bar, then click “Delete” button and “Confirm” to delete the rule, as shown in figure below.47"
+  },
+  {
+   "type": "p",
+   "data": "11.4 Add VLAN Classifier Group47"
+  },
+  {
+   "type": "p",
+   "data": "11.5 Delete VLAN Classifier Groups48"
+  },
+  {
+   "type": "p",
+   "data": "11.6 Add VLAN Classifier Usage48"
+  },
+  {
+   "type": "p",
+   "data": "11.7 Delete VLAN Classifier Usage49"
+  },
+  {
+   "type": "p",
+   "data": "11.8 Overview49"
+  },
+  {
+   "type": "p",
+   "data": "11.9 Mac Address Table Configuration50"
+  },
+  {
+   "type": "p",
+   "data": "11.9.1 Query MAC Address Table Information50"
+  },
+  {
+   "type": "p",
+   "data": "11.9.2 Display MAC Address Table Information50"
+  },
+  {
+   "type": "p",
+   "data": "11.10 MAC Aging Time Configuration51"
+  },
+  {
+   "type": "p",
+   "data": "11.11 MAC Learning Configuration51"
+  },
+  {
+   "type": "p",
+   "data": "11.12 Static MAC Table Configuration52"
+  },
+  {
+   "type": "p",
+   "data": "11.12.1 Add Static MAC Address Table Information52"
+  },
+  {
+   "type": "p",
+   "data": "11.12.2 Delete Static MAC Address Table Information53"
+  },
+  {
+   "type": "p",
+   "data": "11.12.3 Query Static MAC Address Table Information53"
+  },
+  {
+   "type": "p",
+   "data": "11.12.4 Display Static MAC Address Table Information54"
+  },
+  {
+   "type": "p",
+   "data": "11.13 Blackhole MAC Table Configuration55"
+  },
+  {
+   "type": "p",
+   "data": "11.13.1 Add Blackhole MAC Address Table Information55"
+  },
+  {
+   "type": "p",
+   "data": "11.13.2 Delete Blackhole MAC Address Table Information55"
+  },
+  {
+   "type": "p",
+   "data": "11.13.3 Query Blackhole MAC Address Table Information55"
+  },
+  {
+   "type": "p",
+   "data": "11.13.4 Display Blackhole MAC Address Table Information56"
+  },
+  {
+   "type": "p",
+   "data": "11.14 Port Security Configuration56"
+  },
+  {
+   "type": "p",
+   "data": "11.15 Static Security MAC Table Configuration57"
+  },
+  {
+   "type": "p",
+   "data": "11.15.1 Add Static Security MAC Address Table Information57"
+  },
+  {
+   "type": "p",
+   "data": "11.15.2 Delete Static Security MAC Address Table Information58"
+  },
+  {
+   "type": "p",
+   "data": "11.15.3 Query Static Security MAC Address Table Information58"
+  },
+  {
+   "type": "p",
+   "data": "11.15.4 Display Static Security MAC Address Table Information59"
+  },
+  {
+   "type": "p",
+   "data": "12 Spanning Tree60"
+  },
+  {
+   "type": "p",
+   "data": "12.1 Overview60"
+  },
+  {
+   "type": "p",
+   "data": "12.2 STP Information60"
+  },
+  {
+   "type": "p",
+   "data": "12.3 Global Configuration62"
+  },
+  {
+   "type": "p",
+   "data": "12.4 STP Ports64"
+  },
+  {
+   "type": "p",
+   "data": "12.4.1 Display Ports Status64"
+  },
+  {
+   "type": "p",
+   "data": "12.4.2 Edit Spanning Tree Ports64"
+  },
+  {
+   "type": "p",
+   "data": "12.5 MST Region66"
+  },
+  {
+   "type": "p",
+   "data": "12.5.1 MST Region Main Page66"
+  },
+  {
+   "type": "p",
+   "data": "12.5.2 ADD Instance ID67"
+  },
+  {
+   "type": "p",
+   "data": "12.5.3 Delete Instance ID68"
+  },
+  {
+   "type": "p",
+   "data": "13 ERPS69"
+  },
+  {
+   "type": "p",
+   "data": "13.1 Overview69"
+  },
+  {
+   "type": "p",
+   "data": "13.2 ERPS Configuration69"
+  },
+  {
+   "type": "p",
+   "data": "13.2.1 ERPS Configuration Overview69"
+  },
+  {
+   "type": "p",
+   "data": "13.2.2 Configure ERPS Mode69"
+  },
+  {
+   "type": "p",
+   "data": "13.2.3 Add the ERPS Domain70"
+  },
+  {
+   "type": "p",
+   "data": "13.2.4 Delete the ERPS Domain71"
+  },
+  {
+   "type": "p",
+   "data": "13.2.5 Edit the ERPS Domain71"
+  },
+  {
+   "type": "p",
+   "data": "13.2.6 Display the ERPS Domain72"
+  },
+  {
+   "type": "p",
+   "data": "13.2.7 Add the ERPS Ring73"
+  },
+  {
+   "type": "p",
+   "data": "13.2.8 Modify the ERPS Ring74"
+  },
+  {
+   "type": "p",
+   "data": "13.2.9 Delete the ERPS Ring75"
+  },
+  {
+   "type": "p",
+   "data": "13.3 ERPS Status75"
+  },
+  {
+   "type": "p",
+   "data": "13.3.1 Display the ERPS Status Information75"
+  },
+  {
+   "type": "p",
+   "data": "14 Mirror76"
+  },
+  {
+   "type": "p",
+   "data": "14.1 Overview76"
+  },
+  {
+   "type": "p",
+   "data": "14.2 Mirror Configuration76"
+  },
+  {
+   "type": "p",
+   "data": "14.2.1 Mirror Configuration Main Page76"
+  },
+  {
+   "type": "p",
+   "data": "14.2.2 Add Mirror Port77"
+  },
+  {
+   "type": "p",
+   "data": "14.2.3 Delete Mirror Port78"
+  },
+  {
+   "type": "p",
+   "data": "14.2.4 Mirror Session Settings78"
+  },
+  {
+   "type": "p",
+   "data": "14.3 Global Configuration79"
+  },
+  {
+   "type": "p",
+   "data": "14.3.2 Escape MAC for Remote Mirror80"
+  },
+  {
+   "type": "p",
+   "data": "14.3.3 Escape MAC for Remote Mirror Main Page80"
+  },
+  {
+   "type": "p",
+   "data": "14.3.4 Add Escape MAC for Remote Mirror Item81"
+  },
+  {
+   "type": "p",
+   "data": "14.3.5 Delete Escape MAC for Remote Mirror Item81"
+  },
+  {
+   "type": "p",
+   "data": "15 Multicast82"
+  },
+  {
+   "type": "p",
+   "data": "15.1 Overview82"
+  },
+  {
+   "type": "p",
+   "data": "15.2 IGMP Snooping83"
+  },
+  {
+   "type": "p",
+   "data": "15.2.1 IGMP Snooping Main Page83"
+  },
+  {
+   "type": "p",
+   "data": "15.2.2 Add IGMP Snooping Global Configuration83"
+  },
+  {
+   "type": "p",
+   "data": "15.2.3 Add IGMP Snooping Vlan Configuration84"
+  },
+  {
+   "type": "p",
+   "data": "15.3 IGMP Snooping Information85"
+  },
+  {
+   "type": "p",
+   "data": "15.3.1 IGMP Snooping Information Main Page85"
+  },
+  {
+   "type": "p",
+   "data": "15.3.2 Display IGMP Snooping Global85"
+  },
+  {
+   "type": "p",
+   "data": "15.3.3 Display IGMP Snooping Vlan86"
+  },
+  {
+   "type": "p",
+   "data": "15.3.4 Display IGMP Snooping Groups88"
+  },
+  {
+   "type": "p",
+   "data": "16 Reboot/Save89"
+  },
+  {
+   "type": "p",
+   "data": "16.1 Overview89"
+  },
+  {
+   "type": "p",
+   "data": "16.1.1 Reboot/Save page89"
+  },
+  {
+   "type": "p",
+   "data": "16.2 Save configuration to startup-config89"
+  },
+  {
+   "type": "p",
+   "data": "16.3 Reboot the switch90"
+  },
+  {
+   "type": "p",
+   "data": "16.4 Restore factory configuration to startup-config90"
+  },
+  {
+   "type": "p",
+   "data": "17 System Configuration91"
+  },
+  {
+   "type": "p",
+   "data": "17.1 Overview91"
+  },
+  {
+   "type": "p",
+   "data": "17.2 Base Settings92"
+  },
+  {
+   "type": "p",
+   "data": "17.3 Thermal Sensor92"
+  },
+  {
+   "type": "p",
+   "data": "17.4 Base Information93"
+  },
+  {
+   "type": "p",
+   "data": "17.5 Date and Time93"
+  },
+  {
+   "type": "p",
+   "data": "17.6 Time Zone Name94"
+  },
+  {
+   "type": "p",
+   "data": "18 Load Configuration95"
+  },
+  {
+   "type": "p",
+   "data": "18.1 Overview95"
+  },
+  {
+   "type": "p",
+   "data": "18.2 Load95"
+  },
+  {
+   "type": "p",
+   "data": "18.3 Refresh96"
+  },
+  {
+   "type": "p",
+   "data": "18.4 Download96"
+  },
+  {
+   "type": "p",
+   "data": "19 File Management97"
+  },
+  {
+   "type": "p",
+   "data": "19.1 Overview97"
+  },
+  {
+   "type": "p",
+   "data": "19.1.1 File Management page97"
+  },
+  {
+   "type": "p",
+   "data": "19.2 Memory Usage97"
+  },
+  {
+   "type": "p",
+   "data": "19.3 Upload File98"
+  },
+  {
+   "type": "p",
+   "data": "19.4 Delete Files98"
+  },
+  {
+   "type": "p",
+   "data": "19.5 Refresh Page98"
+  },
+  {
+   "type": "p",
+   "data": "19.6 Download File99"
+  },
+  {
+   "type": "p",
+   "data": "20 Log Management100"
+  },
+  {
+   "type": "p",
+   "data": "20.1 Overview100"
+  },
+  {
+   "type": "p",
+   "data": "20.2 Search log100"
+  },
+  {
+   "type": "p",
+   "data": "20.3 Refresh Page101"
+  },
+  {
+   "type": "p",
+   "data": "20.4 Clear log101"
+  },
+  {
+   "type": "p",
+   "data": "21 SNMP Configuration102"
+  },
+  {
+   "type": "p",
+   "data": "21.1 Overview102"
+  },
+  {
+   "type": "p",
+   "data": "21.2 Basic Configuration102"
+  },
+  {
+   "type": "p",
+   "data": "21.3 Community Configuration103"
+  },
+  {
+   "type": "p",
+   "data": "21.4 Delete Configuration103"
+  },
+  {
+   "type": "p",
+   "data": "22 SNMP Trap Configuration105"
+  },
+  {
+   "type": "p",
+   "data": "22.1 Overview105"
+  },
+  {
+   "type": "p",
+   "data": "22.2 SNMP Trap Enable106"
+  },
+  {
+   "type": "p",
+   "data": "22.3 Trap server configuration106"
+  },
+  {
+   "type": "p",
+   "data": "22.4 Refresh trap configuration107"
+  },
+  {
+   "type": "p",
+   "data": "22.5 Delete trap configuration107"
+  },
+  {
+   "type": "p",
+   "data": "23 Worm Intercept108"
+  },
+  {
+   "type": "p",
+   "data": "23.1 Overview108"
+  },
+  {
+   "type": "p",
+   "data": "23.2 Add Worm Intercept Rule108"
+  },
+  {
+   "type": "p",
+   "data": "23.3 Delete Worm Intercept Rule109"
+  },
+  {
+   "type": "p",
+   "data": "23.4 Clear Statistics109"
+  },
+  {
+   "type": "p",
+   "data": "23.5 Refresh Page110"
+  },
+  {
+   "type": "p",
+   "data": "23.6 Edit Rules110"
+  },
+  {
+   "type": "p",
+   "data": "23.7 Enable Rules111"
+  },
+  {
+   "type": "p",
+   "data": "24 DDos Intercept112"
+  },
+  {
+   "type": "p",
+   "data": "25 ARP Intercept114"
+  },
+  {
+   "type": "p",
+   "data": "26 Currently Sessions115"
+  },
+  {
+   "type": "p",
+   "data": "26.1 Overview115"
+  },
+  {
+   "type": "p",
+   "data": "26.2 Delete Sessions115"
+  },
+  {
+   "type": "p",
+   "data": "26.3 Refresh page116"
+  },
+  {
+   "type": "p",
+   "data": "27 User Management117"
+  },
+  {
+   "type": "p",
+   "data": "27.1 Overview117"
+  },
+  {
+   "type": "p",
+   "data": "27.2 Add User117"
+  },
+  {
+   "type": "p",
+   "data": "27.3 Delete User118"
+  },
+  {
+   "type": "p",
+   "data": "27.4 Refresh Page119"
+  },
+  {
+   "type": "p",
+   "data": "27.5 Edit User119"
+  },
+  {
+   "type": "p",
+   "data": "28 IP Routing121"
+  },
+  {
+   "type": "p",
+   "data": "28.1 Overview121"
+  },
+  {
+   "type": "p",
+   "data": "28.2 IPv4 Routing Table Information121"
+  },
+  {
+   "type": "p",
+   "data": "28.3 IPv4 Static Route Information122"
+  },
+  {
+   "type": "p",
+   "data": "28.3.1 New IP Static Route122"
+  },
+  {
+   "type": "p",
+   "data": "28.3.2 Delete IP Static Route122"
+  },
+  {
+   "type": "p",
+   "data": "28.3.3 Modify IP Static Route123"
+  },
+  {
+   "type": "p",
+   "data": "29 Ping125"
+  },
+  {
+   "type": "p",
+   "data": "29.1 Overview125"
+  },
+  {
+   "type": "p",
+   "data": "29.2 Using Ping125"
+  },
+  {
+   "type": "p",
+   "data": "30 Traceroute126"
+  },
+  {
+   "type": "p",
+   "data": "30.1 Overview126"
+  },
+  {
+   "type": "p",
+   "data": "30.2 Using Traceroute126"
+  },
+  {
+   "type": "p",
+   "data": "31 Virtual Cable Test127"
+  },
+  {
+   "type": "p",
+   "data": "31.1 Overview127"
+  },
+  {
+   "type": "p",
+   "data": "31.1.1 Entry Virtual Cable Test Page127"
+  },
+  {
+   "type": "p",
+   "data": "31.1.2 Virtual Cable Test127"
+  },
+  {
+   "type": "p",
+   "data": "List of Tables"
+  },
+  {
+   "type": "p",
+   "data": "Table 3-1 Parameter description about top control bar14"
+  },
+  {
+   "type": "p",
+   "data": "Table 3-2 Parameter description about monitoring16"
+  },
+  {
+   "type": "p",
+   "data": "Table 3-3 Parameter description about device information17"
+  },
+  {
+   "type": "p",
+   "data": "Table 4-1 Parameter description about Ethernet Status19"
+  },
+  {
+   "type": "p",
+   "data": "Table 4-2 Parameters description about interface management20"
+  },
+  {
+   "type": "p",
+   "data": "Table 4-3 Parameter description about ethernet stats21"
+  },
+  {
+   "type": "p",
+   "data": "Table 5-1 Parameter description about global configuration23"
+  },
+  {
+   "type": "p",
+   "data": "Table 5-2 Parameter description about link aggregation24"
+  },
+  {
+   "type": "p",
+   "data": "Table 5-3 Parameter description about adding a link aggregation25"
+  },
+  {
+   "type": "p",
+   "data": "Table 5-4 Parameter description about configuring a link aggregation26"
+  },
+  {
+   "type": "p",
+   "data": "Table 6-1 Parameter description about storm control page27"
+  },
+  {
+   "type": "p",
+   "data": "Table 6-2 Parameter description about editing storm control28"
+  },
+  {
+   "type": "p",
+   "data": "Table 7-1 Parameter description about flow control display30"
+  },
+  {
+   "type": "p",
+   "data": "Table 7-2 Parameter description about configuring flow control31"
+  },
+  {
+   "type": "p",
+   "data": "Table 8-1 Parameter description about globle configuration of port isolate32"
+  },
+  {
+   "type": "p",
+   "data": "Table 8-2 Parameter description about port isolate33"
+  },
+  {
+   "type": "p",
+   "data": "Table 8-3 Parameter description about port isolate management34"
+  },
+  {
+   "type": "p",
+   "data": "Table 9-1 Parameter description about Params Configuration35"
+  },
+  {
+   "type": "p",
+   "data": "Table 9-2 Parameter description about Detect Configuration36"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-1 Parameter description about VLAN Summary37"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-2 Parameter description about Add/Delete VLAN38"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-3 Parameter description about Add/Delete VLAN Range39"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-4 Parameter description about VLAN Detailed Configuration40"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-5 Parameter description about VLAN Interface40"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-6 Parameter description about Adding VLAN Interface41"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-7 Parameter description about Configuring VLAN Interface42"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-8 Parameter description about Access/Trunk Port43"
+  },
+  {
+   "type": "p",
+   "data": "Table 10-9 Parameter description about Access/Trunk Port Modification43"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-1 Parameter description about VLAN Classifier45"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-2 Parameter description about VLAN Classifier Rule Settings46"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-3 Add VLAN Classifier Groups47"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-4 Parameter description about adding VLAN Classifier Usage48"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-5 Parameter description about MAC Main Page50"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-6 Parameter description about MAC Address Table Query Information50"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-7 Parameter description about MAC Address Table Information Display51"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-8 Parameter description about MAC Aging Time51"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-9 Parameter description about MAC Learning52"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-10 Parameter description about MAC Port Learning Edit Page52"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-11 Parameter description about Adding Static MAC Address Table Information53"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-12 Parameter description about Static MAC Address Table Query54"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-13 Parameter description about Static MAC Address Table Display54"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-14 Parameter description about Adding Blackhole MAC Address Table Information55"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-15 Parameter description about Blackhole MAC Address Table Query56"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-16 Parameter description about Blackhole MAC Address Table Display56"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-17 Parameter description about Port Security56"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-18 Parameter description about MAC Port SecurityEdit Page57"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-19 Parameter description about Adding Static Security MAC Address Table Information58"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-20 Parameter description about Static Security MAC Address Table Query58"
+  },
+  {
+   "type": "p",
+   "data": "Table 11-21 Parameter description about Static Security MAC Address Table Display59"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-1 Parameter description about Spanning Tree Main Page60"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-2 Parameter description about STP Information Page61"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-3 Parameter description about STP Priority Information Page62"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-4 Parameter description about STP Ports Information Page62"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-5 Parameter description about STP Global Configuration Page63"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-6 Parameter description about STP Ports Status Page64"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-7 Parameter description about Edit Spanning Tree Ports Page65"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-8 Parameter description about Spanning Tree Ports Detailed Information Page66"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-9 Parameter description about Spanning Tree MST region Page67"
+  },
+  {
+   "type": "p",
+   "data": "Table 12-10 Parameter description about MST Region Add Instance Page68"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-1 Parameter description about ERPS Main Page69"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-2 Parameter description about ERPS Configuration Mode Information70"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-3 Parameter description about ERPS Domain Configuration Information Page70"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-4 Parameter description about ERPS Domain Configuration Information Edit Page72"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-5 Parameter description about ERPS Domain Configuration Information Display Page72"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-6 Parameter description about ERPS Ring Configuration Information Page73"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-7 Parameter description about ERPS Ring Configuration Information Modify Page74"
+  },
+  {
+   "type": "p",
+   "data": "Table 13-8 Parameter description about ERPS Status Information Page75"
+  },
+  {
+   "type": "p",
+   "data": "Table 14-1 Parameter description about Mirror Configuration76"
+  },
+  {
+   "type": "p",
+   "data": "Table 14-2 Parameter description about Adding Mirror Port77"
+  },
+  {
+   "type": "p",
+   "data": "Table 14-3 Parameter description about Mirror Session Settings79"
+  },
+  {
+   "type": "p",
+   "data": "Table 14-4 Parameter description about Escape MAC for Remote Mirror80"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-1 Parameter description about Multicast Main Page83"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-2 Parameter description about Multicast Configuration Main Page83"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-3 Parameter description about IGMP Snooping Global83"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-4 Parameter description about IGMP Snooping Vlan84"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-5 Parameter description about IGMP Snooping information pages85"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-6 Parameter description about IGMP Snooping Global Information86"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-7 Parameter description about IGMP Snooping Vlan Information86"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-8 Parameter description about IGMP Snooping Vlan edit page Information87"
+  },
+  {
+   "type": "p",
+   "data": "Table 15-9 Parameter description about IGMP Snooping Groups Information88"
+  },
+  {
+   "type": "p",
+   "data": "Table 16-1 Parameter description about Reboot/Save Main Page89"
+  },
+  {
+   "type": "p",
+   "data": "Table 17-1 Parameter description about System Configuration Main Page92"
+  },
+  {
+   "type": "p",
+   "data": "Table 17-2 Parameter description about System Configuration Base Settings Page92"
+  },
+  {
+   "type": "p",
+   "data": "Table 17-3 Parameter description about System Configuration Thermal Sensor Page93"
+  },
+  {
+   "type": "p",
+   "data": "Table 17-4 Parameter description about System Configuration Base Information Page93"
+  },
+  {
+   "type": "p",
+   "data": "Table 17-5 Parameter description about System Configuration Date and Time Page94"
+  },
+  {
+   "type": "p",
+   "data": "Table 17-6 Parameter description about System Configuration Time Zone Name Page94"
+  },
+  {
+   "type": "p",
+   "data": "Table 18-1 Parameter description about Loading Configuration Main Page95"
+  },
+  {
+   "type": "p",
+   "data": "Table 18-2 Parameter description about Loading Configuration Load Page96"
+  },
+  {
+   "type": "p",
+   "data": "Table 19-1 Parameter description about File Management Memory Usage Page97"
+  },
+  {
+   "type": "p",
+   "data": "Table 19-2 Parameter description about File Management Memory Usage Page98"
+  },
+  {
+   "type": "p",
+   "data": "Table 19-3 Parameter description about File Management refresh Page99"
+  },
+  {
+   "type": "p",
+   "data": "Table 20-1 Parameter description about log Management main Page100"
+  },
+  {
+   "type": "p",
+   "data": "Table 20-2 Parameter description about log Management search Page100"
+  },
+  {
+   "type": "p",
+   "data": "Table 20-3 Parameter description about log Management refresh Page101"
+  },
+  {
+   "type": "p",
+   "data": "Table 21-1 Parameter description about SNMP main Page102"
+  },
+  {
+   "type": "p",
+   "data": "Table 21-2 Parameter description about SNMP Basic Configuration Page103"
+  },
+  {
+   "type": "p",
+   "data": "Table 21-3 Parameter description about SNMP Community Configuration Page103"
+  },
+  {
+   "type": "p",
+   "data": "Table 21-4 Parameter description about SNMP Delete Page104"
+  },
+  {
+   "type": "p",
+   "data": "Table 22-1 Parameter description about SNMP Trap main Page105"
+  },
+  {
+   "type": "p",
+   "data": "Table 22-2 Parameter description about SNMP Trap Enable Page106"
+  },
+  {
+   "type": "p",
+   "data": "Table 22-3 Parameter description about SNMP Trap target address Page107"
+  },
+  {
+   "type": "p",
+   "data": "Table 23-1 Parameter description about Worm Intercept main Page108"
+  },
+  {
+   "type": "p",
+   "data": "Table 23-2 Parameter description about Worm Intercept Rule Configuration Page109"
+  },
+  {
+   "type": "p",
+   "data": "Table 23-3 Parameter description about Worm Intercept Rule Configuration Edit Page111"
+  },
+  {
+   "type": "p",
+   "data": "Table 24-1 Parameter description about DDos Intercept main Page112"
+  },
+  {
+   "type": "p",
+   "data": "Table 25-1 Parameter description about ARP Intercept main Page114"
+  },
+  {
+   "type": "p",
+   "data": "Table 26-1 Parameter description about currently sessions main Page115"
+  },
+  {
+   "type": "p",
+   "data": "Table 26-2 Parameter description about currently sessions refresh Page116"
+  },
+  {
+   "type": "p",
+   "data": "Table 27-1 Parameter description about User Management Main Page117"
+  },
+  {
+   "type": "p",
+   "data": "Table 27-2 Parameter description about User Management Add Modify user Page118"
+  },
+  {
+   "type": "p",
+   "data": "Table 27-3 Parameter description about User Management Add Refresh user Page119"
+  },
+  {
+   "type": "p",
+   "data": "Table 27-4 Parameter description about User Management Add Modify user Page119"
+  },
+  {
+   "type": "p",
+   "data": "Table 28-1 Parameter description about IP Routing Main Page121"
+  },
+  {
+   "type": "p",
+   "data": "Table 28-2 Parameter description about IPv4 Routing Table Page121"
+  },
+  {
+   "type": "p",
+   "data": "Table 28-3 Parameter description about New IPv4 Routing Page122"
+  },
+  {
+   "type": "p",
+   "data": "Table 28-4 Parameter description about delete IPv4 Routing Page123"
+  },
+  {
+   "type": "p",
+   "data": "Table 28-5 Parameter description about Edit IPv4 Routing Page123"
+  },
+  {
+   "type": "p",
+   "data": "Preface"
+  },
+  {
+   "type": "p",
+   "data": "Declaration"
+  },
+  {
+   "type": "p",
+   "data": "This document updates at irregular intervals because of product upgrade or other reason."
+  },
+  {
+   "type": "p",
+   "data": "This document is for your reference only."
+  },
+  {
+   "type": "p",
+   "data": "Suggestion feedback"
+  },
+  {
+   "type": "p",
+   "data": "If you have any questions when using our product and reading this document, please contact us"
+  },
+  {
+   "type": "p",
+   "data": "Audience"
+  },
+  {
+   "type": "p",
+   "data": "This document is for the following audiences:"
+  },
+  {
+   "type": "p",
+   "data": "System maintenance engineers"
+  },
+  {
+   "type": "p",
+   "data": "Debugging and testing engineers"
+  },
+  {
+   "type": "p",
+   "data": "Network monitoring engineers"
+  },
+  {
+   "type": "p",
+   "data": "Field maintenance engineers"
+  },
+  {
+   "type": "p",
+   "data": "WEB login"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to configure the switch to start the Web management function."
+  },
+  {
+   "type": "p",
+   "data": "Manage network port IP address and gateway configuration"
+  },
+  {
+   "type": "p",
+   "data": "Before you can manage the switch through the Web, you need to configure the IP address and gateway of the management network port through the command line. E.g :"
+  },
+  {
+   "type": "p",
+   "data": "Switch(config)# management ip address 10.13.33.153/21Switch(config)# management route add gateway 10.13.39.254"
+  },
+  {
+   "type": "p",
+   "data": "The default IP address is 192.168.0.1"
+  },
+  {
+   "type": "p",
+   "data": "User account and password configuration"
+  },
+  {
+   "type": "p",
+   "data": "The user account and password for WEB management need to be configured through the command line. E.g:"
+  },
+  {
+   "type": "p",
+   "data": "Switch (config)#username admin privilege 4 password admin"
+  },
+  {
+   "type": "p",
+   "data": "The default user and password is admin, admin"
+  },
+  {
+   "type": "p",
+   "data": "Web page login"
+  },
+  {
+   "type": "p",
+   "data": "Open the browser (not recommended to use IE), enter the switch management address, login page shown in Figure."
+  },
+  {
+   "type": "p",
+   "data": "login page"
+  },
+  {
+   "type": "p",
+   "data": "In the login page, enter the user name and password you have created, click “Login”, then enter the main page, as description in the chapters “monitoring”."
+  },
+  {
+   "type": "p",
+   "data": "Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes top-control-bar, navigation-bar, the display items of the main page (i.e. the monitoring page) and their parameters, including the interface panel, device information, device usage, device temperature and fans."
+  },
+  {
+   "type": "p",
+   "data": "Top Control Bar"
+  },
+  {
+   "type": "p",
+   "data": "The top control bar is at the top of main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Top Control Bar"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about top control bar"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter item",
+     "Description"
+    ],
+    [
+     "1",
+     "The product ID (According to the actual product)"
+    ],
+    [
+     "2",
+     "Monitor(i.e. Main page) module"
+    ],
+    [
+     "3",
+     "Configuraion module"
+    ],
+    [
+     "4",
+     "Maintenance module"
+    ],
+    [
+     "5",
+     "Network module"
+    ],
+    [
+     "6",
+     "Save configuration"
+    ],
+    [
+     "7",
+     "The name of user"
+    ],
+    [
+     "8",
+     "Logout"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Navigation Bar"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration”、“Maintenance” or “Network” button at “Top Control Bar” to entry corresponding module page. The corresponding module navigation bar is at left on the page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Configuration Module Navigation Bar"
+  },
+  {
+   "type": "p",
+   "data": "Maintenance Module Navigation Bar"
+  },
+  {
+   "type": "p",
+   "data": "Network Module Navigation Bar"
+  },
+  {
+   "type": "p",
+   "data": "monitor"
+  },
+  {
+   "type": "p",
+   "data": "The part of monitoring in the main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "monitoring"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about monitoring"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Monitor",
+     "The monitor field"
+    ],
+    [
+     "Auto refresh",
+     "the interval of auto refresh, including 30、60、180 seconds or manual refresh"
+    ],
+    [
+     "Refresh",
+     "Manual refresh button"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Interface Panel"
+  },
+  {
+   "type": "p",
+   "data": "Interface panel, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Internal Panel"
+  },
+  {
+   "type": "p",
+   "data": "The ports on the page correspond to the actual physical ports on the switch, while distinguishing between optical and electrical ports. The status of the port is distinguished by the color of the picture, including “Active”, “Inactive” and “Disabled”."
+  },
+  {
+   "type": "p",
+   "data": "The actual port layout is according to the product ID."
+  },
+  {
+   "type": "p",
+   "data": "Device Infomation"
+  },
+  {
+   "type": "p",
+   "data": "Device infomation, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Device Infomation"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about device information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter Item",
+     "Description",
+     "Parameter Item",
+     "Description",
+     "Parameter Item",
+     "Description"
+    ],
+    [
+     "Product ID",
+     "The hardware product of the switch",
+     "Image Name",
+     "The name of the boot image",
+     "Serial Number",
+     "Indicate the serial number of the switch"
+    ],
+    [
+     "Location",
+     "Indicate the location of the switch",
+     "WebImage Name",
+     "The name of the web image",
+     "MAC Address",
+     "The system mac of the switch"
+    ],
+    [
+     "Device Name",
+     "Indicate the hostname of the switch",
+     "BootRom Version",
+     "Indicate the BootRom version of the switch",
+     "Uptime",
+     "Indicate the uptime of the switch"
+    ],
+    [
+     "Contact",
+     "Indicate the contact of the switch",
+     "Hardware verison",
+     "Indicate the hardware version of the switch",
+     "PWR1",
+     "The status of power1"
+    ],
+    [
+     "Software",
+     "The software version of the switch",
+     "EPLD Version",
+     "Indicate the EPLD version of the switch",
+     "PWR2",
+     "The status of power2"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Device Usage"
+  },
+  {
+   "type": "p",
+   "data": "The Usage shows the current status infomation of the cpu usage and memory usage, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Device Usage"
+  },
+  {
+   "type": "p",
+   "data": "Device Temprature"
+  },
+  {
+   "type": "p",
+   "data": "The Temperature shows the current status information of the device temperature, as shown in figure below ."
+  },
+  {
+   "type": "p",
+   "data": "Device Temprature"
+  },
+  {
+   "type": "p",
+   "data": "Fan"
+  },
+  {
+   "type": "p",
+   "data": "The Fan shows the current status ratio of the speed of revolution than their maximum. The status of the port is distinguished by the color of the picture, the color green indicates normal, the red exceptional, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Fan"
+  },
+  {
+   "type": "p",
+   "data": "Ethernet Status"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter mainly describes how to view and configure interfaces status and interfaces stats."
+  },
+  {
+   "type": "p",
+   "data": "Ethernet Status"
+  },
+  {
+   "type": "p",
+   "data": "Ethernet Status Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Ethernet Status” to enter “Ethernet Status” main page, and it shows each port status of this switch, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "port status"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Ethernet Status"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Edit",
+     "Configure the selected port"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of ethernet"
+    ],
+    [
+     "Interface Name",
+     "The name of interface(According to the actual product)"
+    ],
+    [
+     "Status",
+     "The status of ports (up or down)"
+    ],
+    [
+     "Duplex",
+     "The duplex of ports (auto、full or half)"
+    ],
+    [
+     "Speed",
+     "The speed of ports(auto、10M、100M、1000M、2.5G、5G、10G、25G、40G、50G、100G)"
+    ],
+    [
+     "Mode",
+     "The working mode of ports(L2 mode access、L2 mode trunk or L3 mode)"
+    ],
+    [
+     "Type",
+     "The type of ports"
+    ],
+    [
+     "Description",
+     "Description about ports."
+    ],
+    [
+     "Operation",
+     "Configure single port"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Interface Management"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Ethernet Status” to enter “Ethernet Status” main page. Then select the corresponding interface checkbox and click “Edit” button to enter the “Interface Management” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Interface Management"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameters description about interface management"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Inteface Name",
+     "selected interface name"
+    ],
+    [
+     "Interface Current Status",
+     "the interface current status. Including Up or Down"
+    ],
+    [
+     "Admin Status",
+     "Administrate the status of ports, Up or Down"
+    ],
+    [
+     "L2/L3 Mode",
+     "Under L2 mode can select Trunk mode or Access mode, while under L3 mode can’t select Mode"
+    ],
+    [
+     "Jumboframe",
+     "Whether receive the jumboframe or not."
+    ],
+    [
+     "Speed",
+     "Configure the speed of ports including auto、10M、100M、1000M、2.5G、5G、10G、25G、40G、50G、100G"
+    ],
+    [
+     "Description",
+     "Description about this management"
+    ],
+    [
+     "Apply",
+     "Save the configuration and return to “Ethernet Status” page"
+    ],
+    [
+     "Back",
+     "Back to “Ethernet Status” main page."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Ethernet Stats"
+  },
+  {
+   "type": "p",
+   "data": "Ethernet Stats Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Ethernet Status->Ethernet Stats” to entry “Ethernet Stats” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Ethernet Stats"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ethernet stats"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Clear Stats",
+     "Clear all interfaces’ stats"
+    ],
+    [
+     "Refresh",
+     "Refresh the stats."
+    ],
+    [
+     "Interface Name",
+     "The name of interface(According to the actual product)"
+    ],
+    [
+     "Output Packets",
+     "Output stats in packet"
+    ],
+    [
+     "Output Bytes",
+     "Output stats in byte"
+    ],
+    [
+     "Input Packets",
+     "Input stats in packet"
+    ],
+    [
+     "Input Bytes",
+     "Input stats in byte"
+    ],
+    [
+     "Operation",
+     "View the stats in detail and refresh or clear the single port"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Interface Stats Detail"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Ethernet Status->Ethernet Stats” to entry “Ethernet Stats” page. Then click “Edit” to entry “Interface Stats Detail” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Interface Stats Detail"
+  },
+  {
+   "type": "p",
+   "data": "Interface Stats Detail Attach"
+  },
+  {
+   "type": "p",
+   "data": "This page records the stats about receiving and sending packets in detail."
+  },
+  {
+   "type": "p",
+   "data": "Link Aggregation"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter main describes how to view and configure link aggregation port."
+  },
+  {
+   "type": "p",
+   "data": "Global"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Link Aggregation->Global” to entry “Global” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Global Config"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about global configuration"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Load Balance Mode",
+     "According to selected checkbox, various load balance rules are executed"
+    ],
+    [
+     "Apply",
+     "Save Load Balance Mode configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Link Aggregation"
+  },
+  {
+   "type": "p",
+   "data": "Link Aggregation Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Link Aggregation->Link Aggregation” to entry “Link Aggregation” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Link Aggregation"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about link aggregation"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Add",
+     "Add a new link aggregation"
+    ],
+    [
+     "Delete",
+     "Delete selected checkbox link aggregation"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of the link aggregation"
+    ],
+    [
+     "Link Aggregation Name",
+     "The name of the link aggregation"
+    ],
+    [
+     "Protocol",
+     "The protocol of link aggregation, “static” or “dynamic”"
+    ],
+    [
+     "Group State",
+     "The status of the link aggregation"
+    ],
+    [
+     "Ports In Bundle",
+     "Bind the link aggregation and mac address"
+    ],
+    [
+     "Ports",
+     "The number of member port in this link aggregation"
+    ],
+    [
+     "Operation",
+     "Configure this link aggregation"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add Static Link Aggregation"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Link Aggregation->Link Aggregation” to entry “Link Aggregation” page. Then click “Add” button to entry “Static Link Aggregation” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add Agg"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about adding a link aggregation"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "LAG Name",
+     "The prefix is fixed by agg, and valid range is 0-63(According to the actual product)"
+    ],
+    [
+     "LAG Member Port",
+     "Select the checkbox to add corresponding member port (According to the actual product)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “Link Aggregation” page."
+    ],
+    [
+     "Back",
+     "Sack to “Link Aggregation” page."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Manage Link Aggregation"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Link Aggregation->Link Aggregation” to entry “Link Aggregation” page. Then click a corresponding link aggregation “Edit” button to entry “Static Link Aggregation” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Configure Agg"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about configuring a link aggregation"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "LAG Name",
+     "The name of link aggregation, can not change(According to the actual product)"
+    ],
+    [
+     "LAG Member Port",
+     "Select the checkbox to change the member port(According to the actual product)"
+    ],
+    [
+     "Apply",
+     "Save the edition and back to “Link Aggregation” page."
+    ],
+    [
+     "Back",
+     "Back to “Link Aggregation” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Storm Control"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter mainly describes how to configure and view interface storm control."
+  },
+  {
+   "type": "p",
+   "data": "View Storm Control"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Storm Control” to entry “Storm Control” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "View Storm Control"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about storm control page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Edit",
+     "Configure the selected checkbox"
+    ],
+    [
+     "Refresh",
+     "refresh the status of interfaces"
+    ],
+    [
+     "Interface Name",
+     "The name of interface"
+    ],
+    [
+     "Unicast Mode",
+     "Display the unicast storm control mode, including “disable”、“PPS” or “level”"
+    ],
+    [
+     "Unicast Value",
+     "Display the unicast storm control value. PPS: 0-1000000000, Level:0.00-100.00"
+    ],
+    [
+     "Broadcast Mode",
+     "Display the broadcast storm control mode, including “disable”、“PPS” or “level”"
+    ],
+    [
+     "Broadcast Value",
+     "Display the broadcast storm control value. PPS: 0-1000000000, Level:0.00-100.00"
+    ],
+    [
+     "Multicast Mode",
+     "Display the multicast storm control mode, including “disable”、“PPS” or “level”"
+    ],
+    [
+     "Multicast Value",
+     "Display the multicast storm control value. PPS: 0-1000000000, Level:0.00-100.00"
+    ],
+    [
+     "Operation",
+     "Configure single interface"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Configure Storm Control"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Storm Control” to entry “Storm Control” main page. Then select checkboxs and click “Edit” button or click “Edit” button under “Operation” field to entry configuration “Storm Control” page , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Edit Storm Control"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about editing storm control"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "The name of editing interfaces"
+    ],
+    [
+     "Unicast Mode",
+     "Display the unicast storm control mode, including “Disable”、“PPS” and “Level”"
+    ],
+    [
+     "Unicast Value",
+     "Display the unicast storm control value. PPS: 0-1000000000,Level:0.00-100.00"
+    ],
+    [
+     "Broadcast Mode",
+     "Display the broadcast storm control mode, including “Disable”、“PPS” and “Level”"
+    ],
+    [
+     "Broadcast Value",
+     "Display the braodcast storm control value. PPS: 0-1000000000, Level:0.00-100.00"
+    ],
+    [
+     "Multicast Mode",
+     "Display the multicast storm control mode, including “Disable”、“PPS” and “Level”"
+    ],
+    [
+     "Multicast value",
+     "Display the multicast storm control value. PPS: 0-1000000000, Level:0.00-100.00"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “Storm Control” main page"
+    ],
+    [
+     "Back",
+     "Back to “Storm Control” main page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Flow Control"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter mainly describe how to view and configure flow control."
+  },
+  {
+   "type": "p",
+   "data": "View Flow Control"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Flow Control” to entry “Flow Control” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Flow Control Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about flow control display"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Edit",
+     "Edit seleted interfaces"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of flow control"
+    ],
+    [
+     "Interface Name",
+     "The name of interface"
+    ],
+    [
+     "Receive Admin",
+     "The status of receiving configuration, “on” or “off”"
+    ],
+    [
+     "Receive Operation",
+     "The status of receiving, “on” or “off”"
+    ],
+    [
+     "Send Admin",
+     "The status of sending configuration, “on” or “off”"
+    ],
+    [
+     "Send Operation",
+     "The status of sending, “on” or “off”"
+    ],
+    [
+     "RxPause",
+     "The number of RxPause"
+    ],
+    [
+     "TxPause",
+     "The number of TxPause"
+    ],
+    [
+     "Operation",
+     "Configure some interface"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Configure Flow Control"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Flow Control” to entry “Flow Control” main page. Then click “Edit” button to configure selected interfaces or click “Edit” button corresponding to some port to entry “Flow Control Configuration” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Configure Flow Control Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about configuring flow control"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "The name of configuring interface"
+    ],
+    [
+     "Receive",
+     "Configure the status of Receive Admin, on or off"
+    ],
+    [
+     "Send",
+     "Configure the status of Send Admin, on or off"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “Flow Control” main page"
+    ],
+    [
+     "Back",
+     "Back to “Flow Control” main page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Port Isolate"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describe how to configure and view the status of port isolate."
+  },
+  {
+   "type": "p",
+   "data": "Global"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Port Isolate->Global” to entry “Global” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Global Configure"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about globle configuration of port isolate"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Port Isolate Mode",
+     "Configure port isolate mode, L2 or ALL"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Port Isolate"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Port Isolate->Port Isolate” to entry “Port Isolate” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Port Isolate Port Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about port isolate"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Edit",
+     "Configure the selected interfaces, select Interface Name indicates selects all"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of port isolate"
+    ],
+    [
+     "Interface Name",
+     "The name of interface"
+    ],
+    [
+     "Port Isolate Group",
+     "This port belongs to some port isolate group"
+    ],
+    [
+     "Operation",
+     "Configure single interface"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Port Isolate Management"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Port Isolate->Port Isolate” to entry “Port Isolate” page, select some interfaces and click “Edit” button or click “Edit” under “Operation” to entry “Port Isolate Management” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Port Isolate Management Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about port isolate management"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "The name of managing interfaces"
+    ],
+    [
+     "Port Isolate Enable",
+     "Port Isolate function, “Enable” or “Disable”"
+    ],
+    [
+     "Port Isolate Group",
+     "If port isolate function is enable, which port isolate group the interface is designated to(1-16)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “Port Isolate” page"
+    ],
+    [
+     "Back",
+     "Back to “Port Isolate” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Port Detect"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure the port detect function."
+  },
+  {
+   "type": "p",
+   "data": "Params Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Port Detect” to entry “Port Detect” main page. On this page, you can manage Params Configuration and Detect Configuration."
+  },
+  {
+   "type": "p",
+   "data": "Params Configuration is as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Params Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Params Configuration"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Link-flap:Counts",
+     "In Link-flap parameter “Seconds” seconds, maximum port down or up counts. the range is in 1~100, and default is 10"
+    ],
+    [
+     "Link-flap:Seconds",
+     "The period of link-flap, the range is in 1-120, default is 10"
+    ],
+    [
+     "Fdb-loop:Count",
+     "The mac address flapping counts, the range is in 3-50, default is 10"
+    ],
+    [
+     "Exclude-vlan",
+     "Do not record the exclude vlan the range count is in 1-4094, default is N/A"
+    ],
+    [
+     "Recovery time:Secounds",
+     "The interval of recoverying errdisabled ports(30~86400, Default:300)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Detect Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Port Detect” to entry “Port Detect” main page. On this page, Dropping down the scroll bar, Detect Configuration is as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Detect Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table blow."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Detect Configuration"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Reason",
+     "The name of port detect function"
+    ],
+    [
+     "Detect",
+     "Whether the function is enabled or not, the no selectable function is always enabled"
+    ],
+    [
+     "Recovery",
+     "When it triggers errdisabled, whether it can be auto-recoveryed, N/A indicates the reason make no effective on this function"
+    ],
+    [
+     "Apply",
+     "Save Params Configuration and Detect Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "VLAN"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and manage the status of “VLAN”, “VLAN IF” and “Access/Trunk Port”."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Summary"
+  },
+  {
+   "type": "p",
+   "data": "VLAN Summary Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Summary” to entry “VLAN Summary” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Summary page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about VLAN Summary"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "VLAN Add/Delete",
+     "Manage VLAN to add or delete it"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of VLAN Summary"
+    ],
+    [
+     "VLAN ID",
+     "VLAN identifier"
+    ],
+    [
+     "Status",
+     "The status of VLAN, “Active” or “Suspend”"
+    ],
+    [
+     "MAC Learning",
+     "The function of MAC Learning, “Enable” or “Disable”"
+    ],
+    [
+     "Action",
+     "When it comes to the number of maxium MAC Learning, it works. “Discard”, “Forward” or “Warn”"
+    ],
+    [
+     "Limit",
+     "The number of maxium MAC learning，rang in 0-65535, default 0 means no limit"
+    ],
+    [
+     "Member Port",
+     "The member ports are included by this VLAN"
+    ],
+    [
+     "Description",
+     "Description about this VLAN"
+    ],
+    [
+     "Operation",
+     "Configure single VLAN"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add/Delete VLAN Settings"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Add/Delete” to entry “Add/Delete VLAN & VLAN Range Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Add/Delete"
+  },
+  {
+   "type": "p",
+   "data": "Parameter descripiton, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Add/Delete VLAN"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Configure Mode",
+     "Configure mode, “Singe” or “Range”"
+    ],
+    [
+     "VLAN ID",
+     "The VLAN ID needs configuring，range in 2-4094"
+    ],
+    [
+     "Description",
+     "If this configure is “Add”, this is a description about it"
+    ],
+    [
+     "Add",
+     "Add this VLAN and back to “VLAN Summary” page"
+    ],
+    [
+     "Delete",
+     "Delete this VLAN and back to “VLAN Summary” page"
+    ],
+    [
+     "Back",
+     "Back to “VLAN Summary” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add/Delete Vlan Range Settings"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Add/Delete” to entry “Add/Delete VLAN & VLAN Range Settings” page, and “Configure Mode” seletes “Range”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Add/Delete Range"
+  },
+  {
+   "type": "p",
+   "data": "Paramater description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Add/Delete VLAN Range"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Configure Mode",
+     "Configure mode, “Singe” or “Range”"
+    ],
+    [
+     "VLAN ID",
+     "A series of VLAN ID(2-4094)"
+    ],
+    [
+     "Add",
+     "Add this VLAN Range and back to “VLAN Summary” page"
+    ],
+    [
+     "Delete",
+     "Delete this VLAN Range and back to “VLAN Summary” page"
+    ],
+    [
+     "Back",
+     "Back to “VLAN Summary” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "VLAN Detailed Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Summary->Edit” to entry “VLAN Detailed Configuration” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Detailed Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about VLAN Detailed Configuration"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "VLAN ID",
+     "The configuring VLAN ID"
+    ],
+    [
+     "Member Port",
+     "The Member Port of this VLAN"
+    ],
+    [
+     "VLAN State",
+     "The working status of this VLAN, “Enable” or “Disable”"
+    ],
+    [
+     "Mac Learning",
+     "Mac Learning function, “Enable” or “Disable”"
+    ],
+    [
+     "Mac Limit Action",
+     "When it comes to the number of maximum Mac Limit items, it makes it different, “Discard”, “Forward” or “Warn”"
+    ],
+    [
+     "Mac Limit Max Number",
+     "The number of maximum Mac Leaning item, range is in 0-65535, 0 indicates no limit"
+    ],
+    [
+     "Description",
+     "Description about this VLAN"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “VLAN Summary” page"
+    ],
+    [
+     "Back",
+     "Back to “VLAN Summary” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "VLAN Interface"
+  },
+  {
+   "type": "p",
+   "data": "VLAN Interface Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Interface” to entry “VLAN Interface” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Interface"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about VLAN Interface"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Add",
+     "Add VLAN Interface"
+    ],
+    [
+     "Delete",
+     "Delete selected VLAN Interface"
+    ],
+    [
+     "Refresh",
+     "Refresh VLAN Interface"
+    ],
+    [
+     "VLAN Interface Name",
+     "The name of VLAN Interface"
+    ],
+    [
+     "IPv4 Address",
+     "Using dotted decimal"
+    ],
+    [
+     "Operation",
+     "Configure this VLAN Interface"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Interface"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Interface” to entry VLAN Interface page, as shwon in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Interface"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Adding VLAN Interface"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "VLAN Interface ID",
+     "VLAN Interface Identifier,"
+    ],
+    [
+     "IPv4 Address",
+     "Using dotted decimal"
+    ],
+    [
+     "Mask",
+     "Mask, 0-32 bit(enable to select)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “VLAN Interface” page"
+    ],
+    [
+     "Back",
+     "Back to “VLAN Interface” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete VLAN Interface"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Interface” to entry VLAN Interface page. Then select the VLAN Interface you want to delete and Click “Delete” button to delete this VLAN Interface, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete vlanif interface"
+  },
+  {
+   "type": "p",
+   "data": "Edit VLAN Interface"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->VLAN Interface”, then click “Edit” button to entry “VLAN Interface Management” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Config VLAN Interface"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Configuring VLAN Interface"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "VLAN Interface ID",
+     "VLAN Interface Identifier,"
+    ],
+    [
+     "IPv4 Address",
+     "Using dotted decimal"
+    ],
+    [
+     "Mask",
+     "Mask, 0-32 bit(enble to select)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “VLAN Interface” page"
+    ],
+    [
+     "Back",
+     "Back to “VLAN Interface” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Access/Trunk Port"
+  },
+  {
+   "type": "p",
+   "data": "Access/Trunk Port Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->Access/Trunk Port” to entry “Access/Trunk Port” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Acess/Trunk Port Page"
+  },
+  {
+   "type": "p",
+   "data": "Paramater description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Access/Trunk Port"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Edit",
+     "Configure the seleted ports"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of Access/Trunk Port"
+    ],
+    [
+     "Interface Name",
+     "The name of interface"
+    ],
+    [
+     "Mode",
+     "The mode of port, “access” or “trunk”"
+    ],
+    [
+     "PVID",
+     "Port-base VLAN Identifier"
+    ],
+    [
+     "Add VLAN",
+     "If the displayed link type is Trunk, VLAN ID or list is allowed to pass through the interface. If the displayed link type is Access, the VLAN ID that the interface belongs to, and the tagged or untagged frames received on the interface will be tagged with the VLAN ID"
+    ],
+    [
+     "Operation",
+     "Config this VLAN Interface"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Access/Trunk Port Modification"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN->Access/Trunk Port”, Click “Edit” button to config selected interface, or dirctly click “Edit” button under “Operation” field to entry “Access/Trunk Port Modification” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Access/Trunk Port Modification page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Access/Trunk Port Modification"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Descripiton"
+    ],
+    [
+     "Interface Name",
+     "The name of configuring ports"
+    ],
+    [
+     "Interface Mode",
+     "The mode of interface, “access” or “trunk”"
+    ],
+    [
+     "PVID",
+     "Port-base VLAN ID(1-4096)"
+    ],
+    [
+     "Permit VLAN",
+     "VLAN permitted to pass(1~4094, example: 2-5,7,9-11)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “Access/Trunk Port” page"
+    ],
+    [
+     "Back",
+     "Back to “Access/Trunk Port” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "VLAN Classifier"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure VLAN Classifier."
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Classifier Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about VLAN Classifier"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "VLAN Classifier Rules",
+     "Display infomation about VLAN Classifier Rules"
+    ],
+    [
+     "VLAN Classifier Groups",
+     "Display infomation about VLAN Classifier Groups"
+    ],
+    [
+     "VLAN Classifier Usage",
+     "Display infomation about VLAN Classifier Usage"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Classifier Rules"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page, then click “Add” button in “VLAN Classifier Rules” bar to entry “VLAN Classifier Rule Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "VLAN Classifier Rule Settings Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description ,as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about VLAN Classifier Rule Settings"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Rule ID",
+     "Rule Identifier(0-4095)"
+    ],
+    [
+     "Rule Type",
+     "This type of rule, “IP”、“MAC” or “Protocol”"
+    ],
+    [
+     "IP Address|MAC Address|Protocol",
+     "While the rule type is “IP”, input dotted decimal IPv4 addressWhile the rule type is “MAC”, input dotted hexadecimal MAC addressWhile the rule type is “Protocol”, including “arp”, “ip”, “mpls”, “mpls-mcast”, “pppoe” and “rarp”"
+    ],
+    [
+     "VLAN ID",
+     "VLAN Identifier(1-4094)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “VLAN Classifier” main page"
+    ],
+    [
+     "Back",
+     "back to “VLAN Classifier” main page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete VLAN Classifier Rules"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page. Select checkbox need to be deleted, in “VLAN Classifier Rules” bar, then click “Delete” button and “Confirm” to delete the rule, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete VLAN Classifier Rules Page"
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Classifier Group"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page. Then click “Add” button in “VLAN Classifier Groups” bar to entry “VLAN Classifier Group Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Classifier Groups Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Classifier Groups"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Group ID",
+     "Group indentifier 0-31"
+    ],
+    [
+     "Rule ID",
+     "Rule identifier 0-4095"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “VLAN Classifier” main page"
+    ],
+    [
+     "Back",
+     "back to “VLAN Classifier” main page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete VLAN Classifier Groups"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page. Then select the checkbox need to be deleted, in “VLAN Classifier Groups” bar, click “Delete” button and “Confirm” button to delete it, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete VLAN Classifier Groups Page"
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Classifier Usage"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page. Then click “Add” button in “VLAN Classifier Usage” bar to entry “VLAN Classifier Usage Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add VLAN Classifier Usage Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about adding VLAN Classifier Usage"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface",
+     "The interface identifier needes to be added(enable to select)"
+    ],
+    [
+     "Group ID",
+     "Group Identifier"
+    ],
+    [
+     "Based Type",
+     "Based on type usage, “ip”、“mac” or “protocol”, when the type is “protocol”, “Group ID” must be 31"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “VLAN Classifier” main page"
+    ],
+    [
+     "Back",
+     "Back to “VLAN Classifier” main page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete VLAN Classifier Usage"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->VLAN Classifier” to entry “VLAN Classifier” main page. Then select the checkbox need to be deleted, in “VLAN Classifier Usage” bar, click “Delete” button and “Confirm” button to delete it, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete VLAN Classifier Usage page"
+  },
+  {
+   "type": "p",
+   "data": "MAC"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->MAC” to entry “MAC” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "MAC main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure MAC. There is a MAC address table in the switch device, referred to as the MAC table. The MAC table records the MAC addresses of all devices connected to all interfaces of the switch device. When forwarding data, the switch device queries the MAC table according to the destination MAC address table in the data frame to quickly locate the outgoing interface, thereby reducing broadcasts."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MAC Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Mac Address Table",
+     "Mac Address Table Configuration"
+    ],
+    [
+     "MAC Aging Time",
+     "MAC Aging Time Configuration"
+    ],
+    [
+     "MAC Learning",
+     "MAC Learning Configuration"
+    ],
+    [
+     "Static MAC Table",
+     "Static MAC Table Configuration"
+    ],
+    [
+     "Blackhole MAC Table",
+     "Blackhole MAC Table Configuration"
+    ],
+    [
+     "Port Security",
+     "Port Security Configuration"
+    ],
+    [
+     "Static Security MAC Table",
+     "Static Security MAC Table Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Mac Address Table Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Query MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->MAC Address Table” to entry “MAC Address Table Information” page, click “Query”,as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Query MAC Address Table Information Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MAC Address Table Query Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Type",
+     "The methods that switch discovers MAC address, which includes All,Dynamic,Security or Static"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address(1-4094)"
+    ],
+    [
+     "Interface Type",
+     "The methods that switch discovers Interface, which includes All,Ethernet or Link Aggregator"
+    ],
+    [
+     "Interface Name",
+     "Interface that corresponds to the above MAC address"
+    ],
+    [
+     "Query",
+     "Query mac table information"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->MAC Address Table” to entry “MAC Address Table Information” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MAC Address Table Information Display"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address"
+    ],
+    [
+     "Interface Name",
+     "Display the name of interface"
+    ],
+    [
+     "MAC Type",
+     "The methods that switch discovers MAC address, which includes Dynamic,Security or Static"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "MAC Aging Time Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->MAC Address Table” to entry “MAC Global Configuration” page, click “Apply”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "MAC Aging Time Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MAC Aging Time"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Aging Time",
+     "Enter MAC address aging time(Range:0, 10~1000000 seconds; default: 300 seconds)"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "MAC Learning Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->MAC Learning” to entry “MAC Learning” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "MAC Learning Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MAC Learning"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "Display the name of interface"
+    ],
+    [
+     "MAC Learning",
+     "Display the current MAC learning status on interface"
+    ],
+    [
+     "Operation",
+     "Display that MAC learning status can be edited"
+    ],
+    [
+     "Edit",
+     "Display that interface’s MAC learning status can be edited"
+    ],
+    [
+     "Refresh",
+     "Display the refreshed page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Click Operation “Edit” to entry “MAC Port Study” edit page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "MAC Port Study edit page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MAC Port Learning Edit Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "Display the name of interface"
+    ],
+    [
+     "MAC Learning",
+     "Display the current MAC learning status on interface，Enable or Disable"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ],
+    [
+     "Back",
+     "Back to MAC Learning Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Static MAC Table Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Add Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static MAC Address Table” to entry “Static MAC Address Table” page, click new , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Adding Static MAC Address Table Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address(1-4094)"
+    ],
+    [
+     "Interface Type",
+     "The methods that switch discovers Interface, which includes Ethernet or Link Aggregator"
+    ],
+    [
+     "Interface Name",
+     "Interface that corresponds to the above MAC address"
+    ],
+    [
+     "Apply",
+     "Save this Configuration"
+    ],
+    [
+     "Back",
+     "Back to Static MAC Table Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static MAC Address Table” to entry “Static MAC Address Table” page, click delete, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Query Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static MAC Address Table” to entry “Static MAC Address Table” page, click “Query”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Query Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Static MAC Address Table Query"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address(1-4094)"
+    ],
+    [
+     "Interface Type",
+     "The methods that switch discovers Interface, which includes All,Ethernet or Link Aggregator"
+    ],
+    [
+     "Interface Name",
+     "Interface that corresponds to the above MAC address"
+    ],
+    [
+     "Query",
+     "Query static mac table information"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static MAC Address Table” to entry “Static MAC Address Table” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display Static MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Static MAC Address Table Display"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address"
+    ],
+    [
+     "Interface Name",
+     "Display the name of interface"
+    ],
+    [
+     "MAC Type",
+     "The methods that switch discovers MAC address, which includes Dynamic,Security or Static"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Blackhole MAC Table Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Add Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Blackhole MAC Address Table” to entry “Blackhole MAC Address Table” page, click new ,as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Adding Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "Apply",
+     "Save this Configuration"
+    ],
+    [
+     "Back",
+     "Back to Blackhole MAC Table Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Blackhole MAC Address Table” to entry “Blackhole MAC Address Table” page, click delete, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Query Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Blackhole MAC Address Table” to entry “Blackhole MAC Address Table” page, click “Query”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Query Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Blackhole MAC Address Table Query"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "Query",
+     "Query Blackhole mac table information"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Blackhole MAC Address Table” to entry “Blackhole MAC Address Table” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display Blackhole MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Blackhole MAC Address Table Display"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "MAC Type",
+     "The methods that switch discovers MAC address, which includes Dynamic,Security or Static"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Port Security Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Port Security” to entry “Port Security” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Port Security Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Port Security"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "Display the name of interface"
+    ],
+    [
+     "Port Security",
+     "Display the current port security status on interface"
+    ],
+    [
+     "Interface Protect Mode",
+     "Display the current protect mode on interface"
+    ],
+    [
+     "Maximum MAC addresses",
+     "Display the maximum MAC addresses number on interface"
+    ],
+    [
+     "Operation",
+     "Display that port security status can be edited"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Click Operation “Edit” to entry “Port Security” edit page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Port Security edit page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MAC Port SecurityEdit Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "Display the name of interface"
+    ],
+    [
+     "Port Security",
+     "Display the current port security status on interface，Disable or Enable"
+    ],
+    [
+     "Interface Protect Mode",
+     "Display the current protect mode on interface,Protect,Restrict,errdisable"
+    ],
+    [
+     "Max MAC Entries Learned",
+     "Display the maximum MAC addresses number on interface(0~16384,default 1)"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ],
+    [
+     "Back",
+     "Back to Port Protect Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Static Security MAC Table Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Add Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static Security MAC” to entry “Static Security MAC Address Table” page, click new ,as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Adding Static Security MAC Address Table Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address(1-4094)"
+    ],
+    [
+     "Interface Type",
+     "The methods that switch discovers Interface, which includes Ethernet"
+    ],
+    [
+     "Interface Name",
+     "Interface that corresponds to the above MAC address(enable to select )"
+    ],
+    [
+     "Apply",
+     "Save this Configuration"
+    ],
+    [
+     "Back",
+     "Back to Static Security MAC Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static Security MAC” to entry “Static Security MAC Address Table” page, click “delete”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Query Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static Security MAC” to entry “Static Security MAC Address Table” page, click “Query”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Query Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Static Security MAC Address Table Query"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address(1-4094)"
+    ],
+    [
+     "Interface Type",
+     "The methods that switch discovers Interface, which includes All or Ethernet"
+    ],
+    [
+     "Interface Name",
+     "Interface that corresponds to the above MAC address(enable to select)"
+    ],
+    [
+     "Query",
+     "Query static security mac table information"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “MAC->Static Security MAC” to entry “Static Security MAC Address Table” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display Static Security MAC Address Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Static Security MAC Address Table Display"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "MAC Address",
+     "The MAC addresses in the address table"
+    ],
+    [
+     "VLAN",
+     "VLAN ID that corresponds to the above MAC address"
+    ],
+    [
+     "Interface Name",
+     "Display the name of interface"
+    ],
+    [
+     "MAC Type",
+     "The methods that switch discovers MAC address, which includes Dynamic,Security or Static"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Spanning Tree"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Spanning Tree” to entry “Spanning Tree” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Spanning Tree main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure Spanning Tree. STP is the English abbreviation of Spanning Tree Protocol. This protocol can be applied to a loop network, through a certain algorithm to achieve path redundancy, while pruning the loop network into a loop-free tree network, thereby avoiding the proliferation and infinite loop of the message in the loop network."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Spanning Tree Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "STP Information",
+     "Display STP Information"
+    ],
+    [
+     "Global Configuration",
+     "Set Global Configuration"
+    ],
+    [
+     "STP Ports",
+     "Display STP Ports"
+    ],
+    [
+     "MST Region",
+     "MST Region Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "STP Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->STP Information” to entry “STP Information” page, STP Information as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "STP Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about STP Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Root ID Priority",
+     "Display the priority of the switch which is selected as root"
+    ],
+    [
+     "Root ID Address",
+     "Display the address of the switch which is selected as root"
+    ],
+    [
+     "Root ID Hello Time",
+     "Display the hello time interval of the switch which is selected as root"
+    ],
+    [
+     "Root ID Max Age",
+     "Display the max age of the switch which is selected as root"
+    ],
+    [
+     "Root ID Forward Delay",
+     "Display the root id forward delay of the switch which is selected as root"
+    ],
+    [
+     "CIST Root Path Cost",
+     "Display the CIST Root Path Cost"
+    ],
+    [
+     "CIST Bridge Priorityt",
+     "Display the CIST Bridge Priority"
+    ],
+    [
+     "Root ID Priority",
+     "Display the bridge ID priority of the switch"
+    ],
+    [
+     "Bridge ID Address",
+     "Display the bridge ID address of the switch"
+    ],
+    [
+     "Bridge ID Hello Time",
+     "Display the hello time interval of the switch"
+    ],
+    [
+     "Bridge ID Max Age",
+     "Display the max age interval of the switch"
+    ],
+    [
+     "Bridge ID Forward Delay",
+     "Display the forward delay of the switch"
+    ],
+    [
+     "Bridge ID Aging Time",
+     "Display the bridge aging time of the switch"
+    ],
+    [
+     "Edgeport bpdu-filter",
+     "Display the enable status of edgeport bpdu-filter"
+    ],
+    [
+     "Edgeport bpdu-guard",
+     "Display the enable status of edgeport bpdu-guard"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->STP Information” to entry “STP Information” page, Priority Information as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Priority Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about STP Priority Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Instance",
+     "Display the Instance Id"
+    ],
+    [
+     "Path Cost",
+     "Display the path cost of the instance"
+    ],
+    [
+     "Priority",
+     "Display the priority of the instance"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->STP Information” to entry “STP Information” page, Ports Information as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Ports Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about STP Ports Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Instance",
+     "Instance number"
+    ],
+    [
+     "Interface",
+     "Interface number for instance operation"
+    ],
+    [
+     "Port Role",
+     "Interface status"
+    ],
+    [
+     "STP Status",
+     "Display this interface’s status on the spanning tree"
+    ],
+    [
+     "Path Cost",
+     "The port’s internal path cost in this instance"
+    ],
+    [
+     "Priority.Port Number",
+     "The port’s internal priority in this instance and port number"
+    ],
+    [
+     "Type",
+     "Link type"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Global Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->Global Configuration” to entry “Global Configuration” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Global Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about STP Global Configuration Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "STP",
+     "Enable or disable STP on this switch(default: disable)"
+    ],
+    [
+     "BPDU Guard",
+     "Enable or disable bpdu guard in global(Default: Disable)"
+    ],
+    [
+     "BPDU Filter",
+     "Enable or disable bpdu filter in global(Default: Disable)"
+    ],
+    [
+     "Working Mode",
+     "Specify types of spanning tree adopted on this switch，including STP RSTP MSTP(Default RSTP)"
+    ],
+    [
+     "Pathcost Standard",
+     "Choose the standard of path cost calculation,including dot1t dot1d-1998(Default dot1t)"
+    ],
+    [
+     "Max Age",
+     "Maximum time to keep old information(6~40, Default 20)"
+    ],
+    [
+     "Max Hops",
+     "Maximum number of times a packet is forwarded through the switch(1~40, Default 20)"
+    ],
+    [
+     "Hello Time",
+     "Interval for root bridge’s broadcast “hello” message.(1~10, Default 2)"
+    ],
+    [
+     "Forward Time",
+     "Each interface on the switch needs to wait double of forward-delay time when the blocked status changes to forwarding status(4~30, Default 15)"
+    ],
+    [
+     "Instance",
+     "Select instance number for the root types needed to configure(0-4094)"
+    ],
+    [
+     "Priority",
+     "Bridge priority is used in selecting the root device.(0~61440, Default 32768)"
+    ],
+    [
+     "Apply",
+     "Save Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "STP Ports"
+  },
+  {
+   "type": "p",
+   "data": "Display Ports Status"
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->STP Ports” to entry “STP Ports” Ports Status page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display Ports Status"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about STP Ports Status Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "Interface name"
+    ],
+    [
+     "Edgeport",
+     "Display edgeport status"
+    ],
+    [
+     "Bpdu Guard",
+     "Display Bpdu Guard tatus"
+    ],
+    [
+     "Bpdu Filter",
+     "Display Bpdu Filter tatus"
+    ],
+    [
+     "Root Guard",
+     "Display Root Guard tatus"
+    ],
+    [
+     "Loop Guard",
+     "Display Loop Guard tatus"
+    ],
+    [
+     "STP",
+     "Display STP tatus"
+    ],
+    [
+     "Operation",
+     "Edit"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Edit Spanning Tree Ports"
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->STP Ports->Edit” to entry “Edit Spanning Tree Ports” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Edit Spanning Tree Ports"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Edit Spanning Tree Ports Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Interface Name",
+     "Interface name"
+    ],
+    [
+     "STP",
+     "Set STP status，enable or disable"
+    ],
+    [
+     "Edgeport",
+     "Set edgeport status，enable to not participate in spanning tree calculation ,enable or disable"
+    ],
+    [
+     "Bpdu Guard",
+     "Set Bpdu Guard status，if enabled,the edgeport will shutdown when recieving Bpdu packets,enable or disable"
+    ],
+    [
+     "Bpdu Filter",
+     "Set Bpdu Filter status，if enabled,the port will filter Bpdu packets,enable or disable"
+    ],
+    [
+     "Root Guard",
+     "Set Root Guard status，enable or disable"
+    ],
+    [
+     "Loop Guard",
+     "Set Loop Guard status，enable or disable"
+    ],
+    [
+     "Instance",
+     "Set Instance id(0-4094)"
+    ],
+    [
+     "Priority",
+     "Set the port internal priority in this instance(0~240,Default 128)"
+    ],
+    [
+     "Path Cost",
+     "Set Path Cost(1-200000000)"
+    ],
+    [
+     "Submit",
+     "Save this configuration"
+    ],
+    [
+     "Detail Information",
+     "Display STP Interface Details"
+    ],
+    [
+     "Back",
+     "Back to Ports Status page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->STP Ports->Edit->Detail Information” to entry “Edit Spanning Tree Ports” Detailed Information page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Edit Spanning Tree Ports Detailed Information page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Spanning Tree Ports Detailed Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Return",
+     "Back to Ports Status page"
+    ],
+    [
+     "Interface",
+     "Instance number"
+    ],
+    [
+     "Role",
+     "Interface status"
+    ],
+    [
+     "State",
+     "Display this interface’s status on the spanning tree"
+    ],
+    [
+     "Path Cost",
+     "The port’s internal path cost in this instance"
+    ],
+    [
+     "Priority.Port Number",
+     "The port’s internal priority in this instance and port number"
+    ],
+    [
+     "Type",
+     "Link type"
+    ],
+    [
+     "Interface Information",
+     "Display interface Information"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "MST Region"
+  },
+  {
+   "type": "p",
+   "data": "MST Region Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->MST Region” to entry “MST Region” page, introduce how to modify the domain name ,as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "MST Region page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Spanning Tree MST region Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Region Name",
+     "Specify MST domain name joined by the switch"
+    ],
+    [
+     "Instance ID",
+     "Display the MST instance ID currently configured on switch"
+    ],
+    [
+     "VLAN",
+     "Display VLAN ID mapped to specified MST instance"
+    ],
+    [
+     "Apply",
+     "Save configuration"
+    ],
+    [
+     "Add",
+     "Add Instance ID"
+    ],
+    [
+     "Delete",
+     "Delete Instance ID"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "ADD Instance ID"
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->MST Region->Add” to entry “Add Instance” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "ADD Instance ID"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about MST Region Add Instance Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Instance",
+     "Set Instance,(1-4094)"
+    ],
+    [
+     "VLAN list",
+     "Set VLAN,example: 2-5,7,9-11"
+    ],
+    [
+     "Apply",
+     "Save Configuration"
+    ],
+    [
+     "Back",
+     "Back to MST Region Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Instance ID"
+  },
+  {
+   "type": "p",
+   "data": "Click “Spanning Tree->MST Region” ，check instance, then click “Delete” , to entry “MST Region” Delete page , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Instance ID"
+  },
+  {
+   "type": "p",
+   "data": "ERPS"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->ERPS” to entry “ERPS” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "ERPS main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure ERPS.ERPS (Ethernet Ring Protection Switching, Ethernet Ring Protection Switching Protocol) is a ring protection protocol developed by ITU, also known as G.8032. It is a link layer protocol specially applied to the Ethernet ring network. When the Ethernet ring network is complete, it can prevent broadcast storms caused by the data loop, and when a link on the Ethernet ring network is disconnected, it can quickly restore communication between nodes on the ring network."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "ERPS Configuration",
+     "Configuration ERPS"
+    ],
+    [
+     "ERPS Status",
+     "Display ERPS"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "ERPS Configuration"
+  },
+  {
+   "type": "p",
+   "data": "ERPS Configuration Overview"
+  },
+  {
+   "type": "p",
+   "data": "ERPS configuration includes “Configure ERPS Mode” , “Add the ERPS Domain” , “Delete the ERPS Domain” , “Edit the ERPS Domain” , “Display the ERPS Domain” , “Add the ERPS Ring” , “Modify the ERPS Ring” , “Delete the ERPS Ring” ."
+  },
+  {
+   "type": "p",
+   "data": "Configure ERPS Mode"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure” to entry “ERPS Configure” Configure ERPS Mode page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Configure ERPS Mode"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Configuration Mode Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "ERPS Mode",
+     "Display the working mode of ERPS, which supports RRPP protocol compatibility(The configuration will take effect until the next reload)"
+    ],
+    [
+     "Apply",
+     "Save Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure->Add” to entry “ERPS Domain Configuration” page, erps ring is not configured here, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Domain Configuration Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Domain ID",
+     "Set the ERPS domain ID(1-255)"
+    ],
+    [
+     "Domain Name",
+     "Set the ERPS domain name(“Domain name character should be”0-9A-Za-z.-_” the first character should be a-z or A-Z and the last character should be 0-9 or a-z or A-Z”)"
+    ],
+    [
+     "Primary VLAN",
+     "Set the primary control VLAN for ERPS(2-4094)"
+    ],
+    [
+     "Sub VLAN",
+     "Set a sub control VLAN for ERPS(2-4094)"
+    ],
+    [
+     "Mstp Instance",
+     "Set an MSTP instance(0-4094)"
+    ],
+    [
+     "Hello Interval",
+     "Set the Hello message delivery period(1~150, uint 100ms)"
+    ],
+    [
+     "Fail Interval",
+     "Set the Fail message delivery period(3~450, uint 100ms)"
+    ],
+    [
+     "Ring List",
+     "Display ERPS ring list information"
+    ],
+    [
+     "Submit",
+     "Save the configuration"
+    ],
+    [
+     "Back",
+     "Back to erps configuration page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure” to entry “ERPS Configuration” page, check this specified ERPS domain, click “Delete” as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Edit the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure->Edit” to entry “ERPS Domain Configuration” Edit page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Edit the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Domain Configuration Information Edit Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Domain ID",
+     "Display the ERPS domain ID(1-255)"
+    ],
+    [
+     "Domain Name",
+     "Display the ERPS domain name"
+    ],
+    [
+     "Primary VLAN",
+     "Set the primary control VLAN for ERPS(2-4094)"
+    ],
+    [
+     "Sub VLAN",
+     "Set a sub control VLAN for ERPS(2-4094)"
+    ],
+    [
+     "Mstp Instance",
+     "Set an MSTP instance(0-4094)"
+    ],
+    [
+     "Hello Interval",
+     "Set the Hello message delivery period(1~150, uint 100ms)"
+    ],
+    [
+     "Fail Interval",
+     "Set the Fail message delivery period(3~450, uint 100ms)"
+    ],
+    [
+     "Ring List",
+     "Display ERPS ring list information"
+    ],
+    [
+     "New",
+     "Add the ERPS Ring"
+    ],
+    [
+     "Modify",
+     "Modify the ERPS Ring"
+    ],
+    [
+     "Delete",
+     "Delete the ERPS Ring"
+    ],
+    [
+     "Submit",
+     "Save the configuration"
+    ],
+    [
+     "Back",
+     "Back to erps configuration page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure” to entry “ERPS Configuration” display page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display the ERPS Domain"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Domain Configuration Information Display Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Domain ID",
+     "Display the ERPS domain ID(1-255)"
+    ],
+    [
+     "Domain Name",
+     "Display the ERPS domain name"
+    ],
+    [
+     "Primary VLAN",
+     "Set the primary control VLAN for ERPS(2-4094)"
+    ],
+    [
+     "Sub VLAN",
+     "Set a sub control VLAN for ERPS(2-4094)"
+    ],
+    [
+     "Mstp Instance",
+     "Set an MSTP instance(0-4094)"
+    ],
+    [
+     "Hello Interval",
+     "Set the Hello message delivery period(1~150, uint 100ms)"
+    ],
+    [
+     "Fail Interval",
+     "Set the Fail message delivery period(3~450, uint 100ms)"
+    ],
+    [
+     "Operation",
+     "Edit"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add the ERPS Ring"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure->Edit->New” to entry “ERPS Ring Configuration” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "!Add the ERPS Ring"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Ring Configuration Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Ring ID",
+     "Set the ERPS ring ID(1-255)"
+    ],
+    [
+     "Ring Level",
+     "Set that the ERPS ring is the primary ring or sub ring"
+    ],
+    [
+     "Ring Edge Mode",
+     "Set the edge mode of the ERPS ring(None ,Edge,Assistant-edge)"
+    ],
+    [
+     "Ring Mode",
+     "Set the node mode for the ERPS ring(Master,Transit,Vpls)"
+    ],
+    [
+     "Ring Primary Interface",
+     "Select the primary interface of the ERPS ring(enable to select)"
+    ],
+    [
+     "Ring secondary Interface",
+     "Select the secondary interface of the ERPS ring(enable to select)"
+    ],
+    [
+     "Ring Vpls Interface",
+     "Select the VPLS interface for the ERPS ring(enable to select)"
+    ],
+    [
+     "Ring Edge Interface",
+     "Select the edge interface of the ERPS ring"
+    ],
+    [
+     "Ring Common Interface",
+     "Select the common interface of the ERPS ring"
+    ],
+    [
+     "Ring Srpt",
+     "Enable or disable SRPT message delivery"
+    ],
+    [
+     "Ring Status",
+     "Enable or disable the ERPS ring"
+    ],
+    [
+     "Submit",
+     "Save this configuration"
+    ],
+    [
+     "Back",
+     "Back to ERPS Domain Configuration Edit Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Modify the ERPS Ring"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure->Edit->Modify” to entry “ERPS Ring Configuration” Modify page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Modify the ERPS Ring"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Ring Configuration Information Modify Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Ring ID",
+     "Display the ERPS ring ID(1-255)"
+    ],
+    [
+     "Ring Level",
+     "Display that the ERPS ring is the primary ring or sub ring"
+    ],
+    [
+     "Ring Edge Mode",
+     "Display the edge mode of the ERPS ring(None ,Edge,Assistant-edge)"
+    ],
+    [
+     "Ring Mode",
+     "Display the node mode for the ERPS ring(Master,Transit,Vpls)"
+    ],
+    [
+     "Ring Primary Interface",
+     "Display the primary interface of the ERPS ring(enable to select)"
+    ],
+    [
+     "Ring secondary Interface",
+     "Display the secondary interface of the ERPS ring(enable to select)"
+    ],
+    [
+     "Ring Vpls Interface",
+     "Display the VPLS interface for the ERPS ring(enable to select)"
+    ],
+    [
+     "Ring Edge Interface",
+     "Display the edge interface of the ERPS ring"
+    ],
+    [
+     "Ring Common Interface",
+     "Display the common interface of the ERPS ring"
+    ],
+    [
+     "Ring Srpt",
+     "Display the status of ERPS ring SRPT message delivery"
+    ],
+    [
+     "Ring Status",
+     "Display the status of ERPS ring function"
+    ],
+    [
+     "Submit",
+     "Save this configuration"
+    ],
+    [
+     "Back",
+     "Back to ERPS Domain Configuration Edit Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete the ERPS Ring"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Configure->Edit” to entry “ERPS Ring Configuration” Modify page, check ring，then click “Delete”."
+  },
+  {
+   "type": "p",
+   "data": "ERPS Status"
+  },
+  {
+   "type": "p",
+   "data": "Display the ERPS Status Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “ERPS->ERPS Status” to entry “ERPS Status” Information page, click “view”，as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display the ERPS Status Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ERPS Status Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "ERPS Domain",
+     "Display the domain ID information for the ERPS domain"
+    ],
+    [
+     "Statistics",
+     "Display the statistics for the ERPS domain"
+    ],
+    [
+     "View",
+     "View selected domain information"
+    ],
+    [
+     "Clear Statistics",
+     "Clear ERPS Domain Statistics"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Mirror"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describe how to view and configure the mirror."
+  },
+  {
+   "type": "p",
+   "data": "Mirror Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Mirror Configuration Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Mirror->Mirror Configuration” to entry “Mirror Configuration” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Mirror Configuration main page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Mirror Configuration"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Add",
+     "Add mirror"
+    ],
+    [
+     "Delete",
+     "Delete mirror"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of mirror"
+    ],
+    [
+     "Session ID",
+     "Session Indentifier"
+    ],
+    [
+     "Type",
+     "The type of target mirror"
+    ],
+    [
+     "Source Port TX",
+     "Whether the egress of source port copies packet to destination"
+    ],
+    [
+     "Source Port RX",
+     "Whether the ingress of source port copies packet to destination"
+    ],
+    [
+     "Source Port Both",
+     "Whether the both egress and ingress of source port copy packet to destination"
+    ],
+    [
+     "Source VLAN TX",
+     "Whether the egress of source vlan copies packet to destination"
+    ],
+    [
+     "Source VLAN RX",
+     "Whether the ingress of source vlan copies packet to destination"
+    ],
+    [
+     "Source VLAN Both",
+     "Whether the both egress and ingress of source vlan copy packet to destination"
+    ],
+    [
+     "Destination",
+     "The destination mirror port"
+    ],
+    [
+     "Operation",
+     "Manage this session"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add Mirror Port"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Mirror->Mirror Configuration” to entry “Mirror Configuration” main page. Then Click “Add” button to entry “Mirror Session Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add Mirror Port Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Adding Mirror Port"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Session ID",
+     "Session Identifier, most using three at a time"
+    ],
+    [
+     "Source Port",
+     "The Source mirror port"
+    ],
+    [
+     "Direction",
+     "The direction of packets copy to destination mirror port, “rx”、“tx” or “both”"
+    ],
+    [
+     "Source VLAN",
+     "The VLAN of source mirror"
+    ],
+    [
+     "Direction",
+     "The direction of packets copy to destination mirror port, “rx”、“tx” or “both”"
+    ],
+    [
+     "Destination Type",
+     "The type of destination mirror port"
+    ],
+    [
+     "Destination Port",
+     "The destination mirror port(enable to select)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “Mirror Configuration” main page"
+    ],
+    [
+     "Back",
+     "Back to “Mirror Configuration” main page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Mirror Port"
+  },
+  {
+   "type": "p",
+   "data": "Click “Confiugation->Mirror Configuration” to entry “Mirror Configuration” main page. Then select the checkbox you want to delete and click “Delete” button to delete it, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Mirror Port Page"
+  },
+  {
+   "type": "p",
+   "data": "Mirror Session Settings"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Mirror->Mirror Configuration” to entry “Mirror Configuration” main page. Then click the “Edit” button you want to edit to entry “Mirror Session Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Mirror Session Settings Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Mirror Session Settings"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Mirror Session Information bar",
+     "The status of Mirror Session Information"
+    ],
+    [
+     "Mirror Session Settings bar",
+     "Set the status of mirror session"
+    ],
+    [
+     "Back",
+     "Back to “Mirror Configuration” main page"
+    ],
+    [
+     "Add/Apply",
+     "Save the corresponding bar configuration"
+    ],
+    [
+     "Delete",
+     "Delete the corresponding bar configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Global Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Mirror->Global Configuration” to entry “Global Configuration” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Global Configuration Page"
+  },
+  {
+   "type": "p",
+   "data": "On this page, you can configure whether this destination mirror port are allowed to forward service packets."
+  },
+  {
+   "type": "p",
+   "data": "Escape MAC for Remote Mirror"
+  },
+  {
+   "type": "p",
+   "data": "Escape MAC for Remote Mirror Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Mirror->Escape MAC for Remote Mirror” to entry “Escape MAC for Remote Mirror” page, as show in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Escape MAC for Remote Mirror"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Escape MAC for Remote Mirror"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Mac Address",
+     "The Mac Address of the remote mirror filtration, dotted hexadecimal"
+    ],
+    [
+     "Mask",
+     "The Mask of the remote mirror filtration, dotted hexadecimal"
+    ],
+    [
+     "Add",
+     "Add a Escape MAC for Remote Mirror item"
+    ],
+    [
+     "Delete",
+     "Delete a Escape MAC for Remote Mirror item"
+    ],
+    [
+     "Refresh",
+     "Refresh the status of Escape MAC for Remote Mirror items"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add Escape MAC for Remote Mirror Item"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Mirror->Escape MAC for Remote Mirror” to entry “Escape MAC for Remote Mirror” page. Then input “Mac Address” and “Mask” value and click “Add” button to add a item of “Escape MAC for Remote Mirror”."
+  },
+  {
+   "type": "p",
+   "data": "Delete Escape MAC for Remote Mirror Item"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Mirror->Escape MAC for Remote Mirror” to entry “Escape MAC for Remote Mirror” page. Selete the checkbox you want to delete and click “Delete” button to delete it."
+  },
+  {
+   "type": "p",
+   "data": "Multicast"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Multicast” to entry “Multicast” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Multicast Main Page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure multicast."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Multicast Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "IGMP Snooping",
+     "Set the IGMP snooping"
+    ],
+    [
+     "IGMP Snooping Information",
+     "Display the IGMP snooping"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "IGMP Snooping"
+  },
+  {
+   "type": "p",
+   "data": "IGMP Snooping Main Page"
+  },
+  {
+   "type": "p",
+   "data": "The multicast configuration capabilities include IGMP snooping global configuration and IGMP snooping VLAN configuration ."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Multicast Configuration Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "IGMP Snooping Global",
+     "Add IGMP Snooping Global Configuration"
+    ],
+    [
+     "IGMP Snooping Vlan",
+     "Add IGMP Snooping Vlan Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add IGMP Snooping Global Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Multicast->IGMP Snooping” to entry “IGMP Snooping Global” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add IGMP Snooping Global Configuration Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IGMP Snooping Global"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "IGMP Snooping",
+     "Set the IGMP snooping global stats(enable to select)"
+    ],
+    [
+     "Max Member Number",
+     "Set the IGMP snooping global max member number(1-2048,Default 2048)"
+    ],
+    [
+     "TCN Querier Count",
+     "Set the IGMP snooping tcn querier count(1-10,Default 2)"
+    ],
+    [
+     "TCN Querier Interval",
+     "Set the IGMP snooping tcn querier interval(1-255,Default 10)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “IGMP Snooping Information” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add IGMP Snooping Vlan Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Multicast->IGMP Snooping” to entry “IGMP Snooping Vlan” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add IGMP Snooping Vlan Configuration Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IGMP Snooping Vlan"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Vlan Mode",
+     "Set the IGMP snooping VLAN mode(all VLAN or single VLAN )"
+    ],
+    [
+     "Vlan ID",
+     "Set the IGMP snooping VLAN id on single VLAN mode(1-4094)"
+    ],
+    [
+     "IGMP Snooping",
+     "Set the IGMP snooping VLAN stats(Enable or Disable)"
+    ],
+    [
+     "Discard Unkonwn",
+     "Set the IGMP snooping VLAN discard unknown stats(Enable or Disable)"
+    ],
+    [
+     "Report Suppression",
+     "Set the IGMP snooping VLAN report suppression stats(Enable or Disable)"
+    ],
+    [
+     "Fast Leave",
+     "Set the IGMP snooping VLAN fast leave stats(Enable or Disable)"
+    ],
+    [
+     "Version",
+     "Set the IGMP snooping VLAN version(1-3,Default 2)"
+    ],
+    [
+     "Last Member Query Interval",
+     "Set the IGMP snooping VLAN last member query interval(1000-25500,Default1000)"
+    ],
+    [
+     "Querier IP address",
+     "Set the IGMP snooping global querier source-address(Default 0.0.0.0)"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to “IGMP Snooping Information” page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "IGMP Snooping Information"
+  },
+  {
+   "type": "p",
+   "data": "IGMP Snooping Information Main Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Multicast->IGMP Snooping Information” to entry “IGMP Snooping Information” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "IGMP Snooping Information Main Page"
+  },
+  {
+   "type": "p",
+   "data": "The IGMP Snooping information pages include IGMP snooping global configuration information page, IGMP snooping groups information page and IGMP snooping VLAN information page ."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IGMP Snooping information pages"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "IGMP Snooping Global",
+     "Display IGMP Snooping Global Configuration"
+    ],
+    [
+     "IGMP Snooping Vlan",
+     "Display IGMP Snooping Vlan"
+    ],
+    [
+     "IGMP Snooping Groups",
+     "Display IGMP Snooping Groups"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display IGMP Snooping Global"
+  },
+  {
+   "type": "p",
+   "data": "Click “Multicast->IGMP Snooping” to entry “IGMP Snooping Global” information page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display IGMP Snooping Global Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IGMP Snooping Global Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "IGMP Snooping",
+     "Display the IGMP snooping global stats"
+    ],
+    [
+     "Max Member Number",
+     "Display the IGMP snooping global max member number"
+    ],
+    [
+     "TCN Querier Count",
+     "Display the IGMP snooping tcn querier count"
+    ],
+    [
+     "TCN Querier Interval",
+     "Display the IGMP snooping tcn querier interval"
+    ],
+    [
+     "Global Querier source address",
+     "Display the IGMP snooping global source address"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display IGMP Snooping Vlan"
+  },
+  {
+   "type": "p",
+   "data": "Click “Multicast->IGMP Snooping” to entry “IGMP Snooping Vlan” information page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display IGMP Snooping Vlan Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IGMP Snooping Vlan Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Vlan ID",
+     "Display the IGMP snooping VLAN id on single VLAN mode"
+    ],
+    [
+     "IGMP Snooping",
+     "Display the IGMP snooping VLAN stats"
+    ],
+    [
+     "Discard Unkonwn",
+     "Display the IGMP snooping VLAN discard unknown stats"
+    ],
+    [
+     "Report Suppression",
+     "Display the IGMP snooping VLAN report suppression stats"
+    ],
+    [
+     "Fast Leave",
+     "Display the IGMP snooping VLAN fast leave stats"
+    ],
+    [
+     "Version",
+     "Display the IGMP snooping VLAN version"
+    ],
+    [
+     "Querier source address",
+     "Display the IGMP snooping VLAN querier source address"
+    ],
+    [
+     "Querier",
+     "Display the IGMP snooping VLAN querier status"
+    ],
+    [
+     "Last Member Query Interval",
+     "Display the IGMP snooping VLAN last member query interval"
+    ],
+    [
+     "Operate",
+     "Display that IGMP snooping VLAN table entries can be edited"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Click “Edit” to entry “IGMP Snooping Vlan” information edit page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“IGMP Snooping Vlan” information edit page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IGMP Snooping Vlan edit page Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Vlan ID",
+     "Display the IGMP snooping VLAN id on single VLAN mode"
+    ],
+    [
+     "IGMP Snooping",
+     "Display the IGMP snooping VLAN stats(Enable or Disable)"
+    ],
+    [
+     "Discard Unkonwn",
+     "Display the IGMP snooping VLAN discard unknown stats(Enable or Disable)"
+    ],
+    [
+     "Report Suppression",
+     "Display the IGMP snooping VLAN report suppression stats(Enable or Disable)"
+    ],
+    [
+     "Fast Leave",
+     "Display the IGMP snooping VLAN fast leave stats(Enable or Disable)"
+    ],
+    [
+     "Version",
+     "Display the IGMP snooping VLAN version(1-3, Default 2)"
+    ],
+    [
+     "Last Member Query Interval",
+     "Display the IGMP snooping VLAN last member query interval(1000-25500, Default 1000)"
+    ],
+    [
+     "Querier IP address",
+     "Display the IGMP snooping VLAN querier address configured"
+    ],
+    [
+     "Querier",
+     "Display the IGMP snooping VLAN querier status"
+    ],
+    [
+     "Apply",
+     "Save this configuration and back to IGMP Snooping Vlan Information page"
+    ],
+    [
+     "Back",
+     "Back to IGMP Snooping Vlan Information page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Display IGMP Snooping Groups"
+  },
+  {
+   "type": "p",
+   "data": "Click “Multicast->IGMP Snooping” to entry “IGMP Snooping Groups” information page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Display IGMP Snooping Groups Page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IGMP Snooping Groups Information"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "VLAN",
+     "Display the VLAN ID for joining the IGMP snooping group"
+    ],
+    [
+     "Interface",
+     "Display the VLAN member port that have joined the IGMP snooping group"
+    ],
+    [
+     "Group Address",
+     "Displays the IGMP snooping group address"
+    ],
+    [
+     "Expire Time",
+     "Display the expire time for the IGMP snooping group table entry"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Reboot/Save"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Reboot/Save page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Maintenance->Reboot/Save” to entry “Reboot/Save” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“Reboot/Save” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to Reboot/Save if you want to restart the switch or save the current configuration."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Reboot/Save Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Save configuration to startup-config",
+     "Save current configuration to startup-config"
+    ],
+    [
+     "Reboot the switch",
+     "Save current configuration to startup-config before reboot"
+    ],
+    [
+     "Restore factory configuration to startup-config",
+     "Restore switch by using startup-config"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Save configuration to startup-config"
+  },
+  {
+   "type": "p",
+   "data": "Click “Maintenance->Reboot/Save” to entry “Reboot/Save” main page, click “Save”， as shown in ."
+  },
+  {
+   "type": "p",
+   "data": "Save configuration to startup-config"
+  },
+  {
+   "type": "p",
+   "data": "Reboot the switch"
+  },
+  {
+   "type": "p",
+   "data": "Click “Maintenance->Reboot/Save” to entry “Reboot/Save” main page, click “Reboot”， as shown in ."
+  },
+  {
+   "type": "p",
+   "data": "Reboot the switch"
+  },
+  {
+   "type": "p",
+   "data": "Restore factory configuration to startup-config"
+  },
+  {
+   "type": "p",
+   "data": "Click “Maintenance->Reboot/Save” to entry “Reboot/Save” main page, click “Recovery”， as shown in ."
+  },
+  {
+   "type": "p",
+   "data": "Restore factory configuration to startup-config"
+  },
+  {
+   "type": "p",
+   "data": "System Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->System Configuration” to entry “System Configuration” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“System Configuration” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure System Configuration."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about System Configuration Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Base Settings",
+     "Set Base Settings"
+    ],
+    [
+     "Thermal Sensor",
+     "Set Thermal Sensor"
+    ],
+    [
+     "Base Information",
+     "Set Base Information"
+    ],
+    [
+     "Date and Time",
+     "Set Date and Time"
+    ],
+    [
+     "Time Zone Name",
+     "Set Time Zone Name"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Base Settings"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->System Configuration” to entry “System Configuration” Base Settings page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Base Settings"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about System Configuration Base Settings Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Management IP",
+     "Manage switch via this IP"
+    ],
+    [
+     "MASK",
+     "Locate Management IP`s network bits(enable to select)"
+    ],
+    [
+     "Gateway",
+     "Defaults route"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Thermal Sensor"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->System Configuration” to entry “System Configuration” Thermal Sensor page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Thermal Sensor"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about System Configuration Thermal Sensor Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Thermal Sensor",
+     "Set threshold of temperature(default: 5/65/80 , unit: centigrade)"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Base Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->System Configuration” to entry “System Configuration” Base Information page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Base Information"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about System Configuration Base Information Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Device Name",
+     "Switch hostname(1~63 chars)"
+    ],
+    [
+     "Contact",
+     "How to contact this switch in the other words contact is manage IP of this switch or Other information which can visit this switch(1~255 chars)"
+    ],
+    [
+     "Location",
+     "Where the switch is(1~255 chars)"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Date and Time"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->System Configuration” to entry “System Configuration” Date and Time page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Date and Time"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about System Configuration Date and Time Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Date and Time",
+     "Set Date and Time((HH:MM:SS MM/DD/YYYY))"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Time Zone Name"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->System Configuration” to entry “System Configuration” Time Zone Name page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Time Zone Name"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about System Configuration Time Zone Name Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Time Zone Name",
+     "Time zone(3~32 chars)"
+    ],
+    [
+     "Offset",
+     "Offset depends between GMT and Time Zone which your set(enable to select)"
+    ],
+    [
+     "Apply",
+     "Save this configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Load Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Load Configuration” to entry “Load Configuration” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“Load Configuration” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to load System Configuration."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Loading Configuration Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Load",
+     "Load checked configuration"
+    ],
+    [
+     "Refresh",
+     "Refresh Page"
+    ],
+    [
+     "Download",
+     "Download the Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Load"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Load Configuration” to entry “Load Configuration” Load page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Load"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Loading Configuration Load Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Filename",
+     "Display name of configuration file"
+    ],
+    [
+     "Time",
+     "Display last modified time of configuration file"
+    ],
+    [
+     "Size",
+     "Display size of configuration file"
+    ],
+    [
+     "Operation",
+     "Display that the configuration file can be downloaded"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Refresh"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Load Configuration” to entry “Load Configuration” page, then click refresh,as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Refresh"
+  },
+  {
+   "type": "p",
+   "data": "Download"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Load Configuration” to entry “Load Configuration” Download page, then click Download. You can download the configuration file and saved in the disk of PC or in the mobile storage device as the backup file and you can also see the configuration file, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Load"
+  },
+  {
+   "type": "p",
+   "data": "File Management"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "File Management page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->File Management” to entry “File Management” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“File Management” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure file Information."
+  },
+  {
+   "type": "p",
+   "data": "Memory Usage"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->File Management” to entry “File Management” Memory Usage page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Memory Usage"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about File Management Memory Usage Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "flash:",
+     "Flash directory at the root of system"
+    ],
+    [
+     "flash:/boot",
+     "Flash:/boot directory at the root of system"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Upload File"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->File Management” to entry “File Management” Upload File page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Upload File"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about File Management Memory Usage Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Browse file",
+     "Browse local file to upload"
+    ],
+    [
+     "Upload As File",
+     "Upload the chosen files to Switch"
+    ],
+    [
+     "Upload As Image",
+     "Upload the chosen files to Switch as a boot image"
+    ],
+    [
+     "Upload Web Image",
+     "Upload the chosen files to Switch as a web boot image"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Files"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->File Management” to entry “File Management” Delete Files page, click “Delete” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Files"
+  },
+  {
+   "type": "p",
+   "data": "Refresh Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->File Management” to entry “File Management” Refresh page, click “Refresh”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Refresh page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about File Management refresh Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Name",
+     "system filename"
+    ],
+    [
+     "Directory",
+     "location of system files"
+    ],
+    [
+     "Size",
+     "size of system files in bytes"
+    ],
+    [
+     "Usage",
+     "description of system files"
+    ],
+    [
+     "Operation",
+     "operation for the special files , include:Use Image , use this file as the next boot image; Backup Config, save running configuration to this file; Use Config, use this file as the next start up configuration."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Download File"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->File Management” to entry “File Management” Download Files page, click “Download” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Download Files"
+  },
+  {
+   "type": "p",
+   "data": "Log Management"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Log Management” to entry “Log Management” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“Log Management” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view log Information."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about log Management main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Search",
+     "Search log"
+    ],
+    [
+     "Refresh",
+     "Refresh page"
+    ],
+    [
+     "Clear",
+     "Clear all logs"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Search log"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Log Management” to entry “Log Management” search page, select level or module , click “Search”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "search log"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about log Management search Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Level",
+     "Display special log level as condition for search(enable to select)"
+    ],
+    [
+     "Module",
+     "Display special module creating logs as condition for search(enable to select)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Refresh Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Log Management” to entry “Log Management” refresh page, click “Refresh”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "refresh page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about log Management refresh Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Time",
+     "Display the time of log generated"
+    ],
+    [
+     "Module",
+     "Display Name of the module generating the log"
+    ],
+    [
+     "Level",
+     "Display Log information level"
+    ],
+    [
+     "Content",
+     "Display The log content"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Clear log"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Log Management” to entry “Log Management” clear page, click “Clear”, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "clear log"
+  },
+  {
+   "type": "p",
+   "data": "SNMP Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP” to entry “SNMP” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“SNMP” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure SNMP Information. SNMPv1, SNMPv2 uses group name authentication. A group is a basic security mechanism. It is used to implement authentication when an SNMP network administrator accesses the SNMP management agent. SNMP packets with different group names will be discarded. The SNMP group is named by a string and becomes the group name. Different groups can have read-only or read-write access modes. Groups with read-only permissions can only query device information, and groups with read-write permissions can also configure devices."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about SNMP main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Apply",
+     "Set SNMP Basic Configuration"
+    ],
+    [
+     "Add",
+     "Add Basic Community Configuration"
+    ],
+    [
+     "Delete",
+     "Delete SNMP Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Basic Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP” to entry “SNMP” Basic Configuration page, click Apply, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Basic Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about SNMP Basic Configuration Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "SNMP Status",
+     "Set the SNMP status. It is enabled or disabled"
+    ],
+    [
+     "SNMP Version",
+     "Set the enabled SNMP versions. All of them enable or enable Version 1, Version 2, and Version 3"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Community Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP” to entry “SNMP” Community Configuration page, click Add, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Community Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about SNMP Community Configuration Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Community Name",
+     "Set SNMP Group name(Not contain ？| > ” ’ \\ or spacebar， character length is [1-128))"
+    ],
+    [
+     "Access Mode",
+     "Set Group access mode, read-only or read-write"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP” to entry “SNMP” Delete page, click Delete, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Community Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about SNMP Delete Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Community Name",
+     "Set SNMP Group name(Not contain ？ | > ” ’ \\ or spacebar， character length is [1-128))"
+    ],
+    [
+     "Access Mode",
+     "Set Group access mode, read-only or read-write"
+    ],
+    [
+     "Delete",
+     "Delete Community Configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "SNMP Trap Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP Trap” to entry “SNMP Trap” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“SNMP Trap” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure SNMP Trap Information. TRAP is a mechanism that provides asynchronous reporting from the agent process to the management station. In order to enable the management station to monitor the managed equipment in a timely and effective manner without excessively increasing the communication load on the network, trap must be used. The agent process is responsible for reporting an abnormal event to the management station when necessary. After receiving the report of the abnormal event, the management station can inquiry the relevant agent in order to obtain more specific information and further analyze the cause of the event."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about SNMP Trap main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Apply",
+     "SNMP Trap enable"
+    ],
+    [
+     "Create",
+     "Trap server configuration"
+    ],
+    [
+     "Refresh",
+     "Refresh trap configuration"
+    ],
+    [
+     "Delete",
+     "Delete trap configuration"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "SNMP Trap Enable"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP Trap” to entry “SNMP Trap” Enable page, click Apply, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Enable page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about SNMP Trap Enable Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Coldstart Trap",
+     "A coldstart Trap signifies that the switch reboot when power is off"
+    ],
+    [
+     "Linkup Trap",
+     "A Linkup trap signifies that the sending protocol entity recognizes that one of the communication links represented in the agent’s configuration has come up"
+    ],
+    [
+     "System Trap",
+     "A System trap signifies that the protocol has detected a system failure"
+    ],
+    [
+     "Warmstart Trap",
+     "A warmstart Trap signifies that the switch manually reboot"
+    ],
+    [
+     "Linkdown Trap",
+     "A Linkdown trap signifies that the sending protocol entity recognizes a failure in one of the communication links represented in the agent’s configuration"
+    ],
+    [
+     "Loopback-detect Trap",
+     "A Loopback-detect traps indicate that the protocol has identified loops in the link"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Trap server configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP Trap” to entry “SNMP Trap” Trap server configuration page, click Create, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "snmp_target"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about SNMP Trap target address Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Target Address",
+     "Destination server address, IPv4 format or IPv6 format(IPv4 or IPv6 Address)"
+    ],
+    [
+     "Community Name",
+     "SNMP community name(Not contain ？ | > ” ’ \\ or spacebar， character length is [1-128))"
+    ],
+    [
+     "UDP Port",
+     "Target server corresponding UDP port number(0~65535, Default 162)"
+    ],
+    [
+     "VRF ID",
+     "Mgmt-if means forwarding through the management port,default vrf means forwarding through the in-band port"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Refresh trap configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP Trap” to entry “SNMP Trap” Refresh configuration page, click refresh, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Refresh configuration"
+  },
+  {
+   "type": "p",
+   "data": "Delete trap configuration"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->SNMP Trap” to entry “SNMP Trap” Delete configuration page, click Delete, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete configuration"
+  },
+  {
+   "type": "p",
+   "data": "Worm Intercept"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Worm Intercept” to entry “Worm Intercept” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“Worm Intercept” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure Worm Intercept Information."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Worm Intercept main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "New",
+     "Add Worm Intercept Rule"
+    ],
+    [
+     "Delete",
+     "Delete Worm Intercept Rule"
+    ],
+    [
+     "Clear Statistics",
+     "Clear the Defense Attack Packet Statistics"
+    ],
+    [
+     "Refresh",
+     "Refresh Page"
+    ],
+    [
+     "Operation",
+     "Edit"
+    ],
+    [
+     "Status",
+     "Enable Selected Rule"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add Worm Intercept Rule"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Worm Intercept” , then click new to entry “Worm Intercept” Rule Configuration page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Rule Configuration"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Worm Intercept Rule Configuration Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Name",
+     "Display worm attack protection rule name(Start with a letter,can only contain[0-9a-zA-Z.-_],character length is 1-20)"
+    ],
+    [
+     "Protocol",
+     "Protect this type of protocol message(enable to select)"
+    ],
+    [
+     "Destination Port",
+     "Display destination port of worm attack message(1-65535)"
+    ],
+    [
+     "Enable",
+     "Whether the protection rule is enabled"
+    ],
+    [
+     "Apply",
+     "Save configuration"
+    ],
+    [
+     "Back",
+     "Back to worm intercept page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Worm Intercept Rule"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Worm Intercept” , check information, then click delete to entry “Worm Intercept” Delete page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Worm Intercept Rule"
+  },
+  {
+   "type": "p",
+   "data": "Clear Statistics"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Worm Intercept” , check information, then click clear statistics to entry “Worm Intercept” Clear statistics page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Clear Statistics"
+  },
+  {
+   "type": "p",
+   "data": "Refresh Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Worm Intercept” , click refresh to entry “Worm Intercept” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Refresh Page"
+  },
+  {
+   "type": "p",
+   "data": "Edit Rules"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Worm Intercept” , then click edit to entry “Worm Intercept” Rule Configuration Edit page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Edit Rules"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Worm Intercept Rule Configuration Edit Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Name",
+     "Set worm attack protection rule name(Start with a letter,can only contain[0-9a-zA-Z.-_],character length is 1-20)"
+    ],
+    [
+     "Protocol",
+     "Display the type of protocol message(enable to select)"
+    ],
+    [
+     "Destination Port",
+     "Display destination port of worm attack message(1-65535)"
+    ],
+    [
+     "Enable",
+     "Whether the protection rule is enabled"
+    ],
+    [
+     "Apply",
+     "Save configuration"
+    ],
+    [
+     "Back",
+     "Back to worm intercept page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Enable Rules"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Worm Intercept” , click selected rule‘s status to entry “Worm Intercept” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Enable Rules"
+  },
+  {
+   "type": "p",
+   "data": "DDos Intercept"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->DDoS Intercept” to entry “DDoS Intercept” main page, check Intercept , set vlaue , then click “Apply” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "DDoS Intercept"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure DDoS Intercept Information. A DDoS (distributed denial of service attack) refers to multiple attackers in different locations launching attacks on one or several targets simultaneously, or an attacker controls multiple machines in different locations , and use these machines to attack the victims at the same time. Because the attack points are distributed in different places, this type of attack is called a distributed denial of service attack.In order to prevent DDoS attacks, you can set DDoS interception. DDoS interception settings can limit DDoS attacks according to different types of attacks."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about DDos Intercept main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "ICMP Flood Intercept",
+     "This interception is used to defend against ICMP attacks.(0-1000)/pps"
+    ],
+    [
+     "UDP Flood Intercept",
+     "This interception is used to defend against UDP attacks.(0-1000)/pps"
+    ],
+    [
+     "SYN Flood Intercept",
+     "This interception is used to defend against SYN attacks.(0-1000)/pps"
+    ],
+    [
+     "Small-packet Attack Intercept",
+     "This interception is used to defend against Small-packet attacks.(28-65535)/bytes"
+    ],
+    [
+     "Smurf Attack Intercept",
+     "This interception is used to defend against Smurf attacks."
+    ],
+    [
+     "Fraggle Attack Intercept",
+     "This interception is used to defend against Fraggle attacks."
+    ],
+    [
+     "MAC Equal Intercept",
+     "This interception is used to defend against MAC Equal attacks."
+    ],
+    [
+     "IP Equal Intercept",
+     "This interception is used to defend against IP Equal attacks."
+    ],
+    [
+     "Apply",
+     "Save the configuration , and refresh the page."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "ARP Intercept"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->ARP Intercept” to entry “ARP Intercept” main page, check Intercept , set vlaue , then click “Apply” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "ARP Intercept"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure ARP Intercept Information."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about ARP Intercept main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Arp Intercept",
+     "Set Arp Intercept , (0-1000000; if the value is set to 0, no dynamic ARP entry will be learnt again . )"
+    ],
+    [
+     "pps",
+     "Packets per second"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Currently Sessions"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Currently Sessions” to entry “Currently Sessions” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Currently Sessions"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure currently sessions Information."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about currently sessions main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Delete",
+     "Delete Session"
+    ],
+    [
+     "Refresh",
+     "Refresh Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete Sessions"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Currently Sessions” to entry “Currently Sessions” main page, check session ， then click Delete , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete Sessions"
+  },
+  {
+   "type": "p",
+   "data": "Refresh page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->Currently Sessions” to entry “Currently Sessions” main page, click refresh ， as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Refresh page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about currently sessions refresh Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "User Name",
+     "Display user name"
+    ],
+    [
+     "Session ID",
+     "Display session id"
+    ],
+    [
+     "Expire Time",
+     "Display the expire time"
+    ],
+    [
+     "Client IP",
+     "Display client IP address"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "User Management"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->User Management” to entry “User Management” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“User Management” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure User Information."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about User Management Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Add",
+     "Add User"
+    ],
+    [
+     "Delete",
+     "Delete User"
+    ],
+    [
+     "Refresh",
+     "Refresh Page"
+    ],
+    [
+     "Edit",
+     "Edit User"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Add User"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->User Management” , then click “Add”, to entry “User Management” Add/Modify User page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Add/Modify User page"
+  },
+  {
+   "type": "p",
+   "data": "User Privilege :"
+  },
+  {
+   "type": "p",
+   "data": "(1)User Privilege Level 1: You can execute commands for functions such as network diagnostics. Including commands such as ping, tracert, and telnet. The results of executing commands at this level cannot be saved to the configuration file."
+  },
+  {
+   "type": "p",
+   "data": "(2)User Privilege Level 2: It can execute commands for system maintenance, business fault diagnosis, and other functions. Including commands such as debugging and terminal. The results of executing commands at this level cannot be saved to the configuration file."
+  },
+  {
+   "type": "p",
+   "data": "(3)User Privilege Level 3: It can execute commands for service configuration, including network-level commands such as routing, to provide network services to users."
+  },
+  {
+   "type": "p",
+   "data": "(4)User Privilege Level 4: At the highest level, you can run all commands: commands related to the basic operation of the system and functions of the system support module. These commands provide support to the business. Including file system, FTP, TFTP, XModem download, user management commands, level setting commands, etc."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about User Management Add Modify user Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "User Name",
+     "Set user name(Start with a letter, can only contain[0-9a-zA-Z.-_],character length is [1,32))"
+    ],
+    [
+     "Password",
+     "user’s password"
+    ],
+    [
+     "Confirm Password",
+     "input Password again"
+    ],
+    [
+     "Privilege",
+     "Privilege of User(1-4)"
+    ],
+    [
+     "Apply",
+     "Save the configuration"
+    ],
+    [
+     "Back",
+     "Back to User Management Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete User"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->User Management”, then click “Delete”, to entry “User Management” Delete User page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete User"
+  },
+  {
+   "type": "p",
+   "data": "Refresh Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->User Management” to entry “User Management” page, click refresh, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "refresh"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about User Management Add Refresh user Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "User Name",
+     "Display user name(Start with a letter, can only contain[0-9a-zA-Z.-_], character length is [1,32))"
+    ],
+    [
+     "Privilege",
+     "Display Privilege of User(1-4)"
+    ],
+    [
+     "Password",
+     "Display user’s password"
+    ],
+    [
+     "Operation",
+     "Edit"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Edit User"
+  },
+  {
+   "type": "p",
+   "data": "Click “Configuration->User Management->Add” to entry “User Management” Modify User page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Modify User page"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about User Management Add Modify user Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "User Name",
+     "Display user name(Start with a letter, can only contain[0-9a-zA-Z.-_],character length is [1,32))"
+    ],
+    [
+     "Password",
+     "user’s password"
+    ],
+    [
+     "Confirm Password",
+     "input Password again"
+    ],
+    [
+     "Privilege",
+     "Privilege of User(1-4)"
+    ],
+    [
+     "Apply",
+     "Save the configuration"
+    ],
+    [
+     "Back",
+     "Back to User Management Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "IP Routing"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->IP Routing” to entry “IP Routing” main page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "“IP Routing” main page"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to view and configure IP Static Routing."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IP Routing Main Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "IPv4 Routing Table Information",
+     "Display routing table information"
+    ],
+    [
+     "IPv4 Static Route Information",
+     "Display static routing information"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "IPv4 Routing Table Information"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->IP Routing->IPv4 Routing Table Information” to entry “IPv4 Routing Table Information” page,check protocol type, click “Query” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "IPv4 Routing Table Query"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about IPv4 Routing Table Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Protocol",
+     "Check a protocol(ALL BGP Direct OSPF RIP Static)"
+    ],
+    [
+     "Destination",
+     "Display destination IP address of the route"
+    ],
+    [
+     "Mask",
+     "Display IP address mask of the Destination"
+    ],
+    [
+     "Protocol",
+     "Display the kind of route"
+    ],
+    [
+     "Nexthop",
+     "Display nexthop of the route"
+    ],
+    [
+     "Outgoing Interface",
+     "Display outgoing interface of the route"
+    ],
+    [
+     "Query",
+     "Query route table entry by the protocol types"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "IPv4 Static Route Information"
+  },
+  {
+   "type": "p",
+   "data": "New IP Static Route"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->IP Routing->IPv4 Static Route Information” to entry “IPv4 Static Route Information” page, click “New” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "New IP Static Route"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about New IPv4 Routing Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Destination",
+     "Set destination IP address of the route(0.0.0.0)"
+    ],
+    [
+     "Mask",
+     "SetIP address mask of the Destination(enable to select)"
+    ],
+    [
+     "Nexthop",
+     "Set nexthop of the route"
+    ],
+    [
+     "Distance",
+     "Set route’s distance(1~255, default 1)"
+    ],
+    [
+     "Apply",
+     "Save Configuration"
+    ],
+    [
+     "Back",
+     "Back to IPv4 Static route Information Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Delete IP Static Route"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->IP Routing->IPv4 Static Route Information” to entry “IPv4 Static Route Information” page, check route entry ，click “Delete” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Delete IP Static Route"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about delete IPv4 Routing Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Destination",
+     "Display destination IP address of the route"
+    ],
+    [
+     "Mask",
+     "Display IP address mask of the Destination"
+    ],
+    [
+     "Nexthop",
+     "Display nexthop of the route"
+    ],
+    [
+     "Distance",
+     "Display route’s distance"
+    ],
+    [
+     "Operation",
+     "Edit"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Modify IP Static Route"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->IP Routing->IPv4 Static Route Information” to entry “IPv4 Static Route Information” page, check route entry ，click “Edit” , as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Modify IP Static Route"
+  },
+  {
+   "type": "p",
+   "data": "Parameter description, as shown in table below."
+  },
+  {
+   "type": "p",
+   "data": "Parameter description about Edit IPv4 Routing Page"
+  },
+  {
+   "type": "table",
+   "data": [
+    [
+     "Parameter",
+     "Description"
+    ],
+    [
+     "Destination",
+     "Display destination IP address of the route(0.0.0.0)"
+    ],
+    [
+     "Mask",
+     "Display IP address mask of the Destination"
+    ],
+    [
+     "Nexthop",
+     "Set nexthop of the route"
+    ],
+    [
+     "Distance",
+     "Set route’s distance(1~255, default 1)"
+    ],
+    [
+     "Apply",
+     "Save Configuration"
+    ],
+    [
+     "Back",
+     "Back to IPv4 Static route Information Page"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "data": "Ping"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describe how to use ping."
+  },
+  {
+   "type": "p",
+   "data": "Users can take advantage of these features to diagnose and detect network and analyze error information."
+  },
+  {
+   "type": "p",
+   "data": "Using Ping"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->ping” to entry “Ping Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Ping Page"
+  },
+  {
+   "type": "p",
+   "data": "Choose VRF ID(mgmt vrf or default vrf) and input destination IP, then click “Ping” button to use it, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Ping Use Page"
+  },
+  {
+   "type": "p",
+   "data": "Traceroute"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describe how to use traceroute."
+  },
+  {
+   "type": "p",
+   "data": "Tracert is a utility program used to confirm the route that IP packet will take to access the target. Tracert determines the route from a host to another host in the network by sending ICMP error packets with time-to-live (TTL) values."
+  },
+  {
+   "type": "p",
+   "data": "Using Traceroute"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->Traceroute” to entry “Traceroute Route Settings” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Traceroute Page"
+  },
+  {
+   "type": "p",
+   "data": "Choose VRF ID(mgmt vrf or default vrf) and input destination IP, then click “Traceroute” button to use it, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Traceroute Use Page"
+  },
+  {
+   "type": "p",
+   "data": "Virtual Cable Test"
+  },
+  {
+   "type": "p",
+   "data": "Overview"
+  },
+  {
+   "type": "p",
+   "data": "This chapter describes how to use virtual cable test tool to detect the status of cable."
+  },
+  {
+   "type": "p",
+   "data": "Entry Virtual Cable Test Page"
+  },
+  {
+   "type": "p",
+   "data": "Click “Network->Virtual Cable Test” to entry “Virtual Cable Test” page, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Virtual Cable Test Page"
+  },
+  {
+   "type": "p",
+   "data": "Virtual Cable Test"
+  },
+  {
+   "type": "p",
+   "data": "On “Virtual Cable Test” page, select the “Target Interface” you want to detect, then click “Test” and wait result for seconds, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Virtual Cable Test"
+  },
+  {
+   "type": "p",
+   "data": "Only electrical port which status “up” can support VCT, as shown in figure below."
+  },
+  {
+   "type": "p",
+   "data": "Virtual Cable Test"
+  }
+ ]
+}

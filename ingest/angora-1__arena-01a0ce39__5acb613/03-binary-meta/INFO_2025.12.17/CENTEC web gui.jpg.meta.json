@@ -1,0 +1,30 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "INFO_2025.12.17/CENTEC web gui.jpg",
+  "bytes": 548089,
+  "sha256": "7a0ad65a72780e59197edc1397f2eb221c66d0475a50563e85b11b794e3368b5",
+  "seq": 293,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:INFO_2025.12.17/CENTEC web gui.jpg)",
+  "image": {
+    "format": "JPEG",
+    "width": 2048,
+    "height": 1150,
+    "mode": "RGB",
+    "frames": 1,
+    "exif": {
+      "296": "2",
+      "34665": "164",
+      "305": "Adobe Photoshop CS6 (Windows)",
+      "274": "1",
+      "306": "2024:11:20 21:13:50",
+      "282": "96.012",
+      "283": "96.012"
+    },
+    "dpi": [
+      "96.012",
+      "96.012"
+    ]
+  }
+}

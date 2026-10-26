@@ -1,0 +1,186 @@
+{
+ "source": "Reply on SAGA Enterprise L3 Recommendation Report.docx",
+ "chars": 2672,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "Reply on “SAGA Enterprise L3 Recommendation Report”"
+  },
+  {
+   "type": "p",
+   "data": "Date: 2026.08.17"
+  },
+  {
+   "type": "p",
+   "data": "Background"
+  },
+  {
+   "type": "p",
+   "data": "1 After previous discussions, our Marvell solutions have fully shifted from AC3 series to AC5 series"
+  },
+  {
+   "type": "p",
+   "data": "Saga will NOT update AC3 firmware and related R&D, and will only do technical supportive work for this series"
+  },
+  {
+   "type": "p",
+   "data": "lite-hotfix-7.3.13 is the last version which I shared and believed that you have integrated it to your NMS system"
+  },
+  {
+   "type": "p",
+   "data": "1 Our work is now and will be centered on AC5 series, covering R&D, marketing and stock etc."
+  },
+  {
+   "type": "p",
+   "data": "This will be long-term chip category and guarantee continuous supply"
+  },
+  {
+   "type": "p",
+   "data": "The period is for at least 5 years"
+  },
+  {
+   "type": "p",
+   "data": "2.1 Currently our technical resources are poured into L2+ switching solutions, including commercial and industrial level models."
+  },
+  {
+   "type": "p",
+   "data": "As seen in the feature list: Saga Feature List_7.5.x_L2+, there are some new updates"
+  },
+  {
+   "type": "p",
+   "data": "However quite few in Saga Feature List_7.5.x_L3"
+  },
+  {
+   "type": "p",
+   "data": "Our positioning is clearly on Marvell L2+ solutions now and will keep investing to enrich the feature set"
+  },
+  {
+   "type": "p",
+   "data": "In other words, we basically adopt  a “let it be” attitude for most L3 models due to ROI, demand and after-sales support effort"
+  },
+  {
+   "type": "p",
+   "data": "2.2 So based on 2.1, let us have a quick review of the requested features"
+  },
+  {
+   "type": "p",
+   "data": "Stacking"
+  },
+  {
+   "type": "p",
+   "data": "USB Port"
+  },
+  {
+   "type": "p",
+   "data": "OOB Management"
+  },
+  {
+   "type": "p",
+   "data": "Dual PSU"
+  },
+  {
+   "type": "p",
+   "data": "Static routing"
+  },
+  {
+   "type": "p",
+   "data": "OSPF"
+  },
+  {
+   "type": "p",
+   "data": "VRRP"
+  },
+  {
+   "type": "p",
+   "data": "ECMP"
+  },
+  {
+   "type": "p",
+   "data": "BGP"
+  },
+  {
+   "type": "p",
+   "data": "IS-IS"
+  },
+  {
+   "type": "p",
+   "data": "VRF"
+  },
+  {
+   "type": "p",
+   "data": "MPLS"
+  },
+  {
+   "type": "p",
+   "data": "Some features are already available on L3 models, but mostly unavailable"
+  },
+  {
+   "type": "p",
+   "data": "It takes too much to develop those features, we are not seeing a decent economic return based on our client pool though we clearly know Enterprise-Grade Layer 3 products are booming in demand"
+  },
+  {
+   "type": "p",
+   "data": "2.3 In the last 6 months, we are suffering the soaring prices of RAM/DDR and PCB boards"
+  },
+  {
+   "type": "p",
+   "data": "This trend is spreading and impacting our operating cash inflows"
+  },
+  {
+   "type": "p",
+   "data": "It is more practical for us to make some progress on exiting L2+ switching features and client base"
+  },
+  {
+   "type": "p",
+   "data": "Counter-Solution"
+  },
+  {
+   "type": "p",
+   "data": "1 A quick test and promotion about our AC5 ready models"
+  },
+  {
+   "type": "p",
+   "data": "This will help understand new features and adjust marketing direction"
+  },
+  {
+   "type": "p",
+   "data": "2 Review our updated L3 feature list and collect feedback from your client sides"
+  },
+  {
+   "type": "p",
+   "data": "Though we know those features mentioned above are almost all in need"
+  },
+  {
+   "type": "p",
+   "data": "We are also collecting new feedback from our client pool and put the necessary features on the list"
+  },
+  {
+   "type": "p",
+   "data": "3 Evaluate if CENTEC solution is acceptable: all features above are readily available"
+  },
+  {
+   "type": "p",
+   "data": "This might be a big move in your product and marketing planning"
+  },
+  {
+   "type": "p",
+   "data": "Till now, Saga has already fixed its chipset solutions on Marvell L2+ and CENTEC L3, this is a strategic move"
+  },
+  {
+   "type": "p",
+   "data": "At Angora side, it is vital to view this chipset combo, if this contrasts with your current or planned business line"
+  },
+  {
+   "type": "p",
+   "data": "Once benchmarked, it will be a long journey"
+  },
+  {
+   "type": "p",
+   "data": "Or preferably just keep CENTEC L3 as an option or for project use"
+  },
+  {
+   "type": "p",
+   "data": "Our roadmap"
+  }
+ ]
+}

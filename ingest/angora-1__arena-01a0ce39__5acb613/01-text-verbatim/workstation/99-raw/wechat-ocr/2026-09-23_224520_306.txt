@@ -1,0 +1,512 @@
+# SOURCE: Weixin Image_2026-09-23_224520_306.png
+# SIZE: 1544x23522  SLICES: 23
+############################################################
+Levent KILIC
+2025-7-11 15:16
+Hi Simon, a busy week here with customer negotiations
+We are almost done with the contract.
+We will probably come with an order of 800 pcs. We will need initial 10 pcs shipped immediately though
+Can you please let me know if the inventory is available
+And can you please share a delivery estimationfor the remaining 790pcs
+Hi, Levent.
+Thanks for your info
+Thats great news indeed.
+1, OK for immediate shipment of 10pcs
+2, Stock, do you mean 800pcs?
+As I mentioned last time, we are kinda short of PCBs
+expected delivery period: 6 weeks
+Any leadtime expectation?
+2025-7-11 15:21
+Yep, we need to deliver in 8 weeks following the order. This gives you 6 weeks to manufacture since we
+need to plan2 weeksfir delivery. Including contingencies
+Again it will be air transportation
+Got it, not a big problem
+2025-7-11 15:25
+questions
+1, so it is now finalized or we still need to wait a few more days?
+2025-7-11 15:25
+questions
+1, so it is now finalized or we still need to wait a few more days?
+2, do we now prepare the 10pcs?
+3, any accessories? the power supply or something?
+4, whats your plan for payment?
+deposit, the reimbursement etc,
+2025-7-11 15:34
+Thanks,
+Please prepare for 10 pcs. We plan to transfer its payment early next week. You can ship them as soon as
+you receive payment.
+No accessories but 1G-LX should be included in the switch when shipping
+The payment plan for big order will probably be %50 at order and 50% before shipment
+Thenwewill invoiceyou for the extrapart aswediscussed
+Wewillalsoplanforsomeotherorderforourselves
+thanks for your info
+more questions
+1, it will be EXACTLY the same as last order?(AC5 based, 6 units, without serial port)
+2, to confirm, without power supply but with 1G-LX modules?
+2.1: what about packing box?
+2.2: each device will equip 2pcs optical modules?
+2.3: optical module with your logo/model name or neutral?
+About the payment, its OK to do 50%/50%
+2025-7-11 15:44
+Yes it will be same as the last order AC5 chips.
+About
+2025-7-11 15:44
+Yes it will be same as the last order AC5 chips.
+No power supply, Turk Telekom branded 1 piece 1G-LX module for each switch
+Thanks for your support in payment
+our standard packing box? without your logo?
+maybe standard box for 10 units, for the remaining, we can discuss
+2025-7-11 16:07
+Yep standard box for 10 units
+Angora is kind of the secret manufacturer here. So we do not use Angora brand in this project
+got it, let me prepare an invoice for 10 units now
+pls confirm more details there and let us know
+2025-7-11 16:20
+Sure. Thanks
+2025-7-11 20:59
+Hi Simon, many thanks for your email. Let' s touch nbase on Monday
+Ok, thanks
+as I mentioned, the shipping for bulk order might be a concern
+FYI, we currently get 1G-LX for $5/piece
+We can discuss later. Just FYI
+FYl, we currently get 1G-LX for $5/piece
+We can discuss later. Just FYI
+Shipping is a challenge. We will discuss that
+got it. we do not manufacture optical modules actually, its from our supplier
+but I will check what we can do
+Levent KILIC: FYl, we currently get 1G-LX for $5/
+piece We can discuss later.Just FYI
+yes, we should. the shipping cost increases a lot
+Levent KILIC: Shipping is a challenge. We will
+discuss that
+2025-7-11 22:13
+For the sake of convenience, we can transfer you the payment and you can pay our manufacturer. They can
+ship it directly to you inside China
+2025-7-11 22:20
+it means, you will get the optical modules from your previous supplier?
+If that' s easier for you. It' s a supplier we work, and we are happy with the quality
+its OK
+just one thing, for the stability & compability, pls do more testings
+we will also test it in this small order(10 units)
+2025-7-11 22:30
+Sure  we will make a lot of testing
+Wecanalsohavesome
+2025-7-11 22:30
+Sure  we will make a lot of testing
+We can also have some units sent to you as well. For testing
+2025-7-11 22:32
+Yes, let' s both do some testings
+If it' s good, we can always use the optical modules
+It will be a simple pattern
+Sure.
+i will check with our SFP contact as soon as possible
+Ok,  thanks
+2025-7-11 22:43
+I sent them an email. Will keep you posted
+ok, thanks
+2025-7-14 17:27
+Hi Slmon, hope you are doing well today. I have just sent an email introdcuing you to our SFP module
+manufacturer.
+can you pls share your address for sample units so Karen can send you samples
+Hi, Levent.
+got your email, reading it now
+so its 900pcs directly?
+got your email, reading it now
+so its 900pcs directly?
+not 10pcs for this small order?
+2025-7-14 17:36
+we are working on it. We will eventually get 900 but 10 pieces is still in discussion
+Is Cisco compatibility is okay for you ?
+yes
+Levent KILlC: Is Cisco compatibility is okay for
+you?
+best to send 10 units first, we will do some testings here
+okay I will ask Karen
+Ok
+2025-7-14 17:46
+We will probably pay for extra units, but thats okay
+2025-7-14 18:05
+OK
+Still, its best that if we test some pieces
+2025-7-14 18:11
+Yes, sure. Karen is preparing samples. Can you pls share your address so she can send them directly to you
+ok, thanks, I will share it on email
+Yes,sure.Karen is preparing samples.Can you pls share your address so she can send them directly to you
+ok, thanks, I will share it on email
+2025-7-15 17:08
+Hi, Levenl,
+Got your email
+1, So you will be using regular optical modules?
+2, Any news about the 10pcs switch order?
+2025-7-15 17:15
+Hi Simon,
+For production we plan regular units. Yes.
+Today is a national day today.Yesterday we did not finalise discussions with customers
+WewillknowtomorroworThursday
+For the completion of the project, we should get the big order
+ok, thanks
+2025-7-15 17:17
+for the testing, maybe some regular ones and some industrial ones?
+we will test both
+2025-7-15 19:03
+Sure.
+please can you write in the email. Karen should be able to send a few regular units too
+2025-7-15 19:03
+Sure.
+please can you write in the email. Karen should be able to send a few regular units too
+2025-7-15 19:16
+sent, thanks
+2025-7-15 19:27
+Thsnks
+2025-7-15 19:55
+Hi Simon 2 quick questions:
+1- do you have a 16-Port PoE+ 2.5G and 2 x 10G SFP+ model ?
+2- PoE+ injector as an accessory?
+Hi, Levent
+This is question for the online business in Europe
+no. one Canada client asks for this model before.. not available
+Levent KILIC: Hi Simon 2 quick questions: 1- do
+you have a 16-Port PoE+ 2.5G and 2 x 10G SFP+
+but let me check what we can do
+Im working on it. It looks like we can do things in our UK office in Amazon UK
+yes, but it is not manufactured by us, let me send a photo
+Levent KILiC: 2- PoE+ injector as an accessory?
+both are industrial grade, right?
+Levent KILiC: 2- PoE+ injector as an accessory?
+both are industrial grade, right?
+No meed for industrial grwde. Commercial grade is just fine
+both are commercial grade?
+Yes
+Ok.
+tomorrow I will check and let u know
+pinned your message
+2025-7-15 20:16
+Thank you
+thanks
+2025-7-16 11:17
+Good morning, Levent
+1, About commercial PoE Switch, I got this for you
+price: 275usd/pc
+please check this datasheet
+2, About PoE+ injector
+Yes
+7usd/pc
+1*AC input+1*Gigabit RJ45/PoE output+1*Gigabit RJ45 input
+please check this datasheet
+2, About PoE+ injector
+Yes
+7usd/pc
+1*AC input+1*Gigabit RJ45/PoE output+1*Gigabit RJ45 input
+DC52V output, 30W output, 12+/36- PoE wiring
+-20 to+50°C, plastic case, support wall mounting
+Datasheet.pptx
+1.7M Not Downloaded
+P
+微信电脑版
+thanks
+2025-7-16 12:40
+Hi Simon, many thanks for the update
+The products good great
+I will confirm with Taylanfor the switch
+2025-7-16 12:53
+Ok, thanks
+2025-7-21 15:15
+Hi, Levent,
+I hope you had a good weekend.
+1, we got the optical moduels from Karen
+Hi, Levent,
+I hope you had a good weekend.
+1, we got the optical moduels from Karen
+but its 10pcs industrial grade ones.
+maybe you can advise Karen to send some commercial grade ones as well?
+2, any news about the TT big project?
+at least the 10pcs order?
+3, any feedback about our new proposal on email?
+its about one month since I shared it
+Thank you
+Hi Simon, I travelled for 2 weeks in the past month. So I slowed down a little bit. I will focus on item 2 this week.
+I will check with Karen today about commercial grade modules.
+I understand you already started testing with industrial modukes
+2025-7-21 15:20
+I am literally praying for the order for the big project this week. We have also put all our effort into this project.
+ok, thanks.
+1, please check with Karen and let me know
+2, testing not started yet.
+We just got it today, soon
+3, about the TT big project, I understand this takes time, progress is slow
+Lets wait and make it good
+ner
+We just got it today, soon
+3, about the TT big project, I understand this takes time, progress is slow
+Lets wait and make it good
+4, perhaps we can lock the order for 10pcs?
+This is actually important for the optical module testing
+Its kinda busy here, it would be much easier to proceed if this order is placed
+5, please let me know your feedback about the new proposals.
+2025-7-21 15:42
+Understand... Will keep you posted on the progress today.
+ok, thanks
+2025-7-21 19:46
+Hi Simon, Karen will send you another four pieces unit as soon as possible
+ok
+2025-7-23 13:59
+Hi Simon, our contract is with the customer legal department waiting final approval
+Hoping to finish this week
+Please note Karen has sent you 4 pcs of regular SFP units fir testing
+Hi, Levent.
+Thanks for your info.
+is it about 800pcs?
+OK
+Levent KILiC: Please note Karen has sent you 4 pcs
+of regular SFP units fir testing
+OK
+Levent KILiC: Please note Karen has sent you 4 pcs
+of regular SFP units fir testing
+2025-7-23 14:09
+Yes 800 pcs
+OK, thanks.
+I will talk with manufacturing dept.
+2025-7-23 15:04
+Great thanks
+thanks
+any update about the new proposals?
+You mean online business ???
+I have a draft document to share if interested
+well, i shared a file before, its more than online business
+Levent KILiC: You mean online business ???
+pls share
+Levent KILiC: I have a draft document to share if
+interested
+2025-7-23 16:16
+yes sure. I am in a meeting now. I will asap
+thanks
+yes sure. I am in a meeting now. I will asap
+thanks
+Connexite-Amazon-Biz-
+Plan-DRAFT.pdf
+PDF
+384.1K Not Downloaded
+2025-7-23 16:20
+Here is the first draft
+reading now, thanks
+Pls note it is draft, but the main idea is there...
+2025-7-23 16:36
+Hi, Levent.
+Thanks for your info
+Roughly went through it
+1, i will check what we can do about prices
+then maybe you have a better change to win more orders & profits
+2, will this involve some customizations(like PVC label)?
+3, I noticed that Ads may cost TOO MUCH?
+Personally as a salesperson, kinda worrying about this
+It would probably eat too much of your profit
+https://networkmarket.online/switch
+Personally I still like this...
+Small investment, big return
+I will check what we can do here
+2025-7-23 17:08
+I will check what we can do here
+2025-7-23 17:08
+Okay
+Yes digital marketing is the main cost here.
+Maybe we can start small inTurkey with a limited budget
+yes
+thats why I wondered you closed https://networkmarket.online/switch
+it does not cost much, product info has been uploaded
+just leave it there
+2025-7-23 17:13
+understand. Let me think on this
+ok, thanks
+2025-7-23 17:19
+2025-7-23 20:51
+Hi, Levent,
+Would like to know something more about https://networkmarket.online/switch
+We have an interesting idea to share after we have answers for below questions
+1, how is this website built?
+rent it from a local company?
+its like open an Amazon store, the platform will be Amazon
+We have an interesting idea to share after we have answers for below questions
+1, how is this website built?
+rent it from a local company?
+its like open an Amazon store, the platform will be Amazon
+2, what is its yearly cost?
+like Amazon stores, it got a fixed monthly/yearly rate.
+3, as I remember, there were TronX info on the models
+at the same time, you got
+https://tronx.com.tr/
+so this is an individual brand?
+I mean what is its position?
+You are building this brand(TronX) like Angora Networks
+or just use it as a tool for import & promotion?
+Thanks
+Hi Slmon,
+Here are the details
+1- NetworkMarket.online is a e-commerce platform. It is our own shop. We have linked it to a software POS
+with our bank so people can shop online with their credit cards, even make installments. The license for the
+application is around $1,oo0 per year. We have to add web site costs (virtual server etc). Give or take
+around $2,oo0 per year cost. But it is our own shop and we can customize all content, offer promotions etc.
+2025-7-23 20:58
+3- TronX is a brand we have created together with a partner for his sales only. He has his own channel. We
+are more like backoffice for him. We manufacture, give him tech support etc
+1- does not inlcide bank POS bank comissions
+2025-7-23 21:04
+got it, thanks
+1, we are good about TronX, thats all
+2, its actually about the website NetworkMarket.online
+Its yearly cost is higher than we thought(2000usd/year)
+The reason for this is
+1, we are good about TronX, thats all
+2, its actually about the website NetworkMarket.online
+Its yearly cost is higher than we thought(2000usd/year)
+The reason for this is
+Previously we thought it would be good to keep this website for promotion
+Idea is,
+you can take care of legal issues and relevant paperwork etc.
+then we can jointly run this website(bear the cost together)
+1, upload our models for display
+2, handle the enquires if any
+Then
+1, You may have potential clients & product enquires coming in
+2, We have an overseas online store to promote our models(it could be under your names)
+It will end up with new clients & orders
+Don't worry about the cost of the site. It includes the complete e-commerce platform. You get your own
+amazon or AliBaba platform for 1,oo0 a year. And other cost is cloudflare, AwS costs etc..
+It is nothing. We can carry the cost on our side
+your support on manufacturing and equipment fonancing is more than okay for us
+we probably will spend more on digital marketing: instagram, Linkedin, etc
+thanks
+1, yes, we will do our best to support you in manufacturing & cost
+2, on top of this, we would like to promote our models in a flexible way
+eg.: NetworkMarket.online
+you got ready paperwork, no legal issues
+Its a ready thing/platform
+then thats the idea I shared just now: do not waste it and build something out of it
+OK
+Levent KILlC: we probably will spend more on
+digital marketing: instagram, Linkedin, etc
+2025-7-23 21:13
+Yes, I have scheduled a meeting tomorrow with a friend who is an expert in Amazon and Online sales.
+everi
+more on
+digital marketing: instagram, Linkedin, etc
+2025-7-23 21:13
+Yes, I have scheduled a meeting tomorrowwith a friend who is an expert in Amazon and Online sales.
+2025-7-23 21:13
+I agree we have all the correct ingredients, we have to cook a dish.
+A nice one, I should add
+the idea is,
+Upload ALL of the models for promotion
+investment is
+2000usd/year and time for uploading the production info
+check the website outcomes from time and time, improve accordingly
+This will be "static" or say, limited investment
+But the yearly rate is higher than expected, haha
+thats great.
+pls let me know if we could help in any way
+Levent KILiC: Yes, I have scheduled a meeting
+tomorrow with a friend who is an expert in Amaz..
+we mainly focus on offline sales...
+I think we know the mistake we made in the first round. We can pull some attention to our site then we can
+start selling.
+thats why we would like to keep NetworkMarket.online
+haha
+Agreed
+mistake?
+Agreed
+mistake?
+Levent KILiC: I think we know the mistake we
+made in the first round. We can pull some attent...
+not making as much sales as forecast
+so marketing & sales is what you are doing now?
+2025-7-23 22:06
+You mean personally ? Yes, I am multitasking now. Where my energy is needed, I try to focus
+sorry?
+personally?
+you mean my role in the company ?
+not really
+I mean your business strategy
+companylevel
+thats also why I asked TT info in the new proposals
+oh okay, We are trying to align with the market demand. We are still focused on projects and client
+relationships. But focus on bigger projects. Then we need small, run-rate business. This is where marketing
+and sales come in
+got it
+business base is big projects, but need some more sales(big or small)
+thats why you are trying online sales, right?
+got it
+business base is big projects, but need some more sales(big or small)
+thats why you are trying online sales, right?
+2025-7-23 22:15
+absolutely correct.
+We need to establish run-ratesales
+2025-7-23 22:23
+OK, lets see how Amazon UK works out
+I will talk with GPT and see if there is anything helpful
+2025-7-24 14:28
+Good morning, Levent
+This is from Chatgpt, just fyi
+1, Update the official website info
+This looks more professional
+2, Get a static website for promotion(eg.: NetworkMarket.online)
+Limited investment, Long-term running for big return
+3, Amazon store is good, but initial investment could be huge if Ads cost is included
+Thanks
+2025-7-24 15:57
+Hi  Scott, thanks for the update. I will update you after my meeting today
+OK, thanks!
+Have you received the regular SFP units from Karen
+yes, thanks
+Have you received the regular SFP units from Karen
+yes, thanks
+( o s  s  b p     d    s a
+go straight to big order
+2025-7-24 16:01
+hoping we will know soon
+thanks, lets see
+I will let u know if testing got progress
+2025-7-30 16:31
+Hi, Levent,
+Something to confirm with you.
+We just had an incoming payment of 38748EUR
+Is it from TT?
+We do now know whose payment this is, maybe from you or a wrong T/T wiring
+Please let me know.
+Thank you.
+Hi Simon, not from us yet. We haven' t received signed order yet. Finalising the last paperwork with TT.
+Hoping very soon
+ok, thanks
+1, the media converter rfp, I made a reply, pls let me know if you need more info
+2, lets hope we can finalize this TT order soon
+3, any news about the new proposals, amazon store etc.?
+2025-7-30 16:38
+2, lets hope we can finalize this TT order soon
+3, any news about the new proposals, amazon store etc.?
+2025-7-30 16:38
+Yes thank you for the response. It' s for a NATO project and they asked for compatibility with Cisco SFPs.
+We confirmed this. Let' s see.
+2-we arehopingverysoon
+3- I talked to a few people. They suggested to hire a junior person since this may require a fulltime
+attention.
+Working on the final thoughts / plans
+TT project is very critical for us. We will need you support wiring part of the payment back to us
+immediatelyaswealsohavesomependingpayments
+OK
+Levent KILiC: Yes thank you for the response. It' s
+tor a NATO project and they asked tor compatibi..
+2025-7-30 16:43
+ok, if you have time, pls also check other info in the new proposal file
+Levent KILIC: 3- I talked to a few people. They
+suggested to hire a junior person since this may.
+ok, lets see
+Levent KILIC: TT project is very critical for us. We
+will need you support wiring part of the paymen..
+2025-8-6 14:16
+Hi Simon, how are you doing?
+We are finally expecting the signed order this week. Contractual issues have been addressed.
+I know it has taken this long.
+We are finally expecting the signed order this week. Contractual issues have been addressed.
+I know it has taken this long.
+Big customers like Turk Telekom, every department (finance, legal, procurement) is a kingdom in itself
+Hi, Levent,
+I am good, thanks. How are things there?
+Send

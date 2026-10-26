@@ -1,0 +1,14 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/ANW-1108-V.mp4",
+  "bytes": 2581989,
+  "sha256": "f117598ee7e6e38683f93fc5c024ce84912d9eb723927da00a25a182351756ba",
+  "seq": 77,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/ANW-1108-V.mp4)",
+  "video": {
+    "ftyp_brand": "isom",
+    "duration_seconds": 9.174
+  }
+}

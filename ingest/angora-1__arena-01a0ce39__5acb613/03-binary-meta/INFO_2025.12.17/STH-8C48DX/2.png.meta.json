@@ -1,0 +1,21 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "INFO_2025.12.17/STH-8C48DX/2.png",
+  "bytes": 4509768,
+  "sha256": "104b378f9258e4eb2758597a6ead4ae25456cbe9e64505a789072ac2a2c69a93",
+  "seq": 299,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:INFO_2025.12.17/STH-8C48DX/2.png)",
+  "image": {
+    "format": "PNG",
+    "width": 3840,
+    "height": 2160,
+    "mode": "RGBA",
+    "frames": 1,
+    "dpi": [
+      72.009,
+      72.009
+    ]
+  }
+}

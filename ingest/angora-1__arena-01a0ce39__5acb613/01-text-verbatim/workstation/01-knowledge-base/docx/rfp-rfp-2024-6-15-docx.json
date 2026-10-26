@@ -1,0 +1,242 @@
+{
+ "source": "RFP/RFP_2024.6.15.docx",
+ "chars": 979,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "LT-IS6310G-2GX8GT，不需要PoE，不需要串口（serial）"
+  },
+  {
+   "type": "p",
+   "data": "项目共计需要500台，分2个批次买"
+  },
+  {
+   "type": "p",
+   "data": "第一个批次250台，交期要求非常紧，下单后一周后发货"
+  },
+  {
+   "type": "p",
+   "data": "项目交期比较紧张，客户没办法测样后再下单，有可能会让我们做一些测试，提供一些图片或者视频，概率不是很大"
+  },
+  {
+   "type": "p",
+   "data": "主要需求点"
+  },
+  {
+   "type": "p",
+   "data": "1. SFlow"
+  },
+  {
+   "type": "p",
+   "data": "2 IP/Port/MAC based Access Lists"
+  },
+  {
+   "type": "p",
+   "data": "3. SNMP MIB Files"
+  },
+  {
+   "type": "p",
+   "data": "4. Secure FTP. but we have already discussed this and we have developed a workaround solution in house for this part."
+  },
+  {
+   "type": "p",
+   "data": "其中1支持，4上次已经讨论，客户已自行解决"
+  },
+  {
+   "type": "p",
+   "data": "主要是2和3，是否能提供以及有额外费用吗？"
+  },
+  {
+   "type": "p",
+   "data": "以下是该项目细节点对比后我写的评论"
+  },
+  {
+   "type": "p",
+   "data": "7.1"
+  },
+  {
+   "type": "p",
+   "data": "找到了EN 55032:2015 +A11:2020，应该是最新版，需求版本为旧版（2012年版本）"
+  },
+  {
+   "type": "p",
+   "data": "但证书中未提及LT-IS6310系列"
+  },
+  {
+   "type": "p",
+   "data": "7.2"
+  },
+  {
+   "type": "p",
+   "data": "OK"
+  },
+  {
+   "type": "p",
+   "data": "7.3"
+  },
+  {
+   "type": "p",
+   "data": "OK"
+  },
+  {
+   "type": "p",
+   "data": "7.4"
+  },
+  {
+   "type": "p",
+   "data": "未写明"
+  },
+  {
+   "type": "p",
+   "data": "7.5"
+  },
+  {
+   "type": "p",
+   "data": "不能满足，我会直接和客户说明，能提供但并不直接生产模块"
+  },
+  {
+   "type": "p",
+   "data": "7.6"
+  },
+  {
+   "type": "p",
+   "data": "同7.5结论且提及模块都支持"
+  },
+  {
+   "type": "p",
+   "data": "7.7"
+  },
+  {
+   "type": "p",
+   "data": "不确定"
+  },
+  {
+   "type": "p",
+   "data": "7.8/7.9/7.10"
+  },
+  {
+   "type": "p",
+   "data": "OK"
+  },
+  {
+   "type": "p",
+   "data": "7.11"
+  },
+  {
+   "type": "p",
+   "data": "不确定，有孔位装挂耳吗？我从发过来的产品图上感觉不太好装在机柜上"
+  },
+  {
+   "type": "p",
+   "data": "7.12"
+  },
+  {
+   "type": "p",
+   "data": "OK"
+  },
+  {
+   "type": "p",
+   "data": "7.13"
+  },
+  {
+   "type": "p",
+   "data": "256 (two hundred and fifty-six) active VLANs"
+  },
+  {
+   "type": "p",
+   "data": "不确定，另外2个OK"
+  },
+  {
+   "type": "p",
+   "data": "7.14/7.15/7.16/7.17"
+  },
+  {
+   "type": "p",
+   "data": "OK"
+  },
+  {
+   "type": "p",
+   "data": "7.18"
+  },
+  {
+   "type": "p",
+   "data": "应该是OK，需要你们确认一下"
+  },
+  {
+   "type": "p",
+   "data": "7.19/7.20"
+  },
+  {
+   "type": "p",
+   "data": "OK"
+  },
+  {
+   "type": "p",
+   "data": "7.21"
+  },
+  {
+   "type": "p",
+   "data": "需要你们确认一下，尤其是ToS based, 未找到相关信息"
+  },
+  {
+   "type": "p",
+   "data": "7.22"
+  },
+  {
+   "type": "p",
+   "data": "应该是OK，需要你们确认一下"
+  },
+  {
+   "type": "p",
+   "data": "7.23/7.24/7.25"
+  },
+  {
+   "type": "p",
+   "data": "应该是OK，需要你们确认一下"
+  },
+  {
+   "type": "p",
+   "data": "尤其是7.25，提及了SFTP，之前沟通是不支持，这个点可以跳过"
+  },
+  {
+   "type": "p",
+   "data": "7.26"
+  },
+  {
+   "type": "p",
+   "data": "不支持土耳其语言"
+  },
+  {
+   "type": "p",
+   "data": "7.27"
+  },
+  {
+   "type": "p",
+   "data": "上次已沟通，不支持，但客户已解决"
+  },
+  {
+   "type": "p",
+   "data": "7.28/7.29/7.30"
+  },
+  {
+   "type": "p",
+   "data": "应该是OK，需要你们确认一下"
+  },
+  {
+   "type": "p",
+   "data": "7.31/7.32/7.32"
+  },
+  {
+   "type": "p",
+   "data": "不确定，做简单确认即可"
+  },
+  {
+   "type": "p",
+   "data": "最新版的CLI，Web Manual，规格书等很早都发给了客户，他们应该是已经做了审阅"
+  },
+  {
+   "type": "p",
+   "data": "以下是邮件内容"
+  }
+ ]
+}

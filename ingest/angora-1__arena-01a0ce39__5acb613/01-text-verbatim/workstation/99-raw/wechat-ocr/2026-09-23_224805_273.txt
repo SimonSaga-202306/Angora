@@ -1,0 +1,584 @@
+# SOURCE: Weixin Image_2026-09-23_224805_273.png
+# SIZE: 1551x29352  SLICES: 28
+############################################################
+Levent KILIC
+X
+2/5 Thursday 20:17
+Hi Simon, we need the PVC for 24-Poe and 48-PoE Angora versions.
+Is it possible for you to share them?
+Hi, Levent,
+do you mean this?
+Yes, these are 16-ports. We would need CDR files for 24-port and 48-ports
+2/5 Thursday 20:22
+not sure if you made 24-port and 48-port PVCs before
+CDR file, OK
+I will let u know tomorrow, pinned your message
+okay. can you pls share OEM or standard PVC files now. May be we can try priting those now
+it seems that you just ordered 16-port PVC before
+okay. can you pls share OEM or standard PVC files now. May be we can try priting those now
+it seems that you just ordered 16-port PVC before
+or Neutral in your terminology
+Neutral PVC is fine too
+now?
+if you have access to the files...If not, tomorrow morning is okay
+2/5 Thursday 20:25
+I mean if they are on the cloud or something
+I only have 24-port neutral info on hand
+STC-424DGGPM-280W.cdr
+636.0K
+微信电脑版
+is this OK?
+SHould be fine . thanks
+thanks
+2/5 Thursday 21:04
+Here is an Al edited version of my feedback about the roadmap you hvae shared.
+Feedback-to-SAGA.pdf
+PDF
+28.6K
+微信电脑版
+Feedback-to-SAGA.pdf
+PDF
+28.6K
+微信电脑版
+Pls excuse me if I have crossed any Illines
+2/5 Thursday 21:43
+Hi, Levent,
+haha, never say this, we are one team
+Levent KILiC: Pls excuse me if I have crossed any
+llines
+thanks a lot for yoru feedback
+I will check and let u know
+its good to have your inputs, then we can improve
+Connecting, Converting, Creating
+though we do not use it in our slogan now
+its still our core value
+Saga Telecom connects talents and ideas that may drive itself forward
+Saga Telecom converts mature business system to all-round growth
+Saga Telecom creates betterness from expertise and solution package
+thanks a lot
+2/5 Thursday 21:52
+Simon: Connecting,
+Converting,Creating
+2/5 Thursday 21:52
+Simon: Connecting, Converting, Creating
+2/6 Hriday 12:13
+Simon hi, did you get a chance to check the CDR file for PVC to 48-PoE switch
+aha, ok, I will check and let u know
+Yes please. It is still early here. If you can give it to us, we can still have a few printed today
+ok, no problem, thanks
+We sold some units from stock... yay
+Thanks
+2/6 Friday 13:13
+Hi Simon, any updates?
+Give me some time pls
+2/6 Friday 13:16
+It' s noon break now
+Oh ok
+2/6 Friday 14:01
+Oh ok
+2/6 Friday 14:01
+STC-448DGGPM.cdr_tmp
+86.6K
+微信电脑版
+pls check
+Thank you Simon
+About your feedback(RFP-ready etc.)
+we need some time to evaluate it and see what we can do
+sure. pls consider it my personla feedback. I hope it helps with your planning
+yes, it helps a lot!!
+as you may notice, the format of Q2 datasheet is changing a lot
+we are altering our biz directions
+to serve limited valuable clients
+this is part of the reason we list the chip solutions
+we are still evolving, I will let u know if I got any news
+2/6 Friday 14:07
+we are still evolving, I will let u know if I got any news i
+2/6 Friday 14:07
+sure. thanks...
+2/6 Friday 14:17
+Hi again Simon, Taylan could not open this file. Can you pls check again
+STC-448DGGPM.cdr
+477.8K
+微信电脑版
+thaknk yo
+STC-448DGGPM.pdf
+PDF
+399.7K
+微信电脑版
+2/6 Friday 14:24
+thanks. CDR file seems be okay now
+OK
+2/9 Monday 17:17
+Hi, Levent,
+OK
+2/9 Monday 17:17
+Hi, Levent,
+1. Just to let you know that, I will out of office from tomorrow
+I can still handle work, but might be a little slower in response
+2. About your feedback(Feedback-to-SAGA)
+We went through it and had some constructive ideas
+I will let you know
+Thank you
+2/9 Monday 17:32
+Great thanks Simon
+2/17 Tuesday 13:07
+Happy New Year
+Simon
+2/17 Tuesday 14:10
+Hi, Levent. Thanks for your kind words
+Eat and drink with my childhood friends
+2/17 Tuesday 14:11
+Eat and drinkwithmy childhood friends
+2/17 Tuesday 14:11
+Best experience ever
+you bet
+Once a year
+It'  s always good to talk with my families and childhood friends
+Best therapy
+Enjoy
+2/17 Tuesday 14:16
+Thanks
+2/26 Thursday 12:29
+Hi, Levent,
+1. We are back to work from today
+2. Please let me know if there are any new questions or requirements
+3. Please read this and let me know.
+Thank you.
+Roadmap Reply 1.0.pdf
+PDF
+156.3K
+微信电脑版
+Tmank
+you.
+Roadmap Reply 1.0.pdf
+156.3K
+PDF
+微信电脑版
+3/6 Friday 04:55
+Hi Simon, rather good morning when you see this message. Hopefully I will still be sleeping. Aha ha ha...
+I just sent you an email with a new RFP with large quantities.
+I will share the exact quantites , but to give you an idea for the 8-port industrial we are talking about 3,0o0 pieces.
+Let's talk after you read the email.
+3/6 Friday 12:18
+Hi Slmon... Are you there ?
+Hi, Levent
+yes, reply is ready
+just worried that you are still in sleep, haha
+this is it
+Hi, Levent,
+Thanks for your info and good to hear from you.
+After check, we have below points for you
+1, it will be about STC-424XGGPM-280W and STI-288DGGPM
+You purchased both models before.
+2, the specs are all fine expect one point for now
+Field network switch(STI-288DGGPM)
+It says support relay output, this is not very specific.
+For our model, it supports SNMP trap alarm and DI/DO alarm
+Field network switch(STI-288DGGPM)
+It says support relay output, this is not very specific.
+For our model, it supports SNMP trap alarm and Dl/DO alarm
+this should be enough
+just need to make this clear to you
+And this is only the primary check, we will dive into it.
+3, packing and accessories are not a big problem.
+4, but the most vital factor is the certification
+the EGM C-Type Edge Switch Test Report requirement
+Will this report be provided by your partner,
+Or do we need to submit a device for certification?
+Because you had a tender partner and were involved in such projects before
+I guess you have an answer to this point
+And it also says
+Reports previously issued under Communications Department shall also be accepted
+maybe your partner got it before?
+Let's talk about this
+5, then it is the budget
+So the whole framework will be
+Saga, Angora(and your tender partner) and Turkish Police(end user)
+we need to consider the profit and requirements for each side
+Lets see how to make it
+Thanks
+3/6 Friday 12:35
+Great Simon. Many thanks.
+1- So it will be these 2 models for all 3 RfPs ? Please confirm.
+2- a dry relay contact is okay. I know we have it on the industrial devices.
+3- I will check if we can get by 12oW power supply in the industrial version since this one of the biggest
+cost items. The RFP asks for PoE+ on all ports but "not simultaneously" . I will check this grey area.
+4- we already have this certificate as Angora. We just need to make sure our software version info is the
+same as theversion on the certificate.We can use our existing certificate
+cost items. The RFP asks for PoE+ on all ports but "not simultaneously" . I will check this grey area.
+4- we already have this certificate as Angora. We just need to make sure our software version info is the
+same as theversion on the certificate.We can use our existing certificate
+3-
+3/6 Friday 12:43
+Point 4:  great
+Then it should be cost I guess
+Let' s see how to move on
+great... I will talk to our partner about this and keep you posted..
+We are looking at around 3,500 industrial devices and around 200 commercial 24-port devices
+I really want to make an impact this year..
+We will study the documents and let u know .
+Levent KILiIC: great.. I will talk to our partner
+about this and keep you posted...
+3/6 Friday 12:47
+Same
+Levent KILiC: I really want to make an impact this
+year...
+great. thanks...
+let's keep in touch
+Sure, thanks
+3/6 Friday 12:56
+Sure, thanks
+3/6 Friday 12:56
+Just looking at the standard price lists. Kindly pl check if we can meet the RFP with STl-288GPM. This is
+Layer 2 only, but much more cost effective. We just need to make sure we meet all the RFP items.
+Last year DLink got it with Layer 2 switch if i am not mistaken.
+L2 is not working
+Hmmm okay
+we will first look at the compliance
+cost is a big problem I know
+lets do it step by step
+sure. I will try to get the DLink model and pricing from last year as soon as possible
+thanks
+3/6 Friday 16:05
+Hi again, Levent,
+1, it is 2 models
+Field/Edge switches just share almost exactly the same specs
+So one model is OK
+2, yes, L2 or L2+ model is a win-loss move.
+Huge price difference, and of course huge feature difference
+From the PDFs, it tends to be L2
+But there are some descriptions that make it look like L2+ as well
+eg: IPv6 VLAN interface IP addressing and traffic (CGKS 3.3.2.21, EGM 3.3.21, KGYS 3.3.2.19)
+So we need more info from you
+From the PDFs, it tends to be L2
+But there are some descriptions that make it look like L2+ as well
+eg: IPv6 VLAN interface IP addressing and traffic (CGKS 3.3.2.21, EGM 3.3.21, KGYS 3.3.2.19)
+So we need more info from you
+1. your experience in previous tenders
+2. A confirmation: is this tender the same as last year's? or just a new and separate one?
+3. Yes, Dlink price, winner of last year
+4. Any more info besides 3 PDFs?
+5. Target prices? Rough ones will be good.
+Now the memory prices increase A LOT!!
+We are suffering from it
+There will be an increase in unit price
+We need to gather as much info to have a comprehensive evaluation
+price, features, quantities etc.
+Anything that helps, factors in or please just let us know your main concern(cost is one)
+6. Any info about the certificate, the ready one you have? Can we look at it or something?
+We are still working on it
+Thank you
+3/6 Friday 16:25
+Hi Simon, I understand perfectly about the RAM and Disk prices...
+About the IPv6 VLAN interace IP addressing, I did a quick check on the Al, it may be just for management
+purposes. We need to check it and conform
+for now, price is not the priority
+its the model, L2 or L2+
+probably we need to go with L2+
+MSTP is missing in our L2 model and as you also checked, the IPv6 VLAN interace IP addressing etc.
+we need more info from you and are still working on it here
+3/6 Friday 16:33
+Just talked to the partner. I will get you the DLink model to compare.
+thanks
+3/6 Friday 16:33
+Just talked to the partner. I will get you the DLink model to compare.
+thanks
+please read my reply just now
+this
+Simon: Hi again, Levent, 1, it is 2 models Field/
+Edge switches just share almost exactly the same..
+3/6 Hriday 16:58
+Hi Slmon here is the DLink model from last year
+DIS-300G-10PS
+3/6 Friday 17:17
+Here is a quick RFP on this product. Same issues apply for them as well
+CGKS Field_Switch_DLink
+DIS300G_Compliance.xlsx
+12.7K
+微信电脑版
+thanks, this is very helpful
+so they still won though there are many incompliances?
+looks like i.. I will check again
+ok, checking
+3/6 Friday 17:20
+thanks
+ok, checking
+3/6 Friday 17:20
+thanks
+3/9 Monday 15:36
+Hi, Levent,
+Just to confirm
+Is this tender the same as last year's? or just a new and separate one?
+thanks
+3/9 Monday 15:41
+This is a new tender for 2026. They usually go out with the same RFP. But I will confirm the last year' s RFP
+has same clause
+for now, 24 port indoor switch is not a big problem
+but this industrial level switch, we need to decide L2 or L2+
+this is a very big difference
+it will directly contribute to the outcome
+pls provide as much info, the more the better
+Agreed
+3/9 Monday 15:51
+I just checked the last years's RFP, same exact item exists. I will check with partner how they went through
+this item in the Final Acceptance Tests
+okthanks
+I just checked the last years's RFP, same exact item exists. I will check with partner how they went through
+this item in the Final Acceptance Tests
+ok thanks
+3/9 Monday 16:31
+I spoke to the partner. He will confirm tomorrow with his engineer about Final Acceptance.
+I suggest let' s plan for L2 version
+yes, we think so too
+Dlink model DIS-300G-10PS is a L2 version
+We will need to include everything including Power Supply, SFP.
+m not sure about console cable for each switch
+i get it
+But we should include power connection cable as a standard
+considering the strict acceptance criteria, we will include the console cable
+ok
+Levent KILIC: But we should include power
+connection cable as a standard
+We have a provider for SFP, around $3.5 each. We may even get better pricing on this deal
+We will talk about it
+no problem
+Thanks Simon
+no problem
+Thanks Simon
+thanks, pls just let us know if you have any new info, any
+Sure thing
+just a small query
+is NETAS very strong in local market?
+3/9 Monday 16:37
+They are very old company, and big. About strength, not politically but technically they have big teams.
+Their overhead is higher than small businesses
+Have they approached you ?
+they bought 3 samples from us
+but sad thing is, the project is dead
+Oh okay. What models ?
+STI-488DGGPM-2BT L2+ model
+Oh okay. It may be a railways project
+that project requires PIM-SM/DM feature
+Oh okay. It may be a railways project
+that project requires PIM-SM/DM feature
+gone, its just not available
+a military one
+Levent KILlC: Oh okay. It may be a railways project
+m working on a new deal for us.
+It' s co-development with Turk Telekom. I met a new partner. Politically connected
+This is confidential for now
+We will need source codes. Hardware designs etc. but we will see how it goes
+actually after we lost TT project(sorry to mention it up), we had an internal discussion
+No worries about the NETAS. They are looking g for a Moxa or Hirschmann replacement
+perhaps we will gradually move on to projects, not sales
+this is better for long-term CRM
+True. This is the intention
+good to know this, lets see "?
+Levent KILiC: I' m working on a new deal for us.
+It' s co-development with Tuirk Telekom. I met a ..
+3/9 Monday 16:43
+haha, its fine
+just feel that they are kinda as strong as TT
+so asking some info
+3/9 Monday 16:43
+haha, its fine
+just feel that they are kinda as strong as TT
+so asking some info
+Levent KILIC: No worries about the NETAS. They
+are looking g for a Moxa or Hirschmann replace..
+I' m very willing to go aggressive on this Turkish Police deal. Let' s put a stake in the ground and make a
+name for
+after releasing roadmap, we are starting to focus on regional sales, TR is important
+lets do our best
+Levent KILic: I' m very willing to go aggressive on
+this Turkish Police deal. Let' s put a stake in the ..
+great... yep, let's try our best
+I also would like to know how you are doing in other geographies.
+We have this company who wants to partner with us in Austria.
+Then in Europe in general.
+We also have the UK compnay as you know.
+We need to find a way to sell them through Turkey.
+3/9 Monday 16:47
+Our sales is also EU-targeted, mainly in UK, Italy, Poland, Germany
+Any action in the UK?
+Our sales is also EU-targeted, mainly in UK, Italy, Poland, Germany
+Any action in the UK?
+not big, but a good client is in discussion with us
+got a few small clients
+most are just on the list
+yes
+Levent KILIC: We also have the UK compnay as
+you know.
+actually we put in some decent efforts in Germany
+for UK, most are CCTV clients
+too much competition
+as our slogan goes, tailored managed networking solutions
+we are focusing on Networking rather than PoE
+3/9 Monday 16:58
+same here... enterprise customers are better than retail customers... No margin in retail business.
+3/9 Monday 17:04
+yes, so we are now kinda changing our sales direction
+we will factor it in before our moves
+also, we can know how to give better support
+3/9 Monday 17:16
+Great. Thanks. I will write back on this soon.
+3/9 Monday 17:16
+Great. Thanks. I will write back on this soon.
+Give me a couple of days
+thanks
+3/12 Thursday 19:23
+Hi Simon, I just got my hands on the last year' s switch at the Police project.
+Taylanwill test it tomorrow
+Here are my initial photos
+D-Link
+3/12 Thursday 20:35
+Hi, Levent
+Thanks for your work
+This helps a lot, let' s check the testing report
+3/12 Thursday 21:19
+This helps a lot, let' s check the testing report
+3/12 Thursday 21:19
+Sure. Thanks
+3/13 Friday 20:20
+Hi Simon, Taylan tested the software. It looks like L2+
+3/13 Friday 20:21
+it looks like a Vitesse based solution
+the WEB UI
+You can create more than 1 interface, additional routes and ipv6 addresses
+yes, it seems to be an L2+
+We can also try Realtek or Vitesse if better pricing
+lets stick with Marvell perhaps
+stable, better features
+We can also try Realtek or Vitesse if better pricing
+lets stick with Marvell perhaps
+stable, better features
+for pricing, lets see how to make it
+lets focus on the features first
+Okay. Now we know we are working with L2+.
+actually, this makes things easier
+One point cleared
+if its a L2+
+yes
+we will check the compliances with our L2+ model
+Great
+thank you
+and thanks for getting a sample, this makes everything clear
+Yes, I' m also much clearer now. This was important for us all
+3/13 Friday 20:26
+I will do it on this weekend
+Simon: we will check the compliances with our
+L2+ model
+and update u
+Simon: we will check the compliances with our
+L2+ model
+and update u
+Great. Thank you
+thanks
+3/13Friday 20:36
+btw, can you pls share the chip solution Dlink uses?
+maybe send some photos of the PCBs? clear and full ones
+Hmmm okay. Let me try to open the bix
+thanks, this helps a lot
+3/13 Friday 21:23
+is it a Realtek? or Vitesse?
+Don' t know
+maybe a video to clearly display the details of the PCB?
+Don' t know
+maybe a video to clearly display the details of the PCB?
+3/13 Friday 21:29
+now from the WEB Ul, I feel that it is Vitesse
+this PCB photo shows a Realtek PoE board on the top(the green board)
+3/13 Friday 21:29
+for now, dont exactly know the chip solution
+why I need this?
+if we know its chip, we probably know its price range and features
+this might be helpful later
+3/13 Friday 22:47
+Okay. I will try getting that too. But I' m waiting for pricing information from partner as well
+ok, pls go on with testing
+I will do my part here
+Agreed
+3/16 Monday 13:36
+Hi, Levent,
+1. how is your testing about the Dlink piece?
+Found the chip?
+It can be found in many ways, like CLI
+In CLl, show system or show version
+Taylan should know this.
+Sorry for insisting on this, but it is important.
+With a specific chip solution, it helps know the rough price, feature list etc.
+It can be found in many ways, like CLI
+In CLl, show system or show version
+Taylan should know this.
+Sorry for insisting on this, but it is important.
+With a specific chip solution, it helps know the rough price, feature list etc.
+2. Any news about the Dlink price in the last year's tender?
+What did your partner reply?
+At our side, our L2+ model is a good fit.
+That's why we need to consider 1st point.
+It might be Realtek or Vitesse.
+And it will have a direct impact on our model proposal and price offer.
+Thanks
+Hi Simon,
+1- I will check with Taylan today about the chip today and keep you updated
+2- Tender pricing information will come today hopefully
+thanks, this is very important
+than point 2
+Levent KILlC: Hi Simon, 1- I will check with Taylan
+today about the chip today and keep you updated
+ok, lets wait ,
+3/16 Monday 14:57
+Hi Simon, here is the output from Taylan. It seems the chipset is Vitesse
+Switch# sh ver
+MEMORY
+: Total=89563 KBytes, Free=77465 KBytes, Max=77424 KBytes
+FLASH
+:0x40000000-0x40fffff,256x0x10000 blocks
+MAC Address
+: 20-77-59-11-fd-74
+SN
+Previous Restart : Cold
+System Contact :
+System Name
+: Switch
+System Location :
+Timezone Offset:0
+Previous Restart : Cold
+System Contact :
+System Name  : Switch
+System Location :
+Timezone Offset : 0
+System Time: 1970-01-01T00:00:37+00:00
+System Uptime: 00:00:37
+Active Image
+Image
+: DIS-300G-10PS_V00.00.03B01_8GTP-2GF-RH_PSE8B-F2 REV3.5_PSE-8AT-MR
+REV1.1_8238B_202510201532.dat (primary)
+Version
+: v00.00.03B01
+Date
+: 2025-10-20T15:32:04+08:00
+Alternate Image
+Image
+: A0000000A8F3 (backup)
+Version
+: v00.00.10040
+Date
+:2025-08-14T17:14:41+08:00
+Bootloader
+Image
+: RedBoot (bootloader)
+Version
+: version 1_20-Vitesse
+Date
+: 23:33:21, Mar 23 2020
+SID : 1
+Chipset ID
+: ASIC
+Board Type
+: Switch Board
+Port Count
+:10
+Product
+: DIS-300G-10PS Switch
+Send

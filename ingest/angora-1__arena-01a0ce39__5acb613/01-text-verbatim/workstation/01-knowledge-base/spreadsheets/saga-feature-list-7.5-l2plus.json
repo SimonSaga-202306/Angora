@@ -1,0 +1,884 @@
+{
+  "source": "Saga Feature List_7.5.x_L2+.xlsx",
+  "title": "Saga 7.5.x L2+ 软件能力全量清单",
+  "description": "应答 Levent 技术提问（如 RIP/OSPF/BGP/ECMP/VRRP）的权威底稿；芯片平台 Marvell 98DX2515/2518 (AC5 Lite)",
+  "banner": null,
+  "rows": [
+    {
+      "category": "Marvell —— Software Management Features L2+",
+      "subcategory": "Marvell —— Software Management Features L2+",
+      "feature": "Marvell —— Software Management Features L2+",
+      "value": "Marvell —— Software Management Features L2+"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Chipset",
+      "feature": "Chipset",
+      "value": "Marvell 98DX2515/2518\n(AC5 Lite)"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Management",
+      "feature": "Management",
+      "value": "Layer 2+"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Port Features",
+      "feature": "IEEE 802.3x Flow Control",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Port Features",
+      "feature": "Interface Counters",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Port Features",
+      "feature": "Optical port adaptive",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Port Features",
+      "feature": "Jumbo Frame(10222 Bytes)",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Link Aggregation",
+      "feature": "GE Port Aggregation",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Link Aggregation",
+      "feature": "10GE Port Aggregation",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Link Aggregation",
+      "feature": "Static Aggregation",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Link Aggregation",
+      "feature": "LACP Dynamic Aggregation",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Link Aggregation",
+      "feature": "Aggregation Groups",
+      "value": "64"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Link Aggregation",
+      "feature": "Aggregation Group Members",
+      "value": "8"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "VLAN",
+      "feature": "IEEE 802.1Q Tagged VLAN",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "VLAN",
+      "feature": "Mac Based VLAN",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "VLAN",
+      "feature": "IP Based VLAN",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "VLAN",
+      "feature": "Protocol Based VLAN",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "VLAN",
+      "feature": "VLAN Range",
+      "value": "1-4094"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MAC Address Table",
+      "feature": "Static MAC-address Management",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MAC Address Table",
+      "feature": "Dynamic MAC-address Management",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MAC Address Table",
+      "feature": "Filtering MAC-address",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MAC Address Table",
+      "feature": "Port/Vlan Based MAC Limit",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MAC Address Table",
+      "feature": "Port/Vlan Based MAC Flapping",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MAC Address Table",
+      "feature": "MAC-address Table Size",
+      "value": "16K"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "GVRP",
+      "feature": "Normal Mode",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "GVRP",
+      "feature": "Fixed Mode",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "GVRP",
+      "feature": "Forbidden Mode",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "QinQ",
+      "feature": "Port-based QinQ",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "QinQ",
+      "feature": "VLAN-based QinQ",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "QinQ",
+      "feature": "VLAN-Mapping",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "QinQ",
+      "feature": "Flow-based QinQ",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MSTP",
+      "feature": "802.1D STP",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MSTP",
+      "feature": "802.1W RSTP",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MSTP",
+      "feature": "802.1S MSTP",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MSTP",
+      "feature": "BPDU Guard",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "MSTP",
+      "feature": "Number of Single Ring Device Connections",
+      "value": "20"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "ERPS G.8032",
+      "feature": "Major Ring",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "ERPS G.8032",
+      "feature": "Sub Ring",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "ERPS G.8032",
+      "feature": "Convergence Time",
+      "value": "<20ms"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "ERPS G.8032",
+      "feature": "Number of Single Ring Device Connections",
+      "value": "\\"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Voice VLAN",
+      "feature": "Specially divide VLAN for user voice data flow",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Private VLAN",
+      "feature": "Divide a VLAN broadcast domain into multiple subdomains to form a double-layer VLAN structure",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Storm Control",
+      "feature": "Based on port bandwidth percentage",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Storm Control",
+      "feature": "Broadcast/unknown multicast/unknown unicast",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "SPAN",
+      "feature": "Number of Sessions",
+      "value": "7"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "SPAN",
+      "feature": "Many-to-one",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "RSPAN",
+      "feature": "Remote Switch Port Analyzer",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "LLDP",
+      "feature": "Link Layer Discovery Protocol",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "LLDP",
+      "feature": "LLDP-MED",
+      "value": "☑️"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Port Isolation",
+      "feature": "Isolate Groups",
+      "value": "32"
+    },
+    {
+      "category": "Ethernet Switching",
+      "subcategory": "Port Isolation",
+      "feature": "One-way isolation",
+      "value": "☑️"
+    },
+    {
+      "category": "IP Route",
+      "subcategory": "Static Route",
+      "feature": "Support VLAN Interface and Route Port",
+      "value": "☑️"
+    },
+    {
+      "category": "IP Route",
+      "subcategory": "Static Route",
+      "feature": "IPv4 Static Routing Table Entry Configuration",
+      "value": "☑️"
+    },
+    {
+      "category": "IP Route",
+      "subcategory": "Static Route",
+      "feature": "ARP Dynamic Learning and Static Configuration",
+      "value": "☑️"
+    },
+    {
+      "category": "IP Route",
+      "subcategory": "Static Route",
+      "feature": "IPv6 Static Routing Table Entry Configuration",
+      "value": "☑️"
+    },
+    {
+      "category": "IP Route",
+      "subcategory": "Static Route",
+      "feature": "Neighbor Discovery and Static Configuration",
+      "value": "☑️"
+    },
+    {
+      "category": "IP Route",
+      "subcategory": "Static Route",
+      "feature": "Routing Prefix Table Size for IPv4; IPv6 Capacity is Divided by 4",
+      "value": "4096"
+    },
+    {
+      "category": "DHCP Service",
+      "subcategory": "DHCPv4 Client",
+      "feature": "Dynamic Host Configuration Protocol, For IPv4",
+      "value": "☑️"
+    },
+    {
+      "category": "DHCP Service",
+      "subcategory": "DHCPv6 Client",
+      "feature": "Dynamic Host Configuration Protocol For IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "DHCP Service",
+      "subcategory": "DHCPv4 Relay",
+      "feature": "DHCP Relay For IPv4",
+      "value": "☑️"
+    },
+    {
+      "category": "DHCP Service",
+      "subcategory": "DHCPv4 Snooping",
+      "feature": "DHCP Snooping Trust Port",
+      "value": "☑️"
+    },
+    {
+      "category": "DHCP Service",
+      "subcategory": "DHCPv4 Snooping",
+      "feature": "DHCP Snooping Option-82",
+      "value": "☑️"
+    },
+    {
+      "category": "DHCP Service",
+      "subcategory": "DHCPv4 Snooping",
+      "feature": "DHCP Snooping Circuit-id and Remote-id Customized",
+      "value": "☑️"
+    },
+    {
+      "category": "DHCP Service",
+      "subcategory": "DHCPv4 Server",
+      "feature": "DHCP Server, For IPv4",
+      "value": "☑️"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "QoS",
+      "feature": "QoS Class, Remarking",
+      "value": "☑️"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "QoS",
+      "feature": "Support SP, WRR Queue Scheduling",
+      "value": "☑️"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "QoS",
+      "feature": "Ingress Port-based Rate Limit",
+      "value": "☑️"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "QoS",
+      "feature": "Egress Port-based Rate Limit",
+      "value": "☑️"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "QoS",
+      "feature": "Egress port-queue shaper",
+      "value": "☑️"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "QoS",
+      "feature": "Policy-based QoS",
+      "value": "☑️"
+    },
+    {
+      "category": "QoS",
+      "subcategory": "QoS",
+      "feature": "Port Queue Numbers",
+      "value": "8"
+    },
+    {
+      "category": "Multicast Service",
+      "subcategory": "IGMP",
+      "feature": "IGMP v1, v2, v3",
+      "value": "☑️"
+    },
+    {
+      "category": "Multicast Service",
+      "subcategory": "IGMP Snooping",
+      "feature": "Internet Group Management Protocol Snooping",
+      "value": "☑️"
+    },
+    {
+      "category": "Multicast Service",
+      "subcategory": "IGMP Snooping",
+      "feature": "Fast Leave",
+      "value": "☑️"
+    },
+    {
+      "category": "Multicast Service",
+      "subcategory": "IGMP Snooping",
+      "feature": "Multicast Table Size",
+      "value": "1K"
+    },
+    {
+      "category": "Multicast Service",
+      "subcategory": "PIM-SM",
+      "feature": "Protocol Independent Multicast-Sparse Mode",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ACL",
+      "feature": "IP Standard ACL",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ACL",
+      "feature": "IP Extended ACL",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ACL",
+      "feature": "MAC ACL",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ACL",
+      "feature": "IPv6 ACL",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ACL",
+      "feature": "Time Range",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ACL",
+      "feature": "ACL apply on VLAN",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ACL",
+      "feature": "ACL Entries, Include Input and Output",
+      "value": "480"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "Port-security",
+      "feature": "Port Security",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "IP Source Guard",
+      "feature": "IP Source Guard, Port-based IP/MAC Binding Access",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "ARP Check",
+      "feature": "Invalid User ARP Packets Filter",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "DAI",
+      "feature": "Dynamic ARP Inspection",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "Anti-gateway ARP Spoofing",
+      "feature": "Prevent Gateway ARP Spoofing",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "Ddos",
+      "feature": "DDoS Attack Protection",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "802.1X",
+      "feature": "Port Access Control",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "802.1X",
+      "feature": "MAC Address Access Control",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "802.1X",
+      "feature": "RADIUS Server",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "AAA",
+      "feature": "RADIUS Authentication Access Switch",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "AAA",
+      "feature": "TACACS Authentication Access Switch",
+      "value": "☑️"
+    },
+    {
+      "category": "Security \nFeatures",
+      "subcategory": "AAA",
+      "feature": "Authorization",
+      "value": "☑️"
+    },
+    {
+      "category": "Reliability",
+      "subcategory": "Loop Detect",
+      "feature": "Loop Detect, Based on Port or VLAN",
+      "value": "☑️"
+    },
+    {
+      "category": "Reliability",
+      "subcategory": "EFM",
+      "feature": "The Ethernet in the First Mile, 802.3ah",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Dual Stack",
+      "feature": "IPv4 and IPv6 Dual Stack Management",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "System Log Management",
+      "feature": "Syslog Level 7 to 0, Corresponding Debug, Info, Notice, Warning, Err, Critical, Alert",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "System Log Management",
+      "feature": "Supports Connecting up to 3 Servers",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "System Log Management",
+      "feature": "For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "User Management",
+      "feature": "Support Password Protection, Support MD5/SHA256/SHA512 Algorithms",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "User Management",
+      "feature": "Local Management of User Privilege",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "User Management",
+      "feature": "Remote Authorization by RADIUS or TACACS",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "User Management",
+      "feature": "Enable privilege protection",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "User Management",
+      "feature": "User password complexity requirements",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "User Management",
+      "feature": "User login fail protection",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "User Management",
+      "feature": "User Privilege Level 0 to 15",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Login Service Management",
+      "feature": "Up to 8 Users Online Simultaneously",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Login Service Management",
+      "feature": "Access Control Based on IPv4 or IPv6 ACL",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Firmware Management",
+      "feature": "Firmware Upgrade via Web",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Firmware Management",
+      "feature": "Firmware Upgrade via CLI",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Firmware Management",
+      "feature": "Dual Partition",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Web Management",
+      "feature": "Web Management",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Web Management",
+      "feature": "HTTP V1.1",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Web Management",
+      "feature": "HTTPS",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Web Management",
+      "feature": "For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Fault Detection",
+      "feature": "Ping/Traceroute, For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Fault Detection",
+      "feature": "Dying Gasp",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Fault Detection",
+      "feature": "Optical Transceiver DDM",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Fault Detection",
+      "feature": "One Click Fault Information Collection",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Fault Detection",
+      "feature": "Cable Detect",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "DNS",
+      "feature": "Domain Name System",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "NTP",
+      "feature": "Network Time Protocol, For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "NTP",
+      "feature": "Support domain name configuration",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Configuration Import/Export",
+      "feature": "FTP/TFTP Based Remote Configuration Import and Export",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "Configuration Import/Export",
+      "feature": "USB Flash Drive-Based Local Configuration Import and Export",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "sFLOW",
+      "feature": "Sampled Flow",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "SNMP",
+      "feature": "SNMP v2c/v3",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "MQTT",
+      "feature": "Message Queuing Telemetry Transport",
+      "value": "☑️"
+    },
+    {
+      "category": "Management Features",
+      "subcategory": "RMON",
+      "feature": "RMON",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "PD Alive Detect",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "PoE Port Power Feeding Priority",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "PoE Port Power Limit",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "PoE Power Alarm Level",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "PoE Reserve Power",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "PoE Schedule",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "PoE Legacy Mode",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "PoE",
+      "feature": "IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "Telnet Server",
+      "feature": "Telnet Server, For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "Telnet Client",
+      "feature": "Telnet Client, For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "SCP",
+      "feature": "SCP Client/Server, For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "SFTP",
+      "feature": "SFTP Client/Server, For IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "Relay Warning",
+      "feature": "Relay Warning for I/O Control",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "SSH Server",
+      "feature": "Support User Password-Based SSH2 Login, IPv4 and IPv6",
+      "value": "☑️"
+    },
+    {
+      "category": "Application Protocol Features",
+      "subcategory": "SSH Server",
+      "feature": "Support public key-based login",
+      "value": "☑️"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+ "source": "RFP/Sftp reply_2024.7.11.docx",
+ "chars": 1305,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "Acl, Sflow, https and sftp"
+  },
+  {
+   "type": "p",
+   "data": "Acl and sflow are OK."
+  },
+  {
+   "type": "p",
+   "data": "Https will be realized by another Marvell chip function as we discussed before."
+  },
+  {
+   "type": "p",
+   "data": "Now we need to focus on Sftp."
+  },
+  {
+   "type": "p",
+   "data": "About one month ago, we first talked about this function."
+  },
+  {
+   "type": "p",
+   "data": "Here you mentioned image upgrading and security."
+  },
+  {
+   "type": "p",
+   "data": "The ready solution is FTP."
+  },
+  {
+   "type": "p",
+   "data": "FTP is about directly transmitting source files, not very secure as Sftp."
+  },
+  {
+   "type": "p",
+   "data": "While Sftp first encrypts local data and transmit it, more secure."
+  },
+  {
+   "type": "p",
+   "data": "According to our engineers, Sftp involves some points."
+  },
+  {
+   "type": "p",
+   "data": "Configuration import, export"
+  },
+  {
+   "type": "p",
+   "data": "syslog export"
+  },
+  {
+   "type": "p",
+   "data": "version upgrade"
+  },
+  {
+   "type": "p",
+   "data": "Some other possible functions"
+  },
+  {
+   "type": "p",
+   "data": "We need to understand EXACTLY your application scenarios to know the workload of R&D."
+  },
+  {
+   "type": "p",
+   "data": "It would be best if you have some references like below"
+  },
+  {
+   "type": "p",
+   "data": "A specific model with Sftp from any brand"
+  },
+  {
+   "type": "p",
+   "data": "Some projects you did before"
+  },
+  {
+   "type": "p",
+   "data": "Any information that helps"
+  },
+  {
+   "type": "p",
+   "data": "Then we will evaluate the R&D workload and leadtime."
+  },
+  {
+   "type": "p",
+   "data": "FYI, I would like you to see this"
+  },
+  {
+   "type": "p",
+   "data": "This is from our technical group."
+  },
+  {
+   "type": "p",
+   "data": "It means the software requirements we receive but not done yet."
+  },
+  {
+   "type": "p",
+   "data": "As I said before, if this order is CONFIRMED and a deposit is done, it will be easier to prioritize Sftp."
+  },
+  {
+   "type": "p",
+   "data": "That is why we need to know the exact applications of Sftp."
+  },
+  {
+   "type": "p",
+   "data": "And thanks for your efforts at your side."
+  },
+  {
+   "type": "p",
+   "data": "We will give our best offer(prices, prioritized R&D and leadtime) after evaluation."
+  },
+  {
+   "type": "p",
+   "data": "Thank you."
+  }
+ ]
+}

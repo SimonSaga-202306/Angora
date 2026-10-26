@@ -1,0 +1,28 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin",
+  "bytes": 62289840,
+  "sha256": "7fe48e24a87cdd731f9f238f3607ae9b1d41cb46b20ba8b64fa6feb52e5a70d4",
+  "seq": 142,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin)",
+  "magic_hex": "fd377a585a000004e6d6b44604c09dcf",
+  "head_strings": [
+    ">QeL0)",
+    "*(Upb$",
+    "4LMABQd",
+    "1y*8h+",
+    "nnf`lxt",
+    "`~s\\g?",
+    "/8ufXF",
+    "-&;pn7$L",
+    "{Xc*t=",
+    "TPOJ96",
+    ")F/#,c",
+    "[Rk3co",
+    "2~2a9(h",
+    "j&$8.i$"
+  ],
+  "head_strings_note": "first 8 KiB only; full payload is firmware and is pinned by sha256, not text-extracted"
+}

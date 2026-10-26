@@ -1,0 +1,82 @@
+# 采购合同.pdf
+
+> 来源：`1st order sample  3层10G 24口 48口/采购合同.pdf`　·　页数：1　·　提取字符数：1713
+
+---
+
+
+## Page 1
+
+郑州仨戛通讯器材有限公司
+地址: 郑州市管城区航海路中州大道富田太阳城57号楼22层316
+电话: 86 15237149683                                          www.sagatelecom.com.cn                       Email: s.sagatelecom@gmail.com
+**********************************************************************************************************************
+采购合同
+买方: 郑州仨戛通讯器材有限公司
+Zhengzhou Saga Telecom Co., Ltd.
+地址： 郑州市管城区航海路中州大道富田太阳城57号楼22层316
+Room 316, 22nd Floor, Building 57, No. 2 Hanghai East Road, Guancheng District, Zhengzhou, Henan, China, 450009
+采购订单编号 STSC20240508007
+电话: 86 15237149683
+邮箱 s.sagatelecom@gmail.com
+联系人: 程天龙(Simon Cheng)
+卖方: 深圳凌特华盛科技有限公司
+Shenzhen SmartByte Technology Co.,Ltd
+地址：
+广东省惠州市惠阳区镇隆镇力合优科创新基地1栋8楼  邮编：516227
+8th Floor, 1st Building, Lihe Youke Innovation Base, Zhenlong town, Huiyang district, Huizhou city, Guangdong 
+Province, 516227
+联系人: Peter Hu/13714293521/peter@smartbyte.com.cn
+订单日期: 9th, May, 2024
+付款条款 工厂直发，款到生产，包邮
+发货地址 经双方协商后，直接发给国外客户
+产品型号 品名规格 数量 
+(个)
+单价
+(RMB)
+小计
+(Sub-total)
+LT-S8210GP-
+2GX8GT
+商业交换机
+混合速率，2个1G/2.5G SFP光口+8个1G网口
+2层管理，PoE af/at, 配52V120W电源
+不含光模块，1年质保，欧规电源线
+2 500 1000
+LT-S8528XGP-
+4XS24GT
+商业交换机
+混合速率，4个1G/2.5G/10G SFP光口+24个1G网口
+3层管理，PoE af/at, 内置单电源440W
+不含光模块，1年质保，欧规电源线
+1 1900 1900
+LT-S8552XGP-
+4XS48GT
+商业交换机
+混合速率，4个1G/2.5G/10G SFP光口+48个1G网口
+3层管理，PoE af/at, 内置单电源440W
+不含光模块，1年质保，欧规电源线
+1 3100 3100
+TOTAL 4 6000
+常规备注
+中性设备
+不放保修卡，非必要的都不放，QC贴纸不要贴，送货单等不要放
+挂耳 放
+说明书 商业管理
+标签/箱标产品类目 Commercial Switch
+标签/箱标描述 具体议定
+序列号 20240509001（20240509002）
+装箱 2个LT-S8210GP-2GX8GT装一起，另外2台1U机架装仪器
+防水膜 打
+电源线规格 欧规
+运费 免除
+拍照拍视频 需要
+特别需求
+型号 3款依次为ANW-2208-PG，ANW-3424-PX，ANW-3448-PX，需体现在管理界面和标签上
+Logo 加在管理界面中，经客户确认后出货
+Serial Number 标签使用上述写的20240509001，管理界面中尽量也使用这个
+交期 无强制要求，尽量在14号前发货
+买方: 郑州仨戛通讯器材有限公司
+签字代表：程天龙(Simon Cheng)
+买方盖章
+2024.05.09

@@ -1,0 +1,21 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "5th order sample  2层10G 24口 48口/Shipment Info/TRX web gui.png",
+  "bytes": 40667,
+  "sha256": "8d892e696728e6e0a51bd8f6ac0684573d11fe15e06c20fa4930bf010b2b4bdc",
+  "seq": 227,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:5th order sample  2层10G 24口 48口/Shipment Info/TRX web gui.png)",
+  "image": {
+    "format": "PNG",
+    "width": 1251,
+    "height": 546,
+    "mode": "RGBA",
+    "frames": 1,
+    "dpi": [
+      95.9866,
+      95.9866
+    ]
+  }
+}

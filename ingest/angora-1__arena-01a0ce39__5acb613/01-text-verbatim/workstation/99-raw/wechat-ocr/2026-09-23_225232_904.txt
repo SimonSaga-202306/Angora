@@ -1,0 +1,426 @@
+# SOURCE: Weixin Image_2026-09-23_225232_904.png
+# SIZE: 1547x19619  SLICES: 19
+############################################################
+Levent KILIC
+7/6 Monday 17:09
+Hi Simon, we are working on positioning the unstackable L2+ Industrial version for the TT project.
+Here is a draft for a quick user manual to come out of the box. Just a draft for now for your review.
+ELS-L2PI-8GP-2F-
+...2026.pdf
+PDF
+418.8K
+微信电脑版
+We can pls actual pictures at a later version. This is just a draft
+Hi, Levent,
+thanks for your info.
+Good to know this
+Our technical resources are poured on L2+ features
+Support and R&D will be easier and better
+Elips Teknoloji is your another company or bidding partner?
+yes i hvae noticed... thanks. great work on your end
+7/6 Monday 17:12
+that is bidding partner and they are the money (i.e. capital) behind this deal.
+great! I will fed it to Al
+pls let us know what we can do for this project
+go ahead...
+Thanks, I will keep you posted
+go ahead...
+Thanks, I will keep you posted
+7/6 Monday 17:39
+1. 8 Port Gigabit PoE+ · 2 Port SFP
+8 Port Gigabit PoE+ (30W per port) · 2 Port SFP
+2. CE/RoHS/FCC/Eco-friendly mark
+3. Maybe it is better to indicator the color on the front panel
+now it is P S = both are green
+this is not right
+S = red color
+4. Console port position
+It is on the side panel
+So this conflicts with the front panel and DC wiring diagram
+5. IP Adresi ile Giris (Web)
+maybe it is better to add a line as below
+ELIPS
+ELiPSTEKNOLOJi
+ENDOSTRiYEL AG COZOMLERi
+ELS-L2PI-8GP-2F
+8 Port Gigabit
+ort SFP
+Yonetlobir L2Em
+yel EthernetSwitch
+OC.44-57V
+SikIn.
+·Enerji verin; On paneldeki guc gostergesi yaniyorsa besleme
+normaldir.
+YONETiM ARAYUZUNE GiRiS
+Bu blm yahzake bir gistanmdr ainWbCU yneim
+IP Adresi ile Giris (Web)
+1. Taraycy apn ve adres qubuguna IP adn
+rsini girin (Google
+Chrome onerilir).
+2. Varsaylan IP adresi: 192.166.56.166
+3. Kujinicr edi / Parola: her Iisi de edmin
+Konsol Portu lie Gairis
+1. Seri port yazlmini apn [SecureCRT veya PuTTY); “New Ses
+pls check
+7/6 Monday 17:47
+Sorry about the system indicator: S=green = managed models S=red = unmanaged models
+this is a mistake in our datasheet@9
+7/6 Monday 18:34
+Thanks.
+eTnourdatasnieetey
+7/6 Monday 18:34
+Thanks.
+7/8 Wednesday 01:03
+Hi Slmon, just a quick question out of curiosity: Any plans to support MACSec feature on models with AC5
+chipset?
+7/8 Wednesday 13:34
+Hi, Levent,
+h • Taylan Esen, Levent Kilc
+wailing for the latest BiIN fle for AC6 :
+LAC6 trant
+foning, I talked a bit wih L
+About he MACSec fhature, Itis NOT avallabie.
+n29 /gro
+2. low ROI
+I just sent an email
+and there is this
+lite-hotfix-7.3.13.bin
+59.4M
+微信电脑版
+pls transfer this to Taylan
+thanks
+7/8Wednesday14:15
+Hi Simon. Thanks for
+7/8 Wednesday 14:15
+Hi Simon. Thanks for
+7/20 Monday 13:22
+Hi Simon.. Initial version for partner/ customer field engneer training
+ANW-Switch-Training-
+...nfig.pdf
+PDF
+607.4K
+微信电脑版
+7/20 Monday 13:54
+Hi, Levent,
+Thanks for your info, its a great piece!
+Maybe we can add
+1 CCTV Network Deployment
+Small CCTV Site
+IP Camera
+PoE Port 1-16
+ANW-L2PS-24TP
+10G Fiber
+Core Switch
+NVR Server
+In this diagram, some focus should be on Camera VLAN / PoE budget / uplink bandwidth/ multicast
+7/20 Monday 13:55
+2 IGMP Snooping
+Multicast flooding may cause frozen cameras though ping is normal
+Benefits
+Reduce multicast flooding
+2 IGMP Snooping
+Multicast flooding may cause frozen cameras though ping is normal
+Benefits
+Reduce multicast flooding
+Improve NVR stability
+Support large camera deployment
+3 PoE Budget planning
+This is more application-oriented
+As we know, in a real project, different PDs require not exactly the same power budget
+Like 8W 15W
+And in some cases, it would be night IR or PTZ movement
+4 Fiber Uplink Bandwidth Planning
+Why 10G uplink is more useful? Rather than 1G or 2.5G
+If this switch delivers power to 24*4MP H.265 cameras,the bandwidth is roughly around 150Mbps
+For small deployment, 1G/2.5G is good enought
+But if it is multi-switch CCTV deployment like below
+Core/NVR
+10G
+Aggregation Switch
+10G10G
+10G
+Access1 Access2 Access3
+24cam
+The fiber uplinks probably cannot handle a massive surge in traffic
+But 10G is good!
+5 QoS
+Camera Video Management Voice Data
+There might be different service sources, the importance is not same
+QoS could help optimize and organize it when massive traffic comes in
+6 ERPS Ring Connection and Protection
+This is very useful in some traffic and governmental projects
+And together with point 4, when one switch is down, the traffic to other switches increases instantly, 10G
+uplink is still good!
+7 CCTV Troubleshooting
+When cameras go offline, what a salesperson should guide the clients like what items should be checked
+And together with point 4, when one switch is down, the traffic to other switches increases instantly, 10G
+uplink is still good!
+7 CCTV Troubleshooting
+When cameras go offline, what a salesperson should guide the clients like what items should be checked
+and tested
+show poe interface
+show interface brief
+show vlan
+Ping camera
+Etc.
+When video is frozen, what should be done?
+· bandwidth
+· multicast
+· IGMP
+uplink bandwidth calculation
+Etc.
+pls refer to it, some of it is from GPT and some is from my daily work!
+thanks
+Great additions. Thanks Simon. I will definitely add them in the training materials
+those points are very helpful in our work
+like point 4 6 7
+7/20 Monday 14:51
+Pls check the new module, Moduke 5 in the training. A special section for camera and CCTV configuration
+and trouble shooting
+ANW-Switch-Training-
+Installation-Bas...CCTV.pdf
+PDF
+695.4K
+微信电脑版
+7/20 Monday 15:15
+Installation-Basi..CCTV.pdf
+PDF
+695.4K
+微信电脑版
+7/20 Monday 15:15
+Hi Levent
+1. PD Alive Detect
+Application Protocol Features -> PoE -> PD Alive Detect
+This is very useful to reduce maintenance cost, dont have to send a person to do on-site troubleshooting
+2. According to GPT
+This material is good enough
+But
+It is not "sales" enough, its like
+why there is PD alive feature, what value it delivers
+what if I dont have 10G uplinks, but 1G fiber ports
+How IGMP Snooping helps reduce operation cost
+etc.
+Its about many QAs and customer value
+Maybe this is for next version, more sales oriented
+For now, this version is good enough
+Thanks
+7/20 Monday 15:23
+This is for partner / customer field engineer training
+aha, its good enough!
+7/20 Monday 15:28
+thanks. and mey be even position the CCTV as a use-case rather than a training module.
+GPT's reply is very insightful
+for technical training, its good enough
+am a salesperson, so a version with many QAs and value delivery is very necessary!
+for technical training, its good enough
+am a salesperson, so a version with many QAs and value delivery is very necessary!
+it gives a new direction
+7/20 Monday 15:35
+100%
+Before we have an interal Technical Sales White Paper
+we will try to release another version, will share when its ready
+no problem
+I will let u know soon
+7/31 Friday 15:49
+Hey Aimon, how are you doing ? All okay?
+Hi Levent, I am good, thanks
+I think all okay...
+haha
+7/31 Friday 15:51
+A customer has been testing our 24-port L2+ model. One of the feedback he has is the following:
+Some L3 features (vrrp,bgp,ospf,isis) are visible in the software but not active. May be should be turned off
+7/31 Friday 15:51
+A customer has been testing our 24-port L2+ model. One of the feedback he has is the following:
+Some L3 features (vrrp,bgp,ospf,isis) are visible in the software but not active. May be should be turned off
+completely.
+I get it, the point is, we should remove it from the web ui since its not working on a L2+ model
+right?
+7/31 Friday 16:02
+Correct.BothCLl andwebUi
+ok thanks for the feedback, I will check with our engineering team
+we just got a new domain: www.sagatele.com
+Ooooo that' s a good one
+順
+like this one
+its better than the last one: .cn
+in the meantime
+saga-
+telecom-20260728(1).html
+HTML
+in the meantime
+saga-
+telecom-20260728(1).html
+HTML
+37.3K
+微信电脑版
+Very nice move. I like it.
+pls check this
+its about some new Saga concept
+the .cn domain will still be used, but not as the main site
+we are still evolving!! haha
+That' s great Simon.
+I have some suggestions too, for mid to long term
+yes please
+7/31 Friday 16:07
+I would like tomake long term strategicplans betweenSaga and Angora
+I have this one comment for an Enterprise Level Layer 3 model. High end premium model
+yes pls
+Let me get my thoughts around it and share a document with you
+Levent KILiC: I would like to make long term
+Let me get my thoughts around it and share a document with you
+Levent KILiC: I would like to make long term
+strategicplansbetween Saga and Angora
+sure
+Thanks. Will keep you posted
+thanks
+i will let u know if we have any updates here
+7/31 Friday 16:11
+always happy to hear from you...
+7/31 Friday 16:25
+just confirmed, its already removed
+Levent KILIC: Correct. Both CLI and web UI
+the model at your client's was purchased like 14 months ago(at the very least)
+its an old version..
+haha
+7/31 Friday 16:53
+there you are... great team... thanks Simon... May be you can share the bin file some time at your
+convenience.no rush
+ves.
+there you are... great team... thanks Simon... May be you can share the bin file some time at your
+convenience.no rush
+yes, some other clients are also waiting
+once the latest AC5 version is available, I will let u know
+btw: AC3 series is now distinued
+isfer this to Taylar
+this is the last version
+all focus is now on AC5 new series
+7/31 Friday 17:26
+That' s great news
+7/31 Friday 18:47
+weekend reading for you
+Let's discuss this before you take it up to the management
+SAGA Enterprise L3
+Recommendatio...port.pdf
+PDF
+149.3K
+SAGA Enterprise L3
+Recommendatio...port.pdf
+PDF
+149.3K
+微信电脑版
+8/3 Monday 13:30
+Hi Levent, Thanks a lot for this!
+Levent KILIC:  SAGA Enterprise L3
+Recommendation Report.pdf
+PDF
+pls give us some time, will let u know, busy with the domain issue now
+8/3 Monday 13:46
+Hi Simon, please take as much time as you need.
+Thank you for even taking the time to read it
+thanks a lot, I read it like 2 or 3 times, haha
+we will have an internal discussion and let u know
+8/10 Monday 16:05
+Hi Levent, just to let u know that we had an internal discussion
+will send a reply within this week
+thanks
+will send a reply within this week
+thanks
+8/10 Monday 16:10
+Hi Simon. That' s great. I really appreciate you guys taking our views seriously.
+We definitely want to expand business with Saga. I think it' s a mutual benefit for both parties.
+8/10 Monday 16:12
+thanks, Levent
+we appreciate your inputs too
+And to be fair to the Chinese Al technology (DeepSeek and Qwen etc) it would be a much higher quality in
+a much shorter time frame to develop new software, IF YOU KNOw wHAT YOU ARE DOING.
+is this about the features in the proposal?
+Levent KILlC: And to be fair to the Chinese Al
+technology (DeepSeek and Qwen etc) it would b..
+technology, new software would not be an issue for Saga.
+That's what I meant
+Because you guys know what you are doing
+thats the good part and also the bad parte?
+Levent KILlC: Because you guys know what you
+are doing
+which also means, we dont alter easily..
+Aha ha ha
+understand what you mean
+Aha ha ha
+understand what you mean
+we also discussed a bit about Larch networks
+Oh okay, what about them ?
+8/10 Monday 16:18
+as far as we know, they are selling part of their sonic software system
+maybe a change in the business roadmap
+they are good at software, we do hardware
+actually this is the tricky part for the proposal
+hardware part is not a big issue, but software is(R&D, maintenance ROl etc.)
+well, let me just be straightforward
+Go ahead and
+for Marvell L3 models, its difficult to make big progress in short time
+You guys already have hardware for Sonic ?
+maybe Centec L3 is a good option
+Yes sure
+Simon: maybe Centec L3 is a good option
+not really, some close partners are doing Sonic with Larch networks
+Levent KILiC: You guys already have hardware for
+Sonic?
+not really, some close partners are doing Sonic with Larch networks
+Levent KILlC: You guys already have hardware for
+Sonic?
+for now, our Marvell solutions are basically centered on L2+
+8/10 Monday 16:23
+Can your close partners also provide a sample hardware for Sonic for us too?
+This is fine
+Simon: for now, our Marvell solutions are basically
+centered on L2+
+CENTEC is on L3
+for the proposal, most are standard L3 features, in the long run we think, our Marvell solutions are not
+supportive enough (technical support, R&D etc.)
+we would recommend switching to CENTEC chipset solution
+almost all features are available if we go for CENTEC
+Centec is fine for Layer 3 as long as stacking and all other protocols are available
+am not sure, as far as we know, they are still working on it
+Levenl KILlc: Can your close par lners also provide
+a sample hardware for Sonic for us too?
+8/10 Monday 16:25
+but I guess there is a chance
+yes, almost all features are available
+Levent KILiC: Centec is fine for Layer 3 as long as
+stacking and all other protocols are available
+That' s good
+yes, almost all features are available
+Levent KILiC: Centec is fine for Layer 3 as long as
+stacking and all other protocols are available
+That' s good
+We can test centec I3
+ok, we will send a detailed reply soon to explain all of this
+8/10 Monday 17:21
+great...thank you
+8/17 Monday 17:22
+Hl Levent I hope you had a good weekend
+i am busy with some personal matters
+Reply on SAGA Enterprise
+L3 Recommenda...port.pdf
+PDF
+210.7K
+微信电脑版
+pls check this
+our roadmap is fixed now, so it would be a strategic move about CENTEC L3..
+mean for both sides
+Simon: our roadmap is fixed now, so it would be a
+strategic move about CENTEC L3..
+8/17 Monday 17:29
+Hi Simon, many thanks. I will read it carefully
+8/17 Monday 17:29
+Hi Simon, many thanks. I will read it carefully
+I hope nothong erious on the personal side... Take care my friend
+haha no, its about coding. I've using Al to write some codes for personal use, you know, to earn more
+money, haha
+Levent KILiC: I hope nothong erious on the
+personal side.. Take care my friend
+actually this reply is not complex, its about your business plan
+Saga's roadmap is already fixed..
+its like
+Y
+Send

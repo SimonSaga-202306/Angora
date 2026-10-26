@@ -1,0 +1,334 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip",
+  "bytes": 2671468,
+  "sha256": "1c34e96cf9b88f4a598a63c281b076cf0d863ab69803aafdbddf917260ea5c11",
+  "seq": 85,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip)",
+  "archive": [
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": "00000000",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        31,
+        8
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-01.jpg",
+      "bytes": 209444,
+      "compressed": 180200,
+      "crc32": "7b66e955",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        31,
+        8
+      ]
+    },
+    {
+      "name": "__MACOSX/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": "00000000",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        31,
+        26
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": "00000000",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        31,
+        26
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK-01.jpg",
+      "bytes": 120,
+      "compressed": 57,
+      "crc32": "af91f59f",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        31,
+        8
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-01.png",
+      "bytes": 44018,
+      "compressed": 38782,
+      "crc32": "cb41c5d7",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        30,
+        56
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-02.jpg",
+      "bytes": 206939,
+      "compressed": 175547,
+      "crc32": "95eb15a2",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        31,
+        8
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK-02.jpg",
+      "bytes": 120,
+      "compressed": 57,
+      "crc32": "af91f59f",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        31,
+        8
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-02.png",
+      "bytes": 38126,
+      "compressed": 33431,
+      "crc32": "60718f60",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        30,
+        56
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK.ai",
+      "bytes": 928709,
+      "compressed": 911890,
+      "crc32": "360b0e40",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        24,
+        58
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK.ai",
+      "bytes": 120,
+      "compressed": 57,
+      "crc32": "581f57d0",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        24,
+        58
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK.pdf",
+      "bytes": 585508,
+      "compressed": 400835,
+      "crc32": "42c135cf",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        30,
+        2
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK.pdf",
+      "bytes": 210,
+      "compressed": 119,
+      "crc32": "940fc2f8",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        30,
+        2
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-01.jpg",
+      "bytes": 85928,
+      "compressed": 71223,
+      "crc32": "e24d8314",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        10
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB-01.jpg",
+      "bytes": 120,
+      "compressed": 57,
+      "crc32": "af91f59f",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        10
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-01.png",
+      "bytes": 4779,
+      "compressed": 4695,
+      "crc32": "c6271b07",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        26
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-02.jpg",
+      "bytes": 86906,
+      "compressed": 72259,
+      "crc32": "d24c7350",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        10
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB-02.jpg",
+      "bytes": 120,
+      "compressed": 57,
+      "crc32": "af91f59f",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        10
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-02.png",
+      "bytes": 5705,
+      "compressed": 5611,
+      "crc32": "c91b577f",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        26
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB.ai",
+      "bytes": 380793,
+      "compressed": 355548,
+      "crc32": "5b7fcc0d",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        28,
+        54
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB.ai",
+      "bytes": 210,
+      "compressed": 119,
+      "crc32": "2debfdcc",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        28,
+        54
+      ]
+    },
+    {
+      "name": "DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB.pdf",
+      "bytes": 607857,
+      "compressed": 415755,
+      "crc32": "dcffe522",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        48
+      ]
+    },
+    {
+      "name": "__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB.pdf",
+      "bytes": 210,
+      "compressed": 119,
+      "crc32": "940fc2f8",
+      "modified": [
+        2020,
+        3,
+        11,
+        14,
+        29,
+        48
+      ]
+    }
+  ]
+}

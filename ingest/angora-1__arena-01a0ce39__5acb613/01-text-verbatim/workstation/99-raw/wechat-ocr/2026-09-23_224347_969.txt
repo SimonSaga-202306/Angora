@@ -1,0 +1,391 @@
+# SOURCE: Weixin Image_2026-09-23_224347_969.png
+# SIZE: 1545x21429  SLICES: 21
+############################################################
+Levent KILIC
+2025-6-18 16:59
+Hi, Levent
+Issue 1
+I mentioned this topic(exchange rate) on 25th, Apr. on WeChat
+It was 1USD=38.42 Turkish Lira
+Today(18th, June) is 1USD=39.52 Turkish Lira
+In this duration, we received 2 payments adding up to 5420USD
+That will be a 5420*1.1 =5962 Turkish Lira difference.
+In practice, the amount difference may vary
+But the point is, perhaps you could stock some units(purchased before or new models) beforehand to lock
+the exchange rate, and then save some money.
+We are discussing this big project, and maybe some other new orders
+This might be a good and feasible proposal
+Issue 2
+Any news about the demo switches?
+Issue3
+The last order(a few commercial switches) is now in customs clearance.
+Please do the needful.
+thanks
+2025-6-18 17:05
+Hi Simon, you are very correct. That' s why we try to make sales in UsD$ to avoid these damages, but
+there is no escape. You get caught at one point
+2025-6-18 17:05
+Hi Simon, you are very correct. That' s why we try to make sales in UsD$ to avoid these damages, but
+there is no escape.You get caught at one point
+Issue 2: we expect to finalize discussions this week. As soon as we finalize we will place the order
+Issue 3: I am working on the customs process
+Thanks
+Ok, thanks, Levent
+2025-6-19 20:54
+Hi Simon, how are you doing
+We will need 6 pcs of STI-288DGGPM(L2+)
+For demopurposesfor thebigproject
+Can you please send the Pl
+Weplantransferringthemoneytomorrow
+Hi, Levent.
+Sure, thanks for the info
+2025-6-20 11:31
+Simon hi
+Thank you for the invoice
+Good morning, Levent
+Thank you for the invoice
+Good morning, Levent
+Just a quick question: do you have the version of the switch with RS485 connector in the front? Like the
+picture on the web ?
+yes
+but it will be more expensive
+2025-6-20 11:33
+I am about to discuss this with you
+actually we would like to offer this model with Dl DO RS485
+Okay. I think we would need this version. How much more
+25usd more
+Hmmm that' s not little
+yes
+we will promote this in Q4 datasheet
+anyway, your target budget for adding this feature?
+I understand. It' s Marvell AC5, correct?
+yes
+new chip AC5 with FULL AC3 features and got more to offer
+Okay.
+great
+Do you think we can achieve $140
+I think so
+1, its for demo purpose of the big project, right?
+Great.
+Yes this is the demo for the big project
+2, as I mentioned before, we are shifting AC3 to AC5 now
+2025-6-20 11:38
+AC5 is okay
+Thencoupleofrequests
+2025-6-20 11:38
+AC5 is okay
+Then couple of requests
+1- can you please revise the invoice
+2- Taylan needs the drawings for the mechanical sizes. If not available on the web, can you please share
+them in a separate email
+3- product code will be TT-2208-PG to show PoE naming
+4- Show TT information on web and label
+2025-6-20 11:44
+1.OK, I will revise the invoice with added info
+2.Do you mean the source drawing or just a photo?
+If it is a photo, its already in the datasheet Q3
+3.0K
+4.0K
+5.Currently the PVC is neutral, do we just not supply it in this order?
+6.We need serial info from you.
+25052208C0103~25052208C0603isOK?
+2025-6-20 11:45
+thanks
+I meant the source drawing please
+Neutral PVC is fine for this demo order
+OK
+Levent KILiC: I meant the source drawing please
+OK
+Levent KILIC: Neutral PVC is fine for this demo
+order
+you can remove it when necessary
+Serial
+order
+you can remove it when necessary
+Serial numbers are okay for this demo order too
+thanks, I will share info on email soon
+Thank you
+2025-6-20 13:26
+Hi Simon, I will talk to the bank this morning for the transfer
+Can you please share the updated invoice
+Ok, soon
+STSC20250619007 R1.pdf
+PDF
+230.1K Not Downloaded
+微信电脑版
+User Manual _STSC202506
+19007.pdf
+PDF
+434.8K Not Downloaded
+微信电脑版
+this user manual is OK?
+2025-6-20 13:47
+Yes, manual is great. We will still appreciate the drawings
+And for the big order, may be we can prepare a Turkish version here and share with you to print and place
+in the boxes during production
+Yes, manual is great. We will still appreciate the drawings
+And for the big order, may be we can prepare a Turkish version here and share with you to print and place
+in the boxes during production
+2025-6-20 14:07
+Please check the drawing info, checking if possible to get CAD file for you
+Yes, a Turkish version will be fine
+STI-288DGGPM drawing.ai
+1.0M Not Downloaded
+微信电脑版
+STI-288DGGPM
+drawing.pdf
+PDF
+314.3KNot Downloaded
+微信电脑版
+And news is, we now can customize the web gui language with below terms
+1, it will be client' s side to handle the translation, we will share info to be translated
+2, when we have the translation, we will work on the software part
+3, MoQ is 1000 pieces, cost is to be decided
+Just fyi, maybe someday its useful
+I will send a copy of shared info on email soon
+Thank you very much Simon
+thanks, Levent
+Just sent instruction to the bank for payment trasfer. Will keep you posted
+it is only 09:11 here ;-)
+duly noted :-)
+it is only 09:11 here ;-)
+duly noted :-)
+Simon: And news is, we now can customize the
+web gui language with below terms 1, it will be c..
+2025-6-20 14:12
+5 hours gap, you are always very earlye
+Aha ha ha... There is a saying in English: Early bird gets the worm. There is a Turkish version. As I am sure
+there is a Chinese (Mandarin) version
+not word for word, but the context is there
+In Turkish version we say early riser (who wakes up earlier) walks longer way.
+haha, yes, there is indeed
+There is a literal translation of "Early bird gets the worm" 早起的鸟儿有虫吃
+a local saying will be 笨鸟先飞 which literally means "clumsy birds have to start flying early
+2025-6-20 14:17
+or the slow need to start early
+quite similar, not sure if it is the same in English
+Btw, 2 small issues
+1, https://networkmarket.online/
+This website is not available now?
+Cannot open it, before it was OK
+2, before we discussed some APs and optical modules
+Maybe we can do something here beforehand
+1, https://networkmarket.online/
+This website is not available now?
+Cannot open it, before it was OK
+2, before we discussed some APs and optical modules
+Maybe we can do something here beforehand
+2025-6-20 14:23
+Network market is now closed. We did not do a lot of business
+2025-6-20 14:32
+ok
+lets see if we could explore some new business modes
+STI-288DGGPM
+drawing.dxf
+17.8M Not Downloaded
+微信电脑版
+there is a lot of Chinese remarks
+this cad file is for your reference, you can revise it when necessary
+I will share a copy of all info on email now
+2025-6-20 14:44
+Let' s look at Europe
+Simon: lets see if we could explore some new
+business modes
+Thanks
+Simon: I will share a copy of all info on email now
+yes, actually we studied EU market with the help of ChatGPT
+got some useful info
+yes, actually we studied EU market with the help of ChatGPT
+got some useful info
+lets see
+Great
+Please watch your bank account
+The payment should land before the end of business today
+By the way, Taylan said we need the other version (without RS485 ports)
+Sorry for the change
+ok, thanks, I will let u know when we have news
+Levent KILlC:Please watch your bank account
+TT will order whatever they see at demo. So it' s important we show them correct model
+你撤回了一条消息
+ok, so this time we will offer with or without Dl/DO/RS485?
+2025-6-20 14:49
+Without
+2025-6-20 14:53
+ok
+2025-6-20 15:07
+Just sent an email, pls check
+2025-6-20 15:07
+Just sent an email, pls check
+2025-6-20 18:21
+Hi, Levent.
+news for you, we are now trying to open a new HK bank
+which accepts your local currency directly
+then you got options
+payment could be in Lira or USD, whichever is better to save your cost
+according to Chatgpt, it seems that you need to bear some extra cost in exchanging Lira to USD(then wire
+it to us)
+so this is it
+trying to do something useful to enhance our business relationship
+thanks
+2025-6-20 19:43
+Hi  Simon that' s great for us.
+I will checkwithour finance aswell
+2025-6-20 19:50
+2025-6-23 13:35
+2025-6-20 19:50
+2025-6-23 13:35
+Good morning, Levent
+1, we got the payment, thanks
+2, for this demo order, the production time is long, we are waiting for AC5 chips.
+Its expected to get ready 6 units on 7th, July.
+That will be in 2 weeks, sorry for this
+3, we now have a bank account for receiving TRY(Lira), maybe next small order, we can try it
+4, before this demo order is ready, we can take some time discussing the market issue etc.
+I did some study with the help of Chatgpt about promotion, branch office etc.
+Thank you
+2025-6-23 14:04
+Hi Simon, thanks for the update. We can definitely try the TRY transfer next time.
+This demo order is very important to show to the customer to secure the contract. I am afraid we cannot
+wait that long. We can ship with AC4 chips for now if we ca meet the timeline.
+order coming up.
+2025-6-23 14:29
+Hi, Levent,.
+Thanks for your info
+pls confirm with Taylan, if its urgent, lets do AC3 chip(same as previous order)
+Levent KILiy: Ihis demo order is very important to
+show to the customer to secure the contract. I a...
+now AC5 chip is on the way, a little long to be ready
+Levent KILlC: Hi Simon, thanks for the update. We
+now AC5 chip is on the way, a little long to be ready
+Levent KILIC: Hi Simon, thanks for the update. We
+can definitely try the TRY transfer next time.
+OK
+Levent KILlC: We should definitely discuss the
+market issue. I also have some points to discuss .
+2025-6-23 14:41
+I just checked with Taylan. It seems we don't have SFTP and HTTPS in AC3.
+However due to the project timing, pls ship these 6 units with AC3.
+We will soon order another 10 units for pilot. Pls arrange AC5 for this 10 units and the big order.
+ok, lets do AC3 chip for 6 units
+你撤回了一条消息
+2025-6-23 14:46
+for another 10 units(AC5 based), maybe lets try TRY transfer
+about the market issue and the big project, how do we move on? like an online meeting or a detailed
+discussion on email?
+yes, let's try that
+Simon: for another 10 units(AC5 based), maybe
+lets try TRY transfer
+2025-6-23 14:55
+We have some partners in this project. We are okay for now, but we may have some commercial challenges
+along the way.
+2025-6-23 14:56
+straiabt
+along the way.
+2025-6-23 14:56
+They want to control finances, since we do not have the bulk cash, they want to transfer the money straight
+to Saga.
+But e do not want them to know your name. They may try to negitoate behind our back
+So I am thinkg for some time how we can secure our relationship
+We have some other costs embedded in the equipment cost hich we need to pay other people.
+Anywys it's a long story.
+I will push them to place the order with us.
+I guess this is the thing you mentioned before?
+But we need a plan B
+correct
+Simon: I guess this is the thing you mentioned
+before?
+got it
+2025-6-23 15:01
+husiness
+got it
+2025-6-23 15:01
+We actually would like to talk with you directly, both parties know the patterns(payment, business
+discussions, shipment etc.)
+Its easy to deal with you directly
+same for us too... May be we can find a solution.
+We can be your exlcusive distributor in Turkey ?
+I dont know if you have other customers in Turkey. We can pass all transactions over Angora.
+For other customers we can discuss margins
+Some special arrangement between us
+Lets say if this really happened, you can tell us what we should do, we will follow your instructions
+Very recently, we did some research on market issues
+That is to say, we are happy and now working to build a long-term business tie with you
+This project seems to be a one-time order(maybe there are new ones in the future)
+But it cannot be compared with our long-term business relationship
+Wc havc bccn coopcrating with cach othcr for onc ycar anyway
+And we both poured some decent efforts to secure this
+thats one of the points we would like to discuss with you
+Levent KILlC: We can be your exlcusive distributor
+in Turkey?
+thats one of the points we would like to discuss with you
+Levent KILlC: We can be your exlcusive distributor
+in Turkey ?
+actually I got a list of points to discuss martet issues
+okay great. If you can start an email with the points, then we can schedule a conference call or a video call
+2025-6-23 15:06
+How does that sound ?
+last year we had a meeting, I mentioned the EU market issue
+this year, we can have more discussions, and this time, I talked with Chatgpt about this, benefit a lot from
+its answers
+sure
+Levent KILlC: okay great. If you can start an email
+with the points, then we can schedule a conferen...
+great..I am looking forward to getting your email
+I will send an email first, you can comment and add your ideas
+then we can have a meeting to discuss all points
+Levent KILiC: great..I am looking forward to
+getting your email
+2025-6-23 15:40
+Hi again, Levent
+2025-6-2315:40
+Hi again, Levent
+2025-6-23 15:40
+news is, we borrow 6 units(AC5 based) from another order(not very urgent)
+so we will ship AC5 based units for this demo order
+it will be ready on 26th or 27th
+thanks
+2025-6-23 15:50
+That's great news Simon. Thanks
+2025-6-23 15:55
+2025-6-23 16:20
+Just received the shipment for 14 pcs
+Did you include the PVCs in the
+no
+Just the labels ?
+its like this
+last time, you said no need of customized PVCs this time
+I am getting the email content now
+2025-6-24 18:35
+Thanks Simon. No worries
+m waiting for your email about distribution
+And shipment date for the 6 pcs AC5 models
+2025-6-24 19:46
+Hi, Levent
+around 26th or 27th
+Levent KILlC: And shipment date for the 6 pcs AC5
+models
+around 26th or 27th
+Levent KILlC: And shipment date for the 6 pcs AC5
+models
+Ok, it will be more than distribution
+Levent KILiC: I' m waiting for your email about
+distribution
+I will let u know, thanks
+2025-6-24 20:27
+thanks... great
+thanks, writing it now
+I will share it before shipment
+looking forward to it
+2025-6-25 13:47
+Good morning, Levent
+I just sent an email, its about the new proposals
+2025-6-25 13:48
+pls check and let me know, thanks
+Hi Simon. Thanks. Will do as soon as possible
+2025-6-25 13:53
+HiSimon.Thanks.Willdoassoonaspossible
+2025-6-2513:53
+2025-6-2613:30
+Hi Slmon, I was out at customer meetings all day yesterday.I will study your document very carefully today.
+I just need some time
+Send

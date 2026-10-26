@@ -1,0 +1,278 @@
+{
+ "source": "3rd order 176台2光16电 L2 PoE/Reply on 174 pieces of ANW-2116-PG-ANW.docx",
+ "chars": 4244,
+ "blocks": [
+  {
+   "type": "p",
+   "data": "After the short talk on WeChat, this is a formal confirmation about below points"
+  },
+  {
+   "type": "p",
+   "data": "1, Enclosure"
+  },
+  {
+   "type": "p",
+   "data": "last time we used 24 port enclosure(port 17~port 24 holes are still there), we discussed a new casing(just port 1~16 for copper)"
+  },
+  {
+   "type": "p",
+   "data": "Cost is 10usd/pc"
+  },
+  {
+   "type": "p",
+   "data": "LK- We are on a very tight margin, so we want to avoid any extra cost. We can skip this new casing for now."
+  },
+  {
+   "type": "p",
+   "data": "Simon 2024.11.28: OK, thanks"
+  },
+  {
+   "type": "p",
+   "data": "2, PVC mask"
+  },
+  {
+   "type": "p",
+   "data": "Last time we made 100pcs. Now there is 92pcs left, we need to make a new batch."
+  },
+  {
+   "type": "p",
+   "data": "100pcs: 2.3usd/pc"
+  },
+  {
+   "type": "p",
+   "data": "300pcs: 1.5usd/pc"
+  },
+  {
+   "type": "p",
+   "data": "Which one do you prefer?"
+  },
+  {
+   "type": "p",
+   "data": "LK- Let’s go with 100pcs ($230) please."
+  },
+  {
+   "type": "p",
+   "data": "Simon 2024.11.28: OK, thanks"
+  },
+  {
+   "type": "p",
+   "data": "3, Please get ready the MAC address list"
+  },
+  {
+   "type": "p",
+   "data": "About other information, user manual&label format..."
+  },
+  {
+   "type": "p",
+   "data": "We will keep it the same as last order if there is not a change at your side."
+  },
+  {
+   "type": "p",
+   "data": "LK- We will share the MAC address list. All else the same. Just one quick question: Is console cable extra cost ?"
+  },
+  {
+   "type": "p",
+   "data": "Simon 2024.11.28: OK, thanks"
+  },
+  {
+   "type": "p",
+   "data": "We do not put a console cable in the packing box."
+  },
+  {
+   "type": "p",
+   "data": "And I noticed that there is a mistake in the datasheet, sorry for this."
+  },
+  {
+   "type": "p",
+   "data": "Cost is 2usd/each, lets split it, 1usd/each on each side, OK?"
+  },
+  {
+   "type": "p",
+   "data": "Its our fault. Sorry"
+  },
+  {
+   "type": "p",
+   "data": "4, Deduction"
+  },
+  {
+   "type": "p",
+   "data": "200usd software cost"
+  },
+  {
+   "type": "p",
+   "data": "LK- had already transferred $200 in previous order. I thought this was a one time software change fee. Can you pls confrm."
+  },
+  {
+   "type": "p",
+   "data": "Simon 2024.11.28: Its a one-time charge, last time you made the transfer."
+  },
+  {
+   "type": "p",
+   "data": "We promised to give it back or deduct it when you place the bulk order of this model."
+  },
+  {
+   "type": "p",
+   "data": "So this is about deduction, not a second charge."
+  },
+  {
+   "type": "p",
+   "data": "2% RMA(plus last order, its totally 182pcs=174pcs+8pcs), so we will deduct 2 pieces from the total amount(chargeable quantity 172pcs)"
+  },
+  {
+   "type": "p",
+   "data": "Or we still do 174pcs and send 2 extra spare pieces for immediate replacement or something(total 176pcs)."
+  },
+  {
+   "type": "p",
+   "data": "This is up to you."
+  },
+  {
+   "type": "p",
+   "data": "LK- Pls prepare 176 units for shipment. It is always better have more equipment."
+  },
+  {
+   "type": "p",
+   "data": "Simon 2024.11.28: OK, thanks"
+  },
+  {
+   "type": "p",
+   "data": "Discount: we are going to give you 5% discount for this order(this will be based on quantity and accumulative order volume)"
+  },
+  {
+   "type": "p",
+   "data": "LK- A huge thank you"
+  },
+  {
+   "type": "p",
+   "data": "5, Payment"
+  },
+  {
+   "type": "p",
+   "data": "Last time we had a meeting and talked about this."
+  },
+  {
+   "type": "p",
+   "data": "In our daily work, we do 50%-50% while you proposed 30%-70%"
+  },
+  {
+   "type": "p",
+   "data": "Considering this is the first bulk order, lets do 30%-20%-50%"
+  },
+  {
+   "type": "p",
+   "data": "30% before production, 20% in production and 50% before shipment."
+  },
+  {
+   "type": "p",
+   "data": "If it goes smooth, lets do 30%-70%"
+  },
+  {
+   "type": "p",
+   "data": "But please know that this is ONLY applicable to standard/non-customized models."
+  },
+  {
+   "type": "p",
+   "data": "About customized models, lets discuss."
+  },
+  {
+   "type": "p",
+   "data": "LK-Agreed thank you. 20% in production looks unnecessary because the time is too short. We will try transferring as much as we can somewhere close to 50% to reciprocate your support."
+  },
+  {
+   "type": "p",
+   "data": "Simon 2024.11.28: OK, thanks for your understanding."
+  },
+  {
+   "type": "p",
+   "data": "This is the first bulk order, lets make it good."
+  },
+  {
+   "type": "p",
+   "data": "Then its much easier to offer more favorable terms."
+  },
+  {
+   "type": "p",
+   "data": "6, Shipping options"
+  },
+  {
+   "type": "p",
+   "data": "Its 174pcs(or 176pcs), packing information is like this"
+  },
+  {
+   "type": "p",
+   "data": "545*495*420mm, 5pcs in each carton, 21Kg each"
+  },
+  {
+   "type": "p",
+   "data": "535*205*300mm, 2pcs in each carton, 8.5Kg each"
+  },
+  {
+   "type": "p",
+   "data": "That will be 32 cartons+2/3 cartons=around 700Kg"
+  },
+  {
+   "type": "p",
+   "data": "UPS: 5~10 days to arrive, 7K usd"
+  },
+  {
+   "type": "p",
+   "data": "This is the best option, for DHL/FedEx, shipping time is similar, while cost is more."
+  },
+  {
+   "type": "p",
+   "data": "Maybe we should think about sea shipment or some other options, air service is too expensive."
+  },
+  {
+   "type": "p",
+   "data": "LK- We have 6-8 weeks to deliver to customer. Pls allow 1 week for (stupid) customs work in Turkey. So that leaves us 5-7 weeks for manufacturing and freight. I suggest we look for trucks (land) as an option too. Can you pls check with your forwarder about both ship and truck shipment times. Let’s see if we can fit into this 5-7 week timing."
+  },
+  {
+   "type": "p",
+   "data": "7, Leadtime"
+  },
+  {
+   "type": "p",
+   "data": "I will check internally and put it in PI after everything is finalized."
+  },
+  {
+   "type": "p",
+   "data": "LK- Thank you."
+  },
+  {
+   "type": "p",
+   "data": "Simon 2024.11.28: Estimated production time for 176pcs: 4 weeks AFTER PAYMENT."
+  },
+  {
+   "type": "p",
+   "data": "6~8 weeks is what we have."
+  },
+  {
+   "type": "p",
+   "data": "One week for the customs work."
+  },
+  {
+   "type": "p",
+   "data": "That leaves us 1~3 weeks for shipment."
+  },
+  {
+   "type": "p",
+   "data": "I talked with the shipping agents we know well."
+  },
+  {
+   "type": "p",
+   "data": "7.1: the supplier for previous shipments: without sea/truck shipment services available for this order"
+  },
+  {
+   "type": "p",
+   "data": "7.2: another supplier offered 35 days at least for sea shipment. Express is amost the same cost as the first supplier"
+  },
+  {
+   "type": "p",
+   "data": "Because the manufacturing will be completed in a few weeks, there are too many uncertain issues(usually the shipping cost increases as the year-end nears)"
+  },
+  {
+   "type": "p",
+   "data": "So we are kinda in a dilemma..."
+  }
+ ]
+}

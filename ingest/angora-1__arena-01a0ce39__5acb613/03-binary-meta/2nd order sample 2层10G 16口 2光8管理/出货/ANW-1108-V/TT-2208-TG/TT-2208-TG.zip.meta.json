@@ -1,0 +1,110 @@
+{
+  "source_repo": "SimonSaga-202306/Angora-1",
+  "source_branch": "arena/01a0ce39-angora",
+  "source_commit": "5acb6132a6a6090bfc777c324cfea6bc8dfb877a",
+  "path": "2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip",
+  "bytes": 157858,
+  "sha256": "5d9d41e053f7f551fe9e6310318a0079b4042b0bd2d5b79b29bbba173af4209c",
+  "seq": 84,
+  "note": "Binary payload pinned by sha256 + commit (byte-exact recovery: git show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip)",
+  "archive": [
+    {
+      "name": "customize/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": "00000000",
+      "modified": [
+        2025,
+        2,
+        5,
+        10,
+        45,
+        24
+      ]
+    },
+    {
+      "name": "customize/config",
+      "bytes": 83,
+      "compressed": 78,
+      "crc32": "8eeb3316",
+      "modified": [
+        2025,
+        2,
+        5,
+        10,
+        47,
+        20
+      ]
+    },
+    {
+      "name": "customize/www/",
+      "bytes": 0,
+      "compressed": 0,
+      "crc32": "00000000",
+      "modified": [
+        2025,
+        2,
+        5,
+        11,
+        6,
+        18
+      ]
+    },
+    {
+      "name": "customize/www/favicon.ico",
+      "bytes": 2462,
+      "compressed": 461,
+      "crc32": "de040c7c",
+      "modified": [
+        2022,
+        8,
+        24,
+        10,
+        52,
+        58
+      ]
+    },
+    {
+      "name": "customize/www/logo_dark.png",
+      "bytes": 33045,
+      "compressed": 31585,
+      "crc32": "0270ea6d",
+      "modified": [
+        2025,
+        2,
+        5,
+        11,
+        0,
+        30
+      ]
+    },
+    {
+      "name": "customize/www/logo_light.png",
+      "bytes": 132729,
+      "compressed": 124510,
+      "crc32": "f863473a",
+      "modified": [
+        2025,
+        2,
+        5,
+        11,
+        6,
+        4
+      ]
+    },
+    {
+      "name": "customize/www/sysconf.json",
+      "bytes": 184,
+      "compressed": 126,
+      "crc32": "a57daa9d",
+      "modified": [
+        2022,
+        10,
+        18,
+        21,
+        24,
+        48
+      ]
+    }
+  ]
+}

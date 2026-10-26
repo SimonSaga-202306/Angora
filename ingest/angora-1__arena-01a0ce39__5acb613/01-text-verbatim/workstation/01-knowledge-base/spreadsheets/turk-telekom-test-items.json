@@ -1,0 +1,256 @@
+{
+  "source": "RFP/Turk_Telekom_Test_Items.xlsx",
+  "description": "Turk Telekom 验收测试项",
+  "sheets": [
+    {
+      "name": "Sheet1",
+      "header": [
+        "Items",
+        "Description",
+        "Compatibility",
+        "Angora Tested",
+        "col5"
+      ],
+      "records": [
+        {
+          "Items": "1.1",
+          "Description": "Basic VLAN Config"
+        },
+        {
+          "Items": "1.2",
+          "Description": "VLAN Trunking"
+        },
+        {
+          "Items": "1.3",
+          "Description": "VLAN translation"
+        },
+        {
+          "Items": "1.4",
+          "Description": "IGMP VLAN tag"
+        },
+        {
+          "Items": "1.5",
+          "Description": "Loopp detection"
+        },
+        {
+          "Items": "1.5.1",
+          "Description": "Link Aggregation"
+        },
+        {
+          "Items": "1.6",
+          "Description": "DHCP Snooping"
+        },
+        {
+          "Items": "1.7",
+          "Description": "Traffic Segmentation/Rate Limiting"
+        },
+        {
+          "Items": "1.8",
+          "Description": "Bandwith Control",
+          "col5": "Vlan based Rate Limitting"
+        },
+        {
+          "Items": "1.9",
+          "Description": "Port Security"
+        },
+        {
+          "Items": "1.10",
+          "Description": "Configuration backup restore"
+        },
+        {
+          "Items": "1.11",
+          "Description": "Firmware  backup restore"
+        },
+        {
+          "Items": "1.12",
+          "Description": "Trusted Host"
+        },
+        {
+          "Items": "1.13",
+          "Description": "Syslog"
+        },
+        {
+          "Items": "1.14",
+          "Description": "Power over Ethernet"
+        },
+        {
+          "Items": "1.15",
+          "Description": "Port Mirror"
+        },
+        {
+          "Items": "1.16",
+          "Description": "IP-MAC-PORT BINDING (IP Source Guard)"
+        },
+        {
+          "Items": "1.17",
+          "Description": "Spanning tree"
+        },
+        {
+          "Items": "1.18",
+          "Description": "IPv6 Support"
+        },
+        {
+          "Items": "1.19",
+          "Description": "Qinq Translations"
+        },
+        {
+          "Items": "1.20",
+          "Description": "Dynamic Routing Support"
+        },
+        {
+          "Items": "1.21",
+          "Description": "MAC Adres Limitation"
+        },
+        {
+          "Items": "1.22",
+          "Description": "Switch L3 İnterface"
+        },
+        {
+          "Items": "1.23",
+          "Description": "Stacking"
+        },
+        {
+          "Items": "1.24",
+          "Description": "ME Tests"
+        },
+        {
+          "Items": "1.25",
+          "Description": "AC ve DC Energy Tests"
+        },
+        {
+          "Items": "1.26",
+          "Description": "802.1P Traffic Prioritization"
+        },
+        {
+          "Items": "1.27",
+          "Description": "VRRP Redundancy"
+        },
+        {
+          "Items": "1.28",
+          "Description": "NTP"
+        },
+        {
+          "Items": "1.29",
+          "Description": "Radius / TACACS Support"
+        },
+        {
+          "Items": "TÜRK TELEKOM MSY TEAM QUESTIONS"
+        },
+        {
+          "Items": "Items",
+          "Description": "Description",
+          "Compatibility": "Compatibility",
+          "Angora Tested": "Angora Tested"
+        },
+        {
+          "Items": "1",
+          "Description": "Power 42-60 V"
+        },
+        {
+          "Items": "2",
+          "Description": "Temperature +75 -40"
+        },
+        {
+          "Items": "3",
+          "Description": "8 Portu 10/100/1k Copper"
+        },
+        {
+          "Items": "4",
+          "Description": "Min 2 port 1/ 2.5G SFP Fiber"
+        },
+        {
+          "Items": "5",
+          "Description": "1-4096 Vlan"
+        },
+        {
+          "Items": "6",
+          "Description": "1GB İlave ayrı SFP sunulmalı"
+        },
+        {
+          "Items": "7",
+          "Description": "Factory Reset PIN"
+        },
+        {
+          "Items": "8",
+          "Description": "8 K MAC"
+        },
+        {
+          "Items": "9",
+          "Description": "512 Mb Ram - 32 MB Flash"
+        },
+        {
+          "Items": "10",
+          "Description": "IP40"
+        },
+        {
+          "Items": "12",
+          "Description": "Ring - 20 ms"
+        },
+        {
+          "Items": "13",
+          "Description": "Jumbo Frame 9K"
+        },
+        {
+          "Items": "14",
+          "Description": "Dynamic ARP Protection, DHCP Snooping,"
+        },
+        {
+          "Items": "15",
+          "Description": "Management ACL, L2/L3/L4 Access Control Lists, Ip Source Guard"
+        },
+        {
+          "Items": "16",
+          "Description": "SNMP v3, HTTPS SSHv2 ve sFTP , SFLOW",
+          "col5": "SFTP/HTTPS/SFLOW"
+        },
+        {
+          "Items": "17",
+          "Description": "Port Mirroring"
+        },
+        {
+          "Items": "18",
+          "Description": "Port Forwarding",
+          "col5": "L3 Port Forwarding"
+        },
+        {
+          "Items": "19",
+          "Description": "HTTPS Web User Konfig"
+        },
+        {
+          "Items": "20",
+          "Description": "Firmware SFTP Upgrade"
+        },
+        {
+          "Items": "21",
+          "Description": "SNMP Trap, Syslog, SFlow"
+        },
+        {
+          "Items": "22",
+          "Description": "SSHv2"
+        },
+        {
+          "Items": "23",
+          "Description": "TACACS or Radius"
+        },
+        {
+          "Items": "24",
+          "Description": "Management Platform"
+        },
+        {
+          "Items": "25",
+          "Description": "PoE"
+        },
+        {
+          "Items": "26",
+          "Description": "Switch+Router",
+          "col5": "L3 Routing"
+        },
+        {
+          "Items": "27",
+          "Description": "NAT / Port Forwarding",
+          "col5": "L3 Routing"
+        }
+      ]
+    }
+  ]
+}

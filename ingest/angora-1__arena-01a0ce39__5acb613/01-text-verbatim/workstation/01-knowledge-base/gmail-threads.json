@@ -1,0 +1,1730 @@
+[
+  {
+    "source_file": "Gmail - Angora - Industrial RFP Question.pdf",
+    "subject": "Angora - Industrial RFP Question",
+    "declared_count": "4 messages",
+    "parsed_count": 4,
+    "participants": [
+      "lkilic@angoranetworks.com",
+      "s.sagatelecom@gmail.com"
+    ],
+    "messages": [
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Tue, Jul 2, 2024",
+        "time": "1:59 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>, Taylan ESEN <tesen@angoranetworks.com>",
+        "cc": "",
+        "body": "Hi Simon, Hope all is well with you guys.\nWe have a project to quote with the following RFP (PDF in English attached).\nCan you please let us know if we can use STI-288GPM in this project? Or do we need to go up to STI-288DGGPM ?\nThis is a reference RFP for Turkish police, so there are a lot of procurements for this type switch with the same RFP.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nC TİPİ ETHERNET ANAHTAR KGYS tr en.pdf\n106K",
+        "datetime": "Tue, Jul 2, 2024 1:59 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Jul 2, 2024",
+        "time": "4:11 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your offer.\nAfter internal check, conclusions are as below.\n1, STI-288GPM is not working, MSTP is not supported if you look at the datasheet.\nThis model is for price-sensitive, individual users.\nIn most cases, I do not think it is good for your business.\n2, STI-288DGGPM is supporting all the function except 1.1.6\nThe switch shall support fault protection critical alarm relay outputs.\nIn the attached photo, there is a variant with serial port(RS485, DI/DO).\n1.1.6 is about DI/DO function, our engineers said now RS485 is mature but DI/DO is not.\nSorry for this.\n3, Maybe you could get some units for some sample units for testing(STI-288DGGPM).\nThis model is hot-selling and there will be more RFPs about it.\nAnd one important thing is,\nThere might be some functions missing/you possibly need, you could let us know.\nThen we will check if possible to add it(this is about another email Taylan just sent me).\nThank you.\n--\nSimon/Saga Telecom\nConnecting, Converting, Creating\nWith Serial port.png\n294K",
+        "datetime": "Tue, Jul 2, 2024 4:11 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Tue, Jul 2, 2024",
+        "time": "4:34 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Thank you for the prompt response Simon.\nWe will propose STI-288DGGPM for this project at minimum margin. This is a standard business at Turkish Police with minimum\nmargin. We will try to get it as a reference project, if we can.\nAs for 1.1.6 thanks for the heads up. We will check that. However my understanding is that this feature is mainly intended to use\nthe detection of open cabinet doors. When the door of the cabinet is opened, the dry contacts will generate an alarm. And what is\navailable on the units is okay for this feature. But we will check.\nThis project is for 15 units to start with however during the year they procure many times.\nWill keep you updated on the progress.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nFrom: Simon <s.sagatelecom@gmail.com>\nSent: Tuesday, July 2, 2024 11:11:40 AM\nSubject: Re: Angora - Industrial RFP Question",
+        "datetime": "Tue, Jul 2, 2024 4:34 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Jul 2, 2024",
+        "time": "6:23 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\n\n1, It would be very helpful if this reference project is done.\n\n2, About your explanation of detection of cabinet doors\nYes, I just talked with our engineer who suggested reading PLANET datasheet(with DI/DO).\nI did a little study and understood this feature better.\nBUT please know that the DI/DO function on our model is NOT available now, its about the software.\nThis will be perhaps a big problem in this project, but lets see.\n\nSince the sample order, there are some projects in our discussion.\nBut as you may notice that, the product is fixed but the project requirements vary a lot, so there are some bothering incompliance\nfrom time to time.\nI am thinking about\n1, from my side gather the project information, lets say STI-288DGGPM\nAll the project requirements about this model are collected and analyzed, then easy to know what we can and cannot do(at what\ncost or how long it takes to have it done).\n2, from your side perhaps sort up the information and see if there is anything useful.\n\nIts about the reference project you mentioned or some pattern, this will be useful to our cooperation and work.\nThis is just a word of advice, or like some thoughts on those project discussions.\nThank you.",
+        "datetime": "Tue, Jul 2, 2024 6:23 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - Angora Networks - 250 pieces potential order.pdf",
+    "subject": "Angora Networks - 250 pieces potential order",
+    "declared_count": "22 messages",
+    "parsed_count": 22,
+    "participants": [
+      "lkilic@angoranetworks.com",
+      "s.sagatelecom@gmail.com",
+      "tesen@angoranetworks.com"
+    ],
+    "messages": [
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Fri, Jun 14, 2024",
+        "time": "7:46 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Dear Simon, we have a project where 250 pieces are needed in phase I and potentially another 250 pieces in 6 months.\nThe product in question is the following : SDI-280DDGM without Serial Port ( NO PoE version)\nWe have some software feature requirements in the RFP, please see attached the documents both in Turkish (original) and English\n(trasnlated)\nThe key requirements are :\n1. SFlow\n2 Ip/Port/MAC based Access Lists\n3. SNMP MiB Files\n4. Secure FTP. but we have already discussed this and we have developed a workaround solution in house for this part.\nCan you please confirm the earliest delivery time if we place an order ? The delivery time is an important parameter.\nWe would also like to make sure that the software features are confirmed before we move forward. We will be taking some risk in\nskipping the full tests to catch up with project timing.\nLooking forward to hearing from you soon, Best regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n2 attachments\nTT-RFP-TR.docx\n11K\nTT-RFP-EN.docx\n17K",
+        "datetime": "Fri, Jun 14, 2024 7:46 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Jun 14, 2024",
+        "time": "10:08 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information and offer.\n1, Its OK to supply STI-280DGGM without PoE or serial function, short lead time.\n2, confirming the key requirements now.\n3, can we do something like any kind of testing to support you? (We will be taking some risk in skipping the full tests to catch up\nwith project timing)\n4, do you have a PDF version of the RFP?\nThank you.\n--\nSimon/Zhengzhou Saga Telecom Co.,Ltd.\nCommercial Ethernet/Industrial Networking/Din Power Adapter\nWhatsapp/Wechat/Mob: 86.15237149683\n\ngarbled text.png\n34K",
+        "datetime": "Fri, Jun 14, 2024 10:08 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Fri, Jun 14, 2024",
+        "time": "10:35 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, please find attached the PDF version of the RFP in English.\nRegards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nFrom: Simon <s.sagatelecom@gmail.com>\nSent: Friday, June 14, 2024 3:08:55 PM\nSubject: Re: Angora Networks - 250 pieces potential order\n\nTT-RFP-EN.docx.pdf\n183K",
+        "datetime": "Fri, Jun 14, 2024 10:35 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sat, Jun 15, 2024",
+        "time": "6:17 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\n\nAfter careful check, there are some non-compliant points.\n\n7.1, there are just certificates, no testing reports.\n7.5, 7.6, we do not produce SFP modules. In our daily work, the SFP modules provided by us are OEM(from another supplier)\n7.25, 7.26, 7.27, SFTP is not supported, we discussed this before.\nTurkish language is not supported, just English.\nAnd one serious issue is HTTPS, currently our Marvell chip supports only HTTP.\nWe have another chip that supports HTTPS, but there is no stock, takes time to prepare and manufacture the devices 250pcs.\nThis is an urgent project, so please check if HTTP only is OK.\n7.31, 7.32, 7.33, we do not have a management platform, it gotta be from a new supplier.\n\nFor all other issues, leadtime(a week), key requirements(1, 2, 3, 4) are OK.\n\nWe think the main problem is, HTTPS\nWe have a solution(another Marvell chip), but it takes too long like 40 days before shipment...\n\nPlease assess this and let me know.\nThank you.",
+        "datetime": "Sat, Jun 15, 2024 6:17 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Tue, Jun 18, 2024",
+        "time": "5:02 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon; if we ll wait for Https enabled chipset, do you think you can also develop sftp with this chipset?\nThanks\nTaylan",
+        "datetime": "Tue, Jun 18, 2024 5:02 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Jun 18, 2024",
+        "time": "5:21 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nAfter check and conclusions are as below.\n1, For another Marvell chip solution, the unit price will remain the same.\nIt supports HTTPS, lead time for 250pcs is about 40 calendar days.\n2, Its OK to add SFTP function.\nBUT\nwe need to reschedule the tasks and priority in the technical department.\nSo there will not be an exact period for this unless a deposit is done.\nit means this order is placed and confirmed, then its easier to coordinate the efforts from each department.\nIf we just talk about the possibility of adding some functions, in most cases, there will not be an exact period for it.\nSorry for this.\nBtw, is this project very urgent or something?\nThank you.",
+        "datetime": "Tue, Jun 18, 2024 5:21 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Wed, Jul 10, 2024",
+        "time": "9:40 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon,\nWe agreed with the customer on this deal. Important points are Acl, Sflow, https and sftp\nThe order would be more than 300. Can you please check what could be the lead time and price for this project? How long wiuld it\ntake to comply with all items\nThe device would be 8x1G Copper Non PoE and 2x2.5SFP\nThanks in advance\nTaylan\nPlease be aware that my fingers are not designed and evolved for smartphone messaging 😉",
+        "datetime": "Wed, Jul 10, 2024 9:40 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, Jul 11, 2024",
+        "time": "11:19 AM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nPlease see attached our reply and let me know.\nThank you.\n--\nSimon/Saga Telecom\nConnecting, Converting, Creating\nSftp reply_2024.7.11.docx\n103K",
+        "datetime": "Thu, Jul 11, 2024 11:19 AM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, Jul 11, 2024",
+        "time": "6:50 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon;\nTHanks for detailed work. As you point out the most important function is sftp, as you have a solution for ACL,\nsflow and https .\nSFTP is only needed for software upgrade. No need to support config import/export or syslog. All we need is\nsoftware upgrade via sftp. There are some models on Cisco, Ruijie and Huawei that support sftp protocol. We can\ntry to get a larger order depending on R&D timing and pricing.\nPlease let me know if you need more details, or if you have any other questions\nThanks\nTaylan",
+        "datetime": "Thu, Jul 11, 2024 6:50 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, Jul 11, 2024",
+        "time": "9:37 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nWe will have an internal discussion and let you know soon.\n1, as I explained to Levent on WeChat one hour ago, we are using another Marvell chip for this project.\nNo big difference in price, but it supports HTTPS(ready) and Sftp(in discussion now).\n2, is there an expected period for R&D and production?\n3, a deposit is necessary to start the project, we are now just discussing this.\nIf we do a hands-on development, this is about deposit and prioritization, please understand this.\nI will let you know if there are any further questions from our side.\nConsidering the time difference, I will first text Levent tomorrow on WeChat if necessary.\nThank you.",
+        "datetime": "Thu, Jul 11, 2024 9:37 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Jul 12, 2024",
+        "time": "11:49 AM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nPlease see attached our reply and let me know.\nThank you.\nR&D period&cost_2024.7.12.docx\n16K",
+        "datetime": "Fri, Jul 12, 2024 11:49 AM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Thu, Jul 18, 2024",
+        "time": "2:38 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi Simon, many thanks for your support and flexibility in the solution.\nWe are in discussions with the customer. We are trying to secure the order from them. Following a comittment from the customer,\nwe will go with the most time efficient version for delivery.\nLet’s keep in touch and cross fingers to finalize the order.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn Jul 12, 2024, at 06:49, Simon <s.sagatelecom@gmail.com> wrote:\nHi, Taylan,\nPlease see attached our reply and let me know.\nThank you.\nSimon/Saga Telecom\nConnecting, Converting, Creating\n<R&D period&cost_2024.7.12.docx>",
+        "datetime": "Thu, Jul 18, 2024 2:38 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, Jul 18, 2024",
+        "time": "6:11 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "",
+        "body": "Hi, Levent,\nThanks for your information.\nPlease let me know if we could help with prices, lead time, product PCB photos...\nWe will do our best.\nThank you.\n--",
+        "datetime": "Thu, Jul 18, 2024 6:11 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Tue, Jul 23, 2024",
+        "time": "5:12 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "body": "Hello Simon, a quick question about device management, Is it possible to read and show the input voltage of\nswitch from power supply? Customer is asking if it is possible or not?\nThanks\nTaylan",
+        "datetime": "Tue, Jul 23, 2024 5:12 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Jul 23, 2024",
+        "time": "9:59 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nAfter check, sorry to tell you that it is not available.\nThe model for this project is a Non-PoE managed switch, right?\nIf it is a PoE switch, its easy.\nIs there any particular reason for this function?\nThank you.\n--",
+        "datetime": "Tue, Jul 23, 2024 9:59 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Fri, Jul 26, 2024",
+        "time": "5:27 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "This is to check if the incoming voltage is ok. They will use these devices in remote locations to measure other devices and it would\nbe nice if they can also measure switch vitals as well\nNot a deal breaker, but good to have\nTaylan\nPlease be aware that my fingers are not designed and evolved for smartphone messaging 😉",
+        "datetime": "Fri, Jul 26, 2024 5:27 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Jul 26, 2024",
+        "time": "6:51 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nI talked with our engineer and it went like this,\nFor a PoE switch that has a PoE board/chip inside, it can read the relevant information(voltage, power etc.).\nIt is not available if there isn't.\nPlease know that the displayed information here is ALL about PD(powered device), the voltage/power...\nIt has nothing to do with the input values(voltage, power) to this switch itself.\nIn this project, it is a Non-PoE switch, so there will not be such information.\nAnd\nOur engineer has not known a switch that could show input values in GUI.\nPlease let us know if you know some models, we will study.\nGood to know that this will not affect the project, we understand this requirement.\nPerhaps some more discussion will help, or we simply let it go.\nIn any way, we will give our best support, please just do what you think is best.\nThank you.\n2 attachments\npoe board.png\n85K\nPoE information.png\n106K",
+        "datetime": "Fri, Jul 26, 2024 6:51 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Mon, Sep 16, 2024",
+        "time": "5:11 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, many thanks for your patience and support. Here is the latest update:\n* We have received the order from the customer for 375 pcs (more than we planned). We will also plan extra 10 pcs for ourselves\nso we plan to place an order of 385 pcs total.\n* We plan to transfer USD$10K on September 20 Friday (this week)\n* We will appreciate if you can share a revised PI with us with revised prices as you mentioned in the attached document.\nWe will go from there.\nWe hope to place many more orders in the last Quarter (Oct-Nov-Dec). I will also check some alternative transportation options to\nminimize costs. Please suggest other options than airways if you also have some options.\nLooking forward to hearing from you soon.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn Jul 12, 2024, at 06:49, Simon <s.sagatelecom@gmail.com> wrote:\nHi, Taylan,\nR&D period&cost_2024.7.12.docx\n16K",
+        "datetime": "Mon, Sep 16, 2024 5:11 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Sep 18, 2024",
+        "time": "3:29 AM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nYes, the offer still stands.\n10K for the deposit is fine, 105*385*0.25=10106.25usd.\nPlease see attached PI(it is a new bank) and carefully review the payment terms(25%+25%+balance), and let me know your\nfeedback.\n\nAbout the customization, we talked about it on WeChat a few days ago.\nAfter internal check, it is BASICALLY ok, its about the leadtime.\nAs per attached file, it is 8~10 weeks, this still stands, we will just do our very best to deliver it within this period.\nBut honestly this is NOT a guaranteed period(our engineering team is still subject to any possible emergency issues like some\ntricky after-sales problems), please know this.\n\nRegarding shipment, I would suggest sea shipment if this is an option(air service costs A LOT)\nBy our shipping agent, it is roughly 5,000USD by FedEx(cheapest option), this is just for your reference.\nI will look for better options for you.\nIf you have a shipping forwarder, we will be cooperative in this shipment.\n\nCurrently we are all good with this project, leadtime, new chip, price, quantity...\nLets see if you have any questions from your side.\n\nThank you.\nPI.pdf\n229K",
+        "datetime": "Wed, Sep 18, 2024 3:29 AM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Fri, Sep 20, 2024",
+        "time": "4:51 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, we have some issues with the customer about this order. We are working on the resolution. However it may take some\ntime… Just to keep you updated. Thank you, Regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n<PI.pdf>",
+        "datetime": "Fri, Sep 20, 2024 4:51 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Sep 20, 2024",
+        "time": "10:26 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for the update.\nWe are one team, let’s see.\nBtw, I am thinking about something big between us, I will share it after some time.\nThank you.\nSimon/Saga Telecom\nConnecting, Converting, Creating",
+        "datetime": "Fri, Sep 20, 2024 10:26 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Fri, Sep 20, 2024",
+        "time": "10:59 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, looking forward to hearing from you.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nFrom: Simon <s.sagatelecom@gmail.com>\nSent: Friday, September 20, 2024 5:26:44 PM\nSubject: Re: Angora Networks - 250 pieces potential order",
+        "datetime": "Fri, Sep 20, 2024 10:59 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - Booster PoE Switch.pdf",
+    "subject": "Booster PoE Switch",
+    "declared_count": "11 messages",
+    "parsed_count": 11,
+    "participants": [
+      "a.sagatelecom@gmail.com",
+      "alexander@larch-networks.com",
+      "azarudniy@larch-networks.com"
+    ],
+    "messages": [
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Thu, Nov 27, 2025",
+        "time": "8:00 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nHow are you?\nThis is about our Marvell based managed switch with power boosting feature.\n1, Fiber: 4*100M/1G/2.5G/10G\n2, Copper: 8*1G RJ45/PoE, max 240W budget\n3, DC12-54V Booster to 54V\n4, Support DI/DO/RS485, USB, Alarm, fiber bypass\n5, Customizable Web GUI\nIs it useful to you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider",
+        "datetime": "Thu, Nov 27, 2025 8:00 PM"
+      },
+      {
+        "from": "Alexander Cheskis",
+        "from_email": "alexander@larch-networks.com",
+        "date": "Fri, Nov 28, 2025",
+        "time": "5:51 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "sales team <sales.team@larch-networks.com>",
+        "body": "https://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r1776704136652547957&simpl=msg-a:r-88051532641… 1/6\nHi Alan,\nThat’s very interesting — especially the Marvell-based design and the 12–54V PoE booster concept.\nLet’s discuss more details — which Marvell chip is used, and do you already have a working demo or evaluation\nsample?\nBest regards,\nAlex",
+        "datetime": "Fri, Nov 28, 2025 5:51 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, Dec 1, 2025",
+        "time": "4:41 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "sales team <sales.team@larch-networks.com>",
+        "body": "Hi, Alexander,\n1, yes, we can supply a demo unit for your study and testing.\n2, please see attached datasheet(2026/Q1 version).\nSTI-488XGGBPM\n215usd/pc\nIndustrial PoE Managed Switch\n4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port\n8*PoE af/at, 240W, L2+ Managed, Active PoE, DC48V output, Support RS485/DI/DO feature\nDC12V~DC57V, With internal power booster(Removable 2*2-PIN Industrial Terminal Block)\nDin Mounted, With Mounting Hanger, Without Optical Module, Without Power Supply\n3, Please let me know if you need an editable WORD datasheet.\nThank you.\nTailored Marvell Managed Networking Solutions Provider\nSTI-488XGGBPM.pdf\n2288K",
+        "datetime": "Mon, Dec 1, 2025 4:41 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Thu, Dec 4, 2025",
+        "time": "4:07 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "sales team <sales.team@larch-networks.com>",
+        "body": "Hi, Alexander,\nAny feedback about our model STI-488XGGBPM?\nDo you need a sample for testing?\nThank you.",
+        "datetime": "Thu, Dec 4, 2025 4:07 PM"
+      },
+      {
+        "from": "Andrey Zarudniy",
+        "from_email": "azarudniy@larch-networks.com",
+        "date": "Mon, Dec 8, 2025",
+        "time": "8:02 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "Hello Alan!\nAlex told me that you have some Baypass devices. Could you please share the deteils.\nThanks\nBest regards, Andrey\nSales manager.\nhttps://larch-networks.com/\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r1776704136652547957&simpl=msg-a:r-88051532641… 2/6\n1 груд. 2025 р. о 10:41 Alan from Saga Telecom <a.sagatelecom@gmail.com> написав(ла):\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider\n--\nYou received this message because you are subscribed to the Google Groups \"sales team\"\ngroup.\nTo unsubscribe from this group and stop receiving emails from it, send an email\nto sales.team+unsubscribe@larch-networks.com.\nTo view this discussion visit https://groups.google.com/a/larch-networks.com/d/\nmsgid/sales.team/CADJg25VUQRU5sfpqejAQ4cPAwpe8a\nmqMkQuEr5YSB9FjNdOWUw%40mail.gmail.com.\n<STI-488XGGBPM.pdf>",
+        "datetime": "Mon, Dec 8, 2025 8:02 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, Dec 8, 2025",
+        "time": "9:31 PM",
+        "to": "Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "Hi, Andrey,\nYes, please see attached information and let me know.\nThank you.\n2 attachments\nBypass.png\n5102K\nSTI-488XGGPM2B-2BT.pdf\n2561K",
+        "datetime": "Mon, Dec 8, 2025 9:31 PM"
+      },
+      {
+        "from": "Andrey Zarudniy",
+        "from_email": "azarudniy@larch-networks.com",
+        "date": "Tue, Dec 9, 2025",
+        "time": "8:43 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "Alan,\nGreate!\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r1776704136652547957&simpl=msg-a:r-88051532641… 3/6\nPlease also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash, memory ?)\nBest regards, Andrey\nSales manager.\nhttps://larch-networks.com/\n8 груд. 2025 р. о 15:31 Alan from Saga Telecom <a.sagatelecom@gmail.com> написав(ла):\nHi, Andrey,\nYes, please see attached information and let me know.\nThank you.\nOn Mon, Dec 8, 2025 at 8:02 PM Andrey Zarudniy <azarudniy@larch-networks.com> wrote:\nHello Alan!\nAlex told me that you have some Baypass devices. Could you please share the deteils.\nThanks\nBest regards, Andrey\nSales manager.\nhttps://larch-networks.com/\n<logo_avatar.png>\n<STI-488XGGPM2B-2BT.pdf><Bypass.png>",
+        "datetime": "Tue, Dec 9, 2025 8:43 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Tue, Dec 9, 2025",
+        "time": "9:33 PM",
+        "to": "Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "Hi, Andrey,\n1, Unit price: 295usd/pc\nSTI-488XGGPM2B-2BT\n4*1G/2.5G/10G SFP+8*100/1000M RJ45/PoE +1*Console Port\n2*PoE af/at/bt, 6*PoE af/at, 240W, L2+ Managed, Active PoE\nDC48V output, Support Bypass feature(2 channels)\nDC44V~DC57V, (Removable 4-PIN Industrial Terminal Block)\nIP40 Rated, Din Mounted, -40 ℃ ~75 ℃\nWith Mounting Hanger, Without Power Supply\nWithout Optical Module, Marvell Chip\n2, Bulk price\n50 pieces: 285usd/pc\n100 pieces: 275usd/pc\n3, HW info\nCPU Marvell AC5 Series 1.2GHz\nPHY 88e1680\nRAM 512MB\nFlash 512MB\nPlease let me know.\nThank you.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r1776704136652547957&simpl=msg-a:r-88051532641… 4/6",
+        "datetime": "Tue, Dec 9, 2025 9:33 PM"
+      },
+      {
+        "from": "Alexander Cheskis",
+        "from_email": "alexander@larch-networks.com",
+        "date": "Wed, Dec 10, 2025",
+        "time": "1:32 PM",
+        "to": "Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "And can you send the info about bypass switch?\nFrom: Alan from Saga Telecom <a.sagatelecom@gmail.com>\nSent: Tuesday, December 9, 2025 7:03:54 PM\nSubject: Re: Booster PoE Switch",
+        "datetime": "Wed, Dec 10, 2025 1:32 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Wed, Dec 10, 2025",
+        "time": "1:36 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "body": "Hi, Alexander,\nInfo?\nI shared datasheet and photo in a previous email(Mon, Dec 8, 9:31PM (2 days ago)).\nOr do you mean something else?\nThank you.\nAlexander,\nHi,",
+        "datetime": "Wed, Dec 10, 2025 1:36 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, Feb 2, 2026",
+        "time": "8:40 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "body": "Hi, Alexander, Hi, Andrey,\nHappy new year\nWishing you all the magic in 2026!\nAbout the optical bypass switch, any feedback?\nMaybe some samples for testing?\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r1776704136652547957&simpl=msg-a:r-88051532641… 5/6\nThank you.\n--\nAlan\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r1776704136652547957&simpl=msg-a:r-88051532641… 6/6",
+        "datetime": "Mon, Feb 2, 2026 8:40 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - Invoice_5pcs STC-424DGGPM-280W.pdf",
+    "subject": "Invoice_5pcs STC-424DGGPM-280W",
+    "declared_count": "25 messages",
+    "parsed_count": 25,
+    "participants": [
+      "lkilic@angoranetworks.com",
+      "s.sagatelecom@gmail.com",
+      "tesen@angoranetworks.com"
+    ],
+    "messages": [
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sat, Oct 19, 2024",
+        "time": "8:02 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>, Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "",
+        "body": "Hi, Levent,\nAs we discussed on WeChat, I prepared the invoice for 5pcs of STC-424DGGPM-280W(your model name is ANW-2224-PG).\nPlease see attached a copy of it.\nRegarding the 385pcs industrial switch and proposal I mentioned before, lets discuss it next week.\nHave a good weekend.\nThank you.\n--\nSimon/Saga Telecom\nConnecting, Converting, Creating\nSTSC20241017007.pdf\n334K",
+        "datetime": "Sat, Oct 19, 2024 8:02 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Sun, Oct 20, 2024",
+        "time": "1:04 AM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon,\nCan we add our logo and product code on the front panel? Also we have our mac address block, if you can use them, that would\nbe great for us.\nThanks\nTaylan\nPlease be aware that my fingers are not designed and evolved for smartphone messaging 😉",
+        "datetime": "Sun, Oct 20, 2024 1:04 AM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sun, Oct 20, 2024",
+        "time": "2:20 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\n1, Add your logo and product code on the front panel\nYes, but please know that this involves extra cost, we need to produce a new batch of front PVC mask with your information.\n2, Use your MAC address\nYes and free of charge.\nRegarding 1st point, it is best if you could make sure this model is frequently asked and ordered by your clients/projects.\nIn our daily work, some clients customize PVC masks and do not have more orders, this would be a waste of materials.\nOf course if this extra cost does not bother you, lets do it(whether the rest is used or unused).\nWe will keep the rest PVC masks at our warehouse for future orders.\nPlease let me know.\nThank you.",
+        "datetime": "Sun, Oct 20, 2024 2:20 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Mon, Oct 21, 2024",
+        "time": "1:30 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon,\nAs discussed on WeChat, please revise the Proforms Invoice to include 2 pieces of the industrial version for the 385 pieces project.\nWe hope to finalize the paperwork for this project as soon as this week.\nAs for the front PVC mask, please let us know the cost for it. We can have some spare made and kept on your side for future\norders as long as it is worth the investment.\nNew Project:\nWe also have a new project with a partner. This is an OEM production for a new brand to be sold to public customers (like\nministries, government offices etc). We will soon be ordering samples for this project. We are working on the models. The first\norder may come from a different company to create a paper trail of Customs import etc. But later on all orders will come from us. I\nwill soon keep you updated about this project in a new email thread.\nPlease let us know if you need any further info.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com",
+        "datetime": "Mon, Oct 21, 2024 1:30 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Mon, Oct 21, 2024",
+        "time": "4:19 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\n1, cost for PVC mask\n100pcs: 2.3usd/pc\nAs we talked on WeChat, lets do 100pcs.\nAnd we need MAC address and PVC mask design(like color, where to write the model, font, size...) from your side.\nThe design should be PS, AI or Visio source file.\n2, for 2 units of industrial switches, lets do ANW-1108-V.\nAnd I would like you know that, there is 2% RMA for Saga models, that is 2 free units for every 100 pieces purchased from us(this\nrule is mentioned in the product datasheet if you notice).\nThere will be a deduction in the official order of 385 units.\nActually we do need this project finalized, our idea is\nThis project involves a decent amount, but before it, we just had one sample order from you.\nSo at our side we consider a business tie is formally built based on this project, the proposal we mentioned before make\nsense then.\n2.1: distributorship\n2.2: local client list and later EU client list\n2.3: better price support\n2.4: extra assistance about Chinese market, sourcing etc.\nMaybe more in the future...\nIt is not difficult to understand why we care about this project, a stepping-stone for an in-depth cooperation between us and more\nbusiness possibilities(maybe just theoretically for some points we mentioned).\nI hope this short explanation will help you understand our idea.\n3, good to know that and this is fine with us.\nStill we would like to add something on 2nd point, if an official business tie is built, we will also give better support in industrial\nmanufacturing(PVC mask, different parts maybe)\nThat is in every aspect, we would give a better offer if we could.\nSo we do hope after some efforts(of course mostly yours ） that this project is finalized and takes us to a different level of\ncooperation...\nLets see.\n\nPlease let me know if you have any feedback on our above reply.\nThank you.\nSTSC20241021007.pdf\n437K",
+        "datetime": "Mon, Oct 21, 2024 4:19 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Oct 22, 2024",
+        "time": "5:25 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your payment, we got it.\nProduction has been arranged, we need\n1, PVC mask design\n2, MAC address information.\n3, Additional requirements like label, serial number, commercial invoice etc.\nOn WeChat, you mentioned \"Delivery terms: CPT to Ankara, Turkey“..., we will do it.\nLater I will send a copy for your confirmation, see if I understood correctly.\nThank you.",
+        "datetime": "Tue, Oct 22, 2024 5:25 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Tue, Oct 22, 2024",
+        "time": "6:00 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon,\n1- Please see attached the PVC design. please let us know if the file is okay.\n2- You can use the following MAC ranges for each unit\n22073212AF0100\n22073212AF0200\n22073212AF0300\n22073212AF0400\n22073212AF0500\n3- Please avoid any “Made in China” remarks on the lables. Please include European power cable. If you can share a draft for the\nlabel we can also review it.\n4- Awaiting the draft invoice to be reviewed.\nMany thanks, Best regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn Oct 22, 2024, at 12:25, Simon <s.sagatelecom@gmail.com> wrote:\nHi, Levent,\nSTC-424DGGPM-280W-cdr-ANW.psd\n57K",
+        "datetime": "Tue, Oct 22, 2024 6:00 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Oct 23, 2024",
+        "time": "9:48 AM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nPlease see attached information and let me know.\nThank you.\n2 attachments\nCI_to be finalized.pdf\n436K\nReply_2024.10.23.docx\n1222K",
+        "datetime": "Wed, Oct 23, 2024 9:48 AM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Wed, Oct 23, 2024",
+        "time": "3:35 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon'\nAttaching replies to your questions and required files.\nPlease let me know if you need more info.\nThanks\nTaylan\n4 attachments\nAngoraLabelFormat.png\n116K\nSTC-424DGGPM-280W-cdr.pdf\n86K\nAngora-Replies_2024.10.23.docx\n1227K\nANGORA LOGO2.ai\n1105K",
+        "datetime": "Wed, Oct 23, 2024 3:35 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Oct 23, 2024",
+        "time": "5:04 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nSince you are in the middle of a show, let me just be quick.\n1, PVC mask font\n2, user manual description\nAbout the rules I mentioned to be finalized, lets discuss it later when you are free.\nThank you.\n2 attachments\nPVC mask font.png\n49K\nuser manual description.png\n476K",
+        "datetime": "Wed, Oct 23, 2024 5:04 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, Oct 24, 2024",
+        "time": "3:27 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "HI Simon;\nPlease use the same font, yours is ok.\nWe now have another problem. THe customer request was for 16 port. Since there is no product on your list with\n16 ports, we ordered 24 port but the customer insist for 16 ports not ok with an upgrade.\nWhat are the options for 16 ports. FOr us it is OK just to remove the last 8 port and use a strong lexan to cover\nthe hole. Do you think this would work?\nBy the way we ll have another order of 100-150 device, again 16 ports. So manufacturing new enclosure could\nalso be a good option for us.\nAnd of course all product codes must now changed to ANW-2116-PG\nSorry for the last minute change. Hope we'll sort this out quickly\nThanks\nTaylan",
+        "datetime": "Thu, Oct 24, 2024 3:27 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, Oct 24, 2024",
+        "time": "6:21 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nAfter internal check, we have a problem with this.\nOur engineers are busy with some other customization now, and this is just a sample order, they are not really willing to be\ninterrupted by this.\nBut as you said, there is a new project for this model soon, and there is also customized PVC mask for this sample order.\nI used this to convince our engineers, here is our offer\n1, about 3 days to change the software from 24-port to 16-port\nThis port change also involves software, this is the issue.\n2, 200usd for this software change and this amount will be fully deducted from the bulk order(100~150 units)\nPlease check if this is OK with you.\n\nFor the 8-port we move, it will be port 17~24(copper ports, LED indicators and software part).\nAnd this time, it will still be 24-port enclosure, this removed copper part is just covered just you suggest in your reply(use a strong\nlexan to cover the hole).\nIs this OK with you?\n\nFor the bulk order(100~150 units), we will customize the enclosure for you, cost is 10usd/each.\nWhich means the unit price is 160usd/pc later(of course we will give a discount if this order is really placed)\nThen, it is all based on 4+16 design(PVC mask, software and enclosure), nothing to do with 24-port.\n\nFor all other matters, we are basically OK, later we will share\n1, final PVC mask design\n2, label content\n3, user manual\nFor your confirmation.\n\nPlease let me know your feedback.\nThank you.\n2 attachments\nGUI after change.png\n39K\nPVC after change.png\n47K",
+        "datetime": "Thu, Oct 24, 2024 6:21 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, Oct 24, 2024",
+        "time": "7:31 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Thanks Simon, Answers are inline\n1, about 3 days to change the software from 24-port to 16-port\nThis port change also involves software, this is the issue.\nTotally understand and agreed\n2, 200usd for this software change and this amount will be fully deducted from the bulk order(100~150 units)\nPlease check if this is OK with you.\nIt is ok\n\nFor the 8-port we move, it will be port 17~24(copper ports, LED indicators and software part).\nAnd this time, it will still be 24-port enclosure, this removed copper part is just covered just you suggest in your reply(use a\nstrong lexan to cover the hole).\nIs this OK with you?\nIt is ok to cover the removed ports with lexan. ALso please hide LEDs for 17 o 24 with the lexan as well\n\nFor the bulk order(100~150 units), we will customize the enclosure for you, cost is 10usd/each.\nWhich means the unit price is 160usd/pc later(of course we will give a discount if this order is really placed)\nThen, it is all based on 4+16 design(PVC mask, software and enclosure), nothing to do with 24-port.\nAgreed\n\nFor all other matters, we are basically OK, later we will share\n1, final PVC mask design\n2, label content\n3, user manual\nFor your confirmation\nThanks, waiting",
+        "datetime": "Thu, Oct 24, 2024 7:31 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Oct 25, 2024",
+        "time": "1:47 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nPlease see attached information.\n1, PVC mask design is OK?\n2, label format is OK?\nI talked with Levent on WeChat about serial number and font, lets do Arial and\nAWN241023123008AE\nAWN241023123009AE\nAWN241023123010AE\nAWN241023123011AE\nAWN241023123012AE\nAWN241023123013AE\nAWN241023123014AE\n3, user manual is also in Arial, I will do some modification like layout if you are OK with this version.\n4, for the web GUI, I shared a photo yesterday, please refer to it, just the same as the PVC mask\nPort 17~24 copper is removed and fiber serial number is now 17~20.\nI think that is all for this order, please let me know if I am missing anything.\n\nAfter your confirmation, please made payment 200USD to the same bank a/c as the deposit of software change(will deduct it from\n100~150 units order ONLY, not about other orders).\n\nAnd when you are available, perhaps lets talk about the rules/standards in future orders, like\nFont, label format etc.\nThen everything is clear and simple.\nPlease let me know your feedback.\nThank you.\n3 attachments\nPVC.png\n209K\nlabel format.jpg\n2230K\nUser Manual.pdf\n390K",
+        "datetime": "Fri, Oct 25, 2024 1:47 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Fri, Oct 25, 2024",
+        "time": "2:53 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon,\nThanks for your support.\nAll looks ok. Panel, gui, fonts, label and guide. Everything is good. Please lets proceed with these final versions\nWe ll send the payment on monday early morning. Today we ll place the bank order.\nFor the next phases, lets discuss next week. We ll also discuss about EU market collaboration\nCheers\nTaylan\nPlease be aware that my fingers are not designed and evolved for smartphone messaging 😉",
+        "datetime": "Fri, Oct 25, 2024 2:53 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Mon, Oct 28, 2024",
+        "time": "3:54 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nYour order is being processed now.\nAccording to the talk with Levent on WeChat, please see attached a copy of new invoice for software change cost.\nFor easier payment, I did not write refund-related information, but it will be what I wrote in last email.\n(will deduct it from 100~150 units order ONLY, not about other orders).\nSoon I will let you know the progress of your order.\nLets talk about the collaboration issue when you are available, looking forward to this.\nThank you.\nSTSC20241028007.pdf\n240K",
+        "datetime": "Mon, Oct 28, 2024 3:54 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Mon, Oct 28, 2024",
+        "time": "7:18 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon;\nAll looks good. Thanks for your support.\nFor the collaboration meeting. Levent will write you through wechat.\nThanks\nTaylan",
+        "datetime": "Mon, Oct 28, 2024 7:18 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Nov 5, 2024",
+        "time": "10:47 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Levent,\nPlease see attached invoice and let me know.\nI am attaching the local client list available now, please know that most of them got a Chinese supplier.\nSo it might not be easy to have some progress, but lets see, maybe it works.\nAdditionally\n1, The industrial switch project 385 pieces\nOn WeChat I told you what is going on there, I will let you know when we have a decision here.\nPlease kindly expedite the confirmation in writing at your side.\n2, The order(7 pieces, STSC20241021007) is ready, I shared some photos on WeChat.\nSoon I will upload the information to your google drive link folder.\n3, About yesterday's reply on core switch and access switch, please take your time and let me know when you decide.\nPlease let me know if you have anything to add.\nThank you.\n2 attachments\nTurkey Client List.xlsx\n25K\nSTSC20241105007.pdf\n271K",
+        "datetime": "Tue, Nov 5, 2024 10:47 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Nov 6, 2024",
+        "time": "1:55 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Levent,\nWe will use the MAC address you shared on email, thanks for this.\nAnd please see attached revised invoice for another 3 pieces of ANW-2116-PG and do make sure the version I shared\nyesterday is replaced by this revised one(this avoids confusion).\nFor the local client list, please let me know if you have any questions.\nLooking forward to your feedback on the core switch and industrial switch project.\nThank you.\nSTSC20241105007.pdf\n270K",
+        "datetime": "Wed, Nov 6, 2024 1:55 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Wed, Nov 6, 2024",
+        "time": "2:36 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, many thanks for your updates. The $600 has been transferred as we talked on WeChat.\nThank you for the contact list, we will start contacting them as soon as possible this week. We will prepare a nice looking email and\nsend everyone a personalized email.\nAs for the 385 pieces order, we are also pushing customer every day for the written order. We are hoping they will relove their\npaperwork very soon. We will keep you updated.\nThe core switches with Centec processors (chipset) is okay. We need to get s sample unit to test and play before we promote to\ncustomers. But with the track record so far, we do not see any risks.\nLooking forward to receiving the shipment information on Friday.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n<STSC20241105007.pdf>",
+        "datetime": "Wed, Nov 6, 2024 2:36 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Nov 6, 2024",
+        "time": "7:07 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nYes, the payment is on the way, there is a record now.\nAbout the local client list, thanks for your efforts. After some time, lets discuss the feedback from them.\nThen we will give our advice FYI, contact them again and again with different approaches, maybe it works.\nAbout the industrial switch project, as I updated on WeChat, it is NOW about if we could close it before this fiscal year.\nSoftware&hardware part is CURRENTLY not an issue.\nLets talk about the progress on both sides from time to time before everything is done.\nAbout the core switch part, thanks for it, all the models are about CENTEC chips.\nWe are still working on the datasheet(something to add/remove/correct etc.)\nI am now sharing the information for the 1st core switch.\nPlease first check and let me know the questions you have, we can do this progressively.\nI will soon let you know the update about the orders.\nThank you.\n5 attachments\nfront.jpg\n247K\nrear.jpg\n233K\nSTOS Software Features_EN_V1.0 .pdf\n226K\nPerformance of PeakNetX Platform_EN_V1.26.pdf\n168K\nSTH100G Series Datasheet_EN_V1.0.pdf\n512K",
+        "datetime": "Wed, Nov 6, 2024 7:07 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Nov 8, 2024",
+        "time": "4:59 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThe information is uploaded to the google drive folder, please check.\nhttps://drive.google.com/drive/folders/1UQ9gPrLBYVhtI6KLJsQiEMDwFa5SKqnP?usp=sharing\nThank you.",
+        "datetime": "Fri, Nov 8, 2024 4:59 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Fri, Nov 8, 2024",
+        "time": "6:32 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Thank you Simon, looking forward to receivng the goods. Will appreciate if you can share the freight information too. Best regards,\n-Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com",
+        "datetime": "Fri, Nov 8, 2024 6:32 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Mon, Nov 11, 2024",
+        "time": "8:59 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\n1, UPS/1Z144AW70428252078\nI have uploaded it to the google drive folder.\n2, Just FYI, we have updated the datasheets for our models, the product information is basically unchanged(corrected some faults\netc.). Some more information is added.\nIt is expected to be updated every quarter with more explanative details.\n3, Lets talk about core switch and access switch once you are ready.\n4, For the industrial switch project, lets wait and see.\nPlease let me know if you have anything to add.\nThank you.",
+        "datetime": "Mon, Nov 11, 2024 8:59 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Nov 19, 2024",
+        "time": "10:23 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Taylan,\nAbout the features you mentioned on WeChat, I made a simple reply this afternoon.\nPlease see attached information.\nPreviously I shared “Performance of PeakNetX Platform_EN_V1.26”\nIf you noticed, there is a model STH-8C48XF at the end, this is about it in this discussion.\nYou can refer to the features in this file “Performance of PeakNetX Platform_EN_V1.26”\nThere is a little extra information for you(see attached \"STH10G Series switches datasheet_EN_V1.0\"\nThis is all the info about this model, a bit messy, sorry for this.\nWe are drafting another version of datasheet, this takes a long time.\nSo maybe we first focus on current version and see how to move on.\nPlease let me know if there is any query.\nThank you.\n3 attachments\nfront.png\n8031K\nrear_single input.png\n7677K\nSTH10G Series switches datasheet_EN_V1.0.pdf\n744K",
+        "datetime": "Tue, Nov 19, 2024 10:23 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - Managed Optical Bypass Switch.pdf",
+    "subject": "Managed Optical Bypass Switch",
+    "declared_count": "8 messages",
+    "parsed_count": 8,
+    "participants": [
+      "a.sagatelecom@gmail.com",
+      "alexander@larch-networks.com"
+    ],
+    "messages": [
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Wed, May 21, 2025",
+        "time": "9:20 PM",
+        "to": "info@larch-networks.com",
+        "cc": "",
+        "body": "This is a Marvell based Managed Switch with Optical Bypass Feature.1, Customizable Web GUI2, Optical path\nprotection in case of power failure3, 1G/2.5G/10G fiber speed, PoE is optionalIs it useful to you?\nHi,\nHow are you?\nThank you.\nMarvells\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider",
+        "datetime": "Wed, May 21, 2025 9:20 PM"
+      },
+      {
+        "from": "Alexander Cheskis",
+        "from_email": "alexander@larch-networks.com",
+        "date": "Fri, May 23, 2025",
+        "time": "7:14 AM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "sales team <sales.team@larch-networks.com>",
+        "body": "Hi Alan,\nThank you for sharing this — the Optical Bypass Switch is definitely of interest to us.\nTo evaluate further, could you kindly share more technical details?\nWhich Marvell chipset is being used?\nHow much RAM and flash memory does the device include?\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 1/19\nAny specifics on the optical bypass implementation?\nAlso, are you attending Computex this year? If yes, we’d be happy to meet in person and discuss this product in more\ndetail.\nOur colleague Andrey Zarudniy will also follow up with you shortly to continue the conversation.\nLooking forward to your response.\nBest regards,\nAlexander\nOn Wed, May 21, 2025 at 9:21 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nThis is a Marvell based Managed Switch with Optical Bypass Feature.1, Customizable Web GUI2, Optical path\nprotection in case of power failure3, 1G/2.5G/10G fiber speed, PoE is optionalIs it useful to you?Marvells\nHi,\nHow are you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider",
+        "datetime": "Fri, May 23, 2025 7:14 AM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Fri, May 23, 2025",
+        "time": "4:51 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nThanks for your info.\n\n1, Marvell 98DX 2515\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 2/19\nCPU: ARM V8 1.2G\nFLASH:512MB 4Gbit\nRAM: 512MB 4Gbit\n2, Please see attached datasheet.\n3, Sorry, I am not at the exhibition.\nBut we can have some online meetings if you think necessary.\n\nOK, let's see what Andrey would like to discuss.\nThank you.\nSTI-488XGGPM2B-2BT.pdf\n2757K",
+        "datetime": "Fri, May 23, 2025 4:51 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Tue, Jun 24, 2025",
+        "time": "7:00 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nHow are you?\nThis is to introduce our Marvell-based Smart Alert System to enhance industrial reliability.\nKey Features\n1, Power Loss Alarm: via Pin 5/6 input\n2, Fiber/RJ45 Link Loss Detection: with DI/DO alarm output\n3, RS485 Serial Input: for reading industrial signals(e.g. sensors, meters)\nThis is very useful in high-end projects for smart monitoring, faster response, and seamless system integration.\nIs it useful to you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider",
+        "datetime": "Tue, Jun 24, 2025 7:00 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Wed, Jul 23, 2025",
+        "time": "7:00 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 3/19\nHow are you?\nWe are doing Marvell Alleycat5 chip for tailored networking solutions.\n1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID)\n2, Added interesting features(Sftp, Https, L3 Routing)\n3, Prestera 98DX25xx and 98DX35xx series\nLets talk about it if you are interested in Marvell-based solutions.\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Tue, Jun 24, 2025 at 7:00 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nThis is to introduce our Marvell-based Smart Alert System to enhance industrial reliability.\nKey Features\n1, Power Loss Alarm: via Pin 5/6 input\n2, Fiber/RJ45 Link Loss Detection: with DI/DO alarm output\n3, RS485 Serial Input: for reading industrial signals(e.g. sensors, meters)\nThis is very useful in high-end projects for smart monitoring, faster response, and seamless system integration.\nIs it useful to you?\nThank you.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 4/19\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Fri, May 23, 2025 at 4:51 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nThanks for your info.\n\n1, Marvell 98DX 2515\nCPU: ARM V8 1.2G\nFLASH:512MB 4Gbit\nRAM: 512MB 4Gbit\n2, Please see attached datasheet.\n3, Sorry, I am not at the exhibition.\nBut we can have some online meetings if you think necessary.\n\nOK, let's see what Andrey would like to discuss.\nThank you.\nOn Fri, May 23, 2025 at 7:15 AM Alexander Cheskis <alexander@larch-networks.com> wrote:\nHi Alan,\nThank you for sharing this — the Optical Bypass Switch is definitely of interest to us.\nTo evaluate further, could you kindly share more technical details?\nWhich Marvell chipset is being used?\nHow much RAM and flash memory does the device include?\nAny specifics on the optical bypass implementation?\nAlso, are you attending Computex this year? If yes, we’d be happy to meet in person and discuss this product\nin more detail.\nOur colleague Andrey Zarudniy will also follow up with you shortly to continue the conversation.\nLooking forward to your response.\nBest regards,\nAlexander\nOn Wed, May 21, 2025 at 9:21 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nThis is a Marvell based Managed Switch with Optical Bypass Feature.1, Customizable Web GUI2, Optical\npath protection in case of power failure3, 1G/2.5G/10G fiber speed, PoE is optionalIs it useful to you?\nMarvells\nHi,\nHow are you?\nThank you.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 5/19\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider\nOptical Bypass Switch.jpg\n330K",
+        "datetime": "Wed, Jul 23, 2025 7:00 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Fri, Aug 29, 2025",
+        "time": "8:40 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nHow are you?\nThis is a Marvell based layer 2 managed PoE switch.\n1. Highly programmable GUI\n2. 2*PoE af/at/bt+6*PoE af/at, 240W budget\n3. Support PoE management\nIts mainly used in some high-end CCTV monitoring projects.\nIs it useful to you?\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 6/19\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Wed, Jul 23, 2025 at 7:00 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nWe are doing Marvell Alleycat5 chip for tailored networking solutions.\n1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID)\n2, Added interesting features(Sftp, Https, L3 Routing)\n3, Prestera 98DX25xx and 98DX35xx series\nLets talk about it if you are interested in Marvell-based solutions.\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Tue, Jun 24, 2025 at 7:00 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 7/19\nHow are you?\nThis is to introduce our Marvell-based Smart Alert System to enhance industrial reliability.\nKey Features\n1, Power Loss Alarm: via Pin 5/6 input\n2, Fiber/RJ45 Link Loss Detection: with DI/DO alarm output\n3, RS485 Serial Input: for reading industrial signals(e.g. sensors, meters)\nThis is very useful in high-end projects for smart monitoring, faster response, and seamless system integration.\nIs it useful to you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Fri, May 23, 2025 at 4:51 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nThanks for your info.\n\n1, Marvell 98DX 2515\nCPU: ARM V8 1.2G\nFLASH:512MB 4Gbit\nRAM: 512MB 4Gbit\n2, Please see attached datasheet.\n3, Sorry, I am not at the exhibition.\nBut we can have some online meetings if you think necessary.\n\nOK, let's see what Andrey would like to discuss.\nThank you.\nOn Fri, May 23, 2025 at 7:15 AM Alexander Cheskis <alexander@larch-networks.com> wrote:\nHi Alan,\nThank you for sharing this — the Optical Bypass Switch is definitely of interest to us.\nTo evaluate further, could you kindly share more technical details?\nWhich Marvell chipset is being used?\nHow much RAM and flash memory does the device include?\nAny specifics on the optical bypass implementation?\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 8/19\nAlso, are you attending Computex this year? If yes, we’d be happy to meet in person and discuss this\nproduct in more detail.\nOur colleague Andrey Zarudniy will also follow up with you shortly to continue the conversation.\nLooking forward to your response.\nBest regards,\nAlexander\nOn Wed, May 21, 2025 at 9:21 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nThis is a Marvell based Managed Switch with Optical Bypass Feature.1, Customizable Web GUI2, Optical\npath protection in case of power failure3, 1G/2.5G/10G fiber speed, PoE is optionalIs it useful to you?\nMarvells\nHi,\nHow are you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-7476616433… 9/19\nOptical Bypass Switch.jpg\n330K",
+        "datetime": "Fri, Aug 29, 2025 8:40 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, Sep 29, 2025",
+        "time": "5:20 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nHow are you?\nThis is our 24-port Marvell-based managed SFP switch.\n1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+\n2, Dual AC input\n3, Support fan monitoring/dual PSU status monitoring\n4, Customizable Web GUI\nIt is a price-competitive aggregation switch(280usd/pc)\nIs it useful to you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Fri, Aug 29, 2025 at 8:40 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nThis is a Marvell based layer 2 managed PoE switch.\n1. Highly programmable GUI\n2. 2*PoE af/at/bt+6*PoE af/at, 240W budget\n3. Support PoE management\nIts mainly used in some high-end CCTV monitoring projects.\nIs it useful to you?\nThank you.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 10/19\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Wed, Jul 23, 2025 at 7:00 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nWe are doing Marvell Alleycat5 chip for tailored networking solutions.\n1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID)\n2, Added interesting features(Sftp, Https, L3 Routing)\n3, Prestera 98DX25xx and 98DX35xx series\nLets talk about it if you are interested in Marvell-based solutions.\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Tue, Jun 24, 2025 at 7:00 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 11/19\nThis is to introduce our Marvell-based Smart Alert System to enhance industrial reliability.\nKey Features\n1, Power Loss Alarm: via Pin 5/6 input\n2, Fiber/RJ45 Link Loss Detection: with DI/DO alarm output\n3, RS485 Serial Input: for reading industrial signals(e.g. sensors, meters)\nThis is very useful in high-end projects for smart monitoring, faster response, and seamless system integration.\nIs it useful to you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Fri, May 23, 2025 at 4:51 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nThanks for your info.\n\n1, Marvell 98DX 2515\nCPU: ARM V8 1.2G\nFLASH:512MB 4Gbit\nRAM: 512MB 4Gbit\n2, Please see attached datasheet.\n3, Sorry, I am not at the exhibition.\nBut we can have some online meetings if you think necessary.\n\nOK, let's see what Andrey would like to discuss.\nThank you.\nOn Fri, May 23, 2025 at 7:15 AM Alexander Cheskis <alexander@larch-networks.com> wrote:\nHi Alan,\nThank you for sharing this — the Optical Bypass Switch is definitely of interest to us.\nTo evaluate further, could you kindly share more technical details?\nWhich Marvell chipset is being used?\nHow much RAM and flash memory does the device include?\nAny specifics on the optical bypass implementation?\nAlso, are you attending Computex this year? If yes, we’d be happy to meet in person and discuss this\nproduct in more detail.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 12/19\nOur colleague Andrey Zarudniy will also follow up with you shortly to continue the conversation.\nLooking forward to your response.\nBest regards,\nAlexander\nOn Wed, May 21, 2025 at 9:21 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nThis is a Marvell based Managed Switch with Optical Bypass Feature.1, Customizable Web GUI2,\nOptical path protection in case of power failure3, 1G/2.5G/10G fiber speed, PoE is optionalIs it useful to\nyou?Marvells\nHi,\nHow are you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\n--\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 13/19\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\n2 attachments\nOptical Bypass Switch.jpg\n330K\nAlarm.png\n677K",
+        "datetime": "Mon, Sep 29, 2025 5:20 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, Oct 27, 2025",
+        "time": "8:00 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nHow are you?\nThis is to introduce our software functions.\n1, We are using Marvell 98DX25xx and 98DX35xx series.\n2, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID)\n3, Added interesting features(Sftp, Https, L3 Routing)\nPlease see below Web GUI photo and attached function list.\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 14/19\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Mon, Sep 29, 2025 at 5:20 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nThis is our 24-port Marvell-based managed SFP switch.\n1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+\n2, Dual AC input\n3, Support fan monitoring/dual PSU status monitoring\n4, Customizable Web GUI\nIt is a price-competitive aggregation switch(280usd/pc)\nIs it useful to you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Fri, Aug 29, 2025 at 8:40 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nThis is a Marvell based layer 2 managed PoE switch.\n1. Highly programmable GUI\n2. 2*PoE af/at/bt+6*PoE af/at, 240W budget\n3. Support PoE management\nIts mainly used in some high-end CCTV monitoring projects.\nIs it useful to you?\nThank you.\n--\nAlan\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 15/19\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Wed, Jul 23, 2025 at 7:00 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nWe are doing Marvell Alleycat5 chip for tailored networking solutions.\n1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID)\n2, Added interesting features(Sftp, Https, L3 Routing)\n3, Prestera 98DX25xx and 98DX35xx series\nLets talk about it if you are interested in Marvell-based solutions.\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Tue, Jun 24, 2025 at 7:00 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nHow are you?\nThis is to introduce our Marvell-based Smart Alert System to enhance industrial reliability.\nKey Features\n1, Power Loss Alarm: via Pin 5/6 input\n2, Fiber/RJ45 Link Loss Detection: with DI/DO alarm output\n3, RS485 Serial Input: for reading industrial signals(e.g. sensors, meters)\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 16/19\nThis is very useful in high-end projects for smart monitoring, faster response, and seamless system\nintegration.\nIs it useful to you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nOn Fri, May 23, 2025 at 4:51 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nHi, Alexander,\nThanks for your info.\n\n1, Marvell 98DX 2515\nCPU: ARM V8 1.2G\nFLASH:512MB 4Gbit\nRAM: 512MB 4Gbit\n2, Please see attached datasheet.\n3, Sorry, I am not at the exhibition.\nBut we can have some online meetings if you think necessary.\n\nOK, let's see what Andrey would like to discuss.\nThank you.\nOn Fri, May 23, 2025 at 7:15 AM Alexander Cheskis <alexander@larch-networks.com> wrote:\nHi Alan,\nThank you for sharing this — the Optical Bypass Switch is definitely of interest to us.\nTo evaluate further, could you kindly share more technical details?\nWhich Marvell chipset is being used?\nHow much RAM and flash memory does the device include?\nAny specifics on the optical bypass implementation?\nAlso, are you attending Computex this year? If yes, we’d be happy to meet in person and discuss this\nproduct in more detail.\nOur colleague Andrey Zarudniy will also follow up with you shortly to continue the conversation.\nLooking forward to your response.\nBest regards,\nAlexander\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 17/19\nOn Wed, May 21, 2025 at 9:21 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nThis is a Marvell based Managed Switch with Optical Bypass Feature.1, Customizable Web GUI2,\nOptical path protection in case of power failure3, 1G/2.5G/10G fiber speed, PoE is optionalIs it useful\nto you?Marvells\nHi,\nHow are you?\nThank you.\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored  Managed Networking Solution Provider\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 18/19\n--\nAlan\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating\nTailored Marvell Managed Networking Solutions Provider\n3 attachments\nOptical Bypass Switch.jpg\n330K\nAlarm.png\n677K\nSaga Software Function List_7.3, 7.4, 7.5 version.xlsx\n123K\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r4894518687187253094&simpl=msg-a:r-747661643… 19/19",
+        "datetime": "Mon, Oct 27, 2025 8:00 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - New Quotation.pdf",
+    "subject": "New Quotation",
+    "declared_count": "11 messages",
+    "parsed_count": 11,
+    "participants": [
+      "lkilic@angoranetworks.com",
+      "s.sagatelecom@gmail.com"
+    ],
+    "messages": [
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sat, Nov 23, 2024",
+        "time": "12:36 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>, Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "",
+        "body": "Hi, Levent,\nThanks for your offer on WeChat(a copy of BOM in attachment).\nPlease see attached quotation and let me know.\n\n1, Certification of warranty for last order has been uploaded to google drive folder.\n2, For the wireless access devices, probably we will consider this supplier for long-term supplying.\nSo if there is a new requirement, we simply talk with this supplier for info.\n3, In this BOM, STC-424DGGPM-280W/TRX-AS-24TP4X and STC-448XGGPMTRX-AS-48TP4X\nFor our models, it is one 2.5G model and one 10G model.\nWhile your models are both about 4X.\nSo in the quotation, I made it STC-424XGGPM-280W.\nIf STC-424DGGPM-280W is what you need, I will take care of it.\nThank you.\n--\nSimon/Saga Telecom\nConnecting, Converting, Creating\n3 attachments\nTronx Saga Siparis Listesi.xlsx\n11K\nQuotation.pdf\n129K\nCertificate of Warranty.pdf\n785K",
+        "datetime": "Sat, Nov 23, 2024 12:36 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Sat, Nov 23, 2024",
+        "time": "12:48 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>; Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "",
+        "body": "Hi Simon, thank you for your email.\n1- Thank you for the follow up\n2- That’s great approach. We appreciate it. Can you please share the technical datasheet Let’s review the specs if we are\nconsidering long term supplier.\n3- Thank you for the correction. We will get the money out to you next week. Will appreciate shipment as soon as possible to\nsave time. In this sample shipment, we can also test some logistics options too.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nFrom: Simon <s.sagatelecom@gmail.com>\nSent: Saturday, November 23, 2024 07:36\nSubject: New Quotation",
+        "datetime": "Sat, Nov 23, 2024 12:48 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sat, Nov 23, 2024",
+        "time": "1:43 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\n\nThanks for your information.\n1, I am getting the info from the supplier and will let you know （ expected to be in a few hours, today is Saturday, slow in reponse).\n2, for the logistics, actually this shipping agent is our primary option.\nAnd this is also the first time to have such issues, long delay due to airplane misopreation(something like that).\nFor this shipping agent, there is a list of shipping options for an order.\nDifferent cost and time, we usually pick the option that is faily price-competitive and of good leadtime(4~7 days).\n\nSuggestion 1: How about I send some options for your choice, its like\nOption 1: FedEx, 4~6 days, 300usd\nOption 2: DHL, 7~10 days, 220usd\n...\nIn most cases, the lower cost, the longer shipping period\nYou can let me know your decision based on the urgency and logistic budget.\n\nSuggestion 2: We have been cooperating with this shipping agent for a very long time, of course, we have some many different\nshipment agent resources, but most of the time, it is just for cost reference and shipment to some countries that might have a\nclearance problem(Mexico, Malaysia...)\nBut it is an option to try some new shipping agents(I know some agents well).\n\nPlease let me know your feedback.\nThank you.",
+        "datetime": "Sat, Nov 23, 2024 1:43 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sat, Nov 23, 2024",
+        "time": "11:30 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nPlease let me know your feedback on the logistics suggestions.\nOf course we can discuss new ideas from your side.\nPlease see attached datasheet for WiFi6 Indoor Access Point.\nWhat I meant \"long-term supplying\" is, once there is a requirement, we go to this supplier for information/confirmation.\nIt is about considering them as the primary option, not a necessary one.\nWe are still open to new suppliers and new options, just get the best suited one for business.\nIs this fine with you?\nPlease advise.\nThank you.\nWiFi6 Indoor Access Point.doc\n1771K",
+        "datetime": "Sat, Nov 23, 2024 11:30 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Sun, Nov 24, 2024",
+        "time": "6:15 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi Simon, many thanks for your prompt response.\nLet’s keep using your forwarding company. We can tell them some specific instructions to avoid any delays. We can also try\nclearing customs in Istanbul to avoid any waste of time.\nThe specs for the WiFi AP looks okay. Please let us know if this is an enterprise product. Does this company also provide a WiFi\ncontroller unit? If this is a long term we can check the complete portfolio such as outdoor types etc.\nHope this helps. Best regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nFrom: Simon <s.sagatelecom@gmail.com>\nSent: Saturday, November 23, 2024 18:30\nSubject: Re: New Quotation",
+        "datetime": "Sun, Nov 24, 2024 6:15 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sun, Nov 24, 2024",
+        "time": "9:37 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\n1, about logistics, l will give different options for your choice in next shipment(suggestion 1).\nLets see.\n2, I talked with the supplier, because this is not our category, maybe its better for you to check their website to understand the\nfeatures and see if there is the things you need.\nWe will be assisting you.\nhttps://www.youtube.com/channel/UC6twzNb4hp2jScC8JES9Tlw\nThis is their youtube channel.\n2.1: there are some more links available there, please check.\n2.2: this brand is fairly good, I confirmed with them, OEM services are OK.\nPlease let me know your feedback.\nThank you.",
+        "datetime": "Sun, Nov 24, 2024 9:37 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Mon, Nov 25, 2024",
+        "time": "9:10 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon,\n1- OK. We will discuss at next shipment\n2- Thank you for the WiFi manufacturer information. It looks fine, we will take some time reviewing it.\nAs for the sample order from our partner TronX, we will wait a few days. They are discussing with the public office. They will let us\nknow soon. We will keep you posted on the progress.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn Nov 24, 2024, at 16:37, Simon <s.sagatelecom@gmail.com> wrote:\nHi, Levent,\nThanks for your information.",
+        "datetime": "Mon, Nov 25, 2024 9:10 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Fri, Nov 29, 2024",
+        "time": "9:00 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "HI Simon, can you please update the proforma invoice for the sample units as attached Excel file? Please include full transaction\ninformation as Freight, bank fees and all.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n<Tronx Saga Siparis Listesi.xlsx><Quotation.pdf><Certificate of Warranty.pdf>\nTronx Saga Siparis Listesi-3.xlsx\n77K",
+        "datetime": "Fri, Nov 29, 2024 9:00 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Nov 29, 2024",
+        "time": "11:23 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nPlease see attached invoice and let me know.\nThank you.\nSTSC20241129007.pdf\n430K",
+        "datetime": "Fri, Nov 29, 2024 11:23 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Sat, Nov 30, 2024",
+        "time": "3:50 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, thank you very much for the updated Proforma Invoice.\n2 notes:\n1. Please just keep the buyer’s model in the invoice since this is for official Customs purposes.\n2. The buyer is TronX, as the information in the Excel file. Not Angora Networks.\nWe will keep you posted when the money is ransferred to you from TronX bank account.\nThanks you, Best regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n<STSC20241129007.pdf>",
+        "datetime": "Sat, Nov 30, 2024 3:50 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sun, Dec 1, 2024",
+        "time": "12:04 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nPlease see attached new invoice and overwrite the previous version(to avoid the confusion) if all is OK.\nThank you.\nSTSC20241129007.pdf\n430K",
+        "datetime": "Sun, Dec 1, 2024 12:04 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - Request for DX1518_DX1548 Chips.pdf",
+    "subject": "Request for DX1518/DX1548 Chips",
+    "declared_count": "2 messages",
+    "parsed_count": 2,
+    "participants": [
+      "a.sagatelecom@gmail.com",
+      "oksana@larch-networks.com"
+    ],
+    "messages": [
+      {
+        "from": "Oksana Loy",
+        "from_email": "oksana@larch-networks.com",
+        "date": "Thu, Jul 2, 2026",
+        "time": "7:08 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Alexander Gribenko <a.gribenko@larch-networks.com>, Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "Dear Alan,\nI hope you are doing well.\nWe would greatly appreciate your assistance. We urgently need 10 pieces of DX1518/DX1548 chips (any variant is\nacceptable) for our customer.\nCould you please let us know if you have any of these chips in stock? If so, would it be possible to purchase them\nfrom you?\nThank you very much for your time and support. We look forward to your reply.\nThanks in advance,\nBR, Oksana Loi.\n--",
+        "datetime": "Thu, Jul 2, 2026 7:08 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Thu, Jul 2, 2026",
+        "time": "7:50 PM",
+        "to": "Oksana Loy <oksana@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Oksana,\nThanks for your information.\nBut sorry to tell you that it is not available.\nWe do not use this chip a lot, and as you know, Marvell has a very rigorous review for chip purchases...\nSorry\nThank you.\n--\nAlan\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1869601060930437431&simpl=msg-f:18696010609304… 1/1",
+        "datetime": "Thu, Jul 2, 2026 7:50 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - Supported SONiC for Saga Ethernet Switches _ COMPUTEX.pdf",
+    "subject": "Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "declared_count": "10 messages",
+    "parsed_count": 10,
+    "participants": [
+      "a.sagatelecom@gmail.com",
+      "alexander@larch-networks.com",
+      "oksana@larch-networks.com"
+    ],
+    "messages": [
+      {
+        "from": "Alexander Cheskis",
+        "from_email": "alexander@larch-networks.com",
+        "date": "Fri, May 22, 2026",
+        "time": "9:31 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Oksana Loi <oksana@larch-networks.com>, Inna Murzina <imurzina@larch-networks.com>, Alexander Gribenko",
+        "body": "<a.gribenko@larch-networks.com>\nDear Alan,\nI hope you are doing well. You shared your updated Ethernet switch product links with us earlier this year, and I\nwanted to reconnect ahead of COMPUTEX.\nLarch Networks can help switch vendors add a commercially supported SONiC option without building a full in-house\nNOS team. Our package is not just development work: it includes Larch Hardened SONiC, platform enablement, long-\nterm maintenance, security and bug-fix updates, and Tier-2/Tier-3 support under an annual license/support model.\nGiven Saga’s 8/24/48-port managed switch portfolio and industrial/commercial focus, this could be a practical way to\noffer customers a more open and programmable software option.\nWe will be at COMPUTEX / InnoVEX, booth S0905. Would you be open to a short meeting in Taipei to discuss\nwhether SONiC could fit one of Saga’s switch lines?\nBest regards,\nAlexander Cheskis\nCEO, Larch Networks",
+        "datetime": "Fri, May 22, 2026 9:31 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, May 25, 2026",
+        "time": "10:03 AM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Alexander,\nThanks for your info and the introduction to Larch Networks’ SONiC offering.\n1. At the moment, our Marvell based models are mainly focusing L2+/L3 SMBs and enterprise network, lower-speed\ndeployments.\nAs you may notice, our high-speed networks is about CENTEC chip, a famous domestic chip with easy access to\nproduct materials and fairly mature technical R&D.\nSo based on our current product direction, we do not see an immediate fit for SONiC integration.\nWe will let you know if something comes up.\nBtw: we will soon launch a new version of software features, I will let you know.\n2. We appreciate learning more about your solution and will certainly keep you in mind as our portfolio evolves.\nBeen studying your website and models...\n3. Wish you a successful COMPUTEX this year, and let's keep in touch.\nThank you.\n--\nAlan\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together",
+        "datetime": "Mon, May 25, 2026 10:03 AM"
+      },
+      {
+        "from": "Alexander Cheskis",
+        "from_email": "alexander@larch-networks.com",
+        "date": "Mon, May 25, 2026",
+        "time": "1:26 PM",
+        "to": "a.sagatelecom@gmail.com",
+        "cc": "oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com",
+        "body": "Hi Alan,\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 1/5\nThanks for the candid reply — fully understood on the CENTEC track for high-speed.\nLet me flip the question. On the Marvell side, we're actively interested — could you share which Marvell-based models\nyou have ready to ship today? Port counts, speeds, form factors, indicative pricing and lead times would be very\nhelpful.\nWe have customers asking for exactly that class of managed switch, and depending on the lineup we may well be a\nbuyer / OEM partner rather than a SONiC vendor.\nIf the lineup looks like a fit, definitely worth a meeting at COMPUTEX. Booth S0905, Nangang Hall 2 — happy to lock\nin a slot any time between May 31 and June 5.\nBest regards,\nAlex",
+        "datetime": "Mon, May 25, 2026 1:26 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, May 25, 2026",
+        "time": "3:11 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com",
+        "body": "Hi, Alex,\nThanks for your info.\n1. We are switching from AC3 and AC5 chipset for ALL models, this is almost done.\nYou are a professional at Marvell and must know that AC5 is a very good balance option on cost & performance.\nAnd AC5 will be our long-term anchored solution.\n2. As I explained in point 1, it is an overall upgrading.\nAnd our Marvell models are about L2+/L3 managed switches(1G/10G based).\nBasically you can still refer to the product links I shared before.\nPort combo, speeds or software structure, there is not much of a big change.\nBut price will be a bit higher due to the soaring memory prices.\n3. For high-speed Marvell switches, honestly it is difficult for us to do some aggressive R&D due to technical\nresources and ROI.\nSo we will probably do a referral to you if anyone asks.\nSo, I guess yes, there might be a good possibility to work out something!!\nLet's talk more.\nThank you.",
+        "datetime": "Mon, May 25, 2026 3:11 PM"
+      },
+      {
+        "from": "Alexander Cheskis",
+        "from_email": "alexander@larch-networks.com",
+        "date": "Tue, May 26, 2026",
+        "time": "8:18 PM",
+        "to": "a.sagatelecom@gmail.com",
+        "cc": "oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com, sales.team@larch-",
+        "body": "networks.com\nHi Alan,\nThanks — this is very useful context on the AC3 to AC5 transition and the L2+/L3, 1G/10G positioning.\nTo size this properly on our side, could you please share a few details:\n1. AC5 models ready, or near-ready, to ship:\n   - port counts: 8 / 24 / 48\n   - port types: 1G copper / SFP+ / SFP28 combinations\n   - PoE / PoE+ vs non-PoE versions\n   - datasheet links are fine if available\n2. Indicative pricing and current lead times across the AC5 lineup.\n   Even ballpark ranges would help us understand which models are best to promote first to our customers.\nFor COMPUTEX, would either Wednesday, June 3 or Thursday, June 4 work for a 30-minute meeting?\nWe will be at booth S0905, Nangang Hall 2. We are happy to come to your booth if Saga is exhibiting, or we would be\nglad to host you at ours.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 2/5\nBest regards,\nAlex",
+        "datetime": "Tue, May 26, 2026 8:18 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Wed, May 27, 2026",
+        "time": "2:39 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "oksana@larch-networks.com, imurzina@larch-networks.com, a.gribenko@larch-networks.com, sales.team@larch-",
+        "body": "networks.com\nHi, Alex,\nThanks for your information.\n1. As I explained before, AC3 to AC5 transition is almost done for ALL models.\nHere are the details.\n1.1: for commercial models, 8 / 24 / 48 Port L2+/L3 models, AC5 is fully ready and in normal production.\n1.2: for industrial models, ALL models got AC5-ready samples.\n4 / 8 port models, AC5 is fully ready and in normal production.\nFor 16 / 24 port models, AC5 is ready, but we are still handling AC3 stocks.\nOnce those stock units are sold, we will just say goodbye to AC3 for good.\nThat is to say, we can supply AC5 version for almost all models now.\n- port counts: 8 / 24 / 48: Yes\n- port types: 1G copper / SFP+ / SFP28 combinations: Not SFP28, we mainly focus on 1G/10G.\n- PoE / PoE+ vs non-PoE versions: Yes\n- datasheet links are fine if available: Still, you can read the links I shared before.\nAccording to our engineering team, there is not much of a change regarding WEB UI and product design.\nIt will be like a seamless transition, users just do not feel the change from AC3 to AC5.\n2. Indicative pricing and current lead times across the AC5 lineup.\n2.1: The increasing memory price is a headache for now.\nGenerally, there will be a 15USD add-up to the prices for each managed model.\nThis is just a general rule for your reference.\nWe will quote individually once we receive a specific request.\n2.2: Leadtime is not a problem.\nAll the AC5 models mentioned above got stock materials, it usually takes 4~7 working days for less than 50 units.\n3. Which models are best to promote first to our customers\nWell, this is kind of easy to know.\n3.1: ALL features on L2+ models are available on L3 models.\nEg: you can test a 48 port L3 model rather than 48 port L2+ model.\n3.2: Commercial models are sharing the same software features as industrial models.\nEg: you can test an 8 port industrial model rather than a 8 port commercial model.\n3.3: On top of this, some interesting models might be useful.\nFiber Optic Bypass Feature, Power Booster Feature, DI/DO/RS485 Feature, Dual PSU and PSU monitoring feature,\n90W PoE and heat dissipation design etc.\nThose features are integrated in regular models, it is like an add-on.\nSo, I guess just a few models will help understand our HW and SW features.\n4. For COMPUTEX\nSorry, Saga is not attending it.\nMaybe an online meeting is easier after some in-depth talks?\nPlease let me know.\nThank you.",
+        "datetime": "Wed, May 27, 2026 2:39 PM"
+      },
+      {
+        "from": "Oksana Loy",
+        "from_email": "oksana@larch-networks.com",
+        "date": "Tue, Jun 2, 2026",
+        "time": "8:06 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>, a.gribenko@larch-networks.com, sales.team@larch-",
+        "body": "networks.com\nHi Alan,\nWould you be available to meet with us on June 10 or 11? What time would be convenient for you?\nThanks in advance,\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 3/5\nBR, Oksana Loi.\n--",
+        "datetime": "Tue, Jun 2, 2026 8:06 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Wed, Jun 3, 2026",
+        "time": "11:31 AM",
+        "to": "Oksana Loy <oksana@larch-networks.com>",
+        "cc": "",
+        "body": "Hi, Oksana,\nHow is your exhibition?\nWish you a big success.\nDo you mean we meet on Taiwan? or?\nMay I know what this is for?\nLike a discussion on L2 / L3 Ethernet switches for SMBs?\nThank you.",
+        "datetime": "Wed, Jun 3, 2026 11:31 AM"
+      },
+      {
+        "from": "Oksana Loy",
+        "from_email": "oksana@larch-networks.com",
+        "date": "Wed, Jun 3, 2026",
+        "time": "9:54 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Alexander Gribenko <a.gribenko@larch-networks.com>, Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "Hi Alan,\nThe exhibition is going very well, and we have a lot of visitors.\nAs Alex mentioned earlier, we would like to arrange a short online meeting to discuss whether SONiC could fit one of\nSaga’s switch lines.\nCould you please let us know if you would be available for a short meeting on June 10 or June 11 at 3:30 PM?\nThanks in advance,\nBR, Oksana Loi.\n--",
+        "datetime": "Wed, Jun 3, 2026 9:54 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Fri, Jun 5, 2026",
+        "time": "1:54 PM",
+        "to": "Oksana Loy <oksana@larch-networks.com>",
+        "cc": "Alexander Gribenko <a.gribenko@larch-networks.com>, Alexander Cheskis <alexander@larch-networks.com>",
+        "body": "Hi, Oksana,\nThanks for your information.\n1. Good to know that everything is going well there!\n2. In previous emails, we discussed high-speed network switches(Marvell based and CENTEC based) and L2 / L3\nEthernet switches for SMBs.\nYour focus is on Marvell SONiC for high-speed networks.\nBut we are currently using CENTEC chips for this category.\nAs I explained, this is easier for us considering technical & commercial resources and ROI.\nWe are just using Marvell chips for L2 / L3 switches, mostly 1G / 10G based.\nBased on our current product direction, we do not see an immediate fit for Marvell SONiC integration.\nSorry...\nAnyway, thanks for this.\n3. Today should be the last day for this exhibition.\nWish you a fruitful one and a happy DIY travel after the show.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 4/5\nThank you.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-f:1865895618820179920&simpl=msg-f:18658956188201… 5/5",
+        "datetime": "Fri, Jun 5, 2026 1:54 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - TT switch administration guide.pdf",
+    "subject": "TT switch administration guide",
+    "declared_count": "6 messages",
+    "parsed_count": 6,
+    "participants": [
+      "s.sagatelecom@gmail.com",
+      "tesen@angoranetworks.com"
+    ],
+    "messages": [
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, Jul 24, 2025",
+        "time": "5:48 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent Kılıç <lkilic@angoranetworks.com>",
+        "body": "Hello Simon; We are working to fully integrate TT switches into the new management system. CAn you please\nhelp me with SNMP v3 config.\nAlso we need a full configuration guuide to add into the management system page by page.\nAppreciate your help\nThanks\nTaylan",
+        "datetime": "Thu, Jul 24, 2025 5:48 PM"
+      },
+      {
+        "from": "Simon from Saga Telecom",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, Jul 24, 2025",
+        "time": "6:20 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent Kılıç <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nQuote: the new management system\nAs I remember, Levent mentioned before that you got an NMS platform that integrates all the managed switches.\nIs this about it?\nThank you.\n--\nSimon\nSaga Telecom/OEM Factory\nConnecting, Converting, Creating",
+        "datetime": "Thu, Jul 24, 2025 6:20 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, Jul 24, 2025",
+        "time": "6:35 PM",
+        "to": "Simon from Saga Telecom <s.sagatelecom@gmail.com>",
+        "cc": "Levent Kılıç <lkilic@angoranetworks.com>",
+        "body": "HI Simon\nSorry for the confusion. We are going to write a new management system specifically for TUrk Telekom, to\nmonitor switches, cameras, data collectors and iot devices.\nI will send you some screenshots about this one. We ll also integrate all switches to our management platform as\nwell, the one Levent mentioned.\nThis is why i need to get the config guide. We ll share this with Turk Telekom as well.\nI have an issue with SNMPv3. All is ok for SNMPv2, so maybe i can figure out what i am doing wrong.\nThanks\nTaylan",
+        "datetime": "Thu, Jul 24, 2025 6:35 PM"
+      },
+      {
+        "from": "Simon from Saga Telecom",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, Jul 24, 2025",
+        "time": "6:40 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent Kılıç <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\n1, please share the screenshots.\n\n2, please share the technical parts(I have an issue with SNMPv3)\nIt would be easier if we got more info from you.\nThank you.\nTailored Marvell Managed Networking Solutions Provider",
+        "datetime": "Thu, Jul 24, 2025 6:40 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, Jul 24, 2025",
+        "time": "7:20 PM",
+        "to": "Simon from Saga Telecom <s.sagatelecom@gmail.com>",
+        "cc": "Levent Kılıç <lkilic@angoranetworks.com>",
+        "body": "Here are my config and errors i get attached",
+        "datetime": "Thu, Jul 24, 2025 7:20 PM"
+      },
+      {
+        "from": "Simon from Saga Telecom",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, Jul 25, 2025",
+        "time": "12:59 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent Kılıç <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\n1, wrong user name: tt-user needs to be tt-test\n2, wrong SHA password: privpass needs to be authpass\nPlease try and let me know.\nThank you.\nFaulty Info.png\n92K",
+        "datetime": "Fri, Jul 25, 2025 12:59 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - Updated Ethernet Switches Links.pdf",
+    "subject": "Updated Ethernet Switches Links",
+    "declared_count": "7 messages",
+    "parsed_count": 7,
+    "participants": [
+      "a.sagatelecom@gmail.com",
+      "alexander@larch-networks.com",
+      "azarudniy@larch-networks.com"
+    ],
+    "messages": [
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Mon, Mar 30, 2026",
+        "time": "6:40 PM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>, Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "cc": "",
+        "body": "Alexander,\nHi,\nHow are you?\nWe updated our product links, you can check full info from attached google drive links.\nThis covers\n1. 8 / 24 / 48 ports L2+ / L3 managed switches\n2. Commercial and Industrial Ethernet/PoE for SMBs or CCTV solutions\n3. 10G / 25G / 100G aggregation and core switches\nWe also provide OEM services.\nLet's talk if any model is useful to you.\nThank you.\n--\nAlan\nSaga Telecom, OEM Factory\nTailored Managed Networking Solutions Provider\nBuilt to Last, Continuous Supply, Evolving Together\nProduct Link_2026Q2.pdf\n237K",
+        "datetime": "Mon, Mar 30, 2026 6:40 PM"
+      },
+      {
+        "from": "Alexander Cheskis",
+        "from_email": "alexander@larch-networks.com",
+        "date": "Tue, Mar 31, 2026",
+        "time": "5:44 AM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Andrey Zarudniy <azarudniy@larch-networks.com>, Alexander Gribenko <a.gribenko@larch-networks.com>",
+        "body": "Hi Alan,\nGood to hear from you — thanks for the updated links.\nI have a specific request: a customer of ours needs 8,000 units of a Campus L2 switch with the following\nconfiguration:\n• Ports: 24× 1G ETH + 4× 10G SFP+\n• PSU: Field-replaceable, 1× AC 100–240V\n• Fans: Internal redundant (if required)\n• Management: USB + OOB + Console\n• Chipset: AC5 / Marvell 98DX2528 + 3× 88E1680\n• Storage: 4GB eMMC or NAND Flash\n• Memory: 2GB DDR4 (2× 1GB)\n• Software: NO SOFTWARE, Larch will make it.\n• Warranty: 1 Year\nThis is similar to what's in your price list (link below), but our target price is $250/unit.\nhttps://drive.google.com/drive/folders/1P8-2u6TkNK2Fu98bv92SNd73WbXkyl2L\nBut we need target price  $250 per device.\nBest regards, Alex\nOn Mon, Mar 30, 2026 at 12:40 PM Alan from Saga Telecom <a.sagatelecom@gmail.com> wrote:\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r2614012717710850558&simpl=msg-a:r-68621649686… 1/4\n>\n> Alexander,\n>\n> Hi,",
+        "datetime": "Tue, Mar 31, 2026 5:44 AM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Tue, Mar 31, 2026",
+        "time": "11:10 AM",
+        "to": "Alexander Cheskis <alexander@larch-networks.com>",
+        "cc": "Andrey Zarudniy <azarudniy@larch-networks.com>, Alexander Gribenko <a.gribenko@larch-networks.com>",
+        "body": "Hi, Alex,\nThanks for your information.\nSome questions for you\n1. PSU: Field-replaceable, 1× AC 100–240V\nDoes this mean a hot-swappable PSU?\n2. Fans: Internal redundant (if required)\nDoes this mean internal fans(2 pieces) are required?\nThis seems to be a non-PoE device.\nConsidering the heating from the PCB and optical modules, 1 fan is usually enough.\nSo 2 fans are for redundant use, mandatory?\n3. Is OOB mandatory?\n4. Is 2GB DDR4 + 4GB Flash + chipset fixed, or flexible based on OS requirements?\n5. For the 10G SFP+ ports, should we support DAC/AOC cables as well, or mainly optical transceivers?\n6. Do you require Marvell SDK / BSP support, or will you handle the full software stack on your side?\nThank you.",
+        "datetime": "Tue, Mar 31, 2026 11:10 AM"
+      },
+      {
+        "from": "Andrey Zarudniy",
+        "from_email": "azarudniy@larch-networks.com",
+        "date": "Tue, Mar 31, 2026",
+        "time": "3:30 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>, Alexander Gribenko <a.gribenko@larch-networks.com>",
+        "body": "Hello Alan!\nMy name is Andrey, let me answer you. Please check my comments below\n1. PSU: Field-replaceable, 1× AC 100–240V\nDoes this mean a hot-swappable PSU?\nYES. need HOT SWAP\n2. Fans: Internal redundant (if required)\nDoes this mean internal fans(2 pieces) are required?\nYes, 2 pcs\nThis seems to be a non-PoE device.\nConsidering the heating from the PCB and optical modules, 1 fan is usually enough.\nYes, without PoE, and according to the tender, we need 2 FANs.\nSo 2 fans are for redundant use, mandatory?\nYes it's mandatory.\n3. Is OOB mandatory?\nYes\n4. Is 2GB DDR4 + 4GB Flash + chipset fixed, or flexible based on OS requirements?\nThis is also mandatory. You cannot change the chipset or the quantity of RAM and Flash.\n5. For the 10G SFP+ ports, should we support DAC/AOC cables as well, or mainly optical transceivers?\nThere are no such requirements. Let it be optical DAC/AOC cables as well.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r2614012717710850558&simpl=msg-a:r-68621649686… 2/4\n6. Do you require Marvell SDK / BSP support, or will you handle the full software stack on your side?\nWe are an official Marvell solution provider. No need for any SW support from the other side.\nIn addition: If you can achieve all these requirements in HW and in price, then we would like to order 2 samples, and\nthere is not much time to do that.\nWe need samples in 2-3 weeks if it's possible.\nBest regards, Andrey\nSales manager.\nhttps://larch-networks.com/\n31 бер. 2026 р. о 06:10 Alan from Saga Telecom <a.sagatelecom@gmail.com> написав(ла):",
+        "datetime": "Tue, Mar 31, 2026 3:30 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Tue, Mar 31, 2026",
+        "time": "5:15 PM",
+        "to": "Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>, Alexander Gribenko <a.gribenko@larch-networks.com>",
+        "body": "Hi, Andrey,\nThanks for your feedback.\nWe have a very close model for this project, probably feasible.\nBut sorry to tell you that, I was just told that it seems to be in conflict with one of our clients.\nThey are also following up with this project.\nso we have to stop here!!\nSad...\nThank you.",
+        "datetime": "Tue, Mar 31, 2026 5:15 PM"
+      },
+      {
+        "from": "Andrey Zarudniy",
+        "from_email": "azarudniy@larch-networks.com",
+        "date": "Tue, Mar 31, 2026",
+        "time": "6:45 PM",
+        "to": "Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>, Alexander Gribenko <a.gribenko@larch-networks.com>",
+        "body": "Alan,\nBy the word clients, do you mean the client who buys this equipment from you, or is it the factory in China that is your\nclient?\nMaybe this is a different project.\nBest regards, Andrey\nSales manager.\nhttps://larch-networks.com/\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r2614012717710850558&simpl=msg-a:r-68621649686… 3/4\n31 бер. 2026 р. о 12:15 Alan from Saga Telecom <a.sagatelecom@gmail.com> написав(ла):\n<logo_avatar.png>",
+        "datetime": "Tue, Mar 31, 2026 6:45 PM"
+      },
+      {
+        "from": "Alan from Saga Telecom",
+        "from_email": "a.sagatelecom@gmail.com",
+        "date": "Tue, Mar 31, 2026",
+        "time": "9:14 PM",
+        "to": "Andrey Zarudniy <azarudniy@larch-networks.com>",
+        "cc": "Alexander Cheskis <alexander@larch-networks.com>, Alexander Gribenko <a.gribenko@larch-networks.com>",
+        "body": "Hi, Andrey,\nThe info I have is,\n1, many are working on this project, many and for a while\n2, target price 250usd/pc is a little difficult, now the material cost is increasing too much as you know\nClient means a domestic client who is working on this project\nI have to stop here, its an internal decision, I am sorry...\nMaybe next time\nYou are focusing on Marvell solutions as we are.\nWe will work out something someday!!\nThank you.\nhttps://mail.google.com/mail/u/0/?ik=1df1a62947&view=pt&search=all&permthid=thread-a:r2614012717710850558&simpl=msg-a:r-68621649686… 4/4",
+        "datetime": "Tue, Mar 31, 2026 9:14 PM"
+      }
+    ]
+  },
+  {
+    "source_file": "Gmail - layer 3 managed switch.pdf",
+    "subject": "layer 3 managed switch",
+    "declared_count": "53 messages",
+    "parsed_count": 53,
+    "participants": [
+      "lkilic@angoranetworks.com",
+      "s.sagatelecom@gmail.com",
+      "tesen@angoranetworks.com"
+    ],
+    "messages": [
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sun, Apr 28, 2024",
+        "time": "1:50 PM",
+        "to": "contact@angoranetworks.com",
+        "cc": "",
+        "body": "Hi,\nHow are you?\nThis is about a Marvell based layer 3 industrial switch,4*1G/2.5G/10G SFP +4*1G SFP+8*1G Copper.\nIs it useful to you?\nThank you.\n--\nSimon/Zhengzhou Saga Telecom Co.,Ltd.\nCommercial Ethernet/Industrial Networking/Din Power Adapter\nWhatsapp/Wechat/Mob: 86.15237149683",
+        "datetime": "Sun, Apr 28, 2024 1:50 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Sun, Apr 28, 2024",
+        "time": "4:52 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, Thanks for your email.\nTaylan has already responded to an earlier email from you.\nWe would like to know more about your Marvell based products. Can you please share the product portfolio for the Marvell based\nproducts.\nThanks, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn Apr 28, 2024, at 08:51, Simon <s.sagatelecom@gmail.com> wrote:",
+        "datetime": "Sun, Apr 28, 2024 4:52 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sun, Apr 28, 2024",
+        "time": "5:04 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your reply.\nYes, our products are Realtek and Marvell based.\nFor Marvell models, its about\n1, commercial managed switch\n2, industrial ethernet switch\nPlease download the information from below google drive links, there is full information.\ncommercial managed switch\nhttps://drive.google.com/drive/folders/1alwp4HRbIyHJ8bYJwFkIUJG6kmHo1guK?usp=drive_link\nIndustrial unmanaged switch\nhttps://drive.google.com/drive/folders/1PKhmEboNZkl105nBUotOBcTBrH9qX6EU?usp=drive_link\nIndustrial managed switch\nhttps://drive.google.com/drive/folders/1i4j1kI-_gW6H5qd_qw7ivsJCVOvNl_td?usp=drive_link\nPlease let me know if you have any questions.\nThank you.",
+        "datetime": "Sun, Apr 28, 2024 5:04 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Sun, Apr 28, 2024",
+        "time": "5:17 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Thanks Simon, we will review and study the documents in detail and get back to you.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn Apr 28, 2024, at 12:04, Simon <s.sagatelecom@gmail.com> wrote:",
+        "datetime": "Sun, Apr 28, 2024 5:17 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Sun, Apr 28, 2024",
+        "time": "5:51 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "",
+        "body": "Hi, Levent,\nIf you need management interface, PCB board photos... and would like to know how we design the products.\nPlease let me know.\nThank you.",
+        "datetime": "Sun, Apr 28, 2024 5:51 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Mon, Apr 29, 2024",
+        "time": "11:16 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "TAYLAN ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon,\nCan you please also let us know more about the software part on Marvell units ?\nAre you selling units with software or without software?\nWhat are the options to brand the software, if any ?\nThanks in advance for your reply.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nFrom: Simon <s.sagatelecom@gmail.com>\nSent: Sunday, April 28, 2024 12:51:35 PM\nSubject: Re: layer 3 managed switch",
+        "datetime": "Mon, Apr 29, 2024 11:16 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Mon, Apr 29, 2024",
+        "time": "11:27 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "",
+        "body": "Hi, Levent,\nPlease see attached photos of the management interface.\nYes, it is with software.\nI guess you are talking about branding the software.\nIf so, our standard practice is to help put the customer's logo and model name in the software for free and even for 1 piece.\nOf course, we can also help you change the MAC address, IP address, SNMP OID(also free of cost).\nAs I previously said, we design the software and hardware on our own, so change is easy.\nBut if you mean anything else, please elaborate.\nThank you.\n3 attachments\n2.png\n157K\n3.png\n64K\n1.png\n177K",
+        "datetime": "Mon, Apr 29, 2024 11:27 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Tue, Apr 30, 2024",
+        "time": "8:47 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, many thanks for your prompt reply. Can you please send us a Proforma Invoice for the following equipment :\n2 pcs STC-424XGGPM\n2 pcs STC-28DGGPM\nWe would also like to know the bulk pricing for these units as well.\nPlease also note the following customization for the software:\nCustomer Logo : Angora Networks logo attached in this email. Please use which format is best for the software.\nplease note that our corporate color is blue as in our logo. We will appreciate if you can update the web interface color.\nVendor Name : Angora Networks\nModel Names:\nSTC-424XGGPM : ANW-2224-PX ( for Layer 2+ software)\nSTC-28DGGPM : ANW-2208-PG for Layer 2+ software)\nSTC-424XGGPM : ANW-3224-PX ( for Layer 3 software)\nSTC-28DGGPM : ANW-3208-PG for Layer 3 software)\nCurrently please keep MAC Addresses, IP addresses and SNMP OID as is.\nLooking forward to hearing from you,\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn Apr 29, 2024, at 18:27, Simon <s.sagatelecom@gmail.com> wrote:\nHi, Levent,\nPlease see attached photos of the management interface.\nYes, it is with software.\nI guess you are talking about branding the software.\nIf so, our standard practice is to help put the customer's logo and model name in the software for free and even for 1\npiece.\nOf course, we can also help you change the MAC address, IP address, SNMP OID(also free of cost).\nAs I previously said, we design the software and hardware on our own, so change is easy.\nBut if you mean anything else, please elaborate.\nThank you.\n--\nSimon/Zhengzhou Saga Telecom Co.,Ltd.\nCommercial Ethernet/Industrial Networking/Din Power Adapter\nWhatsapp/Wechat/Mob: 86.15237149683",
+        "datetime": "Tue, Apr 30, 2024 8:47 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, May 1, 2024",
+        "time": "2:59 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\n\nIts 2 pcs STC-424XGGPM and 2 pcs STC-28DGGPM, but later you shared layer 2+ and layer 3 model names.\nFor STC-28DGGPM, its just about layer 2\nFor STC-424XGGPM, its just about layer 3\nOr you are talking about industrial switch(there is layer 2+ and layer 3)\n\nFor the company color, its blue, but it is gradient color, not pure blue.\nIs there any RGB value for the color you would like us to use?\n\nPlease let me know this, I will share PI and bulk price information.\nThank you.\nRGB.png\n105K",
+        "datetime": "Wed, May 1, 2024 2:59 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Wed, May 1, 2024",
+        "time": "6:24 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon;\nPlease you suggest best match.\nWhat we need is, L2+ industrial and\nL2+ and L3 enterprise switches\nPlease share what could be best matches and i will select from these options\nThanks\nTaylan\nPlease be aware that my fingers are not designed and evolved for smartphone messaging 😉",
+        "datetime": "Wed, May 1, 2024 6:24 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, May 1, 2024",
+        "time": "9:51 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\n\nFor industrial switch L2+, below are some good options based on speed, port and popularity.\n\nSTI-288DGGPM-2BT(PoE AF/AT/BT, 2.5G fiber)\nSTI-42424XGGPM-4BT(PoE AF/AT/BT, 10G fiber)\n\nSTI-288DGGPM(PoE AF/AT, 2.5G fiber)\nSTI-448DGGGPM(PoE AF/AT, 2.5G fiber)\n\nSTI-280DGGM(Without PoE, 2.5G fiber)\nSTI-448DGGGM(Without PoE, 2.5G fiber)\n\nSTI-448XGGGPM(PoE AF/AT, 10G fiber)\nSTI-4816XGCGPM-U(PoE AF/AT, 10G fiber, Combo port)\n\nSTI-448XGGGM(Without PoE, 10G fiber)\nSTI-2160XGGM(Without PoE, 10G fiber)\n\nFor enterprise switch L2 and L3\nYour previous choice is OK\nSTC-424XGGPM\nSTC-28DGGPM\nMaybe adding STC-4168XGGCM and STC-4816XGCGPM?\n\nBtw. Any RGB value for the blue company color?\nThank you.",
+        "datetime": "Wed, May 1, 2024 9:51 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Thu, May 2, 2024",
+        "time": "2:09 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, Thanks for your reply. IEEE 802.3bt (PoE++) is rearely required in special projects only.\nSo in general 802.3af/at would be okay for most PoE requirements.\nWe will consider all commercial models, 24-PoE is just for sampe and testing purposes. We assume the software is compatible in 48-\nports and other port flavours.\nThere is no RGB value for the logo. Please continue with your evaluation as in the previous email.\nLooking forward to pricing information and getting our hands on the samples as soon as possible\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com",
+        "datetime": "Thu, May 2, 2024 2:09 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 2, 2024",
+        "time": "3:01 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nPlease see attached PI&quotation and let me know if you think there is a problem.\nFor BT models, its OK to hold it now, we can talk about it when there is a need.\nFor 24 port and 48 port software, it is basically the same.\nFor blue color, we will handle and send it for confirmation.\nPlease share full contact information btw.\nThank you.\n2 attachments\nSTSC20240502007.pdf\n127K\nQuotation.xls\n167K",
+        "datetime": "Thu, May 2, 2024 3:01 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Thu, May 2, 2024",
+        "time": "4:28 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, Thank you for your response. We will try to make the payment for the samples as soon as possible.\nLooking forward to the confirmation for the web interface. Just to confirm again, we are talking about Marvell units, right ?\nAs for the communication informtion, please use my mobile phone number for WeChat/ WhatsApp / Skype or any other messaging app\nyou use :\nI will add you on WeChat now.\n+90-532-476-1428\nmany thanks, best regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n<STSC20240502007.pdf><Quotation.xls>",
+        "datetime": "Thu, May 2, 2024 4:28 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 2, 2024",
+        "time": "4:38 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nYes, all the discussion is about Marvell chip solution.\nFor the management interface, I will let you know when we have the initial design, then we improve it when we receive your feedback.\nBtw, I said hi on Wechat.\nThank you.",
+        "datetime": "Thu, May 2, 2024 4:38 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Fri, May 3, 2024",
+        "time": "1:34 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, while we wait to hear form you about the Web UI design, can you pls share the PCB Board photos in the\nmeantime for us to see.\n\nI believe you will be back in the office from your Labor Day break next week. We will touch base then.\n\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n\nFrom: Simon <s.sagatelecom@gmail.com>\nDate: Thursday, May 2, 2024 at 11:39\nSubject: Re: layer 3 managed switch",
+        "datetime": "Fri, May 3, 2024 1:34 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Fri, May 3, 2024",
+        "time": "6:25 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nSure, next Monday we will be back to work.\nI will send the PCB photos.\nThank you.",
+        "datetime": "Fri, May 3, 2024 6:25 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Mon, May 6, 2024",
+        "time": "3:15 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nPlease see attached PCB photos of 2 models in discussion.\nBut we got a problem with the company color in the management interface.\nAccording to our engineers, it is OK but involves too many changes for the coding.\nIt is not suggested doing it in a sample order.\nSo can we do this sample order with your logo and model name ONLY?\nThank you.\n2 attachments\n24 port.jpg\n4567K\n8 port.jpg\n5495K",
+        "datetime": "Mon, May 6, 2024 3:15 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, May 8, 2024",
+        "time": "11:30 AM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nAccording to our discussion on Wechar, please see attached new PI and send the payment receipt when available.\nPlease let me know if there is any query.\nThank you.\nSTSC20240508007.pdf\n129K",
+        "datetime": "Wed, May 8, 2024 11:30 AM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Wed, May 8, 2024",
+        "time": "2:51 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, Please find attached the bank slip for payment. Please let your finance check the bank account soon… Best regards, -\nLevent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn May 8, 2024, at 06:30, Simon <s.sagatelecom@gmail.com> wrote:\nHi, Levent,\n2 attachments\nSTSC20240508007.pdf\n129K\nzbe-dekont.pdf\n92K",
+        "datetime": "Wed, May 8, 2024 2:51 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, May 8, 2024",
+        "time": "3:14 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\n1, We will check with the bank soon.\n2, We will do material preparation now.\nAs you mentioned on Wechat, we will ship hardware first and send software file when ready.\nSo you will be doing the uploading and upgrading.\nThis is OK.\nI will let you know the progress soon.\nThank you.",
+        "datetime": "Wed, May 8, 2024 3:14 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Wed, May 8, 2024",
+        "time": "10:33 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon,\nThere are some technical items we recently saw in the RFPs. Not all are always listed, but i just want to check what\nare the capabilities you are offering.\nCan you please check and reply if you comply with these items. If it is possible to develop any missing item or\nfunction, please let me know\n1. Dual power supply\n2. Hot swappable power units\n3. Multicast PIM protocol\n4. VRF Lite support\n5. 4096 VLAN support\n6. Extended temperatures (-40 +70)on non-industrial models\n7. BFD support\n8. NAT support\n9. Netflow protocol support\n10. Y1731 protocol support\n11. TWAMP protocol support\n12. Route Tracking\nThanks in advance\nTaylan",
+        "datetime": "Wed, May 8, 2024 10:33 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 9, 2024",
+        "time": "1:42 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nAfter confirmation, sorry to tell you that most protocols are not available in our models.\n\nSupport\n1, 2, 5, 6, 9, 12\n\nFor the rest, they are not supported.\nBtw, we are not receiving the money at the moment.\nIt takes 3~5 days to get ready the sample units.\nAccording to our engineers, it is easy to put your logo/model name in the software, it will be done in the production of software.\nThank you.",
+        "datetime": "Thu, May 9, 2024 1:42 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 9, 2024",
+        "time": "3:47 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Levent,\nWe have got your payment and are working on the production.\nIt is expected to be ready for ship on 13th.\n2 things,\n1, the model names should be ANW-2208-PG, ANW-3424-PX and ANW-3448-PX, right?\nLast time you gave ANW-3224-PX, this seems to be about 2*10G SFP ports.\n2, about the logo, the blue part is too big.\nDo we just do the letter part(Angora Networks) or anything?\nHi again, Taylan,\nAbout the management features, we just had a small internal discussion.\n1, ready features are basically shown in the datasheet/web manual/CLI manual.\nif it is not shown, the feature is probably NOT supported.\n2, we understand that there are many complex protocols when it comes to L3 switches.\nWe are open to them AND capable of developing them in most cases.\nBut this USUALLY required a decent quantity, which means it should be project-based, otherwise it is rare to order a bulk order.\nOur R&D dept is very busy with some CKD and customization cases at the moment, so we will ONLY start to discuss complex L3\nfeatures if it is about a BIG and CONFIRMED order.\nThis situation will last for a while, I will let you know when our R&D dept is not that busy.\nThank you.\nlogo.png\n68K",
+        "datetime": "Thu, May 9, 2024 3:47 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, May 9, 2024",
+        "time": "9:18 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon;\nModel names should be:\n3124-PX\n3148-PX\n3108-PX\nYou can make the logo smaller, or use only angora networks part. We ll decide later for the bulk order.\nFOr the protocol support, it is not mandatory initially, but these missing items are requested sometimes. It is good to\nknow if development is possible or not. For current projects, dual  and hot swappable power supply is important. So if\nyou sort power supplies up, it is ok in short term.\nThe rest we'll discuss when we'll speak about big orders.\nThanks\nTaylan",
+        "datetime": "Thu, May 9, 2024 9:18 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 9, 2024",
+        "time": "9:38 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\nFor the models in this order, 8 port switch is NOT 10g based. it is just 1G/2.5G optical speed.\nSo all PX for the suffix?\nAnyway, please just send me the final version(ANW should also be there, right?).\nFor the L3 features, thanks for your feedback.\nHonestly most of our business is project-based or selling READY models.\nFor projects, we will evaluate the quantity, technical feasibility in R&D. Like you said, some features are sometimes needed, lets\ndiscuss when a requirement shows up.\n1, we will do our best to support you(we can do it or we cannot, we will let you know).\n2, our technical strength is good, but usually busy with CKD and governmental orders...\nAnyway, this is just about sample testing now, lets see.\nI will let you know if there is an update here.\nThank you.",
+        "datetime": "Thu, May 9, 2024 9:38 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 9, 2024",
+        "time": "9:44 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi again, Taylan,\nFor current projects, dual  and hot swappable power supply is important. So if you sort power supplies up, it is ok in short term.\nI am not sure if you checked the google drive link I shared before.\nhttps://drive.google.com/drive/folders/1alwp4HRbIyHJ8bYJwFkIUJG6kmHo1guK?usp=sharing\nThere are some models with Dual Power.\nFor hot-swappable ones, we have some models, but it is not in the google drive link.\nAbout this point, do you mean adding dual and hot swappable power supply in this order or anything?\nThank you.",
+        "datetime": "Thu, May 9, 2024 9:44 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Thu, May 9, 2024",
+        "time": "10:51 PM",
+        "to": "Simon Cheng <s.sagatelecom@gmail.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi Simon, just to jump in for the product codes:\nfor 1G/2.5G models we can switch X with G, so:\nANW-3124-PG\nANW-3148-PG\nANW-3108-PG\nThanks, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com",
+        "datetime": "Thu, May 9, 2024 10:51 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 9, 2024",
+        "time": "10:56 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan ESEN <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for the information.\nFor the logo part, we are still deciding how to go with it.\nAs Taylan said, you are OK with only letters(angora networks), this is for testing purpose.\nAnyway, I will show you the designed format BEFORE shipment for your confirmation.\nFor the power supply and L3 features, we can have a little more discussion.\nThank you.",
+        "datetime": "Thu, May 9, 2024 10:56 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Fri, May 10, 2024",
+        "time": "5:05 AM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon;\nThanks for the comments. Lets focus on sample testing and we ll take cere the rest later.\nThe product codes after your correction would be as follows:\nANW-3124-PX\nANW-3148-PX\nANW-3106-PG\nThanks and regards\nTaylan",
+        "datetime": "Fri, May 10, 2024 5:05 AM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Mon, May 13, 2024",
+        "time": "3:44 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThe sample units are ready, we could ship it tomorrow.\nNow it is about the software thing.\nPlease check attached management interface photos.\nPlease confirm and let me know.\nHi, Levent,\nI send a copy of the photos on Wechat, please check.\nThank you.\n2 attachments\nbefore log-in.png\n30K\nafter log-in.png\n71K",
+        "datetime": "Mon, May 13, 2024 3:44 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Mon, May 13, 2024",
+        "time": "4:12 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon, many thanks for the updates. The screenshots seem good enough for testing purposes.\nPlease keep us posted on the shipment information.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nFrom: Simon <s.sagatelecom@gmail.com>\nSent: Monday, May 13, 2024 10:44:07 AM\nSubject: Re: layer 3 managed switch",
+        "datetime": "Mon, May 13, 2024 4:12 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Mon, May 13, 2024",
+        "time": "4:34 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your feedback.\nPlease share FULL shipment information.\nSoon I will send more details about hardware and software.\nThank you.",
+        "datetime": "Mon, May 13, 2024 4:34 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Mon, May 13, 2024",
+        "time": "4:49 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi Simon, below is the information:\nANGORA NETWORKS BILISIM TEKNOLOJI TIC. SAN. A.S.\nÇAMLICA MAH. ANADOLU BULVARI\nTİMKO-1 SOKAK NO:20 Z-1\nYENİMAHALLE  06200 ANKARA TURKEY\nTAX OFFICE: YENİMAHALLE VD\nTax ID: 069 052 0220\nTLF: +90 (312) 241 77 47\nLevent.Kilic@AngoraNetworks.com\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com",
+        "datetime": "Mon, May 13, 2024 4:49 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, May 14, 2024",
+        "time": "5:22 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThanks for your information.\nPlease check the details of your order from below wetransfer link.\nI just sent some information on Wechat.\nhttps://we.tl/t-CQv0wrGWWv\nThank you.\nInformation.png\n72K",
+        "datetime": "Tue, May 14, 2024 5:22 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, May 15, 2024",
+        "time": "2:22 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nPlease see attached photo.\nhttps://drive.google.com/drive/folders/1UQ9gPrLBYVhtI6KLJsQiEMDwFa5SKqnP?usp=sharing\nThis is the google link of ALL your orders.\nShipping number: 776387684390 FedEx\nThis information is also in this link.\nPlease let me know if you lost this link or need anything that is not in the link.\nThank you.\n2 attachments\nGoogle drive.png\n48K\nEasy and Transparent Business.pdf\n111K",
+        "datetime": "Wed, May 15, 2024 2:22 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, May 21, 2024",
+        "time": "3:05 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nPlease do the needful to clear customs.\nOne thing is\nAccording to the bank, shareholder information is required, otherwise we cannot receive the payment.\nSorry for this inconvenience.\nBOC is a national-based bank and are now strict with incoming foreign currency.\nI guess some simple shareholder information is OK, like one shareholder is enough.\nPlease kindly help.\nThank you.\n2 attachments\ncustoms.png\n60K\nbank info.jpg\n325K",
+        "datetime": "Tue, May 21, 2024 3:05 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Tue, May 21, 2024",
+        "time": "3:11 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi Simon, we are trying to clear the goods at the customs as we speak.\nAs for the shareholder information, please see attached a copy of the most recent official newspaper of the trade registration in\nTurkish.\nPlease let me know if this is good enough.\nMany thanks, best regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\n<customs.png>\n<bank info.jpg>\nANGORA TICARET SICIL 11 MART 2024 .pdf\n39K",
+        "datetime": "Tue, May 21, 2024 3:11 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, May 21, 2024",
+        "time": "3:20 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThank you for your information.\nFor the clearance, please let me know if we can help with anything.\nFor the shareholder information, its just for the 1st payment, for future ones, we can still use it.\nThis is the 1st order and may take some efforts, but it will be much easier in the future.\nThank you.",
+        "datetime": "Tue, May 21, 2024 3:20 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, May 21, 2024",
+        "time": "3:31 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi again, Levent,\nJust confirmed with the bank, it has to be English version OR passport photo that shows a shareholder's name, passport number and\nbirth date.\nI am so sorry for this inconvenience.\nPlease kindly check what could be done.\nThank you.",
+        "datetime": "Tue, May 21, 2024 3:31 PM"
+      },
+      {
+        "from": "Levent KILIÇ",
+        "from_email": "lkilic@angoranetworks.com",
+        "date": "Tue, May 21, 2024",
+        "time": "3:52 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "No worries Simon, please see attached my passport information. Let me know if all okay.\nBest regards, -Levent.\nFaceTime | iMessage | E-MaiL | LKilic@AngoraNetworks.com\nOn May 21, 2024, at 10:31, Simon <s.sagatelecom@gmail.com> wrote:\nLK-Passport-chip.pdf\n620K",
+        "datetime": "Tue, May 21, 2024 3:52 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, May 21, 2024",
+        "time": "4:44 PM",
+        "to": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "cc": "Taylan Esen <tesen@angoranetworks.com>",
+        "body": "Hi, Levent,\nThank you very much for your support, it works.\nAnd please let me know if I could do something for the clearance or sample testing.\nThank you.",
+        "datetime": "Tue, May 21, 2024 4:44 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, May 30, 2024",
+        "time": "3:47 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon,we need an 8x10G uplink switch with 24port 1G PoE. Do you have a similar model? Downlinks may be\ndifferent but we definitely need 8x10G SFP ports\nThanks\nTaylan",
+        "datetime": "Thu, May 30, 2024 3:47 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, May 30, 2024",
+        "time": "4:08 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your offer.\nThe best we could do is 6*10G SFP+ though I know you are looking for 8 port SFP+.\nAnd I just did a little research on the suppliers I know well, no one is doing 8*SFP+.\nSorry for this.\nOur model: STC-624XGDGPM, realtek chip.\nThank you.\nSTC-624XGDGPM.docx\n869K",
+        "datetime": "Thu, May 30, 2024 4:08 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Wed, Jun 5, 2024",
+        "time": "6:43 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi Simon\nQuestion about industrial managed Marvells. We need a secure protocol for image upgrade. Could be SFTP or SCP.\nThey are not listed in function specs. We are discussing 8xNonPoe and 2x2.5G switch with a customer. Can you please\ncheck if you can implement SFTP.\nThanks\nTaylan",
+        "datetime": "Wed, Jun 5, 2024 6:43 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Jun 5, 2024",
+        "time": "10:20 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nSFTP is shown in the web manual if you notice(page 100, see attached photo).\nAfter confirmation, SFTP is supported.\nMaybe you could try it on ANW-3108-PG(not sure if it is at your office).\nOr at the very least try it on ANW-3148-PX(at your office, right?).\nThe specification you talked about is similar to our model STI-280DGGM, please check.\nThank you.\nPage 100 of Web Manual.png\n64K",
+        "datetime": "Wed, Jun 5, 2024 10:20 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Wed, Jun 5, 2024",
+        "time": "10:45 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon;\nJust checked the software installed in current switches. SFTP and DHCP server are still missing. Attaching some screen captures, i\nbelieve we need an updated software. Can you please check?\nThanks\nTaylan\n<Page 100 of Web Manual.png>",
+        "datetime": "Wed, Jun 5, 2024 10:45 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Jun 5, 2024",
+        "time": "11:03 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nLet me check and get back to you tomorrow, its late here.\nThank you.",
+        "datetime": "Wed, Jun 5, 2024 11:03 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Wed, Jun 5, 2024",
+        "time": "11:17 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi again, Taylan,\nPlease read the following pages, it seems that its about enabling&disabling and image uploading.\nI think it might help.\nI am not a technical guy, so I need to consult our engineers tomorrow.\nI will let you know.\nThank you.",
+        "datetime": "Wed, Jun 5, 2024 11:17 PM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Thu, Jun 6, 2024",
+        "time": "2:53 AM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Thanks Simon. Waiting for your engineers feedback\nTaylan",
+        "datetime": "Thu, Jun 6, 2024 2:53 AM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Thu, Jun 6, 2024",
+        "time": "11:15 AM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi. Taylan,\nAfter re-confirmation, sorry to tell you that there is a mistake in our web manual.\n\nSFTP is not supported, its a mistake, it should be TFTP and FTP.\nThis information is shown in CLI manual as well(Chapter 1.3.1, page 8~9).\nBut its OK to realize image upload with the help of a third-party software according to our engineers, not very difficult.\nWe can help do this ONLY if there is an order.\n\nAbout DHCP server, please read Chapter 20, page 159 for configuration.\n\nI will upload the revised Web manual to the google link.\n\nHi, Levent,\nThanks for your information on Wechat.\nStack feature is not easy, we do not have a plan to develop it within 2 years...\nSorry for this.\nThank you.",
+        "datetime": "Thu, Jun 6, 2024 11:15 AM"
+      },
+      {
+        "from": "Taylan Esen",
+        "from_email": "tesen@angoranetworks.com",
+        "date": "Tue, Jul 2, 2024",
+        "time": "2:37 PM",
+        "to": "Simon <s.sagatelecom@gmail.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hello Simon, a question from customer is if these switches software support voice vlan? I dont see it in the CLI\nmanual. Is it supported? If so how can we configure it?\nThanks\nTaylan",
+        "datetime": "Tue, Jul 2, 2024 2:37 PM"
+      },
+      {
+        "from": "Simon",
+        "from_email": "s.sagatelecom@gmail.com",
+        "date": "Tue, Jul 2, 2024",
+        "time": "4:29 PM",
+        "to": "Taylan Esen <tesen@angoranetworks.com>",
+        "cc": "Levent KILIÇ <lkilic@angoranetworks.com>",
+        "body": "Hi, Taylan,\nThanks for your information.\n\nAfter check, sorry it is not supported.\n1, the chip itself supports this function but it is not developed.\nAccording to our engineer, this function is a little old though I explained to him that I see some models supporting it(especially Reatek\nchip).\n2, its OK to add this if it is mandatory.\n\nThank you.\n--\nSimon/Saga Telecom\nConnecting, Converting, Creating",
+        "datetime": "Tue, Jul 2, 2024 4:29 PM"
+      }
+    ]
+  }
+]

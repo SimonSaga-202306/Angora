@@ -1,0 +1,383 @@
+{"y": 27.5, "x0": 18.0, "x1": 126.0, "xc": 72.0, "text": "Levent KILIC", "conf": 0.996, "slice": 0, "speaker": "Levent"}
+{"y": 70.0, "x0": 715.0, "x1": 827.0, "xc": 771.0, "text": "2025-3-7 09:47", "conf": 0.992, "slice": 0, "speaker": null}
+{"y": 126.2, "x0": 1345.0, "x1": 1439.0, "xc": 1392.0, "text": "Hl, Levent.", "conf": 0.996, "slice": 0, "speaker": "Simon"}
+{"y": 196.5, "x0": 1210.0, "x1": 1435.0, "xc": 1322.5, "text": "UPS/1ZB600960435009531", "conf": 0.998, "slice": 0, "speaker": "Simon"}
+{"y": 461.0, "x0": 1176.0, "x1": 1437.0, "xc": 1306.5, "text": "I will monitor the status as well", "conf": 0.994, "slice": 0, "speaker": "Simon"}
+{"y": 532.2, "x0": 1350.0, "x1": 1435.0, "xc": 1392.5, "text": "thanks..", "conf": 0.92, "slice": 0, "speaker": "Simon"}
+{"y": 594.5, "x0": 716.0, "x1": 827.0, "xc": 771.5, "text": "2025-3-7 10:19", "conf": 0.978, "slice": 0, "speaker": null}
+{"y": 652.5, "x0": 99.0, "x1": 352.0, "xc": 225.5, "text": "Hi Simon, great news. Thanks", "conf": 0.991, "slice": 0, "speaker": "Levent"}
+{"y": 788.0, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-3-7 19:10", "conf": 0.964, "slice": 0, "speaker": null}
+{"y": 846.5, "x0": 102.0, "x1": 375.0, "xc": 238.5, "text": "Thank you for the update Simon", "conf": 0.998, "slice": 0, "speaker": "Levent"}
+{"y": 987.0, "x0": 1340.0, "x1": 1437.0, "xc": 1388.5, "text": "11th is OK?", "conf": 0.993, "slice": 0, "speaker": "Simon"}
+{"y": 1057.5, "x0": 1231.0, "x1": 1437.0, "xc": 1334.0, "text": "estimated date of arrival", "conf": 1.0, "slice": 0, "speaker": "Simon"}
+{"y": 1126.5, "x0": 101.0, "x1": 415.0, "xc": 258.0, "text": "Should be fine. If not delayed further", "conf": 0.996, "slice": 0, "speaker": "Levent"}
+{"y": 1199.5, "x0": 101.0, "x1": 463.0, "xc": 282.0, "text": "I hope we get paid as soon as possible too", "conf": 0.98, "slice": 1050, "speaker": "Levent"}
+{"y": 1270.0, "x0": 982.0, "x1": 1437.0, "xc": 1209.5, "text": "you are not getting the payment from your client yet?", "conf": 0.996, "slice": 1050, "speaker": "Simon"}
+{"y": 1409.5, "x0": 1125.0, "x1": 1428.0, "xc": 1276.5, "text": "is it Turk Telekom or someone else?.", "conf": 0.993, "slice": 1050, "speaker": "Simon"}
+{"y": 1472.5, "x0": 716.0, "x1": 827.0, "xc": 771.5, "text": "2025-3-7 19:15", "conf": 0.986, "slice": 1050, "speaker": null}
+{"y": 1532.0, "x0": 1095.0, "x1": 1437.0, "xc": 1266.0, "text": "sorry to know this, thought you got paid", "conf": 0.998, "slice": 1050, "speaker": "Simon"}
+{"y": 1595.0, "x0": 715.0, "x1": 827.0, "xc": 771.0, "text": "2025-3-7 20:22", "conf": 0.998, "slice": 1050, "speaker": null}
+{"y": 1652.0, "x0": 101.0, "x1": 842.0, "xc": 471.5, "text": "Not Turk Telekom, another big client. But no payment yet. Just a small advance payment", "conf": 0.988, "slice": 1050, "speaker": "Levent"}
+{"y": 1793.0, "x0": 1156.0, "x1": 1439.0, "xc": 1297.8, "text": "Let' s hope everything goes well", "conf": 0.964, "slice": 1050, "speaker": "Simon"}
+{"y": 1856.0, "x0": 713.0, "x1": 827.0, "xc": 770.0, "text": "2025-3-7 20:27", "conf": 0.998, "slice": 1050, "speaker": null}
+{"y": 1914.0, "x0": 1027.0, "x1": 1437.0, "xc": 1232.0, "text": "Pls inform your customs agent to do the needful", "conf": 0.985, "slice": 1050, "speaker": "Simon"}
+{"y": 2049.5, "x0": 716.0, "x1": 828.0, "xc": 772.0, "text": "2025-3-7 20:46", "conf": 0.977, "slice": 1050, "speaker": null}
+{"y": 2106.5, "x0": 101.0, "x1": 281.0, "xc": 191.0, "text": "Yes I will contact him", "conf": 0.983, "slice": 1050, "speaker": "Levent"}
+{"y": 2108.8, "x0": 103.0, "x1": 280.0, "xc": 191.5, "text": "YesTwillcontacthim", "conf": 0.961, "slice": 2100, "speaker": "Levent"}
+{"y": 2151.0, "x0": 101.0, "x1": 448.0, "xc": 274.5, "text": "Simon: Pls inform your customs agent to do the", "conf": 0.988, "slice": 2100, "speaker": "Levent"}
+{"y": 2170.5, "x0": 100.0, "x1": 159.0, "xc": 129.5, "text": "needful", "conf": 1.0, "slice": 1050, "speaker": "Levent"}
+{"y": 2220.5, "x0": 715.0, "x1": 825.0, "xc": 770.0, "text": "2025-3-7 20:57", "conf": 0.995, "slice": 2100, "speaker": null}
+{"y": 2278.5, "x0": 1347.0, "x1": 1432.0, "xc": 1389.5, "text": "Thanks", "conf": 0.935, "slice": 2100, "speaker": "Simon"}
+{"y": 2341.5, "x0": 715.0, "x1": 825.0, "xc": 770.0, "text": "2025-3-7 22:11", "conf": 0.995, "slice": 2100, "speaker": null}
+{"y": 2400.5, "x0": 1260.0, "x1": 1439.0, "xc": 1349.5, "text": "just a quick question", "conf": 0.964, "slice": 2100, "speaker": "Simon"}
+{"y": 2469.5, "x0": 1160.0, "x1": 1435.0, "xc": 1297.5, "text": "https://www.rimaelektronik.com/", "conf": 0.999, "slice": 2100, "speaker": "Simon"}
+{"y": 2539.0, "x0": 1203.0, "x1": 1437.0, "xc": 1320.0, "text": "is this a big local company?", "conf": 0.973, "slice": 2100, "speaker": "Simon"}
+{"y": 2610.0, "x0": 1040.0, "x1": 1438.0, "xc": 1239.0, "text": "its on a previous list, just noticed this company", "conf": 0.994, "slice": 2100, "speaker": "Simon"}
+{"y": 2679.0, "x0": 101.0, "x1": 606.0, "xc": 353.5, "text": "Hi Simon. Let me check. We have not done business before", "conf": 0.976, "slice": 2100, "speaker": "Levent"}
+{"y": 2750.0, "x0": 1406.0, "x1": 1442.0, "xc": 1424.0, "text": "OK", "conf": 0.99, "slice": 2100, "speaker": "Simon"}
+{"y": 2820.0, "x0": 1102.0, "x1": 1438.0, "xc": 1270.0, "text": "we will not contact any local companies", "conf": 0.994, "slice": 2100, "speaker": "Simon"}
+{"y": 2889.5, "x0": 1029.0, "x1": 1439.0, "xc": 1234.0, "text": "I will update the local client list and let you know", "conf": 0.985, "slice": 2100, "speaker": "Simon"}
+{"y": 3029.5, "x0": 101.0, "x1": 616.0, "xc": 358.5, "text": "Thank you.  we have the Turk Telekom deal cooking slowly", "conf": 0.987, "slice": 2100, "speaker": "Levent"}
+{"y": 3073.0, "x0": 102.0, "x1": 443.0, "xc": 272.5, "text": "Simon: we will not contact any local companies", "conf": 0.999, "slice": 2100, "speaker": "Levent"}
+{"y": 3129.5, "x0": 102.0, "x1": 587.0, "xc": 344.5, "text": "We will soon as for samples. Expecting to hear from them", "conf": 0.989, "slice": 2100, "speaker": "Levent"}
+{"y": 3201.0, "x0": 1124.0, "x1": 1347.0, "xc": 1235.5, "text": "ok, thanks for your efforts", "conf": 0.971, "slice": 3150, "speaker": "Simon"}
+{"y": 3201.5, "x0": 1123.0, "x1": 1439.0, "xc": 1281.0, "text": "ok, thanks for your efforts lets see", "conf": 0.997, "slice": 2100, "speaker": "Simon"}
+{"y": 3201.5, "x0": 1371.0, "x1": 1439.0, "xc": 1405.0, "text": "lets see", "conf": 0.993, "slice": 3150, "speaker": "Simon"}
+{"y": 3265.0, "x0": 711.0, "x1": 830.0, "xc": 770.5, "text": "2025-3-10 16:17", "conf": 0.982, "slice": 2100, "speaker": null}
+{"y": 3265.0, "x0": 711.0, "x1": 830.0, "xc": 770.5, "text": "2025-3-1016:17", "conf": 0.988, "slice": 3150, "speaker": "Simon"}
+{"y": 3322.8, "x0": 1348.0, "x1": 1441.0, "xc": 1394.5, "text": "Hi, Levent", "conf": 0.998, "slice": 3150, "speaker": "Simon"}
+{"y": 3392.0, "x0": 1235.0, "x1": 1438.0, "xc": 1336.5, "text": "1, please do the needful", "conf": 0.983, "slice": 3150, "speaker": "Simon"}
+{"y": 3687.0, "x0": 713.0, "x1": 1437.0, "xc": 1075.0, "text": "2, about the payment for 7 units of 10g switches, can we expect it today or tomorrow?", "conf": 0.993, "slice": 3150, "speaker": "Simon"}
+{"y": 3757.2, "x0": 1349.0, "x1": 1435.0, "xc": 1392.0, "text": "thanks .", "conf": 0.889, "slice": 3150, "speaker": "Simon"}
+{"y": 3822.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-3-17 16:04", "conf": 0.998, "slice": 3150, "speaker": null}
+{"y": 3880.0, "x0": 1347.0, "x1": 1437.0, "xc": 1392.0, "text": "Hi, Levent.", "conf": 0.989, "slice": 3150, "speaker": "Simon"}
+{"y": 4117.5, "x0": 1349.0, "x1": 1437.0, "xc": 1393.0, "text": "delivered?", "conf": 0.999, "slice": 3150, "speaker": "Simon"}
+{"y": 4188.0, "x0": 100.0, "x1": 459.0, "xc": 279.5, "text": "Hi Simon, yesss..Just arrived this morning", "conf": 0.965, "slice": 3150, "speaker": "Levent"}
+{"y": 4329.5, "x0": 1108.0, "x1": 1438.0, "xc": 1273.0, "text": "ok, hopefully its not late for your client", "conf": 0.987, "slice": 4200, "speaker": "Simon"}
+{"y": 4399.5, "x0": 1123.0, "x1": 1437.0, "xc": 1280.0, "text": "just wondering why it took this long?", "conf": 0.984, "slice": 4200, "speaker": "Simon"}
+{"y": 4469.2, "x0": 101.0, "x1": 277.0, "xc": 189.0, "text": "Seems okay for now.", "conf": 0.997, "slice": 4200, "speaker": "Levent"}
+{"y": 4539.5, "x0": 1281.0, "x1": 1437.0, "xc": 1359.0, "text": "is this procedural?", "conf": 0.999, "slice": 4200, "speaker": "Simon"}
+{"y": 4602.5, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-3-17 16:06", "conf": 0.976, "slice": 4200, "speaker": null}
+{"y": 4661.0, "x0": 1116.0, "x1": 1436.0, "xc": 1276.0, "text": "or is it about some document details?", "conf": 0.986, "slice": 4200, "speaker": "Simon"}
+{"y": 4730.5, "x0": 102.0, "x1": 771.0, "xc": 436.5, "text": "Nope, we had a delay in paying taxes.. The taxes summed up to USD$10,000 :-(", "conf": 0.96, "slice": 4200, "speaker": "Levent"}
+{"y": 4844.5, "x0": 1192.0, "x1": 1438.0, "xc": 1315.0, "text": "Levent KILlC: Seems okay for now.", "conf": 0.975, "slice": 4200, "speaker": "Simon"}
+{"y": 4903.0, "x0": 101.0, "x1": 515.0, "xc": 308.0, "text": "The governments are always winning like casinos", "conf": 0.982, "slice": 4200, "speaker": "Levent"}
+{"y": 4973.0, "x0": 948.0, "x1": 1196.0, "xc": 1072.0, "text": "thats about 21% of the order", "conf": 0.993, "slice": 4200, "speaker": "Simon"}
+{"y": 5021.5, "x0": 949.0, "x1": 1438.0, "xc": 1193.5, "text": "its close to the rate in a previous order for an Italian client", "conf": 0.995, "slice": 4200, "speaker": "Simon"}
+{"y": 5091.0, "x0": 99.0, "x1": 407.0, "xc": 253.0, "text": "yes, 20% VAT and 1% other costs :-(", "conf": 0.972, "slice": 4200, "speaker": "Levent"}
+{"y": 5162.0, "x0": 1121.0, "x1": 1419.0, "xc": 1270.0, "text": "hope you still have a decent profit", "conf": 0.988, "slice": 4200, "speaker": "Simon"}
+{"y": 5231.5, "x0": 99.0, "x1": 814.0, "xc": 456.5, "text": "it is okay. But this is an introduction projec... So we hope we can get more business", "conf": 0.973, "slice": 4200, "speaker": "Levent"}
+{"y": 5301.5, "x0": 1407.0, "x1": 1440.0, "xc": 1423.5, "text": "OK", "conf": 0.991, "slice": 4200, "speaker": "Simon"}
+{"y": 5372.5, "x0": 808.0, "x1": 1436.0, "xc": 1122.0, "text": "yes, in this order we cut our profit in shipping cost and power supply cost.", "conf": 0.989, "slice": 4200, "speaker": "Simon"}
+{"y": 5373.0, "x0": 809.0, "x1": 1436.0, "xc": 1122.5, "text": "yes, in this order we cut our profit in shipping cost and power supply cost..", "conf": 0.978, "slice": 5250, "speaker": "Simon"}
+{"y": 5398.0, "x0": 811.0, "x1": 1019.0, "xc": 915.0, "text": "we gave a huge support", "conf": 0.999, "slice": 5250, "speaker": "Simon"}
+{"y": 5439.5, "x0": 1076.0, "x1": 1438.0, "xc": 1257.0, "text": "Levent KILlC: it is okay.. But this is an introduction", "conf": 0.955, "slice": 5250, "speaker": "Simon"}
+{"y": 5459.5, "x0": 1074.0, "x1": 1422.0, "xc": 1248.0, "text": "project... So we hope we can get more business", "conf": 0.977, "slice": 5250, "speaker": "Simon"}
+{"y": 5518.0, "x0": 759.0, "x1": 1439.0, "xc": 1099.0, "text": "we look for long-term business, especially from your another client Turk Telekom", "conf": 0.982, "slice": 5250, "speaker": "Simon"}
+{"y": 5563.5, "x0": 756.0, "x1": 1265.0, "xc": 1010.5, "text": "it seems a big client after checking their website and profile..", "conf": 0.995, "slice": 5250, "speaker": "Simon"}
+{"y": 5628.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-3-17 16:12", "conf": 0.992, "slice": 5250, "speaker": null}
+{"y": 5685.0, "x0": 931.0, "x1": 1436.0, "xc": 1183.5, "text": "and what about payment for another order(a few switches)?", "conf": 0.994, "slice": 5250, "speaker": "Simon"}
+{"y": 5733.5, "x0": 932.0, "x1": 1434.0, "xc": 1183.0, "text": "its ready and the info is uploaded to the google drive folder", "conf": 0.985, "slice": 5250, "speaker": "Simon"}
+{"y": 5803.0, "x0": 102.0, "x1": 625.0, "xc": 363.5, "text": "We plan to the payment this week..Just working on cash flow", "conf": 0.952, "slice": 5250, "speaker": "Levent"}
+{"y": 5872.5, "x0": 102.0, "x1": 511.0, "xc": 306.5, "text": "Asolutely... We hope to get more orders this year", "conf": 0.976, "slice": 5250, "speaker": "Levent"}
+{"y": 5916.0, "x0": 101.0, "x1": 458.0, "xc": 279.5, "text": "Simon: we look for long-term business, especially", "conf": 0.995, "slice": 5250, "speaker": "Levent"}
+{"y": 5937.0, "x0": 101.0, "x1": 461.0, "xc": 281.0, "text": "from your another client Turk Telekom it seems ...", "conf": 0.982, "slice": 5250, "speaker": "Levent"}
+{"y": 5995.8, "x0": 1363.0, "x1": 1439.0, "xc": 1401.0, "text": "lets see", "conf": 0.982, "slice": 5250, "speaker": "Simon"}
+{"y": 6058.5, "x0": 711.0, "x1": 831.0, "xc": 771.0, "text": "2025-3-26 15:09", "conf": 0.98, "slice": 5250, "speaker": null}
+{"y": 6117.2, "x0": 1349.0, "x1": 1440.0, "xc": 1394.2, "text": "Hi, Levent", "conf": 0.999, "slice": 5250, "speaker": "Simon"}
+{"y": 6188.0, "x0": 556.0, "x1": 1436.0, "xc": 996.0, "text": "1, how is payment for those edge switches? Its been about 3 weeks since we prepared the switches ready", "conf": 0.992, "slice": 5250, "speaker": "Simon"}
+{"y": 6234.5, "x0": 555.0, "x1": 1155.0, "xc": 855.0, "text": "2, any update about the core switch(100G and 25 fiber ports) on email?", "conf": 0.981, "slice": 5250, "speaker": "Simon"}
+{"y": 6282.0, "x0": 554.0, "x1": 857.0, "xc": 705.2, "text": "3, any news from the Turk Telekom?", "conf": 0.978, "slice": 5250, "speaker": "Levent"}
+{"y": 6352.0, "x0": 1377.0, "x1": 1439.0, "xc": 1408.0, "text": "thanks", "conf": 1.0, "slice": 5250, "speaker": "Simon"}
+{"y": 6414.0, "x0": 710.0, "x1": 829.0, "xc": 769.5, "text": "2025-3-26 15:23", "conf": 0.982, "slice": 5250, "speaker": null}
+{"y": 6473.2, "x0": 100.0, "x1": 970.0, "xc": 535.0, "text": "Hi Simon, Things got mixed up with the political events recently. We have an religious break coming up", "conf": 0.984, "slice": 6300, "speaker": "Levent"}
+{"y": 6497.0, "x0": 103.0, "x1": 675.0, "xc": 389.0, "text": "Monday and Tuesday next week. Hoping things will calm down a bit", "conf": 0.988, "slice": 6300, "speaker": "Levent"}
+{"y": 6566.0, "x0": 103.0, "x1": 954.0, "xc": 528.5, "text": "1- Payment is planned, but cash flow stuck. So we plan doing it after the break, the first week of April.", "conf": 0.996, "slice": 6300, "speaker": "Levent"}
+{"y": 6613.5, "x0": 99.0, "x1": 1007.0, "xc": 552.8, "text": "2- Core switch is quoted to the customer. Personally we prefer to work with you on all the portfolio. So I am", "conf": 0.979, "slice": 6300, "speaker": "Levent"}
+{"y": 6661.5, "x0": 102.0, "x1": 957.0, "xc": 529.5, "text": "We will provide 3 models : 24-PoE commercial, 48-PoE commercial and the data center switch. We get", "conf": 0.99, "slice": 6300, "speaker": "Levent"}
+{"y": 6686.0, "x0": 102.0, "x1": 831.0, "xc": 466.5, "text": "squeezedon the Data Centerpricing. But we hope tobalance it with the other models.", "conf": 0.95, "slice": 6300, "speaker": "Levent"}
+{"y": 6732.0, "x0": 101.0, "x1": 978.0, "xc": 539.5, "text": "3- Turk Telekom field tests are planned mid-April. We expec to get clearence end of April. We are driving", "conf": 0.99, "slice": 6300, "speaker": "Levent"}
+{"y": 6756.0, "x0": 100.0, "x1": 982.0, "xc": 541.0, "text": "the customer to place a test order of minimum 500 or 1,oo0 after the pilot testing. Again this will be Turk", "conf": 0.984, "slice": 6300, "speaker": "Levent"}
+{"y": 6780.2, "x0": 99.0, "x1": 256.0, "xc": 177.5, "text": "Telekom branding", "conf": 0.99, "slice": 6300, "speaker": "Levent"}
+{"y": 6843.0, "x0": 710.0, "x1": 830.0, "xc": 770.0, "text": "2025-3-26 15:31", "conf": 0.998, "slice": 6300, "speaker": null}
+{"y": 6901.5, "x0": 719.0, "x1": 957.0, "xc": 838.0, "text": "Thanks for your info, Levent", "conf": 0.994, "slice": 6300, "speaker": "Simon"}
+{"y": 6949.0, "x0": 718.0, "x1": 1436.0, "xc": 1077.0, "text": "1, Sorry to hear about the political events, hope everything is good with you all there.", "conf": 0.994, "slice": 6300, "speaker": "Simon"}
+{"y": 6996.0, "x0": 718.0, "x1": 919.0, "xc": 818.5, "text": "2, OK, lets wait and see.", "conf": 0.992, "slice": 6300, "speaker": "Simon"}
+{"y": 7044.5, "x0": 718.0, "x1": 1418.0, "xc": 1068.0, "text": "3, For core switches, from our side, we are now more concerned about the features.", "conf": 0.985, "slice": 6300, "speaker": "Simon"}
+{"y": 7067.5, "x0": 719.0, "x1": 1160.0, "xc": 939.5, "text": "Clearly it is much more complex than edge switches.", "conf": 0.99, "slice": 6300, "speaker": "Simon"}
+{"y": 7091.0, "x0": 717.0, "x1": 1093.0, "xc": 905.0, "text": "I will see what we can do about pricing here.", "conf": 0.975, "slice": 6300, "speaker": "Simon"}
+{"y": 7138.5, "x0": 718.0, "x1": 899.0, "xc": 808.5, "text": "4, Good to know this.", "conf": 0.985, "slice": 6300, "speaker": "Simon"}
+{"y": 7163.0, "x0": 719.0, "x1": 1137.0, "xc": 928.0, "text": "So basically many things will be finalized in April..", "conf": 0.984, "slice": 6300, "speaker": "Simon"}
+{"y": 7297.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-3-26 15:43", "conf": 0.999, "slice": 6300, "speaker": null}
+{"y": 7355.5, "x0": 101.0, "x1": 345.0, "xc": 223.0, "text": "Yes, April is critical for us too", "conf": 0.984, "slice": 6300, "speaker": "Levent"}
+{"y": 7418.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-3-26 15:50", "conf": 0.998, "slice": 6300, "speaker": null}
+{"y": 7476.8, "x0": 1315.0, "x1": 1388.0, "xc": 1351.5, "text": "lets see", "conf": 0.982, "slice": 7350, "speaker": "Simon"}
+{"y": 7541.0, "x0": 715.0, "x1": 825.0, "xc": 770.0, "text": "2025-4-7 15:01", "conf": 0.976, "slice": 7350, "speaker": null}
+{"y": 7599.5, "x0": 1071.0, "x1": 1436.0, "xc": 1253.5, "text": "Hi, Levent. I hope you had a good weekend", "conf": 0.985, "slice": 7350, "speaker": "Simon"}
+{"y": 7670.5, "x0": 1181.0, "x1": 1438.0, "xc": 1309.5, "text": "Any news about the payment?", "conf": 0.967, "slice": 7350, "speaker": "Simon"}
+{"y": 7739.5, "x0": 101.0, "x1": 449.0, "xc": 275.0, "text": "Hi Simon, thank you.. All okay for now :-)", "conf": 0.97, "slice": 7350, "speaker": "Levent"}
+{"y": 7810.0, "x0": 100.0, "x1": 689.0, "xc": 394.5, "text": "Plan to transfer payment tomorrow. We expect some collection today.", "conf": 0.99, "slice": 7350, "speaker": "Levent"}
+{"y": 7880.0, "x0": 100.0, "x1": 285.0, "xc": 192.5, "text": "Will keep you posted.", "conf": 0.992, "slice": 7350, "speaker": "Levent"}
+{"y": 7951.0, "x0": 1324.0, "x1": 1416.0, "xc": 1370.0, "text": "ok, thanks", "conf": 0.999, "slice": 7350, "speaker": "Simon"}
+{"y": 8014.0, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-4-7 15:03", "conf": 0.963, "slice": 7350, "speaker": null}
+{"y": 8072.0, "x0": 102.0, "x1": 900.0, "xc": 501.0, "text": "We may need a change in the quantitties, but will get back on this after I discuss with the team", "conf": 0.981, "slice": 7350, "speaker": "Levent"}
+{"y": 8141.8, "x0": 1286.0, "x1": 1437.0, "xc": 1361.8, "text": "need more units?", "conf": 0.999, "slice": 7350, "speaker": "Simon"}
+{"y": 8212.5, "x0": 100.0, "x1": 303.0, "xc": 201.5, "text": "maybebut maybe not", "conf": 0.962, "slice": 7350, "speaker": "Levent"}
+{"y": 8281.8, "x0": 1339.0, "x1": 1439.0, "xc": 1389.2, "text": "ok, lets see", "conf": 0.962, "slice": 7350, "speaker": "Simon"}
+{"y": 8352.2, "x0": 97.0, "x1": 173.0, "xc": 135.2, "text": "thank...", "conf": 0.926, "slice": 7350, "speaker": "Levent"}
+{"y": 8487.0, "x0": 715.0, "x1": 829.0, "xc": 772.0, "text": "2025-4-9 21:40", "conf": 0.999, "slice": 7350, "speaker": null}
+{"y": 8542.0, "x0": 104.0, "x1": 141.0, "xc": 122.5, "text": "HiSi", "conf": 0.984, "slice": 7350, "speaker": "Levent"}
+{"y": 8545.0, "x0": 100.0, "x1": 971.0, "xc": 535.5, "text": "Hi Simon, a customer asked for an alternative kitlist for the attached kitlist. it is a railway project i guess.", "conf": 0.993, "slice": 8400, "speaker": "Levent"}
+{"y": 8615.5, "x0": 101.0, "x1": 941.0, "xc": 521.0, "text": "we may not have the OT protocols in the switches, pls let us know if you have any comments on this", "conf": 0.99, "slice": 8400, "speaker": "Levent"}
+{"y": 8882.0, "x0": 1173.0, "x1": 1436.0, "xc": 1304.5, "text": "Hi, Levent. Thanks for your info", "conf": 0.986, "slice": 8400, "speaker": "Simon"}
+{"y": 8952.0, "x0": 1183.0, "x1": 1439.0, "xc": 1311.0, "text": "so this is about Kyland brand?", "conf": 0.989, "slice": 8400, "speaker": "Simon"}
+{"y": 9022.5, "x0": 102.0, "x1": 731.0, "xc": 416.5, "text": "this is the original kitlist. if we can suggest an alternative, they will consider", "conf": 0.992, "slice": 8400, "speaker": "Levent"}
+{"y": 9093.0, "x0": 100.0, "x1": 199.0, "xc": 149.5, "text": "except OTT", "conf": 0.958, "slice": 8400, "speaker": "Levent"}
+{"y": 9156.0, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-4-9 21:45", "conf": 0.998, "slice": 8400, "speaker": null}
+{"y": 9214.0, "x0": 1105.0, "x1": 1430.0, "xc": 1267.5, "text": "well, honestly its not easy to move on..", "conf": 0.986, "slice": 8400, "speaker": "Simon"}
+{"y": 9284.5, "x0": 603.0, "x1": 1431.0, "xc": 1017.0, "text": "the specs are not common, they are designed for a special purpose(protocols, port combinations...", "conf": 0.991, "slice": 8400, "speaker": "Simon"}
+{"y": 9347.5, "x0": 715.0, "x1": 829.0, "xc": 772.0, "text": "2025-4-9 22:30", "conf": 0.995, "slice": 8400, "speaker": null}
+{"y": 9405.0, "x0": 101.0, "x1": 968.0, "xc": 534.5, "text": "As far as i see, we have options for hardware. May be protocols for software is a problem. Let me check", "conf": 0.976, "slice": 8400, "speaker": "Levent"}
+{"y": 9429.5, "x0": 100.0, "x1": 224.0, "xc": 162.0, "text": "with customer", "conf": 0.985, "slice": 8400, "speaker": "Levent"}
+{"y": 9500.0, "x0": 1172.0, "x1": 1405.0, "xc": 1288.5, "text": "hardware is also a problem..", "conf": 0.983, "slice": 9450, "speaker": "Simon"}
+{"y": 9500.5, "x0": 1172.0, "x1": 1409.0, "xc": 1290.5, "text": "hardware is also a problem...", "conf": 0.982, "slice": 8400, "speaker": "Simon"}
+{"y": 9728.0, "x0": 1221.0, "x1": 1429.0, "xc": 1325.0, "text": "those specs are unusual.", "conf": 1.0, "slice": 9450, "speaker": "Simon"}
+{"y": 9791.5, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-4-21 13:56", "conf": 0.997, "slice": 9450, "speaker": null}
+{"y": 9848.0, "x0": 1071.0, "x1": 1438.0, "xc": 1254.5, "text": "Hi, Levent. I hope you had a good weekend", "conf": 0.998, "slice": 9450, "speaker": "Simon"}
+{"y": 9919.0, "x0": 1128.0, "x1": 1438.0, "xc": 1283.0, "text": "pls check my email and reply, thanks", "conf": 0.983, "slice": 9450, "speaker": "Simon"}
+{"y": 10051.5, "x0": 710.0, "x1": 830.0, "xc": 770.0, "text": "2025-4-21 14:10", "conf": 0.989, "slice": 9450, "speaker": null}
+{"y": 10109.5, "x0": 100.0, "x1": 369.0, "xc": 234.5, "text": "Hi Simon, thanks for your email", "conf": 0.999, "slice": 9450, "speaker": "Levent"}
+{"y": 10180.5, "x0": 100.0, "x1": 439.0, "xc": 269.5, "text": "Will get back to you as soon as possible", "conf": 0.957, "slice": 9450, "speaker": "Levent"}
+{"y": 10244.0, "x0": 710.0, "x1": 830.0, "xc": 770.0, "text": "2025-4-21 14:26", "conf": 0.991, "slice": 9450, "speaker": null}
+{"y": 10301.8, "x0": 1346.0, "x1": 1439.0, "xc": 1392.2, "text": "Hi, Levent.", "conf": 1.0, "slice": 9450, "speaker": "Simon"}
+{"y": 10373.0, "x0": 1145.0, "x1": 1436.0, "xc": 1290.5, "text": "pls let us know the situation now...", "conf": 0.996, "slice": 9450, "speaker": "Simon"}
+{"y": 10442.5, "x0": 1004.0, "x1": 1428.0, "xc": 1216.0, "text": "its about 6 weeks since we prepared the materials.", "conf": 0.993, "slice": 9450, "speaker": "Simon"}
+{"y": 10512.5, "x0": 99.0, "x1": 334.0, "xc": 216.5, "text": "I will get back to you today.", "conf": 0.966, "slice": 9450, "speaker": "Levent"}
+{"y": 10583.0, "x0": 1348.0, "x1": 1439.0, "xc": 1393.5, "text": "ok, thanks", "conf": 0.998, "slice": 9450, "speaker": "Simon"}
+{"y": 10715.5, "x0": 711.0, "x1": 830.0, "xc": 770.5, "text": "2025-4-22 11:25", "conf": 0.989, "slice": 10500, "speaker": null}
+{"y": 10774.2, "x0": 99.0, "x1": 454.0, "xc": 276.5, "text": "Hi  Simon, hope all is going well today.", "conf": 0.973, "slice": 10500, "speaker": "Levent"}
+{"y": 10821.5, "x0": 102.0, "x1": 317.0, "xc": 209.5, "text": "Just replied to your email", "conf": 0.981, "slice": 10500, "speaker": "Levent"}
+{"y": 10891.5, "x0": 1243.0, "x1": 1436.0, "xc": 1339.5, "text": "Good morning, Levent.", "conf": 1.0, "slice": 10500, "speaker": "Simon"}
+{"y": 10961.0, "x0": 1306.0, "x1": 1431.0, "xc": 1368.8, "text": "its early there..", "conf": 0.993, "slice": 10500, "speaker": "Simon"}
+{"y": 11032.0, "x0": 1215.0, "x1": 1432.0, "xc": 1323.5, "text": "I read your mail, thanks", "conf": 0.942, "slice": 10500, "speaker": "Simon"}
+{"y": 11101.5, "x0": 1267.0, "x1": 1437.0, "xc": 1352.2, "text": "lets wait and see", "conf": 0.983, "slice": 10500, "speaker": "Simon"}
+{"y": 11173.5, "x0": 100.0, "x1": 167.0, "xc": 133.5, "text": "Thanks.", "conf": 0.999, "slice": 10500, "speaker": "Levent"}
+{"y": 11221.5, "x0": 101.0, "x1": 722.0, "xc": 411.5, "text": "Yes, I wake up early around 06:00 - 06:30 for years. It' s kind of automatic", "conf": 0.973, "slice": 10500, "speaker": "Levent"}
+{"y": 11284.8, "x0": 708.0, "x1": 833.0, "xc": 770.5, "text": "2025-4-22 11:30", "conf": 0.995, "slice": 10500, "speaker": null}
+{"y": 11344.0, "x0": 817.0, "x1": 1257.0, "xc": 1037.0, "text": "it seems that many foreigners(to us) wake up early..", "conf": 0.989, "slice": 10500, "speaker": "Simon"}
+{"y": 11391.5, "x0": 820.0, "x1": 1438.0, "xc": 1129.0, "text": "they sleep around 11pm or even a bit earlier, and wake up at 4am or 5am", "conf": 0.99, "slice": 10500, "speaker": "Simon"}
+{"y": 11415.0, "x0": 820.0, "x1": 1145.0, "xc": 982.5, "text": "Tim Cook(CFO of apple) is an example.", "conf": 0.973, "slice": 10500, "speaker": "Simon"}
+{"y": 11483.2, "x0": 1390.0, "x1": 1442.0, "xc": 1415.8, "text": "haha", "conf": 0.997, "slice": 10500, "speaker": "Simon"}
+{"y": 11599.0, "x0": 1076.0, "x1": 1437.0, "xc": 1256.5, "text": "Levent KILlC: Thanks. Yes, I wake up early around", "conf": 0.972, "slice": 11550, "speaker": "Simon"}
+{"y": 11599.0, "x0": 1077.0, "x1": 1437.0, "xc": 1257.0, "text": "Levent KILIC: Thanks. Yes, I wake up early around", "conf": 0.983, "slice": 10500, "speaker": "Simon"}
+{"y": 11619.5, "x0": 1077.0, "x1": 1410.0, "xc": 1243.5, "text": "06:00 - 06:30 for years. It' s kind of automatic", "conf": 0.953, "slice": 10500, "speaker": "Simon"}
+{"y": 11675.5, "x0": 102.0, "x1": 384.0, "xc": 243.0, "text": "Aha ha ha  I sleep at 11:00 too.", "conf": 0.983, "slice": 11550, "speaker": "Levent"}
+{"y": 11724.5, "x0": 102.0, "x1": 440.0, "xc": 271.0, "text": "But no where near Tim Cook in business", "conf": 0.981, "slice": 11550, "speaker": "Levent"}
+{"y": 11772.5, "x0": 98.0, "x1": 241.0, "xc": 169.5, "text": "Working in it", "conf": 0.951, "slice": 11550, "speaker": "Levent"}
+{"y": 11843.5, "x0": 1053.0, "x1": 1365.0, "xc": 1209.0, "text": "I have been studying Taoism recently", "conf": 0.996, "slice": 11550, "speaker": "Simon"}
+{"y": 11890.0, "x0": 1053.0, "x1": 1438.0, "xc": 1245.5, "text": "Each of us has our own tempo and life beliefs", "conf": 0.996, "slice": 11550, "speaker": "Simon"}
+{"y": 11913.5, "x0": 1052.0, "x1": 1285.0, "xc": 1168.5, "text": "We just need to get it right", "conf": 0.998, "slice": 11550, "speaker": "Simon"}
+{"y": 11938.5, "x0": 1053.0, "x1": 1288.0, "xc": 1170.5, "text": "Seek inwards, not outwards", "conf": 0.999, "slice": 11550, "speaker": "Simon"}
+{"y": 11961.5, "x0": 1053.0, "x1": 1267.0, "xc": 1160.0, "text": "Something like this, haha", "conf": 0.987, "slice": 11550, "speaker": "Simon"}
+{"y": 12010.0, "x0": 1053.0, "x1": 1422.0, "xc": 1237.5, "text": "Tim Cook is good, you are good, I am good", "conf": 0.999, "slice": 11550, "speaker": "Simon"}
+{"y": 12034.0, "x0": 1054.0, "x1": 1356.0, "xc": 1205.0, "text": "As long as we are on the right track", "conf": 0.982, "slice": 11550, "speaker": "Simon"}
+{"y": 12167.5, "x0": 710.0, "x1": 830.0, "xc": 770.0, "text": "2025-4-22 11:36", "conf": 0.989, "slice": 11550, "speaker": null}
+{"y": 12273.8, "x0": 102.0, "x1": 576.0, "xc": 339.0, "text": "Great point of view. You are absolutely on the right path.", "conf": 0.995, "slice": 11550, "speaker": "Levent"}
+{"y": 12324.0, "x0": 101.0, "x1": 609.0, "xc": 355.0, "text": "Enlightenment begins from inside. So we should go inwards", "conf": 0.967, "slice": 11550, "speaker": "Levent"}
+{"y": 12394.5, "x0": 1095.0, "x1": 1428.0, "xc": 1261.5, "text": "lets hope we all get the enlightenment.", "conf": 0.974, "slice": 11550, "speaker": "Simon"}
+{"y": 12458.0, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-4-22 11:42", "conf": 0.998, "slice": 11550, "speaker": null}
+{"y": 12588.2, "x0": 1318.0, "x1": 1440.0, "xc": 1379.0, "text": "lets see", "conf": 0.958, "slice": 11550, "speaker": "Simon"}
+{"y": 12658.0, "x0": 1154.0, "x1": 1436.0, "xc": 1295.0, "text": "how is testing with Turk Telekom?", "conf": 0.968, "slice": 11550, "speaker": "Simon"}
+{"y": 12726.0, "x0": 103.0, "x1": 519.0, "xc": 311.0, "text": "We will make test installations in 2 sites this week.", "conf": 0.96, "slice": 12600, "speaker": "Levent"}
+{"y": 12798.0, "x0": 101.0, "x1": 448.0, "xc": 274.5, "text": "I' m pushing for a start on procurement.", "conf": 0.985, "slice": 12600, "speaker": "Levent"}
+{"y": 12867.0, "x0": 1211.0, "x1": 1435.0, "xc": 1323.0, "text": "ok, thanks for your efforts.", "conf": 0.981, "slice": 12600, "speaker": "Simon"}
+{"y": 12937.0, "x0": 100.0, "x1": 362.0, "xc": 231.0, "text": "We keep this project secret ?", "conf": 0.973, "slice": 12600, "speaker": "Levent"}
+{"y": 12937.2, "x0": 357.0, "x1": 462.0, "xc": 409.8, "text": "on our end.", "conf": 0.951, "slice": 12600, "speaker": "Levent"}
+{"y": 13006.5, "x0": 1076.0, "x1": 1436.0, "xc": 1256.0, "text": "pls let us know if we could help in any way", "conf": 0.995, "slice": 12600, "speaker": "Simon"}
+{"y": 13122.0, "x0": 1097.0, "x1": 1391.0, "xc": 1244.0, "text": "Levent KILiIC: We keep this project secret", "conf": 0.968, "slice": 12600, "speaker": "Simon"}
+{"y": 13142.0, "x0": 1095.0, "x1": 1158.0, "xc": 1126.5, "text": "our end.", "conf": 0.999, "slice": 12600, "speaker": "Simon"}
+{"y": 13199.0, "x0": 99.0, "x1": 908.0, "xc": 503.5, "text": "It' s a very important and big project. Trying to keep in under the radar from other competitors", "conf": 0.971, "slice": 12600, "speaker": "Levent"}
+{"y": 13269.5, "x0": 100.0, "x1": 191.0, "xc": 145.5, "text": "Thanks", "conf": 0.967, "slice": 12600, "speaker": "Levent"}
+{"y": 13314.0, "x0": 100.0, "x1": 463.0, "xc": 281.5, "text": "Simon: pls let us know if we could help in any way", "conf": 0.988, "slice": 12600, "speaker": "Levent"}
+{"y": 13371.5, "x0": 675.0, "x1": 708.0, "xc": 691.5, "text": "OK", "conf": 0.995, "slice": 12600, "speaker": "Levent"}
+{"y": 13419.5, "x0": 675.0, "x1": 1436.0, "xc": 1055.5, "text": "I guess what we can do is mainly on product features and business terms(price, leadtime..)", "conf": 0.985, "slice": 12600, "speaker": "Simon"}
+{"y": 13443.5, "x0": 674.0, "x1": 1128.0, "xc": 901.0, "text": "Please do let us know if we can do something for you", "conf": 0.986, "slice": 12600, "speaker": "Simon"}
+{"y": 13491.0, "x0": 676.0, "x1": 1184.0, "xc": 930.0, "text": "We have been working on this since last June as I remember", "conf": 0.97, "slice": 12600, "speaker": "Simon"}
+{"y": 13514.5, "x0": 675.0, "x1": 1091.0, "xc": 883.0, "text": "You must have been pouring more in this project", "conf": 0.991, "slice": 12600, "speaker": "Simon"}
+{"y": 13648.0, "x0": 710.0, "x1": 831.0, "xc": 770.5, "text": "2025-4-22 11:52", "conf": 0.997, "slice": 12600, "speaker": null}
+{"y": 13705.5, "x0": 101.0, "x1": 436.0, "xc": 268.5, "text": "Yep thanks. Trying our best to pull it off", "conf": 0.992, "slice": 12600, "speaker": "Levent"}
+{"y": 13777.2, "x0": 1334.0, "x1": 1417.0, "xc": 1375.8, "text": "letssee", "conf": 0.991, "slice": 12600, "speaker": "Simon"}
+{"y": 13778.0, "x0": 1338.0, "x1": 1416.0, "xc": 1377.0, "text": "lets see", "conf": 0.948, "slice": 13650, "speaker": "Simon"}
+{"y": 13840.0, "x0": 710.0, "x1": 830.0, "xc": 770.0, "text": "2025-4-25 16:50", "conf": 0.968, "slice": 13650, "speaker": null}
+{"y": 13898.8, "x0": 1345.0, "x1": 1438.0, "xc": 1391.5, "text": "Hi, Levent.", "conf": 0.999, "slice": 13650, "speaker": "Simon"}
+{"y": 13962.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-4-25 16:50", "conf": 0.997, "slice": 13650, "speaker": null}
+{"y": 14020.5, "x0": 1156.0, "x1": 1437.0, "xc": 1296.8, "text": "1, can we expect payment today?", "conf": 0.999, "slice": 13650, "speaker": "Simon"}
+{"y": 14090.5, "x0": 1114.0, "x1": 1438.0, "xc": 1276.0, "text": "2, last time you asked Kyland products", "conf": 0.984, "slice": 13650, "speaker": "Simon"}
+{"y": 14160.5, "x0": 1010.0, "x1": 1439.0, "xc": 1224.5, "text": "we now find a reliable channel for Kyland products", "conf": 0.97, "slice": 13650, "speaker": "Simon"}
+{"y": 14397.5, "x0": 1133.0, "x1": 1438.0, "xc": 1285.5, "text": "its about ORIGINAL brand/products", "conf": 0.998, "slice": 13650, "speaker": "Simon"}
+{"y": 14468.0, "x0": 790.0, "x1": 1437.0, "xc": 1113.5, "text": "not sure if your end user still needs them or they already have Kyland models", "conf": 0.989, "slice": 13650, "speaker": "Simon"}
+{"y": 14538.5, "x0": 1130.0, "x1": 1439.0, "xc": 1284.5, "text": "just sharing this fyi, maybe its useful", "conf": 0.998, "slice": 13650, "speaker": "Simon"}
+{"y": 14608.5, "x0": 680.0, "x1": 1439.0, "xc": 1059.5, "text": "btw: this channel also supplier original MOxA products, maybe sometimes it will be useful", "conf": 0.992, "slice": 13650, "speaker": "Simon"}
+{"y": 14678.0, "x0": 1377.0, "x1": 1439.0, "xc": 1408.0, "text": "thanks", "conf": 1.0, "slice": 13650, "speaker": "Simon"}
+{"y": 14740.0, "x0": 710.0, "x1": 830.0, "xc": 770.0, "text": "2025-4-25 16:56", "conf": 0.966, "slice": 13650, "speaker": null}
+{"y": 14799.0, "x0": 100.0, "x1": 443.0, "xc": 271.5, "text": "Hi Simon, many thanks for your support.", "conf": 0.991, "slice": 13650, "speaker": "Levent"}
+{"y": 14823.0, "x0": 103.0, "x1": 795.0, "xc": 449.0, "text": "Kyland and Moxa sometimes come up in railways projects. I will check with partner", "conf": 0.978, "slice": 14700, "speaker": "Levent"}
+{"y": 14893.5, "x0": 809.0, "x1": 1430.0, "xc": 1119.5, "text": "Yes, its always good to have a channel available, maybe it works someday.", "conf": 0.997, "slice": 14700, "speaker": "Simon"}
+{"y": 14963.0, "x0": 102.0, "x1": 551.0, "xc": 326.5, "text": "We expect payment from customer to transfer to you", "conf": 0.982, "slice": 14700, "speaker": "Levent"}
+{"y": 15010.5, "x0": 103.0, "x1": 876.0, "xc": 489.5, "text": "Today may be late. We will transfer all payment to you as soon as we get from the customer.", "conf": 0.991, "slice": 14700, "speaker": "Levent"}
+{"y": 15080.0, "x0": 102.0, "x1": 419.0, "xc": 260.5, "text": "Cash flow is a real problem nowadays", "conf": 0.997, "slice": 14700, "speaker": "Levent"}
+{"y": 15196.0, "x0": 102.0, "x1": 431.0, "xc": 266.5, "text": "Simon: Yes, its always good to have a channel", "conf": 0.996, "slice": 14700, "speaker": "Levent"}
+{"y": 15215.5, "x0": 100.0, "x1": 361.0, "xc": 230.5, "text": "available, maybe it works someday...", "conf": 0.976, "slice": 14700, "speaker": "Levent"}
+{"y": 15498.5, "x0": 1328.0, "x1": 1439.0, "xc": 1383.5, "text": "I noticed this", "conf": 0.979, "slice": 14700, "speaker": "Simon"}
+{"y": 15568.0, "x0": 797.0, "x1": 1433.0, "xc": 1115.0, "text": "sorry to tell you that our HK account is not receiving your currency directly..", "conf": 0.984, "slice": 14700, "speaker": "Simon"}
+{"y": 15630.5, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-4-25 17:02", "conf": 0.997, "slice": 14700, "speaker": null}
+{"y": 15688.5, "x0": 566.0, "x1": 1275.0, "xc": 920.5, "text": "an option is, maybe you can transfer much more(a certain amount) for future orders", "conf": 0.995, "slice": 14700, "speaker": "Simon"}
+{"y": 15734.5, "x0": 566.0, "x1": 707.0, "xc": 636.5, "text": "its like a deposit", "conf": 0.977, "slice": 14700, "speaker": "Levent"}
+{"y": 15759.5, "x0": 567.0, "x1": 1438.0, "xc": 1002.5, "text": "we did this for Russian clients, you know, the political issues, its even hard to receive their payment now", "conf": 0.994, "slice": 14700, "speaker": "Simon"}
+{"y": 15783.5, "x0": 569.0, "x1": 1242.0, "xc": 905.5, "text": "before some clients chose to transfer a huge amount, just keep it at our account", "conf": 0.999, "slice": 14700, "speaker": "Simon"}
+{"y": 15807.0, "x0": 566.0, "x1": 1079.0, "xc": 822.5, "text": "if something is needed in the future, just deduct the amount", "conf": 0.987, "slice": 14700, "speaker": "Simon"}
+{"y": 15876.5, "x0": 1020.0, "x1": 1439.0, "xc": 1229.5, "text": "but this requires trust and long-term cooperation", "conf": 0.996, "slice": 15750, "speaker": "Simon"}
+{"y": 15948.0, "x0": 1062.0, "x1": 1429.0, "xc": 1245.5, "text": "still, its an option, maybe it works someday.", "conf": 0.993, "slice": 15750, "speaker": "Simon"}
+{"y": 16017.0, "x0": 102.0, "x1": 850.0, "xc": 475.8, "text": "That' s a great option.Trust and long term cooperation is 100% with Saga.No problems.", "conf": 0.963, "slice": 15750, "speaker": "Levent"}
+{"y": 16086.5, "x0": 100.0, "x1": 957.0, "xc": 528.5, "text": "It' s just cash flow management. We will consider depositing money to Saga. Much better than banks", "conf": 0.99, "slice": 15750, "speaker": "Levent"}
+{"y": 16157.5, "x0": 1053.0, "x1": 1226.0, "xc": 1139.5, "text": "its just an option fyi", "conf": 0.998, "slice": 15750, "speaker": "Simon"}
+{"y": 16180.5, "x0": 1053.0, "x1": 1212.0, "xc": 1132.5, "text": "we did this before", "conf": 0.973, "slice": 15750, "speaker": "Simon"}
+{"y": 16228.2, "x0": 1053.0, "x1": 1437.0, "xc": 1245.0, "text": "if someday you think necessary, lets move on", "conf": 0.999, "slice": 15750, "speaker": "Simon"}
+{"y": 16371.0, "x0": 1031.0, "x1": 1429.0, "xc": 1230.0, "text": "lets wait for the response from your client then.", "conf": 0.981, "slice": 15750, "speaker": "Simon"}
+{"y": 16433.0, "x0": 710.0, "x1": 831.0, "xc": 770.5, "text": "2025-4-25 17:07", "conf": 0.998, "slice": 15750, "speaker": null}
+{"y": 16491.0, "x0": 101.0, "x1": 189.0, "xc": 145.0, "text": "Yep thank", "conf": 1.0, "slice": 15750, "speaker": "Levent"}
+{"y": 16561.2, "x0": 98.0, "x1": 195.0, "xc": 146.5, "text": "Thank you", "conf": 1.0, "slice": 15750, "speaker": "Levent"}
+{"y": 16694.5, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-5-7 16:12", "conf": 0.994, "slice": 15750, "speaker": null}
+{"y": 16753.0, "x0": 102.0, "x1": 613.0, "xc": 357.5, "text": "Hi Simon, how are you ? Back from your Labor Day break ???", "conf": 0.964, "slice": 15750, "speaker": "Levent"}
+{"y": 16823.5, "x0": 100.0, "x1": 692.0, "xc": 396.0, "text": "We are trying to transfer money today. I will need a revised invoice pls", "conf": 0.996, "slice": 15750, "speaker": "Levent"}
+{"y": 16885.0, "x0": 714.0, "x1": 828.0, "xc": 771.0, "text": "2025-5-7 16:13", "conf": 0.973, "slice": 15750, "speaker": null}
+{"y": 16940.2, "x0": 1345.0, "x1": 1435.0, "xc": 1390.0, "text": "Hi. Levent.", "conf": 0.943, "slice": 15750, "speaker": "Simon"}
+{"y": 16943.5, "x0": 1346.0, "x1": 1439.0, "xc": 1392.5, "text": "Hi, Levent.", "conf": 0.999, "slice": 16800, "speaker": "Simon"}
+{"y": 17015.0, "x0": 1239.0, "x1": 1440.0, "xc": 1339.5, "text": "haha, yes, back to work", "conf": 0.984, "slice": 16800, "speaker": "Simon"}
+{"y": 17087.5, "x0": 98.0, "x1": 320.0, "xc": 209.0, "text": "STSC20250228007_R2.pdf", "conf": 0.999, "slice": 16800, "speaker": "Levent"}
+{"y": 17106.5, "x0": 343.0, "x1": 374.0, "xc": 358.5, "text": "PDF", "conf": 0.996, "slice": 16800, "speaker": "Levent"}
+{"y": 17118.0, "x0": 99.0, "x1": 285.0, "xc": 192.0, "text": "389.9K Not Downloaded", "conf": 0.977, "slice": 16800, "speaker": "Levent"}
+{"y": 17230.5, "x0": 1088.0, "x1": 1440.0, "xc": 1264.0, "text": "Levent KILIC: Hi Simon, how are you ? Back from", "conf": 0.974, "slice": 16800, "speaker": "Simon"}
+{"y": 17250.5, "x0": 1086.0, "x1": 1275.0, "xc": 1180.5, "text": "your Labor Day break ???", "conf": 0.974, "slice": 16800, "speaker": "Simon"}
+{"y": 17308.5, "x0": 102.0, "x1": 632.0, "xc": 367.0, "text": "can you pls revise this invoice by revising 24-ports to 3 pieces..", "conf": 0.992, "slice": 16800, "speaker": "Levent"}
+{"y": 17377.5, "x0": 102.0, "x1": 330.0, "xc": 216.0, "text": "We will transfer you $1,695", "conf": 0.989, "slice": 16800, "speaker": "Levent"}
+{"y": 17448.2, "x0": 100.0, "x1": 388.0, "xc": 243.8, "text": "Pls keep all transport costs same...", "conf": 0.991, "slice": 16800, "speaker": "Levent"}
+{"y": 17518.0, "x0": 101.0, "x1": 535.0, "xc": 318.0, "text": "We have already been causing you a lot of problem", "conf": 0.958, "slice": 16800, "speaker": "Levent"}
+{"y": 17588.5, "x0": 987.0, "x1": 1218.0, "xc": 1102.5, "text": "there are 3 versions in total", "conf": 0.991, "slice": 16800, "speaker": "Simon"}
+{"y": 17635.5, "x0": 987.0, "x1": 1437.0, "xc": 1212.0, "text": "V2: 4*24 port and 3*48 port, 2.5G based optical ports", "conf": 0.988, "slice": 16800, "speaker": "Simon"}
+{"y": 17659.0, "x0": 986.0, "x1": 1434.0, "xc": 1210.0, "text": "V3: 4*24 port and 3*48 port, 10G based optical ports", "conf": 0.99, "slice": 16800, "speaker": "Simon"}
+{"y": 17729.0, "x0": 957.0, "x1": 1438.0, "xc": 1197.5, "text": "so we will do V2(2.5G fiber) and total qty is 6(3+3), right?", "conf": 0.974, "slice": 16800, "speaker": "Simon"}
+{"y": 17799.2, "x0": 99.0, "x1": 495.0, "xc": 297.0, "text": "yes, now final quantity is 3 + 3 = 6 pieces total", "conf": 0.975, "slice": 16800, "speaker": "Levent"}
+{"y": 17869.5, "x0": 994.0, "x1": 1439.0, "xc": 1216.8, "text": "got it, let me revise the invoice and share it on email", "conf": 0.977, "slice": 17850, "speaker": "Simon"}
+{"y": 18002.0, "x0": 714.0, "x1": 827.0, "xc": 770.5, "text": "2025-5-7 16:20", "conf": 0.971, "slice": 17850, "speaker": null}
+{"y": 18061.0, "x0": 101.0, "x1": 286.0, "xc": 193.5, "text": "Thank you very much", "conf": 0.998, "slice": 17850, "speaker": "Levent"}
+{"y": 18125.0, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-5-7 16:35", "conf": 0.997, "slice": 17850, "speaker": null}
+{"y": 18182.0, "x0": 1193.0, "x1": 1439.0, "xc": 1316.0, "text": "I just sent an email, pls check", "conf": 0.993, "slice": 17850, "speaker": "Simon"}
+{"y": 18318.0, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-5-7 16:50", "conf": 0.997, "slice": 17850, "speaker": null}
+{"y": 18374.5, "x0": 101.0, "x1": 924.0, "xc": 512.5, "text": "Yep, received it thank you... Just sent out the bank instruction. They needed the proforma invoice..", "conf": 0.988, "slice": 17850, "speaker": "Levent"}
+{"y": 18445.5, "x0": 102.0, "x1": 351.0, "xc": 226.5, "text": "Things are getting very funny", "conf": 0.979, "slice": 17850, "speaker": "Levent"}
+{"y": 18515.5, "x0": 100.0, "x1": 420.0, "xc": 260.0, "text": "Will keep you posted on the progress", "conf": 0.996, "slice": 17850, "speaker": "Levent"}
+{"y": 18584.5, "x0": 1274.0, "x1": 1438.0, "xc": 1356.0, "text": "I shared it on email", "conf": 0.993, "slice": 17850, "speaker": "Simon"}
+{"y": 18630.0, "x0": 1072.0, "x1": 1435.0, "xc": 1253.5, "text": "Levent KILIC: Yep, received it thank you..Just sent", "conf": 0.965, "slice": 17850, "speaker": "Simon"}
+{"y": 18649.5, "x0": 1073.0, "x1": 1434.0, "xc": 1253.5, "text": "out the bank instruction. They needed the profor.", "conf": 0.972, "slice": 17850, "speaker": "Simon"}
+{"y": 18707.5, "x0": 1323.0, "x1": 1432.0, "xc": 1377.5, "text": "ok, thanks .", "conf": 0.906, "slice": 17850, "speaker": "Simon"}
+{"y": 18771.0, "x0": 715.0, "x1": 827.0, "xc": 771.0, "text": "2025-5-7 22:22", "conf": 0.998, "slice": 17850, "speaker": null}
+{"y": 18829.5, "x0": 102.0, "x1": 928.0, "xc": 515.0, "text": "Hi Simon, pls check your bank account for $1,665 tomorrow. I just got confirmation from the bank.", "conf": 0.987, "slice": 17850, "speaker": "Levent"}
+{"y": 18899.5, "x0": 1170.0, "x1": 1439.0, "xc": 1304.8, "text": "OK, thanks for your info, Levent", "conf": 1.0, "slice": 17850, "speaker": "Simon"}
+{"y": 18969.5, "x0": 947.0, "x1": 1416.0, "xc": 1181.5, "text": "I will let u know when we got it and arrange production", "conf": 0.985, "slice": 18900, "speaker": "Simon"}
+{"y": 19113.5, "x0": 1192.0, "x1": 1417.0, "xc": 1304.5, "text": "have a good night, thankse", "conf": 0.991, "slice": 18900, "speaker": "Simon"}
+{"y": 19183.5, "x0": 99.0, "x1": 367.0, "xc": 233.0, "text": "you too... talk toyou tomorrow", "conf": 0.943, "slice": 18900, "speaker": "Levent"}
+{"y": 19318.5, "x0": 715.0, "x1": 827.0, "xc": 771.0, "text": "2025-5-8 14:11", "conf": 0.991, "slice": 18900, "speaker": null}
+{"y": 19376.5, "x0": 1247.0, "x1": 1439.0, "xc": 1343.0, "text": "Good morning, Levent", "conf": 0.999, "slice": 18900, "speaker": "Simon"}
+{"y": 19446.5, "x0": 992.0, "x1": 1435.0, "xc": 1213.5, "text": "sent an email, pls take some time to check and reply", "conf": 0.986, "slice": 18900, "speaker": "Simon"}
+{"y": 19509.0, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-5-8 14:12", "conf": 0.994, "slice": 18900, "speaker": null}
+{"y": 19569.0, "x0": 1352.0, "x1": 1433.0, "xc": 1392.5, "text": "thanks", "conf": 0.998, "slice": 18900, "speaker": "Simon"}
+{"y": 19631.0, "x0": 714.0, "x1": 826.0, "xc": 770.0, "text": "2025-5-8 14:24", "conf": 0.964, "slice": 18900, "speaker": null}
+{"y": 19690.0, "x0": 102.0, "x1": 765.0, "xc": 433.5, "text": "Hi Simon, i read it.. I will talk to Tylan to take actions on this one... Many thanks", "conf": 0.989, "slice": 18900, "speaker": "Levent"}
+{"y": 19761.5, "x0": 1325.0, "x1": 1421.0, "xc": 1373.0, "text": "thank you", "conf": 0.997, "slice": 18900, "speaker": "Simon"}
+{"y": 19896.0, "x0": 715.0, "x1": 828.0, "xc": 771.5, "text": "2025-5-8 15:34", "conf": 0.995, "slice": 18900, "speaker": null}
+{"y": 19953.5, "x0": 101.0, "x1": 973.0, "xc": 537.0, "text": "Hi Simon, just talked to Taylan again. There seems to be a confusion about the product configuration :-(", "conf": 0.995, "slice": 18900, "speaker": "Levent"}
+{"y": 20023.5, "x0": 101.0, "x1": 546.0, "xc": 323.5, "text": "We need uplinks in 10G, the current order is for 2.5G", "conf": 0.972, "slice": 18900, "speaker": "Levent"}
+{"y": 20091.0, "x0": 965.0, "x1": 1020.0, "xc": 992.5, "text": "order", "conf": 0.997, "slice": 18900, "speaker": "Simon"}
+{"y": 20092.0, "x0": 105.0, "x1": 141.0, "xc": 123.0, "text": "Can", "conf": 0.986, "slice": 18900, "speaker": "Levent"}
+{"y": 20093.5, "x0": 102.0, "x1": 1031.0, "xc": 566.5, "text": "Can I suggest that you ship the 10G version, and we can pay the difference for these 6 units in the next order ?", "conf": 0.985, "slice": 19950, "speaker": "Levent"}
+{"y": 20531.5, "x0": 1412.0, "x1": 1440.0, "xc": 1426.0, "text": "oK", "conf": 0.849, "slice": 19950, "speaker": "Simon"}
+{"y": 20576.5, "x0": 1081.0, "x1": 1438.0, "xc": 1259.5, "text": "Levent KILIC: We need uplinks in 10G, the current", "conf": 0.985, "slice": 19950, "speaker": "Simon"}
+{"y": 20596.5, "x0": 1081.0, "x1": 1202.0, "xc": 1141.5, "text": "order is for 2.5G", "conf": 0.976, "slice": 19950, "speaker": "Simon"}
+{"y": 20652.8, "x0": 1245.0, "x1": 1439.0, "xc": 1342.0, "text": "I will revise the invoice", "conf": 0.975, "slice": 19950, "speaker": "Simon"}
+{"y": 20712.0, "x0": 683.0, "x1": 856.0, "xc": 769.5, "text": "You recalled a message.", "conf": 0.972, "slice": 19950, "speaker": "Simon"}
+{"y": 20757.5, "x0": 716.0, "x1": 827.0, "xc": 771.5, "text": "2025-5-8 15:39", "conf": 0.988, "slice": 19950, "speaker": null}
+{"y": 20816.0, "x0": 1047.0, "x1": 1437.0, "xc": 1242.0, "text": "OK, just checked, the difference will be 255usd", "conf": 0.997, "slice": 19950, "speaker": "Simon"}
+{"y": 20861.0, "x0": 1077.0, "x1": 1432.0, "xc": 1254.5, "text": "Levent KILiC: Can I suggest that you ship the 10G", "conf": 0.98, "slice": 19950, "speaker": "Simon"}
+{"y": 20881.0, "x0": 1074.0, "x1": 1437.0, "xc": 1255.5, "text": "version, and we can pay the difference for these ..", "conf": 0.976, "slice": 19950, "speaker": "Simon"}
+{"y": 20937.5, "x0": 1102.0, "x1": 1425.0, "xc": 1263.5, "text": "Let me send info on email, thanks ,", "conf": 0.978, "slice": 19950, "speaker": "Simon"}
+{"y": 21001.0, "x0": 714.0, "x1": 826.0, "xc": 770.0, "text": "2025-5-8 15:45", "conf": 0.975, "slice": 19950, "speaker": null}
+{"y": 21006.0, "x0": 718.0, "x1": 824.0, "xc": 771.0, "text": "2023-3-013.43", "conf": 0.818, "slice": 21000, "speaker": "Simon"}
+{"y": 21270.0, "x0": 1263.0, "x1": 1438.0, "xc": 1350.5, "text": "just sent this, thanks", "conf": 0.999, "slice": 21000, "speaker": "Simon"}
+{"y": 21332.0, "x0": 711.0, "x1": 831.0, "xc": 771.0, "text": "2025-5-10 14:17", "conf": 0.975, "slice": 21000, "speaker": null}
+{"y": 21391.5, "x0": 1080.0, "x1": 1437.0, "xc": 1258.5, "text": "Hi, Levent. Got your mail and make a reply", "conf": 0.984, "slice": 21000, "speaker": "Simon"}
+{"y": 21461.5, "x0": 1134.0, "x1": 1417.0, "xc": 1275.5, "text": "have a good weekend, thanks", "conf": 0.975, "slice": 21000, "speaker": "Simon"}
+{"y": 21525.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-5-10 14:29", "conf": 0.998, "slice": 21000, "speaker": null}
+{"y": 21581.5, "x0": 103.0, "x1": 397.0, "xc": 250.0, "text": "Thanks  for the response Simon.", "conf": 0.984, "slice": 21000, "speaker": "Levent"}
+{"y": 21630.0, "x0": 102.0, "x1": 621.0, "xc": 361.5, "text": "We are working very hard to close this order with our partner.", "conf": 0.982, "slice": 21000, "speaker": "Levent"}
+{"y": 21699.2, "x0": 1076.0, "x1": 1438.0, "xc": 1257.0, "text": "yes and thanks for your continuous efforts", "conf": 0.989, "slice": 21000, "speaker": "Simon"}
+{"y": 21769.5, "x0": 99.0, "x1": 992.0, "xc": 545.5, "text": "It' s going much better and faster than expected. But you know we never say 100% before we get money.", "conf": 0.985, "slice": 21000, "speaker": "Levent"}
+{"y": 21794.0, "x0": 101.0, "x1": 407.0, "xc": 254.0, "text": "Not even the contract these days", "conf": 0.991, "slice": 21000, "speaker": "Levent"}
+{"y": 21863.5, "x0": 101.0, "x1": 429.0, "xc": 265.0, "text": "Sowill keep you updated at every step", "conf": 0.954, "slice": 21000, "speaker": "Levent"}
+{"y": 21934.2, "x0": 1049.0, "x1": 1182.0, "xc": 1115.2, "text": "that is great", "conf": 0.967, "slice": 21000, "speaker": "Simon"}
+{"y": 21958.5, "x0": 1046.0, "x1": 1438.0, "xc": 1242.0, "text": "In my reply, the mentioned period is just exact", "conf": 0.989, "slice": 21000, "speaker": "Simon"}
+{"y": 21981.8, "x0": 1042.0, "x1": 1119.0, "xc": 1080.5, "text": "3 weeks", "conf": 0.971, "slice": 21000, "speaker": "Simon"}
+{"y": 22051.5, "x0": 747.0, "x1": 1438.0, "xc": 1092.5, "text": "but it will probably take a bit longer even, the poe chips might be a small problem", "conf": 0.984, "slice": 21000, "speaker": "Simon"}
+{"y": 22121.0, "x0": 1059.0, "x1": 1437.0, "xc": 1248.0, "text": "anyway, its good to keep both well informed", "conf": 0.974, "slice": 21000, "speaker": "Simon"}
+{"y": 22188.8, "x0": 1208.0, "x1": 1436.0, "xc": 1322.0, "text": "thinqs will qet much easier", "conf": 0.962, "slice": 21000, "speaker": "Simon"}
+{"y": 22191.5, "x0": 1209.0, "x1": 1437.0, "xc": 1323.0, "text": "things will get much easier", "conf": 0.986, "slice": 22050, "speaker": "Simon"}
+{"y": 22264.0, "x0": 1347.0, "x1": 1420.0, "xc": 1383.5, "text": "lets see", "conf": 0.994, "slice": 22050, "speaker": "Simon"}
+{"y": 22332.5, "x0": 101.0, "x1": 986.0, "xc": 543.5, "text": "I understand. This is why we are pushng our partner to negotiate a partial delivery. The firs 1,000 within a", "conf": 0.979, "slice": 22050, "speaker": "Levent"}
+{"y": 22358.0, "x0": 99.0, "x1": 808.0, "xc": 453.5, "text": "month, the remaining in the next month... This will give us some space to manuever.", "conf": 0.982, "slice": 22050, "speaker": "Levent"}
+{"y": 22420.0, "x0": 710.0, "x1": 831.0, "xc": 770.5, "text": "2025-5-10 14:35", "conf": 0.998, "slice": 22050, "speaker": null}
+{"y": 22477.5, "x0": 967.0, "x1": 1439.0, "xc": 1203.0, "text": "yes, it will be VERY good if you can convince your client", "conf": 0.965, "slice": 22050, "speaker": "Simon"}
+{"y": 22549.0, "x0": 693.0, "x1": 1435.0, "xc": 1064.2, "text": "partial shipment is too helpful regarding material preparation&production, payment etc.", "conf": 0.992, "slice": 22050, "speaker": "Simon"}
+{"y": 22611.5, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-5-10 14:36", "conf": 0.998, "slice": 22050, "speaker": null}
+{"y": 22669.8, "x0": 1272.0, "x1": 1432.0, "xc": 1352.0, "text": "pls do your best .", "conf": 0.931, "slice": 22050, "speaker": "Simon"}
+{"y": 22741.5, "x0": 1400.0, "x1": 1439.0, "xc": 1419.5, "text": "btw", "conf": 0.999, "slice": 22050, "speaker": "Simon"}
+{"y": 22811.5, "x0": 1055.0, "x1": 1439.0, "xc": 1247.0, "text": "pls talk with Taylan about AC5 based samples", "conf": 0.977, "slice": 22050, "speaker": "Simon"}
+{"y": 22880.0, "x0": 1219.0, "x1": 1439.0, "xc": 1329.0, "text": "we think this is important", "conf": 0.983, "slice": 22050, "speaker": "Simon"}
+{"y": 22944.0, "x0": 709.0, "x1": 831.0, "xc": 770.0, "text": "2025-5-10 14:45", "conf": 0.997, "slice": 22050, "speaker": null}
+{"y": 23002.0, "x0": 101.0, "x1": 361.0, "xc": 231.0, "text": "Agreed, yes..I will talk to him...", "conf": 0.945, "slice": 22050, "speaker": "Levent"}
+{"y": 23072.5, "x0": 1117.0, "x1": 1211.0, "xc": 1164.0, "text": "Ok, thanks", "conf": 0.999, "slice": 22050, "speaker": "Simon"}
+{"y": 23120.0, "x0": 1116.0, "x1": 1431.0, "xc": 1273.5, "text": "waiting for your feedback on email ,", "conf": 0.954, "slice": 22050, "speaker": "Simon"}
+{"y": 23256.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-5-20 18:56", "conf": 0.995, "slice": 23100, "speaker": null}
+{"y": 23314.0, "x0": 101.0, "x1": 881.0, "xc": 491.0, "text": "Hi Slmon, how are you ? I will write to you about a potential arrangement for the big project.", "conf": 0.979, "slice": 23100, "speaker": "Levent"}
+{"y": 23383.0, "x0": 1350.0, "x1": 1439.0, "xc": 1394.5, "text": "Hi, Levent", "conf": 0.962, "slice": 23100, "speaker": "Simon"}
+{"y": 23452.5, "x0": 101.0, "x1": 633.0, "xc": 367.0, "text": "It 's kind of long. I will write later, so we can catch up tomorrow", "conf": 0.978, "slice": 23100, "speaker": "Levent"}
+{"y": 23524.5, "x0": 1397.0, "x1": 1439.0, "xc": 1418.0, "text": "sure", "conf": 0.999, "slice": 23100, "speaker": "Simon"}
+{"y": 23593.0, "x0": 99.0, "x1": 187.0, "xc": 143.0, "text": "thanks", "conf": 0.983, "slice": 23100, "speaker": "Levent"}
+{"y": 23665.0, "x0": 1217.0, "x1": 1437.0, "xc": 1327.0, "text": "so there is solid progress?", "conf": 1.0, "slice": 23100, "speaker": "Simon"}
+{"y": 23735.0, "x0": 1240.0, "x1": 1439.0, "xc": 1339.5, "text": "reading yoru reply now", "conf": 0.994, "slice": 23100, "speaker": "Simon"}
+{"y": 23804.0, "x0": 102.0, "x1": 1009.0, "xc": 555.5, "text": "Yes, it looks like. I replied to you r email. But there is some other item I would like to discuss not in the email", "conf": 0.976, "slice": 23100, "speaker": "Levent"}
+{"y": 23873.8, "x0": 1337.0, "x1": 1440.0, "xc": 1388.8, "text": "OK, lets see", "conf": 0.956, "slice": 23100, "speaker": "Simon"}
+{"y": 23938.0, "x0": 710.0, "x1": 832.0, "xc": 771.0, "text": "2025-5-21 09:58", "conf": 0.999, "slice": 23100, "speaker": null}
+{"y": 23995.5, "x0": 98.0, "x1": 185.0, "xc": 141.8, "text": "Hi Simon,", "conf": 0.998, "slice": 23100, "speaker": "Levent"}
+{"y": 24019.5, "x0": 101.0, "x1": 745.0, "xc": 423.0, "text": "Just wanted to reach out to you to check 1 commercial and 1 technical issue.", "conf": 0.987, "slice": 23100, "speaker": "Levent"}
+{"y": 24067.0, "x0": 102.0, "x1": 406.0, "xc": 254.0, "text": "Please consider both confidential @", "conf": 0.954, "slice": 23100, "speaker": "Levent"}
+{"y": 24136.5, "x0": 102.0, "x1": 988.0, "xc": 545.0, "text": "*1- Technical:* In this new big project we will have a second piece of hardware. This is a custom IOT board", "conf": 0.991, "slice": 23100, "speaker": "Levent"}
+{"y": 24162.5, "x0": 102.0, "x1": 990.0, "xc": 546.0, "text": "with just a few i/o ports. Probably 4 layer PCB. My question is : Do you know a manufacturing company to", "conf": 0.995, "slice": 23100, "speaker": "Levent"}
+{"y": 24185.5, "x0": 102.0, "x1": 974.0, "xc": 538.0, "text": "manufacture this custom board for us complete with the components and testing? The quantity will be", "conf": 0.957, "slice": 23100, "speaker": "Levent"}
+{"y": 24186.0, "x0": 101.0, "x1": 975.0, "xc": 538.0, "text": "manufacture this custom board for us complete with the components and testing ? The quantity will be", "conf": 0.993, "slice": 24150, "speaker": "Levent"}
+{"y": 24209.5, "x0": 101.0, "x1": 461.0, "xc": 281.0, "text": "the same as our project quantity, i.e. 2,000.", "conf": 0.989, "slice": 23100, "speaker": "Levent"}
+{"y": 24278.5, "x0": 100.0, "x1": 974.0, "xc": 537.0, "text": "*2-Commercial:* This is the critical and confidential part. Due to contractual and financial arrangements,", "conf": 0.981, "slice": 23100, "speaker": "Levent"}
+{"y": 24304.5, "x0": 101.0, "x1": 944.0, "xc": 522.5, "text": "our partner may need to place the order for the 2,oo0 pcs of the switch. So my question is about the", "conf": 0.981, "slice": 24150, "speaker": "Levent"}
+{"y": 24327.5, "x0": 102.0, "x1": 262.0, "xc": 181.8, "text": "following scenario:", "conf": 0.997, "slice": 24150, "speaker": "Levent"}
+{"y": 24350.5, "x0": 102.0, "x1": 981.0, "xc": 541.5, "text": "Assume we have switch+SFP cost of $150/each. Our partner will transfer $250/each for this combination.", "conf": 0.99, "slice": 24150, "speaker": "Levent"}
+{"y": 24374.0, "x0": 102.0, "x1": 953.0, "xc": 527.5, "text": "Can we send Saga a new invoice from Angora to reimburse the $100 ? This scenario will solve a lot of", "conf": 0.982, "slice": 24150, "speaker": "Levent"}
+{"y": 24399.0, "x0": 103.0, "x1": 310.0, "xc": 206.5, "text": "contractual issues for us.", "conf": 0.986, "slice": 24150, "speaker": "Levent"}
+{"y": 24421.5, "x0": 100.0, "x1": 994.0, "xc": 547.0, "text": "We also plan to get some inventory for the end of the year. We hope to reimburse some of this amount as", "conf": 0.983, "slice": 24150, "speaker": "Levent"}
+{"y": 24446.0, "x0": 100.0, "x1": 657.0, "xc": 378.5, "text": "equipment. But we will check with our regulations how to do that.", "conf": 0.971, "slice": 24150, "speaker": "Levent"}
+{"y": 24516.0, "x0": 100.0, "x1": 358.0, "xc": 229.0, "text": "Will appreciate your feedback.", "conf": 0.979, "slice": 24150, "speaker": "Levent"}
+{"y": 24578.5, "x0": 710.0, "x1": 831.0, "xc": 770.5, "text": "2025-5-21 10:25", "conf": 0.999, "slice": 24150, "speaker": null}
+{"y": 24636.5, "x0": 626.0, "x1": 821.0, "xc": 723.5, "text": "Good morning, Levent,", "conf": 0.999, "slice": 24150, "speaker": "Levent"}
+{"y": 24661.0, "x0": 626.0, "x1": 863.0, "xc": 744.5, "text": "You are still very early, haha", "conf": 0.995, "slice": 24150, "speaker": "Simon"}
+{"y": 24684.5, "x0": 625.0, "x1": 801.0, "xc": 713.0, "text": "Thanks for your info", "conf": 0.98, "slice": 24150, "speaker": "Levent"}
+{"y": 24730.8, "x0": 624.0, "x1": 762.0, "xc": 693.0, "text": "1, we will check", "conf": 0.971, "slice": 24150, "speaker": "Levent"}
+{"y": 24863.5, "x0": 1410.0, "x1": 1429.0, "xc": 1419.5, "text": "?", "conf": 0.764, "slice": 24150, "speaker": "Simon"}
+{"y": 24865.0, "x0": 1463.0, "x1": 1504.0, "xc": 1483.5, "text": "Send", "conf": 0.998, "slice": 24150, "speaker": "Simon"}

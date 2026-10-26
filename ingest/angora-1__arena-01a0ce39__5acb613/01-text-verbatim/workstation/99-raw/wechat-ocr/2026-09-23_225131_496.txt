@@ -1,0 +1,514 @@
+# SOURCE: Weixin Image_2026-09-23_225131_496.png
+# SIZE: 1545x23105  SLICES: 23
+############################################################
+Levent KILIC
+4/16 Thursday 11:34
+Hi Slmon, how are you doing today? I'm trying to finalize the costing structure. Here are a few points for
+you to confirm pls:
+1- Can you do 825 Yuan for the switch
+2- If you buy SFP module from NEM Engineering, can you arrange paperwork so Saga does not pay VAT to
+NEM. Becasue the SFP modules are to be exported?
+3- Are you okay with 30% upfront payment and 70% before shipment?
+4- Any arrangement with freight with ship?
+The tender on the 28th is for
+600 pcs 8-port and 200 pcs for 24-port
+The tender on the 29th is for 3,294 ocs 8-port
+for your eyes only
+4/16 Thursday 11:51
+Hi, Levent,
+Thanks for your info.
+1. 825 YUAN is a big pressure, let's do 830 YUAN/PC
+Hope this helps
+2. No problem, we can handle payment and installation for sfp modules
+3. YES
+4. About shipment
+I checked 2 options, both are by sea shipment
+Express is NEVER an option, way too expensive
+4.1: DDP option
+Still, I did not get the quotation...
+I am pushing the shipping forwarder again
+We will let it go if there is not a further response
+And in previous reply, I also mentioned the Pros and Cons for DDP term
+Express is NEVER an option, way too expensive
+4.1: DDP option
+Still, I did not get the quotation...
+I am pushing the shipping forwarder again
+We will let it go if there is not a further response
+And in previous reply, I also mentioned the Pros and Cons for DDP term
+4.2: FOB option
+This delivers the materials to local customs
+It will be your side to handle customs clearance and duty
+So previous cost structure will keep unchanged
+But, we sure can do something to optimize the total cost
+For this option, Cost is 20K YUAN
+5. About those tenders
+What would be the situation now?
+an easy win or need to win all tenders or something?
+4/16 Thursday 12:28
+FOB works for us, no problems.
+I am in touch with 3 partners.
+One seems to chicken out. There is a camera part of the tender. So they want to go with camera vendor
+(Dahua) on the switch side to get better pricing on the camera side. So this is risky.
+One partner is dancing with DLink. So they will be opportunistic on the pricing and conditions.
+Last partner is loyal to us. They are the ones that got 200 switches last year with DLink. They complain they
+dis not make any money last year. So this year they want to make some money. So they want to keep some
+margin.
+My strategy is NOT to lose money as Angora, but to get the tender. This is for reputation and reference
+I will share my cost structure with you
+I' m involving our distributor to support partners financial my
+So there will be some finance costs
+4/16 Thursday 12:33
+So there will be some finance costs
+4/16 Thursday 12:33
+But that' s okay
+Let' s see
+I asked 25 Yuan for 1G-LX SFP from Karen for this deal. Just so you know
+4/16 Thursday 12:35
+Waiting confirmation from her
+4/16 Thursday 12:46
+OK
+Levent KILIC: FOB works for us, no problems.
+so last year its just 200pcs?
+its many more this year
+Levent KILlC:I am in touch with 3 partners.One
+seems to chicken out. There is a camera part of t..
+correct
+Same here, we will provide any more possible discount
+for now its 830 YUAN/PC and 20K for FOB shipment.
+probably less on shipment cost
+Levent KILIC: My strategy is NOT to lose money as
+Angora, but to get the tender. This is for reputat...
+Aha, s0 your taarget is 850YUAN (825+ 25)
+Levent KILIC: I asked 25 Yuan for 1G-LX SFP from
+Karen for this deal. Just so you know
+correct, yep... That's the plan
+Levent KILIC: I asked 25 Yuan for 1G-LX SFP from
+Karen for this deal. Just so you know
+correct, yep... That's the plan
+for product cost, 830YUAN is the limit... we will see if we can do better on shipment
+thanks...let's see if all will go well.. We have 12 more days until the tender...
+The tactic is we give pricing in the last minute. Otherwise partners will negotiate with other vendors.
+ok, lets do FOB then and try to optimize the cost structure
+4/16 Thursday 13:12
+yep.. thanks
+4/16 Thursday 14:04
+I just got confirmation from Karen for 25 Yuan for 1G LX 1310nm 10Km Commercial Unit
+thats great
+for required items, we are good
+cost is basically fixed
+we now need to think about
+1. optimization
+2. info and efforts on tenders
+yep... Now we play the Game Theeory with the partner... including disti financing
+So what is the tender procedure?
+like all parties submit info and pricing etc.
+yep.. Now we play the Game Theeory with the partners... including disti financing
+So what is the tender procedure?
+like all parties submit info and pricing etc.
+the buyer will evaluate and maybe give scores
+finalization
+and test samples?
+4/16 Thursday 14:09
+Pricing part is open auction. electronic open auction in 5 rounds total. End of 5th round, best price wins
+Then paperwork check, if all okay then sample testing
+contract signature etc
+4/16 Thursday 14:15
+Aha, so its best price first, THEN paperwork check?
+what if some features are not good enough??
+lets say, your offer is 800 while mine is 850
+but your features are not good enough, mine is super good
+I will lose?
+All paperwork is uploaded BEFORE the tender. They are all checked. After the tender, it is deep checking
+with dates,amounts,signatures etc/
+Technical compliance is a given ;-)
+then price is very important... does it invlove any customer relationship?
+like any one tender is very close to some guys in the police station etc.
+then price is very important... does it invlove any customer relationship?
+like any one tender is very close to some guys in the police station etc.
+4/16 Thursday 14:21
+not in this tender... other projects yes.. This one is a price war...
+Of course AFTER the win, relations are important at Final Acceptance Tests. They have to sign off the
+sample. And after delivery sign off inventory to start warranty... These are where relations are more critical
+4/16 Thursday 14:24
+price war...
+kinda same here
+prices and relations
+yep.. very similar processes...
+In other projects it even more relations.. Even price is not enough sometimes
+4/16 Thursday 14:30
+For prices, we will give our best offer(l mean not just about this tender)
+including after ones
+I guess it will be just similar = cost structure
+Iransport + Import duty + Customs + Possible margin tor exchange and tinance cost
+well, the point is Saga can only handle the front parts, product cost and shipment etc.
+So we will do our best as long as it takes
+4/16 Thursday 14:53
+correct. many thanks.
+4/16 Thursday 14:53
+correct. many thanks.
+After the pandemic in 2020, and with the recent developments in the world, I think the business has changed.
+We will need to say okay to minimum profit and maximum business in swiches.
+If we have other high margin products, solutions in cyber security, that;s a different story
+we also need to increase volume and minimize profit
+One last thing before I forget, pls do include the DIN rail Apparatus in the box in the Turkish police project
+8-port industrial switch
+DIN rail Apparatus = bracket and power supply etc.?
+sort of
+our plan is a little different, its standard items and customized items
+Levent KILIC: After the pandemic in 2020, and
+with the recent developments in the world, I thin...
+yes... The technician should be able to install the switch in the DN rail when he opens the box
+for standard items, like your plan, as long as there is any profit, lets go for it
+but our focus is on customized ones that will give us decent profit and long-term biz relations
+4/16 Thursday 14:58
+yes no problem, all inclusive
+Levent KILIC: yes... The technician should be able
+to install the switch in the DN rail when he open...
+or at least we are trying to reach here
+Simon: but our focus is on customized ones that
+Levent KILIC: yes. The technician should be able
+to install the switch in the DN rail when he open...
+or at least we are trying to reach here
+Simon: but our focus is on customized ones that
+will give us decent profit and long-term biz relati..
+Simon: for standard items, like your plan, as long
+as there is any profit, lets go for it
+its kinda like discover and foster some specific needs like dual AC input, Dl/DO/RS485
+Simon: but our focus is on customized ones that
+will give us decent profit and long-term biz relat..
+this is not easy, haha, but we do put in some efforts
+great. thanks
+Simon: yes no problem, all inclusive
+4/16 Thursday 15:12
+thanks
+4/22 Wednesday 11:25
+Hi Simon, how are you doing today
+I found out DLink offer to the partner yesterday
+Here is the details
+1- the box includes switch + power supply + SFP + fiber cable and a short power cord
+2- 30% down payment at order and 70% when the goods arrive at the Customs P
+3- unit price is $135
+2- 30% down payment at order and 70% when the goods arrive at the Customs
+3- unit price is $135
+This is the price to the partner
+4/22 Wednesday 11:29
+So what do you think?
+4/22Wednesday 11:38
+Hi, Levent,
+I am good and thanks for your info
+1. I guess they are still using Vitesse chip?
+If we only talk about features itself, ours is better
+But for this project, I guess both offers are good enough
+so this might be an important factor of the price difference
+2. about payment, 70% when the goods arrive at the Customs
+They are strong in local market and even in global market.
+this is understandable...
+3. They are doing USD.
+if we exchange it to RMB by the current rate: 921RMB
+This is the price to the partner!!
+Our offer is 855RMB (our switch 830+25rmb for a module from Karen)
+question is, 135USD(921RMB) is including or excluding shipping cost??
+if not, the price gap or say profit margin is around 67RRMB or 7%
+this is not good enough
+it would be better if the exchange rate is better.
+855RMB/7=122USD/set
+855RMB/6.82=125USD/set
+for this project, it will save over 10KUSD
+but we cannot control this
+If it is also including shipping cost, a very very hard situation..
+so it is like, we need to get more info about Dlink offer
+but we cannot control this
+If it is also including shipping cost, a very very hard situation..
+so it is like, we need to get more info about Dlink offer
+1. how do them balance the exchange rate issue with fixed offer 135USD
+2. is it including shipping cost? 135USD/SET
+3. their model is same as last year's?
+etc.
+and for now, our offer is lower than DLINK's like 7%
+not good enough, but we still have a chance...
+4/22 Wednesday 11:56
+Yes it includes the shipping. This is the price to the partner. This means it includes shipping, customs, and
+even the distribution margin
+They say they will deliver in 120 days though
+4/22 Wednesday 12:07
+I guess they are still using Vitesse chip and squeezing the profit at each step
+eg: for the chip, for the DRAM etc.
+Vitesse model does not require a very high DRAM standard as our Marvell model
+Vitesse model info typically is
+DRAM size: 128M
+Flash size: 16M
+Packet buffer size: 4Mb
+VLAND ID: 4096
+MAC Address Table Size: 8K
+Jumbo Frame: 9.6KB
+While our Marvell model is:
+both DDR and flash are 512MB
+this is a big cost difference
+Why there is this?
+It is the chip operating system
+Vitesse is a relatively old Os: its structure is far less good than our Marvell AC5 OS
+I am just explaining this to you...
+this is a big cost difference
+Why there is this?
+It is the chip operating system
+Vitesse is a relatively old Os: its structure is far less good than our Marvell AC5 Os
+I am just explaining this to you...
+but for the project itself, I think both models are good
+Because the required specs are not very complex..
+this is difficul...@
+Right... okay I will take a huge risk and try to give a very competitive price.
+I think one of 2 partners will still prefer DLink over our offer due to brand recognition from last year' s tender
+But at least we would have matched the same offer
+probably
+but the price gap is too big...
+all inclusive
+Levent KILIC: Yes it includes the shipping. This is
+the price to the partner. This means it includes s..
+Can you please check if you can include the fiber cable and power cable in the box?
+its already included
+Levent KILiC: Can you please check if you can
+include the fiber cable andpower cable in the b.
+STI-288DGGPM withDI/DO/RS485: 850RMB/SET
+Including 1*switch, 1*120W MEANWELL Power supply NDR-120-48, 1*1-meter SC-LC patchcord,
+customized packing box
+WITHOUT network cable(it is not mentioned in the tender)
+Okay great. I' II just remove any margin on our end.
+I' m not sure even this will work but worth trying.
+network cable(it is not mentioned in the tender)
+Okay great. I' Il just remove any margin on our end.
+I' m not sure even this will work but worth trying.
+thanks, but honestly its still not easy
+Levent KILIC: Okay great. I Il just remove any
+margin on our end. I' m not sure even this will .
+this is the core reason
+Simon: I guess they are still using Vitesse chip and
+au s ba ds a pe  a bs
+4/22 Wednesday 12:13
+for vitesse model, there is indeed plenty of room to squeeze the profit at each step!
+I knowbut at least we try tobe a competitor in the market.
+yes thanks
+This is just one project at Turkish Police. There are other projects in other organisations.
+This is just good for reference. Let' s see
+am telling all the info I got, lets never give up
+but
+we should also be kinda mentally prepared.
+Levent KILIC: This is just one project at Turkish
+Police. There are other projects in other organisa...
+entallv
+Levent KILIC: This is just one project at Turkish
+Police.There are other projects in other organisa..
+Simon: we should also be kinda mentally
+prepared...
+4/23 Thursday 15:06
+Hi Simon, here is some information for you.
+Let' s discuss how to process it.
+Partners are very volatile about this Police project. So we really need to give them good pricing if we want
+them to bid with us.
+Otherwise they will sllip to DLink.
+DLink is also playing multiple partners since they have won the last year's tender
+4/23 Thursday 15:08
+So for some partners to prefer us, we need to give them better offer
+I suggest we also look into a cheaper Vitesse option as Plan B with a different factory.
+The partner should not know this. This is just for the industrial switch and for this particular tender
+If shit o hits the fan, and we need to kill pricing we may push Plan B
+For 24-ports units in this project, 200 pieces, we still go with one Plan.
+4/23 Thursday 16:17
+Hi, Levent,
+OK, I am checking on Vitesse option
+Okay thanks. We also have some other suppliers we know with Vitesse chipset
+will check
+here
+Okay thanks.We also have some other supplierswe know withVitesse chipset
+I will check what we can do here
+pls also check with other suppliers from your side
+Great plan. Thanks
+4/25 Saturday 18:15
+Hi Levent
+We checked with the Vitesse supplier we know well
+Their offer is similar..
+I guess there is something wrong with the supply chain management
+It should not be this high
+1. pls try to check with the Vitesse suppliers you know
+2. for Saga, our offer will be about Marvell based...
+sorry, this is the best we can do
+4/25 Saturday 18:21
+Hi Simon, thank you. We are proceeding with Saga products. You are our strategic partner.
+Our partners are also not sure whether to participate in. They have some cold feet.
+thanks, Levent
+And sorry for this, as I explained, Marvell model is a little over-standard for this project
+So the price is not competitive...
+The whole tender is not commercially viable. It is just for marketing. Even with that, no one is sure to participate
+We try to associate our brand with quality. So we are happy to go with Marvell
+maybe just commercial model?
+We try to associate our brand with quality. So we are happy to go with Marvell
+maybe just commercial model?
+it should be competitive
+If customer wants cheap then we can also give them products. But not our first choice
+Sure. With commercial we are okay. The quantity is very small too
+I get it
+but for now, industrial switch(Marvell model) is far from being competitive
+This CCTY project is not requiring very high specs.
+Marvell is over standard now
+Truth is, we do not stand a good chance to win though I hate to say this..
+4/25 Saturday 18:26
+commercial model should be competitive
+yes I know the quantity
+its up to your marketing purpose etc.
+Levent KILiC: Sure. With commercial we are okay.
+The quantity is very small too
+we tried here@9
+I am sorry for this..
+4/25 Saturday 19:11
+No worries, Simon. Thank you for all your support.
+4/28 Tuesday 17:45
+Hi, Levent,
+1. today the tender begins, right?
+4/28 Tuesday 17:45
+Hi, Levent,
+1. today the tender begins, right?
+How is it?
+2. I am learning Marvell AC5/AC5+ features with the help of Al
+As I introduced before, we are transitioning from AC3 to AC5
+This is a big leap!
+For now, AC5/AC5+ is the best option considering both cost and performance
+We will stick to it for a very very long time!
+For a long while, it is you talking about projects with Saga
+Any technical feedback from Taylan?
+I mean about our products, about Marvell models? etc.
+He deals with technical issues, right?
+This is also important
+Helps us understand our market positioning!
+Thanks
+4/28 Tuesday 19:40
+Hi Simon,
+Yes today the partners have initial proposal for tender. Waiting for a date for e-auction for open price war.
+I' m not sure even if they proposed us. But I' m following up.
+I have a very aggressive pricing to encourage them choose us. But we will see
+As for technology part, yes Taylan is the guy
+I will ask him to share his opinion with you as soon as possible
+4/28 Tuesday 20:35
+Hi, Levent,
+Just got back from the gym
+1. thanks for your efforts, lets see
+2. yes thanks. some technical feedback is good
+4/29Wednesday17:33
+hi again, Levent,
+just fyi
+Technical Sales White
+Paper.pdf
+PDF
+165.1K
+微信电脑版
+thanks
+4/29 Wednesday 18:45
+Hi Simon. Thanks. Today a bit busy. Will check it out and come back to you
+4/29Wednesday19:32
+Sure thanks
+Levent KILiC: Hi Simon. Thanks. Today a bit busy.
+Will check it out and comeback toyou
+In the gym now
+Man, I envy you
+In the gym nowe
+Man, I envy you
+4/29 Wednesday 19:37
+let' s fit together!
+4/29 Wednesday 19:45
+5/20 Wednesday 00:34
+Hey Simon, I know it's late but you can read in the moning.
+Turkish Police have gone for a small tender on a city based small project.
+I have given again some aggresive pricing to a small partner.
+The tender is on 21st May. Let's see
+Indisrtial switch kit - 36 pieces
+24-port no-PoE - 39 pieces
+I want to make a name in the market. Let's see how this one will end up
+5/20 Wednesday 13:33
+Hi, Levent,
+Thanks for your info and efforts!!
+1. Can we do anything to help?
+2. Some aggressive pricing
+How?
+The purpose is for making a name
+Do you think it is a good idea that we reduce the price?
+2. Some aggressive pricing
+How?
+The purpose is for making a name
+Do you think it is a good idea that we reduce the price?
+I mean cut our profit to the minimal to support you
+5/20 Wednesday 14:09
+Hi Simon, thank you for your support as always.
+Tomorrow 11:00 is the tender. It may take 2 hours due to open negotiations.
+I will know our partner' s results by 13:00 Turkish which will be 18:00 your time. I will keep you posted.
+As for the support, IF we win this I will ask for your support in keeping the prices same as the big tender for now.
+We will discuss after the tender
+5/20 Wednesday 14:29
+OK, thanks
+1. what I meant is a long-term price support
+2. on Monday evening, my supervisor Peter(the guy is also in the previous after-sales support group)
+talked with me about Turkey market
+I have not made some solid progress yet by now
+So we think maybe we minimize the profit to open up the market or something
+so thats what i said, a long-term price support
+We hope this could be of some help
+5/20 Wednesday 14:36
+Right. I got you... That's great... I think I should bring some orders to you before I ASK for soemthing. This
+would be fair. So I am just pushing to close some orders asap
+5/20 Wednesday 14:44
+Right. I got you... That's great... I think I should bring some orders to you before I ASK for soemthing. This
+would be fair. So I am just pushing to close some orders asap
+5/20 Wednesday 14:44
+haha
+not like that
+Our strategy is to focus on limited valuable clients.
+You are one of them
+We are trying to find out ways to close more orders and enhance the presence for both parties
+Ways: it could be prices, services and technical support etc.
+2. Some aggressive pricing
+How?
+this is it
+if price could be a big help in this or future orders, lets do it
+as long as it helps
+or we will be stuck here
+efforts made, but no good outcome
+absolutely on the same page. I am pushing for some quick orders as soon as possible. So trying hard on
+this end. Let's see
+5/20 Wednesday 14:51
+1. thanks for this
+2. actually we meant a long-term price support!
+long-term means anytime that price could helps or you need a discount etc.
+As I explained before, we are switching from Marvell AC3 to AC5 for full managed switches
+this is almost done
+We are also working hard to develop some new software features
+So its like, we put in decent efforts to build our Marvell Eco
+we would like to loop in some very good clients like Angora to move forward together
+We are also working hard to develop some new software features
+So its like, we put in decent efforts to build our Marvell Eco
+we would like to loop in some very good clients like Angora to move forward together
+its more than orders
+as long as it helps, we will try our best
+it seems that we did not do enough before, hahaha
+5/20 Wednesday 14:52
+5/20 Wednesday 15:10
+thanks for this Simon... Appreciate that. And I promise we will make best effort to utilise this opportunity
+5/20 Wednesday 15:15
+I lets make it good!
+5/22 Friday 18:51
+Hi Simon, our partner ended up 3rd on the tender with a small difference with the second
+5/22 Friday 20:41
+Hi Levent
+Just got back from the gym
+a small difference?
+Hi Levent
+Just got back from the gym
+a small difference?
+5/22 Friday 21:39
+W券 congrats on the gym
+No not a small difference. It was again a physical security project with cameras.
+I understand Dahua got it
+Dahua won it?
+Yes with cameras and switches
+Our partner went with our switches and Hikvision cameras
+Security project... Dahua is just too strong
+6/5 Friday 14:40
+Hey Simon, how are you doing?
+We have a new lead. It is a bit long shot. But in my humble opinion it is a grat niche project.
+Send

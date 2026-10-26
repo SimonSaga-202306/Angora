@@ -1,0 +1,368 @@
+# SOURCE: Weixin Image_2026-09-23_223957_115.png
+# SIZE: 1545x18596  SLICES: 18
+############################################################
+Levent KILIC
+2024-11-27 22:54
+That' s much better Simon. Some can keep track of
+ok, thanks
+2024-12-2 11:36
+Good morning, Levent,
+2 things
+1, about the 176pcs switches, when can it be finalized?
+There are too many orders coming in, our production dept are now evaluating leadtime for the FINALIZED
+and POTENTIAL bulk orders
+Best if we could close it within this week
+2, About the access points, do you need neutral devices or ones with supplier' s logo?
+We talked with the supplier and has ordered 2 neutral units already(as they say, the leadtime is about 1
+week, but ready units with their logo)
+So either type, we can do fast shipment.
+Please let me know your feedback.
+Thank you.
+2024-12-2 12:14
+Hi  Simon,
+1- we plan to finalize the order for 176 units Tuesday. The partner is signing a contract with the end user
+and back to back with us.
+2- we plan to transfer the money today or Tuesday morning for the sample units. So fast shipment is more
+important. Units with logo are okay
+2024-12-2 12:25
+Thanks for your info, Levent .
+I will do my part here
+2024-12-2 12:30
+I will do my part here
+2024-12-2 12:30
+Thank you for your support
+2024-12-3 15:35
+Hi Simon, how are you doing today ?
+2024-12-3 15:35
+We have a new inquiry from a partner against Maipu switches. Can you pls let me know the following
+we will quote 3 options:
+48-PoE+ L2 managed
+48-PoE+ L2+ managed
+48-PoE+ L3 managed
+All with 760w power budget
+I see we only have 440w power budget in 48-ports. Do we have an option for 760w?
+Hi, Levent
+thanks for your info
+is this about competing with Maipu brand?
+Levent KILiC: We have a new inquiry from a
+partner against Maipu switches. Can you pls let .
+yes
+Levent KILiC: We have a new inquiry from a
+partner against Maipu switches. Can you pls let .
+yes
+Levent KILIC: I see we only have 440W power
+budget in 48-ports. Do we have an option for 76...
+2024-12-3 15:41
+default is 440w, 850w is optional(let me check internally the enclosure and power supply)
+Yes, it is against Maipu S3230, S3330 and S4340. They have 760W power budget
+great to have this info, let me study
+power budget is not a big issue
+Levent KILIC: Yes, it is against Maipu S3230, S3330
+and S4340. They have 760W power budget
+Great... Can you pls let me know procing for 150 pieces. We want to outbid Maipu in this offer.
+all 3 options
+PoE+ and 850Wpower supply
+but as I checked, maipu switches support stackable
+ours dont
+no problem... We can explain...
+OK
+no problem... We can explain..
+OK
+You recalled a message.
+yes, it is options... so it is a project of 150 pieces. The customer wants to see pricing for 3 options to chosse from
+i see, thanks
+let me check and reply soon
+thanks
+1, how is payment going?
+2, any news about the 176pcs switches?
+2024-12-3 15:47
+We are waiting to sign contract with the partner. They will pay an advance payment with the signature and
+we will transfer all advance payment to you.
+ok, thanks...
+2024-12-3 16:08
+Hi again, Levent
+yes, 850W power adapter is ready in stock(but not as many as 150pcs)
+so lets say if you win this project, it takes about 2 months to get ready 150pcs
+about pricings, do I only send device price or also include shipping cost?
+no problem about timing for now.
+plssendincludingshippino
+ensions and weight.
+about pricings, do I only send device price or also include shipping cost?
+no problem about timing for now.
+pls send including shipping. I assume physically all same dimensions and weight.
+2024-12-3 16:13
+So it is software difference. Pricing is important
+got it, thanks, I will let u know soon
+2024-12-3 16:23
+thanks
+2024-12-3 16:52
+Quotation_48 port switch
+150pcs.pdf
+PDF
+122.0K Not Downloaded
+微信电脑版
+pls check
+do I send a copy on email?
+2024-12-3 17:17
+Hi Simon, an email would be great. thank you
+The prices a bot more than expected, but let's see what the customer will reply
+Do we have a L2 only option ?
+May be RealTek chipset ?
+Do we have a L2 only option?
+May be RealTek chipset ?
+OK
+Levent KILlC: Hi Simon, an email would be great.
+thank you
+2024-12-3 17:22
+OK, pls share budgetary prices, lets see
+Levent KILlC: The prices a bot more than
+expected, but let's see what the customer will re...
+there is only L2+ and L3
+for Realtek chip, its also like this, because its 48 port+ 10G fiber
+L2 features should be good in most cases, that is L2+
+I see, that's okay. It must be a marketing trick on Maipu side to position low end products...
+No worries
+I guess so
+Levent KILlC: I see, that's okay. It must be a
+marketing trick on Maipu side to position low en...
+if you notice that for industrial managed switches
+there are L2, L2+ and L3
+but for L2 models, just a few options and limited features?
+its applicable in certain projects, not generally used
+2024-12-3 17:34
+We have some intel about Maipu prices. In order to outbid them, We need fhe following FOB proces from
+you : $225, $300, $335. Since we do not have a L2 option, we will quote them L2+ as L2 and will see what
+they will say
+We have some intel about Maipu prices. In order to outbid them, We need fhe following FOB proces from
+you : $225, $300, $335. Since we do not have a L2 option, we will quote them L2+ as L2 and will see what
+they will say
+Well..
+its difficult(honestly impossible) to do this
+2024-12-3 17:39
+for L3 switch, in the first order, you bought a piece for testing
+that is 520usd/pc, a discounted price
+this time, its a different power budget
+$335 is way too low...
+Let's test the customer reaction and get back you soon
+2024-12-3 17:44
+ok, I shared an email just now
+thanks.
+2024-12-3 17:51
+Thank you
+2024-12-10 13:39
+Hi Simon, how are you doing today
+Just wanted to share some updates
+2024-12-10 13:39
+Hi Simon, how are you doing today
+Just wanted to share some updates
+2024-12-10 13:39
+1- Turk Telekom order still pending. They cannot solve their paperwork internally. We are following up with
+some back channels communication.
+2- sample order pending payment from partner. Planning to transfer to you this week
+3- 16-port project is for defense. We are working on closing it with an OEM partner. Will keep you posted
+4- The project for 75 pieces of 16-port is pending order and advance payment. We will transfer the
+advance to your side as soon as we have it
+Hi, Levent. I am good, hope you are doing good too
+thanks for the info
+75 pieces?
+is this a new project?
+Levent KILlC: 4- The project for 75 pieces of 16-
+port is pending order and advance payment. We..
+That' s the project we will transfer payment for.
+Project 3 is the one where I asked for very challenging prices.
+2024-12-10 13:46
+OK
+Levent KILlC: That' s the project we will transfer
+payment for.
+is this about the 48-port switch against Maipu or something?
+Levent KILlC: That' s the project we will transfer
+payment for.
+is this about the 48-port switch against Maipu or something?
+Levent KILlC: Project 3 is the one where I asked for
+very challenging prices.
+anyway, we are prepared here
+You are correct.
+it is 48-port. Not 16-port
+the problem will be about leadtime considering payment date and other incoming orders
+We are working on it too
+Yes we will plan accordingly
+Simon: the problem willbe about leadtime
+considering payment date and other incoming o..
+thanks for your efforts
+Ok, pls just let me know if we coul help in any way
+Thanks for your support as always
+actually we are expecting to have the 1st bulk order
+I can internally get more favorable terms for you
+2024-12-10 13:51
+That' s great. We have a great sales funnel for 2025. All based on Saga products. Developing all business
+on Saga solutions now
+2024-12-10 13:51
+That' s great. We have a great sales funnel for 2025. All based on Saga products. Developing all business
+on Saga solutions now
+Stacking is the only challenge. But we will see about that
+thanks for your info and trust
+Levent KILlC: That' s great. We have a great sales
+funnel for 2025. All based on Saga products. Dev...
+let me check what we can do
+Levent KILiC: Stacking is the only challenge. But
+we will see about that
+2024-12-10 13:58
+Thanks
+2024-12-11 15:24
+Hi Simon, how are you doing today? I just sent you an email. Can you pls check the mail at your convenience.
+Hl, Levent. I am now writing a reply on yesterday's email from Taylan
+2024-12-11 15:25
+let me check, thanks
+I briefly checked the content
+The problem is about the 480W PoE budget
+thank you... Turkish partner keeping you busy
+the standard budget is 240w
+480Wis
+thank you... Turkish partner keeping you busy
+the standard budget is 240w
+480W is fine, but we need to change the PCB and dissipation method
+I will let u know soon
+haha, that is business
+Levent KILlC: thank you.. Turkish partner keeping
+you busy
+100% correct
+Simon: haha, that is business no easy money
+2024-12-11 15:33
+soon I will make a reply on both emails(last night and just now)
+thanks
+2024-12-11 16:10
+thanks
+2024-12-11 16:22
+just imade d reply to both emails, pls check
+2024-12-11 16:41
+Thanks Slmon, I'm afraid the costs are above the project budget.
+We may stick with the previous standard model
+Thanks Slmon, I'm afraid the costs are above the project budget.
+We may stick with the previous standard model
+sorry?
+is this 16 port 240w(industrial) or commercial poe(280w)?
+Levent KILIC: We may stick with the previous
+standard model
+16 port 240w(industrial)
+my mistake
+OK, thanks
+I will send a quotation soon
+2024-12-11 16:50
+thank you
+2024-12-11 17:27
+pls check our quotation on email, thanks
+2024-12-11 18:23
+Thank you Simon. all good. Now we will revise our offer to poartner and try to close it asap
+Ok, thanks. M
+2024-12-13 12:14
+Ok, thanks.
+2024-12-13 12:14
+Hi Simon, how are you doing today? I just sent you an email. Can you please check it when you have time
+2024-12-13 12:35
+Hi, Levent. Thanks
+Having lunch now
+I will check soon and let u know
+2024-12-13 12:56
+Bon appetit.  enjoy your lunch. No rush
+2024-12-13 12:56
+its done, thanks
+I am thinking about a solution now
+will reply soon, thanks _.
+2024-12-13 13:13
+Thanks
+2024-12-13 14:41
+I made a reply, pls check .
+2024-12-13 16:13
+Thank you
+2024-12-13 16:13
+Thank you
+2025-1-7 16:33
+Hi, Levent
+This is to let you know that
+Our holiday is coming
+1, we will stop receiving order by this Friday
+2, holiday will be over on 5th, Feb. Thats to say, we resume production from 6th
+Hi Simon, thank you for the update.
+We plan toplace an order this week before Friday
+Will keep you posted on the progress
+OK, thanks
+is it a small order, right?
+Wehavesome lateordersfromlastyear
+Both small and big order
+The small order for samples and 175 pieces order for 16-PoE version
+Simon: OK, thanks is it a small order, right?
+We are working with client for 500 pieces 8-port industrial order too
+But this is probably after your break
+OK
+But this is probably after your break
+OK
+our holiday starts from 22th
+We also need to organize warehouse materials
+So only a week for production
+Thats why this Friday is the deadline
+thanks for the info
+its about production time(shipping)
+2025-1-7 16:38
+lets see
+great. thanks...
+we should plan coming and visiting you this year some time
+OKS
+2025-1-8 15:36
+Hi Slmon, just got your email. Thank you
+When will you open the factory back?
+It looks like the scheduke is too tight :-(
+for sea transportation.
+It looks like the scheduke is too tight :-(
+for sea transportation.
+open the factory back?
+do you mean resume production after holiday is over?
+Levent KILlC: When will you open the factory back
+yes, a little
+Levent KILlC: for sea transportation.
+thats why I highlighted 8 weeks and other questions
+2025-1-8 15:38
+if this is mandatory and put in the contract, honestly sea shipment is not an option
+right :-(
+because we do not know much info about your contract terms&info
+so in the reply email, I just split the production and shipment
+production time is kinda fixed(4 weeks)
+In the contract, it is maximum 56 days delivery time after order and 1% penalty every day delayed.
+for other info and decision, we can discuss it and finally up to you based on your contract
+So we need to balance the penalty and delivery cost
+sea shipment is dead then
+Levent KILlC: In the contract, it is maximum 56
+days delivery time after order and 1% penalty ev.
+sea shipment is dead then
+Levent KILiC: In the contract, it is maximum 56
+days delivery time after order and 1% penalty ev...
+for delivery cost, lets find out more options
+sea shipment just takes too long and too many uncertain issues
+2025-1-8 15:44
+The client expects a delivery in 8 weeks maximum from the date of the order.
+Whats the date of the order?
+what does it mean?
+We expect to sign the contract (ie. order) this Friday
+then it starts counting?
+yes
+well..
+our holiday is about 2 weeks long
+before and after it, for quite some days, the production is not as efficient as usual
+I understand. Let's check air freight options then...
+example: holiday starts from 22th, maybe 17th is the last working day for many
+they just take a few days off and go back home in advance
+this is the most important holiday in China, its about family reunion..
+OK, let me check some more options
+Levent KILlC:I understand. Let's check air freight
+this is the most important holiday in China, its about family reunion..
+OK, let me check some more options
+Levent KILlC: I understand. Let's check air freight
+options then...
+we have at least 2 days before your contract
+Chinese New Year right, the year of the snake this year ?
+2025-1-8 15:49
+yes
+Unit weight: 1Kg+1.2Kg+packing box=2.5Kg
+that is the customized packing box
+Standard weight is 20Kg for each carton
+That is 8 units/pairs in each carton(this is also a customized one)
+Send
