@@ -1,0 +1,29 @@
+# Angora Networks - page inventory via WordPress REST API
+# source: https://www.angoranetworks.com/wp-json/wp/v2/pages?per_page=100&_fields=id,date,modified,link,title
+# fetched_at: 2026-10-27T01:24Z    rows: 24 (complete - single page response)
+# columns: id <TAB> date <TAB> modified <TAB> title <TAB> link
+1804	2026-03-24T11:08:19	2026-03-24T11:19:19	Hitit Network Switch Ailesi	https://www.angoranetworks.com/hitit-yerli-network-switch-ailesi/
+1781	2026-01-15T09:48:09	2026-01-15T10:20:01	Synapse Network Switch Ailesi	https://www.angoranetworks.com/synapse-network-switch-ailesi/
+1775	2025-06-11T13:12:00	2025-06-11T13:31:57	Network Switch Ailesi	https://www.angoranetworks.com/network-devices/
+1648	2023-01-03T16:09:08	2023-01-03T16:09:08	Booking Details	https://www.angoranetworks.com/booking-details/
+1647	2023-01-03T16:09:08	2023-01-03T16:09:08	Submit Event	https://www.angoranetworks.com/submit-event/
+1645	2023-01-03T16:09:07	2023-01-03T16:09:07	User Profile	https://www.angoranetworks.com/user-profile/
+1644	2023-01-03T16:09:07	2023-01-03T16:09:07	Booking	https://www.angoranetworks.com/booking/
+1641	2023-01-03T16:09:06	2023-01-03T16:09:06	Performers	https://www.angoranetworks.com/performers/
+1152	2022-12-03T21:01:04	2022-12-03T21:11:17	Özgün Tasarım (OEM/ODM) Hizmeti	https://www.angoranetworks.com/ozgun-tasarim-oem-odm-hizmeti/
+1137	2022-11-24T21:54:06	2023-12-06T15:15:33	Arı Yerli SD-WAN Güvenlik ve Servis Donanımları	https://www.angoranetworks.com/ari-sd-wan-guvenlik-ve-servis-donanimlari/
+1091	2022-10-01T22:15:44	2022-10-01T22:37:17	İş Ortakları	https://www.angoranetworks.com/is-ortaklari/
+1069	2022-09-25T22:49:49	2022-10-04T11:13:14	Broşürler	https://www.angoranetworks.com/brosurler/
+845	2021-10-03T15:58:03	2023-12-06T15:15:21	Karınca Yerli Network Packet Broker	https://www.angoranetworks.com/yerli-network-packet-broker/
+752	2021-05-03T16:51:43	2022-12-29T16:41:14	İletişim	https://www.angoranetworks.com/iletisim/
+452	2021-03-07T16:57:48	2021-08-19T12:30:11	İş Ortaklığı Form	https://www.angoranetworks.com/partners/
+353	2021-01-10T13:51:51	2022-06-05T18:08:06	Gizlilik politikası	https://www.angoranetworks.com/gizlilik-politikasi/
+327	2021-01-07T13:39:41	2021-01-18T20:02:49	Submarine	https://www.angoranetworks.com/submarine/
+319	2021-01-02T22:58:47	2023-12-06T15:17:09	Angora NMS	https://www.angoranetworks.com/angora-nms/
+316	2021-01-02T18:44:02	2023-12-06T15:14:29	Iris SFP Ailesi	https://www.angoranetworks.com/iris-sfp-ailesi/
+298	2021-01-01T16:13:11	2026-04-03T07:51:44	Verge Yerli Network Switch Ailesi	https://www.angoranetworks.com/verge-network-switch-serisi/
+275	2020-12-31T17:49:31	2021-05-02T23:48:43	Hizmetlerimiz	https://www.angoranetworks.com/hizmetlerimiz/
+13	2017-02-03T08:25:45	2022-10-01T21:58:10	Angora Networks	https://www.angoranetworks.com/about/
+11	2017-02-03T08:25:31	2021-01-01T15:53:58	Haberler	https://www.angoranetworks.com/blog/
+9	2017-02-03T08:25:20	2017-02-03T08:25:20	Portfolio	https://www.angoranetworks.com/portfolio/
+2	2017-02-01T13:13:46	2025-04-16T10:44:31	Anasayfa	https://www.angoranetworks.com/

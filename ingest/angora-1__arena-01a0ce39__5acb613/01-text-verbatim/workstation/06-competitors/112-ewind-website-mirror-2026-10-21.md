@@ -1,5 +1,8 @@
 # Ewind 官网全量爬取档案（2026-10-21，第 24 轮）
 
+> **[r39 补注 · 2026-10-27 · 只增不删]** 正文"本域名持续不可达"的陈述**已过期**：第 39 轮 `fetch_page` 直连 ewindnet.com **全部成功**（首页 / sitemap 索引 / 产品·页面·展会 sitemap / WP REST `product`+`posts` / 两个产品页）。本轮结果见 `ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/`（16 文件）：**站点自 2026-10-21 基线以来零新增**（最新产品 `modified` 2026-08-07、最新文章 2026-06-11、展会 sitemap 停 2025-11-05）；首次拿到 EW-S57948QM 与 EW-S1710FG-AP 的完整规格表、153 个 SKU 与 125 篇文章的逐条日期。另更正：产品 URL 必须带 `-1` 尾缀，裸 slug 404 是我方拼法错误。
+
+
 > 任务来源：用户第 24 轮指令「你把Ewind网站爬下来入库吧 必要时开workflow去爬」
 > **抓取方法（workflow）**：ewindnet.com 直连 fetch 3 次全失败（OSS InvalidAccessKeyId 代理路由故障，本域名持续不可达）→ 改用 **web_search `site:ewindnet.com` 索引爬取 workflow**：6 轮定向检索（产品 PoE/unmanaged/industrial/2.5G-10G/media converter/ODM + 新闻/公司面），每轮返回带**完整规格表**的索引快照（pageAge = Google 抓取时间）。另含 r23 已抓的官方新闻页 snippet。
 > **数据边界（如实）**：① 官网 = B2B 询价模式，**不列价格**（价格锚点见 atommarket 土耳其零售，r23 已录 110 行 15）② 部分型号仅得摘要规格（未达整页规格表）③ 类目 SKU 总数：10G Managed PoE 类目 = 17 款（索引页"Showing 1–12 of 17"）、100M/1000M Unmanaged 类目 = 15 款（"1–12 of 15"），其余类目总数未穷举 ④ WiFi 类目在导航中存在但本轮未展开（0 产品快照）。

@@ -1,0 +1,23 @@
+# source: https://www.ewindnet.com/page-sitemap.xml   fetched_at: 2026-10-27T01:20Z
+# capture: rendered text, CHUNK 0 of 3 (image URLs stripped here; page URLs + lastmod kept verbatim order)
+
+/home/                          lastmod 2021-12-25T03:51:08+00:00
+/cart/                          lastmod 2021-12-25T16:17:59+00:00
+/checkout/                      lastmod 2021-12-25T16:17:59+00:00
+/my-account/                    lastmod 2021-12-25T16:17:59+00:00
+/%e5%bf%83%e6%84%bf%e5%8d%95/  lastmod 2021-12-25T16:18:00+00:00
+/history-achievements/          lastmod 2022-01-14T03:20:39+00:00
+/company-culture/               lastmod 2022-01-14T06:45:55+00:00
+/oem-odm/                       lastmod 2022-01-14T08:41:43+00:00
+/sample-page/                   lastmod 2022-01-18T03:11:12+00:00
+/product/                       lastmod 2022-03-04T13:47:19+00:00
+/privacy-policy-2/              lastmod 2022-07-06T14:09:28+00:00
+/%e9%a6%96%e9%a1%b5/            lastmod 2024-05-18T04:49:59+00:00
+/thank-you/                     lastmod 2024-06-11T12:59:38+00:00
+/ewind-history/                 lastmod 2024-07-05T06:56:20+00:00
+/products-2/                    lastmod 2024-07-15T04:52:38+00:00
+/testing-03/                    lastmod 2024-07-22T14:56:24+00:00
+/test2/                         lastmod 2024-07-23T13:44:50+00:00
+/automation-machine-building/   lastmod 2024-07-30T06:27:36+00:00
+# chunk 0 ends (mid /automation-machine-building/ image list)
+# chunks 1..2 not captured. NB: uncrawlable-by-design pages exist (/cart/, /checkout/, /my-account/).

@@ -1,0 +1,50 @@
+# source: https://www.ewindnet.com/product-sitemap.xml   fetched_at: 2026-10-27T01:20Z
+# capture: rendered text, CHUNK 0 of 10 only (fetcher truncates at ~6k chars).
+# The authoritative, complete product inventory of this round is api/wp-api-products.tsv
+# (WP REST, 2 pages = 153 products, each with date+modified). This file keeps the
+# sitemap's own ordering/lastmod for the products it happens to cover.
+#
+# observed pattern: every product entry is  loc (/product/<slug>) + lastmod (+ image upload URL)
+# sample (verbatim order): 
+/product/                                                         lastmod 2026-08-26T09:42:11+00:00
+/product/8-port-100m-unmanaged-poe-switch-with-21000m-sfp-slot-1/ lastmod 2024-03-08T10:22:45+00:00
+/product/19-ports-poe-switch-with-gigabit-rj45-and-sfp-uplink-1/  lastmod 2024-03-08T10:26:15+00:00
+/product/24-port-100m-poe-switch-with-11000m-rj4511000m-tp-sfp-combo-port-1/  lastmod 2024-03-08T10:27:12+00:00
+/product/16-port-100m-poe-switch-with-21000m-rj4511000m-sfp-port-wholesale-1/ lastmod 2024-03-08T10:31:48+00:00
+/product/good-price-6-ports-full-gigabit-poe-switch-with-2sfp-slot-1/        lastmod 2024-03-08T11:43:56+00:00
+/product/8-port-2-5g-managed-industrial-poe-switch-1/                        lastmod 2024-03-12T03:13:36+00:00
+/product/30w-1fe-poe1fe-ac-single-port-100m-poe-injector-support-ieee802-3af-1/ lastmod 2024-03-12T03:44:11+00:00
+/product/10-100m-single-port-poe-injector-with1x-dc-input-port-dc-1232v-af-1/   lastmod 2024-03-12T03:49:43+00:00
+/product/10-100m-single-port-poe-injector-with1x-dc-input-port-dc-1232v-at-1/   lastmod 2024-03-12T03:50:11+00:00
+/product/100m-dual-port-dc-poe-injector-1/                                    lastmod 2024-03-12T03:50:38+00:00
+/product/100m-dc-poe-injector-adapter-with-single-poe-60w-1/                  lastmod 2024-03-12T03:51:05+00:00
+/product/100m-dc-poe-injector-adapter-with-single-poe-90w-1/                  lastmod 2024-03-12T03:51:40+00:00
+/product/1000m-poe-injector-with-ac-single-poe-port-5-1/                      lastmod 2024-03-12T06:12:31+00:00
+/product/1000m-poe-injector-with-ac-single-poe-port-4-1/                      lastmod 2024-03-12T06:21:27+00:00
+/product/1000m-dual-port-dc-poe-injectorew-pse202g-dc-af-1/                   lastmod 2024-03-12T06:24:10+00:00
+/product/1000m-dc-poe-injector-adapter-with-single-poe-60w-1/                 lastmod 2024-03-12T06:29:01+00:00
+/product/1000m-dc-poe-injector-adapter-with-single-poe-90w-1/                 lastmod 2024-03-12T06:29:20+00:00
+/product/100m-poe-splitter-cable-with-type-c-to-rj45-port-1/                  lastmod 2024-03-12T08:22:07+00:00
+/product/100m-poe-splitter-cable-13w-1/                                       lastmod 2024-03-12T08:23:56+00:00
+/product/100m-poe-splitter-cable-25-5wew-pd101f-at-12-1/                      lastmod 2024-03-12T08:24:20+00:00
+/product/100m-micro-usb-poe-splitter-cable-5v-2a-1/                           lastmod 2024-03-12T08:26:19+00:00
+/product/100m-poe-splitter-cable-25-5w-1/                                     lastmod 2024-03-12T08:27:10+00:00
+/product/100m-poe-splitter-cable-15-4w-1/                                     lastmod 2024-03-12T08:30:45+00:00
+/product/1000m-poe-splitter-cable-15-4w-1/                                    lastmod 2024-03-12T08:36:03+00:00
+/product/1000m-single-port-poe-splitter-optional-power-output-12v-5v-poe-splitter-ew-pd111g-at-1/ lastmod 2024-03-12T08:36:35+00:00
+/product/1000m-single-port-poe-splitter-optional-power-output-12v-5v-poe-splitter-ew-pd111g-af-1/ lastmod 2024-03-12T08:38:12+00:00
+/product/10g-industrial-sfp-single-mode-dual-fiber-sfp-module-1310nm-10km-1/  lastmod 2024-03-12T08:57:45+00:00
+/product/10g-industrial-sfp-multi-mode-dual-fiber-sfp-module-850nm-300m-1/    lastmod 2024-03-12T08:58:04+00:00
+/product/1-25g-industrial-single-mode-dual-fiber-sfp-module-1310nm-20km-1/    lastmod 2024-03-12T08:58:31+00:00
+/product/10g-sfp-single-mode-dual-fiber-sfp-module-1310nm-10km-1/             lastmod 2024-03-12T08:58:56+00:00
+/product/10g-sfp-multi-mode-dual-fiber-sfp-module-850nm-300m-1/               lastmod 2024-03-12T08:59:23+00:00
+/product/240w-52v-power-adapter-1/                                            lastmod 2024-03-12T09:12:17+00:00
+/product/commercial-standard-power-adapter-power-supply-for-poe-switch-ew-dp120w-52-1/ lastmod 2024-03-12T09:13:15+00:00
+/product/commercial-standard-power-adapter-power-supply-for-poe-switch-ew-dp60w-52-1/  lastmod 2024-03-12T09:13:52+00:00
+/product/24-ports-full-gigabit-poe-switch-with-rj45-and-sfp-uplink-port-1/    lastmod 2024-03-12T09:49:05+00:00
+/product/400w-24-ports-full-gigabit-poe-switch-with-rj45-and-sfp-uplink-port-1/ lastmod 2024-03-12T09:49:28+00:00
+/product/11-port-gigabit-poe-switch-with-build-in-power-supply-1/             lastmod 2024-03-12T09:59:29+00:00
+/product/36-ports-layer-3-managed-poe-switch-with-10g-uplink-2-1/             lastmod 2024-03-12T10:08:16+00:00
+/product/52-ports-layer-3-managed-poe-switch-with-10g-uplink-1/               lastmod 2024-03-12T10:08:39+00:00
+# ---- chunk 0 ends here (fetcher cut mid-entry) ----
+# chunks 1..9 NOT captured this round; use api/wp-api-products.tsv for the full 153-item list.

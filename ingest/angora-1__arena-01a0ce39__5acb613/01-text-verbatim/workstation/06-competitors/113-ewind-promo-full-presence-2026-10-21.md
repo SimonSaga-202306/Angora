@@ -1,5 +1,9 @@
 # Ewind 宣传面/全渠道档案（2026-10-21，第 25 轮）
 
+> **[r39 补注 · 2026-10-27 · 只增不删]** 本档案的**宣传面渠道本轮未复核**：Alibaba 店铺、Facebook、LinkedIn、ZoomInfo、12 个语言子域（`ru.ewindnet.com` fetch 失败）、Malatya 当地媒体均**未在 2026-10-27 重新访问**。引用本文件的价格锚点与社媒矩阵时须标注"2026-10-21 快照，未复核"。
+> 本轮已复核的**只有官网本体**：自 2026-10-21 以来**零新增**。完整对照见 `06-web-crawl-2026-10-27/01-DELTA-2026-10-21-to-2026-10-27.md`。
+
+
 > 任务来源：用户第 25 轮指令「他们网站信息都爬完了？如果爬完了就去爬他们的宣传网站 反正只要关于EWIND的信息都要爬 都入库了」
 > 承接：`112-ewind-website-mirror-2026-10-21.md`（第 24 轮 = ewindnet.com 英文主站五大产品线 90+ SKU）
 > **抓取方法**：直连 fetch 持续 OSS 故障 → `site:ewindnet.com` 索引 workflow 扩展（本轮 10 轮检索：ru 站/WiFi 线/B2B 平台/Alibaba 店铺/补齐缺口/社媒/Facebook/LinkedIn/展会/多语言站），覆盖 www + **12 语言子站**（en/ru/zh-cn/es/no/nl/ko/el/it/pt/fr/de）+ **Alibaba 宣传店铺** + Facebook/LinkedIn/ZoomInfo + 展会官网 + 乌克兰分销页。
