@@ -1,0 +1,15 @@
+# Angora 文章 REST —— 2026-11-01 复抓
+# source: /wp-json/wp/v2/posts?per_page=30&_fields=id,date,modified,slug    capture: 2026-11-01T05:30Z
+# 结果：10 条，与 r39 完全一致，0 条新增。最新真实发布仍是 2023-12-06（id 1746）；
+# 其余 9 条的 modified 全部 = 2026-06-15T12:0x~12:2x（CMS 迁移批量戳，不是重新发布）。
+id	date	modified	slug
+1746	2023-12-06T14:27:03	2026-06-15T12:11:17	angora-networks-veri-diyotu-cozumunde-ezber-bozan-modbus-ve-opc-protokolu-destegini-tanitti
+1101	2022-10-02T11:43:33	2026-06-15T12:09:04	gorunurluk-guvenlik-maliyet-packet-broker
+803	2021-09-01T14:26:19	2026-06-15T12:09:05	angora-networks-cisco-ise-entegrasyonu-tamamlandi-2
+777	2021-06-25T17:48:14	2026-06-15T12:09:05	angora-networks-cisco-ise-entegrasyonu-tamamlandi
+419	2021-02-12T17:35:26	2026-06-15T12:09:05	angora-networks-ve-knowledge-club-yetkili-egitim-merkezi-icin-protokol-imzaladi
+405	2021-01-29T12:55:18	2026-06-15T12:09:06	artik-tgsk-uyesiyiz
+278	2021-01-01T15:24:36	2026-06-15T12:09:06	saglikli-basarili-ve-mutlu-bir-yeni-yil-dileriz
+62	2020-11-24T11:18:00	2026-06-15T12:23:07	nam-nec-felis-et-nibh-posuere
+324	2019-11-16T17:20:00	2026-06-15T12:09:07	angora-networks-egm-trafik-sekillendirme-gereklilik-testlerini-gecti
+64	2017-02-03T11:18:36	2026-06-15T12:09:07	ut-in-laoreet-sapien-eu-amet

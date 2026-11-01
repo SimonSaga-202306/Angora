@@ -1,0 +1,19 @@
+# Ewind 文章 REST 前 15 条  capture: 2026-11-01T05:30Z
+# source: /wp-json/wp/v2/posts?per_page=15&_fields=id,date,modified,slug
+# 与 r39 对比：完全一致，最新仍是 10678 / 2026-06-11
+id	date	modified	slug
+10678	2026-06-11T17:24:42	2026-06-11T17:24:42	elevate-your-communication-networks-with-ewind-your-reliable-poe-ethernet-solutions-partner
+10600	2026-05-22T17:28:32	2026-05-22T17:28:32	what-is-a-core-switch-functions-and-difference-overnormal-switch
+10594	2026-05-20T11:46:14	2026-05-20T14:02:46	project-case-wansheng-academy-residential-security-network
+10542	2026-04-29T15:54:55	2026-04-29T16:14:32	ewind-ew-s3936gm-product-overview
+10532	2026-04-21T17:02:15	2026-04-21T17:12:36	stop-juggling-power-supplies-start-managing-everything-from-the-cloud
+10466	2026-01-30T18:06:34	2026-01-30T18:06:34	transform-your-business-a-deep-dive-into-ai-driven-network-switches
+10398	2026-01-19T16:56:45	2026-01-19T16:59:12	(when-your-switch-fails-after-2-years-who-pays-for-the-downtime)
+10333	2025-12-27T16:02:57	2025-12-27T16:05:21	poe-switches-for-outdoor-surveillance-5-essential-strategies-for-an-unbreakable-network
+10110	2025-11-05T15:10:42	2025-11-05T15:14:00	ewind-powers-smarter-connectivity
+9982	2025-09-28T16:25:41	2025-09-28T16:25:41	ewind-at-intersec-saudi-arabia-2025-discover-next-gen-network-switches-in-riyadh
+9979	2025-09-28T16:05:20	2025-09-28T16:05:20	ewind-extend-a-warm-invitation-to-you-to-visit-our-booth-at-the-upcoming-intersec-saudi-arabia
+9972	2025-09-16T18:10:18	2025-09-16T18:17:14	ewind-at-cpse-2025-lets-meet-in-shenzhen-2
+9967	2025-09-16T17:35:44	2025-09-16T18:21:37	ewind-at-cpse-2025-lets-meet-in-shenzhen
+9963	2025-09-09T18:28:53	2025-09-09T18:28:53	24-port-managed-poe-switch-with-dual-sfp-revolutionize-your-network-with-remote-image-app-control
+9952	2025-08-26T17:35:35	2025-08-26T17:35:35	classification-of-network-switches

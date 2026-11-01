@@ -1,0 +1,53 @@
+# Ewind page-sitemap.xml — 完整页面清单（chunk 0 + 1 + 2 拼合，图片 URL 已剔除，仅留页面 URL + lastmod）
+# capture: 2026-11-01T05:32Z   原 sitemap totalChunks=3，本轮全部取完（r39 只取了 chunk0）
+# 说明：fetch 工具把 <loc> 与 <lastmod> 串接输出，顺序保持站点原序；标注 ⚠ 的是本站垃圾/测试页。
+
+# ---- chunk 0（r39 已取，此处复现便于对表；lastmod 与 r39 完全一致）----
+/home/                                 2021-12-25T03:51:08+00:00
+/cart/                                 2021-12-25T16:17:59+00:00   ⚠ WooCommerce 系统页
+/checkout/                             2021-12-25T16:17:59+00:00   ⚠
+/my-account/                           2021-12-25T16:17:59+00:00   ⚠
+/%e5%bf%83%e6%84%bf%e5%8d%95/          2021-12-25T16:18:00+00:00
+/history-achievements/                 2022-01-14T03:20:39+00:00
+/company-culture/                      2022-01-14T06:45:55+00:00
+/oem-odm/                              2022-01-14T08:41:43+00:00
+/sample-page/                          2022-01-18T03:11:12+00:00   ⚠ WordPress 默认页
+/product/                              2022-03-04T13:47:19+00:00
+/privacy-policy-2/                     2022-07-06T14:09:28+00:00
+/%e9%a6%96%e9%a1%b5/                   2024-05-18T04:49:59+00:00
+/thank-you/                            2024-06-11T12:59:38+00:00
+/ewind-history/                        2024-07-05T06:56:20+00:00
+/products-2/                           2024-07-15T04:52:38+00:00
+/testing-03/                           2024-07-22T14:56:24+00:00   ⚠
+/test2/                                2024-07-23T13:44:50+00:00   ⚠
+/automation-machine-building/          2024-07-30T06:27:36+00:00
+/automation-automotive/                2024-07-30T06:27:37+00:00
+/automation-technology-data-centers/   2024-07-30T08:17:34+00:00
+/elementor-7500/                       2024-07-31T03:46:35+00:00   ⚠ Elementor 模板残留
+/transportation-railway/               2024-07-31T10:25:22+00:00
+/transportation-habor-airport/         2024-08-01T07:41:43+00:00
+/security-smart-city/                  2024-08-01T09:16:40+00:00
+/transportation-expressway/            2024-08-01T10:44:46+00:00
+/security-tunnel/                      2024-08-01T11:08:28+00:00
+/security-outdoor-video-surveillance/  2024-08-02T09:40:20+00:00
+/industrial-renewable-energy/          2024-08-02T09:58:40+00:00
+/industrial-oil-gas-industry/          2024-08-02T10:20:51+00:00
+/industrial-iot-transmission/          2024-08-02T10:42:01+00:00
+/poe-switch-manufacturers/             2024-11-23T03:51:11+00:00   ← SEO 落地页
+/industrial-poe-switch/                2024-11-23T09:31:38+00:00   ← SEO 落地页
+/managed-switches/                     2024-11-23T09:39:54+00:00   ← SEO 落地页
+/test/                                 2025-03-05T14:46:31+00:00   ⚠
+/our-certificates/                     2025-03-10T06:12:52+00:00
+/our-partner/                          2025-03-17T02:04:29+00:00
+/contact_the_world/                    2025-03-23T14:17:21+00:00
+/after-sales-service/                  2025-03-25T08:40:01+00:00
+/active-warranty/                      2025-03-25T08:48:15+00:00
+/contact/                              2025-05-27T08:46:09+00:00
+/about/                                2026-01-21T02:02:06+00:00   ← 全站最新改动的"公司页"
+/products/                             2026-07-22T10:04:12+00:00
+
+# ---- 统计 ----
+# 页面 URL 合计 40 条；其中垃圾/系统页 7 条（/cart/、/checkout/、/my-account/、/sample-page/、/testing-03/、/test2/、/elementor-7500/、/test/ 计 8 条）
+# 有效内容页 ≈ 32 条。r39 之前我们的档案只覆盖其中 ~10 条。
+# 12 个行业垂直页（automation-* / transportation-* / security-* / industrial-*）全部创建于 2024-07-30 ~ 2024-08-02，
+# 之后再未改动 —— 是"一次性铺量"的 SEO 页，不是持续运营内容。

@@ -1,0 +1,25 @@
+# Ewind 产品 REST，按 modified 倒序，前 20 条（判定"有没有新内容"用）
+# source: https://www.ewindnet.com/wp-json/wp/v2/product?per_page=20&orderby=modified&order=desc&_fields=id,date,modified,slug
+# capture: 2026-11-01T05:30Z   ← 与 r39（2026-10-27T01:21Z）对比
+# 判定窗口: modified >= 2026-10-27 才算"新变化" → 本轮 0 条
+id	date	modified	slug
+8143	2024-09-30T11:30:34	2026-08-26T17:42:11	1ge-2ge-poe-1000m-rj45-dual-port-poe-extender
+8131	2024-09-30T10:52:53	2026-08-26T17:34:45	1fe-2fe-poe100m-rj45-dual-port-poe-extender
+3806	2023-12-19T19:19:44	2026-08-17T18:22:03	oem-odm-poe-switch-for-customized-network-solutions-and-high-quality-performance
+3792	2023-12-13T16:14:57	2026-08-17T18:13:25	factory-6-port-10-100m-rj45-smart-hi-poe-switch-with-ip-camera
+10869	2026-08-06T11:36:52	2026-08-07T00:07:44	ewind-810-100-1000m-rj45-port210-100-1000m-rj452100-1000m-rj45-ports-unmanaged-poe-switch
+10860	2026-08-06T11:24:42	2026-08-06T16:19:21	ewind-810-100-1000m-rj45-port210-100-1000m-sfp-ports-unmanaged-poe-switch
+2138	2022-06-28T10:59:45	2026-08-05T17:26:03	ewind-4fe-poe2fe-ports-10-100m-ai-poe-switch-with-ai-extend-300meter-transmission-distance-function
+2880	2022-09-20T18:05:12	2026-08-05T17:25:38	ewind-8fe-poe2fe-ai-poe-switch-with-ai-extend-300meter-ai-watchdog-function
+8348	2024-11-08T18:05:55	2026-08-05T17:25:33	ewind-810-100m-rj45-port210-100-1000m-rj45-ports-unmanaged-poe-switch-with-120w-build-in-power-adapter
+2908	2022-09-26T16:48:40	2026-08-05T16:54:31	ewind-2410-100m-rj45-port21000m-rj45-port11000m-sfp-port-unmanaged-poe-switch
+2901	2022-09-26T16:25:27	2026-08-05T16:54:20	ewind-1610-100m-rj45-port21000m-rj45-port11000m-sfp-port-unmanaged-poe-switch-with-200w-build-in-power-adapter
+8377	2024-11-08T18:18:54	2026-08-05T16:37:03	ewind-410-100-1000m-rj45-port210-100-1000m-rj45-ports-unmanaged-poe-switch
+8384	2024-11-08T18:31:25	2026-08-05T16:15:20	ewind-810-100-1000m-rj45-port210-100-1000m-rj45-ports-unmanaged-poe-switch
+2167	2022-07-06T10:02:59	2026-07-23T19:52:50	18-ports-full-gigabit-poe-switch
+1116	2022-02-25T15:04:26	2026-07-23T19:52:40	best-selling-20-ports-full-giga-poe-switch
+10538	2026-04-27T15:16:42	2026-07-23T19:52:29	2410-100-1000m-rj45-ports210-100-1000m-rj45-ports2100-1000m-sfp-ports-unmanaged-poe-switch
+6835	2024-07-08T17:50:25	2026-07-23T19:52:21	6-port-unmanaged-full-gigabit-poe-switch
+10684	2026-06-25T18:04:26	2026-07-23T18:23:30	24ge4combo-gigabit-lite-management-switch300w
+10682	2026-06-25T10:41:18	2026-07-23T18:19:46	8ge22-5g-gigabit-lite-management-switch
+10636	2026-05-27T15:31:33	2026-07-22T19:22:37	ewind-24fe-poe2ge2gf-cloud-managed-ai-poe-switch
