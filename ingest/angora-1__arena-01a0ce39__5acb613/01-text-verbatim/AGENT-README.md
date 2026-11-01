@@ -14,7 +14,7 @@
 | 仓库路径 | `SimonSaga-202306/Angora`（本地 `/home/user/Angora`） |
 | 当前主分支 | `main` |
 | 工作分支 | `arena/5da004bd-angora`（2026-10-27 会话；旧 `arena/01a0ce39-angora` 为历史记录） |
-| 最后更新时间 | 2026-11-01 ≈13:45 (+08:00, Asia/Shanghai) |
+| 最后更新时间 | 2026-11-01 ≈14:05 (+08:00, Asia/Shanghai) |
 | 最后更新由 | 第 40 轮（Ewind 官网 + 宣传面 Alibaba 直连 + 6 份 PDF 复爬；Angora 4 份宣传册首次入库）—— 窗口 2026-11-01T05:29–05:45Z｜Ewind **连续第 2 轮零新增**｜⭐⭐ **19 个非英语子站全灭（GTranslate 402）**｜⭐ Alibaba 首次直连：4.5/5、99.0%、≤3h、US$240,000+、**33 人**｜PDF **推翻 r39 四个数值**（−20~+55 °C / MAC 2K / 拨码 V·D 仅 1–4 口 / IP30·4kV）｜Angora 宣传册：**Hitit 册是 `Kaleiçi_Datasheet_Taslak` 草稿**、**ANW-2023-E8GT** 并存编码、**Synapse 订货表三型号误写 8-Port**｜产物 `07-web-crawl-2026-11-01/` 17 文件 |
 
 ---
@@ -415,6 +415,7 @@ Angora/
 
 | 对话轮次 | 预估信息点 | 已记录 | 待确认 | 审计方法是否全部执行 |
 |---------|-----------|--------|--------|---------------------|
+| 41 | 22 | 22 | 0（纯整理轮：0 新情报抓取，源=仓内 `111`/`112`/`110`/`99-raw/r37-*` 100%；边界已声明：**全部为案头整编**，用户侧事实（CEO 到访/外观一般）与已独立核实分开标注；报价均为历史口径，DDP 含税价需重算；剔除 MFD/Bimel/PNetworks/Longline/PavoTek/Kiracı 并说明理由） |
 | 40 | 27 | 27 | 0（边界已声明：`ru.ewindnet.com` 连续 3 轮 fetch 失败；其余 17 个语言子域未逐个实测〔只实测 es/tr〕；Alibaba 单品页 302 到图片搜索，价格仅列表卡片；270 SKU 未全抓；FB/LinkedIn/ZoomInfo/YouTube 未访问；`/our-certificates/` 证书为图片无文本；售后/质保页只取 chunk0；Angora 425/428 只取 0–2 分块；全部 PDF 无原始二进制落盘。**自我更正 5 条**：语言站 12→19 且已全灭；EW-S1710FG-AP 温度/MAC/拨码端口数；EW-S57948QM "100G"=官方内部矛盾） |
 | 39 | 31 | 31 | 0（边界已声明：`ru.ewindnet.com` 等语言子域 fetch 失败 → "12 语言站"仍为 r24/r25 结论；Alibaba/FB/LinkedIn/ZoomInfo/larch-networks.com 本轮未访问；全部 PDF 数据表仅路径未下载；product-sitemap 与 page-sitemap 仅取 chunk0 已标截断；Ewind 产品/文章数 153/125 = REST 实际返回，未与 r24 的"未计数"做点对点比较。**自我更正 1 条**：Synapse/Hitit 非新发现，2026-09-23 镜像已全量入库） |
 | 38 | 24 | 24 | 0（纯整理轮：0 新情报抓取，源=仓内既有底稿 100%〔111 CSV/110 CSV/99-raw TSV+JSON/112 MD〕；边界：union JSON 非土条目 country 空→手机区号+域名人工终判 / CESS=Shnrise 邮箱空未命中→人工锚定 111 行 37 / Karaal=r20 ❌未入库留档 / TCL 域匹配口径=精确域+后缀域，273 未匹配=批次池+括注未挂域部分〔以「用户双评估50」sheet 库映射列为准〕） | ✅ 六阶段全执行（机械校验：build114_r38.py 断言全过〔7 sheet 名+行数 55/145/98/50/299/98+ISAF 行 80-145 各匹配≥1 且×2 恰 10 行+openpyxl 回读〕/ 对平自查 PASS〔纯整理：ISAF sheet 分布 76+3+2+14+3=98 / TCL 26+273=299 / 双评估 50 映射 50/50〕/ 文件数 387 find 实测 / 敏感词扫描=0 / 二极管类新信息 0 / PR-合并提及 0 / 二进制落盘=1〔114 xlsx=用户指定交付格式，r27 最小占用：单文件 7 sheet 无冗余〕） |
