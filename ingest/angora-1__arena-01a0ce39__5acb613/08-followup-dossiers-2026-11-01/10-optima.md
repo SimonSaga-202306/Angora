@@ -6,8 +6,8 @@
 
 | 项 | 内容 |
 |---|---|
-| 主体 | Optima Mühendislik Ltd. Şti.（2000-12 起）；海外同名 Optima Engineering INC（沙特 LPR/停车） |
-| 地址 | **Ankara Sincan（Başkent OSB 自有厂）** + İstanbul Perpa（销售办 A Blok K:8 No:701） |
+| 主体 | Optima Mühendislik Ltd. Şti.（2000-12 起）；`optima.tc` 现已 302 → **optima-engineering.com**；**沙特利雅得是它自己的厂（2026-11-01 已证实），不是同名第三方** |
+| 地址 | **Ankara Sincan（Başkent OSB 自有厂，+90 312 815 15 00）** + İstanbul Perpa（销售办 A Blok K:8 No:701，+90 212 210 70 00）+ **利雅得厂** + **Optima UAE（SAIF Zone, Sharjah 仓库）** |
 | 自有品牌 | **Optima** —— 物理安防：路障 / 防撞柱 / 胎刺 / 闸机 / **车牌识别（LPR）** / 防弹岗亭 |
 | 场景 | 物理准入控制制造商（自有工厂 = 真正的配套采购方） |
 | 渠道来源 | 你的客户名单（r37 新入 #56）；master 备注「只处理 IP camera，对 POE switch 有兴趣」 |
@@ -59,3 +59,64 @@
 
 - 年用量（`111` 无数据）
 - 沙特 Optima Engineering 与我方是否可联动
+
+---
+
+## 核验补录 2026-11-01
+
+> 抓取时间：**2026-11-01（Asia/Shanghai）**。这一轮把 r41 留下的最大悬念（「沙特同名公司是不是第三方」）**结掉了**。
+
+### A. 域名变更（下次不要再去 `optima.tc`）
+
+`https://www.optima.tc/` → **HTTP 302 → `https://www.optima-engineering.com/en`**。`optima.tc` 已经不承载官网内容，但**邮箱仍然全部是 `@optima.tc`**（见 C）。→ 抓站用 `optima-engineering.com`，发信仍用 `@optima.tc`。
+
+### B. 四个据点（逐字抄自 `/en/contact`，2026-11-01）
+
+| 据点 | 地址 | 电话 / 传真 |
+|---|---|---|
+| **Ankara 工厂** | Başkent OSB 19.Cadde No:62, Malıköy 06909 Sincan/Ankara | **+90 312 815 15 00** / fax +90 312 815 12 98 |
+| **İstanbul 销售** | Perpa A Blok K:8 No:701, Okmeydanı | **+90 212 210 70 00** |
+| **Saudi Arabia 工厂** | Al Fowzan Rimash Industrial Zone, Istanbul Street, 2851 Al Mishal Dist., 14328-6950 Riyadh | — |
+| **Optima UAE** | 250 m² 仓库 T5-074, SAIF Zone, Sharjah | **+971 50 563 5922** |
+
+邮箱统一 `optima@optima.tc`。
+
+**结论修正**：r41 的「沙特同名公司待核」→ **不是同名第三方，是它自己的利雅得工厂**（同集团、同品牌、同一地址体系的产业园命名）。这一条把它的画像从「土耳其厂商」升级为「**土耳其 + 沙特 + 阿联酋 三地布局的制造商**」。
+
+### C. 产品范围（`/en` 首页全量清单，2026-11-01）
+
+road blockers（路障）、bollards（防撞柱）、tyre killers（胎刺）、arm / folding / sliding / swing / cantilever gates（各类道闸与门）、armoured guard houses（防弹岗亭）、turnstiles（三辊/摆闸）、LPR（**车牌识别**）、vehicle recognition（车型识别）、parking barriers / parking payment（停车收费）、on-street parking（路侧停车）、traffic solutions（交通方案）、**SCADA application（SCADA 应用）**、fence systems（围栏）、security doors（安防门）。
+
+- 首页新闻里出现 **Intersec Dubai 2026**（液压路障、高安防防撞柱、自动道闸参展）→ 中东是它的**主动战场**，不是被动接单。
+- **PoE 需求推导（我方口径）**：每一个 location 都带 LPR/ANPR 相机 + 车型识别相机 + 岗亭内网络 → 每套系统至少 1 台 8–16 口 PoE（户外、宽温、防雷），收费站/园区级项目要 24 口 + 光纤上联。**三地工厂 = 三套重复采购**，这是我方最实在的增量点。
+
+### D. ⚠ 名称撞车警告（**别搞错公司**）
+
+检索 `Optima` + `PoE switch` 会命中 **`optimasecurityonline.com`** —— 那是 **Optima Security Systems，美国德州 Dallas（2527 Royal Ln Ste 135, +1 972-481-1010）**，卖 IP 相机/NVR/POE 注入器，自有 `OP-SW881 / OP-SW1601I / OP-SW1601E / OP-SW1600G / POE-SW800G / OP-POE-I100GH / BV-SW2402` 等白牌 PoE 型号。
+
+- **与土耳其 Optima Engineering 无任何关联**（不同国家、不同行业、不同域名）。
+- 该站对抓取返回 **HTTP 500**（首页与分类页都是），只能靠搜索引擎快照读到内容 → **不要把它当 Optima Engineering 的证据**，也不要拿它的 `OP-SW` 型号去问土耳其 Optima「你们这款多少钱」。
+- 记在这里的目的：防止下一轮把这个美国站误并进土耳其这家。
+
+### E. 关系温度复核（维持 r41 判断）
+
+r41 的「IFSEC 见过、计划来深圳、master 备注对 PoE switch 有兴趣」属于**用户侧事实**，本轮**没有任何独立证据可增补或推翻** → 保持原样，不改等级。新增的官方信息只做**加持**：它现在是三地制造布局，来深圳采购的动机（配套件成本）比 r41 判断时**更成立**。
+
+### F. 补充联系人信息（可写进报价单抬头）
+
+- 官方总机：**+90 312 815 15 00**（Ankara 工厂）—— 比只留 Furkan Kalkan 手机 `90 507 463 05 66` 更稳（人离职/休假时不断线）。
+- 邮件统一 `optima@optima.tc`；报价单抬头用 **Optima Mühendislik Ltd. Şti.**。
+- 沙特项目若走利雅得厂，商务仍从土耳其出（同一 `@optima.tc` 邮箱域）→ **一个邮箱域管三个国家采购**，说明决策集中在土耳其。
+
+### G. 下一步动作（在原清单基础上加两条）
+
+- [ ] 报价单**按三地场景**给三档：`园区/收费站 8 口户外宽温`、`停车场 16 口 + 光纤上联`、`工业级 END 对位（宽温 −40…+75 °C）`
+- [ ] 首封**主动提沙特厂**（「看到你们在利雅得有工厂，中东项目的 PoE 配套我们可同批出」）—— 证明我们做了功课，也把话题引向他最在意的出口业务
+- [ ] 其余沿用：确认来深圳时间 → LPR 场景 PoE 方案 → 寄 1–2 台样品 → OEM 贴牌报价
+
+### H. 待核（更新）
+
+- ~~沙特 Optima Engineering 与我方是否可联动~~ → **已证实是自有工厂，可直接作为中东出海口谈**
+- 年用量（`111` 仍无数据）
+- 三地工厂是否是**同一套 BOM**（若是，一次认证三国通用，谈判筹码更大）
+- `optima.tc` 是否保留为邮件域长期使用（决定报价单与合同用哪个域名）

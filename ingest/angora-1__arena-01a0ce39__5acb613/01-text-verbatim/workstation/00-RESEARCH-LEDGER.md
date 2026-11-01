@@ -903,3 +903,38 @@ ISAF：去重唯一 98=**TR 新增 66 行（111 行 80-145：A 12〔80-91〕+ A-
 
 **边界（重要）**：本目录是**案头整编，本轮零新增外部抓取**。所有事实来自 `111`/`112`/`110`/`99-raw/r37-*`，每条标了来源行号；`用户侧事实`（如「CEO 到访过」「外观一般」）与`已独立核实`分开标注；所有报价均为历史口径（含 DDP/关税者需重算）。被剔除的：MFD（西门子红灯）/ Bimel（Cisco 红灯）/ PNetworks·Longline（竞对，转监控）/ PavoTek·Kiracı（战略留档）。
 
+
+## §36 · 第 42 轮 — 2026-11-01 ≈15:10–15:40 (+0800)：土耳其客户档案**外部核验**（对 5 家做独立抓取，推翻 1 条 / 结案 1 条 / 封顶 1 条）
+
+用户原话：「OK」。即批准 r41 提议的 3 家（04 Cenova / 08 Selim Kalaka / 10 Optima）做真实外部核验；本轮顺手把已抓到的 09 Okisan、11 Karer 一并写入。
+
+**抓取台账（新文件）**：`07-web-crawl-2026-11-01/02-turkey-dossier-verification-2026-11-01.md`（**25 条 URL 逐条存证**，含逐字原文摘录，原始 HTML/PDF 字节未落盘）。
+
+**① 04 Cenova —— 推翻 r41 结论（最重要）**
+r41 写「官网在卖 E-wind，dl-end3308pfg 实页」。本轮逐页复核：全站 8 个品牌板块（**Cenova / Dayzip / Wisetech / Dayline / Bawcon / GVD / Tiandy**）**无 E-wind 字样**；`DL-END3308PFG` 是**自有品牌 Dayline** 的工业 PoE 交换机 —— PDF 首页印 `dayline / Industrial Switch`，且 PDF 内嵌标题为 **`Microsoft Word - DL-END3308PFG.docx`**（中文 ODM 的 Word 模板直接改写；`DL-3524PGF` 同样内嵌 `Microsoft Word - 8pfgport.docx`）。PoE 交换机分类 `urunler/network-urunler/poe-switchler` 声称 **16 款**、实渲染 **15 款**，全线自有品牌（DZ-* / DL-* / SWP-*），4 口→27 口。**结论方向不变（仍 Tier S 82 分），打法改向**：从「换掉 E-wind」→「抢 ODM 订单」，主打它没有的 **2.5G 上联 / 802.3bt** 档。
+- 附 2 处**它自己的矛盾**（可作专业性筹码，不当武器）：同一型号网页写 `Garanti 2 Yıl`、PDF 写 `Garanti 3 yıl`；Uplink 端口表述网页与 PDF 不一致。
+- 附**二级零售价锚点**：`dijiteknoloji.com` 单开 `DL-END3308PFG` 商品页标 **₺23,945.29**，图片直引 cenova `img/upl/` → Dayline 交换机已铺到二级零售，**有真实出货**。
+- **死路**：`/sitemap.xml` → 404；站内搜索 `?q=` 路由坏（返回空产品模板）。正确入口 `urunler/<大类>/<子类>`。
+
+**② 10 Optima —— 沙特悬念结案**
+`optima.tc` 已 **302 → `optima-engineering.com`**（邮箱域仍 `@optima.tc`）。`/en/contact` 逐字给出**四据点**：Ankara 工厂（Başkent OSB 19.Cadde No:62, Malıköy 06909 Sincan，**+90 312 815 15 00**，fax +90 312 815 12 98）、İstanbul Perpa（+90 212 210 70 00）、**沙特利雅得厂（Al Fowzan Rimash Industrial Zone, Istanbul Street, 2851 Al Mishal Dist., 14328-6950 Riyadh）**、**Optima UAE（Sharjah SAIF Zone, T5-074, 250 m², +971 50 563 5922）**。→ r41「沙特同名第三方待核」**结案：是它自己的厂**。画像升级为 **TR+SA+UAE 三地制造商 = 三套重复采购**。产品范围补 **SCADA 应用 / 车型识别 / 路侧停车 / 交通方案**；首页新闻含 **Intersec Dubai 2026**（中东是主动战场）。
+- ⚠ **名称撞车已隔离**：`optimasecurityonline.com` 卖 `OP-SW881 / OP-SW1601I / OP-SW1600G / POE-SW800G / BV-SW2402` 等白牌 PoE，但它是 **Optima Security Systems（Dallas, TX 75229, 2527 Royal Ln Ste 135, +1 972-481-1010）**，与土耳其 Optima **无关**；该站对抓取 **HTTP 500**。**不得把 `OP-SW` 型号当土耳其 Optima 的证据。**
+
+**③ 08 Selim Kalaka —— 验证被结构性封顶（阴性结论本身是结论）**
+`"Selim Kalaka" güvenlik` 及企业站/店铺/LinkedIn 检索 → **0 条相关**（命中全是词源学与无关电商）。→ **无公开企业主体**。处理原则写入 dossier：**不补公司名、不补城市**；把「待核」改写成**微信内必问 6 题**（公司全称/城市/角色、现郑州供应商全称与起始年、年量与主力口数、「去土耳其建厂」是官宣还是口头、最痛的是交期还是价格还是认证、土耳其清关认证谁覆盖），答完**逐字回填**。方法论沉淀：人名+目标国语言行业词检索一次，命中 0 条**即结案**，并在档案里显式写「无公开网络面」，防止下一位重做。
+
+**④ 09 Okisan —— 身份复核 + 新增 5 家二级分销**
+站点标题自证 `Okisan Güvenlik | Tiandy - Dahua Türkiye Yetkili Distribütörü`；首页 4 大方案（CCTV / Mobil / Akıllı Ev / Yangın），**无自有交换机产品线** → PoE 属「配单件」，与「现用丰润达（用户侧）」相容。最新新闻 **ISAF 2026-İstanbul**（2026-10 图）→ 它刚参展，**展会上堵人优于冷发邮件**。`dagiticilarimiz/` 给出 Tiandy **5 个区域二级分销**（Uğur Güvenlik Ankara 0312 481 90 50 / Ata Global 0532 523 3246 / Tria Antalya 0242 244 00 08 / MST Van 0432 502 00 65 / 3D Bilgisayar Diyarbakır 0850 988 03 03，含邮箱）。**明确写入：这 5 家是 Tiandy 的下游，不是 Okisan 的客户，默认不直接打**（绕过主谈=废掉主谈），只作区域覆盖图与备选。
+
+**⑤ 11 Karer —— 拿到公开 USD 价锚点**
+`karerguvenlik.com` 是活的 AKINSOFT 电商，**USD + TL 双标价 + 实时库存**。`KR-ND1P802LFG`（`8*10/100 PoE + 2 Gigabit Uplink，150 W`）= **US$160.00（8.014,40 TL）+KDV**，库存「Son 1 ADET」。同族另有 `KR-ND1PD1621HG`（16 口 + 2×GbE + 1×SFP，250 W）、`KR-ND1PD2412L`（24 口 + 2 SFP）、`PSE-0820G`（"Diğer" 品牌，6 件）。**型号更正**：r41 写的 `KR-S1710GU-AP` 本轮站内**未见**，现行族为 `KR-ND*` → 发信前必须确认，别拿旧型号开场。**结构发现**：它同时卖 **IP/AHD 相机主板、NVR 板、镜头、IRCUT、灯板、空壳、维修工具** → **板级 + 整机级双料商**，懂「模组价 / 整机价 / NRE」三件套，**不能只报整机**。可枚举性：`/sitemap.ashx` → `custom.xml` + **`products_1.xml`**（全站商品 URL，时间戳 2026-11-01）→ 下轮可做完整价格带。
+
+**产物与改动**：新增 1 文件（抓取台账）；改写 5 份 dossier（各追加 `## 核验补录 2026-11-01`，原文八段保留以便对照）；`08-followup-dossiers-2026-11-01/README.md` 新增「**六、2026-11-01 外部核验轮**」状态表并更正 04 行。
+
+**边界（不得越过）**：
+- **未核验 16 家**（01/02/03/05/06/07/12/13/14/15/16/17/18/19/20/21）本轮 0 次抓取，**等级不变，不得标为「已验证」**。
+- 「Okisan 现用丰润达」仍为**用户侧事实**，未独立核实。
+- Optima 年用量、三地是否同一 BOM：均无数据。
+- Karer 的 OEM 工厂名：站点不披露，仍未拿到。
+- Cenova「16 款 vs 15 款」差 1、`DL-3416PF`/`DL-3524PGF`/`DL-END3308PFG` 是否已从 PoE 分类下架：待核。
+- 全部为 `fetch_page` 文本提取，**无原始 HTML/PDF 字节落盘**；`optimasecurityonline.com` 只读到搜索引擎快照。

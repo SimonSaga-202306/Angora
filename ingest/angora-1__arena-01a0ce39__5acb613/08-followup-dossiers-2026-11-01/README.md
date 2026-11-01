@@ -27,7 +27,7 @@
 | 01 | **Telkolink + GelecekBT**（同集团） | İstanbul / Perpa | 综合网络分销 + 进口商 | 88 | 品类与我方逐线对应，且已有品牌 CLR 是深圳的，换源无心理门槛 | 发完整 model list + CLR 贴牌方案 |
 | 02 | **NOVA / Novacom** | Ankara | 安防分销 + 自有 PoE | 86 | CEO+PM 到访过、主动问 OEM、31 个自有 SKU 在卖、正在找**工业级** | 工业级 OEM 方案 |
 | 03 | **Snexus** | İstanbul | 自有品牌 OEM/ODM | 85 | 产品线升到 L3（RIP/OSPF/BGP）却还是 L2 供应源，升级配套缺口最大 | OEM 开发信 + L3 方案 |
-| 04 | **Cenova** | İstanbul | CCTV 品牌商 | 82 | 官网在卖 **E-wind**，摄像头+交换机捆绑，替换即对位 | E-wind 换源方案 |
+| 04 | **Cenova** | İstanbul | CCTV 品牌商（自有白牌） | 82 | ~~官网在卖 E-wind~~ → **2026-11-01 更正**：自有 Dayzip/Dayline PoE **16 款**，是「中国 ODM→土耳其品牌」的现成买家 | **ODM 补位**（2.5G / 802.3bt 空档） |
 | 05 | **CryptoLink** | Ankara | 公共安全方案商 | 80 | 自有 CRL 全列 + KGYS 警队现场在用，要往 L3 10G 升级 | 工业 L3 10G 方案 |
 | 06 | **Entegron / LONGLINE** | İstanbul | 双品牌（PoE 31 款） | 30A/45A | 同一母公司两入口，Entegron 线 31 款 PoE + 有 E-wind | 双入口报价 |
 | 07 | **Sami CEUIK** | 政府项目 | 订单级 | 70 | **500 台**询价已报 80–90 USD，明确"要质量好" | 锁定 500 台交期与样机 |
@@ -78,3 +78,22 @@
 - 最近两轮外部抓取：`06-web-crawl-2026-10-27/`、`07-web-crawl-2026-11-01/`
 
 > 本文件夹只做**人可读的单客户档案**，不替代上述结构化数据；`111` 仍是唯一权威的管线表。
+
+---
+
+## 六、2026-11-01 外部核验轮（r42）—— 已改写的 5 份
+
+本轮**不再只是案头整编**：对 5 家做了**公开网络独立核验**，并在各自文件末尾追加了 `## 核验补录 2026-11-01`（原八段保留不动，便于对照）。抓取时间统一为 **2026-11-01（Asia/Shanghai）**。
+
+| # | 客户 | 核验结果 | 对结论的影响 |
+|---|---|---|---|
+| 04 | Cenova | **推翻 r41 的「在卖 E-wind」**。全站 8 品牌板块无 E-wind；`DL-END3308PFG` 是自有 **Dayline** 工业交换机（PDF 内嵌标题 `Microsoft Word - …docx`）；PoE 分类实有 **16 款自有品牌**；无 sitemap、站内搜索坏；二级零售 `dijiteknoloji.com` 挂 ₺23,945.29 | **打法改向**：从「换掉 E-wind」→「抢 ODM 订单」，主打它没有的 2.5G / 802.3bt 档 |
+| 08 | Selim Kalaka | **公开网络面为 0**（土语人名+行业词检索无相关结果，无企业站/LinkedIn/店铺） | 验证**结构性封顶** → 改为「微信内必问 6 题」，逐字回填 |
+| 09 | Okisan | 站名自证 **Tiandy + Dahua 土耳其授权分销**；首页 4 大方案；**无自有交换机线**；最新新闻 **ISAF 2026-İstanbul**；拿到 Tiandy **5 个区域二级分销**含电话邮箱 | 维持判断；新增「展会上堵人」与「别绕过它打二级」两条 |
+| 10 | Optima | **沙特悬念结案**：利雅得是**自有工厂**（非同名第三方）+ **UAE Sharjah 仓库**；Ankara 总机 +90 312 815 15 00；`optima.tc` 已 302 → `optima-engineering.com`；产品含 **SCADA/LPR/交通**；⚠ `optimasecurityonline.com` 是美国 Dallas 另一家，**别混** | 从「土耳其厂商」升级为「**TR+SA+UAE 三地制造商**」→ 三套重复采购 |
+| 11 | Karer | 活的 AKINSOFT 电商，**公开 USD 价**：`KR-ND1P802LFG` 8×百兆 PoE + 2×GbE / 150 W = **$160（8.014,40 TL）**；卖相机/NVR **主板、镜头、灯板**（板级生意）；`sitemap.ashx → products_1.xml` 可枚举全站商品 | 新增**价格锚点**；型号从 `KR-S1710GU-AP` 修正为 `KR-ND*` 族；加「模组报价」打法 |
+
+**未核验的 16 家**（01/02/03/05/06/07/12/13/14/15/16/17/18/19/20/21）：本轮**没有**做外部抓取，档案仍是案头整编 + 用户侧事实，等级不变。**不要**把它们当成「已验证」使用。
+
+**已确认的死路（下轮别再试）**：`cenova.com.tr/sitemap.xml` → 404；`cenova` 站内搜索路由坏；`optima.tc` 不再承载官网；`optimasecurityonline.com` 抓取 500；`karerguvenlik.com/ag-urunleri*` 404。
+

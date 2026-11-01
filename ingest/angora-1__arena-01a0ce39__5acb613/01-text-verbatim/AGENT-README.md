@@ -14,8 +14,9 @@
 | 仓库路径 | `SimonSaga-202306/Angora`（本地 `/home/user/Angora`） |
 | 当前主分支 | `main` |
 | 工作分支 | `arena/5da004bd-angora`（2026-10-27 会话；旧 `arena/01a0ce39-angora` 为历史记录） |
-| 最后更新时间 | 2026-11-01 ≈14:05 (+08:00, Asia/Shanghai) |
-| 最后更新由 | 第 40 轮（Ewind 官网 + 宣传面 Alibaba 直连 + 6 份 PDF 复爬；Angora 4 份宣传册首次入库）—— 窗口 2026-11-01T05:29–05:45Z｜Ewind **连续第 2 轮零新增**｜⭐⭐ **19 个非英语子站全灭（GTranslate 402）**｜⭐ Alibaba 首次直连：4.5/5、99.0%、≤3h、US$240,000+、**33 人**｜PDF **推翻 r39 四个数值**（−20~+55 °C / MAC 2K / 拨码 V·D 仅 1–4 口 / IP30·4kV）｜Angora 宣传册：**Hitit 册是 `Kaleiçi_Datasheet_Taslak` 草稿**、**ANW-2023-E8GT** 并存编码、**Synapse 订货表三型号误写 8-Port**｜产物 `07-web-crawl-2026-11-01/` 17 文件 |
+| 最后更新时间 | 2026-11-01 ≈15:40 (+08:00, Asia/Shanghai) |
+| 最后更新由 | 第 42 轮（土耳其客户档案外部核验：Cenova 结论更正、Optima 沙特结案、Selim 验证封顶、Karer 价格锚点）—— 产物 `07-web-crawl-2026-11-01/02-turkey-dossier-verification-2026-11-01.md`｜上一轮（40/41）摘要见下 |
+| 上一轮 | 第 40 轮（Ewind 官网 + 宣传面 Alibaba 直连 + 6 份 PDF 复爬；Angora 4 份宣传册首次入库）—— 窗口 2026-11-01T05:29–05:45Z｜Ewind **连续第 2 轮零新增**｜⭐⭐ **19 个非英语子站全灭（GTranslate 402）**｜⭐ Alibaba 首次直连：4.5/5、99.0%、≤3h、US$240,000+、**33 人**｜PDF **推翻 r39 四个数值**（−20~+55 °C / MAC 2K / 拨码 V·D 仅 1–4 口 / IP30·4kV）｜Angora 宣传册：**Hitit 册是 `Kaleiçi_Datasheet_Taslak` 草稿**、**ANW-2023-E8GT** 并存编码、**Synapse 订货表三型号误写 8-Port**｜产物 `07-web-crawl-2026-11-01/` 17 文件 |
 
 ---
 
@@ -415,6 +416,7 @@ Angora/
 
 | 对话轮次 | 预估信息点 | 已记录 | 待确认 | 审计方法是否全部执行 |
 |---------|-----------|--------|--------|---------------------|
+| 42 | 6 | 0 | 0（**外部核验轮**：0 新客户、0 新情报抓取目标以外的站；只对 5 份既有 dossier 做公开网络独立核验 + 1 份抓取台账。**推翻 1 条**：Cenova「官网在卖 E-wind」→ 实为自有 Dayline/DZ 白牌 16 款 PoE，PDF 内嵌 `Microsoft Word - *.docx`；**结案 1 条**：Optima 沙特=自有利雅得厂（非同名第三方）+ UAE Sharjah；**封顶 1 条**：Selim Kalaka 公开网络面 0 记录，验证只能来自微信；**新增锚点**：Karer 公开 USD 价 $160/8口、Okisan 5 家 Tiandy 二级分销。边界：`cenova` sitemap 404、站内搜索坏；`optimasecurityonline.com`（美国 Dallas，另一家）抓取 500；16 家未核验、等级不变） |
 | 41 | 22 | 22 | 0（纯整理轮：0 新情报抓取，源=仓内 `111`/`112`/`110`/`99-raw/r37-*` 100%；边界已声明：**全部为案头整编**，用户侧事实（CEO 到访/外观一般）与已独立核实分开标注；报价均为历史口径，DDP 含税价需重算；剔除 MFD/Bimel/PNetworks/Longline/PavoTek/Kiracı 并说明理由） |
 | 40 | 27 | 27 | 0（边界已声明：`ru.ewindnet.com` 连续 3 轮 fetch 失败；其余 17 个语言子域未逐个实测〔只实测 es/tr〕；Alibaba 单品页 302 到图片搜索，价格仅列表卡片；270 SKU 未全抓；FB/LinkedIn/ZoomInfo/YouTube 未访问；`/our-certificates/` 证书为图片无文本；售后/质保页只取 chunk0；Angora 425/428 只取 0–2 分块；全部 PDF 无原始二进制落盘。**自我更正 5 条**：语言站 12→19 且已全灭；EW-S1710FG-AP 温度/MAC/拨码端口数；EW-S57948QM "100G"=官方内部矛盾） |
 | 39 | 31 | 31 | 0（边界已声明：`ru.ewindnet.com` 等语言子域 fetch 失败 → "12 语言站"仍为 r24/r25 结论；Alibaba/FB/LinkedIn/ZoomInfo/larch-networks.com 本轮未访问；全部 PDF 数据表仅路径未下载；product-sitemap 与 page-sitemap 仅取 chunk0 已标截断；Ewind 产品/文章数 153/125 = REST 实际返回，未与 r24 的"未计数"做点对点比较。**自我更正 1 条**：Synapse/Hitit 非新发现，2026-09-23 镜像已全量入库） |
