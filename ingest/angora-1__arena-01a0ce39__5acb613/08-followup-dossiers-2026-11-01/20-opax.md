@@ -58,3 +58,70 @@
 
 - Damian Brozda 的真实角色
 - 年采购量与主力型号
+
+---
+
+## 商业深挖 2026-11-01
+
+> 抓取时间 **2026-11-01（Asia/Shanghai）**。结论先给：**主体名称、地址、电话已 100% 核实到"逐字级"；新增一个可用邮箱 `sezer@opax.com`。但 `Damian Brozda` 的波兰关系仍然未解 —— 这一条继续挂"待核"，不要拿他当决策人。**
+
+### A. 法定主体（逐字，可直接用于报价单/合同抬头）
+
+> **Opax Mühendislik Kamera Alarm ve Güvenlik Sistemleri Elektronik Dayanıklı Tüketim Malları İletişim İthalat İhracat Dış Ticaret Pazarlama Limited Şirketi**
+
+- **地址**：Yeni Mahallesi, Diriliş Bulvarı **No:3 (No:3/1)**, **Opax Plaza**, 50100 Merkez / **Nevşehir** / Türkiye
+- **电话**：**+90 850 259 12 12**；另一路 **0444 9890**（`111` 原记录 90 444 9890）
+- **邮箱**：`satis@opax.com`（销售）；⭐ **新增 `sezer@opax.com`**
+- **来源**：`opax.com` 的 KVKK 告知页 / 银行账户页 / 电话订购告知页（三处一致）；`sezer@opax.com` 来自 **Google Play 开发者信息**（应用 **OPAX Pro**，包名 `com.opax.opaxalarmpro`）
+
+**注意主体名里的三个关键词**：**İletişim（通信）+ İthalat İhracat（进出口）+ Dış Ticaret（外贸）** → **它是有进出口资质的贸易主体**，可以直接签 FOB/CIF，不需要第三方代理。这一点很多中东客户不具备。
+
+### B. ⭐ 从 Google Play 反推的业务形态
+
+- 应用 **OPAX Pro**（`com.opax.opaxalarmpro`），开发者登记地址 **"NO:3/1 YENI MAHALLESI DIRILIS BULVARI MERKEZ 50100 Nevsehir"**，开发者联系邮箱 `sezer@opax.com`。
+- 同类应用还有 **"OPAX Alarm"** 系列 → 它在做**自有 App + 云**（不只是卖硬件）。
+
+**含义**：
+1. **`sezer@opax.com` 大概率是技术/电商/App 负责人**（Play 开发者账号通常挂在技术负责人名下）。**这是我方可用的第二个入口**（销售之外的技术/产品入口）。
+2. 它有 **App + 云**，说明它**在往"解决方案"走** → 交换机在它那里是"配套件"，可以打包进方案卖，**议价空间比纯硬件商大**。
+
+### C. 它现有的产品/价格结构（r41 已知 + 本轮确认）
+
+| 项 | 数据 |
+|---|---|
+| 主打 PoE | **OPAX-08120W（120 W）售价约 $35**（r41 记录，价格锚） |
+| 产品线 | 相机 / 报警（有线、无线、GPRS/GSM/WiFi）/ 硬盘录像 / 门禁 / 金属探测 / X 光（官网菜单） |
+| 定位 | **自有品牌 + 全国经销 + 电商直营**（有博客/内容营销，SEO 做得比同行好） |
+
+→ **$35 / 120 W 这个锚点极低**。这意味着：**它是我方名单里价格最敏感的一家**，**不要指望在 8 口 120 W 这一档赚到毛利**。
+→ **机会在"升级档"**：它现在卖 $35 的是入门款，**802.3bt（60–90 W/口）、24 口、管理型、宽温**这些它未必有 → **在这些档上，价格敏感度会显著下降**。
+
+### D. `Damian Brozda`（.pl 波兰域）—— 仍然无法定论
+
+- 本轮检索**未能**找到 Damian Brozda 与 Opax 的公开关联（既没有领英同时在两家公司，也没有新闻/展会记录）。
+- 结论：**维持 r41 的标记 —— 关系不明，不得默认他是土方决策人**。
+- 处理方式：**不在首封抄送他**；如对方主动提起，再问"他在项目里是什么角色"。
+
+### E. 展会 / 论坛 / 开源
+
+| 角度 | 结果 |
+|---|---|
+| ISAF | 用户侧名单（`111` 第 20 行）；本轮未独立核实展位 |
+| GitHub | **无**（但 Play Store 有自家 App → 有移动端开发能力，**不是纯贸易商**） |
+| 论坛 | 无 |
+
+### F. 打法（替换 r41 的「同价段多型号升级」）
+
+1. **不要打 $35 那一档**。那是它的引流款，打了只会变成"再来一个便宜的"。
+2. **打"升级档"三件套**：① **802.3bt**（球机/加热器供电）② **24 口 / 管理型**（园区、连锁门店）③ **宽温工业**（中东/户外）。
+3. **利用它的 App/云**：*"Your App already manages the cameras — our switches support PoE watchdog + remote port reset, so a hung camera can be rebooted from OPAX Pro instead of sending a technician."* → **把交换机卖成"降低上门服务成本"的工具**，这是品牌商最听得懂的价值。
+4. **两个邮箱同时用**：`satis@opax.com`（商务）+ `sezer@opax.com`（技术/产品，谈 App 联动与 OID/SNMP 需求）。
+5. **合同抬头直接抄 A 节的完整主体名**（它有 İthalat İhracat 资质，别写简称，土耳其报关看抬头）。
+
+### G. 待核
+
+- **`sezer@opax.com` 的姓名与职务**（Sezer 是名还是姓？哪一层？）
+- Damian Brozda 与 Opax 的关系（**仍然空白**）
+- 它自有 PoE 型号的**完整清单**（r41 只有 `OPAX-08120W` 一个锚点）
+- 是否有自己的**工厂**（在 Nevşehir 有 Opax Plaza，但是否含产线未知）
+- 年采购量与现有供应商（公开面不可见；可试公开提单数据，但主体名极长，检索需用 "Opax Muh" 前缀）

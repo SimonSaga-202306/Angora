@@ -55,3 +55,68 @@
 
 - 项目规模与落地时间
 - tbi.com.tr 的实际业务（电信集成? 运营商供应?）
+
+---
+
+## 商业深挖 2026-11-01
+
+> 抓取时间 **2026-11-01（Asia/Shanghai）**。结论先给：**Telemobil 是「系统集成 + 电气承包 + 楼宇自动化」的三合一工程公司，不是分销商。** 它的采购是**按项目走**的，所以打法必须是「**进它的标准选型库**」，而不是「给个低价」。
+
+### A. 主体与沿革
+
+| 项 | 数据 | 来源 |
+|---|---|---|
+| 法定名 | **Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.**（品牌名 **TBI**） | LinkedIn 企业页 |
+| 沿革 | **90 年代作为 A.B GRUP 的「Bilgi İşlem（IT）」部门**起家 → **2005 年**独立为 A.Ş. | LinkedIn 企业页原文 |
+| 成立年（登记） | **2005** | LinkedIn / ContactOut |
+| 总部 | **İstanbul, Üsküdar** — Çilehane Cad. Çamlıca Evleri Sitesi No:13/4, Küçükçamlıca, 34696 | ZoomInfo/ContactOut 地址字段 |
+| 电话 | **+90 216 547 67 00** | ZoomInfo（与档案一致） |
+| 规模 | LinkedIn 区间 **51–200**，**列出 97 名员工**；ZoomInfo 显示 **120 人** | 三家交叉 |
+| 营收（第三方估算） | **≈$25.6M** | ⚠ ZoomInfo 推算，非财报 |
+
+**三大业务（LinkedIn 自述）**：① **Bilgi Teknolojileri Sistem Entegrasyonu**（IT 系统集成）② **Elektrik Taahhüt**（电气承包）③ **Bina Yönetim, Otomasyon ve Zayıf Akım Sistemleri**（楼宇管理/自动化/**弱电系统**）。
+
+→ **"Zayıf Akım"（弱电）是我方的入口**：弱电包里必然有网络与 PoE。而 **"Elektrik Taahhüt"** 意味着它**按工程总包进度采购**，账期长、按节点付款——这是必须提前谈的。
+
+### B. 关键人（r41 名单之外的新增）
+
+| 姓名 | 职务 | 来源 |
+|---|---|---|
+| **Kaan Kısacık** | 销售总监（r41 已记）`kkisacik@tbi.com.tr` | 档案 |
+| **Murat Gül** | **Proje Grup Direktör Yardımcısı**（项目群总监助理） | LinkedIn 员工列表 + ContactOut |
+| Aydın Akkoyun | （管理层，职务未明） | ContactOut |
+| Mehmet Emre Güney | **Mekanik Koordinatör**（机械协调） | ContactOut |
+| Mustafa Ovunç Fındık | （管理/项目侧） | ContactOut |
+| H. Berkay Beyazıt | Şantiye Şefi（工地主任） | ZoomInfo |
+
+**解读**：它有**"Proje Grup Direktörü"级**的岗位 + 多名"协调员/工地主任" → **同时在建多个工地**，典型的多项目并行总包商。
+→ **采购决策不是一个人**：**Kaan Kısacık（销售，能引荐）→ 项目群总监（定选型）→ 采购（下单）**。r41 只抓了销售，**这轮补上了"项目群"这一层**。
+
+### C. 客户与行业（ZoomInfo 描述）
+
+> 客户覆盖 **education、healthcare、construction**，公私部门皆有；服务含 **data center construction**、电气与机械承包、自动化。
+
+→ **教育 + 医疗 + 数据中心** = 三个 PoE 高密度场景（教室 AP/摄像头、医院床位与监护、机房汇聚）。**这正好是我方 24/48 口 + 光纤上联的产品带。**
+
+### D. 展会 / 论坛 / 开源
+
+| 角度 | 结果 |
+|---|---|
+| ISAF | **用户侧记录：ISAF 2025 现场**，且是「A 级 12 家之首」（`111` 第 80 行） |
+| 论坛/GitHub | **无**（工程公司无开源活动） |
+| 招聘信号 | 未见公开大规模招聘数据 |
+
+### E. 打法（替换 r41 的「2 光 2 电 PoE 报价+交期」）
+
+1. **从"项目选型库"切入**：不要发单型号报价，发一份 **「TBI 弱电标准包 PoE 选型建议」**（含 8/16/24/48 口 + 光纤上联 + 802.3bt 球机档 + 室外防雷），**让他能直接贴进投标文件**。
+2. **主动提"投标支持"**：工程公司最缺的是**投标阶段的技术参数与授权函**。给 **项目授权 + 参数表 + CE/测试报告**，比降价有用。
+3. **账期要提前谈**：电气承包的付款跟着业主进度 → **首单坚持前 T/T 或见提单副本付款**，别信"下个项目一起结"。
+4. **一句话定位**：*"We support your tender stage, not just your PO stage."*
+5. **别打价格战**：它是集成商，**赚的是项目差价，不是货差**；它更怕**交期与售后拖累工期**。主打 **交期承诺 + 备机政策**。
+
+### F. 待核
+
+- **采购负责人姓名**（本轮只找到项目群与销售层，采购层缺失）
+- 营收 $25.6M 的真实性（第三方推算，误差可能很大）
+- 近两年中标项目清单（**EKAP 公开招标平台可查**，本轮未接入）—— 这能直接给出 PoE 需求量级
+- 它现在用的交换机品牌（公开面不可见，需当面问）

@@ -938,3 +938,55 @@ r41 写「官网在卖 E-wind，dl-end3308pfg 实页」。本轮逐页复核：�
 - Karer 的 OEM 工厂名：站点不披露，仍未拿到。
 - Cenova「16 款 vs 15 款」差 1、`DL-3416PF`/`DL-3524PGF`/`DL-END3308PFG` 是否已从 PoE 分类下架：待核。
 - 全部为 `fetch_page` 文本提取，**无原始 HTML/PDF 字节落盘**；`optimasecurityonline.com` 只读到搜索引擎快照。
+
+## §37 · 第 43 轮 — 2026-11-01 ≈16:20–17:35 (+0800)：土耳其 21 家客户「商业深挖」（年报/领英/KP/人事/展会/论坛/GitHub）
+
+用户原话：「你深挖一下这些公司吧 把内容写进MD 深挖：各个角度 年报 领英 KP 人事变动 他们参加的展会 论坛 github 等等 只要是商业角度的都搞一下」。
+
+**做法**：对 `08-followup-dossiers-2026-11-01/` 的 **21 份客户 MD 全部追加 `## 商业深挖 2026-11-01`**（r41 八段 + r42 核验补录原样保留，只增不删）。新增抓取台账 `07-web-crawl-2026-11-01/03-company-deepdig-2026-11-01.md`。
+
+**覆盖 21/21，15 家挖到新事实、6 家公开面为零。**
+
+**① 最重磅：01 Telkolink/GelecekBT —— 它自己就是深圳品牌方**
+CLR Networks 官网 contact 页逐字：**总部 `5/F, Hua sheng sheng hui Building, Jian'an first Road, Baoan District, Shenzhen, China, 518101`，`+86 (0) 755 33127842`**；**EMEA 联系人 `yusuf@clrnetworks.com`、Skype `yusufolcer`、web `gelecekbt.com`** —— 与 **GelecekBT 总经理 Yusuf Ölçer** 同一人。→ 这家人**已经跑通「深圳贴牌 + 土耳其独家分销」全链路，且贴牌方在深圳**。打法由「帮你做 OEM」改为「**做 CLR 的第二供应源**」，并提示**它亦是我方潜在竞争者，勿一次性交出 BOM**。另补齐：网站归属主体 **Gelecek Yönetim Merkezi Eğt. Dan. ve Teknoloji Hiz. İth. İhr. San. Tic. Ltd. Şti.**、**2004-10-13 成立**、两个 Perpa 门牌（Telkolink **A K:5 No:295-297**；GelecekBT **A K:13 No:1990**）、代理条线含 **3onedata / TG-NET / Fibridge / Repotec / IMC / CLR / ONET / Allied Telesis / HP / Cisco**（即：交换机品类它已压 4 条中国线）。
+
+**② 10 Optima —— 公开商业信息最完整的一家**
+**2014** 获经济部区域激励补助购 **Başkent OSB 9,000 m²** 工业用地、**2015 年夏**建成投产；**NACE 28.99.90**；**ISO 9001:2008**；⭐ **出口 >90% 产量、50 多个国家**；结构化 `areaServed` 16 国（含沙特/UAE/卡塔尔/埃及/阿曼/约旦/阿塞拜疆/乌克兰/阿尔及利亚/**蒙古**/摩洛哥/利比亚/俄罗斯/西班牙/法国）；领英 **2,987 关注**，原话「**As Optima and Ulgen, we have been exhibiting consistently and consecutively at Dubai Intersec for 20 years**… rewarded by **Messe Frankfurt**」；**Intersec Dubai 2026（1/12–14）**、**Intertraffic Amsterdam 2026 首秀**、OKSİAD 2025；下一场 **Intersec Global 2027（1/12–14）**。新增待核实体 **Ulgen**。
+
+**③ 19 Öncü —— 本轮唯一"海关提单级"证据**
+集团站 `oncu-group.com` 六实体：**ISSD / Neotech Technology A.Ş. / Oncu Security（代理 HIKVISION·COFEM·DAVANTIS·SEC-ON）/ Sec-on Co. Ltd. / Secube**；Öncü **2002** 成立，Sec-on **2012（公司列表）vs 2016（时间线）自相矛盾**。**Volza 提单：128 批 / 2 家供应商 / 主源 China / HSN 8525·8521·8531 / 供应商 `SEC ON CO LTD`（中国）+ `Tamron Europe GmbH` / 单票「video recorder」150 UNT**。→ **它的"自有品牌"是向 `Sec On Co Ltd` 买的整机**，**供应链高度集中（仅 2 家）**= 我方破口。话术红线：**绝不能说"我们知道你的供应商是谁"**。
+
+**④ 06 Longline/Entegron —— 合同主体可能不在土耳其**
+`Entegron Technology FZE`（**阿联酋自贸区实体**）在土耳其提单里作为**出口方/供应商**出现（如 Fons Information Technology Ltd 进口 `1 GE SFP SLOT + 1 10/100/1000M MODULE`）。Longline 五站矩阵（longlinestore / longlinesfp / **longlifesfp**（双 SFP 品牌）/ longlinenetwork / endustriyeltestcihazlari）、**Romania+China+Dubai+USA+欧洲**合作、**TR+RO 双仓当日发货**、**ATR/TAREKS/GTIP** 报关能力、**800+ 伙伴**；办公 **Longline Plaza Bayrampaşa**； LinkedIn **3,979 / 28 人**，第三方营收 **$10.7M（Datanyze）/ $15M（RocketReach）**；⭐ **KP：Safa Özer（Purchase Manager）、Ercan Çiçekci（董事）**；⚠ **全系仅 1 年保修**（我方 3 年即可量化取胜）。
+
+**⑤ 16 CCTV Depo —— CEO 公开自述"深圳我熟"**
+领英个人简介原文：*"2000 Yılından beri Güvenlik Sektöründeyim. **Çin, özellikle Shenzhen'i çok iyi biliyorum**"*。更正 r41 两处：**HQ = Bahçelievler**（非 Şişli-Perpa）、**Can Gurcan 企业页标 CEO / ZoomInfo 标 CTO**（两处冲突）。成立 2004、51–200 人、领英仅 239 关注、WHOIS 2004-07-21 持有人 Can Gürcan、品牌 SECUZI（Mehmet Furkan Beklin）。
+
+**⑥ 18 Han Elektronik —— 有独立 OEM 事业部的品牌运营商**
+官网 MARKALAR 全列：**MILESIGHT（土唯一授权，2023 最有价值伙伴奖）/ FOREDGE（网络与云，有分销证书）/ VIDEOPARK / SPY·SPY AHD·SPY IP·SPY MOBİLE·SPY ALARM / GRUNDIG / PANASONIC / AXXON / AVERDIGI·AVERFIRE·AVERGUARD·AVERCLOUD / SHELLY / ALIENFENCE / UNIWIZ / NEVIO / HOOP CAM / TNA / Rujie(Reyee)**，且**菜单里直接有 "OEM - SPY MOBİLE" 分类**；**Han Elektronik A.Ş.**、2000 成立、51–200 人、`444 1 426`、fax 0212 220 82 79、Küçükçekmece Basın Ekspres Yolu；运营 `milesight.com.tr` 与 IG `@milesight_tr`。⚠ **决策人姓名仍为空白（最大缺口）**。
+
+**⑦ 其余 14 家的新增要点**
+- **02 NOVA/Novacom**：品牌 **Novacom（NVC-）**，三域（nova-grup.com / novacom.com.tr / 第三方 **pekgross.com** 转售）；⭐ **24V 楼宇对讲（diafon）PoE** 两款 `NVC-INTSF0420FB2L`(4+2)/`NVC-INTSF0820FB2L`(8+2)，**规格表极简**=我方升级空间；另有 PoE 延长器、CCTV 测试仪（SKU 10594/10884/10885）。
+- **03 Snexus**：**2020 成立**、11–50 人、Çekmeköy；⭐ **新加坡据点 Sim Lim Square（Rochor Canal Rd 02-67）**；具名分销商 **HEMMAH GROUP**；⚠ 名称污染（巴基斯坦外包公司 / 美国存储软件同名）。
+- **04 Cenova**：法定名 **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. VE TİC. LTD. ŞTİ.**、**2002 成立**、自述"主要与远东和欧洲知名公司合作"；客户=**市政/大学/军/医院/工厂**、给经销商账期；人员 Abdurrahman Erkarslan、Necla Güler（会计）。
+- **05 CryptoLink**：站点自证六业务（边境/网络/网安/LPR/在线培训/**信号干扰**）；⚠ **法定名 A.Ş. 与 Ltd. Şti. 站点自相矛盾**；是 `itmteknoloji.com.tr` **解决方案伙伴**；⚠ 与 **CryptoLink Inc(US)**、**Cryptex(Ankara)** 同名 → 勿混。
+- **09 Okisan**：**48–49 人 / 5,318 关注 / 行业分类=İthalat ve İhracat（进出口）/ Ortaklık**；⚠ **成立年三个数字**：官网 1986、领英 1993、2004 转 A.Ş.（对外统一用 1986+2004）；⭐ **Okan Özkara（Business Development Director，2010–，同姓=家族）**、**Kerem Öztürk（Ankara Bölge Müdürü，2001–，24 年）**、Ekrem Özkara(CEO)、Gökhan Özkara(外贸)。
+- **11 Karer**：⭐ **PESİAD 会员**；法定名 **Karer Güvenlik Sistemleri Sanayi ve Ticaret Ltd. Şti.**、**2006 成立**、**1,000 m² kapalı alan**、新座机 **0216 397 33 88**；Nurbaki Karataş（CEO/owner，Akdeniz Üniv.）、Ebru Tekin（会计 2021–）、Neslihan Entrk（销售）→「1,000 m² + 板级生意」= **具备本地组装条件，推"模组+技术转移"**。
+- **12 Telemobil**：法定名 **Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.**、**90 年代为 A.B GRUP 的 IT 部门 → 2005 独立 A.Ş.**、Üsküdar Küçükçamlıca、**97（LinkedIn）/120（ZoomInfo）人**、第三方估营收 **≈$25.6M**；业务 = **IT 系统集成 + 电气承包（Elektrik Taahhüt）+ 楼宇自动化/弱电**；客户 教育/医疗/建筑/**数据中心**；KP Murat Gül（Proje Grup Direktör Yrd.）、Mehmet Emre Güney、Aydın Akkoyun。→ **投标支持 > 降价**。
+- **17 Filiz Güvenlik**：⭐ 护城河 = **须经内政部许可的 7/24 报警监控中心（merkezi alarm istasyonu）**，订阅制；官网有 **`Çözüm Ortaklığı`（合作伙伴）表单** = 现成正式入口；⚠ **Ltd. Şti. vs A.Ş. 冲突**；Mavili Yangın İzmir 授权服务；FB/YouTube/领英（**个人页形式**的企业号）。
+- **20 OPAX**：法定名**逐字核实**（…**İthalat İhracat Dış Ticaret Pazarlama Limited Şirketi**）；地址 No:3/1 Opax Plaza；**`satis@opax.com` + 新增 `sezer@opax.com`**（Google Play 开发者信息）；自有 App **OPAX Pro**（`com.opax.opaxalarmpro`）→ 有云/移动端能力；**$35/120W 是引流款**，机会在 802.3bt/24 口/宽温；`Damian Brozda(.pl)` **仍无法定论**。
+- **07 Sami CEUIK**：公开面 0；⚠ **`CEUIK` 疑为 `ÇEVİK` 的录入变体** → 需名片校正；维持"订单级"优先级（500 台 > 公开资料丰富度）。
+- **08 Selim Kalaka**：六角度全空；固化结论 = **窗口信息只存在于展会对话，外部无法证实也无法推翻 → 外部检索到此为止**。
+- **13 ONSIS / 15 HAFYA / 21 bilimsat**：公开面 0（ONSIS 仅知区号 0232=İzmir；HAFYA 军项目本色；bilimsat ⚠ **"Gmail=个人经营"判断不成立**）。
+- **14 Makros**：⚠ **名字撞车**（`makrosinsaat.com` 建筑 / `macromuhendislik.com` 弱电工程 2013 / Makro İnşaat）→ **r41 的"Makros A.Ş."在公开网络无对应实体，先核主体再谈生意**。
+
+**⑧ 两个可复用方法论（写进台账，后续直接用）**
+1. **海关提单反查**：用**法定全名**在 Volza/ImportGenius/Panjiva 查 → 供应商名 + 批次数 + HS 编码 + 单票数量。边界：只覆盖报关部分；**话术上绝不能说"我们知道你的供应商是谁"**。
+2. **行业协会会员名录**：**PESİAD（安防）/ SAHA İstanbul（国防）/ TÜBİSAD** 常登记法定名+成立年+面积+电话 → 本轮靠 PESİAD 一次拿全 Karer 硬信息。
+- 另附市场规模（Volza 品类口径）：**土耳其自中国进口 Ethernet Switch 4,061 批次 / 509 家买家**；全球「Access Switch」进口中土耳其占 **13%（599 批）排第 3**。→ 土耳其是**成熟替换市场**，胜负手在换存量供应商，不在开荒。
+
+**边界（必须保留的诚实口径）**
+- **年报/财报：0 家**。土耳其私营 Ltd./A.Ş. 不公开年报，档案内营收**全部为第三方推算**（Datanyze/RocketReach/ZoomInfo），已逐条标注"非财报"。
+- **GitHub/论坛：0 家**，且是**"确认无"**（白牌固件生态），非遗漏。
+- **政府招标（EKAP）未接入、TÜRKPATENT 商标未查、Ticaret Sicil Gazetesi 股权未查**（付费/交互查询）→ 列为下轮。
+- 全部为 `fetch_page` / `web_search` 的**文本提取**，无原始 HTML 落盘；第三方数据库（Lusha/ZoomInfo/RocketReach/Datanyze/Volza）数据**存在滞后与推算误差**，引用时保留"第三方"限定。

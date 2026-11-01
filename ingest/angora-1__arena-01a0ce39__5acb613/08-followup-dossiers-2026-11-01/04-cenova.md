@@ -142,3 +142,47 @@
 - `DL-3416PF` / `DL-3524PGF` / `DL-END3308PFG` 是否已从 PoE 分类下架（只在「相似产品」里出现）
 - Dayline 的实际 ODM 工厂（PDF 不写；只能靠报价与交期反推）
 - 是否已有 2.5G / 802.3bt 的规划（决定我方先推哪一档）
+
+---
+
+## 商业深挖 2026-11-01（补充：主体、行业面、人员）
+
+> 时间同上（2026-11-01）。这一节补的是**"这家公司到底是谁、卖给谁"**，与上面的"核验补录"（产品与 E-wind 更正）互补。
+
+### A. 法定主体（补齐到报关抬头级）
+
+> **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. VE TİC. LTD. ŞTİ.**
+> （Perpa Ticaret Merkezi 企业名录登记名，逐字）
+
+- 名录简介原文要点：*"**CENOVA GÜVENLİK SİSTEMLERİ 2002 yılından bu yana** Türkiye'de güvenlik sektöründe faaliyet gösterip… Genellikle **Uzakdoğu ve Avrupa ülkelerinden** dünyaca bilinen firmalarla anlaşmalar yaparak…"*
+- → **成立 2002 年**（r41 未记年份，本轮补上）；**"Uzakdoğu"（远东）进口是其自述的常态** → 它本来就是中国采购方，无需教育。
+- **`İTH. İHR.`（进出口）在主体名里** → 有直接进口资质，可 FOB/CIF 签约。
+
+### B. 客户结构（Datanyze 企业档案表述，需内部复核）
+
+> *"targets diverse clients, including **municipalities, universities, military, hospitals, and factories**… offers **B2B services with 24/7 support and flexible payment options for authorized dealers**."*
+
+含义：
+1. **政府/军/医院/大学**是它的终端 → **项目制采购**，会要**授权函、原产地证、CE/RoHS 文件**（我方要给全套，否则进不了标书）。
+2. **"flexible payment options for authorized dealers"** → 它给下游账期 → **上游必然也要账期**。首单要守住 **前 T/T**，否则现金流被它转嫁。
+3. 经营范围还含 **"Oto alarm sistemlerinin imalatı"（汽车报警器制造）** 与安防/消防/信号批发 → 它是**"制造 + 批发"双身份**，这也解释了它为什么敢自己做 Dayline 品牌。
+
+### C. 已见人员（LinkedIn/Datanyze 公开档案）
+
+| 姓名 | 关联 | 说明 |
+|---|---|---|
+| **Rifat Baydemir** | GM（r41，`rifat@cenova.com.tr`） | 决策人 |
+| **Abdurrahman Erkarslan** | Cenova Güvenlik | 业务侧，**可作为第二入口** |
+| Necla Güler | 会计（muhasebe） | 说明有独立财务岗 → 账期/信用有流程 |
+
+### D. 展会 / 论坛 / 开源
+
+| 角度 | 结果 |
+|---|---|
+| 自有社媒 | IG `@cenovaguvenlik`、FB `/CenovaBT`、X `@CenovaBT`、YouTube（用户名为 `keremdmrc`，⚠ **个人账号而非企业名**，说明早期是老板个人号改的） |
+| 展会 | 本轮未在公开参展商名录独立核实；r41 用户侧无 ISAF 记录 |
+| GitHub / 论坛 | 无 |
+
+### E. 对上一节打法的补充一条
+
+- 它**给经销商账期 + 服务政府项目** → **我方在报价里必须写清付款条件**，并把「**授权函 + CE/RoHS + 土耳其语数据表**」作为标配套餐一次性给齐，**这是它拿去投标要用的东西**，比降价更有说服力。
