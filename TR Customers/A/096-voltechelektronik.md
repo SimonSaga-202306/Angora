@@ -50,3 +50,34 @@ Hikmet EBICINOGLU info@voltechelektronik.com 0532 548 91 62 / 0551 375 12 25
 ## 备注
 
 —
+
+---
+
+## 附：A 档深挖（r47 · 2026-11-01）
+
+> 本节为 **r47（2026-11-01）A 档深挖**新增（A/ 里此前**没有完整档案**的档位），来源为公开网络（官网 / 企业登记 / 协会名录 / 商标库 / 第三方企业库），**未核实的项一律标为空白，不推测。**
+
+### 一句话
+⚠ **"Voltech" 在土耳其指向两个完全不同的主体，必须分清**：
+① **Voltech Elektronik（Silivri / İstanbul）**——`voltechelektronik.com`，**网站写着"建设中"**，做摄像机/报警/电脑/电话总机，**只有一个 WhatsApp 号**；
+② **VOLTECH L.L.C（迪拜 + 伊斯坦布尔 Perpa B Blok K:7 No:60）**——做**油气/金属行业的电气系统**（西门子/ABB/施耐德、中压断路器、PLC/HMI）。
+**111 记录与哪一家对应，无法确认。**
+
+### 已知信息
+| 主体 | 地址 | 联系 | 业务 |
+|---|---|---|---|
+| Voltech Elektronik | **Silivri / İstanbul** | `info@voltechelektronik.com`、**WhatsApp +90 551 375 12 25** | 摄像机、报警、电脑、电话总机、电气电子 |
+| VOLTECH L.L.C | **Perpa B Blok K:7 No:60, Şişli** + 迪拜 Al Sheba（License 2203899） | `info@voltechco.com` | 油气/金属电气：中压断路器、PLC&HMI、变频、仪表（西门子/ABB/施耐德/FLUKE/FLIR） |
+
+### 与我方的判断
+- 若对应 **① Silivri** → **极小安装商**（网站未建成、只有 WhatsApp）→ 小批量 PoE，走 WhatsApp。
+- 若对应 **② 迪拜 L.L.C** → ⚠ **它做中压/油气电气，不是 IT 网络** → **交换机机会低**；但它有 **Perpa 办公 + 迪拜总部** → 可作**中东转口渠道**（与我方工业交换机出海相关）。
+
+### 打法（先分主体）
+1. 第一封只做确认：*"Voltech Elektronik (Silivri) ile VOLTECH L.L.C (Perpa/Dubai) aynı şirket mi?"*
+2. 若 ① → WhatsApp 551 375 12 25，8 口 PoE 单价。
+3. 若 ② → 按"油气/工业项目配套 + 中东转口"谈，**只谈工业宽温机**。
+
+### 证据等级与空白
+- 已核实：两个主体的地址、联系、业务范围（各自官网）。
+- 空白：**111 对应的到底是哪一家（本档阻塞项）**、法定名、规模。

@@ -30,8 +30,16 @@ TIERS = ('A', 'B', 'C')
 
 # r46 · B 档深挖数据（b_deepdig_data_1.py / _2.py）。缺失则跳过，不影响 A/C 生成。
 B_DEEPDIG = {}
+A_DEEPDIG = {}
 try:
     import importlib.util as _ilu
+    for _m in ('a_deepdig_data_1',):
+        _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
+        if os.path.exists(_p):
+            _spec = _ilu.spec_from_file_location(_m, _p)
+            _mod = _ilu.module_from_spec(_spec)
+            _spec.loader.exec_module(_mod)
+            A_DEEPDIG.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -42,6 +50,7 @@ try:
 except Exception as _e:  # 数据缺失不应阻断主生成
     print('WARN: B deep-dig data not loaded:', _e)
 B_MARK = '## 附：B 档深挖（r46 · 2026-11-01）'
+A_MARK = '## 附：A 档深挖（r47 · 2026-11-01）'
 
 
 def tier_letter(level):
@@ -259,6 +268,18 @@ def main():
                      '**未核实的项一律标为空白，不推测。**')
             L.append('')
             L.append(body_bd.strip('\n'))
+            L.append('')
+        body_ad = A_DEEPDIG.get(no)
+        if letter == 'A' and body_ad:
+            L.append('---')
+            L.append('')
+            L.append(A_MARK)
+            L.append('')
+            L.append('> 本节为 **r47（2026-11-01）A 档深挖**新增（A/ 里此前**没有完整档案**的档位），'
+                     '来源为公开网络（官网 / 企业登记 / 协会名录 / 商标库 / 第三方企业库），'
+                     '**未核实的项一律标为空白，不推测。**')
+            L.append('')
+            L.append(body_ad.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
@@ -478,7 +499,7 @@ def main():
                  % (a, strip_md(by_no[a]['公司'], 46), b,
                     strip_md(by_no[b]['公司'], 46)))
     R.append('')
-    R.append('## 九、B 档深挖（r46 · 2026-11-01）')
+    R.append('## 九、A/B 档深挖（r46–r47 · 2026-11-01）')
     R.append('')
     R.append('**`B/` 全部 77 家已做一轮公开网络深挖**，每家文件末尾多出一个小节'
              '「附：B 档深挖（r46 · 2026-11-01）」：主体核实 / 它在卖什么 / '
@@ -496,7 +517,19 @@ def main():
              '（`34 Stasanet` 实为**塞尔维亚**、`28 Hiperonline` 与 `32 Fiberix` 是 **ISP**、'
              '`43 Düzgün` 是**纺织**、`71 Baburtech` 是**笔电维修**、`55 ULAK` 是**国家级设备商**）；'
              '`30 ORAL` 实为 **KKTC**、`45 Alamthal` 实为**利比亚市场**（伊斯坦布尔采购办）。')
-    R.append('- **A 档本轮未重做、C 档本轮零投入**（用户明确：A 已挖完、C 不跟进没精力）。')
+    R.append('- **r47 追加：`A/` 里此前没有完整档案的 17 家已逐家深挖**'
+             '（文件末尾多出「附：A 档深挖（r47 · 2026-11-01）」）。'
+             '**A 档现在 33/33 全部有深度内容**（15 家原有完整档案 + 17 家 r47 新深挖 + 1 家 Entegron 专档）。')
+    R.append('- ⭐ **r47 三个高价值发现**：① `A/052` **upTech 是 Nokta Elektronik 的自有品牌**'
+             '（商标 2008/13951，**916 SKU**），且它同时代理 **Edge-Core / Ruijie / Planet / ORing**'
+             ' → **A 档最优先的 OEM 目标**；② `A/053` **Winet** 把价格印在网站上：'
+             '`OEM-8-PORT-GB-POE`（8 口千兆 PoE，7×PoE 24/48V + 1 上联）= **2,916.76 ₺ + KDV**'
+             ' → **唯一公开价格锚点**；③ `A/075` **Technopc**（1998，**27,500 m² / 250+ 人**，'
+             '**全土第一张国产货证书**，SAHA İstanbul + Ostim Savunma 双会员）→ **最大 OEM 机会**。')
+    R.append('- ⭐ **`…/08-customer-pipeline/116-b-a-model-mapping-2026-11-01.md`**：'
+             '**11 家 B + 8 家 A 的「型号对位表」**（客户型号 ↔ 我方型号逐行 + 缺口矩阵 + 打法 + 必问三句）。'
+             '**这是真正能直接发出去的那份附件。**')
+    R.append('- **C 档本轮仍是零投入**（用户明确：C 不跟进、没精力）。')
     R.append('')
     R.append('## 十、相关目录')
     R.append('')

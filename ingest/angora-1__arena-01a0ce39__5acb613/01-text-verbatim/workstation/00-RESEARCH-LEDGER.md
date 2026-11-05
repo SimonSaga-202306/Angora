@@ -1101,3 +1101,83 @@ CLR Networks 官网 contact 页逐字：**总部 `5/F, Hua sheng sheng hui Build
 - **`build_tr_customers_r44.py` 已内置"B 深挖数据注入"**（读取上面两个数据模块，仅对 `letter=='B'` 且有序号的档追加）→ **重跑脚本不会丢掉 r46 内容**，也不会污染 A/C。
 - `08-followup-dossiers-2026-11-01/` **原件零改动**（本轮只读）。
 
+## §41 · 第 47 轮 — 2026-11-01 ≈21:15–22:30 (+0800)：A 档补齐 + B/A 型号对位表
+
+用户原话：「继续挖 那照你的思路来搞 反正就是把AB挖的越深越好 不要管C」。
+
+**范围决定**：只做 **A + B**，**C 36 家继续零投入**。A 档上一轮（r46）按用户「A 类似乎已经挖完了」的判断跳过了——本轮补上：**A/ 里此前只有 `111` 管线字段、没有完整档案的 17 家，全部逐家深挖**。
+
+### 一、A 档补齐（17 家）
+
+`A/` 33 家的结构现在是：**15 家原有完整研究档案（r41–r43）+ 1 家 Entegron 专档 + 17 家 r47 新深挖 = 33/33 全部有深度内容。**
+
+17 家 = `052 053 054 072 075 083 085 087 089 090 093 094 095 096 097 098 099`，其中 5 家是 r44/r45 的跨批次重复档（`083`=#24 SFP Turkey、`089`=#29 DE Secure、`093`=#33 HCS、`095`=#31 F.A.S.T.、`098`=#39 MEPA）——按"不合并"原则**各自保留文件、内容指向首次深挖的那一份**。
+
+**⭐ 三个高价值发现（本轮最大收获）**
+
+1. **`052 Uptech / Nokta Elektronik` —— A 档最优先的 OEM 目标。**
+   - **upTech 是 Nokta Elektronik ve Bilişim Sistemleri A.Ş. 的自有品牌**：土耳其专利商标局注册号 **2008/13951**，**2008-03-11 首次注册，续展至 2028**。
+   - **916 个 SKU**，覆盖**以太网交换机与 PoE 交换机**、SFP/SFP+、媒体转换器、跳线、连接器、HDMI 转换器、测线仪；**保修与技术支持由 Nokta 自己承担**。
+   - 同时是 **Dahua、Ruijie Networks、Edge-Core、Planet、ORing、Amphenol、Gewiss、Goldtool、Noyafa、ATC** 的分销商。
+   - 登记信息：**MERSİS 0631-0730-5210-0020**、**Tic. Sicil No 555138-0**、Perpa、**0212 222 87 80**、`nokta@noktaelektronik.net`、**25 年+**。
+   - 市场：土耳其 + **中东、突厥语共和国、巴尔干**。
+   - → **它代理 Edge-Core（开放网络厂牌）、能贴牌、能转口、有 916 SKU 的自有品牌** = 三条通道同时成立。**这是全项目里最优先的一封邮件。**
+
+2. **`053 Winet` —— 全项目唯一可引用的土耳其零售价锚点。**
+   - `wi.com.tr` 把价格印在页面上；型号前缀直接用 **`OEM-`**（**`OEM-8-PORT-GB-POE`**），即它自己就承认是贴牌线。
+   - **`OEM-8-PORT-GB-POE`（WINET 8 口千兆 PoE，7×PoE 24/48 V + 1 上行）= 2,916.76 ₺ + KDV（未税）**。
+   - 该型号**只有 24/48 V 手动、无 af/at 自动协商、无 bt、无长距** → 我方 `EW-S1710FG-AP`（af/at）与 `EW-S1810CF-AP`（af/at/bt 60 W + 300 m + PoE Watchdog）是**三档升级**。
+   - 同页另有 `WINET-ANT-LTE-12DB` **1,956.56 ₺（含税）**、`WINET-TSFR-1` 技术支持包 **3,467.28 ₺ + KDV**。
+
+3. **`075 Technopc` —— 最大 OEM 机会。**
+   - **1998 创业 / 2006 自建厂**，**27,500 m² 制造基地 + 研发设计中心**，**250+ 人**。
+   - **全土耳其第一张「国产货证书（Yerli Malı Belgesi）」的电脑制造商** + GreenPC 认证。
+   - **SAHA İstanbul（国防航空集群）+ Ostim Savunma（安卡拉国防集群）双会员**；客户 = **政府、国防组织、关键基础设施、企业数字化**。
+   - 产品：台式机、笔记本、**工业电脑**、服务器、**数据存储**、**AI 基础设施**、定制硬件平台。
+   - → **工控机/服务器/存储的「柜内交换 + ToR」是它天然的缺口**（我方 `EW-PIS*` 工业线 + `EW-S53928QM` 24×10G+4×100G + `EW-S5954GM-AP` L3+）。
+   - ⚠ **谈法纪律**：它的核心叙事是"国产化"，**不要拿"中国工厂"当卖点**，要落在**本地交付 / 本地保修 / 贴 technopc 牌**上。
+
+**其余 14 家的要点**（详见各档案）：`054 TekniksatGroup`（1992，制造实体 **RFT Teknoloji A.Ş.**，自有 **Teknoline**，官网有 **NETWORK ÜRÜNLERİ** 分类，444 40 91）；`072 Lemax`（2009，零售套装商，出口阿塞拜疆/KKTC/格鲁吉亚，**建议降 C**）；`090 Cansıs Teknoloji`（Konya Çumra，老板 **Ahmet Can**，**Armiya Teknoloji 的 Çumra bayisi**，**ASKON Konya 会员**登记号 4474226 → 真正该打的是 **Armiya**）；`094 Klasnet`（Bursa Nilüfer，**2021 起业**，团队 14 年，**站点被注入垃圾内容** → 只能电话）；`096 Voltech`（⚠ **两个不同主体**：Silivri 小店 vs 迪拜 **VOLTECH L.L.C** + Perpa B Blok）；`097 Labor Mühendislik`（**Diyarbakır**，弱证据）；`099 Viva Bilgisayar`（**Hatay**，**İsmet Yavuz**，**Hikvision Hatay Silver Partner**，**震后重建市场**；另有同名伊斯坦布尔 Şişli 电脑批发商 0212 216 90 11）；`085/087` 与 `083/089/093/095/098` 见上。
+
+### 二、`116-b-a-model-mapping-2026-11-01.md`（新品）
+
+把 **11 家 B + 8 家 A** 的**在售型号逐条对位到我方型号**：
+
+- **缺口矩阵（谈判空间只有这 6 行）**：`2.5G 电口` / `802.3bt 60–90 W` / `250–300 m 长距 PoE` / `云管理·AI PoE` / `工业宽温+DC 宽压` / `40–100G 上联`。
+  → **11 家客户的产品线全部停在「GE + 10G 上联」**；这 6 行是我方唯一的结构性差异，**同规格比价只在第 1 行用**。
+- **逐家对位表**：Coptek（`S4600-28X-SI` → `EW-S2928GM`）、NFS（`SRX-4GS24PP+` / `SRX-10GS24PX-L3` → `EW-S2926GM-AP` / `EW-S5748GM-AP`）、Cebeci（`S5700-24G-4FR` / `-4TFR` → `EW-S2928GM`）、iotsistem（`MLB-E410x/E420x` → `EW-PIS3610M/PIS5728GM-AP`）、ErETE（`XPS-I7120-*` / `XPS-I8120-16` → `EW-PIS1810/5712M-8GE`）、Eurocam（Ruijie 经济层）、Koza、Lansan（SKD 本地组装）、HCS、Antalya Turkuaz（⚠ 不打 Omada）、Zeytek（MOBESE 柜内）、Nokta（upTech 全线）、Winet（OEM-8 三档升级）、Tekniksat（Teknoline 牌）、Technopc（工控机+ToR）、Viva（震后重建）、Cansıs（→ Armiya）。
+- **纪律写进文档**：`EtherWAN` 是 ErETE 的长期代理 → **永不贬低**，只谈经济层；`Ruijie/Omada` 有云生态 → **不正面打云战**；`SRX-GS24PMX` 模块化机型**我方没有 → 照实写缺**。
+
+### 三、两处修正（对 r46 的自我更正）
+
+1. **`#62 Cebeci` 的品牌归属判错了一半**：r46 说 `S5700` 是"白牌贴 Cebeci 的牌"；r47 抓首页后确认它的**真实品牌宇宙是电信测试与 FTTx**（代理 **Argus、Cifocs、CMG、Greenlee-Tempo、InterCoax、Micos、Trend Networks**），工业交换机与光转换器挂的是 **`Cifocs`** 品牌（分类首图 = **`Cifocs CFC-4G2SFP-IPS`**）。
+   → **`S5700` 是电商挂品（大概率代发/白牌），不是它的自有线；真正该谈 OEM 的是 `Cifocs` 线。** 顺带补齐：**Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 D:24, Okmeydanı / İstanbul 34384**、**0212 320 08 88 / 320 08 85**、`iletisim@cebecigrup.com`。
+
+2. **`#10 ErETE` 应从 B 改判 A**：抓到 `erete.com.tr` 完整分类后，发现它**不只卖 XPS**——有独立的 **`OPEN NETWORKING`** 与 **`NOS（Network Operating System）`** 分类，代理 **IP Infusion**（开放网络 NOS）与 **EtherWAN**（台湾加固工业交换机）、**LANDE**（布线）；
+   自有 **XPS** 全型号：`XPS-I7120-6/-10/-14/-16/-24`（非 PoE）、**`XPS-I7120-6P/-10P/-14P/-16P`（PoE）**、**`XPS-I8120-16`（12×GE + 4×10G SFP+，L2+）**、`XPS-I8120-24F`（12×GE + 8×SFP）；
+   EtherWAN 线：`EX89000 / EX87000 / EX77000 / EX83000 / EX61000A / EX70900 / EX72000 / ECS4660-28F` + 加固 PoE `ER59000 / ER58000` + `EX75000 / EX76000 / EX78000 / EX78602 / EX74000 / EX46100 / EX48000`。
+   → **它是 B 档里唯一具备「白盒 + 第三方 NOS」能力的客户**，与 Angora 的产品域正面重叠。**建议升 A，并列入第一批要打的 3 家。**
+
+### 四、产出与规模
+
+- `TR Customers/A/*.md`：**17 家**新增「附：A 档深挖（r47 · 2026-11-01）」。
+- `TR Customers/B/*.md`：77 家的 r46 小节**原样保留**（脚本重跑后自动重建，内容不丢）。
+- 新建 `08-customer-pipeline/116-b-a-model-mapping-2026-11-01.md`；`115` 追加 §九 修正。
+- `TR Customers/README.md` 第九节改标题为「A/B 档深挖（r46–r47）」，补 r47 三条发现与 `116` 指针。
+- 目录 **13,182 → 13,679 行（+497）**；文件数不变（146 客户 MD + README）。
+
+### 五、方法与诚实边界
+
+**本轮新方法**
+1. **协会/集群名录是挖"国产化玩家"的捷径** —— Technopc 的 `27,500 m² / 250 人 / Yerli Malı Belgesi / SAHA+Ostim 双会员` 全部来自 **SAHA İstanbul 与 Ostim Savunma 的企业页**，官网只说"领先"。
+2. **商标注册号能证明"自有品牌"** —— upTech 的 **2008/13951** 一锤定音（官网自述 + 商标库双证），比"看起来像自有"可靠得多。
+3. **"客户把价格印在网站"是稀缺资源** —— 一旦遇到（Winet），**立刻记进档案**，它是未来所有定价谈判的参照。
+4. **`OEM-` 前缀 / 分类首图**这类"结构性痕迹"比文案更有信息量（Winet 的 `OEM-`、Cebeci 的 `Cifocs` 首图）。
+
+**诚实边界**
+- `085 Netmax`、`087 Uğur İmre`、`097 Labor Mühendislik`：**主体未确认**，只写"一次通话建档"。
+- `096 Voltech`：**实为两个不同主体**（Silvri 小店 vs 迪拜 L.L.C + Perpa），111 对应哪家**未确认** → 本档阻塞。
+- `072 Lemax`：零售套装商，客单价极低 → **建议降 C**（与 r46 对 Baburtech/Düzgün 的处理逻辑一致：品类不对，不是资料不足）。
+- **对位表右列的我方规格来自仓库 `112` 目录快照（r24 索引，2026-10）**，**不是 2026-11 最新价表** → **报价前必须内部复核价与 MOQ**（已写进 `116` §四）。
+- 客户侧 **6 家只有"分类"没有"型号"**（Coptek 的 L3/PoE 分类、Koza、Lansan、HCS、Antalya Turkuaz 部分品牌、Zeytek）→ 对位只到**档位级**，未到型号级。
+

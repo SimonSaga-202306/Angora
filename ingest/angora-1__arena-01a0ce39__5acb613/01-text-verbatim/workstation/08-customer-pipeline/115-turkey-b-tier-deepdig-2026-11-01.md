@@ -158,3 +158,31 @@
 - 权威源表：`…/08-customer-pipeline/111-turkey-customer-pipeline.csv`
 - 生成脚本：`…/08-customer-pipeline/build_tr_customers_r44.py`（已内置 B 深挖数据注入）
 - 数据模块：`…/08-customer-pipeline/b_deepdig_data_1.py`（#6–30）、`b_deepdig_data_2.py`（#31–130）
+
+---
+
+## 九、r47 修正与补充（2026-11-01）
+
+> 本文件主体（§一–§八）写于 r46；r47 又抓了一轮，**有 2 处需要修正、1 处需要升级**。**不覆盖原文，只在此追加**。
+
+### 1. ⚠ 修正：`#62 Cebeci` 的品牌归属
+
+- r46 写的是「`S5700` 页面无品牌名 → 疑似白牌贴 Cebeci 的牌」。**r47 抓了 `cebecigrup.com` 首页后判断需修正**：
+- Cebeci 的**真实品牌宇宙是电信测试与 FTTx**：代理 **Argus、Cifocs、CMG、Greenlee-Tempo、InterCoax、Micos、Trend Networks**（官网"Markalara Göre Ürün Gruplarımız"）。
+- 它的工业交换机与光纤转换器线挂的是 **`Cifocs`** 品牌（官网"Endüstriyel Switchler"分类首图 = **`Cifocs CFC-4G2SFP-IPS`**）。
+- → **修正后的判断**：`S5700-24G-4FR` / `-4TFR` 是它**电商挂品（大概率代发/白牌）**，**不是它的自有品牌线**；**真正该谈 OEM 的是 `Cifocs` 这条线**（若 Cifocs 为其自有商标）。
+- 同一轮补齐的**新事实**：**地址 = Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 D:24, Okmeydanı / İstanbul 34384**；**电话 +90 212 320 08 88 / 320 08 85**；**邮箱 `iletisim@cebecigrup.com`**。
+
+### 2. ⭐ 升级：`#10 ErETE` 应改判 **A**
+
+- r47 抓到 `erete.com.tr` 完整产品分类，发现它**不只卖 XPS**：
+  - **`OPEN NETWORKING`** 与 **`NOS（Network Operating System）`** 两个独立分类；
+  - 代理 **IP Infusion**（开放网络 NOS）与 **EtherWAN**（台湾加固工业交换机）、**LANDE**（布线）；
+  - 自有 **XPS** 工业线全型号：`XPS-I7120-6/-10/-14/-16/-24`（非 PoE）、**`XPS-I7120-6P/-10P/-14P/-16P`（PoE）**、**`XPS-I8120-16`（12×GE + 4×10G SFP+，L2+）**、`XPS-I8120-24F`（12×GE + 8×SFP）；
+  - EtherWAN 线：`EX89000 / EX87000 / EX77000 / EX83000 / EX61000A / EX70900 / EX72000 / ECS4660-28F`、加固 PoE `ER59000 / ER58000`、`EX75000 / EX76000 / EX78000 / EX78602 / EX74000 / EX46100 / EX48000`。
+- → **它已经是"开放网络 + 工业网络"的完整分销商**，与 Angora 的产品域**正面重叠**：**这是 B 档里唯一具备"白盒 + 第三方 NOS"能力的客户**。**建议直接升 A，并列为第一批要打的 3 家之一。**
+
+### 3. 新增：`116-b-a-model-mapping-2026-11-01.md`
+
+- r47 把 11 家 B + 8 家 A 的**在售型号逐条对位到我方型号**（含缺口矩阵、价格锚点、必问三句、以及"我方没有的档位照实写缺"）。
+- **本文件仍是"分档与优先级"的总表，具体对位去打 `116`。**

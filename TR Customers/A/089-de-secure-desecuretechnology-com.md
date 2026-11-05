@@ -52,3 +52,18 @@ Serdar TURKER IT 经理 serdar.turker@desecure.com.tr 90505 786 29 19
 ## 备注
 
 英文不太好，WA 为主
+
+---
+
+## 附：A 档深挖（r47 · 2026-11-01）
+
+> 本节为 **r47（2026-11-01）A 档深挖**新增（A/ 里此前**没有完整档案**的档位），来源为公开网络（官网 / 企业登记 / 协会名录 / 商标库 / 第三方企业库），**未核实的项一律标为空白，不推测。**
+
+### 重复登记说明
+⚠ **本档 = `B/029`（DE Secure / Desecure Technology）**，跨批次重复。**内容以 `B/029-de-secure-desecure-technology.md` 的「附：B 档深挖（r46）」为准。**
+
+### 一句话提醒
+**Desecure 是集团（1,400+ 人 / 9 据点 / 20+ 年），不是小客户**：İstanbul 总部 + **Denizli 运营中心**，双法人（科技 + 私营安保，因 5188 号法分设），自研 **MIA 移动监控车 / MID 移动监控杆 / MAS 移动报警台** → **切入点是"移动部署的 DC 宽压工业 PoE"**，参展是**能源展**（Solar Storage İstanbul、TÜREK）而不是安防展。
+
+### 操作要点
+- **只联系一次**；首封主题 `MID/MIA için endüstriyel PoE switch（DC giriş / IP koruma / 6kV）`。

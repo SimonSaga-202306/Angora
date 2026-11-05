@@ -52,3 +52,18 @@ Ercan ERINC 高级销售工程师 ercan@fasttr.com 90216 574 94 34(113) / 90216 
 ## 备注
 
 —
+
+---
+
+## 附：A 档深挖（r47 · 2026-11-01）
+
+> 本节为 **r47（2026-11-01）A 档深挖**新增（A/ 里此前**没有完整档案**的档位），来源为公开网络（官网 / 企业登记 / 协会名录 / 商标库 / 第三方企业库），**未核实的项一律标为空白，不推测。**
+
+### 重复登记说明
+⚠ **本档 = `B/031`（F.A.S.T. / Fabrika Aygıtları Sistem Teknolojisi A.Ş.）**，跨批次重复。**内容以 `B/031-f-a-s-t-fabrika-aygitlari-sistem-teknolojisi-a-s.md` 的「附：B 档深挖（r46）」为准。**
+
+### 一句话提醒
+**F.A.S.T. 是 1994 年成立的工厂自动化系统集成商（约 32 人，Ataşehir）**，做工业以太网/现场总线/SCADA/防爆 → **它是 B 档里"工业 PoE 最对口"的一家**，谈法是**降本二供**（它已有固定供应源），不是开荒。
+
+### 操作要点
+- **只联系一次**；首封主题 `Endüstriyel switch — ikinci kaynak（Ex-proof projeleri için）`。
