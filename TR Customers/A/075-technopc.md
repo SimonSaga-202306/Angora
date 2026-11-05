@@ -99,37 +99,37 @@ AI 18B/Claude 10C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r58 新增：**Technopc 的「交换机」是纯文案，站点上零个交换机 SKU** —— ODM 缺口已确认
+#### r59 补：**ODM 报价必须按「我有真实 FOB」重算 —— 结论：只在 ≤$150 档成立**
 
-r53 只记了「Technopc 网络品类空目录」。本轮把 `technopc.com.tr/network-urunleri/` 逐项读完，**原因清楚了**：
+r58 给 Technopc 的 ODM 提案逻辑是「我方 FOB × 1.6–1.8」。本轮拿到**型号级 FOB 实数**（2026-11-01 阿里商品页快照）后，逐档验算：
 
-| 型号 | 类型 | 原文关键配置 |
-|---|---|---|
-| `FW801` | x86 防火墙 | Intel 6./7. Nesil · 16 GB DDR3 · 2× 2.5" HDD · **SIM 卡支持** |
-| `FW622` | x86 防火墙 | Celeron N3060 · 8 GB DDR3 · 2 TB · **6× Gigabit LAN** |
-| `FW57` | x86 防火墙 | Celeron 3205U · 16 GB DDR3 · 2 TB · **2× COM + 2× LAN** |
-| `NSW 4500` | x86 SD-WAN | Atom 2.2 GHz · 2× SO-DIMM DDR4 · **6× LAN + 4G LTE** |
-| `NTSN 6500F` | x86 SD-WAN | Atom C3558 · 128 GB DDR4 · **6× LAN + 2× SFP** |
+| 拟供货型号 | 配置 | 我方 FOB | ODM 价（×1.6–1.8） | 对比锚点 | **是否成立** |
+|---|---|---|---|---|---|
+| **`EW-S1828CG-AP`** | 24×PoE + 2 RJ45 + 2 SFP，**300 W** | **$70** | **$112–126** | HPE Aruba `JL683A` 24 口 PoE **$291**；FOREDGE `PS3024GS` **$231.6** | ✅ **成立，品牌方毛利可到 1.8–2.6×** |
+| `EW-S1926CG-AP-AT` | 24×GE PoE 管理 + 300 m Watchdog | **$140** | $224–252 | 同上 | ⚠ 勉强（低于 Aruba $291，仅 13–23% 空间） |
+| 8 口 GE PoE + 2 SFP 管理 | 8 口千兆管理 PoE | **$43.50–45.90** | $70–83 | EZCOOL `EZ-08PSF-FG`（8GE+2GE，120 W）**$80** | ✅ 成立（对 EZCOOL 平价，赢在管理与品牌定制） |
+| `EW-PIS3810M-8GE-BT` | 8×GE PoE **bt** + 2 上联 | **$158.66** | $254–286 | FOREDGE `IS1010GPS` **$181.2** | 🛑 **不成立**（ODM 价已高于对手零售） |
+| 24×GE PoE + 4×10G | L2+ AF/AT | **$309–329** | $494–592 | FOREDGE `PS3028GT` **$408.8** | 🛑 **不成立** |
+| `EW-S2948GM-AP` | 48×GE PoE + 4×10G，400 W | **$425–450** | $680–810 | FOREDGE `PS5052GT` **$561.6** | 🛑 **不成立** |
 
-- 页面营销文案写满：`gigabit ve 10G destekli switch modelleri`、`PoE çözümleri`、`Layer 2/Layer 3 yönetilebilir switch`、`bulut tabanlı yönetim`；
-- 但筛选结果为 **`Seçilen filtrelere uygun ürün bulunamadı`**，`/urun-kategori/network-urunleri/switch/` = **404**；
-- 全部产品只有 **「Bize Ulaşın」联系表单，无价格**。
+**⇒ 给 Technopc 的提案必须收窄到三条线**（否则一报价就死）：
 
-**⇒ 结论：Technopc 做的是 x86 网络安全盒子（防火墙 / SD-WAN），交换机是「对外宣传了、向内还没货源」的品类。**
+1. **24 口 PoE 300 W（`EW-S1828CG-AP`）$70** → ODM **$112–126**；
+2. **8 口 GE PoE 管理（$43.50–45.90）** → ODM **$70–83**；
+3. **16×100M PoE + 3×GE 上联（`EW-S1827CF-AP`）$99–112.5** → ODM **$159–203**（FOREDGE 无同档，安全）。
+4. **明确不报**：bt 工业、24+4×10G、48 口 PoE（ODM 价高于对手零售，报了等于自曝成本高）。
 
-而本管线 #75 的原有记录写的是：**「Switch/AP/Firewall = 近期扩张配套品类；工业 PoE 采购 E-wind」**（用户侧信息）。**两条合起来 = 一个正在找交换机货源、且已经在我方采购工业 PoE 的土耳其本土品牌。**
+**另外三项可以立刻写进提案**：
 
-**⇒ 建议动作（本轮最高转化价值的一条）**
+- **5 年保修**：`EW-PIS3824M-16GE` datasheet 原文 `ultra-long 5 years warranty`（IP40 / 双电源 / MTBF 35 年）—— **DMO 主流是 24 个月**，Technopc 若拿这条做政企单，直接压过 FOREDGE。
+- **定制 MOQ 500**：`EW-PIS3810M-8GE-BP` 页原文，LOGO / 包装 / 图案定制均为 **500 台起** —— 对品牌方正好是「首单 500 台」的自然锚点。
+- **海运成本**：原文 `Starts at US$0.84/kg with a 50kg minimum`，**17–24 天**；8 口工业机单台毛重 **3.000 kg** ⇒ **约 $2.5/台**，可写进 DDP 试算。
 
-1. **不要卖成品，谈 ODM**：一句开场——`Sitenizde L2/L3 switch ve bulut yönetiminden bahsediyorsunuz ama katalogda tek bir switch SKU yok. Ürün mü eksik, sertifika mı? Biz OEM/ODM yapıyoruz: 24 port GE PoE + 4×10G ve 8 port 2.5G PoE iki hattı, MOQ 1 adet numune, 5–7 gün numune süresi.`
-2. **ODM 报价逻辑**：我方 FOB × **1.6–1.8**（留给品牌方的毛利 + 本地库存成本），仍显著低于 FOREDGE `PS3028GT` **$408.8** 与 HPE Aruba ION `JL683A`（24 口 GE PoE）**$291** ⇒ 品牌方有得赚。
-3. **认证可直接复用**：CE / RoHS / UKCA / DoC（我方阿里店铺已展示 5 张）。
-4. **保修必须给 36 个月**：DMO 页面 `Garanti Süresi` 多数为 **24 月**，但 Ruijie `RG-S2915-10GT2MS-P-L` 与 `RG-S2915-24GT4MS-P-L` 是 **36 月** ⇒ **3 年保修已是公共采购的差异化点**，我方按 36 个月报，别只给 24。
-5. ⚠ **前置欠账**：我方 **24 口 +4×10G / 8 口 2.5G PoE / 48 口 PoE** 的 FOB 仍未取得（r57 起连续两轮），**没有这三个数字，ODM 提案发不出去**。
+⚠ **不要**再对 Technopc 说「我方 FOB $95–106，你有 3–4 倍空间」—— 那是 r57 的错误套用，已在 `128` 中推翻。
 
-**证据等级**：5 款型号与配置 = 页面原文；「零交换机 SKU / switch 子目录 404 / 无价格」= 页面原文；「Technopc 在采购 E-wind 工业 PoE」= **用户侧名单信息，我方未独立核实**；「ODM 报价 ×1.6–1.8」= 我方推算。
+**证据等级**：FOB = 阿里商品页原文/索引快照（2026-11-01）；ODM 倍率 1.6–1.8 = 我方推算；锚点价 = r57/r58 已录。
 
-> **完整背景见** `127-dmo-dealers-technopc-odm-and-tr-own-brands-2026-11-01.md`（含 RESET / DAPA 完整联络档案、土耳其自有品牌低价带、阿里 MOQ 分布抽样）。
+> **完整倍率表与推翻记录见** `128-our-model-level-fob-and-multiplier-correction-2026-11-01.md`。
 
 ---
 
@@ -205,3 +205,41 @@ r53 只记了「Technopc 网络品类空目录」。本轮把 `technopc.com.tr/n
 **证据等级**：5 款型号与配置 = 页面原文；「零交换机 SKU / switch 子目录 404 / 无价格」= 页面原文；「Technopc 在采购 E-wind 工业 PoE」= **用户侧名单信息，我方未独立核实**；「ODM 报价 ×1.6–1.8」= 我方推算。
 
 > **完整背景见** `127-dmo-dealers-technopc-odm-and-tr-own-brands-2026-11-01.md`（含 RESET / DAPA 完整联络档案、土耳其自有品牌低价带、阿里 MOQ 分布抽样）。
+
+---
+
+## 附：r59 用真实 FOB 重算 ODM 报价（2026-11-01）
+
+> 本节为 **r59（2026-11-01）** 的验算；**与 r57/r58 的价格口径冲突时以本节为准**。
+
+#### r59 补：**ODM 报价必须按「我有真实 FOB」重算 —— 结论：只在 ≤$150 档成立**
+
+r58 给 Technopc 的 ODM 提案逻辑是「我方 FOB × 1.6–1.8」。本轮拿到**型号级 FOB 实数**（2026-11-01 阿里商品页快照）后，逐档验算：
+
+| 拟供货型号 | 配置 | 我方 FOB | ODM 价（×1.6–1.8） | 对比锚点 | **是否成立** |
+|---|---|---|---|---|---|
+| **`EW-S1828CG-AP`** | 24×PoE + 2 RJ45 + 2 SFP，**300 W** | **$70** | **$112–126** | HPE Aruba `JL683A` 24 口 PoE **$291**；FOREDGE `PS3024GS` **$231.6** | ✅ **成立，品牌方毛利可到 1.8–2.6×** |
+| `EW-S1926CG-AP-AT` | 24×GE PoE 管理 + 300 m Watchdog | **$140** | $224–252 | 同上 | ⚠ 勉强（低于 Aruba $291，仅 13–23% 空间） |
+| 8 口 GE PoE + 2 SFP 管理 | 8 口千兆管理 PoE | **$43.50–45.90** | $70–83 | EZCOOL `EZ-08PSF-FG`（8GE+2GE，120 W）**$80** | ✅ 成立（对 EZCOOL 平价，赢在管理与品牌定制） |
+| `EW-PIS3810M-8GE-BT` | 8×GE PoE **bt** + 2 上联 | **$158.66** | $254–286 | FOREDGE `IS1010GPS` **$181.2** | 🛑 **不成立**（ODM 价已高于对手零售） |
+| 24×GE PoE + 4×10G | L2+ AF/AT | **$309–329** | $494–592 | FOREDGE `PS3028GT` **$408.8** | 🛑 **不成立** |
+| `EW-S2948GM-AP` | 48×GE PoE + 4×10G，400 W | **$425–450** | $680–810 | FOREDGE `PS5052GT` **$561.6** | 🛑 **不成立** |
+
+**⇒ 给 Technopc 的提案必须收窄到三条线**（否则一报价就死）：
+
+1. **24 口 PoE 300 W（`EW-S1828CG-AP`）$70** → ODM **$112–126**；
+2. **8 口 GE PoE 管理（$43.50–45.90）** → ODM **$70–83**；
+3. **16×100M PoE + 3×GE 上联（`EW-S1827CF-AP`）$99–112.5** → ODM **$159–203**（FOREDGE 无同档，安全）。
+4. **明确不报**：bt 工业、24+4×10G、48 口 PoE（ODM 价高于对手零售，报了等于自曝成本高）。
+
+**另外三项可以立刻写进提案**：
+
+- **5 年保修**：`EW-PIS3824M-16GE` datasheet 原文 `ultra-long 5 years warranty`（IP40 / 双电源 / MTBF 35 年）—— **DMO 主流是 24 个月**，Technopc 若拿这条做政企单，直接压过 FOREDGE。
+- **定制 MOQ 500**：`EW-PIS3810M-8GE-BP` 页原文，LOGO / 包装 / 图案定制均为 **500 台起** —— 对品牌方正好是「首单 500 台」的自然锚点。
+- **海运成本**：原文 `Starts at US$0.84/kg with a 50kg minimum`，**17–24 天**；8 口工业机单台毛重 **3.000 kg** ⇒ **约 $2.5/台**，可写进 DDP 试算。
+
+⚠ **不要**再对 Technopc 说「我方 FOB $95–106，你有 3–4 倍空间」—— 那是 r57 的错误套用，已在 `128` 中推翻。
+
+**证据等级**：FOB = 阿里商品页原文/索引快照（2026-11-01）；ODM 倍率 1.6–1.8 = 我方推算；锚点价 = r57/r58 已录。
+
+> **完整倍率表与推翻记录见** `128-our-model-level-fob-and-multiplier-correction-2026-11-01.md`。
