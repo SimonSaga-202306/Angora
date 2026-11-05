@@ -59,7 +59,8 @@ try:
     R64 = {}
     R65 = {}
     R66 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data'):
+    R67 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -102,6 +103,8 @@ try:
                 R65.update(_mod.D)
             if _m == 'r66_appendix_data':
                 R66.update(_mod.D)
+            if _m == 'r67_appendix_data':
+                R67.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -132,6 +135,7 @@ R63_MARK = '## 附：r63 8 口真实锚价与 DMO 价格锁定（2026-11-05）'
 R64_MARK = '## 附：r64 FX2120 修正与安防货架价（2026-11-05）'
 R65_MARK = '## 附：r65 8 倍来自 PoE 而非工业（2026-11-05）'
 R66_MARK = '## 附：r66 工业 8 口是平价位（2026-11-06）'
+R67_MARK = '## 附：r67 FOREDGE 全价目与 8 口双口径（2026-11-06）'
 
 
 def tier_letter(level):
@@ -556,6 +560,16 @@ def main():
             L.append('> 本节为 **r66（2026-11-06）**，**它推翻上一节（r65）的核心判断：`PL-IGS-TS82CM` 其实是 PoE+，DMO 只 $162。据此讲话术之前务必先读本节。**')
             L.append('')
             L.append(body_r66.strip('\n'))
+            L.append('')
+        body_r67 = R67.get(no)
+        if body_r67:
+            L.append('---')
+            L.append('')
+            L.append(R67_MARK)
+            L.append('')
+            L.append('> 本节为 **r67（2026-11-06）**；**它给了 FOREDGE 在 DMO 的全 12 条价目，并把「8 口有没有优势」这个问题按口径拆开 —— 这是与客户对话前必读的一节。**')
+            L.append('')
+            L.append(body_r67.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
