@@ -60,7 +60,8 @@ try:
     R65 = {}
     R66 = {}
     R67 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data'):
+    R68 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -105,6 +106,8 @@ try:
                 R66.update(_mod.D)
             if _m == 'r67_appendix_data':
                 R67.update(_mod.D)
+            if _m == 'r68_appendix_data':
+                R68.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -136,6 +139,7 @@ R64_MARK = '## 附：r64 FX2120 修正与安防货架价（2026-11-05）'
 R65_MARK = '## 附：r65 8 倍来自 PoE 而非工业（2026-11-05）'
 R66_MARK = '## 附：r66 工业 8 口是平价位（2026-11-06）'
 R67_MARK = '## 附：r67 FOREDGE 全价目与 8 口双口径（2026-11-06）'
+R68_MARK = '## 附：r68 24 口地板 $412 与 SFP 价差（2026-11-06）'
 
 
 def tier_letter(level):
@@ -570,6 +574,16 @@ def main():
             L.append('> 本节为 **r67（2026-11-06）**；**它给了 FOREDGE 在 DMO 的全 12 条价目，并把「8 口有没有优势」这个问题按口径拆开 —— 这是与客户对话前必读的一节。**')
             L.append('')
             L.append(body_r67.strip('\n'))
+            L.append('')
+        body_r68 = R68.get(no)
+        if body_r68:
+            L.append('---')
+            L.append('')
+            L.append(R68_MARK)
+            L.append('')
+            L.append('> 本节为 **r68（2026-11-06）**；**它把前几节的倍率按「净价口径」重算并下调 —— 报价与讲话术前必须读这一节。**')
+            L.append('')
+            L.append(body_r68.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
