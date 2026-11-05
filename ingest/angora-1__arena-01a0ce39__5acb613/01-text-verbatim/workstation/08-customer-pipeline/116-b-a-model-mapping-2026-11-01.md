@@ -9,7 +9,7 @@
 > - **价格**：本文件只有 **1 个真实公开价锚点**（Winet，见 §二），其余一律不给价——**价格必须现报**。
 > - 凡是"我方没有"的档位，**照实写"缺"**，不用"可定制"糊过去（可定制是真的，但要额外写交付周期 4–6 周）。
 >
-> ⭐ **r48 后续（2026-11-01）**：本文件为**档位级**对位；**型号级清单与逐行对位**已另立 **`117-customer-catalog-forensics-2026-11-01.md`**（upTech 14 款全表 / Winet 30 品牌 + 美元价 / ErETE Edgecore+OcNOS / Cifocs 13 款）。**两文件冲突时以 `117` 为准**——本文件 §一 的 bt 行已按 `117` 修正。
+> ⭐ **r48 后续（2026-11-01）**：本文件为**档位级**对位；**型号级清单与逐行对位**已另立 **`117-customer-catalog-forensics-2026-11-01.md`**（upTech 14 款全表 / Winet 30 品牌 + 美元价 / ErETE Edgecore+OcNOS / Cifocs 13 款）。**三文件冲突时以最新的 `118` 为准**——本文件 §一 的 **bt 行已按 `117`、工业宽温行已按 `118` 修正**。
 
 ---
 
@@ -23,7 +23,7 @@
 | **802.3bt / 60–90 W** | ⚠ **r48 修正（原写"只有 ErETE"，已被证伪）**：**upTech 已有 bt，但只覆盖 1–4 口**——`SW1082-GGSUP`（8 口，1–4 口 bt，**300 W**）、`SW20244-GGCUP`（24 口，1–4 口 bt，**500 W**）、`SW2082-GGSUP`（8 口，1–4 口 bt）；ErETE 见 EtherWAN **60 W PSE** 公告；NFS `SRX-*` 停在 **30 W**；其余客户只到 **af/at 30 W**。→ **真实差距 = 「口数」与「单口功率」**：客户最多 **4 口 bt / 总 300–500 W**，我方 **全口 bt / 单口 60 W / 总 800 W** | `EW-S1810CF-AP`（7–8 口 **60 W/口**）、`EW-PIS3810M-8GE-BT`、`EW-PIS6812M-8GE-BT`、**`EW-PIS5728GM-AP-BT`（28 口 L3 / 800 W / 24×bt）** | — |
 | **250–300 m 长距 PoE** | Coptek/Cebeci/iotsistem **0 家**；NFS 未见；只有 Longline/Ewind 系有 | `EW-S1810CF-AP` 拨码 **E = AI Extend 300 m**、`EW-ES` 系 Cloud 版同功能 | 商用受管大机未见长距拨码 |
 | **云管理 / AI PoE** | 客户侧 **0 家**（ErETE 靠 IP Infusion NOS，不是云） | `EW-ES2010CF-AP`、`EW-ES3006CG-AP`、`EW-ES3028CG-AP`（24 口 400 W）、`EW-EPIS3910-8GE`（工业云） | EwindCloud 平台生态成熟度弱于 Omada/TP-Link |
-| **工业宽温 + DC 宽压** | ErETE(XPS)、iotsistem(MLB)、NFS(SRX-IGS) 有，但**多为百兆为主、无 2.5G、无 bt** | `EW-PIS1810/1812-8GE`、`PIS3610M-8GE`、**`PIS3620M-16GE`（20 口 L2+）**、`PIS5712M-8GE`（4×10G SFP+）、**`PIS5728GM-AP`（28 口 L3 / 400 W）** | — |
+| **工业宽温 + DC 宽压** | ⚠ **r49 修正（原写"ErETE/iotsistem/NFS 有"，不全）**：**upTech 也有完整工业线 `ISW` 系列**（`ISW2420-GGS/GGSP`、`ISW2820-GGS/GGSPV`、`ISW1820-FGSP`、`ISW21240-GGS`）——但**全部 GE + 1G SFP、最高 af/at、非管理款仍是百兆**；Nokta 工业分类里另有 ORing `RGPS-R9244GP+-P`（24×PoE+ **带 4×10G**）与 Dahua `PFS4207-4GT-DP`（4 口 **bt 90 W**）。→ 我方的真实差 = **工业 + 10G 上联 + 2.5G + bt 四者同时具备** | `EW-PIS1810/1812-8GE`、`PIS3610M-8GE`、**`PIS3620M-16GE`**、`PIS5712M-8GE`（4×10G SFP+）、**`PIS5728GM-AP`**、**`EW-PIS3810M-8GE-BT`**、`EW-EPIS3910-8GE`（12/24V 被动 PoE + 云） | — |
 | **40/100G 上联** | **0 家**（Coptek/NFS/Cebeci 最高 4×10G） | **`EW-S53928QM`（24×10G SFP+ + 4×100G）**、`EW-S57948QM`（48×2.5G + 4×100G L3） | — |
 
 > ⚠ **r48 重要修正**：本矩阵原第 2 行写「bt 只有 ErETE / NFS」，**已被证伪** ——
@@ -31,6 +31,8 @@
 > **所以 bt 不能用"我们有、你没有"来说，必须用「全口 bt + 单口 60 W + 800 W 总功率」来说。**
 > **2.5G / 250–300 m 长距 / 云管理 / 40–100G 上联四行仍然是真正的 0 命中**（upTech 全线 + ErETE XPS 全线均已确认）。
 > 详情与逐型号证据见 **`117-customer-catalog-forensics-2026-11-01.md`**。
+>
+> ⚠ **r49 再修正（工业宽温行）**：upTech **有**完整工业线 `ISW` 系列（见下方表格），且 Nokta 工业分类里已有 ORing 的 24 口 PoE+ **带 4×10G**、Dahua 的 4 口 **bt 90 W**。→ **「工业没有 10G 上联」「单口功率最高是我们」两句都不能说**；能说的是 **工业 + 10G + 2.5G + bt 四者同时具备**。详见 **`118-erete-supply-chain-and-uptech-industrial-2026-11-01.md`** §二。
 
 > ⭐ **结论**：这 11 家的产品线**全部停在「GE + 10G 上联」**。我方不打"同规格更便宜"，打 **「2.5G / bt / 长距 / 云 / 100G」这五个它没有的档**，价格战只在第 1 行（同规格替代）才用。
 

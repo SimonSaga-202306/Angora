@@ -93,33 +93,30 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐ r48 实证：`Cifocs` 是挂在 Cebeci 下的**自有编码品牌**（产品码 `OPT-` / `RSC-` 是内部码）
+### r49 复核：`Cifocs` 在品牌墙里与 **Argus/CMG/Greenlee/InterCoax/Kingfisher/Maisvch/Micos/PatchSee/Tempo/Trend/Vesala** 并列（**13 个品牌**）
 
-**抓到的 Cifocs 产品线**（`cebecigrup.com` 品牌页与产品页逐条）：
+- `cebecigrup.com/markalar/` 原文品牌清单：**argus · BitStream · cifocs · cmg · greenlee · intercoax · Kingfisher · Maisvch · micos · PatchSee · tempo · trend-networks · vesala**。
+- ⚠ **这条证据对"自有品牌"是不利的**：Cebeci 把 Cifocs 与 12 个**明确的外国品牌**放在同一面墙上，**没有任何"our brand / kendi markamız"标注**。
+- 支持"自有/独家"的仍是：**`CFC-*` 自家编号 + 内部码 `OPT-008` / `OPT-013` / `RSC-049` / `RSC-050`**（产品页"Ürün Kodu"列，官方原文），而代理品牌用原厂型号。
+- → **判定维持「推定」，且证据权重从"偏自有"下调为「五五」**。**客户可见文本一律不写"自有商标"**，首封照旧问一句。
 
-| 系列 | 型号 | 品类 |
-|---|---|---|
-| 光纤以太网转换器 | `CFC-1100`、`CFC-1100S25`、`CFC-1200S20`、`CFC-2200`、`CFC-2200S20`、**`CFC-3200S20`（BiDi 单纤，1310/1550，20 km）** | 10/100 与 10/100/1000 光转换器 |
-| 工业交换机 | **`CFC-4G2SFP-IPS`**（4×GE + 2×SFP 工业型） | 工业以太网 |
-| 光纤模拟电话 | `CFC-T/R2PSTN`、`CFC-T/R2PSTN1F`、`CFC-T/R4PSTN`、`CFC-T/R4PSTN1F`、`CFC-T/R8PSTN`、`CFC-T/R8PSTN2F` | 话务走光纤（运营商/园区场景） |
-| **内部产品码** | ⭐ **`OPT-008`、`OPT-013-A/B`、`RSC-049`、`RSC-049ETH`** | — |
+### 证据等级（r49 增补）
+- 已核实（新增）：**Cebeci 品牌墙 13 个品牌全名单**（含 BitStream / Kingfisher / Maisvch / PatchSee / Vesala 五个 r48 未记录的）。
+- 仍空白：**Cifocs 商标注册人**（TÜRKPATENT 需图形验证码 / 会话，公开检索未能直连）→ **唯一未解的阻塞项**。
 
-**为什么这组内部码是关键证据**
-- `OPT-`（optical）/ `RSC-`（?）这种**前缀 + 序号的内部编码**，是**"自有品牌 + 自建产品库"**的典型做法（和 upTech 的 `SW-` 体系同构）。
-- 而它代理的 **Argus / Micos / Greenlee-Tempo / Trend Networks** 都用**原厂型号**（Argus 153/260、Micos MIS 900（`MIS-900`）、Greenlee 801K、Trend NC-500/TM-700）。
-- → ⭐ **判断：`Cifocs` 是 Cebeci 的自有/独家品牌，产品由中国厂贴牌（转换器 + 工业交换机 + 光纤电话），Cebeci 编内部码。**
-- ⚠ **但商标注册人与授权层级未在公开面确认** → 首封**必须问一句**（下面已写）。
+---
 
-### 与我方的切入点（r48 更新，取代 r47 版本）
-1. ⭐ **`CFC-4G2SFP-IPS` 的下一代**：它只有 **4×GE + 2×SFP 非 PoE**。我方对位 + 升级：**`EW-PIS1805-4GE`**（4×GE PoE + 1 SFP）、**`EW-PIS1810-8GE`**（8 口 PoE）、**`EW-EPIS3910-8GE`**（云管理工业 PoE，含 12V/24V 被动 PoE）。
-   → **"4 口 → 8 口 + PoE + 云"** 是一条干净的产品升级线。
-2. **转换器线**：`CFC-2200S20`（1G 单模 20 km）对位 **`EW-810GS-20`**；`CFC-3200S20`（BiDi 单纤）对位 **`EW-810GS-20A&B`** / `EW-810GS-3A/B`；**10G 档它没有** → `EW-10GSFP-SR`。
-3. **光纤模拟电话（PSTN over fiber）** —— ⚠ **我方完全没有这个品类**，**不要提**（提了显得不懂它的业务边界）。
-4. **`S5700` 系列仍是电商挂品**（r47 已修正）→ 只作为"它在卖 L3 交换机"的旁证，**不作为谈判主体**。
+## 附：r49 复查收口（2026-11-01 深夜）
 
-**首封主题（r48 更新）**：`Cifocs endüstriyel switch hattı: 4 port → 8 port + PoE + bulut yönetimi`
-**必问三句**：① **"Cifocs sizin tescilli markanız mı, yoksa ithalatçısı mısınız?"**（决定 OEM 谈法）② **"CFC-4G2SFP-IPS yılda kaç adet satılıyor?"** ③ **"Cifocs markasıyla 8 portlu PoE switch ürettirmek ister misiniz?"**
+> 本节为 **r49（2026-11-01 深夜）**的**再次复查与收口**；**与前面任何小节冲突时，以本节为准**。
 
-### 证据等级（r48 增补）
-- 已核实（新增）：**Cifocs 六类共 13 个型号**（转换器 6 + 工业 1 + 光纤电话 6）、**内部产品码 `OPT-###` / `RSC-###`**、**代理品牌使用原厂型号（对照证明）**、**Cebeci 地址：Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 D:24, Okmeydanı / İstanbul 34384，0212 320 08 88 / 320 08 85，iletisim@cebecigrup.com**。
-- 仍空白：**Cifocs 商标注册人（关键）**、Cifocs 现工厂、年采购量。
+### r49 复核：`Cifocs` 在品牌墙里与 **Argus/CMG/Greenlee/InterCoax/Kingfisher/Maisvch/Micos/PatchSee/Tempo/Trend/Vesala** 并列（**13 个品牌**）
+
+- `cebecigrup.com/markalar/` 原文品牌清单：**argus · BitStream · cifocs · cmg · greenlee · intercoax · Kingfisher · Maisvch · micos · PatchSee · tempo · trend-networks · vesala**。
+- ⚠ **这条证据对"自有品牌"是不利的**：Cebeci 把 Cifocs 与 12 个**明确的外国品牌**放在同一面墙上，**没有任何"our brand / kendi markamız"标注**。
+- 支持"自有/独家"的仍是：**`CFC-*` 自家编号 + 内部码 `OPT-008` / `OPT-013` / `RSC-049` / `RSC-050`**（产品页"Ürün Kodu"列，官方原文），而代理品牌用原厂型号。
+- → **判定维持「推定」，且证据权重从"偏自有"下调为「五五」**。**客户可见文本一律不写"自有商标"**，首封照旧问一句。
+
+### 证据等级（r49 增补）
+- 已核实（新增）：**Cebeci 品牌墙 13 个品牌全名单**（含 BitStream / Kingfisher / Maisvch / PatchSee / Vesala 五个 r48 未记录的）。
+- 仍空白：**Cifocs 商标注册人**（TÜRKPATENT 需图形验证码 / 会话，公开检索未能直连）→ **唯一未解的阻塞项**。

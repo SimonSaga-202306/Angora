@@ -1236,3 +1236,52 @@ Cifocs 13 款全部用**自家编号体系**（`CFC-*` + 内部码 `OPT-###`/`RS
 **新方法**：① **命名规则反推产品线**（`SW` + 1/2/3 + 端口 + 代号）一次覆盖 14 款；② **品牌页的 SKU 计数是渠道结构指纹**（Mikrotik 473 vs WINET 426 一眼定性）；③ **内部产品码 vs 原厂型号的对照**是判别自有牌的最强公开证据。
 **诚实边界**：ErETE 的 Edgecore 授权层级、OcNOS 授权方式、Cifocs 商标注册人、upTech 现工厂、Winet 法定名与员工数 —— **全部仍空白**，已在各档「证据等级」逐条列出。
 
+---
+
+## §43 · 第 49 轮 — 2026-11-01 ≈23:55–01:20 (+0800)：**上一轮三个未决问题全部收口**（ErETE 供应链 / upTech 工业线 / Cifocs 证据）
+
+用户：「继续」。**0 新客户**，只打上一轮自己列出的 ROI 前三项 + 一个内部溯源。
+
+### 一、⭐⭐ ErETE 阻塞项解除（本轮最重要）
+
+**两条证据同时到手**：
+1. **仓库内既有**：`06-competitors/110` §十 已写明 **PNetworks 硬件底座 = Edgecore（Broadcom）+ SONiC + OcNOS**（Edgecore 官方新闻稿 MWC 2024-02-29），且 **PNetworks 是 Angora 的本土竞对**；§13 写明 **Angora 线 = Ewind（深圳 ODM）+ Marvell AC3/AC5**。
+   → **Angora 不是 Edgecore 渠道；土耳其的 Edgecore 白牌玩家是 PNetworks。**
+2. **外部决定性**：**`ipinfusion.com/partners/` 的 Resellers 名单原文含 `Erete — EMEA, Turkey`** → **ErETE 是 IP Infusion 官方授权 Reseller**。
+
+**⭐ 但因此推翻 r48 的建议**：`OcNOS Systems` 的合格硬件**只有 Edgecore（PRO）与 UfiSpace（FAST）**，**我方 Marvell 箱子不在清单里** →
+**不能**说"我们的交换机跑 OcNOS，比 Edgecore 便宜"。定稿话术改为：**「XPS 品牌的接入/园区线，与 OcNOS 数据中心线互补」**，只打接入段。
+
+**⭐ 新发现**：ErETE 真正在打的自有牌是 **`XPS-1220` 线 5 款 GE 接入 PoE**（`-10P` 8 口 / `-18P` 16 口 / `-26P` 22 口 / `-26PH` 高功率 / `-52P` 48 口），**全线 GE + 1G SFP 上联，无 2.5G、无 bt、无 10G、无云** → **这才是我方能正面对打的一段**。
+另：**`Kenar Switchler` 分类是空的**（导航有入口、0 产品）；**L3 分类 6 款全部 Edgecore**。
+→ 定性：**「西边 Edgecore 打 DC/骨干/L3、东边 XPS 打接入/工业」的双轨机器；我方只在东边有意义。**
+
+### 二、⚠ upTech 工业线补正（r48 的"无工业宽温"是错的）
+
+`noktaelektronik.com.tr/urunler/endustriyel-ethernet-3` = **50 个产品**，upTech **`ISW` 系列至少 6 款**：`ISW2420-GGS/GGSP`、`ISW2820-GGS/GGSPV`、`ISW1820-FGSP`（**非管理还是百兆**）、`ISW21240-GGS`。
+**工业段差距**：upTech **全部 GE + 1G SFP，无 2.5G / 无 10G / 无 bt**。
+**⚠ 两处话术禁区**：同分类里 **ORing `RGPS-R9244GP+-P` = 24×PoE+ 带 4×10G**（"工业没 10G 上联"不能说）、**Dahua `PFS4207-4GT-DP` = 4 口 bt 单口 90 W**（"单口功率最高"不能说）。
+
+### 三、WINET 结构复核
+
+WINET **426 SKU 的主体是无源光**：Breakout **53** / Patchcord Duplex SM **37** / **PoE 注入器 22** / 电源 16 / LoRa 14 / SFP+ 10G 11 …
+→ **它是 FTTx 现场物料商，不是交换机品牌**（r48 的"少量交换机"改为"**近乎孤例**"）。
+→ 最锋利一句：它自己卖 **22 个注入器**（`RG-POE-AT30` **$21**）→ 用 **`EW-EPIS3910-8GE`** 打「1 台顶 4 个注入器 + 4 条线 + 4 个电源 + 可远程重启」。
+
+### 四、Cifocs 权重下调
+
+`cebecigrup.com/markalar/` 品牌墙 **13 个品牌**（argus · BitStream · cifocs · cmg · greenlee · intercoax · Kingfisher · Maisvch · micos · PatchSee · tempo · trend-networks · vesala）→ **Cifocs 与 12 个外国品牌并列、无 "our brand" 标注** ⇒ **证据权重从"偏自有"下调为五五**，**仍作推定**，客户可见文本**禁写"自有商标"**。TÜRKPATENT 检索仍需人工（图形验证码）。
+
+### 五、产出与规模
+
+- 新增 `08-customer-pipeline/118-erete-supply-chain-and-uptech-industrial-2026-11-01.md`。
+- 新增 `08-customer-pipeline/r49_appendix_data.py`，`build_tr_customers_r44.py` **已接入** → `A/052` `A/053` `B/010` `B/062` 各增 **「附：r49 复查收口」**。
+- `116` **工业宽温行已修正** + 头部指向 `118`。
+- 根 `README.md` 增 `118` 链接。
+- 目录 **13,877 → 13,971 行（+94）**；文件数不变（146 客户 MD + README）。
+
+### 六、方法与诚实边界
+
+**新方法**：① **先在自己仓库里找答案**（Edgecore 归属由 `110` 一号文件解决，零抓取）；② **厂商 Partner 页（Reseller 名单）是"授权关系"的权威证据**，比客户官网自述可靠；③ **OcNOS 合格硬件清单 = 我方能不能卖的分界线** —— 这类"资格清单"必须在报价前查，否则一查就露。
+**诚实边界**：工业分类 50 个产品只读了第 1 页 20 个；ErETE 分类 68/71/95–99 未读；WINET 折叠子类未读完；**Cifocs 商标仍是唯一未解阻塞项**；IP Infusion 授权是否**独家**官网未写。
+
