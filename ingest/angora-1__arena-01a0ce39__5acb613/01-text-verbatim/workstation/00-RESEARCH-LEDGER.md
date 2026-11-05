@@ -1347,6 +1347,37 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §59 · 第 65 轮 — 2026-11-05 夜 ≈00:10–03:40 (+0800)：**8 倍来自 PoE 不来自「工业」** / **撤回「类目上万条」** / RESET 具名联系人
+
+用户第 18 次「AB继续挖 挖完为止」。**0 新客户**；本轮三件事全是「把漂亮的数字拆开」。
+
+### 一、🛑 拆掉「工业 8 口 8.1×」：真正的价差来源是 PoE
+**PLANET `PL-IGS-TS82CM`（工业 8 口 L3 管理型，20 Gbps，非 PoE）= 8,108.23 ₺ = $162**（另有 20,136.98 / 22,838.38 ₺ 两档）；**MOXA `EDS-P510A-8PoE`（PoE+）= $1,292**。
+⇒ **我方 `EW-PIS3810M-8GE-BT` FOB $158.66 ≈ DMO 非 PoE 价 $162** ⇒ **不能说「工业机便宜 8 倍」**，只能说「**同样的钱，DMO 给你不带 PoE 的，我们给 802.3bt**」。
+⇒ **工业段真实价带 `PLANET IGS` 全家**：`IGS-5225-4UP1T2S` $565–712 · `IGS-10020HPT` $680 · `IGS-5225-8P2S2X` $847 · `IGS-5225-16T4S` $898 · `IGS-6325-20T4C4X` $827–1,001 ⇒ **中位倍率 2.6–4.3×，不是 8×**。
+
+### 二、🛑 撤回「DMO 交换机类目至少上万条」
+同一类目在不同页自报 **222 / 253 / 339 / 369 / 418 / 435 / 480** 条，**随 `p` 单调上升且互相矛盾** ⇒ `p=774` 返回结果是**参数被忽略/钳制**，不是「有上万条」。
+⇒ **类目在数百条量级（约 300–500），30–40 页可枚举完** ⇒ **不需要抽样，可以做穷尽** —— 这正好符合用户「挖完为止」的原意。
+
+### 三、🛑 `OS6560-P24X4`：7–8 档、最高 9 倍（r62 的「1.47×」低估）
+$1,060（53,019.91 ₺，K1840 REFLEKS，2020-11-25→2023-02-25 已停售）/ $1,950 / $2,414 / $2,777 / $2,824 / $2,856（K77414 DÖRT US）/ $3,091 / **$9,542（477,281.22 ₺，⚠ 待复核）**。
+⇒ **$9,542 是其余七档的 3–9 倍，且 P24X4 贵过 P48X4（$2,856）3.3 倍，高度可疑** ⇒ **r62 §三「24 口 10G 7.5–8.0×」暂停引用**。
+⇒ 但**话术反而更强**：「**同一台 Alcatel 在 DMO 里能有七个价，从 5 万到 15 万里拉**」= 「K 码才是真价格」的最强证明。
+
+### 四、⭐⭐ RESET 完整档案 + 具名联系人
+店铺 **170027**（类目内 47 条）· **+90 212 955 00 95** / fax 96 · `info@reset.com.tr` · **Vizyon Park Ofis Blokları 4. Blok Kat 29 Ekim Cad. No:3/304, Yenibosna/İstanbul 34197**（第二址 Parima Plaza Cevizlibağ）· **2016 成立 · 10–50 人** · 自述「**Sistem Entegratörü**」「**marka bağımsız**」。
+**具名**：⭐ **`Kerem Kendirci` — Sales Manager, Public & Corporate**（第一联系人，KPI 就是公共部门=DMO）· `Ismail Kavak` — Founder & CTO · `Mehmet Karadut` — Sales Manager ICT · `Mustafa Tümay` — Network System Engineer。
+品牌：CISCO 228 · ARUBA 54 · MİRSAN 53 · HUAWEI 37 · HPE 17 · D-LINK 17 · DRAYTEK 6 · EATON 6 · CANOVATE 9 · LONGLINE 9 · BESTRACK 6 · PLANET 6 · MOXA 4 · MICROSENS 2 · MILESIGHT 3 · MELLANON 1 · ALFA TREND 6。
+⇒ **冷呼脚本已成文**（自称 marka bağımsız + 用他自己目录里的 `PL-IGS-TS82CM` 8,108 ₺ 开场 + 报 $160 FOB）。⚠ 姓名来自 ZoomInfo（B 级），邮箱打码，**电话里若否认立即改口**。⚠ **Crunchbase 把总部写成 Ankara 是错的**（电话 0212）。
+
+### 五、⭐ DÖRT US 品牌补充（修正 r64）
+**HPE `Q6M27A SN2410M` 25GbE = 522,177.79 ₺ = $10,439**（另一档 574,091.65）· HPE `JL828A 5140` · `R9L61A 5140` · **ALCATEL `OS6560-P48X4` = $2,856** · **ZYXEL `XS3800-28` = 211,815.65 ₺ = $4,235** · **D-LINK `DGS-1210-10/ME`** · **KYLAND `IGSFP-S-LH-LC-1310-40-DDM`（SFP 40 km）= $66**。
+⇒ **DÖRT US 不是 Zyxel 独家**，是多品牌（Zyxel/HPE/Alcatel/D-Link/KYLAND/Supermicro）+ 自有品牌 ⇒ **但不削弱「自有品牌缺交换机」的结论，反而加强**（一个做 5 个网络品牌的店，自有品牌里没交换机）。
+⇒ **修正**：r64 说「KYLAND 7 条 = 工业交换机」要收窄为「**KYLAND 7 条，含至少 1 条工业 SFP 模块，其余 6 条未逐条确认**」。
+
+**诚实边界**：`PL-IGS-TS82CM` 的 PoE 属性是 DMO 字段推断（页内无 PoE 字段，未见 PLANET datasheet）· $9,542 那档无法复现 · RESET 合同期三次未取到 · RESET 姓名来自第三方库 · DÖRT US KYLAND 其余 6 条未确认。
+
 ## §58 · 第 64 轮 — 2026-11-05 ≈20:10–23:50 (+0800)：**推翻 r61 最低锚（FX2120 是 10G 汇聚）** / **DÖRT US = ODM 第一顺位** / 僵尸合同规则化
 
 用户第 17 次「AB继续挖 挖完为止」。**0 新客户**。
