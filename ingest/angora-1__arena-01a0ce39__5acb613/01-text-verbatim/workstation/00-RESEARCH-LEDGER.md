@@ -1347,6 +1347,36 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §56 · 第 62 轮 — 2026-11-01 ≈07:50–11:20 (+0800)：**DMO 工业段 $1,292 / 同型号 5 档价差 47%** / 安卡拉 6 家经销商完整档案
+
+用户第 15 次「AB继续挖 挖完为止」。**0 新客户**；本轮补 r61 缺的两块：工业高端段 + 经销商联络。
+
+### 一、⭐⭐⭐ 同型号在 DMO 里有 3–5 档报价，最高差 47%
+**Alcatel `OS6860N-P48M`（L3，36×1/2.5G，95 W bt PoE）**：**$5,061 / $6,466 / $6,645 / $7,031 / $7,449**（253,166.57 – 372,561.67 ₺）⇒ **1.47×**。
+**MOXA `EDS-G512E-8PoE-4GSFP-T`**：$1,190 / $1,373 / $1,840 / $1,978 ⇒ **1.66×**。**Allied Telesis `AT-X530L-28GPX`**：$2,457 / $3,217 / $3,471 ⇒ 1.41×。**Huawei `S5735-L48LP4XE-A-V2`**：$2,530 / $2,731 / $2,807。**PLANET `IGS-6325-20S4C4X`**：$898 / $1,181。
+⇒ **标准问句改成「这个 K 码你按第几档拿？」** —— 一句就能筛出谁是真操盘方。
+
+### 二、⭐⭐ 工业与高端段价格全表（本轮新取）
+**MOXA `EDS-P510A-8PoE-2GTXSFP-T`（工业 8 PoE+ + 2 combo，−40~75 °C）= $1,292** · PLANET `IGS-6325-20T4C4X` **$1,001** / `IGS-6325-20S4C4X` $898–1,181 · Zyxel `RGS200-12P` $1,323 · Cisco `IE-3300-8U2X-E` **$2,814** · FOREDGE `IS104GPS-2F` $742 · **Huawei `S5735-L48LP4XE-A-V2`（48 GE + 4×10G，PoE 380 W）$2,530–2,807** · Huawei `S5735-L48T4S-A-V2` $1,040 · Allied Telesis `AT-X530L-28GTX` $2,340–2,567 / `-28GPX` $2,457–3,471 / `-52GPX` $4,153–5,049 / `AT-X530-52GPXm` **$5,440** · Alcatel `OS6860N-P48M` $5,061–7,449 / `-P48Z` $5,694–5,937 / `OS6860E-U28` $3,151 / `OS6560-P24X4` **$9,542** · Zyxel `CX4800-56F` $28,157。
+⇒ **倍率（DMO / 我方 FOB）**：工业 8 口 bt **8.1×**（$158.66 vs MOXA $1,292）· 工业 8 口低端 **8.2–11.1×** · 工业 16 口 **3.0×** · 48 口 PoE+ **5.6–6.0×**（$425–450 vs Huawei $2,530）· 24 口 PoE+ 10G **7.5–8.0×**。
+⇒ ⚠ **修正 r59 的适用范围**：r59「高端 1.14–1.65×，不要打价格战」**只对零售渠道成立**；对 DMO 客户同批型号是 **3.0–11.1×**。**结论不推翻，但必须分渠道说。**
+
+### 三、⭐⭐ 安卡拉 6 家 DMO 经销商完整档案（r61 只有电话）
+**ROKHSİS** — Via Flat İş Merkezi, Beştepe Mah. Nergiz Sok. K:3 No:87 Söğütözü/Çankaya/Ankara；**+90 312 258 64 59**；**info@rokhsis.com.tr**；域名 2017-07-10；**WHOIS 注册人为「ODTÜ GELİŞTİRME VAKFI BİLGİ TEKNOLOJİLERİ」⇒ ODTÜ 发展基金会旗下**；自述「%100 yerli sermaye」「marka bağımsız」；Cisco 合同 **2026-11-07 到期（2 天后）**。
+**EKSPA** — Turan Güneş Bul. 576. Sk. No:30, Aşağı Dikmen/Çankaya/Ankara 06450；**+90 312 463 88 88** / 呼叫中心 **444 10 42**；**info@eks-pa.com.tr** / info@eb.com.tr；`eks-pa.com.tr`；**Ankara+İstanbul 100+ 人、1000+ 客户**；**7 大区 21 省 7×24 授权服务**（HP/HPE/Microsoft/Oracle/Cisco/Trend Micro）⇒ **补我方本地 RMA 短板的最佳伙伴**。
+**4S BİLİŞİM TEKNOLOJİLERİ A.Ş.** — Çetin Emeç Bul. 1314. Cad. No:40/B, Öveçler/Çankaya/Ankara；**0312 472 90 00** / fax 05；`4s.com.tr`；**2004-05-04 成立**；**DMO 在册 231 个条目** ⇒ **目录体量最大**。
+**DATANETSOFT** — Sağlık Mah. Ataç 1 Sk. No:7/6 Çankaya/Ankara；**0850 502 59 69**；info@datanetsoft.com.tr；**21 个条目全是 Zyxel**（价区间 5,295–1,408,405 ₺）⇒ Zyxel 独家通道。
+**RİVO TEKNOLOJİ A.Ş.** — HQ Ceyhun Atuf Kansu Cad. Ata Plaza No:100/B Balgat/Çankaya/Ankara；**444 8 620** / +90 312 481 19 14；info@rivo.com.tr；**2013 成立、51–200 人、营收估 $10–50 M**；**27 个条目全是 Dahua**。
+**NETCOM** — **0312 473 73 24**；**38 个条目 = Huawei 34 + Draytek 4**；Huawei 合同 2024-10-30 → **2026-10-30**；`S5735-L48T4S-A-V2` 只要 **$1,040** ⇒ Huawei 预算段通道。
+
+### 四、⚠ 主体未确认：4S ≠ Dört Us
+`4S BİLİŞİM TEKNOLOJİLERİ A.Ş.`（4s.com.tr，**2004-05-04**，0312 472 90 00，Ankara Öveçler，DMO 231 条）与 `DÖRT US BİLİŞİM SAN. VE TİC. A.Ş.`（4us.com.tr，**2008**，**0549 299 0967**，iletisim@4us.com.tr，İstanbul Başakşehir + Zonguldak 支店）**名称几乎相同但为两家不同公司** ⇒ **按「一定不能合并」原则各自记录**。
+
+### 五、DMO 类目体量修正
+`dmo.tr/Katalog/Arama?...&p=774` 仍返回交换机类目结果 ⇒ **该目录条目数至少上万**，r61「上千」的判断**低估一个量级**。
+
+**诚实边界**：6 家只有 info@ 邮箱与电话，**采购负责人未取得**；ROKHSİS 股权来自 WHOIS 转载站，**需人工复核**；EKSPA 总经理姓名来自博客转载（低可信）；`AT-X530*` 与 Alcatel 的价格**未见供应商名**；4S 与 NETCOM 官网未找到。
+
 ## §55 · 第 61 轮 — 2026-11-01 ≈04:30–07:40 (+0800)：**DMO 24 口价格带 $413–1,337** + **17 家经销商** + **EZCOOL B2B 价推翻 r58**
 
 用户第 14 次「AB继续挖 挖完为止」。**0 新客户**；本轮是**口径重构轮** —— 第一次把 DMO 合同价与零售价分开成两张带。
