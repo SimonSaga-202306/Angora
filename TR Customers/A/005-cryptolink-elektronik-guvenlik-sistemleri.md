@@ -176,40 +176,41 @@ info@cryptolink.com.tr + +90 312 557 64 00 + Çankaya Mah. Bükreş Cad. 19/1
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐⭐ r52：`CRL` 不是它的自有品牌 —— 每份 datasheet 页脚都印着 **"Authorized Dealer"**
+### ⭐⭐ r53：两份工业线 datasheet 读到 —— **PDF 里还留着原厂牌子「CrystalWAN」**
 
-把官网 7 份 PDF 打开后，**版式给出决定性证据**：
-- 每份 datasheet 的页脚都是 **`CryptoLINK.  Authorized Dealer | Cryptolink Elektronik Güvenlik Sistemleri San ve Tic. Ltd. Şti`**；
-- `CRL-SW-2402` 的 PDF 页眉里出现 **`Cryptol.net`** 的 logo 字样 → **`CRL` 品牌属于第三方（深圳 Cryptol 系），CryptoLink 是"授权经销商"**。
+#### A. 换牌实证（比"Authorized Dealer"更硬）
+`DatasheetofCRLISW-14.pdf` 的**封面页眉原文就是 `CrystalWAN Network Solutions`**，而内页型号写作 **`CRLISW-414`**；`CRLISW-08.pdf` 内页型号写作 **`CRLISW-8P`**。
+→ **同一份 PDF 里同时出现三个名字（CrystalWAN / CRLISW-414 / CryptoLINK）** ⇒ **它不是品牌方，是把 OEM 的 PPT 直接改个封面**。这条与 r52 的「Authorized Dealer」页脚互为印证，**r52 的「代理品牌」判定成立且证据升级**。
 
-→ **改写**：本档此前记的「CRL 线 7 份 datasheet 实锤 … switch+SFP+MC 全自有」应更正为 **"CRL 为代理品牌（Authorized Dealer），非自有商标"**。
-→ 与 `Cifocs`（Cebeci）、`CLR`（GelecekBT）**同一模式**：土耳其渠道**普遍用"引入的深圳品牌 + 本地化文档"充当自有品牌**。**这条规律适用于全部 A 档判断：凡"自有品牌"必须先查商标，否则一律按代理处理。**
-
-#### 型号与规格（datasheet 原文）
-| 型号 | 端口 / 规格 |
-|---|---|
-| ⭐ **`CRL-SW-L3-2404-10G`** | **24×10/100/1000 PoE + 8×Combo TP/SFP + 4×10G SFP+ + 1 Console**；**BCM 芯片**；**128 Gbps / 96 Mpps**；MAC 12K；**总功率 360 W**；**af/at 仅 30 W**；ARM Cortex-A9 / 256 MB；**L3 = 静态路由 + RIP + OSPF + VRRP**；−20~50 °C；444×360×44 mm；CE/FCC/RoHS/CCC |
-| （变体）`CRL-SW-L3-2404-10G-8C` | **24×1000M SFP + 8 Combo + 4×10G**（全光版） |
-| （变体）`CRL-SW-L3-2404-10G-8C-POE` | **24×GE PoE + 8 Combo + 4×10G** |
-| **`CRL-SW-2402`** | 24×100/1000 **PoE**（af/at 15.4/30 W）+ **2×SFP**；52 Gbps；MAC 8K；**总 300 W**；**VLAN/Trunk 模式**；1–8 口 QoS；**防雷 6 kV / 差模 4 kV / ESD 15 kV**；−20~50 °C |
-| `CRLISW-08` / `CRLISW-14P` | 工业款（8 口 / 8 口 PoE + 上联） |
-| `CRL-SFP-10G-LC` / `CRL-SFP-125 LC` | 10G / 1.25G 光模块 |
-| `CRL-MC02` | 媒体转换器 |
-
-#### 与我方对位
-| 它的型号 | 我方对位 | 差在哪 |
+#### B. 两个工业型号全表
+| 项 | **`CRLISW-08`（PDF 内 = `CRLISW-8P`）** | **`CRLISW-14P`（PDF 内 = `CRLISW-414`）** |
 |---|---|---|
-| `CRL-SW-L3-2404-10G`（24 PoE + 8 Combo + 4×10G，**360 W**，af/at） | ⭐ **`EW-S2926GM-AP`**（24 PoE + 4 Combo + 2 SFP）/ 升级 **`EW-S5748GM-AP`**（48 PoE + 4×10G） | 我方**48 口同档**、且可上 **bt 60 W** |
-| `CRL-SW-2402`（24 PoE + 2 SFP，300 W） | **`EW-S1927CG-AP`**（24 PoE + 1 SFP + 1 RJ45）/ `EW-S2926GM-AP` | 我方上联更多 |
-| `CRLISW-14P`（工业 8 PoE） | **`EW-PIS1810-8GE`** / `EW-EPIS3910-8GE` | 我方**12/24 V 被动 + 云** |
+| 品名 | 10 ports Gigabit Managed Industrial PoE Switch | 12 Port Gigabit Yönetilebilir Endüstriyel PoE Switch |
+| 端口 | **8×10/100/1000 PoE + 2×GE SFP + 1 Console** | **8×10/100/1000 PoE + 4×GE SFP + 1 Console** |
+| PoE | **af 15.4 W / at 30 W**；**总 240 W**；DC48V 输出；自动识别 af/at | **af 15.4 W / at 30 W**；**总 120 W**；DC48V |
+| 交换 | 24 Gbps / 4 M buffer / 1.488 Mpps 每口 | 24 Gbps / 4 M buffer / 1.488 Mpps 每口 |
+| MAC | 8K | **16K** |
+| 冗余 | **STP/RSTP/MSTP + ERPS**、静态+LACP 聚合、VLAN/QoS/ACL、**PD Alive Check (WatchDog)** | 同左（+ NTP） |
+| 管理 | **WEB / Telnet / CLI / SSH / SNMP v1v2v3 / RMON** | 同左 |
+| 供电 | **双路 DC48–55 V 凤凰端子（V1± V2±）+ 防反接** | 同左 |
+| 温度 | **−40~85 °C** | **−40~85 °C** |
+| 防护 | **IP40 金属壳**、防雷 **6 kV / 差模 4 kV / ESD 15 kV** | 同左 |
+| 尺寸 | 166×120×60 mm，0.5 kg，导轨/壁挂 | 同左 |
+| MTBF | 100,000 h | **800,000 h** |
+| 光模块支持 | 多模 2 km；单模 1310 nm 20 km / **1550 nm 60/80/100/120 km** | 同左 |
 
-**⭐ 它的客户群是"边界安全 / 车牌识别 / 政府项目"**（官网四大业务：Sınır Güvenliği、Siber Güvenlik、Network、Plaka Tanıma）→ 因此**工业宽温、冗余电源、防雷**比"云"重要。首封就谈这两条。
-**首封主题**：`CRL yerine ikinci kaynak: 802.3bt 60W + 工業 -40°C + 48 port`
-**必问三句**：① CRL 是独家经销吗？② 车牌/边界项目里 PoE 年用量？③ 工业款要不要 -40 °C 与双电源？
+#### C. 与我方对位（结论：**工业段它只有 af/at 30 W，这是我方最干净的一刀**）
+| 它的型号 | 我方 | 差距 |
+|---|---|---|
+| `CRLISW-8P`（8 PoE + 2 SFP，**240 W**，af/at） | **`EW-PIS1810-8GE`** / **`EW-EPIS3910-8GE`** / ⭐ **`EW-PIS3810M-8GE-BT`** | 我方 **bt 60/90 W + 12/24 V 被动 + 云 + 单口远程重启** |
+| `CRLISW-414`（8 PoE + 4 SFP，**120 W**，af/at） | **`EW-EPIS3910-8GE`**（8 口 + 2 SFP） | 它 4 个光口；我方 2 个 → **可提「4 SFP 版」定制** |
 
-### 证据等级（r52）
-- 已核实：**7 份 datasheet 中的 2 份完整规格**（`CRL-SW-L3-2404-10G`、`CRL-SW-2402`）、**"Authorized Dealer" 页脚（全部 7 份同版式）**、**Cryptol.net 字样**。
-- 仍空白：`CRLISW-08/14P` 详细规格（有 PDF 未读）、CRL 商标真实持有人、它是否也卖别家交换机。
+→ **一句话**：**它的工业线 100% 停在 af/at 30 W、温度好但功率小**；对「边界安全 / 车牌识别 / 政府项目」这类**要多摄像头 + 加热器/云台**的场景，**bt 60 W 是硬需求**。
+**首封补一句**：`CRLISW serisi 30W'ta kalıyor; 802.3bt 60W endüstriyel modelimiz aynı fiyat aralığında.`
+
+### 证据等级（r53）
+- 已核实：两份 PDF **全表**（`CrystalWAN` 字样、内部型号 `CRLISW-8P` / `CRLISW-414`、PoE 预算 240 W / 120 W、−40~85 °C、IP40、MTBF）。
+- 仍空白：`CRL-MC02`、`CRL-SFP-10G-LC`、`CRL-SFP-125 LC` 三份 PDF 未读；它是否也卖别家工业交换机。
 
 ---
 
@@ -251,3 +252,45 @@ info@cryptolink.com.tr + +90 312 557 64 00 + Çankaya Mah. Bükreş Cad. 19/1
 ### 证据等级（r52）
 - 已核实：**7 份 datasheet 中的 2 份完整规格**（`CRL-SW-L3-2404-10G`、`CRL-SW-2402`）、**"Authorized Dealer" 页脚（全部 7 份同版式）**、**Cryptol.net 字样**。
 - 仍空白：`CRLISW-08/14P` 详细规格（有 PDF 未读）、CRL 商标真实持有人、它是否也卖别家交换机。
+
+---
+
+## 附：r53 规格实锤与目录空位（2026-11-01）
+
+> 本节为 **r53（2026-11-01）** 的规格实锤；**与 r52 冲突时以本节为准**。
+
+### ⭐⭐ r53：两份工业线 datasheet 读到 —— **PDF 里还留着原厂牌子「CrystalWAN」**
+
+#### A. 换牌实证（比"Authorized Dealer"更硬）
+`DatasheetofCRLISW-14.pdf` 的**封面页眉原文就是 `CrystalWAN Network Solutions`**，而内页型号写作 **`CRLISW-414`**；`CRLISW-08.pdf` 内页型号写作 **`CRLISW-8P`**。
+→ **同一份 PDF 里同时出现三个名字（CrystalWAN / CRLISW-414 / CryptoLINK）** ⇒ **它不是品牌方，是把 OEM 的 PPT 直接改个封面**。这条与 r52 的「Authorized Dealer」页脚互为印证，**r52 的「代理品牌」判定成立且证据升级**。
+
+#### B. 两个工业型号全表
+| 项 | **`CRLISW-08`（PDF 内 = `CRLISW-8P`）** | **`CRLISW-14P`（PDF 内 = `CRLISW-414`）** |
+|---|---|---|
+| 品名 | 10 ports Gigabit Managed Industrial PoE Switch | 12 Port Gigabit Yönetilebilir Endüstriyel PoE Switch |
+| 端口 | **8×10/100/1000 PoE + 2×GE SFP + 1 Console** | **8×10/100/1000 PoE + 4×GE SFP + 1 Console** |
+| PoE | **af 15.4 W / at 30 W**；**总 240 W**；DC48V 输出；自动识别 af/at | **af 15.4 W / at 30 W**；**总 120 W**；DC48V |
+| 交换 | 24 Gbps / 4 M buffer / 1.488 Mpps 每口 | 24 Gbps / 4 M buffer / 1.488 Mpps 每口 |
+| MAC | 8K | **16K** |
+| 冗余 | **STP/RSTP/MSTP + ERPS**、静态+LACP 聚合、VLAN/QoS/ACL、**PD Alive Check (WatchDog)** | 同左（+ NTP） |
+| 管理 | **WEB / Telnet / CLI / SSH / SNMP v1v2v3 / RMON** | 同左 |
+| 供电 | **双路 DC48–55 V 凤凰端子（V1± V2±）+ 防反接** | 同左 |
+| 温度 | **−40~85 °C** | **−40~85 °C** |
+| 防护 | **IP40 金属壳**、防雷 **6 kV / 差模 4 kV / ESD 15 kV** | 同左 |
+| 尺寸 | 166×120×60 mm，0.5 kg，导轨/壁挂 | 同左 |
+| MTBF | 100,000 h | **800,000 h** |
+| 光模块支持 | 多模 2 km；单模 1310 nm 20 km / **1550 nm 60/80/100/120 km** | 同左 |
+
+#### C. 与我方对位（结论：**工业段它只有 af/at 30 W，这是我方最干净的一刀**）
+| 它的型号 | 我方 | 差距 |
+|---|---|---|
+| `CRLISW-8P`（8 PoE + 2 SFP，**240 W**，af/at） | **`EW-PIS1810-8GE`** / **`EW-EPIS3910-8GE`** / ⭐ **`EW-PIS3810M-8GE-BT`** | 我方 **bt 60/90 W + 12/24 V 被动 + 云 + 单口远程重启** |
+| `CRLISW-414`（8 PoE + 4 SFP，**120 W**，af/at） | **`EW-EPIS3910-8GE`**（8 口 + 2 SFP） | 它 4 个光口；我方 2 个 → **可提「4 SFP 版」定制** |
+
+→ **一句话**：**它的工业线 100% 停在 af/at 30 W、温度好但功率小**；对「边界安全 / 车牌识别 / 政府项目」这类**要多摄像头 + 加热器/云台**的场景，**bt 60 W 是硬需求**。
+**首封补一句**：`CRLISW serisi 30W'ta kalıyor; 802.3bt 60W endüstriyel modelimiz aynı fiyat aralığında.`
+
+### 证据等级（r53）
+- 已核实：两份 PDF **全表**（`CrystalWAN` 字样、内部型号 `CRLISW-8P` / `CRLISW-414`、PoE 预算 240 W / 120 W、−40~85 °C、IP40、MTBF）。
+- 仍空白：`CRL-MC02`、`CRL-SFP-10G-LC`、`CRL-SFP-125 LC` 三份 PDF 未读；它是否也卖别家工业交换机。

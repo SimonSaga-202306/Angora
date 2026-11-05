@@ -1347,6 +1347,42 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §47 · 第 53 轮 — 2026-11-01 ≈06:20–07:40 (+0800)：**规格实锤** —— CLR 2.5G 就是 bt 机（推翻 r52）+ CryptoLink 换牌实证 + Technopc 目录是空的
+
+用户第 6 次「AB继续挖 挖完为止」。**0 新客户**。
+
+### 一、🛑 修正 r52：`CLR-MRS-8330P` = 24×2.5G PoE，**1–4 口 802.3bt 90 W**，**总 400 W**
+
+r52 写「没有一款 2.5G SKU 标 802.3bt」「`-8330P` 功率未知」「2.5G PoE 只有 100 W」——**三条全错**。
+产品页技术表原文：`Ethernet: 24* 100/1000/2500 Mbps PoE Ports (Ports 1-4 support IEEE802.3bt(90W))`、`PoE Total Power maximum 400W`、电源 `DC 54V 7.69A + 12V 5A`。
+全表：**240 Gbps / 178.56 Mpps / DDR 512 MB / Flash 32 MB / MAC 32K / Jumbo 10K / VLAN 1–4094 / 802.3az / 440×281×44 mm / N.W 4.37 kg / CE FCC RoHS**；**PoE 使用率指示灯**（<90% 灭 / 90–95% 闪 / >95% 亮）。
+⭐ **两个可打的短板**：**工作温度仅 −10~50 °C**（商用机箱）；**L3 只到 IPv4 静态路由 + ARP，无 OSPF / 无 VRRP**（而同定位的 `CRL-SW-L3-2404-10G` 反而有 OSPF+VRRP）。
+→ **真实缝隙改写为「24 口全 bt + 800 W」**（它 24 口只 4 口 bt、400 W、均摊 ≈16.7 W/口），对位 `EW-PIS5728GM-AP-BT`；再加「要 OSPF/VRRP 它没有」。
+→ `CLR-MRS-8312P` 口径核实：**8 口 2.5G PoE，25 W/口上限、总 250 W**。
+
+### 二、⚠ 必须承认：它有两档比我方齐（回传产品部）
+
+| 档位 | CLR 型号 | 我方 |
+|---|---|---|
+| **10G 电口接入** | ⭐ **`CLR-SWT-7514C` = 12×10G RJ45 + 2×SFP+ 全 10G 网管** | **无对位** |
+| **工业 10G SFP+ 骨干** | ⭐ **`CLR-IES-T120N` = 12×1G/10G SFP+，240 Gbps / 178.56 Mpps，双核 1 GHz，4 Gbit DRAM，32K MAC，DC12–48 V 防反接，−40~+85 °C，25 W，导轨 166×150×75** | 工业最高 8 口 GE |
+
+r53 新增 CLR 型号：`CLR-SWT-7514C`（12×10G RJ45）、`CLR-SWT-7520F`（8 RJ45 + 12 SFP+）、`CLR-SWT-7312F`（12×SFP+ L3）、`CLR-SWT-4804N`（48 GE + 4×10G）、`CLR-SWG-1724`（24 GE 非网管）、`CLR-IES-T120N`。**累计 17 类 40+ 型号。**
+
+### 三、⭐⭐ CryptoLink：PDF 里还留着原厂牌子 **`CrystalWAN Network Solutions`**
+
+`DatasheetofCRLISW-14.pdf` **封面页眉 = `CrystalWAN Network Solutions`**，内页型号 **`CRLISW-414`**；`CRLISW-08.pdf` 内页型号 **`CRLISW-8P`**。**一份 PDF 三个名字** ⇒ 只改封面的换牌。
+- `CRLISW-8P`：**8×GE PoE + 2×GE SFP + Console**，af/at，**总 240 W**，24 Gbps，8K MAC，**ERPS + PD Alive**，双路 **DC48–55 V**，**−40~85 °C**，**IP40**，防雷 6/4 kV，MTBF 100k。
+- `CRLISW-414`：**8×GE PoE + 4×GE SFP**，af/at，**总 120 W**，**16K MAC**，MTBF **800k**。
+→ **工业段 100% 停在 af/at 30 W** ⇒ 对「边界安全 / 车牌识别」的 bt 60 W 需求，我方 `EW-PIS3810M-8GE-BT` / `EW-EPIS3910-8GE` 是干净一刀。
+
+### 四、⭐⭐ Technopc（`A/075`）：**想卖交换机，但目录是空的**
+
+`technopc.com.tr/network-urunleri/` 营销承诺 **「gigabit ve 10G destekli switch … Layer 2/3 … bulut tabanlı yönetim」**，实际只有 **5 个产品、全是防火墙与 SD-WAN**（`FW801` / `FW622` / `FW57` / `NSW 4500` / `NTSN 6500F`），页面底部原文 **「Seçilen filtrelere uygun ürün bulunamadı.」**，`/switch/` = **404**。
+⇒ **全名单唯一「已是我方客户 + 公开要做交换机 + 目录为空」的 A 档**：评级 **55 → 70**，打法从"开发新客户"改为**"扩品类"**（`EW-S1927CG-AP` → `EW-S2926GM-AP` → `EW-S5748GM-AP` → `EW-S6826` 做 `Technopc` 牌首屏 + `EwindCloud` 对应它写的 bulut）。它强项是 x86（Atom/Celeron/Intel），**交换机纯外购、无自研冲突**，比 Telkolink 好谈。
+
+**诚实边界**：`CLR-MC02` / `CRL-SFP-10G-LC` / `CRL-SFP-125 LC` 三份 PDF 未读；`CLR-MRS-8226N/8218N` 交换容量未知；`CLR-MRS-8109P` 的 100 W 是否含 bt 口未知；Technopc 是否已有未上架交换机 SKU 未知。
+
 ## §46 · 第 52 轮 — 2026-11-01 ≈04:30–06:10 (+0800)：**「自有品牌」大清算** —— 三家 A 档其实是代理商 + **四项自我证伪**
 
 用户第 5 次「AB继续挖 挖完为止」。**0 新客户**，把 `A/001` `A/005` `A/054` 三家做到型号级，并**推翻自己 r51 的横切结论**。

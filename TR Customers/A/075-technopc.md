@@ -92,3 +92,77 @@ AI 18B/Claude 10C
 ### 证据等级与空白
 - 已核实：法定名 A.Ş.、**1998 / 2006**、**27,500 m² + 250+ 人**、两个地址与电话、**Yerli Malı Belgesi + GreenPC + 研发中心**、**SAHA İstanbul + Ostim Savunma 双会员**、客户与产品线（SAHA 企业页 + Ostim 企业页 + LinkedIn 三处一致）。
 - 空白：营收、现交换机供应商、是否已有网络品类、采购归口（IT 采购 vs 项目采购）。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+### ⭐⭐ r53：**它的「Network Çözümleri」里没有交换机** —— 目录是空的
+
+#### A. 官网实证
+`technopc.com.tr/network-urunleri/` 的营销文案写得很满：
+> 「**gigabit ve 10G destekli switch modelleri**, PoE çözümleri, firewall, Access Point, **VLAN desteği, Layer 2/Layer 3 yönetilebilir switch seçenekleri ve bulut tabanlı yönetim**」
+
+但**实际渲染出来的产品只有 5 个，全是防火墙与 SD-WAN，一台交换机都没有**：
+
+| 型号 | 类别 | 配置 |
+|---|---|---|
+| `FW801` | Firewall | Intel 6./7. nesil / 16 GB DDR3 / 2×2.5" HDD / **SIM kart** |
+| `FW622` | Firewall | Celeron N3060 / 8 GB / 2 TB / **6×Gigabit LAN** |
+| `FW57` | Firewall | Celeron 3205U / 16 GB / 2 TB / **2×COM + 2×LAN** |
+| `NSW 4500` | SD-WAN | **Intel Atom 2.2 GHz** / 2×SO-DIMM DDR4 / 1×2.5" / **6×LAN + 4G LTE** |
+| `NTSN 6500F` | SD-WAN | **Atom C3558** / 128 GB DDR4 / **6×LAN + 2×SFP** |
+
+页面底部直接写 **「Seçilen filtrelere uygun ürün bulunamadı.」**；`technopc.com.tr/switch/` → **404**。
+
+#### B. 结论与打法（A- 档，55 分 → 应上调到 **70**）
+1. **它是「想卖交换机但还没有交换机」的厂商** —— 营销页已经把 **gigabit/10G、L2/L3、PoE、bulut yönetim** 写进 promise，但**产品位是空的**。
+2. ⭐ **身份卡里的「工业 PoE 采购 E-wind」是既成事实** ⇒ **这是全名单里唯一一个「已经是我方客户、且公开承认要卖交换机、却还没有交换机产品」的 A 档**。
+3. **打法不是"新客户开发"，是"扩品类"**：把 `EW-S1927CG-AP`（24 PoE）→ `EW-S2926GM-AP`（24 PoE 网管）→ `EW-S5748GM-AP`（48 PoE + 4×10G）→ **`EW-S6826`（24×2.5G）** 做成 **`Technopc` 牌的 Network 目录第一屏**，配 **`EwindCloud` 云** 正好对应它写的「bulut tabanlı yönetim」。
+4. **它的强项是 x86（Atom/Celeron/Intel）**，交换机是纯外购 —— **不存在自研冲突**，比 Telkolink 好谈得多。
+
+**首封主题**：`Technopc Network kataloğu için switch hattı: 8/24/48 PoE + 2.5G + bulut yönetim (E-wind üretimi)`
+**必问三句**：① Network 页要什么时候上交换机？② 要 `Technopc` 牌还是白盒？③ 防火墙客户里有多少同时要 PoE 交换机（捆绑率）？
+
+### 证据等级（r53）
+- 已核实：**`network-urunleri` 页面全文与 5 个在售型号**、**「Seçilen filtrelere uygun ürün bulunamadı.」**、**`/switch/` = 404**、营销文案里的 **gigabit/10G、L2/L3、bulut** 承诺。
+- 仍空白：**是否已有未上架的交换机 SKU 在渠道销售**（需问客户或查 Trendyol/Hepsiburada）、`technopc®` 商标注册号。
+
+---
+
+## 附：r53 规格实锤与目录空位（2026-11-01）
+
+> 本节为 **r53（2026-11-01）** 的规格实锤；**与 r52 冲突时以本节为准**。
+
+### ⭐⭐ r53：**它的「Network Çözümleri」里没有交换机** —— 目录是空的
+
+#### A. 官网实证
+`technopc.com.tr/network-urunleri/` 的营销文案写得很满：
+> 「**gigabit ve 10G destekli switch modelleri**, PoE çözümleri, firewall, Access Point, **VLAN desteği, Layer 2/Layer 3 yönetilebilir switch seçenekleri ve bulut tabanlı yönetim**」
+
+但**实际渲染出来的产品只有 5 个，全是防火墙与 SD-WAN，一台交换机都没有**：
+
+| 型号 | 类别 | 配置 |
+|---|---|---|
+| `FW801` | Firewall | Intel 6./7. nesil / 16 GB DDR3 / 2×2.5" HDD / **SIM kart** |
+| `FW622` | Firewall | Celeron N3060 / 8 GB / 2 TB / **6×Gigabit LAN** |
+| `FW57` | Firewall | Celeron 3205U / 16 GB / 2 TB / **2×COM + 2×LAN** |
+| `NSW 4500` | SD-WAN | **Intel Atom 2.2 GHz** / 2×SO-DIMM DDR4 / 1×2.5" / **6×LAN + 4G LTE** |
+| `NTSN 6500F` | SD-WAN | **Atom C3558** / 128 GB DDR4 / **6×LAN + 2×SFP** |
+
+页面底部直接写 **「Seçilen filtrelere uygun ürün bulunamadı.」**；`technopc.com.tr/switch/` → **404**。
+
+#### B. 结论与打法（A- 档，55 分 → 应上调到 **70**）
+1. **它是「想卖交换机但还没有交换机」的厂商** —— 营销页已经把 **gigabit/10G、L2/L3、PoE、bulut yönetim** 写进 promise，但**产品位是空的**。
+2. ⭐ **身份卡里的「工业 PoE 采购 E-wind」是既成事实** ⇒ **这是全名单里唯一一个「已经是我方客户、且公开承认要卖交换机、却还没有交换机产品」的 A 档**。
+3. **打法不是"新客户开发"，是"扩品类"**：把 `EW-S1927CG-AP`（24 PoE）→ `EW-S2926GM-AP`（24 PoE 网管）→ `EW-S5748GM-AP`（48 PoE + 4×10G）→ **`EW-S6826`（24×2.5G）** 做成 **`Technopc` 牌的 Network 目录第一屏**，配 **`EwindCloud` 云** 正好对应它写的「bulut tabanlı yönetim」。
+4. **它的强项是 x86（Atom/Celeron/Intel）**，交换机是纯外购 —— **不存在自研冲突**，比 Telkolink 好谈得多。
+
+**首封主题**：`Technopc Network kataloğu için switch hattı: 8/24/48 PoE + 2.5G + bulut yönetim (E-wind üretimi)`
+**必问三句**：① Network 页要什么时候上交换机？② 要 `Technopc` 牌还是白盒？③ 防火墙客户里有多少同时要 PoE 交换机（捆绑率）？
+
+### 证据等级（r53）
+- 已核实：**`network-urunleri` 页面全文与 5 个在售型号**、**「Seçilen filtrelere uygun ürün bulunamadı.」**、**`/switch/` = 404**、营销文案里的 **gigabit/10G、L2/L3、bulut** 承诺。
+- 仍空白：**是否已有未上架的交换机 SKU 在渠道销售**（需问客户或查 Trendyol/Hepsiburada）、`technopc®` 商标注册号。
