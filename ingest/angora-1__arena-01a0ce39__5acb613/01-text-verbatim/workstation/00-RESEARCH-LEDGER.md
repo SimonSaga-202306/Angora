@@ -1347,6 +1347,34 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §52 · 第 58 轮 — 2026-11-01 ≈19:40–22:50 (+0800)：**Technopc 零交换机 = ODM 缺口** + RESET/DAPA 联络档案 + 土耳其自有品牌低价带
+
+用户第 11 次「AB继续挖 挖完为止」。**0 新客户**；本轮把 r57 名单**变成可联络的实体**，并解开 r53 的 Technopc「空目录」。
+
+### 一、⭐⭐⭐ Technopc：网络品类只有 5 款 x86 盒子，**零个交换机 SKU**
+`technopc.com.tr/network-urunleri/` 原文只有 **`FW801` / `FW622` / `FW57`（x86 防火墙）+ `NSW 4500` / `NTSN 6500F`（x86 SD-WAN）**；营销文案写满「gigabit ve 10G switch / PoE / L2-L3 / bulut yönetim」，但筛选结果 `Seçilen filtrelere uygun ürün bulunamadı`，`/urun-kategori/network-urunleri/switch/` = **404**，全部产品只有「Bize Ulaşın」无价格。
+⇒ **r53「空目录」原因改写**：不是没上架，而是**交换机是纯宣传品类、没货源**。而管线 #75 原文写「Switch/AP/Firewall = 近期扩张配套品类；**工业 PoE 采购 E-wind**」⇒ **一个正在找交换机货源、且已在我方采购的土耳其本土品牌**。
+⇒ **动作：不卖成品，谈 ODM**（我方 FOB × 1.6–1.8），仍低于 FOREDGE `PS3028GT` $408.8 与 Aruba `JL683A` $291。⚠ 前置欠账：我方 24 口+4×10G / 8 口 2.5G / 48 口 PoE 的 FOB 连续两轮未取得，**没有这三个数就发不出提案**。
+
+### 二、⭐⭐ RESET 与 DAPA 联络档案（r57 名单落地）
+**RESET BİLGİ TEKNOLOJİLERİ SAN. ve TİC. A.Ş.** — 伊斯坦布尔 Bahçelievler / Yenibosna **İstanbul Vizyon Park 4. Plaza Kat:3 No:304**；**+90 212 955 00 95**（fax 96）；**info@reset.com.tr**；**11–50 人 / 营收 <$5M**；认证 **ISO 9001 · 27001 · 20000-1**；品牌墙 **Dell · Huawei · Fortinet · Palo Alto · Cisco · Microsoft · IBM · VMware · Veeam · Ruijie**；客群原文 `Kamu kurumları, üniversiteler ve özel sektör`；创始人&CTO İsmail Kavak（第三方）。DMO 目录码 **`K4230`（S2915/S5310）+ `K5882`（S6150）**。
+**DAPA TEKNOLOJİ SAN. ve TİC. A.Ş.** — 伊斯坦布尔 Bakırköy **Yeşilköy EGS Business Park No:12/1**；**+90 212 982 83 37**；**info@dapatek.com**；分支 **Adana（0322 408 01 01）+ Bolu Teknopark**；DAPA Bilişim **25 年以上**；主要负责人 **Aytaç Türkkolu**（D&B）；集团含 **Hitachi 空调授权分销** / 能源 / 化学 / 零售。DMO 里与 RESET **同价 88,232.39 ₺** 投 `RG-S5310-48GT4XS-P-E`。
+⇒ **两家都是系统集成商不是纯分销**，靠集成能力而非价格竞争 ⇒ **最容易接受「多一条自有品牌线」**。DAPA **集团化 + 三地 + 25 年 + 仓储物流**，比 FS Grup（2017、单点、12 SKU）更适合做国代。
+
+### 三、⭐⭐ 24 口 PoE 的天花板已经固定：一线品牌 **Aruba `JL683A` ION 1930-24G = 14,570 TL = $291**
+⇒ 24 口 PoE 真实竞争带 = **FOREDGE $231.6 – Aruba $291**（Ruijie-Reyee `RG-ES124G-L` 非 PoE 24 口 $205）⇒ **报价 >$200 需要重新谈，<$150 客户几乎必然成交**。「比 Aruba 便宜」已无叙事价值。
+⇒ 🛑 **8 口 GE PoE 被土耳其自有品牌打穿**：**EZCOOL `EZ-08PSF-FG`（8GE+2GE，PoE 120 W）= $80**、`EZ-08PSE`（8FE+2FE，120 W）**$55**、`EZ-04PSF-FG`（4GE+2GE 65 W）；Tria Güvenlik 自有 `DZ-PS316G`（16 口 240 W）/ `DZ-GPOE408` / `ODS-16P2U1S-200`。⇒ **8 口不敲门**（这一档拼本地库存与土语包装，不拼价）。
+⇒ **`DZ-` / `ODS-` / EZCOOL = 土耳其白牌运营者**（与 Ewind→FOREDGE 同构）⇒ 本身即潜在 ODM 客户，下轮查主体。
+
+### 四、⭐ 阿里店铺 MOQ 分布抽样（第 1–3 页 ≈52 个商品）
+**1 piece 占约 3/4**（交换机/AP/注入器/分离器）；**1 pair**（户外 CPE 网桥 $44–74）；**10 pieces**（8 口百兆桌面 $5.20–7.20、WiFi5 路由 $30–35）；**99 pieces**（WiFi6 1800M 路由 $28.50–34.20）；**100 pieces**（IP66 单口延长器 $6.30–7.20）。
+⇒ **「MOQ 1 台」只对交换机/AP 主线成立**，低货值品与 WiFi6 路由有门槛 ⇒ 对客户承诺时必须限定品类。店铺品类远宽于交换机（AP / 户外 CPE 桥 / 注入器 / 分离器 / 延长器 / 光模块）⇒ 对集成商可整包报价。
+
+### 五、⭐ DMO 保修期字段（投标新发现）
+`Garanti Süresi`：FOREDGE 两款 **24 月**、MOXA **24 月**、Ruijie `RG-S5310`/`RG-S6150` **24 月**，但 **`RG-S2915-10GT2MS-P-L` 与 `RG-S2915-24GT4MS-P-L` 是 36 月** ⇒ **3 年保修已是公共采购差异化点**，我方投标按 36 个月准备。
+
+**诚实边界**：RESET/DAPA 只有 info@ 邮箱与第三方推测人物，**采购负责人姓名未取得**；Technopc 网络品类负责人未取得；EZCOOL / Tria 主体未查；DMO 仅取样未全类目翻页；我方三个关键 FOB 仍缺。
+
 ## §51 · 第 57 轮 — 2026-11-01 ≈16:10–19:30 (+0800)：**FOREDGE 25 个型号零售价全表 + DMO 合同价地图 + 4 家 DMO 注册经销商具名**
 
 用户第 10 次「AB继续挖 挖完为止」。**0 新客户**；本轮是**价格情报轮**，把 r56 的「2–4× 倍率」从一句话变成一张按端口分档的表。
