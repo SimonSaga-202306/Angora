@@ -50,3 +50,35 @@ info@teamon.com.tr
 ## 备注
 
 AI 15B/Claude 15C
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Teamon 是安卡拉的"系统集成商"**（`teamon.com.tr`，Emek / Ankara），**经销全球品牌 + 做设计安装维护**，站点还提供 **EAN 查询 / 条码查询 / 网络工具 / 免费"网络+"培训** → **它有技术内容运营的意识**，在安卡拉的中小 SI 里算"专业型"。
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 名称 | **Teamon İletişim Teknolojileri** |
+| 地址 | **Emek Mah. Bişkek Caddesi 8. Cadde No:32/4, Emek / Ankara** |
+| 电话 / 邮箱 | **+90 312 806 35 29** / `info@teamon.com.tr` |
+| 定位 | **sistem entegratörü（系统集成商）**，做"sektör bağımsız anahtar teslim çözümler"（行业无关的交钥匙方案） |
+| 站点特色 | **EAN Arama、Barkod Arama、Ağ Araçları、Ağ+ Eğitimleri（免费网络培训）** |
+
+### 与我方的切入点
+1. **它在安卡拉 = 政府项目中心** → **公共采购（kamu ihalesi）**是它的主战场 → 需要**授权书 + CE + 土耳其语文件**。
+2. ⭐ **它办免费"网络+培训"** → 说明它**愿意投入技术内容** → **我方可以提供"培训素材 + 认证"**，让它把我们的产品讲进课里（这是极低成本的长尾营销）。
+3. **它是 SI，不是分销** → **按项目采购、不压库存** → 需要"按项目报价 + 允许分批发货"。
+
+### 打法
+- 首封给 `info@teamon.com.tr`，主题 **"Kamu projeleri için PoE switch + eğitim materyali desteği"**（项目 + 培训素材）。
+- **主动提出"给你们 Ağ+ 培训提供交换机样机与教材"** —— 这个提议它几乎没有理由拒绝，而且**一次性把我方塞进它的技术体系**。
+- 问：**"Kamu ihalelerinde switch tarafında hangi markayı kullanıyorsunuz?"**
+
+### 证据等级与空白
+- 已核实：地址、电话、邮箱、SI 定位、**站点四个工具/培训功能**（官网逐条）。
+- 空白：法定名、成立年、员工数、营收、现交换机品牌。

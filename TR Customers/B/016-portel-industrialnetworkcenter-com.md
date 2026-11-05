@@ -50,3 +50,40 @@ Okay Yucedag（Sales Mgr）+ okay.yucedag@portel.com.tr
 ## 备注
 
 用户 #14；fiber networking 定位（用户侧）【r37 2026-10-25】用户双评估 22B/25B（采购三旺 3Onedata，fiber networking 定位；Okay Yucedag 销售经理 okay.yucedag@portel.com.tr）→B 三旺替换
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Portel Teknoloji 是一家"工业网络 + 半导体元件"的贸易公司（A.Ş.），自带电商站 `industrialnetworkcenter.com`**，定位"genç ve dinamik"（年轻有活力）—— **它卖的是"工业网络零部件"，正是我方工业 PoE 的对口**。
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 法定名 | **PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.**（注意是 **A.Ş.**，比其他 B 档的 Ltd. Şti. 高一档） |
+| 地址 | Yalı Mah. Kadir Sok. No:14 **Helis More Residence** Kat:7 D:82, **Kartal / İstanbul 34873**（住宅楼里的办公室，典型的"轻资产贸易"） |
+| 电话 | **+90 216 464 44 50** |
+| 邮箱 | `bilgi@industrialnetworkcenter.com` |
+| 站点 | `portel.com.tr`（公司站）+ `industrialnetworkcenter.com`（**电商站**，Ideasoft 建） |
+
+### 关键事实
+- 自述："**Temel faaliyetlerimiz, her türlü endüstriyel network ürünleri ve yarı iletken ürünlerin temini odaklıdır**"（主营：各类工业网络产品 + 半导体元件的供应）。
+- **站点公开列了 IBAN**（TL / USD / EUR 三个账户，Garanti + Yapı Kredi）→ **它有独立的美元与欧元账户**，说明**能做外汇结算**（对中方报 USD 无障碍）。
+- ⚠ **地址是住宅楼 + 只有电商站** → 规模小（大概率个位数到十几人），**没有库存能力**（drop-ship 模式为主）。
+
+### 与我方的切入点
+1. **它做"工业网络"，但自己无产线** → 纯贸易，**要的是"能报小批量、能给规格书、能配合样品"的工厂**。
+2. **有 USD/EUR 账户 + 电商站** → **适合做"样品单 + 小批量试单"**，单量不会大但**回款快**。
+3. **"半导体元件"也在做** → 它对 BOM 与单价敏感，**会拿货比价**，报价要一次到位。
+
+### 打法
+- 首封给 `bilgi@industrialnetworkcenter.com`，主题 **"Endüstriyel PoE switch — küçük parti + hızlı numune"**（小批量 + 快样品）。
+- **先给 3 个型号的价格 + MOQ**，不要给整本目录（贸易商反感信息过载）。
+- 问：**"你们主要卖给工厂还是集成商？"** —— 决定推"宽温工业"还是"商用 PoE"。
+
+### 证据等级与空白
+- 已核实：法定名（A.Ş.）、地址、电话、主营定位、**三个 IBAN（含 USD/EUR）**、电商站。
+- 空白：成立年、员工数、营收、负责人。

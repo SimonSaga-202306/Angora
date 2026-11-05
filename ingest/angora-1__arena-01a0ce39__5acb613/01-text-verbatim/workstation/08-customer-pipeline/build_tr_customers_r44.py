@@ -28,6 +28,21 @@ DOSSIER_DIR = os.path.join(
 OUT_DIR = os.path.join(ROOT, 'TR Customers')
 TIERS = ('A', 'B', 'C')
 
+# r46 · B 档深挖数据（b_deepdig_data_1.py / _2.py）。缺失则跳过，不影响 A/C 生成。
+B_DEEPDIG = {}
+try:
+    import importlib.util as _ilu
+    for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
+        _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
+        if os.path.exists(_p):
+            _spec = _ilu.spec_from_file_location(_m, _p)
+            _mod = _ilu.module_from_spec(_spec)
+            _spec.loader.exec_module(_mod)
+            B_DEEPDIG.update(_mod.D)
+except Exception as _e:  # 数据缺失不应阻断主生成
+    print('WARN: B deep-dig data not loaded:', _e)
+B_MARK = '## 附：B 档深挖（r46 · 2026-11-01）'
+
 
 def tier_letter(level):
     """111 的 `层级` 列取值很杂（A 核心 / A-（ISAF25 新入）/ B+ / B bypass /
@@ -233,6 +248,18 @@ def main():
             L.append('')
 
         letter = tier_letter(tier)
+        body_bd = B_DEEPDIG.get(no)
+        if letter == 'B' and body_bd:
+            L.append('---')
+            L.append('')
+            L.append(B_MARK)
+            L.append('')
+            L.append('> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / '
+                     '展会名录 / BGP / 第三方企业库），逐条标注证据等级；'
+                     '**未核实的项一律标为空白，不推测。**')
+            L.append('')
+            L.append(body_bd.strip('\n'))
+            L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
         written += 1
@@ -451,7 +478,27 @@ def main():
                  % (a, strip_md(by_no[a]['公司'], 46), b,
                     strip_md(by_no[b]['公司'], 46)))
     R.append('')
-    R.append('## 九、相关目录')
+    R.append('## 九、B 档深挖（r46 · 2026-11-01）')
+    R.append('')
+    R.append('**`B/` 全部 77 家已做一轮公开网络深挖**，每家文件末尾多出一个小节'
+             '「附：B 档深挖（r46 · 2026-11-01）」：主体核实 / 它在卖什么 / '
+             '与我方的切入点 / 打法 / **证据等级与空白**。')
+    R.append('')
+    R.append('- 横向汇总：`…/08-customer-pipeline/115-turkey-b-tier-deepdig-2026-11-01.md`'
+             '（77 家分五类：**已在卖交换机 11 · 相邻品类 17 · 工程商 22 · '
+             '结构错配 10** …）')
+    R.append('- ⭐ **最重要的发现**：B 档被低估——**11 家已经在卖交换机**'
+             '（`6 Coptek` `14 NFS` `18 iotsistem` `62 Cebeci` `79 Eurocam` `15 Koza` '
+             '`19 Lansan` `33 HCS` `10 ErETE` `35 Antalya Turkuaz` `49 Zeytek`），'
+             '其中 6 家有**自有/白牌型号**（`S4600` `S5700` `MLB-E4xxx` `SRX-*` `XPS`）→ '
+             '可直接谈 **OEM / 二供**。')
+    R.append('- ⚠ **结构调整建议（未执行，需人工拍板）**：升 A 12 家；降 C 6 家'
+             '（`34 Stasanet` 实为**塞尔维亚**、`28 Hiperonline` 与 `32 Fiberix` 是 **ISP**、'
+             '`43 Düzgün` 是**纺织**、`71 Baburtech` 是**笔电维修**、`55 ULAK` 是**国家级设备商**）；'
+             '`30 ORAL` 实为 **KKTC**、`45 Alamthal` 实为**利比亚市场**（伊斯坦布尔采购办）。')
+    R.append('- **A 档本轮未重做、C 档本轮零投入**（用户明确：A 已挖完、C 不跟进没精力）。')
+    R.append('')
+    R.append('## 十、相关目录')
     R.append('')
     R.append('- 深度档案原件：`ingest/angora-1__arena-01a0ce39__5acb613/'
              '08-followup-dossiers-2026-11-01/`（21 份，**仍是 r41–r43 的原始出处**）')

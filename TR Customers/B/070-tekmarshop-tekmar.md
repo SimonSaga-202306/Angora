@@ -50,3 +50,28 @@ info@tekmarshop.com
 ## 备注
 
 AI 15B/Claude 5C
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+⚠ **TekmarShop / Tekmar 在检索中撞到两个不同主体**：① **`teknomarketshop.com`**（Bahçelievler / İstanbul 的小电商，卖车载 4K 摄像头套装，WhatsApp 543 110 4043）；② 布尔萨的相机店（Yıldırım / Bursa，0224 364 18 88 —— ⚠ **这个电话是 #38 Fourline 的**）。**本档主体无法唯一确认。**
+
+### 检索实况
+| 角度 | 结果 |
+|---|---|
+| `Tekmar` / `TekmarShop` | 命中 `teknomarketshop.com`（Bahçelievler 小电商，与"Bursa/Yıldırım"不符） |
+| 布尔萨方向 | 命中的电话 **0224 364 18 88 是 Fourline（#38）** → **可能是同一家换了招牌，也可能只是电话记错** |
+| 企业名录 | 无唯一命中 |
+
+### 处理建议
+1. ⚠ **先核名**：问 "Tekmar ile Fourline aynı şirket mi?"（若同 → 合并处理但**文件仍不合并**）
+2. 若确认是 `teknomarketshop.com` 这类小电商 → **降 C**（量太小、品类偏车载）
+3. 若是布尔萨实体 → 按 #38 Fourline 的方式打（同一区域、同一场景）
+
+### 证据等级与空白
+- 已核实：`teknomarketshop.com` 的存在与其地址/联系方式。
+- 空白：**与 111 记录的对应关系 —— 全部未知。**

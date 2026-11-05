@@ -50,3 +50,35 @@ PoE 爆款低价推
 ## 备注
 
 AI 18B/Claude 20B
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Metcom Güvenlik Teknolojileri A.Ş. 是"车牌识别（LPR）与交通/卡口系统"的专业商**（`metcom.com.tr`），自研 **MTC-500 高速公路车牌识别系统**、**MTC 计数/测温/口罩检测系统**、**XVR** 等，也做 **Hytera PoC 对讲**。**它是 ISAF 展商，产品带"自有型号"——技术型公司。**
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 法定名 | **METCOM GÜVENLİK TEKNOLOJİLERİ A.Ş.** |
+| 站点 | `metcom.com.tr` |
+| 展会 | **ISAF 展商**（`isaffuari.com` 2022 展商名录有 "metcom"） |
+| 自研 | ⭐ **MTC-500 高速公路车牌识别（Plaka Tanıma）**、**Kişi Sayma Sistemi（计数/测温/口罩）**、**XVR（5-in-1 HDCVI/TVI/AHD/IP/Analog）** |
+| 其他 | **Araç Takip（GPS 车队管理）**、**Hytera PNC360S PoC 对讲** |
+
+### 与我方的切入点
+1. ⭐ **LPR/卡口 = 每套系统都要"户外 PoE + 防雷 + 宽温"**：卡口摄像机装在杆上，**雷击与温差是头号杀手** → **工业 PoE 是刚需，不是可选**。
+2. **它自研系统** → 它**指定硬件规格**（"我们系统里配什么交换机"由它决定）→ **进它的 BOM 比进经销商货架更值钱**。
+3. **它做高速公路（otoyol）** → **国家级项目** → 需要**长期供货与备件承诺**（10 年+ 项目周期）。
+
+### 打法
+- 首封给 `metcom.com.tr` 表单 + `info@`，主题 **"Otoyol/plaka tanıma sistemleri için saha PoE switch（IP66 / 6kV / −40~75°C）"**。
+- 一句话：**"你的 MTC-500 装在杆上，杆上的交换机是最容易坏的那一环。"**
+- 问：**"MTC-500 projelerinde saha switch'ini siz mi veriyorsunuz?"**
+
+### 证据等级与空白
+- 已核实：法定名 A.Ş.、**MTC-500 自研系统**、计数系统、XVR、Hytera PoC、ISAF 展商身份（官网 + ISAF 名录）。
+- 空白：成立年、员工数、营收、现 PoE 品牌、采购归口。

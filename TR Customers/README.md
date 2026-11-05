@@ -240,7 +240,16 @@
 | 50 | FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN. TİC. LTD. ŞT… | ↔ | 142 | FOLINE（foline.com.tr） |
 | 51 | NAZEM CO İTH. İHR. SAN. TİC. LTD. ŞTİ.（NAZEMCO… | ↔ | 126 | NAZEMCO（Osama） |
 
-## 九、相关目录
+## 九、B 档深挖（r46 · 2026-11-01）
+
+**`B/` 全部 77 家已做一轮公开网络深挖**，每家文件末尾多出一个小节「附：B 档深挖（r46 · 2026-11-01）」：主体核实 / 它在卖什么 / 与我方的切入点 / 打法 / **证据等级与空白**。
+
+- 横向汇总：`…/08-customer-pipeline/115-turkey-b-tier-deepdig-2026-11-01.md`（77 家分五类：**已在卖交换机 11 · 相邻品类 17 · 工程商 22 · 结构错配 10** …）
+- ⭐ **最重要的发现**：B 档被低估——**11 家已经在卖交换机**（`6 Coptek` `14 NFS` `18 iotsistem` `62 Cebeci` `79 Eurocam` `15 Koza` `19 Lansan` `33 HCS` `10 ErETE` `35 Antalya Turkuaz` `49 Zeytek`），其中 6 家有**自有/白牌型号**（`S4600` `S5700` `MLB-E4xxx` `SRX-*` `XPS`）→ 可直接谈 **OEM / 二供**。
+- ⚠ **结构调整建议（未执行，需人工拍板）**：升 A 12 家；降 C 6 家（`34 Stasanet` 实为**塞尔维亚**、`28 Hiperonline` 与 `32 Fiberix` 是 **ISP**、`43 Düzgün` 是**纺织**、`71 Baburtech` 是**笔电维修**、`55 ULAK` 是**国家级设备商**）；`30 ORAL` 实为 **KKTC**、`45 Alamthal` 实为**利比亚市场**（伊斯坦布尔采购办）。
+- **A 档本轮未重做、C 档本轮零投入**（用户明确：A 已挖完、C 不跟进没精力）。
+
+## 十、相关目录
 
 - 深度档案原件：`ingest/angora-1__arena-01a0ce39__5acb613/08-followup-dossiers-2026-11-01/`（21 份，**仍是 r41–r43 的原始出处**）
 - 结构化管线（唯一权威）：`…/08-customer-pipeline/111-turkey-customer-pipeline.csv`

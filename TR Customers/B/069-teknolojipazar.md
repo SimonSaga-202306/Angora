@@ -50,3 +50,36 @@ Freelink 品牌底细+HRUI 替换
 ## 备注
 
 AI 28A/Claude 10C；master 备注「发不过去」（物流问题待解）
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Teknolojipazar 是安塔利亚的"IT/办公/安全/网络"电商**（**2010**，Muratpaşa / Antalya，11–50 人），法人 **Teknolojipazar Bilişim Yazılım ve Elektronik Tic. Ltd. Şti.**。**它是 B2C/B2B 线上零售，不是项目商。**
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 法定名 | **Teknolojipazar Bilişim Yazılım ve Elektronik Tic. Ltd. Şti.** |
+| 成立 | **2010**（创始人 **Cemile Sağlam**） |
+| 地址 | **Muratpaşa / Antalya** |
+| 电话 / 邮箱 | **+90 850 888 8797** / `info@teknolojipazar.com` |
+| 规模 | 11–50 人 / **<$5M**（第三方） |
+| 品类 | 电脑与配件、打印机、**安全（güvenlik）**、**网络（network）**、游戏 |
+
+### 与我方的切入点
+1. **电商 = 需要"现货 + 单品毛利 + 图片/参数素材"** → 我方要提供的不是"方案"，是**土耳其语详情页素材 + 稳定现货**。
+2. **它在安塔利亚** → 与 #35 Antalya Turkuaz 同城 → **两家可能互相拿货**（小心：不要给两家不同价格，会被发现）。
+3. ⚠ **<$5M 的电商，单品价格敏感** → **只推 8/16 口经济款**，别推工业。
+
+### 打法
+- 首封给 `info@teknolojipazar.com`，主题 **"PoE switch — stok + Türkçe ürün içeriği desteği"**（现货 + 土耳其语内容支持）。
+- 提供**现成的产品图 / 参数表 / 土耳其语描述**（这是电商最缺的）。
+- 问：**"PoE switch kategorisinde en çok hangi port sayısı satılıyor?"** —— 直接拿到选品答案。
+
+### 证据等级与空白
+- 已核实：法定名、**2010 成立 + 创始人**、Muratpaşa、11–50 人、电话邮箱、品类（Tracxn + Crunchbase + ZoomInfo 三处）。
+- 空白：营收绝对值、现 PoE 品牌、是否愿做自有品牌。

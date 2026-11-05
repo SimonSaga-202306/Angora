@@ -52,3 +52,40 @@ SFP 全 model list（¥25 价位带）+ 10G 光模块 + 带 bypass 交换机（�
 ## 备注
 
 用户 #43（Evelyn 客户）；现场还提供其客户网站修图服务 = 服务型转售；4 域名矩阵 = 多线营销能力
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**SFP Türkiye 是"只做光模块与转换器"的专营商**（`sfpturkey.com.tr` + `sfpturkiye.com` + `gemaxxnetwork.com` + `gigacomturkey.com` 四域同主），**1.25G / 10G / 10G XFP / RJ45 SFP / 10G SFP+ DAC / 40G QSFP+** 全线。**它不是 PoE 客户，但它是我方"配套光模块"的天然搭档。**
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 法定名 | **SFPTURKEY Elektronik İthalat İhracat Ticaret Limited Şirketi** |
+| 地址 | **Cenap Şahabettin Sok. No:16, Koşuyolu, Kadıköy / İstanbul** |
+| 电话 | **0212 270 57 32 / 0212 270 57 37**；手机 **0555 090 87 37** |
+| 邮箱 | `info@sfpturkey.com.tr` |
+| 域名矩阵 | `sfpturkey.com.tr`、`sfpturkiye.com`、**`gemaxxnetwork.com`**、**`gigacomturkey.com`** |
+| 社媒 | X `@sfpturkey` / `@Kreasis`、Facebook `/sfpturkiye`（有 2023 年促销贴：**"CONVERTER'LARDA EFSANE KASIM FIRSATI"** 十一月转换器大促） |
+
+### 关键判断
+- 它**自述品类只有**：SFP 模块、转换器、DAC/AOC。**没有交换机、没有 PoE 整机。**
+- 但它有 **`gemaxxnetwork.com` / `gigacomturkey.com` 两个网络品牌站** → **它已经在做"网络品牌"的壳**，可能用于承接交换机/整机类目。
+- **⚠ 与 #83（A 档）是同一家**（111 跨批次重复）。本档与 #83 内容同源，**不要当成两家去谈**。
+
+### 与我方的切入点
+1. **不要卖交换机给它**（它不卖整机）→ 会显得没做功课。
+2. ✅ **真正的机会：让它成为我方的"光模块配套方"** —— 我方交换机 + 它的 SFP，**打包报价给土耳其客户**；或反向，**它卖 SFP，我方给它配套 PoE 交换机做组合包**。
+3. ✅ **`gemaxxnetwork.com` / `gigacomturkey.com` 两个域**值得单独问：**是不是准备做交换机/整机品牌？** 若是，我方就是它的代工厂。
+
+### 打法
+- 首封给 `info@sfpturkey.com.tr`，主题 **"Switch + SFP 组合包 / gemaxx & gigacom 代工"**。
+- 问三句：**① gemaxx 和 gigacom 是做什么的？② 你们的客户里有多少在问"switch + 模块"整套？③ 要不要我们做 OEM 供 switch？**
+
+### 证据等级与空白
+- 已核实：法定名、地址、两个座机 + 手机、四个域名、品类（SFP/转换器/DAC）、社媒促销活动（X + FB + 官网三处）。
+- 空白：成立年、员工数、营收、**gemaxx / gigacom 的真实用途（最大未知）**、与 #83 是否为同一法律主体（**必须核**）。

@@ -50,3 +50,41 @@ info@areskom.com.tr
 ## 备注
 
 AI 15B/Claude 20C
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+⭐ **Areskom 是"工业通信"的专业分销商**（`areskom.com.tr`），代理/分销 **Belden、Westermo、Moxa、Advantech、Tektelic、Hirschmann** 这类工业网络品牌，做**能源/智能电网/铁路/海事/油气/数据中心**。**它是我方工业交换机在土耳其"最像对手"的一家**——也正因为如此，**它是"二供/平替"最有说服力的对话对象**。
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 名称 | **Areskom İletişim Ltd.**（`areskom.com.tr`） |
+| 定位 | **工业通信 / 工业 IT / 工业网络安全 的分销与集成** |
+| 行业覆盖 | **能源与智能电网、工厂与过程自动化、造船与海事、油气与石化、铁路与列车自动化、电信与数据中心、摄像头/安防/智能楼宇** |
+| 技术面 | **工业以太网、以太网延伸（Ethernet extender）、光纤、Westermo WeOS/WeConfig/WeConnect、LoRaWAN（Tektelic KONA）、过程自动化（Ethernet/Modbus/Profibus I/O、4–20 mA 隔离器）、M2M/远程访问** |
+
+### 我从官网读到的最关键一句
+- 它在"能源与智能电网"页把 **"Bilgi / İnternet Güvenliği (Cyber Security)"** 写成**与供电同等重要的判据**，并列了 **"Endüstriyel Siber Güvenlik / Edge Network / Etherneti Uzatma / Fiber"**。
+  → ⭐ **它卖的是"关键基础设施的可靠性 + 网络安全"**，不是"便宜"。
+
+### 与我方的真实定位（要诚实）
+- ⚠ **它是 Westermo / Moxa 级别产品的分销商** → **我方在"认证、固件、环网自愈时间"上大概率不如**。
+- ✅ **但有三个真实缝隙**：
+  1. **价格层**：Westermo/Moxa 在土耳其很贵 → **中低端项目（园区、楼宇、小型电站）用不起** → 我方补这一层。
+  2. **交期**：欧洲品牌交期动辄 8–16 周 → **我方 4 周内可交** → 抢"急单"。
+  3. **Ethernet extender / 长距 PoE**：这是它的品类之一，**我方 250 m 长距 PoE 有价格优势**。
+- ⚠ **绝对不要在首封说"我们可以替代 Westermo"** —— 会立刻被拉黑。
+
+### 打法
+- 首封给 `info@areskom.com.tr`，主题 **"Uygun maliyetli alternatif: edge/şube seviyesinde endüstriyel switch"**（边缘/分支层级的性价比替代）。
+- 明确画边界：**"核心环网我们不做，边缘接入我们做"** —— 这句话是拿到回复的关键。
+- 问：**"Müşterilerinizde fiyat baskısı olan projeler var mı?"**
+
+### 证据等级与空白
+- 已核实：定位、七大行业覆盖、**Westermo WeOS / Tektelic KONA / LoRaWAN / Modbus-Profibus I/O** 等技术栈（官网行业页与品牌页逐条）。
+- 空白：法定全名与成立年、员工数、营收、具体代理权限（独家/非独家）。

@@ -52,3 +52,33 @@ eskisehir@hiperonline.com + 90 506 024 59 86（Eskişehir 分）+ 0850 840 98 83
 ## 备注
 
 用户 #56；ISP 客群 = 我方 97 号 WISP/ISP 买家池定义的具体实例
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**有两个"Hiperonline"，必须先分清**：① **Hiperonline İletişim Hizmetleri Ltd. Şti.** = **互联网服务提供商（ISP）**（`hiperonline.com.tr`，卖"无合约、便宜、快的宽带"）；② **`hiperonline.com`**（111 里 #145 那条，Eskişehir）= **另一家/另一域**。**按名字打邮件有 50% 概率打错。**
+
+### 已核实的那个（ISP）
+| 项 | 内容 |
+|---|---|
+| 法定名 | **Hiperonline İletişim Hizmetleri Ltd. Şti.** |
+| 站点 | `hiperonline.com.tr` |
+| 业务 | **ISP**：taahhütsüz（无合约）宽带、政企专线；页面全是 KVKK/隐私/服务条款 |
+| 与我方关系 | ⚠ **它是运营商，不是安防/网络设备分销商**。它买的是**局端设备**，不是 PoE 交换机 |
+
+### 与我方的关系判断（重要）
+- 若 #28 与 #145 都是这个 ISP → **我方基本无机会**（运营商采购走集采，且是光/路由设备）。
+- 若 `hiperonline.com`（Eskişehir）是**另一家 IT/安防商** → **需要单独核实**（它的域名与 .com.tr 不同，主体可能不同）。
+
+### 打法（先确认，别乱发）
+1. **先发一封"确认主体"的短邮件**（不要附报价）：*"请问 hiperonline.com 与 hiperonline.com.tr 是同一家公司吗？我们想确认对接对象。"*
+2. 若确认是 ISP → **本档降为不跟进**（不在我方战场）。
+3. 若是 Eskişehir 的 IT 商 → 按"区域 IT/安防商"打法：**PoE + 布线 + 机柜**组合。
+
+### 证据等级与空白
+- 已核实：**Hiperonline İletişim Hizmetleri Ltd. Şti. 是 ISP**（`hiperonline.com.tr` 的 KVKK/隐私页逐字）。
+- 空白：**`hiperonline.com`（Eskişehir）的主体身份 —— 全部未知，这是本档的阻塞项。**

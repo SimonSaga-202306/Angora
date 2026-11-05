@@ -50,3 +50,35 @@ info@inovatech.com.tr
 ## 备注
 
 AI 18B/Claude 5C
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**İnovatech（İnovatech Güvenlik ve Bilgisayar Sistemleri Dış Ticaret Ltd. Şti.）是 Şişli Perpa 片区的"安防 + 网络"工程商**，**2014-08-21 注册**，做 **IP 摄像机 / 报警 / 消防 / 门禁 / PDKS / 网络与光纤** 的**勘察→设计→安装→调试**全流程。**典型的中型工程商。**
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 法定名 | **İnovatech Güvenlik ve Bilgisayar Sistemleri Dış Ticaret Ltd. Şti.** |
+| 注册 | ⭐ **2014-08-21** |
+| 地址 | **Halil Rıfat Paşa Mah. Yüzer Havuz Sok. A Blok Kat:8 No:789, Şişli / İstanbul 34379**（Perpa 片区） |
+| 电话 / 邮箱 | **(0212) 220 38 34** / `info@inovatech.com.tr` |
+| 行业分类 | **Security Systems Services**（EMIS） |
+| 服务 | **keşif（勘察）→ projelendirme（设计）→ kurulum（安装）→ devreye alma（调试）** |
+
+### 与我方的切入点
+1. **"Dış Ticaret" 在法定名里** → **它有进出口权** → 可直接谈进口，不需要第三方。
+2. **Perpa 片区 + 2014 成立** → 中型、稳定、**供应商已固化但未绑定**。
+3. **它做"网络与光纤"** → **交换机是它的在售品类**（不是空白）→ 谈**二供/降本**。
+
+### 打法
+- 首封给 `info@inovatech.com.tr`，主题 **"IP kamera projeleri için PoE switch — ikinci kaynak"**。
+- 问：**"PoE switch'i ithal mi ediyorsunuz yoksa yerelden mi alıyorsunuz?"** —— 有"Dış Ticaret"资质的问题，它一定会答。
+
+### 证据等级与空白
+- 已核实：法定名、**2014-08-21 注册**、Perpa 具体门牌、电话邮箱、服务流程、行业分类（官网 + EMIS 企业库）。
+- 空白：员工数、营收、现 PoE 品牌。

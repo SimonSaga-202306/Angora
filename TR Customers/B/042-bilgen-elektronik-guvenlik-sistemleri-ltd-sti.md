@@ -52,3 +52,36 @@ Ibrahim（90 532 734 8658，WhatsApp）
 ## 备注
 
 用户 #82
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Bilgen Elektronik 是盖布泽（Gebze / Kocaeli）的安防工程商**，LinkedIn 活跃、**转发 Teknim 与 Polimek** 的内容 → **它站队土耳其本土品牌**。**工业区（Gebze OSB）就在门口 → 工业 PoE 有真实场景。**
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 法定名 | **BİLGEN ELEKTRONİK GÜVENLİK SİSTEMLERİ TEKNOLOJİLERİ YAZILIM ELEKTRİK MAKİNA SAN. VE TİC. LTD. ŞTİ.**（法定名极长，说明登记范围很宽） |
+| 地址 | **Osman Yılmaz Mah. 607/1. Sk. No:21, 41400 Gebze / Kocaeli** |
+| 社媒信号 | LinkedIn 活跃；**转发 Teknim / Polimek** |
+
+### 关键判断
+- ⚠ **"转发 Teknim/Polimek" ≠ 代理**，但说明它**习惯用土耳其本土品牌**（价格/服务/语言优势）→ **它不是"只认国际大牌"的客户**，对贴牌/新品牌的接受度高。
+- **Gebze = 土耳其最大工业区之一（OSB 密集，含 TÜBİTAK MAM、汽车零部件、化工）** → **厂区周界安防 + 车间网络**是本地主场景。
+
+### 与我方的切入点
+1. **厂区周界** → 需要 **长距 PoE（250 m）+ 防雷 + 宽温**（Gebze 冬天冷、夏天热）。
+2. **它是工程商** → 买的是"项目配套"，**不做库存** → 需要"按项目交付、允许分批"。
+3. **接受本土品牌** → **可以推"土耳其可注册的贴牌"**（它更愿意卖一个有本地感的牌子）。
+
+### 打法
+- 首封给官网表单 + LinkedIn 私信（它在 LinkedIn 活跃），主题 **"Gebze OSB tesisleri için endüstriyel PoE"**。
+- 问：**"Teknim/Polimek kullanıyorsunuz — switch tarafını nasıl çözüyorsunuz?"**（顺着它公开的品牌偏好问）
+
+### 证据等级与空白
+- 已核实：超长法定名、Gebze 地址、LinkedIn 活跃、Teknim/Polimek 关联（LinkedIn + 企业名录）。
+- 空白：成立年、员工数、营收、现交换机品牌。

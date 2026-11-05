@@ -52,3 +52,42 @@ Gokhan Naktar（naktar@antalyaturkuaz.com，0 242 345 36 91）
 ## 备注
 
 用户 #31（不谙英语，沟通走 WhatsApp/土耳其语）
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Antalya Turkuaz 是安塔利亚的区域分销商，而且它已经在卖 TP-Link 的 Omada / VIGI**——**我方与它是"同一条货架上的替代品"关系，不是补充关系。** 另外它代理 **Teknim（土耳其本土消防/安防）** 与 **Dahua**。
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 名称 | **Antalya Turkuaz Bilişim Teknolojileri** |
+| 地址 | **Muratpaşa / Antalya** |
+| 电话 / 邮箱 | **0242 345 36 91** / `turkuaz@antalyaturkuaz.com` |
+| 定位 | **区域分销商（bölge distribütörü）**，覆盖安塔利亚及周边省份 |
+
+### ⭐ 代理矩阵（决定谈法）
+| 品牌 | 品类 | 对我方的含义 |
+|---|---|---|
+| **TP-Link / Omada / VIGI** | 交换机 + AP + 摄像机 | ⚠ **正面撞我方交换机** → 谈"平替/降本"或"Omada 兼容" |
+| **Dahua** | 摄像机 / NVR | PoE 需求的源头 |
+| **Teknim** | 土耳其本土消防/报警 | 本土品牌关系强 → 说明它**愿意做土耳其本土品牌**（我方贴牌可走这条路） |
+
+### 与我方的切入点
+1. **它卖 Omada** → Omada 的核心卖点是**云管理**。我方若**不能提供云管理**，正面打必输。
+   → **正确切法**：**"非管理/轻管理 PoE 批量替代"**（酒店、宿舍、小区这类"装完不管"的场景），**不打它 Omada 的客户端**。
+2. **Teknim 关系说明它有本土品牌运营能力** → 可谈 **"Antalya Turkuaz 牌"或"Turkuaz"贴牌 PoE**。
+3. **安塔利亚 = 旅游/酒店集中地** → **酒店弱电是最大场景**（客房 AP + 走廊摄像机 + 前台），**16/24 口 PoE + 长距**是主力。
+
+### 打法
+- 首封给 `turkuaz@antalyaturkuaz.com`，主题 **"Otel projeleri için ekonomik PoE switch（Omada alternatifi değil, tamamlayıcı）"**。
+- **明确说"我们不来抢 Omada"**——这句话能决定它是否回你。
+- 问：**"Otellerde 24 port PoE tarafında fiyat baskısı var mı?"**
+
+### 证据等级与空白
+- 已核实：地址、电话、邮箱、**TP-Link/Omada/VIGI + Dahua + Teknim 代理**（官网品牌页）。
+- 空白：法定名、成立年、员工数、营收、现 PoE 供应商结构。

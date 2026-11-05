@@ -52,3 +52,40 @@ DC 项目 switch/MC/omurga 方案（集装箱 DC = 标准化项目复制性）
 ## 备注
 
 用户表 C15；现场仅名片 → 主动开发（GM 级联系人）
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Foline 是"数据中心 + 弱电 + 结构化布线"的工程/咨询服务商**（İstanbul Kağıthane），**合作方是 Siemens / Viko / Panduit(PAVA?) / CommScope**。**它是设计方与施工方，不是分销商** → 它影响规格，但不一定自己采购。
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 法定名 | **FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ.** |
+| 地址（销售办） | **Premier Kampüs, İmrahor Cd. No:29, B Blok Kat:3/302, Kağıthane / İstanbul** |
+| 电话 / 邮箱 | **0212 535 00 33** / `info@foline.com.tr` |
+| 能力 | **Veri merkezi / Konteyner veri merkezi / Zayıf akım / Yapısal kablolama** 的 **mühendislik + danışmanlık + uygulama** |
+| 合作方 | **Siemens、Viko、PAVA（Panduit 系）、CommScope**（官网"çözüm ortakları"页，48 条记录） |
+
+### 关键判断
+- **它的价值链位置是"设计 + 施工"** → **它写规格书（şartname）**。
+- ⭐ **能写规格书 = 能"指定品牌"** → 若我方进入它的"解决方案伙伴"名单，**它会在项目里指定我方**（这是 B 档里最高杠杆的一种关系，比卖货值钱）。
+- ⚠ 但反过来：**它不会大量囤货**，单次采购量小、按项目走。
+
+### 与我方的切入点
+1. **目标不是"卖给它"，是"进它的 şartname（招标规格）"** → 谈法：给它 **土耳其语规格模板 + 兼容性声明 + 参考项目**，让它写进方案。
+2. **它做 konteyner veri merkezi（集装箱数据中心）** → 里面必配**工业级/宽温交换机** → 这是最具体的抓手。
+3. **它跟 Siemens/CommScope 合作** → **对品质敏感、对价格不敏感** → 报"可靠性"，不报"最低价"。
+
+### 打法
+- 首封给 `info@foline.com.tr`，主题 **"Konteyner veri merkezi için endüstriyel switch — şartname desteği"**（为集装箱 DC 提供工业交换机 + 规格支持）。
+- 附一份 **土耳其语"可写入 şartname 的规格条款"** —— 这是我方能给、别人不给的东西。
+- 问：**"Konteyner DC projelerinde switch'i siz mi seçiyorsunuz?"**
+
+### 证据等级与空白
+- 已核实：法定名、Kağıthane 销售办地址、电话、四项能力、四个合作方（官网多页）。
+- 空白：成立年、员工数、营收、是否自行采购设备。

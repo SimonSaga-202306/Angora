@@ -50,3 +50,39 @@ can@asyatelekom.net（集团）
 ## 备注
 
 用户 #9+#29 合并计（Isee = 同集团，AI-2 口径 + 邮箱域验证）【r37 2026-10-25】用户双评估：eretekne 22B/30B（在售 ONV 深圳绿灯+XPS/Voscom 多品牌）+isee=同集团（Claude 30B 结论复用，can@asyatelekom.net）→B 监控
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Eretekne / Isee 不是两家独立公司，是"品牌 + 渠道"两层皮**：**Asya Telekomünikasyon ve Netgüvenlik Sistemleri Ltd. Şti.**（1995 成立，Ümraniye）自己进口并批发 **ISEE** 品牌的 IP 摄像机/录像机/安防设备；`eretekne.com` 是**另一家（ErETE）的 B2B 平台**——这两条线在 111 里被并成一行，需要拆开看。
+
+### 已核实的结构
+| 实体 | 关系 | 依据 |
+|---|---|---|
+| **Asya Telekomünikasyon ve Netgüvenlik Sistemleri Ltd. Şti.** | 主体，**1995 成立**，İstanbul **Ümraniye**（Mehmet Akif Mah. Öztekin Cad. No:18 **Asya Plaza**） | 官网 `asyatelekom.net` + ContactOut |
+| **ISEE** | ⭐ **Asya Telekom 自有品牌**（IP 摄像机 / 录像机 / 安防设备），"ithalatını ve toptan satışını gerçekleştirmekteyiz"（**自己进口、自己批发**） | `asyatelekom.net/marka/isee/` |
+| 规模 | **约 10 人**（第三方），估营收 ~$84K（⚠ 第三方推算，明显偏低，可能只统计了单一实体） | ContactOut |
+| 电话 | **+90 850 433 27 92**；`webmail@asyatelekom.net` | 官网 |
+
+### 为什么它值得单独看（B 档里少见的"真进口商"）
+- 它**明确自述是"进口商 + 批发商"**，客户是 **bayiler（经销商）、kurumsal alıcılar（企业买家）、toptancılar（批发商）、proje firmaları（项目公司）**。
+- **它已有自有品牌 ISEE** → OEM/换源的心理门槛为 0；**PoE 交换机是它摄像机包的必然配套**。
+- ⚠ **它只有约 10 人、估营收低** → **单量不会大**，但**决策极快**（老板即决策），适合做"小而快"的第一单。
+
+### 与我方的切入点
+1. **给 ISEE 补交换机**：它现在卖摄像机，PoE 交换机要么外采要么不做 → **我方做"ISEE 牌 PoE 交换机"是纯增量**（不抢它现有供应商）。
+2. **8 口 / 16 口百兆 PoE 为主**（配它的 IP 摄像机档位），**不要一上来推 10G**。
+3. **⚠ 关于 `eretekne.com`**：那是 ErETE（#10）的 B2B 平台，**不是 Asya 的**。111 把两者放一行是历史合并结果；**发信时务必分开**——给 Asya 发 `asyatelekom.net`，别把 Erete 的 B2B 平台当它的。
+
+### 打法
+- 首封 **土耳其语**，给 `webmail@asyatelekom.net`，主题 **"ISEE markası için PoE switch tedariki"**。
+- 一句话定位：**"我们知道 ISEE 是你们的品牌，我们做它后面的交换机。"**
+- 问：**"ISEE 现在一年卖多少台摄像机？配套的 switch 是外采还是客户自备？"** —— 这决定单量上限。
+
+### 证据等级与空白
+- 已核实：Asya Telekom 主体/成立年/地址/电话、ISEE 为其自有品牌且自行进口批发。
+- 空白：真实员工数与营收（第三方数字偏低，疑只采信单一实体）、现 PoE 供应商、采购负责人姓名。

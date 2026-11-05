@@ -50,3 +50,40 @@ LNS 贴牌供货（8/24 口 PoE + SFP omurga 对位 LNS 系列）；⚠️ 其 8
 ## 备注
 
 用户 #15；标价异常 = 需电话确认是否含税/渠道价（跟进时核实）【r37 2026-10-25】用户双评估 18B/30B（MC+switch 均打自有 logo，品牌名含 LAN）→B OEM 自有品牌窗口
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**Lansan = "LANSAN TEKNOLOJİ ANONİM ŞİRKETİ"，2019 年 12 月才成立，但直接做成 A.Ş. 且股东多于一人**；主营**光纤/铜缆连接件（SFP/QSFP/DAC、patch panel、keystone、parafudr/防雷器）+ 交换机 + 有源产品**，在 **Perpa B 块**有门店。**B 档里最"年轻但公司化"的一家。**
+
+### 主体与坐标（注册信息级）
+| 项 | 内容 |
+|---|---|
+| 法定名 | **LANSAN TEKNOLOJİ ANONİM ŞİRKETİ**（招牌名：LANSAN NETWORK BAĞLANTI EKİPMANLARI） |
+| 公司类型 | **PAY SAHİBİ SAYISI BİRDEN FAZLA ANONİM ŞİRKET**（**股东多于一个的股份公司**）→ 不是个体户 |
+| 成立 | ⭐ **2019-12-04** |
+| 地址 | Halil Rıfat Paşa Mah. Yüzer Havuz Sok. **Perpa Ticaret Merkezi B Blok No:1/1 İç Kapı No:989**, Şişli / İstanbul 34384 |
+| 站点 | `lansan.com.tr`（电商） |
+
+### 业务结构
+- 自述品类：**SFP-QSFP-DAC 模块、Switch 与有源产品、光纤产品、网络系统、Parafudr（防雷器）、安防系统、门禁、卫星系统、计算机配件、机柜、线缆、耗材**。
+- 站点强项在 **光纤无源件**（patch cord OM1–OM5、pigtail、coupler、PLC splitter、MTP/MPO、keystone、patch panel、**6 口 patch panel 自制**）。
+- → **它自称"Fiberoptik Patch Panel üreticisi"（光纤配线架制造商）** → **有本地制造/组装能力**，不只是贸易。
+
+### 与我方的切入点
+1. **"Switch ve Aktif Ürünler" 是它品类里最薄的一块**（强项全在无源件）→ **我方的补充价值最大**。
+2. **它有本地组装能力（配线架）** → 可能愿意做**交换机本地组装/贴牌**（和 Karer 的逻辑一样）。
+3. **2019 年成立 + A.Ş. 结构 + 多股东** → **有资金、有野心、供应商还没固化** → 抢源窗口。
+
+### 打法
+- 首封给 `lansan.com.tr` 站内邮箱/表单，主题 **"Switch & aktif ürünler — üreticiden doğrudan"**。
+- 强调**"你们强在光纤无源，我们补有源"**（互补，不冲突）。
+- 问：**"Switch 这块你们现在是外采还是不做？如果做，贴 LANSAN 牌可以吗？"**
+
+### 证据等级与空白
+- 已核实：法定名、**2019-12-04 成立**、**A.Ş. 多股东**、Perpa 具体门牌、自述"配线架制造商"、品类清单（企业登记站 + 官网双证）。
+- 空白：股东背景、员工数、营收、是否真有 PoE 在售。

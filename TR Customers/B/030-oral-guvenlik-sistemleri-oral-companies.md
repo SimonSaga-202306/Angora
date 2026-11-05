@@ -52,3 +52,44 @@ Muhammad Azeem Ullah（Manager，info@oralguvenlik.com，90 533 887 03 00 / 0 39
 ## 备注
 
 用户 #57；北塞 = 我方新市场（进口路径/关税需确认）
+
+---
+
+## 附：B 档深挖（r46 · 2026-11-01）
+
+> 本节为 **r46（2026-11-01）B 档深挖**新增，来源为公开网络（官网 / 企业登记 / 展会名录 / BGP / 第三方企业库），逐条标注证据等级；**未核实的项一律标为空白，不推测。**
+
+### 一句话
+**ORAL 不在土耳其本土，在北塞浦路斯（KKTC）**——`oralcompanies.com` 明写"**1982 年起的北塞浦路斯领先品牌**"，旗下 6 家：**Oral Güvenlik / Oral Alüminyum / Oral Çelik Yapı / Oral Fotoğrafçılık / Lider Çerçeve / Alvino Tekstil**。**它自称是"KKTC 的安防解决方案商"**。
+
+### 主体与坐标
+| 项 | 内容 |
+|---|---|
+| 集团 | **Oral Companies**（1982 起，**Kuzey Kıbrıs / KKTC**） |
+| 安防主体 | **Oral Güvenlik Sistemleri**（第三方记 2008 成立，`oralguvenlik.com`） |
+| 负责人 | ⭐ **Metin Oral**（Oral Companies **Direktör / Business Owner**） |
+| 其他联系人 | Muhammad Azeem（Manager at Oral Güvenlik Sistemleri） |
+| 主营 | 集团多元化：安防、铝型材、钢结构、摄影、相框、纺织 |
+
+### ⭐ 一条可直接用的话术素材（媒体报道，2026-03）
+`yeniduzen.com` 专访 Metin Oral，逐字要点：
+- 2007 年进入安防行业，起因是"**员工偷窃**"事件，装了摄像头后开始做这一行（他自己称"悲喜剧"）。
+- "**从最小的摄像机系统做到今天的高级别安防系统安装**"。
+- **明确点名在用的品牌**：摄像用 **Height Vision**、停车场道闸用 **Arma Kontrol**。
+- 自述"**是很多品牌的授权服务商（yetkili servis）**"，"**最大的广告是客户口碑**"。
+
+→ **含义**：① 它是**工程/安装商 + 授权服务商**，不是分销；② **它明确用 Height Vision（摄像机）**，PoE 交换机则**未点名**（说明可能是杂牌或随机采购）；③ **KKTC 是独立市场**（清关走北塞，与土耳其本土不同）。
+
+### 与我方的切入点
+1. **PoE 没有固定品牌** → **换源/加源最容易**。
+2. **KKTC 清关路径特殊** → 报价前必须问 **"货发 Turkey 再转运，还是直接发 KKTC？"**（这决定 Incoterms 与成本）。
+3. **它做停车场道闸（Arma Kontrol）** → **道闸 + 摄像机 + PoE** 是标准包，**,每套 1 台 8 口**。
+
+### 打法
+- 首封给 `oralguvenlik.com` / `oralcompanies.com` 的表单 + `info@oralcompanies.com`，**土耳其语**，称呼 **"Metin Bey"**。
+- 引用他的公开专访（*"Height Vision kamera ve Arma Kontrol bariyer kullandığınızı okuduk"*）→ **立刻建立"我做了功课"的信任**。
+- 问：**"PoE switch'i nereden alıyorsunuz? KKTC'ye mi yoksa Türkiye üzerinden mi geliyor?"**
+
+### 证据等级与空白
+- 已核实：集团 1982 / KKTC、6 家子公司、**Metin Oral 身份**、在用的 **Height Vision + Arma Kontrol**、2007 入行（集团官网 + 媒体专访）。
+- 空白：法定名、规模、年采购量、KKTC 清关方式、是否愿意换 PoE 品牌。
