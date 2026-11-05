@@ -42,7 +42,8 @@ try:
             A_DEEPDIG.update(_mod.D)
     R48 = {}
     R49 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data'):
+    R50 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -51,6 +52,8 @@ try:
             R48.update(_mod.D)
             if _m == 'r49_appendix_data':
                 R49.update(_mod.D)
+            if _m == 'r50_appendix_data':
+                R50.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -64,6 +67,7 @@ B_MARK = '## 附：B 档深挖（r46 · 2026-11-01）'
 A_MARK = '## 附：A 档深挖（r47 · 2026-11-01）'
 R48_MARK = '## 附：r48 抓站补录（2026-11-01）'
 R49_MARK = '## 附：r49 复查收口（2026-11-01 深夜）'
+R50_MARK = '## 附：r50 全量点算与结论回收（2026-11-01）'
 
 
 def tier_letter(level):
@@ -315,6 +319,17 @@ def main():
                      '**与前面任何小节冲突时，以本节为准**。')
             L.append('')
             L.append(body_r49.strip('\n'))
+            L.append('')
+        body_r50 = R50.get(no)
+        if body_r50:
+            L.append('---')
+            L.append('')
+            L.append(R50_MARK)
+            L.append('')
+            L.append('> 本节为 **r50（2026-11-01）**的**全量点算**与**对前两节的回收**；'
+                     '**冲突时以本节为准**。')
+            L.append('')
+            L.append(body_r50.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))

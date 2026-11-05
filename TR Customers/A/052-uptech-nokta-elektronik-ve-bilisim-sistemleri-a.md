@@ -101,31 +101,30 @@ Perpa 批发规模注册品牌主；型号 SW108FGP-A 式
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐ r49 重要补正：**upTech 有完整的工业线 `ISW` 系列**（r48 写"无工业宽温"是错的）
+### ⭐ r50：工业线**全 50 款读完**，upTech 只有 8 款 —— 而"补位"正是切入窗口
 
-r48 只点了交换机（非管理/L2+/L3）就被 `noktaelektronik.net` 的分类数骗了 —— 工业线在**另一个分类**（`Endüstriyel Ethernet`，**50 个产品**），r49 已抓到。
+| 型号 | 形态 |
+|---|---|
+| `ISW2420-GGS` | L2 网管 4×GE + 2×GE SFP |
+| `ISW2420-GGSP` | L2 网管 4×GE PoE + 2 SFP |
+| `ISW2820-GGS` | L2 网管 8×GE + 2 SFP（IP40，−40 °C） |
+| `ISW2820-GGSPV` | L2 网管 8×GE PoE + 2 SFP |
+| **`ISW2840-GGSP`** | L2 网管 8×GE PoE + **4×GE SFP** |
+| `ISW21240-GGS` | L2 网管 12×GE + 4×GE SFP |
+| `ISW1820-FGSP` | **非管理 8×百兆** PoE + 2×GE SFP |
+| **`ISW1811-FGSP`** | **非管理 8×百兆** PoE + 1×GE RJ45 + 1×GE SFP |
 
-#### A. upTech 工业型号（已见 5 款，多款标 `Yeni`）
-| 型号 | 形态 | 我方对位 |
-|---|---|---|
-| **`ISW2420-GGS`** | L2 网管 4×GE + 2×GE SFP（DIN 轨） | `EW-PIS1805-4GE` / `EW-EPIS3910-8GE` |
-| **`ISW2420-GGSP`** | L2 网管 4×GE **PoE** + 2×GE SFP（af/at） | ⭐ `EW-PIS1805-4GE` |
-| **`ISW2820-GGS`** | L2 网管 8×GE + 2×GE SFP（IP40，−40 °C） | `EW-PIS1810-8GE` |
-| **`ISW2820-GGSPV`** | L2 网管 8×GE **PoE** + 2×GE SFP（af/at） | ⭐ `EW-PIS1810-8GE` / `EW-EPIS3910-8GE` |
-| **`ISW1820-FGSP`** | **非管理** 8×**10/100M** PoE + 2×GE SFP（DIN，−40~+75，IP30） | `EW-PIS1802-1GE` 系 / `EW-S1910G-DP` |
-| **`ISW21240-GGS`** | L2 网管 12×GE + 4×GE SFP | `EW-PIS3620M-16GE` |
+**⭐ 结构性判断**
+- `Endüstriyel Ethernet` **50 款**的品牌分布：**ORing ≈ 20 · Planet ≈ 12 · upTech 8 · Dahua 6 · Harting 2 · Edge-Core 2**。
+- → **工业段的"主供"是 ORing，不是 upTech。** upTech 工业线是**刚铺的补位线**（多款标 `Yeni`）。
+- → ⭐ **切入点就在"补位线"上**：ORing 是客户长期主供、动不了；**upTech 自己这条线刚上，最容易换 ODM**。
+- 这 8 款**没有一款**具备：**10G 上联 / 2.5G / 12–24 V 被动 PoE / 802.3bt / 云管理**。
+  → 我方对位：`EW-PIS5712M-8GE`（4×10G SFP+）、`EW-EPIS3910-8GE`（12/24 V 被动 + 云 + 单口重启）、`EW-PIS3810M-8GE-BT`（bt 60 W）。
+- ⚠ 同分类里 **Dahua `LR2118-16ET-240`** 标 **ePoE 单线 800 m**、**`PFS4207-4GT-DP`** 标 **bt 单口 90 W** → **"长距"与"单口高功率"两个卖点在该渠道已被占位**，我方长距话术只能落在 **300 m 拨码 + 与 bt 同机**。
 
-**→ 与我方的真实差距（工业段）**：upTech 工业线**全部停在 GE + 1G SFP**，**没有 2.5G、没有 10G 上联、没有 bt（最高 af/at）**；且**非管理款还是百兆**（`ISW1820-FGSP`）。
-→ 我方在工业段的三张牌：**① 10G 上联工业款（`EW-PIS5712M-8GE` 4×10G SFP+）② 12/24 V 被动 PoE + 云（`EW-EPIS3910-8GE`）③ bt 60 W（`EW-PIS3810M-8GE-BT`）**。
-
-#### B. ⚠ 同分类里它还卖这些（决定我方"不比品牌比档位"）
-`Endüstriyel Ethernet` 50 个产品里品牌混编：**Edge-Core**（`ECIS4500-4P4T`、`ECIS4500-8P4F`，4×/8× PoE+ 30W + 4×SFP）、**Planet**（`BSP-300` 太阳能 PoE、`IGS-801T`、`ISW-1022MT`、`WGS-804HP`、`IGS-5225-16T4S`）、**ORing**（`RGPS-R9244GP+-P` **24×PoE+ 带 4×10G SFP+** 机架工业、`IGPS-1042GPA`、`IGPS-9084GP-LA`、`IGPS-7084GP`、`IGS-3032GC`、`IGS-3044GC`）、**Dahua**（`PFS3106-4ET-60`、`PFS4207-4GT-DP` 4 口 **bt 90 W**）、**Harting**（`20 77 208 4009` mCon M12）。
-- ⚠ **注意 `RGPS-R9244GP+-P`：ORing 的工业机架 24×PoE+ + 4×10G** → 我方"工业没有 10G 上联"这句话在**客户在售清单里已被 ORing 填上**，**不能用**。要用的是「**工业 + 10G + 2.5G + bt 同时具备**」。
-- ⚠ `PFS4207-4GT-DP` 标 **802.3bt / 单口 90 W / 总 120 W**（页面原文）→ **Nokta 体系里已有 90 W 单口**，我方 bt 话术要盯"**全口 60 W + 总 800 W**"，不是"单口功率最高"。
-
-### 证据等级（r49 增补）
-- 已核实（新增）：**upTech 工业 ISW 系列 6 款**、**工业分类 50 个产品的品牌混编（Edge-Core/Planet/ORing/Dahua/Harting）**、**ORing 工业 24 口 PoE+ 带 4×10G**、**Dahua 4 口 bt 90 W**。
-- 仍空白：**ISW 系列的现工厂**、工业线年量、`ISW21240` 之后是否还有更大端口款（分类共 3 页，r49 只读了第 1 页 20 个）。
+### 证据等级（r50 增补）
+- 已核实（新增）：**工业 50 款全 3 页读完**、**品牌分布（ORing/Planet/upTech/Dahua/Harting/Edge-Core）**、**upTech 8 款型号全名**。
+- 仍空白：**ISW 系列现工厂与上市时间**（若刚上，是本季最佳切入点）。
 
 ---
 
@@ -158,3 +157,34 @@ r48 只点了交换机（非管理/L2+/L3）就被 `noktaelektronik.net` 的分�
 ### 证据等级（r49 增补）
 - 已核实（新增）：**upTech 工业 ISW 系列 6 款**、**工业分类 50 个产品的品牌混编（Edge-Core/Planet/ORing/Dahua/Harting）**、**ORing 工业 24 口 PoE+ 带 4×10G**、**Dahua 4 口 bt 90 W**。
 - 仍空白：**ISW 系列的现工厂**、工业线年量、`ISW21240` 之后是否还有更大端口款（分类共 3 页，r49 只读了第 1 页 20 个）。
+
+---
+
+## 附：r50 全量点算与结论回收（2026-11-01）
+
+> 本节为 **r50（2026-11-01）**的**全量点算**与**对前两节的回收**；**冲突时以本节为准**。
+
+### ⭐ r50：工业线**全 50 款读完**，upTech 只有 8 款 —— 而"补位"正是切入窗口
+
+| 型号 | 形态 |
+|---|---|
+| `ISW2420-GGS` | L2 网管 4×GE + 2×GE SFP |
+| `ISW2420-GGSP` | L2 网管 4×GE PoE + 2 SFP |
+| `ISW2820-GGS` | L2 网管 8×GE + 2 SFP（IP40，−40 °C） |
+| `ISW2820-GGSPV` | L2 网管 8×GE PoE + 2 SFP |
+| **`ISW2840-GGSP`** | L2 网管 8×GE PoE + **4×GE SFP** |
+| `ISW21240-GGS` | L2 网管 12×GE + 4×GE SFP |
+| `ISW1820-FGSP` | **非管理 8×百兆** PoE + 2×GE SFP |
+| **`ISW1811-FGSP`** | **非管理 8×百兆** PoE + 1×GE RJ45 + 1×GE SFP |
+
+**⭐ 结构性判断**
+- `Endüstriyel Ethernet` **50 款**的品牌分布：**ORing ≈ 20 · Planet ≈ 12 · upTech 8 · Dahua 6 · Harting 2 · Edge-Core 2**。
+- → **工业段的"主供"是 ORing，不是 upTech。** upTech 工业线是**刚铺的补位线**（多款标 `Yeni`）。
+- → ⭐ **切入点就在"补位线"上**：ORing 是客户长期主供、动不了；**upTech 自己这条线刚上，最容易换 ODM**。
+- 这 8 款**没有一款**具备：**10G 上联 / 2.5G / 12–24 V 被动 PoE / 802.3bt / 云管理**。
+  → 我方对位：`EW-PIS5712M-8GE`（4×10G SFP+）、`EW-EPIS3910-8GE`（12/24 V 被动 + 云 + 单口重启）、`EW-PIS3810M-8GE-BT`（bt 60 W）。
+- ⚠ 同分类里 **Dahua `LR2118-16ET-240`** 标 **ePoE 单线 800 m**、**`PFS4207-4GT-DP`** 标 **bt 单口 90 W** → **"长距"与"单口高功率"两个卖点在该渠道已被占位**，我方长距话术只能落在 **300 m 拨码 + 与 bt 同机**。
+
+### 证据等级（r50 增补）
+- 已核实（新增）：**工业 50 款全 3 页读完**、**品牌分布（ORing/Planet/upTech/Dahua/Harting/Edge-Core）**、**upTech 8 款型号全名**。
+- 仍空白：**ISW 系列现工厂与上市时间**（若刚上，是本季最佳切入点）。
