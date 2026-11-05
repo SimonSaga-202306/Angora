@@ -93,16 +93,38 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### r49 复核：`Cifocs` 在品牌墙里与 **Argus/CMG/Greenlee/InterCoax/Kingfisher/Maisvch/Micos/PatchSee/Tempo/Trend/Vesala** 并列（**13 个品牌**）
+### ⭐⭐⭐ r54：`S5700-24G-4TFR` 的牌子是 **FOREDGE** —— 而且它有 **DMO（国家采购局）合同价**
 
-- `cebecigrup.com/markalar/` 原文品牌清单：**argus · BitStream · cifocs · cmg · greenlee · intercoax · Kingfisher · Maisvch · micos · PatchSee · tempo · trend-networks · vesala**。
-- ⚠ **这条证据对"自有品牌"是不利的**：Cebeci 把 Cifocs 与 12 个**明确的外国品牌**放在同一面墙上，**没有任何"our brand / kendi markamız"标注**。
-- 支持"自有/独家"的仍是：**`CFC-*` 自家编号 + 内部码 `OPT-008` / `OPT-013` / `RSC-049` / `RSC-050`**（产品页"Ürün Kodu"列，官方原文），而代理品牌用原厂型号。
-- → **判定维持「推定」，且证据权重从"偏自有"下调为「五五」**。**客户可见文本一律不写"自有商标"**，首封照旧问一句。
+#### A. 品牌与型号（多站交叉，全部证据）
+`S5700-*` 系列在 Teknoberk / Toptanbilgisayar / YeniYeni / Binbirçeşit / Online-Mağaza **五个渠道都以 `FOREDGE` 品牌在售**；`foredgetech.com/tr` 是它的土耳其语官网（自述 **300+ yurtiçi kanal ortağı**、20+ 全球分支）；**DMO 目录标注 `Menşei: Çin`，供应商 `FS Grup Bilişim Ltd. Şti.`**。
 
-### 证据等级（r49 增补）
-- 已核实（新增）：**Cebeci 品牌墙 13 个品牌全名单**（含 BitStream / Kingfisher / Maisvch / PatchSee / Vesala 五个 r48 未记录的）。
-- 仍空白：**Cifocs 商标注册人**（TÜRKPATENT 需图形验证码 / 会话，公开检索未能直连）→ **唯一未解的阻塞项**。
+| 型号 | 规格 | 零售价（含税） |
+|---|---|---|
+| `S5700-24G-4TFR` | 24×GE + **4×10G SFP+** L3 管理 | **299.28 USD + KDV**（Teknoberk）/ 13,539.90 · 15,614.80 · 16,430.08 · 18,037.51 ₺ |
+| `S5700-24G-4FR` | 24×GE + 4 口 | 11,580.90 · 14,052.72 · 15,427.57 ₺ |
+| `S5700-48G-4TFR` | 48×GE + 4×10G L3 | 19,594.90 · 26,103.53 ₺ |
+| `S5700-24G-24F-4TF` | 24 GE + **24 SFP** + 4×10G | 50,465.27 · 55,402.53 ₺ |
+
+#### B. ⭐ DMO 公共采购价（**项目级锚点**）
+| 型号 | 规格 | DMO 价 |
+|---|---|---|
+| **`S5700-24GP-4TFR`** | **24×GE PoE + 4×10G SFP+ + Console，360 W**，128 Gbps，16K MAC | **66,879.68 ₺ + KDV = 80,255.62 ₺ 含税 ≈ US$1,604** |
+| **`S5700-48GP-4TFR`** | **48×GE PoE + 4×10G**，360 W，**176 Gbps / 130.9 Mpps** | **86,523.89 ₺ + KDV = 103,828.67 ₺ 含税 ≈ US$2,076** |
+
+L3 能力（DMO 规格书原文）：**IPv4 静态 + RIP v1/v2 + OSPFv2；IPv6 静态 + RIPng + OSPFv3**；4K VLAN；无堆叠。
+
+#### C. 结论
+1. **Cebeci 卖的是 Foredge 白牌**，不是自有品牌。
+2. ⭐ **Foredge 本身是竞争对手，不是客户**：中国品牌 + 土耳其分公司 + **300 渠道 + DMO 框架合同（2024-10-21 → 2026-10-21）**。
+3. **对我方的含义**：公共项目里 24 口 PoE + 4×10G 的**含税成交参考 ≈ $1,604**；48 口 ≈ $2,076 ⇒ **我方 `EW-S2926GM-AP` / `EW-S5748GM-AP` 的报价上限被它锁死**。
+4. **对 Cebeci 的打法**：它的白牌**没有 2.5G、没有 bt、没有云** → 谈「**给它一条别人没有的 2.5G + bt 线**」，而不是拼 S5700 价格。
+
+**首封**：`S5700 serisi tamam — ama 2.5G ve 802.3bt hattı yok: Cebeci markasıyla`
+**必问**：① Foredge 是独家吗？② DMO 项目占比多少？③ 要不要 2.5G 线做差异化？
+
+### 证据等级（r54）
+- 已核实：**四个型号的五站零售价**、**两个 DMO 型号的官方价与规格书**、**Foredge 土耳其官网与 300+ 渠道自述**、**Menşei Çin / FS Grup Bilişim**。
+- 仍空白：Cebeci 与 Foredge 的具体合作关系（代理/分销/贴牌）、`S5700-24GP-4TFR` 的渠道价（非 DMO）。
 
 ---
 
@@ -120,3 +142,42 @@ AI 25B/Claude 20C
 ### 证据等级（r49 增补）
 - 已核实（新增）：**Cebeci 品牌墙 13 个品牌全名单**（含 BitStream / Kingfisher / Maisvch / PatchSee / Vesala 五个 r48 未记录的）。
 - 仍空白：**Cifocs 商标注册人**（TÜRKPATENT 需图形验证码 / 会话，公开检索未能直连）→ **唯一未解的阻塞项**。
+
+---
+
+## 附：r54 B 档型号级点算与价格锚点重建（2026-11-01）
+
+> 本节为 **r54（2026-11-01）** 的 B 档型号级点算；USD/TRY 按 **50.02**（2026-11-04）折算。
+
+### ⭐⭐⭐ r54：`S5700-24G-4TFR` 的牌子是 **FOREDGE** —— 而且它有 **DMO（国家采购局）合同价**
+
+#### A. 品牌与型号（多站交叉，全部证据）
+`S5700-*` 系列在 Teknoberk / Toptanbilgisayar / YeniYeni / Binbirçeşit / Online-Mağaza **五个渠道都以 `FOREDGE` 品牌在售**；`foredgetech.com/tr` 是它的土耳其语官网（自述 **300+ yurtiçi kanal ortağı**、20+ 全球分支）；**DMO 目录标注 `Menşei: Çin`，供应商 `FS Grup Bilişim Ltd. Şti.`**。
+
+| 型号 | 规格 | 零售价（含税） |
+|---|---|---|
+| `S5700-24G-4TFR` | 24×GE + **4×10G SFP+** L3 管理 | **299.28 USD + KDV**（Teknoberk）/ 13,539.90 · 15,614.80 · 16,430.08 · 18,037.51 ₺ |
+| `S5700-24G-4FR` | 24×GE + 4 口 | 11,580.90 · 14,052.72 · 15,427.57 ₺ |
+| `S5700-48G-4TFR` | 48×GE + 4×10G L3 | 19,594.90 · 26,103.53 ₺ |
+| `S5700-24G-24F-4TF` | 24 GE + **24 SFP** + 4×10G | 50,465.27 · 55,402.53 ₺ |
+
+#### B. ⭐ DMO 公共采购价（**项目级锚点**）
+| 型号 | 规格 | DMO 价 |
+|---|---|---|
+| **`S5700-24GP-4TFR`** | **24×GE PoE + 4×10G SFP+ + Console，360 W**，128 Gbps，16K MAC | **66,879.68 ₺ + KDV = 80,255.62 ₺ 含税 ≈ US$1,604** |
+| **`S5700-48GP-4TFR`** | **48×GE PoE + 4×10G**，360 W，**176 Gbps / 130.9 Mpps** | **86,523.89 ₺ + KDV = 103,828.67 ₺ 含税 ≈ US$2,076** |
+
+L3 能力（DMO 规格书原文）：**IPv4 静态 + RIP v1/v2 + OSPFv2；IPv6 静态 + RIPng + OSPFv3**；4K VLAN；无堆叠。
+
+#### C. 结论
+1. **Cebeci 卖的是 Foredge 白牌**，不是自有品牌。
+2. ⭐ **Foredge 本身是竞争对手，不是客户**：中国品牌 + 土耳其分公司 + **300 渠道 + DMO 框架合同（2024-10-21 → 2026-10-21）**。
+3. **对我方的含义**：公共项目里 24 口 PoE + 4×10G 的**含税成交参考 ≈ $1,604**；48 口 ≈ $2,076 ⇒ **我方 `EW-S2926GM-AP` / `EW-S5748GM-AP` 的报价上限被它锁死**。
+4. **对 Cebeci 的打法**：它的白牌**没有 2.5G、没有 bt、没有云** → 谈「**给它一条别人没有的 2.5G + bt 线**」，而不是拼 S5700 价格。
+
+**首封**：`S5700 serisi tamam — ama 2.5G ve 802.3bt hattı yok: Cebeci markasıyla`
+**必问**：① Foredge 是独家吗？② DMO 项目占比多少？③ 要不要 2.5G 线做差异化？
+
+### 证据等级（r54）
+- 已核实：**四个型号的五站零售价**、**两个 DMO 型号的官方价与规格书**、**Foredge 土耳其官网与 300+ 渠道自述**、**Menşei Çin / FS Grup Bilişim**。
+- 仍空白：Cebeci 与 Foredge 的具体合作关系（代理/分销/贴牌）、`S5700-24GP-4TFR` 的渠道价（非 DMO）。

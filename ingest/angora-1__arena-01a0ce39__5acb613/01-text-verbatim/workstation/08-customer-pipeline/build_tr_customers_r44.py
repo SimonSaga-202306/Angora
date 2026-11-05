@@ -46,7 +46,8 @@ try:
     R51 = {}
     R52 = {}
     R53 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data'):
+    R54 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -63,6 +64,8 @@ try:
                 R52.update(_mod.D)
             if _m == 'r53_appendix_data':
                 R53.update(_mod.D)
+            if _m == 'r54_appendix_data':
+                R54.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -80,6 +83,7 @@ R50_MARK = '## 附：r50 全量点算与结论回收（2026-11-01）'
 R51_MARK = '## 附：r51 自有品牌线型号级对位（2026-11-01）'
 R52_MARK = '## 附：r52 全目录点算与品牌归属推翻（2026-11-01）'
 R53_MARK = '## 附：r53 规格实锤与目录空位（2026-11-01）'
+R54_MARK = '## 附：r54 B 档型号级点算与价格锚点重建（2026-11-01）'
 
 
 def tier_letter(level):
@@ -374,6 +378,16 @@ def main():
             L.append('> 本节为 **r53（2026-11-01）** 的规格实锤；**与 r52 冲突时以本节为准**。')
             L.append('')
             L.append(body_r53.strip('\n'))
+            L.append('')
+        body_r54 = R54.get(no)
+        if body_r54:
+            L.append('---')
+            L.append('')
+            L.append(R54_MARK)
+            L.append('')
+            L.append('> 本节为 **r54（2026-11-01）** 的 B 档型号级点算；USD/TRY 按 **50.02**（2026-11-04）折算。')
+            L.append('')
+            L.append(body_r54.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))

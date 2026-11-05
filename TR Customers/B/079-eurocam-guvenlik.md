@@ -85,3 +85,93 @@ master 50 家之一（不在 TCL 299 内）
 ### 证据等级与空白
 - 已核实：法定名、Perpa 地址、**2010 起业**、**三个自有品牌**、**五个授权代理含 Ruijie**、**500+ 经销商 + 直接进口 + 研发团队**（官网"关于我们""品牌""服务"三页逐条）。
 - 空白：员工数、营收、现 PoE 年采购量、采购负责人。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+### ⭐⭐ r54：Eurocam 的 PoE 线型号全表 —— **它已经在宣传 250 m**
+
+#### A. 自有品牌型号（EUROCAM / EUROLINK）
+| 品牌 | 型号 | 规格 |
+|---|---|---|
+| EUROCAM | `EC-SWG24-UP1000`（+1SFP / +2SFP 变体） | 24×GE + 2×GE 上联（+1 或 2×SFP）；原文 **「İLETİŞİM MESAFESİ: 0-250 M」**、**「HER PORT <30 W」** |
+| EUROCAM | **`EC-SWG24-POE`** | 24×GE **PoE** + 2 上联 + **2×SFP**，**400 WATT** |
+| EUROCAM | `EC-SW24-POE` | 24×**10/100** PoE + 2×GE 上联 |
+| EUROCAM | `EC-SWG04-UP1000` / `EC-SW04` / `POE-SW08-100` | 4 口 GE / 4 口 / 8 口 PoE |
+| EUROLINK | `EL-S1024` | 24×**10/100** 非管理 |
+| EUROLINK | `EL-SG2024` | 24×GE 非管理 |
+| EUROLINK | `EL-SG-SFP2026` | 24×GE + 2×SFP |
+| EUROLINK | `EL-SG-SF2018` | 16×GE + 2×SFP |
+| EUROLINK | `SWG16+1SFP` | 16×GE PoE + 2 上联 + 1 SFP，**每口 15 W，总 240 W**（Hepsiburada 原文） |
+| EUROLINK | `SWG24+2SFP` | 24×GE PoE + 2 上联 + 2 SFP，**每口 15 W** |
+
+#### B. 它同时是「渠道中的渠道」
+- **Ruijie（锐捷）授权分销**；
+- 还分销 **DAYLINE `DL-3324PF`**（24 PoE + 2 上联 + 1 SFP）——**Dayline 是 `A/004` Cenova 的品牌** ⇒ **A 档与 B 档在这条链上是同一批货**。
+
+#### C. ⚠ 修正：**250 m 不是我方独占**
+r49/r50 反复把「**300 m 长距**」当差异点。Eurocam 的 `EC-SWG24-UP1000` 宣传页原文就写 **「0-250 M」**；CCTV 渠道的 **Besta `BST2422G` 更写「305 Metre PoE Desteği」**（见 `123` §二）。
+→ **正确说法**：**300 m 只在「网管 + 2.5G」组合里有意义**，单讲 300 m 已经没有优势。
+
+#### D. 对位
+| 它的型号 | 我方 | 差在哪 |
+|---|---|---|
+| `EC-SWG24-POE`（24 PoE + 2 SFP，**400 W**） | **`EW-S2926GM-AP`**（24 PoE 网管）/ `EW-S1927CG-AP` | 我方网管+bt；**它 400 W 其实不低** |
+| `EC-SW24-POE`（24×100M PoE） | `EW-S1927CG-AP` | **GE 换百兆**，最干净 |
+| `EL-SG-SFP2026`（24GE + 2 SFP 非管理） | `EW-S1824` 系 | 价格战，不打 |
+| `SWG16+1SFP`（每口 15 W / 总 240 W） | `EW-PIS3620M-16GE` | 我方 30/60 W |
+
+**首封**：`EC-SW24-POE (100M) → gigabit + 802.3bt aynı fiyata, Eurocam markasıyla`
+**必问**：① Eurocam 牌月量多少？② Ruijie 之外要不要自有 PoE 线？③ Dayline 的货是 Cenova 直供吗？
+
+### 证据等级（r54）
+- 已核实：**10 个自有型号 + 3 个细节（250 m、400 W、15 W/口/240 W）**（`b2b.eurocamguvenlik.com.tr`、Tria、Hepsiburada 原文）。
+- 仍空白：Eurocam 商标注册人、各型号 PoE 预算全表、是否贴牌给经销商。
+
+---
+
+## 附：r54 B 档型号级点算与价格锚点重建（2026-11-01）
+
+> 本节为 **r54（2026-11-01）** 的 B 档型号级点算；USD/TRY 按 **50.02**（2026-11-04）折算。
+
+### ⭐⭐ r54：Eurocam 的 PoE 线型号全表 —— **它已经在宣传 250 m**
+
+#### A. 自有品牌型号（EUROCAM / EUROLINK）
+| 品牌 | 型号 | 规格 |
+|---|---|---|
+| EUROCAM | `EC-SWG24-UP1000`（+1SFP / +2SFP 变体） | 24×GE + 2×GE 上联（+1 或 2×SFP）；原文 **「İLETİŞİM MESAFESİ: 0-250 M」**、**「HER PORT <30 W」** |
+| EUROCAM | **`EC-SWG24-POE`** | 24×GE **PoE** + 2 上联 + **2×SFP**，**400 WATT** |
+| EUROCAM | `EC-SW24-POE` | 24×**10/100** PoE + 2×GE 上联 |
+| EUROCAM | `EC-SWG04-UP1000` / `EC-SW04` / `POE-SW08-100` | 4 口 GE / 4 口 / 8 口 PoE |
+| EUROLINK | `EL-S1024` | 24×**10/100** 非管理 |
+| EUROLINK | `EL-SG2024` | 24×GE 非管理 |
+| EUROLINK | `EL-SG-SFP2026` | 24×GE + 2×SFP |
+| EUROLINK | `EL-SG-SF2018` | 16×GE + 2×SFP |
+| EUROLINK | `SWG16+1SFP` | 16×GE PoE + 2 上联 + 1 SFP，**每口 15 W，总 240 W**（Hepsiburada 原文） |
+| EUROLINK | `SWG24+2SFP` | 24×GE PoE + 2 上联 + 2 SFP，**每口 15 W** |
+
+#### B. 它同时是「渠道中的渠道」
+- **Ruijie（锐捷）授权分销**；
+- 还分销 **DAYLINE `DL-3324PF`**（24 PoE + 2 上联 + 1 SFP）——**Dayline 是 `A/004` Cenova 的品牌** ⇒ **A 档与 B 档在这条链上是同一批货**。
+
+#### C. ⚠ 修正：**250 m 不是我方独占**
+r49/r50 反复把「**300 m 长距**」当差异点。Eurocam 的 `EC-SWG24-UP1000` 宣传页原文就写 **「0-250 M」**；CCTV 渠道的 **Besta `BST2422G` 更写「305 Metre PoE Desteği」**（见 `123` §二）。
+→ **正确说法**：**300 m 只在「网管 + 2.5G」组合里有意义**，单讲 300 m 已经没有优势。
+
+#### D. 对位
+| 它的型号 | 我方 | 差在哪 |
+|---|---|---|
+| `EC-SWG24-POE`（24 PoE + 2 SFP，**400 W**） | **`EW-S2926GM-AP`**（24 PoE 网管）/ `EW-S1927CG-AP` | 我方网管+bt；**它 400 W 其实不低** |
+| `EC-SW24-POE`（24×100M PoE） | `EW-S1927CG-AP` | **GE 换百兆**，最干净 |
+| `EL-SG-SFP2026`（24GE + 2 SFP 非管理） | `EW-S1824` 系 | 价格战，不打 |
+| `SWG16+1SFP`（每口 15 W / 总 240 W） | `EW-PIS3620M-16GE` | 我方 30/60 W |
+
+**首封**：`EC-SW24-POE (100M) → gigabit + 802.3bt aynı fiyata, Eurocam markasıyla`
+**必问**：① Eurocam 牌月量多少？② Ruijie 之外要不要自有 PoE 线？③ Dayline 的货是 Cenova 直供吗？
+
+### 证据等级（r54）
+- 已核实：**10 个自有型号 + 3 个细节（250 m、400 W、15 W/口/240 W）**（`b2b.eurocamguvenlik.com.tr`、Tria、Hepsiburada 原文）。
+- 仍空白：Eurocam 商标注册人、各型号 PoE 预算全表、是否贴牌给经销商。
