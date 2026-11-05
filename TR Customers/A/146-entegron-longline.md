@@ -200,3 +200,51 @@ Longline：经 longline.com.tr / hepsiburada 店铺（顾问式销售 Tolga Y.�
 - `Safa Özer` 是否仍在职（第三方数据库有滞后）
 - 其 PoE 31 款的**实际供应商**（`LNG` 前缀是否全为同一家深圳厂）
 - 罗马尼亚仓库是否也为 Entegron 服务（若是 → **欧洲转口机会**）
+
+---
+
+## 附：r51 自有品牌线型号级对位（2026-11-01）
+
+> 本节为 **r51（2026-11-01）**对 **Longline `LNG` 系**的**型号级**取证与对位。
+
+### ⭐ r51：Longline `LNG` 系**型号级全表** —— 发现它的**端口数口径把 uplink 也算进去**
+
+#### A. 商用 PoE（`LNG3xxx`，L2 网管）
+| 型号 | 端口 | PoE |
+|---|---|---|
+| `LNG3044GE` | 4×GE PoE + 2×GE uplink | **60 W** |
+| `LNG3048GE` | 8×GE PoE + 2×GE uplink + **1×SFP** | **120 W** |
+| `LNG3000-8TP4S-IK` | **L3** PoE 千兆全管理（工业级） | — |
+
+#### B. 工业 PoE（`LNGIGFxxGT-yyPOE`，L2 网管 / 非网管成对）
+| 型号 | 端口 | PoE / 背板 |
+|---|---|---|
+| `LNGIGF4GT-4POE` | 4×GE PoE（工业 4 口） | — |
+| `LNGIGF9GT-8POE` | 8×GE PoE | — |
+| ⭐ `LNGIGF18GT-16POE`（**非网管**）/ `-M`（**网管**） | 页面称 **"20 端口"** = **16×GE PoE（单口 30 W）+ 2×GE uplink + 2×SFP** | **260 W** / 52 Gbps |
+| ⭐ `LNGIGF26GT-24POE` / `-M` | 页面称 **"28 端口"** = **24×GE PoE + 2 uplink + 2×SFP** | **400 W** / 56 Gbps |
+| `LNGIGF4GT` / `-M`、`LNGIGF26GT`、`LNGIGF8GC16GF-M`、`LNGIGF8GC16GF-Mpro`、`LNGIGF24GT-Mpro`、`LNGI4GF24GT-M`、`LNGIF8GC16GT-Mpro`、`LNGIWF8GC16GF-M`、`LNG2IGF4GT` | 工业非 PoE / 光电混合多档 | — |
+
+#### C. 工业导轨型（`LNG2000` 系列）
+`LNG2000-5T1S-I`、`LNG2000-1T8TP1S-I`、`LNG2000-8TP2S-IK`（**8×PoE + 2×SFP，导轨式 L2 智能管理**）
+
+### ⭐⭐ 关键发现：**它的"20 口 / 28 口"是把 uplink 与 SFP 算进端口数的营销口径**
+
+`LNGIGF18GT-16POE` 页面写 **"20-port"**，实际是 **16 个 PoE 电口 + 2 个 uplink + 2 个 SFP**。
+→ **含义（谈判层面）**：跟它做规格对标时，**必须按同一口径给数字**，否则"我方 16 口 vs 它 20 口"的错觉会让它觉得我方小。
+→ **我方对位应按"总端口数"报**：`EW-PIS3620M-16GE`（16 PoE + 4 SFP = **20 口**）正好同口径；`EW-PIS5728GM-AP`（28 口）对应它的 **"28 口"** `LNGIGF26GT-24POE`。
+
+### 与我方对位（r51）
+| 它的型号 | 我方对位 | 差 |
+|---|---|---|
+| `LNGIGF18GT-16POE-M`（16 PoE + 4 光，260 W，**L2**） | ⭐ **`EW-PIS3620M-16GE`**（16 PoE + 4 SFP，L2+，**同 20 口口径**） | 我方 L2+ 带静态路由 |
+| `LNGIGF26GT-24POE-M`（**28 口口径**，400 W，L2） | ⭐ **`EW-PIS5728GM-AP`**（28 口 L3 / 400 W） | **L2 → L3** 是代差 |
+| `LNG3000-8TP4S-IK`（L3 工业 PoE） | `EW-PIS5712M-8GE`（8 PoE + **4×10G SFP+**） | 我方上联是 **10G** |
+| `LNG3048GE`（8 PoE + 2 uplink + 1 SFP，120 W） | `EW-S1710FG-AP`（8 GE PoE + 2 SFP） | 同档 |
+
+**全线缺口**：**无 2.5G · 无 802.3bt（工业全线单口 30 W 封顶）· 无 10G 上联（除 `LNG3000` 的 IK 版待核）**。
+→ ⭐ 我方最强一句：**"工业机 24 口还在 30W/口，我们可以 60W/口 + bt，且总功率翻倍。"**
+
+### 证据等级（r51）
+- 已核实：**`LNGIGF18GT-16POE(-M)` / `LNGIGF26GT-24POE(-M)` 的完整规格**（`longlinenetwork.com` 产品页：背板 52/56 Gbps、PoE 260/400 W、AC220V 单电源、L2 管理）、**`LNG3048GE` 120 W / `LNG3044GE` 60 W**、**`LNG2000` 导轨三款**、**"20 口 / 28 口"口径**。
+- 仍空白：`LNG3000-8TP4S-IK` 是否带 10G（页面标题只写 "L3 POE Gigabit"）、Entegron 侧 31 款 PoE 与 Longline 是否同一 BOM。
