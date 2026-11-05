@@ -11,7 +11,7 @@
 
 入口：
 
-- **[`TR Customers/`](TR%20Customers/README.md) — 土耳其客户总表：146 个客户各一个 MD（含 21 份完整深度档案逐字并入）**
+- **[`TR Customers/`](TR%20Customers/README.md) — 土耳其客户总表：146 个客户各一个 MD，按 A/B/C 三档分目录（`A/` 33 · `B/` 77 · `C/` 36，含 21 份完整深度档案逐字并入）**
 
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）

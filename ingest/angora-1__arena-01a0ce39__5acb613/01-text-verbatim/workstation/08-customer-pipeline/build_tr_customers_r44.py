@@ -26,6 +26,17 @@ DOSSIER_DIR = os.path.join(
     ROOT, 'ingest', 'angora-1__arena-01a0ce39__5acb613',
     '08-followup-dossiers-2026-11-01')
 OUT_DIR = os.path.join(ROOT, 'TR Customers')
+TIERS = ('A', 'B', 'C')
+
+
+def tier_letter(level):
+    """111 的 `层级` 列取值很杂（A 核心 / A-（ISAF25 新入）/ B+ / B bypass /
+    C 不跟进 …），统一按首字母归入 A/B/C 三档；无法判定归 C 并在 README 标注。"""
+    t = (level or '').strip().upper()
+    for ch in TIERS:
+        if t.startswith(ch):
+            return ch
+    return 'C'
 
 # 111 序号 -> (深度档案文件名, 档案里的编号)
 DOSSIER_MAP = {
@@ -113,7 +124,8 @@ def is_same(a, b):
 
 def main():
     rows = list(csv.DictReader(io.open(CSV_PATH, encoding='utf-8-sig')))
-    os.makedirs(OUT_DIR, exist_ok=True)
+    for t in TIERS:
+        os.makedirs(os.path.join(OUT_DIR, t), exist_ok=True)
 
     # 近名索引（只做提示，不合并）
     names = [(r['序号'], r['公司']) for r in rows]
@@ -220,11 +232,12 @@ def main():
             L.append(body)
             L.append('')
 
-        out = os.path.join(OUT_DIR, fname)
+        letter = tier_letter(tier)
+        out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
         written += 1
         index_rows.append((no, company, plain(r['总部/城市']), tier, score,
-                           '有' if dossier else '—', fname))
+                           '有' if dossier else '—', letter + '/' + fname, letter))
 
     # 111 之外的补充档案：Entegron / LONGLINE
     extra_src = '06-entegron-longline.md'
@@ -311,11 +324,12 @@ def main():
         L.append('')
         L.append(body)
         L.append('')
-        io.open(os.path.join(OUT_DIR, '146-entegron-longline.md'), 'w',
+        io.open(os.path.join(OUT_DIR, 'A', '146-entegron-longline.md'), 'w',
                 encoding='utf-8').write('\n'.join(L))
         written += 1
         index_rows.append(('146', 'Entegron ／ LONGLINE（双品牌）', 'İstanbul / Bayrampaşa',
-                           'A-（客户侧）', '30A/45A', '有', '146-entegron-longline.md'))
+                           'A-（客户侧）', '30A/45A', '有',
+                           'A/146-entegron-longline.md', 'A'))
 
     # ---------- README ----------
     R = []
@@ -324,16 +338,22 @@ def main():
     R.append('**这个文件夹是什么**：把仓库里**已有的土耳其客户底稿**，'
              '拆成**一家一个 Markdown 文件**，方便逐家看、逐家发、逐家跟。')
     R.append('')
-    R.append('- 文件数：**%d**（客户 **%d** 家 + 本 README）' % (written + 1, written))
+    n = {t: sum(1 for r in index_rows if r[7] == t) for t in TIERS}
+    R.append('- 客户数：**%d** —— **A 档 %d · B 档 %d · C 档 %d**' %
+             (written, n['A'], n['B'], n['C']))
+    R.append('- 组织方式：**A / B / C 三个子文件夹**（`A/` `B/` `C/`，'
+             '按 `111` 的 `层级` 列首字母归档），本 README 放在根部')
+    R.append('- 文件数：**%d** 个客户 MD + 本 README' % written)
     R.append('- 数据源（唯一权威）：`ingest/angora-1__arena-01a0ce39__5acb613/'
              '01-text-verbatim/workstation/08-customer-pipeline/'
              '111-turkey-customer-pipeline.csv`（**145 行 × 17 列**）')
-    R.append('- 额外 1 家：**Entegron / LONGLINE**（`146-…`）—— 它只在 '
-             '`06-competitors/110` 第 20 行与原始名单 #44，**不在 111 管线里**。')
+    R.append('- 额外 1 家：**Entegron / LONGLINE**（`A/146-entegron-longline.md`）—— '
+             '它只在 `06-competitors/110` 第 20 行与原始名单 #44，**不在 111 管线里**，'
+             '按客户侧评级归入 `A/`。')
     R.append('')
     R.append('---')
     R.append('')
-    R.append('## 一、怎么读（三件事）')
+    R.append('## 一、怎么读（四件事）')
     R.append('')
     R.append('1. **每个文件固定七段**：身份卡 → 我方核实的交换机产品线 → '
              '当前供应链 → 联系人（逐字）→ 证据与核实等级 → 建议动作 → 备注。')
@@ -341,10 +361,12 @@ def main():
              '把 `08-followup-dossiers-2026-11-01/` 里的**八段档案 + '
              'r42 核验补录 + r43 商业深挖全文逐字并入**，所以这 21 个文件是'
              '**自包含**的，不用来回跳。')
-    R.append('3. **没有合并任何记录**：111 里同一家公司在两批名单里各出现一次'
+    R.append('3. **按档分目录**：`A/` 优先跟进、`B/` 常规维护、`C/` 备选池'
+             '（标准见第三节）。**想只打重点，就只看 `A/` 这一个文件夹。**')
+    R.append('4. **没有合并任何记录**：111 里同一家公司在两批名单里各出现一次'
              '（如 `Makros A.Ş.` = #26 与 #81、`Telemobil` = #46 与 #80、'
              '`HAFYA` = #25 与 #82），**各自独立成文件**，文件顶部用 ⚠ 标出'
-             '「疑与 #NNN 同一家」，**要不要合并由人判断**（共 %d 组，见第五节）。'
+             '「疑与 #NNN 同一家」，**要不要合并由人判断**（共 %d 组，见第八节）。'
              % len(dup_pairs))
     R.append('')
     R.append('## 二、诚实边界（必读）')
@@ -364,16 +386,51 @@ def main():
     R.append('| 第三方数据 | 规模/营收等若来自 Datanyze / ZoomInfo / RocketReach / Volza，'
              '均为**第三方推算**，非财报（详见各家深度档案）。 |')
     R.append('')
-    R.append('## 三、索引（按 111 序号）')
+    R.append('## 三、分档标准（A / B / C 是怎么来的）')
     R.append('')
-    R.append('| # | 客户 | 城市 | 层级 | 评分 | 深度档案 | 文件 |')
-    R.append('|---|---|---|---|---|---|---|')
-    for no, company, city, tier, score, deep, fname in index_rows:
-        R.append('| %s | %s | %s | %s | %s | %s | [%s](%s) |'
-                 % (no, strip_md(company, 42), strip_md(city, 26),
-                    strip_md(tier, 22), strip_md(score), deep, fname, fname))
+    R.append('**不是我这轮重新打的印象分**——直接沿用 `111` 管线表 `层级` 列的**首字母**，'
+             '该列本身是「双 AI 初筛 + 我方人工核实 + 综合评分」的产物'
+             '（详见 `112-user-customer-lists-deepdive-2026-10-25.md`）。')
     R.append('')
-    R.append('## 四、从哪儿开始（建议顺序）')
+    R.append('| 档 | 子标签举例 | 家数 | 含义 |')
+    R.append('|---|---|---|---|')
+    R.append('| **A** | `A 核心` / `A-` / `A 订单级` / `A 军项目` / `A 战略` / '
+             '`A 暖线` / `A 大型分销` | %d | 已有接触 + 有明确需求或产品空档；'
+             '**本周就该动手**。 |' % n['A'])
+    R.append('| **B** | `B+` / `B` / `B-` / `B 暖线` / `B bypass` / `B 防务客户池` '
+             '| %d | 有真实业务，但缺一环（价格、DDP、规模、决策链）；'
+             '**季度节奏维护**。 |' % n['B'])
+    R.append('| **C** | `C` / `C+` / `C 战略留档` / `C 不跟进` / `C 低` | %d | '
+             '只到邮箱/电话，或明确不跟进；**只做群发触达与备选**。 |' % n['C'])
+    R.append('')
+    R.append('> ⚠ 两处需要人判断的地方：① `C 战略留档`（如 PavoTek）与 `C 不跟进`'
+             '（如 MFD/Bimel 类）**同放在 `C/`**，但性质完全不同，看文件里的「备注」；'
+             '② 同一家公司在两批名单里可能被分到**不同档**（如 #26 是 B+、#81 是 A），'
+             '本文件夹**不做合并**，两份各归各档，请自行裁决以哪份为准。')
+    R.append('')
+    TIER_DESC = {
+        'A': ('A 档 · 优先跟进', '核心客户 / 有明确产品空档或订单信号。**先打这一层。**'),
+        'B': ('B 档 · 常规跟进', '有真实业务但无强信号，或有单一短板（价格/DDP/规模小）。'
+              '**按季度节奏维护，不投定制资源。**'),
+        'C': ('C 档 · 备选池', '信息少 / 只到邮箱电话 / 战略留档 / 明确不跟进。'
+              '**只做群发触达与备选，不单独投入人力。**'),
+    }
+    for t in TIERS:
+        rows_t = [r for r in index_rows if r[7] == t]
+        title, desc = TIER_DESC[t]
+        R.append('## %s、索引 · %s（%d 家）'
+                 % ({'A': '四', 'B': '五', 'C': '六'}[t], title, len(rows_t)))
+        R.append('')
+        R.append('> %s' % desc)
+        R.append('')
+        R.append('| # | 客户 | 城市 | 层级 | 评分 | 深度档案 | 文件 |')
+        R.append('|---|---|---|---|---|---|---|')
+        for no, company, city, tier, score, deep, path, letter in rows_t:
+            R.append('| %s | %s | %s | %s | %s | %s | [%s](%s) |'
+                     % (no, strip_md(company, 42), strip_md(city, 26),
+                        strip_md(tier, 22), strip_md(score), deep, path, path))
+        R.append('')
+    R.append('## 七、从哪儿开始（建议顺序）')
     R.append('')
     R.append('1. **A 级 + 有深度档案的 6 家**：#4 Cenova、#9 Öncü、#7 Karer、'
              '#56 Optima、#80 Telemobil、#58 Okisan —— 有产品空档、有联系人、有打法。')
@@ -382,7 +439,7 @@ def main():
     R.append('3. **B/C 级 124 家**：先扫 `建议动作` 列，只挑「有具体项目/有自有品牌」的动，'
              '其余作为备选池。')
     R.append('')
-    R.append('## 五、重复对（%d 组，两批名单各录一次）' % len(dup_pairs))
+    R.append('## 八、重复对（%d 组，两批名单各录一次）' % len(dup_pairs))
     R.append('')
     R.append('> 这里**只做提示，不做合并**。给客户发信前请先确认是同一条线还是两家不同公司。')
     R.append('')
@@ -394,7 +451,7 @@ def main():
                  % (a, strip_md(by_no[a]['公司'], 46), b,
                     strip_md(by_no[b]['公司'], 46)))
     R.append('')
-    R.append('## 六、相关目录')
+    R.append('## 九、相关目录')
     R.append('')
     R.append('- 深度档案原件：`ingest/angora-1__arena-01a0ce39__5acb613/'
              '08-followup-dossiers-2026-11-01/`（21 份，**仍是 r41–r43 的原始出处**）')
@@ -405,7 +462,15 @@ def main():
     R.append('')
     io.open(os.path.join(OUT_DIR, 'README.md'), 'w', encoding='utf-8').write('\n'.join(R))
 
-    print('written:', written, 'files; index rows:', len(index_rows))
+    # 清理旧版平铺文件（v1 曾把 MD 直接放在根目录；现改为 A/B/C 分档）
+    removed = 0
+    for fn in os.listdir(OUT_DIR):
+        if fn.endswith('.md') and fn != 'README.md':
+            os.remove(os.path.join(OUT_DIR, fn))
+            removed += 1
+
+    print('written:', written, 'files; index rows:', len(index_rows),
+          '; removed flat leftovers:', removed)
 
 
 if __name__ == '__main__':
