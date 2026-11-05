@@ -55,7 +55,8 @@ try:
     R60 = {}
     R61 = {}
     R62 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data'):
+    R63 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -90,6 +91,8 @@ try:
                 R61.update(_mod.D)
             if _m == 'r62_appendix_data':
                 R62.update(_mod.D)
+            if _m == 'r63_appendix_data':
+                R63.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -116,6 +119,7 @@ R59_MARK = '## 附：r59 用真实 FOB 重算 ODM 报价（2026-11-01）'
 R60_MARK = '## 附：r60 2.5G 全线（本文不适用）与 24 口一刀换的精确型号（2026-11-01）'
 R61_MARK = '## 附：r61 渠道加价链与 8 口 B2B 反证（2026-11-01）'
 R62_MARK = '## 附：r62 DMO 工业段与同型号多档报价（2026-11-01）'
+R63_MARK = '## 附：r63 8 口真实锚价与 DMO 价格锁定（2026-11-05）'
 
 
 def tier_letter(level):
@@ -500,6 +504,16 @@ def main():
             L.append('> 本节为 **r62（2026-11-01）** 的取证；**与「高端无价格优势」的表述冲突时以本节为准（分渠道看待）**。')
             L.append('')
             L.append(body_r62.strip('\n'))
+            L.append('')
+        body_r63 = R63.get(no)
+        if body_r63:
+            L.append('---')
+            L.append('')
+            L.append(R63_MARK)
+            L.append('')
+            L.append('> 本节为 **r63（2026-11-05）** 的取证；**第 ① 条修正上一节把 $1,292 当「8 口锚」的说法**。')
+            L.append('')
+            L.append(body_r63.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
