@@ -96,14 +96,35 @@ Deniz Aydin（Technical Mgr）/ ayhan@kozaguvenlik.com.tr / 90 532 610 15 94
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### r54 备注：确认有 **PoE Switchler** 分类，但**未取到具体型号**
-`kozaguvenlik.com.tr` 左侧导航在多处重复出现 **「PoE Switchler」** 入口（挂在 *IP Kamera* 与 *Hırsız Alarm* 之下），说明**它在卖 PoE 交换机**，但**分类页本轮未能渲染出型号**。
-→ **主体业务已明确**：**Teletek（防盗/消防报警）+ AJAX + Kodicom（IP/AHD 摄像与 NVR）** 的土耳其代理，**自设进口部**。
-→ **空白**：具体型号、品牌（是否 OEM 贴 Koza 牌）、PoE 预算。**r55 用站内搜索或 `?route=product/search&search=poe` 再试一次。**
+### ⭐⭐ r56：Koza 关格 —— **它卖 TRENDnet，5 个型号，全部百兆**
 
-### 证据等级（r54）
-- 已核实：**PoE Switchler 分类存在**（页面导航原文）、代理品牌结构。
-- 空白：**型号级全部未取**。
+前两轮（r47 / r54）只确认了「有 PoE Switchler 类目」但取不到型号。本轮改用**站内搜索**（OpenCart 路由）拿到全表：
+
+`kozaguvenlik.com.tr/index.php?route=product/search&search=poe+switch&limit=50` → **共 5 个型号，全部 `TRENDnet TN-*`**
+
+| 型号 | 端口 | PoE 预算 | 交换容量 |
+|---|---|---|---|
+| `TN-P08G` | **8×10/100 PoE** + 2×GE 上联 | **120 W** | 1.8 Gbps |
+| `TN-P08FG` | 8×10/100 PoE + 1×GE + 1×SFP | — | — |
+| **`TN-P16M`** | **16×10/100 PoE** + 2×GE | **360 W** | 8.8 Gbps |
+| `TN-P16MG` | 16×10/100 PoE + 2×GE + 2×SFP | — | — |
+| **`TN-P24MG`** | **24×10/100 PoE** + 2×GE + 2×SFP | — | — |
+
+#### 结论（三条）
+1. **Koza 无自有品牌** —— 它的 PoE 线是 **TRENDnet**（美国品牌，中国代工），**不是贴 Koza 牌**。
+2. **全线 100M、全线非管理、af/at 30 W、无 2.5G、无 bt、无云。**
+3. ⭐ **最干净的一刀**：**24 口那台 `TN-P24MG` 仍是百兆** ⇒ **`EW-S1927CG-AP`（24 口 GE PoE + 300 m + Watchdog）一对一换**。
+
+#### 场景判断
+它做 **Teletek（防盗/消防报警）+ AJAX + Kodicom（摄像/NVR）**，PoE 只用于**给摄像头与 AP 供电**，**不需要 2.5G**。
+→ **首封只讲 GE + 300 m + Watchdog**；**不要一上来讲 2.5G**（会把话题带到它不关心的方向）。
+
+**首封**：`TN-P24MG (100M) yerine 24 port Gigabit PoE — aynı fiyat bandında`
+**必问**：① TRENDnet 是独家吗？② 每年 24 口走多少台？③ 要不要网管版做项目？
+
+### 证据等级（r56）
+- 已核实：**5 个型号与端口/预算**（站内搜索结果页原文）。
+- 仍空白：`TN-P24MG` 的 PoE 预算与实价、TRENDnet 代理层级。
 
 ---
 
@@ -119,3 +140,39 @@ Deniz Aydin（Technical Mgr）/ ayhan@kozaguvenlik.com.tr / 90 532 610 15 94
 ### 证据等级（r54）
 - 已核实：**PoE Switchler 分类存在**（页面导航原文）、代理品牌结构。
 - 空白：**型号级全部未取**。
+
+---
+
+## 附：r56 关格与落地主体（2026-11-01）
+
+> 本节为 **r56（2026-11-01）** 的关格结果；**与前面各轮冲突时以本节为准**。
+
+### ⭐⭐ r56：Koza 关格 —— **它卖 TRENDnet，5 个型号，全部百兆**
+
+前两轮（r47 / r54）只确认了「有 PoE Switchler 类目」但取不到型号。本轮改用**站内搜索**（OpenCart 路由）拿到全表：
+
+`kozaguvenlik.com.tr/index.php?route=product/search&search=poe+switch&limit=50` → **共 5 个型号，全部 `TRENDnet TN-*`**
+
+| 型号 | 端口 | PoE 预算 | 交换容量 |
+|---|---|---|---|
+| `TN-P08G` | **8×10/100 PoE** + 2×GE 上联 | **120 W** | 1.8 Gbps |
+| `TN-P08FG` | 8×10/100 PoE + 1×GE + 1×SFP | — | — |
+| **`TN-P16M`** | **16×10/100 PoE** + 2×GE | **360 W** | 8.8 Gbps |
+| `TN-P16MG` | 16×10/100 PoE + 2×GE + 2×SFP | — | — |
+| **`TN-P24MG`** | **24×10/100 PoE** + 2×GE + 2×SFP | — | — |
+
+#### 结论（三条）
+1. **Koza 无自有品牌** —— 它的 PoE 线是 **TRENDnet**（美国品牌，中国代工），**不是贴 Koza 牌**。
+2. **全线 100M、全线非管理、af/at 30 W、无 2.5G、无 bt、无云。**
+3. ⭐ **最干净的一刀**：**24 口那台 `TN-P24MG` 仍是百兆** ⇒ **`EW-S1927CG-AP`（24 口 GE PoE + 300 m + Watchdog）一对一换**。
+
+#### 场景判断
+它做 **Teletek（防盗/消防报警）+ AJAX + Kodicom（摄像/NVR）**，PoE 只用于**给摄像头与 AP 供电**，**不需要 2.5G**。
+→ **首封只讲 GE + 300 m + Watchdog**；**不要一上来讲 2.5G**（会把话题带到它不关心的方向）。
+
+**首封**：`TN-P24MG (100M) yerine 24 port Gigabit PoE — aynı fiyat bandında`
+**必问**：① TRENDnet 是独家吗？② 每年 24 口走多少台？③ 要不要网管版做项目？
+
+### 证据等级（r56）
+- 已核实：**5 个型号与端口/预算**（站内搜索结果页原文）。
+- 仍空白：`TN-P24MG` 的 PoE 预算与实价、TRENDnet 代理层级。

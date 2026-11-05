@@ -93,30 +93,28 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### 🛑 r55：**它的品牌方 FOREDGE 比我方强** —— r54 在这里的结论被推翻
+### ⭐ r56：它的品牌方在土耳其的落地主体查清了 —— **FS Grup Bilişim（2017 年成立，安卡拉）**
 
-r54 写「Cebeci 卖的是 FOREDGE 白牌，**没有 2.5G、没有 bt、没有云**，所以我方可以靠这三条差异化」。r55 打开 `foredgetech.com/tr` 后**全部不成立**：
-
-| r54 的判断 | r55 实测（`foredgetech.com/tr/products/` 原文） |
+| 项 | 证据 |
 |---|---|
-| 无 2.5G | ❌ 有整条 2.5G 线：`PS3024XGPSH`（8×2.5G + 16 GE PoE + 4×10G）· `PS3016XGPSH` · `PS3008XGPSH` · `NS3024XGSH` · `NS3016XGSH` · `NS3008XGSH` · `AI1009XG` · `AI1009XGP` · ⭐ **`S6700-48GXP-4TF-2QF` = 48×2.5G + 4×10G + 2×100G** |
-| 无 802.3bt | ❌ 全线标 **「90W per port」**；`S6700-48GXP-4TF-2QF` **PoE 1200 W** |
-| 无云管理 | ❌ **`Apollo Cloud`** 云平台，多型号标配 |
-| （未评估） | ❌ **数据中心线 6 款**：`S6700-24TF-2QF`（24×10G + 2×100G / 880 Gbps）、`S6700-32QF`（6.4 Tbps）、`S6700-48TF-8QF-H`、`S6700-48YF-8QF-H`（25G）、`S6700-32CQ`（25.6 Tbps）、**`S6700-64CQ`（64×400G / 51.2 Tbps / 38 Bpps）**；**SONiC 或自有 RunOS** |
-| （未评估） | ❌ **它自己也做 OEM/ODM**：**180,000 sqft、3 条 SMT、年产能 200 万台、MOQ 500、交期 6–8 周**、2021 年以来 12 个贴牌项目 |
+| 主体 | **FS GRUP BİLİŞİM LİMİTED ŞİRKETİ** |
+| 成立 | **2017 年**（`fsgrup.com.tr/about-us` 原文：「şirketimiz 2017 yılında kurulmuş olup lider markalar ile anlaşmalar sağlamıştır」） |
+| 地址 | **Cevizlidere Mah. 1243. Sokak No:6/4 Öveçler / ANKARA** |
+| DMO 目录 | **FOREDGE (12) 个条目**（含 `S5700-24GP-4TFR`、`S5700-48GP-4TFR`、`SF412A-LC-10KM` SFP）+ MILESIGHT (1) |
+| 性质 | **经销商/集成商**，**不是 FOREDGE 的分公司或子公司** |
 
-⇒ **对 Cebeci 的打法必须改**：**不要再讲"我们有 2.5G/bt/云"**（它老大有）。
-**改讲三件它老大确实没有的**：
-1. **本地化速度**：Foredge 的 DMO 框架合同**2026-10-21 到期**，续约前的价格与供应有不确定性；
-2. **小批量弹性**：**它 MOQ 500**；我方若能给 **100–200 台试单**，就是真差异；
-3. **响应**：Foredge 工程师在中国，**我方若能在土耳其派驻/联合备件**，项目响应就是差异。
+#### 意义（对 r54/r55 的「300 渠道」说法降温）
+- FOREDGE 官网自述 **「300+ yurtiçi kanal ortağı」** 是**品牌方口径**；
+- **在土耳其能查到它进货的唯一主体只有 FS Grup**，办公地址是**安卡拉 Öveçler 的一间办公室**，DMO 只有 **12 个 SKU**；
+- ⇒ **它是「一个能进 DMO 的安卡拉伙伴」，不是全国性组织。**
+- ⇒ **我方的现实路径**：**找 FS Grup 的同类（能进 DMO 的安卡拉/伊斯坦布尔 IT 经销商）合作**，而不是幻想直接铺 300 家终端。
 
-**首封（改写）**：`Foredge alternatifi değil, tamamlayıcı: düşük MOQ + hızlı sevkiyat + 2.5G stok`
-**必问**：① Foredge 的 DMO 合同 2026-10 到期后你们怎么办？② 你们的 MOQ 卡在哪一档？③ 项目里 Foredge 交期多久？
+#### 对 Cebeci 的话术（r55 已改写，本轮补一句）
+**首封第三句加**：`FS Grup / Foredge kanalını biliyoruz — sizin için daha düşük MOQ ve daha hızlı sevkiyatla aynı DMO uyumunu kurabiliriz.`
 
-### 证据等级（r55）
-- 已核实：**Foredge 土耳其站 72 个企业级型号（已读 4 页 40+ 个）+ 6 个数据中心型号 + OEM/ODM 能力页**。
-- 仍空白：Foredge 的**实际成交价**（除 DMO 两个型号）、**FS Grup 是分公司还是代理**。
+### 证据等级（r56）
+- 已核实：**FS Grup 成立年份、地址、DMO 12 个 FOREDGE 条目**（`fsgrup.com.tr` + `dmo.gov.tr` 原文）。
+- 仍空白：FS Grup 与 FOREDGE 的**代理协议性质**（独家/非独家）、FOREDGE 土耳其**是否有第二个进货主体**。
 
 ---
 
@@ -204,3 +202,32 @@ r54 写「Cebeci 卖的是 FOREDGE 白牌，**没有 2.5G、没有 bt、没有�
 ### 证据等级（r55）
 - 已核实：**Foredge 土耳其站 72 个企业级型号（已读 4 页 40+ 个）+ 6 个数据中心型号 + OEM/ODM 能力页**。
 - 仍空白：Foredge 的**实际成交价**（除 DMO 两个型号）、**FS Grup 是分公司还是代理**。
+
+---
+
+## 附：r56 关格与落地主体（2026-11-01）
+
+> 本节为 **r56（2026-11-01）** 的关格结果；**与前面各轮冲突时以本节为准**。
+
+### ⭐ r56：它的品牌方在土耳其的落地主体查清了 —— **FS Grup Bilişim（2017 年成立，安卡拉）**
+
+| 项 | 证据 |
+|---|---|
+| 主体 | **FS GRUP BİLİŞİM LİMİTED ŞİRKETİ** |
+| 成立 | **2017 年**（`fsgrup.com.tr/about-us` 原文：「şirketimiz 2017 yılında kurulmuş olup lider markalar ile anlaşmalar sağlamıştır」） |
+| 地址 | **Cevizlidere Mah. 1243. Sokak No:6/4 Öveçler / ANKARA** |
+| DMO 目录 | **FOREDGE (12) 个条目**（含 `S5700-24GP-4TFR`、`S5700-48GP-4TFR`、`SF412A-LC-10KM` SFP）+ MILESIGHT (1) |
+| 性质 | **经销商/集成商**，**不是 FOREDGE 的分公司或子公司** |
+
+#### 意义（对 r54/r55 的「300 渠道」说法降温）
+- FOREDGE 官网自述 **「300+ yurtiçi kanal ortağı」** 是**品牌方口径**；
+- **在土耳其能查到它进货的唯一主体只有 FS Grup**，办公地址是**安卡拉 Öveçler 的一间办公室**，DMO 只有 **12 个 SKU**；
+- ⇒ **它是「一个能进 DMO 的安卡拉伙伴」，不是全国性组织。**
+- ⇒ **我方的现实路径**：**找 FS Grup 的同类（能进 DMO 的安卡拉/伊斯坦布尔 IT 经销商）合作**，而不是幻想直接铺 300 家终端。
+
+#### 对 Cebeci 的话术（r55 已改写，本轮补一句）
+**首封第三句加**：`FS Grup / Foredge kanalını biliyoruz — sizin için daha düşük MOQ ve daha hızlı sevkiyatla aynı DMO uyumunu kurabiliriz.`
+
+### 证据等级（r56）
+- 已核实：**FS Grup 成立年份、地址、DMO 12 个 FOREDGE 条目**（`fsgrup.com.tr` + `dmo.gov.tr` 原文）。
+- 仍空白：FS Grup 与 FOREDGE 的**代理协议性质**（独家/非独家）、FOREDGE 土耳其**是否有第二个进货主体**。

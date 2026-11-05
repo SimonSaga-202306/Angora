@@ -48,7 +48,8 @@ try:
     R53 = {}
     R54 = {}
     R55 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data'):
+    R56 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -69,6 +70,8 @@ try:
                 R54.update(_mod.D)
             if _m == 'r55_appendix_data':
                 R55.update(_mod.D)
+            if _m == 'r56_appendix_data':
+                R56.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -88,6 +91,7 @@ R52_MARK = '## 附：r52 全目录点算与品牌归属推翻（2026-11-01）'
 R53_MARK = '## 附：r53 规格实锤与目录空位（2026-11-01）'
 R54_MARK = '## 附：r54 B 档型号级点算与价格锚点重建（2026-11-01）'
 R55_MARK = '## 附：r55 收尾取证与 FOREDGE 反证（2026-11-01）'
+R56_MARK = '## 附：r56 关格与落地主体（2026-11-01）'
 
 
 def tier_letter(level):
@@ -402,6 +406,16 @@ def main():
             L.append('> 本节为 **r55（2026-11-01）** 的收尾取证；**与前面各轮冲突时以本节为准**。')
             L.append('')
             L.append(body_r55.strip('\n'))
+            L.append('')
+        body_r56 = R56.get(no)
+        if body_r56:
+            L.append('---')
+            L.append('')
+            L.append(R56_MARK)
+            L.append('')
+            L.append('> 本节为 **r56（2026-11-01）** 的关格结果；**与前面各轮冲突时以本节为准**。')
+            L.append('')
+            L.append(body_r56.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
