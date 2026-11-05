@@ -1347,6 +1347,52 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §46 · 第 52 轮 — 2026-11-01 ≈04:30–06:10 (+0800)：**「自有品牌」大清算** —— 三家 A 档其实是代理商 + **四项自我证伪**
+
+用户第 5 次「AB继续挖 挖完为止」。**0 新客户**，把 `A/001` `A/005` `A/054` 三家做到型号级，并**推翻自己 r51 的横切结论**。
+
+### 一、⭐⭐ 最大增量：`A/001` Telkolink/GelecekBT **不是待开发的缺口，是我方最强的对手**
+
+`gelecekbt.com/anahtarlar?limit=100` 全目录 facet 原文：**Ethernet Switch 122 · POE Switch 126 · 工业 73 · 工业 PoE 60 · 工业骨干 10 · 骨干光纤 57 · 10G 104 · Multirate(1G/2.5G/10G) 15 · SFP 112 · POE AI 22 · PD PoE 7** ⇒ **交换机 ≈291 SKU**，**25 个品牌**，其中 **`CLR Networks` 193 个**。
+
+**品牌真相**：自家幻灯片「**CLR Networks Türkiye dağıtıcısı GelecekBT'dir**」+ guvenlikonline 企业页「CLR Networks、ONET、Telkolink、Netkablo gibi markaların Türkiye dağıtıcısıdır」⇒ **CLR = 深圳品牌，它是土耳其分销商**，不是自有商标。
+
+**🛑 四项自我证伪（直接推翻 `116` 四行）**：
+| 原判断 | 实测 |
+|---|---|
+| 2.5G 11 家 0 家 | ❌ `CLR-MRS-8106N/8106P/8109N/8109P/8218N/8226N/8312N/P/8330N/P` 整条线，最高 **24×2.5G PoE + 6×10G SFP L3**；另有 **`CLR-DCS-2110N/P` = 24×2.5G + 100G 上联 L3** |
+| bt 只有 1–4 口 | ❌ facet `Tip3 60W` **3** · `Tip4 90W` **1** · `802.3bt` **6**；`CLR-SWF-9006BT` **96 W** |
+| 云管理 0 家 | ❌ facet `Cloud` **15** · `Yapay Zeka` **12**；`CLR-SWT-5736F/3754F` 标 **L3 Cloud** |
+| 40/100G 0 家 | ❌ 100G 上联 **6** · 100G 交换机 **9** · 400G **1**；`CLR-DCS-6332F/6432F` = **32×40/100G QSFP28** |
+
+→ **它真正还缺的只有四条**：① 2.5G PoE 功率（`-8109P` 仅 **100 W**、`-8330P` 无标注）；② 工业 bt（73 款里 90 W 单口只 1 个）；③ `POE Extend` 18 / `POE Watchdog` 14（291 SKU 里）；④ SFP 112 SKU 是它的现金牛（我方齐套供）。
+→ **打法改写**：从「补位」改为「**同档位更低 ODM 成本 + 可贴 CLR 牌 + 2.5G×bt 组合**」；**一半客户一半竞对，不交完整 BOM**。
+
+### 二、⭐⭐ `A/005` CryptoLink：`CRL` 也不是自有品牌
+
+7 份 PDF **页脚全部**印 **`CryptoLINK.  Authorized Dealer | Cryptolink Elektronik Güvenlik Sistemleri San ve Tic. Ltd. Şti`**，`CRL-SW-2402` 页眉出现 **`Cryptol.net`** 字样 ⇒ **CRL 属第三方，它是授权经销商**。
+- ⭐ `CRL-SW-L3-2404-10G`：**24×GE PoE + 8 Combo + 4×10G SFP+**，**BCM**，**128 Gbps / 96 Mpps**，MAC 12K，**总 360 W**，**af/at 仅 30 W**，**静态+RIP+OSPF+VRRP**，−20~50 °C；变体 `-8C`（24×SFP 全光）/ `-8C-POE`。
+- `CRL-SW-2402`：24×PoE + 2×SFP，52 Gbps，**总 300 W**，防雷 6 kV/4 kV/ESD 15 kV。
+- 它客户 = **边界安全 / 车牌识别 / 政府项目** ⇒ 谈**工业宽温 + 冗余电源 + 防雷**，不谈云。
+
+### 三、⭐ `A/054` TekniksatGroup(TGD)：**24 V 被动 PoE 的一对一对位**
+
+TGD 全表：`TGD-P4/24`、`TGD-P8S/24`（**24 V 被动**，1,2+/3,6−）、`TGD-P4/48`、`P8/48`、`P16S/48`、`P24S/48`、`P424/824/848`、`[SWITCH]` 5 口非网管。
+**关键上下文**：同目录并列 `TGD-7IP24/7IP48`（7 吋 IP 对讲主机）、`TGD-4K24`、`TGD-GU10 S1` ⇒ **这些交换机是给 24 V 对讲配套**，全线**非网管、无云、无远程重启**；自述 **「Üretim tasarım uygulama %100 yerli」**。
+→ ⭐ 一刀：**`EW-EPIS3910-8GE`**（1–2 口 DIP 选 **12/24 V 被动** + 48 V 30/60 W + 云 + **单口远程重启**）一台覆盖它三台机；卖点「**对讲主机死机不用上门**」。
+
+### 四、⚠ 由此得出**通用判据**（已写入 `121` §四）
+
+| 现象 | 身份 | 谈法 |
+|---|---|---|
+| 有自家型号命名（`NVC-/SWP-/LNG/TGD-/CRL-`） | 未必自有 | **必须查商标** |
+| 页脚 **"Authorized Dealer"** / 官网写 **"…Türkiye dağıtıcısı"** | **代理** | 谈二供/替换上游，不谈 OEM |
+| 有 **TÜRKPATENT 注册号**（upTech **2008/13951**） | **真自有** | OEM 贴牌成立 |
+
+已核：`upTech` 真自有 · `CLR` 代理 · `CRL` 代理 · `Cifocs/Dayline/TGD/NVC/SWP/LNG` **商标未查**。
+
+**诚实边界**：`CLR-MRS-8330P` 功率未知；CLR 是否独家未知；CLR 的深圳工厂名未知（**是否与我方同厂未知**）；`CRLISW-08/14P` 未读；TGD 交换机自产/外协未知。
+
 ## §45 · 第 51 轮 — 2026-11-01 ≈03:00–04:20 (+0800)：A 档**自有品牌交换机线**型号级对位 + **第二个价格锚点**
 
 用户：「AB继续挖 挖完为止」。**0 新客户**，**4 家 A 档自有品牌线一次做到型号级**。

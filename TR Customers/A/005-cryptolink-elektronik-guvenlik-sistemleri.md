@@ -169,3 +169,85 @@ info@cryptolink.com.tr + +90 312 557 64 00 + Çankaya Mah. Bükreş Cad. 19/1
 - 决策人姓名与邮箱（目前只有 `info@`）
 - 是否有**军警项目资质**（如 TSK/SSB 供应商登记）—— 决定它能不能带我方进军警标
 - KGYS（警队监控系统）在用我方的哪一类设备（r41 用户侧记录，未独立核实）
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+### ⭐⭐ r52：`CRL` 不是它的自有品牌 —— 每份 datasheet 页脚都印着 **"Authorized Dealer"**
+
+把官网 7 份 PDF 打开后，**版式给出决定性证据**：
+- 每份 datasheet 的页脚都是 **`CryptoLINK.  Authorized Dealer | Cryptolink Elektronik Güvenlik Sistemleri San ve Tic. Ltd. Şti`**；
+- `CRL-SW-2402` 的 PDF 页眉里出现 **`Cryptol.net`** 的 logo 字样 → **`CRL` 品牌属于第三方（深圳 Cryptol 系），CryptoLink 是"授权经销商"**。
+
+→ **改写**：本档此前记的「CRL 线 7 份 datasheet 实锤 … switch+SFP+MC 全自有」应更正为 **"CRL 为代理品牌（Authorized Dealer），非自有商标"**。
+→ 与 `Cifocs`（Cebeci）、`CLR`（GelecekBT）**同一模式**：土耳其渠道**普遍用"引入的深圳品牌 + 本地化文档"充当自有品牌**。**这条规律适用于全部 A 档判断：凡"自有品牌"必须先查商标，否则一律按代理处理。**
+
+#### 型号与规格（datasheet 原文）
+| 型号 | 端口 / 规格 |
+|---|---|
+| ⭐ **`CRL-SW-L3-2404-10G`** | **24×10/100/1000 PoE + 8×Combo TP/SFP + 4×10G SFP+ + 1 Console**；**BCM 芯片**；**128 Gbps / 96 Mpps**；MAC 12K；**总功率 360 W**；**af/at 仅 30 W**；ARM Cortex-A9 / 256 MB；**L3 = 静态路由 + RIP + OSPF + VRRP**；−20~50 °C；444×360×44 mm；CE/FCC/RoHS/CCC |
+| （变体）`CRL-SW-L3-2404-10G-8C` | **24×1000M SFP + 8 Combo + 4×10G**（全光版） |
+| （变体）`CRL-SW-L3-2404-10G-8C-POE` | **24×GE PoE + 8 Combo + 4×10G** |
+| **`CRL-SW-2402`** | 24×100/1000 **PoE**（af/at 15.4/30 W）+ **2×SFP**；52 Gbps；MAC 8K；**总 300 W**；**VLAN/Trunk 模式**；1–8 口 QoS；**防雷 6 kV / 差模 4 kV / ESD 15 kV**；−20~50 °C |
+| `CRLISW-08` / `CRLISW-14P` | 工业款（8 口 / 8 口 PoE + 上联） |
+| `CRL-SFP-10G-LC` / `CRL-SFP-125 LC` | 10G / 1.25G 光模块 |
+| `CRL-MC02` | 媒体转换器 |
+
+#### 与我方对位
+| 它的型号 | 我方对位 | 差在哪 |
+|---|---|---|
+| `CRL-SW-L3-2404-10G`（24 PoE + 8 Combo + 4×10G，**360 W**，af/at） | ⭐ **`EW-S2926GM-AP`**（24 PoE + 4 Combo + 2 SFP）/ 升级 **`EW-S5748GM-AP`**（48 PoE + 4×10G） | 我方**48 口同档**、且可上 **bt 60 W** |
+| `CRL-SW-2402`（24 PoE + 2 SFP，300 W） | **`EW-S1927CG-AP`**（24 PoE + 1 SFP + 1 RJ45）/ `EW-S2926GM-AP` | 我方上联更多 |
+| `CRLISW-14P`（工业 8 PoE） | **`EW-PIS1810-8GE`** / `EW-EPIS3910-8GE` | 我方**12/24 V 被动 + 云** |
+
+**⭐ 它的客户群是"边界安全 / 车牌识别 / 政府项目"**（官网四大业务：Sınır Güvenliği、Siber Güvenlik、Network、Plaka Tanıma）→ 因此**工业宽温、冗余电源、防雷**比"云"重要。首封就谈这两条。
+**首封主题**：`CRL yerine ikinci kaynak: 802.3bt 60W + 工業 -40°C + 48 port`
+**必问三句**：① CRL 是独家经销吗？② 车牌/边界项目里 PoE 年用量？③ 工业款要不要 -40 °C 与双电源？
+
+### 证据等级（r52）
+- 已核实：**7 份 datasheet 中的 2 份完整规格**（`CRL-SW-L3-2404-10G`、`CRL-SW-2402`）、**"Authorized Dealer" 页脚（全部 7 份同版式）**、**Cryptol.net 字样**。
+- 仍空白：`CRLISW-08/14P` 详细规格（有 PDF 未读）、CRL 商标真实持有人、它是否也卖别家交换机。
+
+---
+
+## 附：r52 全目录点算与品牌归属推翻（2026-11-01）
+
+> 本节为 **r52（2026-11-01）** 的**全目录点算**与**品牌归属推翻**；**冲突时以本节为准**。
+
+### ⭐⭐ r52：`CRL` 不是它的自有品牌 —— 每份 datasheet 页脚都印着 **"Authorized Dealer"**
+
+把官网 7 份 PDF 打开后，**版式给出决定性证据**：
+- 每份 datasheet 的页脚都是 **`CryptoLINK.  Authorized Dealer | Cryptolink Elektronik Güvenlik Sistemleri San ve Tic. Ltd. Şti`**；
+- `CRL-SW-2402` 的 PDF 页眉里出现 **`Cryptol.net`** 的 logo 字样 → **`CRL` 品牌属于第三方（深圳 Cryptol 系），CryptoLink 是"授权经销商"**。
+
+→ **改写**：本档此前记的「CRL 线 7 份 datasheet 实锤 … switch+SFP+MC 全自有」应更正为 **"CRL 为代理品牌（Authorized Dealer），非自有商标"**。
+→ 与 `Cifocs`（Cebeci）、`CLR`（GelecekBT）**同一模式**：土耳其渠道**普遍用"引入的深圳品牌 + 本地化文档"充当自有品牌**。**这条规律适用于全部 A 档判断：凡"自有品牌"必须先查商标，否则一律按代理处理。**
+
+#### 型号与规格（datasheet 原文）
+| 型号 | 端口 / 规格 |
+|---|---|
+| ⭐ **`CRL-SW-L3-2404-10G`** | **24×10/100/1000 PoE + 8×Combo TP/SFP + 4×10G SFP+ + 1 Console**；**BCM 芯片**；**128 Gbps / 96 Mpps**；MAC 12K；**总功率 360 W**；**af/at 仅 30 W**；ARM Cortex-A9 / 256 MB；**L3 = 静态路由 + RIP + OSPF + VRRP**；−20~50 °C；444×360×44 mm；CE/FCC/RoHS/CCC |
+| （变体）`CRL-SW-L3-2404-10G-8C` | **24×1000M SFP + 8 Combo + 4×10G**（全光版） |
+| （变体）`CRL-SW-L3-2404-10G-8C-POE` | **24×GE PoE + 8 Combo + 4×10G** |
+| **`CRL-SW-2402`** | 24×100/1000 **PoE**（af/at 15.4/30 W）+ **2×SFP**；52 Gbps；MAC 8K；**总 300 W**；**VLAN/Trunk 模式**；1–8 口 QoS；**防雷 6 kV / 差模 4 kV / ESD 15 kV**；−20~50 °C |
+| `CRLISW-08` / `CRLISW-14P` | 工业款（8 口 / 8 口 PoE + 上联） |
+| `CRL-SFP-10G-LC` / `CRL-SFP-125 LC` | 10G / 1.25G 光模块 |
+| `CRL-MC02` | 媒体转换器 |
+
+#### 与我方对位
+| 它的型号 | 我方对位 | 差在哪 |
+|---|---|---|
+| `CRL-SW-L3-2404-10G`（24 PoE + 8 Combo + 4×10G，**360 W**，af/at） | ⭐ **`EW-S2926GM-AP`**（24 PoE + 4 Combo + 2 SFP）/ 升级 **`EW-S5748GM-AP`**（48 PoE + 4×10G） | 我方**48 口同档**、且可上 **bt 60 W** |
+| `CRL-SW-2402`（24 PoE + 2 SFP，300 W） | **`EW-S1927CG-AP`**（24 PoE + 1 SFP + 1 RJ45）/ `EW-S2926GM-AP` | 我方上联更多 |
+| `CRLISW-14P`（工业 8 PoE） | **`EW-PIS1810-8GE`** / `EW-EPIS3910-8GE` | 我方**12/24 V 被动 + 云** |
+
+**⭐ 它的客户群是"边界安全 / 车牌识别 / 政府项目"**（官网四大业务：Sınır Güvenliği、Siber Güvenlik、Network、Plaka Tanıma）→ 因此**工业宽温、冗余电源、防雷**比"云"重要。首封就谈这两条。
+**首封主题**：`CRL yerine ikinci kaynak: 802.3bt 60W + 工業 -40°C + 48 port`
+**必问三句**：① CRL 是独家经销吗？② 车牌/边界项目里 PoE 年用量？③ 工业款要不要 -40 °C 与双电源？
+
+### 证据等级（r52）
+- 已核实：**7 份 datasheet 中的 2 份完整规格**（`CRL-SW-L3-2404-10G`、`CRL-SW-2402`）、**"Authorized Dealer" 页脚（全部 7 份同版式）**、**Cryptol.net 字样**。
+- 仍空白：`CRLISW-08/14P` 详细规格（有 PDF 未读）、CRL 商标真实持有人、它是否也卖别家交换机。

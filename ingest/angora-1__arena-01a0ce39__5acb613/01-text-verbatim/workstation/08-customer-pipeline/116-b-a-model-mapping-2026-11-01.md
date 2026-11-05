@@ -9,22 +9,30 @@
 > - **价格**：本文件只有 **1 个真实公开价锚点**（Winet，见 §二），其余一律不给价——**价格必须现报**。
 > - 凡是"我方没有"的档位，**照实写"缺"**，不用"可定制"糊过去（可定制是真的，但要额外写交付周期 4–6 周）。
 >
-> ⭐ **r48 后续（2026-11-01）**：本文件为**档位级**对位；**型号级清单与逐行对位**已另立 **`117-customer-catalog-forensics-2026-11-01.md`**（upTech 14 款全表 / Winet 30 品牌 + 美元价 / ErETE Edgecore+OcNOS / Cifocs 13 款）。**多文件冲突时以最新一轮（`120`）为准**——本文件 §一 的 **bt 行已按 `117`、工业宽温行已按 `118` 修正**。
+> ⭐ **r48 后续（2026-11-01）**：本文件为**档位级**对位；**型号级清单与逐行对位**已另立 **`117-customer-catalog-forensics-2026-11-01.md`**（upTech 14 款全表 / Winet 30 品牌 + 美元价 / ErETE Edgecore+OcNOS / Cifocs 13 款）。**多文件冲突时以最新一轮（`121`）为准**——本文件 §一 的 **bt 行已按 `117`、工业宽温行已按 `118` 修正**。
 
 ---
 
 ## 一、先看这张「缺口矩阵」（决定谈什么）
 
+> 🛑 **r52 重大修正（先读这段再看表）**：本矩阵的「0 命中」**不包含 `A/001` Telkolink/GelecekBT**。
+> 该家实测（`gelecekbt.com/anahtarlar` 全目录 + facet）**已具备四项我方原以为它没有的能力**：
+> **① 2.5G 整条线**（`CLR-MRS-8106N/8106P/8109N/8109P/8218N/8226N/8312N/8312P/8330N/8330P`，最高 **24×2.5G PoE + 6×10G SFP L3**，另有 **`CLR-DCS-2110N/P` = 24×2.5G + 100G 上联**）；
+> **② 802.3bt**（facet：`Tip3 60W` **3 个** · `Tip4 90W` **1 个** · `IEEE 802.3bt` **6 个**）；
+> **③ 云管理**（facet `Cloud` **15 个** · `Yapay Zeka` **12 个**）；
+> **④ 40/100G**（100G 上联 **6 个** · 100G Uplink 交换机 **9 个** · 400G **1 个**；`CLR-DCS-6332F/6432F` = 32×40/100G QSFP28）。
+> → **对本矩阵的适用对象必须写成「除 Telkolink/GelecekBT 之外的 A/B 档」**；对 Telkolink 的打法见 `121` §一（同档位比成本与交期、贴 CLR 牌、2.5G+bt 组合、SFP 齐套）。
+
 我方 5 条产品线对照客户在售型号，**客户普遍缺的 6 个档位**如下——这 6 行就是全部谈判空间：
 
 | 缺口档位 | 客户侧现状（r46/r47 实测） | 我方有货的型号 | 我方也是空白 |
 |---|---|---|---|
-| **2.5G 电口** | **11 家里 0 家**有 2.5G（Coptek/NFS/Cebeci/iotsistem/ErETE XPS 全部是 GE + 10G 上联）。**r48 追加确认：upTech 14 款交换机 0 款 2.5G**（见 `117` §一） | `EW-S6805F`(5×2.5G+1×10G)、`S6806`(4+2)、`S6809`(8+1)、`S6818`(16+2)、**`EW-S6826`(24×2.5G+2×10G)**、`W-S2910SM-DP`(8GE PoE+2×1/2.5G) | — |
-| **802.3bt / 60–90 W** | ⚠ **r48 修正（原写"只有 ErETE"，已被证伪）**：**upTech 已有 bt，但只覆盖 1–4 口**——`SW1082-GGSUP`（8 口，1–4 口 bt，**300 W**）、`SW20244-GGCUP`（24 口，1–4 口 bt，**500 W**）、`SW2082-GGSUP`（8 口，1–4 口 bt）；ErETE 见 EtherWAN **60 W PSE** 公告；NFS `SRX-*` 停在 **30 W**；其余客户只到 **af/at 30 W**。→ **真实差距 = 「口数」与「单口功率」**：客户最多 **4 口 bt / 总 300–500 W**，我方 **全口 bt / 单口 60 W / 总 800 W** | `EW-S1810CF-AP`（7–8 口 **60 W/口**）、`EW-PIS3810M-8GE-BT`、`EW-PIS6812M-8GE-BT`、**`EW-PIS5728GM-AP-BT`（28 口 L3 / 800 W / 24×bt）** | — |
+| **2.5G 电口** | ⚠ **r52 修正**：**并非全名单 0 家** —— `A/001` Telkolink/GelecekBT **有完整 2.5G 线**（5/8/16/24 口，含 PoE 与 L3，最高 **24×2.5G PoE + 6×10G**）；`A/052` upTech **0 款**、`A/002/003/004` 三家自有线 **0 款**、B 档 11 家 **0 款**。→ 正确表述：**「除 Telkolink 外的 A/B 档 0 命中」** | `EW-S6805F`(5×2.5G+1×10G)、`S6806`(4+2)、`S6809`(8+1)、`S6818`(16+2)、**`EW-S6826`(24×2.5G+2×10G)**、`W-S2910SM-DP`(8GE PoE+2×1/2.5G) | **对 Telkolink 无优势**；对其余客户仍是第一条 |
+| **802.3bt / 60–90 W** | ⚠ **r52 再修正**：**upTech 已有 bt（1–4 口）**；**Telkolink/GelecekBT 更全**（`Tip3 60W` 3 个、`Tip4 90W` 1 个、`802.3bt` 共 6 个、`CLR-SWF-9006BT` 96 W）；其余客户仍停在 **af/at 30 W**。→ 真实差距 = **「全口 bt + 总功率」**（客户多为 1–4 口 / 300–500 W） | `EW-S1810CF-AP`（7–8 口 **60 W/口**）、`EW-PIS3810M-8GE-BT`、`EW-PIS6812M-8GE-BT`、**`EW-PIS5728GM-AP-BT`（28 口 L3 / 800 W / 24×bt）** | **工业段**：Telkolink 73 个工业款里 bt 只有个别 → 工业 bt 仍是空档 |
 | **250–300 m 长距 PoE** | Coptek/Cebeci/iotsistem **0 家**；NFS 未见；只有 Longline/Ewind 系有 | `EW-S1810CF-AP` 拨码 **E = AI Extend 300 m**、`EW-ES` 系 Cloud 版同功能 | 商用受管大机未见长距拨码 |
-| **云管理 / AI PoE** | ⚠ **r50 改弱（原写"客户侧 0 家"）**：**云管理在土耳其渠道里已是配置项不是卖点** —— Winet 在卖 **Ruijie 40 SKU**（Reyee 云）、Nokta 在卖 **Dahua（DoLynk）/ Planet / ORing**、`wi.com.tr` facet 里已出现 **UniFi Cloud / Cloud Mobil Yönetim** 字段。**我方云管理不能再当差异化**，只能作"同价位附带" | `EW-ES2010CF-AP`、`EW-ES3006CG-AP`、`EW-ES3028CG-AP`（24 口 400 W）、`EW-EPIS3910-8GE`（工业云 + 单口重启） | — |
+| **云管理 / AI PoE** | ⚠ **r52 三修**：**不是 0 家** —— Telkolink facet **`Cloud` 15 个 / `Yapay Zeka` 12 个**（`CLR-SWT-5736F`、`CLR-SWT-3754F` 标 L3 Cloud）；渠道侧还有 Ruijie(Reyee)/Dahua(DoLynk)/Zyxel(XMG1915 Bulut)/UniFi。**云管理已是配置项，不是差异化** | `EW-ES2010CF-AP`、`EW-ES3006CG-AP`、`EW-ES3028CG-AP`、`EW-EPIS3910-8GE`（工业云 + **单口远程重启**） | **唯一还能打的**：`EW-EPIS3910-8GE` 的「**12/24 V 被动 + 云 + 单口重启**」三合一（见 `A/054` TGD 对讲场景） |
 | **工业宽温 + DC 宽压** | ⚠ **r49 修正（原写"ErETE/iotsistem/NFS 有"，不全）**：**upTech 也有完整工业线 `ISW` 系列**（`ISW2420-GGS/GGSP`、`ISW2820-GGS/GGSPV`、`ISW1820-FGSP`、`ISW21240-GGS`）——但**全部 GE + 1G SFP、最高 af/at、非管理款仍是百兆**；Nokta 工业分类里另有 ORing `RGPS-R9244GP+-P`（24×PoE+ **带 4×10G**）与 Dahua `PFS4207-4GT-DP`（4 口 **bt 90 W**）。→ 我方的真实差 = **工业 + 10G 上联 + 2.5G + bt 四者同时具备** | `EW-PIS1810/1812-8GE`、`PIS3610M-8GE`、**`PIS3620M-16GE`**、`PIS5712M-8GE`（4×10G SFP+）、**`PIS5728GM-AP`**、**`EW-PIS3810M-8GE-BT`**、`EW-EPIS3910-8GE`（12/24V 被动 PoE + 云） | — |
-| **40/100G 上联** | **自有品牌侧 0 家**（Coptek/NFS/Cebeci/ErETE-XPS 最高 **4×10G**；`XPS-1320` 已确认带 4×10G SFP+）。⚠ **但渠道里有**：ErETE 卖 Edgecore `AS6712-32X`(40G)/`AS7712-32X`/`Wedge100BF-32X`(100G) → **100G 不是空白，是"白盒已占位"** | **`EW-S53928QM`（24×10G SFP+ + 4×100G）**、`EW-S57948QM`（48×2.5G + 4×100G L3） | — |
+| **40/100G 上联** | ⚠ **r52 修正**：**不是 0 家** —— Telkolink 有 **100G 上联 6 个 / 100G 交换机 9 个 / 400G 1 个**（`CLR-DCS-6332F/6432F` 32×40/100G）；ErETE 卖 Edgecore `AS6712-32X`/`AS7712-32X`/`Wedge100BF-32X`。→ **100G 属「已被白盒/进口占位」** | **`EW-S53928QM`（24×10G SFP+ + 4×100G）**、`EW-S57948QM`（48×2.5G + 4×100G L3） | 仅在**自有品牌侧**（Coptek/NFS/Cebeci/XPS 最高 4×10G）仍空 |
 
 > ⚠ **r48 重要修正**：本矩阵原第 2 行写「bt 只有 ErETE / NFS」，**已被证伪** ——
 > **upTech 三个型号带 802.3bt**（`SW1082-GGSUP` / `SW20244-GGCUP` / `SW2082-GGSUP`），只是**限 1–4 口、总功率 300 W / 500 W**。

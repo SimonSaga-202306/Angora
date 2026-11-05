@@ -220,3 +220,117 @@ Telkolink 官网 sitemap 与 firmasec 记录合并，品牌清单：
 - Telkolink 与 GelecekBT 的**股权关系**（同集团已由 footer 证实，但谁是母公司未明）
 - Yusuf Ölçer 到底是**雇员**还是 **CLR 的共同所有者**（决定谈判层级）
 - 其 LinkedIn 22K 关注者数据是否属于 CLR 企业号（未能确认归属）
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+### ⭐⭐⭐ r52：**它是我方在土耳其最强的对手，不是最好的客户** —— 全目录点算 + 三项自我证伪
+
+把 `gelecekbt.com/anahtarlar` 全目录（含 facet）点完，结论**与此前所有判断相反**：
+
+#### A. 目录规模（原文 facet）
+| 分类 | SKU | 分类 | SKU |
+|---|---|---|---|
+| Ethernet Switch | **122** | Ethernet POE Switch | **126** |
+| Endüstriyel Switch | **73** | Endüstriyel POE Switch | **60** |
+| Endüstriyel Omurga | **10** | Omurga Fiber Switch | **57** |
+| 10Gigabit Switch | **104** | **Multirate Switch（1G/2.5G/10G）** | **15** |
+| SFP Modül | **112** | **POE Switch AI** | **22** |
+| PD POE Switch | 7 | | |
+→ **交换机全目录 ≈ 291 个 SKU**，25 个品牌，其中**自有可贴牌品牌 `CLR Networks` 占 193 个**。
+
+#### B. ⭐ 品牌真相：**CLR 是它代理的深圳品牌，不是它的自有商标**
+- 它自己的幻灯片写明：**「CLR Networks Türkiye dağıtıcısı GelecekBT'dir」**（GelecekBT 是 CLR 的土耳其分销商）。
+- `guvenlikonline.com` 企业页：**「CLR Networks、ONET、Telkolink、Netkablo gibi markaların Türkiye dağıtıcısıdır」**。
+- → **改写**：本档此前记的「自有品牌 CLR Networks（深圳品牌）」应更正为 **「代理/独家分销的深圳品牌」**；**它同时代理 D-Link / Huawei / HP-Aruba / Netgear / Fortinet / Zyxel / Cisco / TG-NET / Repotec / Planet / Moxa / Advantech / 3Onedata / Kyland / Hirschmann / Harting / Siemens / Schneider / Allied Telesis / Axis / Ruijie**（facet 原文）。
+
+#### C. ⭐⭐ 三项自我证伪（直接推翻 `116` 的三行）
+
+| `116` 原判断 | 本档实测 | 结论 |
+|---|---|---|
+| **2.5G：11 家 0 家** | ❌ **它有整条 2.5G 线**：`CLR-MRS-8106N`(5×2.5G+1×10G SFP)、`-8106P`(4×2.5G PoE+1+1)、`-8109N`(8×2.5G+1×10G)、`-8109P`(8×2.5G **PoE**+1×10G, 100 W)、`-8218N`(16×2.5G+2×10G, Web 管理)、`-8226N`(**24×2.5G**+2×10G)、`-8312N/P`(8×2.5G + 2×10G RJ45 + 2×10G SFP+ **L3**)、`-8330N/P`(**24×2.5G PoE + 6×10G SFP L3**)、`CLR-SWT-80F`(8×1.25/2.5/10G SFP+)；**另有 `CLR-DCS-2110N/P` = 24×2.5G + 100G 上联 L3** | **2.5G 不是空白，是"已被它做满"** |
+| **bt：只有 1–4 口** | ❌ facet 原文：**`POE Tip3 (802.3bt) 60W` = 3 个**、**`POE Tip4 (802.3bt) 90W` = 1 个**、**`IEEE 802.3bt` = 6 个**；`CLR-SWF-9006BT` 单机 **96 W** | **bt 也已覆盖到 90 W 单口** |
+| **云管理：0 家** | ❌ facet **`Cloud` = 15 个**、**`Yapay Zeka (AI)` = 12 个**；`CLR-SWT-5736F`、`CLR-SWT-3754F` 均标 **L3 Cloud** | **云也已在线** |
+| **40/100G：0 家** | ❌ facet **100G 上联 6 个 / 100G Uplink 交换机 9 个 / 400G 1 个**；`CLR-DCS-6332F`/`6432F` = **32×40/100G QSFP28** | **它已经在卖 100G/400G 数据中心机** |
+
+→ ⭐ **结论：`116` 的"六行缺口矩阵"对 Telkolink/GelecekBT 完全不成立。它是全名单里技术水位最高的一家，也是我方最直接的对手**（同为深圳 ODM、同一客群、同一货架）。
+
+#### D. 那它还有什么缺口？（真正的我方机会）
+1. **`CLR-MRS` 的 2.5G PoE 线功率偏小**：`-8109P` 只有 **100 W**、`-8106P` 未标大功率；**24 口 2.5G PoE（`-8330P`）无功率标注** → 我方 **`EW-PIS5728GM-AP-BT`（24 口 bt / 800 W）/ 2.5G + bt 组合** 仍有一档。
+2. **工业 bt 几乎空白**：它 73 个工业款里 `802.3bt` 只有 6 个（含商用），**工业 90 W 单口只有 1 个** → 我方 `EW-PIS3810M-8GE-BT` / `EW-PIS5728GM-AP-BT` 可补。
+3. **`POE Extend` 只有 18 个、`POE Watchdog` 14 个**（291 个 SKU 里）→ 我方 **300 m 拨码 + Watchdog 全系标配** 是"低成本高感知"的差异点。
+4. ⭐ **SFP 模块 112 个 SKU** 是它的现金牛之一 → 我方 **2.5G SFP / 10G SFP+ / 工业 SFP** 可直接对位供货（`EW-810GS-20`、`EW-10GSFP-SR`）。
+
+#### E. 打法定稿（**彻底改写**）
+| 之前（错） | 现在（对） |
+|---|---|
+| "它缺 2.5G / bt / 云，我方去补位" | ❌ **它全都有**。改口：**"同一档位、更低的 ODM 成本 + 可贴 CLR 牌"** |
+| 当作"客户" | ⚠ **一半是客户、一半是竞对**（CLR = 同样的深圳供应链）。**不要一次交出完整 BOM 与成本结构** |
+| 谈"技术领先" | ✅ 谈 **交期、MOQ、贴牌弹性、2.5G+bt 组合、SFP 整套齐套供货** |
+
+**首封主题**：`CLR hattı için ikinci kaynak: 2.5G PoE + 802.3bt (60/90W) + SFP 套件`
+**必问三句**：① `CLR` 是不是你们独家？② 2.5G 那条线今年走多少台？③ 工业 90 W bt 有没有客户在问？
+
+### 证据等级（r52）
+- 已核实：**11 个分类的 SKU 数、25 个品牌清单、全部 facet 计数**（`gelecekbt.com/anahtarlar?limit=100` 原文）、**CLR 为代理品牌的原文表述**（自家 slideshare + guvenlikonline）、**CLR-MRS 全 10 个型号名与端口**、**CLR-DCS-2110/6332/6432**。
+- 仍空白：**CLR 独家性条款**、各型号实际销量、CLR 的深圳工厂名（与我方是否同厂未知）。
+
+---
+
+## 附：r52 全目录点算与品牌归属推翻（2026-11-01）
+
+> 本节为 **r52（2026-11-01）** 的**全目录点算**与**品牌归属推翻**；**冲突时以本节为准**。
+
+### ⭐⭐⭐ r52：**它是我方在土耳其最强的对手，不是最好的客户** —— 全目录点算 + 三项自我证伪
+
+把 `gelecekbt.com/anahtarlar` 全目录（含 facet）点完，结论**与此前所有判断相反**：
+
+#### A. 目录规模（原文 facet）
+| 分类 | SKU | 分类 | SKU |
+|---|---|---|---|
+| Ethernet Switch | **122** | Ethernet POE Switch | **126** |
+| Endüstriyel Switch | **73** | Endüstriyel POE Switch | **60** |
+| Endüstriyel Omurga | **10** | Omurga Fiber Switch | **57** |
+| 10Gigabit Switch | **104** | **Multirate Switch（1G/2.5G/10G）** | **15** |
+| SFP Modül | **112** | **POE Switch AI** | **22** |
+| PD POE Switch | 7 | | |
+→ **交换机全目录 ≈ 291 个 SKU**，25 个品牌，其中**自有可贴牌品牌 `CLR Networks` 占 193 个**。
+
+#### B. ⭐ 品牌真相：**CLR 是它代理的深圳品牌，不是它的自有商标**
+- 它自己的幻灯片写明：**「CLR Networks Türkiye dağıtıcısı GelecekBT'dir」**（GelecekBT 是 CLR 的土耳其分销商）。
+- `guvenlikonline.com` 企业页：**「CLR Networks、ONET、Telkolink、Netkablo gibi markaların Türkiye dağıtıcısıdır」**。
+- → **改写**：本档此前记的「自有品牌 CLR Networks（深圳品牌）」应更正为 **「代理/独家分销的深圳品牌」**；**它同时代理 D-Link / Huawei / HP-Aruba / Netgear / Fortinet / Zyxel / Cisco / TG-NET / Repotec / Planet / Moxa / Advantech / 3Onedata / Kyland / Hirschmann / Harting / Siemens / Schneider / Allied Telesis / Axis / Ruijie**（facet 原文）。
+
+#### C. ⭐⭐ 三项自我证伪（直接推翻 `116` 的三行）
+
+| `116` 原判断 | 本档实测 | 结论 |
+|---|---|---|
+| **2.5G：11 家 0 家** | ❌ **它有整条 2.5G 线**：`CLR-MRS-8106N`(5×2.5G+1×10G SFP)、`-8106P`(4×2.5G PoE+1+1)、`-8109N`(8×2.5G+1×10G)、`-8109P`(8×2.5G **PoE**+1×10G, 100 W)、`-8218N`(16×2.5G+2×10G, Web 管理)、`-8226N`(**24×2.5G**+2×10G)、`-8312N/P`(8×2.5G + 2×10G RJ45 + 2×10G SFP+ **L3**)、`-8330N/P`(**24×2.5G PoE + 6×10G SFP L3**)、`CLR-SWT-80F`(8×1.25/2.5/10G SFP+)；**另有 `CLR-DCS-2110N/P` = 24×2.5G + 100G 上联 L3** | **2.5G 不是空白，是"已被它做满"** |
+| **bt：只有 1–4 口** | ❌ facet 原文：**`POE Tip3 (802.3bt) 60W` = 3 个**、**`POE Tip4 (802.3bt) 90W` = 1 个**、**`IEEE 802.3bt` = 6 个**；`CLR-SWF-9006BT` 单机 **96 W** | **bt 也已覆盖到 90 W 单口** |
+| **云管理：0 家** | ❌ facet **`Cloud` = 15 个**、**`Yapay Zeka (AI)` = 12 个**；`CLR-SWT-5736F`、`CLR-SWT-3754F` 均标 **L3 Cloud** | **云也已在线** |
+| **40/100G：0 家** | ❌ facet **100G 上联 6 个 / 100G Uplink 交换机 9 个 / 400G 1 个**；`CLR-DCS-6332F`/`6432F` = **32×40/100G QSFP28** | **它已经在卖 100G/400G 数据中心机** |
+
+→ ⭐ **结论：`116` 的"六行缺口矩阵"对 Telkolink/GelecekBT 完全不成立。它是全名单里技术水位最高的一家，也是我方最直接的对手**（同为深圳 ODM、同一客群、同一货架）。
+
+#### D. 那它还有什么缺口？（真正的我方机会）
+1. **`CLR-MRS` 的 2.5G PoE 线功率偏小**：`-8109P` 只有 **100 W**、`-8106P` 未标大功率；**24 口 2.5G PoE（`-8330P`）无功率标注** → 我方 **`EW-PIS5728GM-AP-BT`（24 口 bt / 800 W）/ 2.5G + bt 组合** 仍有一档。
+2. **工业 bt 几乎空白**：它 73 个工业款里 `802.3bt` 只有 6 个（含商用），**工业 90 W 单口只有 1 个** → 我方 `EW-PIS3810M-8GE-BT` / `EW-PIS5728GM-AP-BT` 可补。
+3. **`POE Extend` 只有 18 个、`POE Watchdog` 14 个**（291 个 SKU 里）→ 我方 **300 m 拨码 + Watchdog 全系标配** 是"低成本高感知"的差异点。
+4. ⭐ **SFP 模块 112 个 SKU** 是它的现金牛之一 → 我方 **2.5G SFP / 10G SFP+ / 工业 SFP** 可直接对位供货（`EW-810GS-20`、`EW-10GSFP-SR`）。
+
+#### E. 打法定稿（**彻底改写**）
+| 之前（错） | 现在（对） |
+|---|---|
+| "它缺 2.5G / bt / 云，我方去补位" | ❌ **它全都有**。改口：**"同一档位、更低的 ODM 成本 + 可贴 CLR 牌"** |
+| 当作"客户" | ⚠ **一半是客户、一半是竞对**（CLR = 同样的深圳供应链）。**不要一次交出完整 BOM 与成本结构** |
+| 谈"技术领先" | ✅ 谈 **交期、MOQ、贴牌弹性、2.5G+bt 组合、SFP 整套齐套供货** |
+
+**首封主题**：`CLR hattı için ikinci kaynak: 2.5G PoE + 802.3bt (60/90W) + SFP 套件`
+**必问三句**：① `CLR` 是不是你们独家？② 2.5G 那条线今年走多少台？③ 工业 90 W bt 有没有客户在问？
+
+### 证据等级（r52）
+- 已核实：**11 个分类的 SKU 数、25 个品牌清单、全部 facet 计数**（`gelecekbt.com/anahtarlar?limit=100` 原文）、**CLR 为代理品牌的原文表述**（自家 slideshare + guvenlikonline）、**CLR-MRS 全 10 个型号名与端口**、**CLR-DCS-2110/6332/6432**。
+- 仍空白：**CLR 独家性条款**、各型号实际销量、CLR 的深圳工厂名（与我方是否同厂未知）。
