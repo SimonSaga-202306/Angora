@@ -176,41 +176,33 @@ info@cryptolink.com.tr + +90 312 557 64 00 + Çankaya Mah. Bükreş Cad. 19/1
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐⭐ r53：两份工业线 datasheet 读到 —— **PDF 里还留着原厂牌子「CrystalWAN」**
+### ⭐ r55：`CRL-MC02` 与 `CRL-SFP-10G-LC` 两份 PDF 读完 —— **datasheet 自相矛盾，换牌痕迹更明显**
 
-#### A. 换牌实证（比"Authorized Dealer"更硬）
-`DatasheetofCRLISW-14.pdf` 的**封面页眉原文就是 `CrystalWAN Network Solutions`**，而内页型号写作 **`CRLISW-414`**；`CRLISW-08.pdf` 内页型号写作 **`CRLISW-8P`**。
-→ **同一份 PDF 里同时出现三个名字（CrystalWAN / CRLISW-414 / CryptoLINK）** ⇒ **它不是品牌方，是把 OEM 的 PPT 直接改个封面**。这条与 r52 的「Authorized Dealer」页脚互为印证，**r52 的「代理品牌」判定成立且证据升级**。
+#### A. `CRL-MC02`（媒体转换器）
+| 项 | 值 |
+|---|---|
+| 品名 | 2 Ports Media Converter：**1×100M RJ45 + 1×100M 光纤** |
+| 光口 | **ST / SC / FC，100 Mbps 全双工** |
+| 距离档位 | 多模 850/1310 nm **0–2 km**；单模 1310 nm **20 / 40 / 60 km**；单模 1550 nm **80 / 100 / 120 km**（灵敏度 −25 ~ −44 dBm） |
+| 协议 | IEEE802.3/u/z/ab、10Base-T / 100Base-TX / 1000Base-TX（**原文把 1000Base 也列进来，与"100M 口"矛盾**） |
+| 功耗 | **< 5 W**（DC 5 V 1000–3000 mA） |
+| 尺寸 / 重量 | **11×7×2.5 cm / 0.18 kg** |
+| 温度 / MTBF | **−20~50 °C**（存储 −40~85 °C）/ **100,000 h** |
 
-#### B. 两个工业型号全表
-| 项 | **`CRLISW-08`（PDF 内 = `CRLISW-8P`）** | **`CRLISW-14P`（PDF 内 = `CRLISW-414`）** |
-|---|---|---|
-| 品名 | 10 ports Gigabit Managed Industrial PoE Switch | 12 Port Gigabit Yönetilebilir Endüstriyel PoE Switch |
-| 端口 | **8×10/100/1000 PoE + 2×GE SFP + 1 Console** | **8×10/100/1000 PoE + 4×GE SFP + 1 Console** |
-| PoE | **af 15.4 W / at 30 W**；**总 240 W**；DC48V 输出；自动识别 af/at | **af 15.4 W / at 30 W**；**总 120 W**；DC48V |
-| 交换 | 24 Gbps / 4 M buffer / 1.488 Mpps 每口 | 24 Gbps / 4 M buffer / 1.488 Mpps 每口 |
-| MAC | 8K | **16K** |
-| 冗余 | **STP/RSTP/MSTP + ERPS**、静态+LACP 聚合、VLAN/QoS/ACL、**PD Alive Check (WatchDog)** | 同左（+ NTP） |
-| 管理 | **WEB / Telnet / CLI / SSH / SNMP v1v2v3 / RMON** | 同左 |
-| 供电 | **双路 DC48–55 V 凤凰端子（V1± V2±）+ 防反接** | 同左 |
-| 温度 | **−40~85 °C** | **−40~85 °C** |
-| 防护 | **IP40 金属壳**、防雷 **6 kV / 差模 4 kV / ESD 15 kV** | 同左 |
-| 尺寸 | 166×120×60 mm，0.5 kg，导轨/壁挂 | 同左 |
-| MTBF | 100,000 h | **800,000 h** |
-| 光模块支持 | 多模 2 km；单模 1310 nm 20 km / **1550 nm 60/80/100/120 km** | 同左 |
+#### B. `CRL-SFP-10G-LC`（10G 光模块）—— ⚠ **原文自相矛盾**
+- 型号与标题写 **SFP+ 10GbE**，参数栏写 **Transmit Distance: 10Gbs**；
+- 但正文第一段写 **「the speed rate up to **155Mbps** and the transmission distance up to 20km」**；
+- 实测参数：**1310 nm、发射 −15~−3 dBm、接收灵敏度 −34 dBm、单模 20 km / 多模 2 km、DC 3.15–3.45 V、1 W、55.4×13.7×6.25 mm、0.17 g、0~70 °C**。
 
-#### C. 与我方对位（结论：**工业段它只有 af/at 30 W，这是我方最干净的一刀**）
-| 它的型号 | 我方 | 差距 |
-|---|---|---|
-| `CRLISW-8P`（8 PoE + 2 SFP，**240 W**，af/at） | **`EW-PIS1810-8GE`** / **`EW-EPIS3910-8GE`** / ⭐ **`EW-PIS3810M-8GE-BT`** | 我方 **bt 60/90 W + 12/24 V 被动 + 云 + 单口远程重启** |
-| `CRLISW-414`（8 PoE + 4 SFP，**120 W**，af/at） | **`EW-EPIS3910-8GE`**（8 口 + 2 SFP） | 它 4 个光口；我方 2 个 → **可提「4 SFP 版」定制** |
+⇒ **同一份官方 datasheet 里 155M / 10G 并存** —— 这是**换牌厂商直接沿用 OEM 模板、没校对**的典型痕迹（与 r53 发现的上游 `CrystalWAN` 页眉同源）。
+→ **销售可用**：客户若拿它的 datasheet 做招标附件，**参数自相矛盾可直接质疑**；我方 datasheet 只需**准确、可对标**就能赢这一分。
 
-→ **一句话**：**它的工业线 100% 停在 af/at 30 W、温度好但功率小**；对「边界安全 / 车牌识别 / 政府项目」这类**要多摄像头 + 加热器/云台**的场景，**bt 60 W 是硬需求**。
-**首封补一句**：`CRLISW serisi 30W'ta kalıyor; 802.3bt 60W endüstriyel modelimiz aynı fiyat aralığında.`
+#### C. 至此 CryptoLink 全 7 份 PDF 已读（4 份本轮前已读，2 份本轮读完，1 份重复）
+`CRL-SW-L3-2404-10G` · `CRL-SW-2402` · `CRLISW-08` · `CRLISW-14P` · **`CRL-MC02`** · **`CRL-SFP-10G-LC`** · `CRL-SFP-125 LC`（未单独读，与 10G 版同族）。
 
-### 证据等级（r53）
-- 已核实：两份 PDF **全表**（`CrystalWAN` 字样、内部型号 `CRLISW-8P` / `CRLISW-414`、PoE 预算 240 W / 120 W、−40~85 °C、IP40、MTBF）。
-- 仍空白：`CRL-MC02`、`CRL-SFP-10G-LC`、`CRL-SFP-125 LC` 三份 PDF 未读；它是否也卖别家工业交换机。
+### 证据等级（r55）
+- 已核实：**两份 datasheet 全表**、**155M vs 10G 的矛盾文本**。
+- 仍空白：`CRL-SFP-125 LC` 单独规格。
 
 ---
 
@@ -294,3 +286,37 @@ info@cryptolink.com.tr + +90 312 557 64 00 + Çankaya Mah. Bükreş Cad. 19/1
 ### 证据等级（r53）
 - 已核实：两份 PDF **全表**（`CrystalWAN` 字样、内部型号 `CRLISW-8P` / `CRLISW-414`、PoE 预算 240 W / 120 W、−40~85 °C、IP40、MTBF）。
 - 仍空白：`CRL-MC02`、`CRL-SFP-10G-LC`、`CRL-SFP-125 LC` 三份 PDF 未读；它是否也卖别家工业交换机。
+
+---
+
+## 附：r55 收尾取证与 FOREDGE 反证（2026-11-01）
+
+> 本节为 **r55（2026-11-01）** 的收尾取证；**与前面各轮冲突时以本节为准**。
+
+### ⭐ r55：`CRL-MC02` 与 `CRL-SFP-10G-LC` 两份 PDF 读完 —— **datasheet 自相矛盾，换牌痕迹更明显**
+
+#### A. `CRL-MC02`（媒体转换器）
+| 项 | 值 |
+|---|---|
+| 品名 | 2 Ports Media Converter：**1×100M RJ45 + 1×100M 光纤** |
+| 光口 | **ST / SC / FC，100 Mbps 全双工** |
+| 距离档位 | 多模 850/1310 nm **0–2 km**；单模 1310 nm **20 / 40 / 60 km**；单模 1550 nm **80 / 100 / 120 km**（灵敏度 −25 ~ −44 dBm） |
+| 协议 | IEEE802.3/u/z/ab、10Base-T / 100Base-TX / 1000Base-TX（**原文把 1000Base 也列进来，与"100M 口"矛盾**） |
+| 功耗 | **< 5 W**（DC 5 V 1000–3000 mA） |
+| 尺寸 / 重量 | **11×7×2.5 cm / 0.18 kg** |
+| 温度 / MTBF | **−20~50 °C**（存储 −40~85 °C）/ **100,000 h** |
+
+#### B. `CRL-SFP-10G-LC`（10G 光模块）—— ⚠ **原文自相矛盾**
+- 型号与标题写 **SFP+ 10GbE**，参数栏写 **Transmit Distance: 10Gbs**；
+- 但正文第一段写 **「the speed rate up to **155Mbps** and the transmission distance up to 20km」**；
+- 实测参数：**1310 nm、发射 −15~−3 dBm、接收灵敏度 −34 dBm、单模 20 km / 多模 2 km、DC 3.15–3.45 V、1 W、55.4×13.7×6.25 mm、0.17 g、0~70 °C**。
+
+⇒ **同一份官方 datasheet 里 155M / 10G 并存** —— 这是**换牌厂商直接沿用 OEM 模板、没校对**的典型痕迹（与 r53 发现的上游 `CrystalWAN` 页眉同源）。
+→ **销售可用**：客户若拿它的 datasheet 做招标附件，**参数自相矛盾可直接质疑**；我方 datasheet 只需**准确、可对标**就能赢这一分。
+
+#### C. 至此 CryptoLink 全 7 份 PDF 已读（4 份本轮前已读，2 份本轮读完，1 份重复）
+`CRL-SW-L3-2404-10G` · `CRL-SW-2402` · `CRLISW-08` · `CRLISW-14P` · **`CRL-MC02`** · **`CRL-SFP-10G-LC`** · `CRL-SFP-125 LC`（未单独读，与 10G 版同族）。
+
+### 证据等级（r55）
+- 已核实：**两份 datasheet 全表**、**155M vs 10G 的矛盾文本**。
+- 仍空白：`CRL-SFP-125 LC` 单独规格。
