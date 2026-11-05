@@ -17,6 +17,8 @@
 
 - [`137-24port-poe-floor-412-and-sfp-absurdity-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/137-24port-poe-floor-412-and-sfp-absurdity-2026-11-06.md)：r68 **24 口 PoE 地板 = $412**（EXTREME `210-24P-GE2`，60 月保修）· DAHUA `DH-PFSD224ET2-360D` $516 · 我方 **2.9–3.7×**（对外只报「约 3 倍」）· **净价/含税差 20%** 的方法论修正 · **SFP 价差 $442–1,010 ⇒ 送 4 个 10G 模块 = $1,700–2,300 目录价值** · 新增 5 家供应商（NEXTDATA 0312 284 70 60 合同到 2028-03-24）
 
+- [`138-24port-floor-is-a-zombie-and-retail-beats-dmo-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/138-24port-floor-is-a-zombie-and-retail-beats-dmo-2026-11-06.md)：r69 **$412 是僵尸合同**（`EXTREME 210-24P-GE2` = NEXTDATA `K4200`，**2023-09-28→2025-09-28 已过期**）⇒ **活地板 $513（RUIJIE/RESET）/ $516（DAHUA）** ⇒ 我方 **3.7–3.8×** · 🛑 **DMO 比零售贵 1.7–2.1×**（同集团同规格：DMO $616 vs 零售 $302 含税）· ⭐ **8 口 `MS130-8X` $831 ⇒ 我方 8 口 32–35×** · ⚠ ARUBA `JL255A` $209 待复核 · MİRSAN `CLR-MRS-8226N` 2.5G 线索
+
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md) — 按 0001→0781 顺序的逐文件目录（路径 + 大小 + sha256 + 产物 + 方法）
