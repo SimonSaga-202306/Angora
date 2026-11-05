@@ -21,6 +21,8 @@
 
 - [`139-8port-is-a-bloodbath-and-the-live-floor-is-302-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/139-8port-is-a-bloodbath-and-the-live-floor-is-302-2026-11-06.md)：r70 **`JL255A` $209 是死价**（土零售 $1,438–2,090）⇒ 僵尸价三形态齐 · **24 口口径二分**：市价 **2.2×**（Reyee $302）/ **2.9–3.7×**（ZyXEL $412–514）、渠道 **3.7–4.4×** · 🛑 **8 口是血海**：ARNA 零售 **$15**、BESTA $32–42、IP-COM DMO 千兆 **$53–68** ⇒ 我方无优势（r66 结论被取代）· ⭐ **RUBISEC 8 口 $211–1,404**（8 口段 91 倍分层）· MİRSAN `CLR-MRS` 2.5G 五款全「面议」
 
+- [`140-24port-floor-278-retail-403-channel-rubisec-dissected-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/140-24port-floor-278-retail-403-channel-rubisec-dissected-2026-11-06.md)：r71 **地板第三次下修** —— 市价 **$278**（IP-COM `G3326P-24-410W`）/ **$240**（`G5328P-24-410W`，470 W **L3**，⚠待复核）· 渠道活地板 **$403**（RUBISEC `RS-ES-200-28PS`，BİRKİL）⇒ 我方 **1.7–2.0× / 2.9×** · **RUBISEC = 黑山 2016 品牌**（非土品牌），`K4525` 合同至 2026-09-03，全线 $211→$403→$858→$1,221→$18,806 ⇒ **ODM 路径可行性证明** · **IP-COM 土独家代理 = NASA/Nasabil** · 🛑 `G5328P` $240 ⇒ **24 口成本底线 FOB $120–150，我方 $140 只是持平** · 2.5G 锚 $460/$1,700
+
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md) — 按 0001→0781 顺序的逐文件目录（路径 + 大小 + sha256 + 产物 + 方法）

@@ -63,7 +63,8 @@ try:
     R68 = {}
     R69 = {}
     R70 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data'):
+    R71 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -114,6 +115,8 @@ try:
                 R69.update(_mod.D)
             if _m == 'r70_appendix_data':
                 R70.update(_mod.D)
+            if _m == 'r71_appendix_data':
+                R71.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -148,6 +151,7 @@ R67_MARK = '## 附：r67 FOREDGE 全价目与 8 口双口径（2026-11-06）'
 R68_MARK = '## 附：r68 24 口地板 $412 与 SFP 价差（2026-11-06）'
 R69_MARK = '## 附：r69 $412 是僵尸合同 + DMO 比零售贵 1.7 倍（2026-11-06）'
 R70_MARK = '## 附：r70 8 口是血海 + 24 口两个口径（2026-11-06）'
+R71_MARK = '## 附：r71 24 口地板 $278 / 渠道 $403（2026-11-06）'
 
 
 def tier_letter(level):
@@ -612,6 +616,16 @@ def main():
             L.append('> 本节为 **r70（2026-11-06）**；**它推翻了「8 口我方有优势」，并把 24 口拆成「市价」与「渠道」两个口径 —— 报价前必读。**')
             L.append('')
             L.append(body_r70.strip('\n'))
+            L.append('')
+        body_r71 = R71.get(no)
+        if body_r71:
+            L.append('---')
+            L.append('')
+            L.append(R71_MARK)
+            L.append('')
+            L.append('> 本节为 **r71（2026-11-06）**；**地板再降两格，且 24 口 L3 470 W 只要 $240 —— 报价前必读。**')
+            L.append('')
+            L.append(body_r71.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
