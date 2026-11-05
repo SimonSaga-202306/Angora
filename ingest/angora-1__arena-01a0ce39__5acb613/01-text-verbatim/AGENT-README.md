@@ -14,8 +14,9 @@
 | 仓库路径 | `SimonSaga-202306/Angora`（本地 `/home/user/Angora`） |
 | 当前主分支 | `main` |
 | 工作分支 | `arena/5da004bd-angora`（2026-10-27 会话；旧 `arena/01a0ce39-angora` 为历史记录） |
-| 最后更新时间 | 2026-11-01 ≈17:40 (+08:00, Asia/Shanghai) |
-| 最后更新由 | 第 43 轮（土耳其 21 家客户商业深挖：领英/KP/展会/提单/协会名录；21/21 覆盖）—— 产物 `07-web-crawl-2026-11-01/03-company-deepdig-2026-11-01.md`｜上一轮（42）摘要见下 |
+| 最后更新时间 | 2026-11-01 ≈18:55 (+08:00, Asia/Shanghai) |
+| 最后更新由 | 第 44 轮（`TR Customers/`：一客户一 MD 共 146 份）—— 上一轮（43）摘要见下 |
+| 上一轮 | 第 43 轮（土耳其 21 家客户商业深挖：领英/KP/展会/提单/协会名录；21/21 覆盖）—— 产物 `07-web-crawl-2026-11-01/03-company-deepdig-2026-11-01.md`｜上一轮（42）摘要见下 |
 | 上一轮 | 第 42 轮（土耳其客户档案外部核验：Cenova 结论更正、Optima 沙特结案、Selim 验证封顶、Karer 价格锚点）—— 产物 `07-web-crawl-2026-11-01/02-turkey-dossier-verification-2026-11-01.md`｜上一轮（40/41）摘要见下 |
 | 上一轮 | 第 40 轮（Ewind 官网 + 宣传面 Alibaba 直连 + 6 份 PDF 复爬；Angora 4 份宣传册首次入库）—— 窗口 2026-11-01T05:29–05:45Z｜Ewind **连续第 2 轮零新增**｜⭐⭐ **19 个非英语子站全灭（GTranslate 402）**｜⭐ Alibaba 首次直连：4.5/5、99.0%、≤3h、US$240,000+、**33 人**｜PDF **推翻 r39 四个数值**（−20~+55 °C / MAC 2K / 拨码 V·D 仅 1–4 口 / IP30·4kV）｜Angora 宣传册：**Hitit 册是 `Kaleiçi_Datasheet_Taslak` 草稿**、**ANW-2023-E8GT** 并存编码、**Synapse 订货表三型号误写 8-Port**｜产物 `07-web-crawl-2026-11-01/` 17 文件 |
 
@@ -417,6 +418,7 @@ Angora/
 
 | 对话轮次 | 预估信息点 | 已记录 | 待确认 | 审计方法是否全部执行 |
 |---------|-----------|--------|--------|---------------------|
+| 44 | 148 | 0 | 0（**结构化重整轮**：0 新抓取。仓库根新建 `TR Customers/` = **146 客户 MD + README = 147 文件 / 10,901 行**，源 = `111` 145 行 + `111` 外的 Entegron／LONGLINE 1 份，生成脚本 `build_tr_customers_r44.py` 可复现。每个 MD 七段（身份卡/产品线/供应链/联系人逐字/证据等级/建议动作/备注）；**21 家把深度档案全文逐字并入**成自包含；**21 组跨批次重复公司各自独立成文件**并 ⚠ 交叉标注（守「不合并」）。边界：145 行已含两批原始名单，非 397 家；**仅 21 家有深度档案，124 家 README 明写「不要当成已调研」**） |
 | 43 | 22 | 0 | 0（**商业深挖轮**：0 新客户、0 新站类；对 21 份 dossier **全部**追加 `## 商业深挖 2026-11-01`（覆盖 21/21，15 家挖到新事实、6 家公开面为零）。**最重磅**：01 Telkolink/GelecekBT 的 CLR Networks **总部在深圳宝安**、其 EMEA 联系人 `yusuf@clrnetworks.com`/Skype `yusufolcer` **= GelecekBT 总经理 Yusuf Ölçer** → 它自己就是深圳品牌方，打法改为「做 CLR 第二源」；**10 Optima** 9,000 m² 厂/出口 >90% 到 50+ 国/NACE 28.99.90/ISO 9001/**连续 20 年 Intersec 迪拜 + Messe Frankfurt 奖**/Intertraffic 2026 首秀；**19 Öncü** 拿掉提单级证据：**128 批 / 仅 2 家供应商 / 供应商 `SEC ON CO LTD`**；**06 Longline** 的 `Entegron Technology FZE` 是**阿联酋自贸区实体**（合同主体问题）；**16 CCTV Depo** CEO 自述「深圳我熟」；**18 Han** 18+ 品牌且官网有 **OEM 分类**；新增 KP：Longline **Safa Özer(采购经理)**、Okisan **Okan Özkara(BD Director)/Kerem Öztürk(安卡拉 24 年)**。边界：**年报 0 家**（土私营不公开，营收全为第三方推算）、**GitHub/论坛 0 家（确认无）**、EKAP/TÜRKPATENT/股权未查；6 家公开面为零已写入「不要再花抓取时间」） |
 | 42 | 6 | 0 | 0（**外部核验轮**：0 新客户、0 新情报抓取目标以外的站；只对 5 份既有 dossier 做公开网络独立核验 + 1 份抓取台账。**推翻 1 条**：Cenova「官网在卖 E-wind」→ 实为自有 Dayline/DZ 白牌 16 款 PoE，PDF 内嵌 `Microsoft Word - *.docx`；**结案 1 条**：Optima 沙特=自有利雅得厂（非同名第三方）+ UAE Sharjah；**封顶 1 条**：Selim Kalaka 公开网络面 0 记录，验证只能来自微信；**新增锚点**：Karer 公开 USD 价 $160/8口、Okisan 5 家 Tiandy 二级分销。边界：`cenova` sitemap 404、站内搜索坏；`optimasecurityonline.com`（美国 Dallas，另一家）抓取 500；16 家未核验、等级不变） |
 | 41 | 22 | 22 | 0（纯整理轮：0 新情报抓取，源=仓内 `111`/`112`/`110`/`99-raw/r37-*` 100%；边界已声明：**全部为案头整编**，用户侧事实（CEO 到访/外观一般）与已独立核实分开标注；报价均为历史口径，DDP 含税价需重算；剔除 MFD/Bimel/PNetworks/Longline/PavoTek/Kiracı 并说明理由） |
