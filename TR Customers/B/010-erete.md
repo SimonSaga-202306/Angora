@@ -90,3 +90,59 @@ XPS 贴牌替换 + EdgeCore 渠道协同观察（同一底座 = 供应链情报�
 ### 证据等级与空白
 - 已核实：法定名、成立年月、双据点、创始三人、XPS 工业交换机 + EGM 认证表述、B2B 平台、客户类型（官网 + 招聘站 + 行业名录三处一致）。
 - 空白：员工数、营收、现供应商、采购负责人。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+### ⭐ r48 实证：ErETE 是 **Edgecore（智邦）的分销商**，NOS 卖的是 **IP Infusion OcNOS 6.6**
+
+这一轮把它的 **OPEN NETWORKING** 与 **NOS** 两个分类逐条抓完，证据如下。
+
+#### A. `OPEN NETWORKING`（分类下 **7 个产品**，全部为 Edgecore 白盒）
+| 型号 | 类型 | 备注 |
+|---|---|---|
+| **`AS4610-54T`** | 1 GbE 数据中心交换机 | Edgecore 经典 48×GE + 6×10G 白盒 |
+| **`AS4610-54P`** | 1 GbE 数据中心交换机（PoE 版） | 同上，PoE |
+| **`AS5712-54X`** | 10 GbE 数据中心交换机 | 48×10G + 6×40G |
+| **`AS6712-32X`** | **40 GbE** 数据中心交换机 | 32×40G |
+| **`AS7712-32X`** | **100 GbE** 数据中心交换机 | 32×100G |
+| **`Wedge100BF-32X`** | ⭐ **100 GbE（Tofino / P4 可编程）** | **这是白盒里最"硬核"的一档**，说明它做**可编程数据面**生意 |
+| **`ASXvOLT16`** | ⭐ **16 端口 XGS-PON OLT** | 它不只做企业网，**还做 PON 局端** |
+
+#### B. `NOS`（分类下 **1 个产品**）
+- **`OcNOS 6.6`** —— **IP Infusion 的 Network Operating System**（数据中心版）。
+
+#### C. `OMURGA ve KENAR SWITCHLER`（骨干与边缘）
+骨干分类 8 个产品中，**5 个是 Edgecore ECS 系列**：`ECS4810-12M`（12×1000Base 光 combo，−25~+65 °C）、`ECS4620-28F`（L3 千兆堆叠 24×1000Base-X SFP）、`ECS4510-28F`（22×GE SFP + 2 combo + 2×10G）、`ECS4120-28F`（20×GE SFP + 4CG + 4×10G，L2+）、`ECS4660-28F`（24×GE SFP + 2×10G XFP + 2 扩展）；
+**另 1 个是自有品牌 `XPS-1320-36F`**（骨干光纤交换机：24 端口 100/1000 SFP + …）。
+
+#### D. 完整的自有品牌 **XPS** 矩阵（工业 + 骨干）
+- 工业非 PoE 管理型：`XPS-I7120-6 / -10 / -14 / -16 / -24`（4/8/10/12 口 GE + SFP）
+- 工业 PoE 管理型：`XPS-I7120-6P / -10P / -14P / -16P`
+- 工业 L2+：**`XPS-I8120-16`**（12×GE + **4×10G SFP+**）、`XPS-I8120-24F`（12×GE + 8×SFP）
+- 骨干：**`XPS-1320-36F`**（24×100/1000 SFP）
+→ **XPS 是它真正的"自有品牌"，且已覆盖工业 + 骨干光纤两段。**
+
+#### E. 它还卖什么（决定了它是"全栈"而不是"分销"）
+- **EtherWAN** 加固工业线：`EX89000 / EX87000 / EX77000 / EX83000 / EX61000A / EX70900 / EX72000`、加固 PoE `ER59000 / ER58000 / EX75000 / EX76000 / EX78000 / EX78602 / EX74000 / EX46100 / EX48000`、`ECS4660-28F`
+- **SFP 全线**：1–10G、40G QSFP、100G QSFP28、**200G / 400G / 800G**、AOC、DAC
+- **LANDE** 布线、机柜（600/800/1000 mm 深、服务器柜、壁挂柜、数据中心柜）、光纤配线、室内/户外转换器、转换器机箱
+
+### ⚠ 与我方的战略冲突（必须由人拍板，不能自动决定）
+
+| 情形 | 说明 | 建议动作 |
+|---|---|---|
+| **如果 Angora 代理/转售 Edgecore** | ErETE 卖的就是 **Edgecore AS/ECS/Wedge** —— **两者在同一货源上撞车** | **不要以"Edgecore 竞品"身份接触**；改为**谈 Angora 的 white-box 供货（贴 XPS 牌）**，用价格与交期打 Edgecore 的清单 |
+| **如果 Angora 是自有/ODM 白盒（非 Edgecore 渠道）** | 那 ErETE 就是**最理想的白牌客户**：它已经会卖 ONIE 白盒与 OcNOS | **直接谈"XPS 白盒 + SONiC/ONIE 兼容"**，主打 **2.5G / 25G / 100G 的价格档** |
+| 无论哪种 | ErETE **已经在做**开放网络，**不需要教育**；它缺的是**更便宜的硬件来源** | 首封直接给**硬件 BOM 报价**，不要给方案 PPT |
+
+**首封主题（r48 更新）**：`XPS / ONIE white-box için alternatif donanım kaynağı（2.5G · 25G · 100G）`
+**必问三句**：① **"Edgecore ürünlerini siz mi ithal ediyorsunuz, yoksa Türkiye distribütörü üzerinden mi?"** ② **"OcNOS lisansını siz mi satıyorsunuz?"** ③ **"XPS white-box için ONIE sertifikasyonu şart mı?"**
+**⚠ 纪律**：**永不贬低 EtherWAN 与 Edgecore**（两者都是它的长期代理线）；只谈"**在它的品牌下、更低的硬件成本**"。
+
+### 证据等级（r48 增补）
+- 已核实（新增）：**OPEN NETWORKING 7 个型号全为 Edgecore（含 Wedge100BF-32X 与 ASXvOLT16 XGS-PON OLT）**、**NOS = OcNOS 6.6（IP Infusion）**、**骨干 5/8 为 Edgecore ECS + 1 个自有 XPS-1320-36F**、**XPS 工业线全 8 款型号**、**SFP 覆盖到 800G**（`erete.com.tr` 分类页逐条）。
+- 仍空白：**Angora 与 Edgecore 的实际关系（内部待确认）**、ErETE 的 Edgecore 授权层级（直接进口 / 经土耳其分销商）、OcNOS 授权方式。

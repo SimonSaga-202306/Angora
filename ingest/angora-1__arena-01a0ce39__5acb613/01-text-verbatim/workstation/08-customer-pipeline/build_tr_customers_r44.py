@@ -40,6 +40,14 @@ try:
             _mod = _ilu.module_from_spec(_spec)
             _spec.loader.exec_module(_mod)
             A_DEEPDIG.update(_mod.D)
+    R48 = {}
+    for _m in ('r48_appendix_data',):
+        _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
+        if os.path.exists(_p):
+            _spec = _ilu.spec_from_file_location(_m, _p)
+            _mod = _ilu.module_from_spec(_spec)
+            _spec.loader.exec_module(_mod)
+            R48.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -51,6 +59,7 @@ except Exception as _e:  # 数据缺失不应阻断主生成
     print('WARN: B deep-dig data not loaded:', _e)
 B_MARK = '## 附：B 档深挖（r46 · 2026-11-01）'
 A_MARK = '## 附：A 档深挖（r47 · 2026-11-01）'
+R48_MARK = '## 附：r48 抓站补录（2026-11-01）'
 
 
 def tier_letter(level):
@@ -280,6 +289,17 @@ def main():
                      '**未核实的项一律标为空白，不推测。**')
             L.append('')
             L.append(body_ad.strip('\n'))
+            L.append('')
+        body_r48 = R48.get(no)
+        if body_r48:
+            L.append('---')
+            L.append('')
+            L.append(R48_MARK)
+            L.append('')
+            L.append('> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，'
+                     '逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。')
+            L.append('')
+            L.append(body_r48.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))

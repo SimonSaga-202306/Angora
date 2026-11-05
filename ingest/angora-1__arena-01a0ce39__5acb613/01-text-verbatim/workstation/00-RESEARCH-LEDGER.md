@@ -1181,3 +1181,58 @@ CLR Networks 官网 contact 页逐字：**总部 `5/F, Hua sheng sheng hui Build
 - **对位表右列的我方规格来自仓库 `112` 目录快照（r24 索引，2026-10）**，**不是 2026-11 最新价表** → **报价前必须内部复核价与 MOQ**（已写进 `116` §四）。
 - 客户侧 **6 家只有"分类"没有"型号"**（Coptek 的 L3/PoE 分类、Koza、Lansan、HCS、Antalya Turkuaz 部分品牌、Zeytek）→ 对位只到**档位级**，未到型号级。
 
+---
+
+## §42 · 第 48 轮 — 2026-11-01 ≈22:40–23:50 (+0800)：四家客户**产品清单取证**（型号级）+ 一处**证伪自我修正**
+
+用户：「继续」。承接 r47 ROI 清单，**只做 A+B，C 零投入**。这轮不进新客户，**进客户官网把分类点到底，拿型号**。
+
+### 一、⭐ 最重要：`116` 的 bt 行被自己证伪（已改）
+
+r47 的缺口矩阵写「**802.3bt：只有 ErETE / NFS**」。r48 逐型号抓 upTech 后发现：
+
+- **`SW1082-GGSUP`** 8×GE PoE，**1–4 口 802.3bt**，300 W
+- **`SW20244-GGCUP`** 24×GE PoE，**1–4 口 bt**，500 W
+- **`SW2082-GGSUP`** 8×GE PoE，**1–4 口 bt**，300 W
+
+→ **bt 不是"0 命中"**。已把 `116` §一 第 2 行改写为「**bt 已有，但仅 1–4 口、总功率 300–500 W**」，并把话术从「我们有你没有」改成「**全口 bt / 单口 60 W / 总 800 W**」。
+**2.5G / 250–300 m 长距 / 云管理 / 40–100G 上联四行仍然是真 0 命中**（upTech 全线 + ErETE XPS 全线已确认）。
+
+### 二、`117-customer-catalog-forensics-2026-11-01.md`（新品）
+
+四家 = 四种客户类型，全部给到**型号级**：
+
+| 客户 | 类型 | 本轮拿到 |
+|---|---|---|
+| **`A/052` upTech** | 自有品牌贴牌商 | **14 款交换机全表**（非管理 PoE 5 / L2+ 7 / L3 2）+ **命名规则** + **916 SKU 分类结构** + B2B 平台 `noktaelektronik.com.tr` |
+| **`A/053` Winet** | **WISP 渠道**（定性修正） | **30 个品牌 SKU 计数** + **全站 USD 标价 / 满 $10,000 免运费 / 当日自提** + **8 个美元价** |
+| **`B/010` ErETE** | **开放网络分销商**（定性修正） | **OPEN NETWORKING 7 款全为 Edgecore**（含 `Wedge100BF-32X` Tofino、`ASXvOLT16` XGS-PON OLT）+ **NOS = OcNOS 6.6（IP Infusion）** + 骨干 5/8 为 Edgecore ECS |
+| **`B/062` Cebeci** | 电信测试 + 自有转换器牌 | **Cifocs 13 款**（转换器 6 / 工业 `CFC-4G2SFP-IPS` / 光纤电话 6）+ **内部码 `OPT-###` / `RSC-###`** |
+
+### 三、两个定性修正（都推翻 r47）
+
+1. **Winet 不是"自有品牌网络设备商"** —— Brands 页原文：**Mikrotik 473 · WINET 426 · Ubiquiti 319 · Ruijie 40 · Mimosa 29 · WiPOINT 24 · VSOL 23 · GMT 23 · Mean Well 20 · RF Elements 18 · NetElastic 18 · S-Link 17 · TP-Link 16 · DeltaLink 9 · DMA-SOFT 6 · Everest 6 · Paessler 4 · RedLine 3 · Extralink 3 · Xiaomi 3 · Tenda 3 · Compex 2 · Juniper 1 · Pisces 1**。
+   → **它是 WISP / FTTx 渠道**，自有 WINET 只是 house brand。**要卖的从"24 口机架式"改成"塔上那台 DC 供电、能远程重启的 PoE"** → 我方 **`EW-EPIS3910-8GE`**（1–2 口 DIP 选 **12V/24V 被动 PoE**，正对 Mikrotik 生态）。
+   **新价格锚点**：`RG-ES08G-L`（8 口千兆非管理）**USD 19.50**、`RG-POE-AT30` **$21.00** → 与自家 `OEM-8-PORT-GB-POE`（2,916.76 ₺+KDV）并列，**PoE 溢价区间被量化**。
+2. **ErETE 是 Edgecore 分销商** —— 7 款 ONIE 设备全为 Edgecore，NOS 只有 **OcNOS 6.6** 一个 SKU（⇒ IP Infusion 是其唯一 NOS 线）。
+   → ⚠ **与 Angora 自身 Edgecore 线可能正面撞车** → 已在 `117` §五 立为**内部待拍板问题**：**确认前不要给 ErETE 发任何含 Edgecore 字样的邮件**；接触方式取决于 Angora 是「Edgecore 渠道」还是「自有/ODM 白盒」。
+
+### 四、`Cifocs` 推定（仍不作定论）
+
+Cifocs 13 款全部用**自家编号体系**（`CFC-*` + 内部码 `OPT-###`/`RSC-###`），而它代理的 Argus / Micos / Greenlee-Tempo / Trend / InterCoax **全部用原厂型号**（`MIS-900`、`801K`、`NC-500`、`TM-700`、`Argus 153/260`）
+→ **推定 Cifocs 为 Cebeci 自有/独家贴牌牌**（与 upTech 的 `SW-` 体系同构）。
+⚠ **商标注册人仍未在公开面确认** → 首封必问「**Cifocs sizin tescilli markanız mı?**」，**任何客户可见文本不得写"自有商标"**。
+
+### 五、产出与规模
+
+- 新增 `08-customer-pipeline/117-customer-catalog-forensics-2026-11-01.md`。
+- 新增 `08-customer-pipeline/r48_appendix_data.py`，**`build_tr_customers_r44.py` 已接入**（r48 小节追加在 A/B 深挖之后，生成 4 份：`A/052`、`A/053`、`B/010`、`B/062`）。
+- `116` §一 修正 bt 行 + 增 r48 修正块 + 头部指向 `117`。
+- 根 `README.md` 增 `117` 链接。
+- 目录 **13,679 → 13,877 行（+198）**；文件数不变（146 客户 MD + README）。
+
+### 六、方法与诚实边界
+
+**新方法**：① **命名规则反推产品线**（`SW` + 1/2/3 + 端口 + 代号）一次覆盖 14 款；② **品牌页的 SKU 计数是渠道结构指纹**（Mikrotik 473 vs WINET 426 一眼定性）；③ **内部产品码 vs 原厂型号的对照**是判别自有牌的最强公开证据。
+**诚实边界**：ErETE 的 Edgecore 授权层级、OcNOS 授权方式、Cifocs 商标注册人、upTech 现工厂、Winet 法定名与员工数 —— **全部仍空白**，已在各档「证据等级」逐条列出。
+
