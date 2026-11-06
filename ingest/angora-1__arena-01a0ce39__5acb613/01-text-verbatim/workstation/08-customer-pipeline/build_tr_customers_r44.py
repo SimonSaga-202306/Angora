@@ -68,7 +68,8 @@ try:
     R73 = {}
     R74 = {}
     R75 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data'):
+    R76 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -129,6 +130,8 @@ try:
                 R74.update(_mod.D)
             if _m == 'r75_appendix_data':
                 R75.update(_mod.D)
+            if _m == 'r76_appendix_data':
+                R76.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -168,6 +171,7 @@ R72_MARK = '## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品�
 R73_MARK = '## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）'
 R74_MARK = '## 附：r74 供货线拆解（Koptek / Portel / CCS / TeleOne）'
 R75_MARK = '## 附：r75 白牌层与身份订正（OEM 池 / Perpa B K:8 / İzmir 路线）'
+R76_MARK = '## 附：r76 DMO 价格地图（供应商 K 码 / 型号 / 单价 / 合同）'
 
 
 def tier_letter(level):
@@ -682,6 +686,16 @@ def main():
             L.append('> 本节为 **r75（2026-11-06）**：**身份订正 + 白牌层（OEM）视角。**')
             L.append('')
             L.append(body_r75.strip('\n'))
+            L.append('')
+        body_r76 = R76.get(no)
+        if body_r76:
+            L.append('---')
+            L.append('')
+            L.append(R76_MARK)
+            L.append('')
+            L.append('> 本节为 **r76（2026-11-06）**：**它在政府渠道（DMO）卖什么、卖多少钱、合同还有效吗。**')
+            L.append('')
+            L.append(body_r76.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))

@@ -227,19 +227,18 @@ Telkolink 官网 sitemap 与 firmasec 记录合并，品牌清单：
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r72 补：**地址与人名更正 + 身份写实**
+#### r76 补：**它在 DMO 有一个活目录 —— K291**
 
 | 项 | 内容 |
 |---|---|
-| 法人 | Gelecek BT Bilgi Teknolojileri（**2004 成立**）+ Telkolink Kurumsal Bilgi Teknolojileri |
-| **地址（订正）** | **Perpa Ticaret Merkezi A Blok K:5 No:295, Okmeydanı / Şişli / İstanbul** |
-| **电话 / 邮箱（新增）** | **0212 320 4030** · `bayi@gelecekbt.com` |
-| 规模 | **5–10 人（Gelecek BT）· 8 人（Telkolink）** ⇒ 极小团队、极宽品类 |
-| 身份 | **CLR Networks（深圳）土耳其唯一授权分销商** + ONET 布线 / Telkolink / Netkablo |
-| 人名（新增） | **Ebru Akdemir（Kurumsal Satış Sorumlusu）· Sait Yıldız（Yönetici）· Bilge Birol（Satış）** + 已知 Yusuf Ölçer / Furkan Aydın |
+| **DMO 供应商码** | **K291**（目录文件标题即 **`DMO ÜRÜN KATALOĞU -K291`**） |
+| DMO 批准 | **2018-08-03，文号 55238** |
+| **进目录的 CLR 自有型号** | `CLR-SW-811P`（8×10/100 PoE + 2 GbE SFP 非受管）· `CLR-SWG-822P`（8×100M PoE + 2 Combo）· `CLR-SWG-1621P`（16 口 PoE）· `CLR-SWF-2422P`（24×100M PoE + 2 GbE）· `CLR-IES-G42P`（4×GbE + 2 SFP 工业非受管 PoE）· `CLR-IES-G82P`（8×GbE PoE + 2 SFP 工业非受管）· `CLR-IES-G802P`（8×RJ45 PoE + 2 SFP **受管**）· `CLR-IES-G824P`（14 口受管）· `CLR-IES-T884P`（**DIN 导轨 24 口 10G L2+ 骨干 PoE**）· `CLR-SWG-28`（8 SFP + 2 GbE 骨干）· `CLR-SWT-4244`（光纤骨干 L2+）· `CLR-FXS/FXO` 电话光端机 · `CLR-VTR` 模拟视频光端机 · `CLR-MCT-SFP+` 10G 转换器 · `CLR-PSE-100` PoE 注入器 |
+| **⭐ 底牌** | **同一份目录里并列出现 `TG-NET` 的 PoE 交换机**（`P3010M-8POE` 150 W、`P3018M-16POE` 300 W、`P1000` 系列、`S5500` L3 骨干）⇒ **TG-NET（中国 ODM）就是 CLR 的上游** |
+| **⭐ 另一本目录** | **`IEC61850 Ethernet switch`** —— 它已经能做电力标 |
 
-⇒ **判读**：它已经是「**独家代理**」模式 ⇒ **不要谈「替换 CLR」，只能谈「CLR 之外的第二条线」**（同 Perpa、同客户群、不同价格段）。
-⇒ **5–10 人做 7 个网站 + 全品类** = 高度依赖外部供应 ⇒ **响应速度与最小起订量比价格更能打动它。**
+⇒ **A 级第一名手里握着一个活的 DMO 目录（K291）+ 一本 IEC 61850 目录 + 一条中国 ODM 上游。**
+⇒ **话术**：「**TG-NET 那条线，我给你换一代：千兆 PoE + 802.3bt + 环网 G.8032，规格直接进你 K291 的下一版。**」
 
 ---
 
@@ -379,3 +378,22 @@ r53 拿到 `CLR-MRS-8330P` 产品页**完整技术表**，三条全部**不成�
 
 ⇒ **判读**：它已经是「**独家代理**」模式 ⇒ **不要谈「替换 CLR」，只能谈「CLR 之外的第二条线」**（同 Perpa、同客户群、不同价格段）。
 ⇒ **5–10 人做 7 个网站 + 全品类** = 高度依赖外部供应 ⇒ **响应速度与最小起订量比价格更能打动它。**
+
+---
+
+## 附：r76 DMO 价格地图（供应商 K 码 / 型号 / 单价 / 合同）
+
+> 本节为 **r76（2026-11-06）**：**它在政府渠道（DMO）卖什么、卖多少钱、合同还有效吗。**
+
+#### r76 补：**它在 DMO 有一个活目录 —— K291**
+
+| 项 | 内容 |
+|---|---|
+| **DMO 供应商码** | **K291**（目录文件标题即 **`DMO ÜRÜN KATALOĞU -K291`**） |
+| DMO 批准 | **2018-08-03，文号 55238** |
+| **进目录的 CLR 自有型号** | `CLR-SW-811P`（8×10/100 PoE + 2 GbE SFP 非受管）· `CLR-SWG-822P`（8×100M PoE + 2 Combo）· `CLR-SWG-1621P`（16 口 PoE）· `CLR-SWF-2422P`（24×100M PoE + 2 GbE）· `CLR-IES-G42P`（4×GbE + 2 SFP 工业非受管 PoE）· `CLR-IES-G82P`（8×GbE PoE + 2 SFP 工业非受管）· `CLR-IES-G802P`（8×RJ45 PoE + 2 SFP **受管**）· `CLR-IES-G824P`（14 口受管）· `CLR-IES-T884P`（**DIN 导轨 24 口 10G L2+ 骨干 PoE**）· `CLR-SWG-28`（8 SFP + 2 GbE 骨干）· `CLR-SWT-4244`（光纤骨干 L2+）· `CLR-FXS/FXO` 电话光端机 · `CLR-VTR` 模拟视频光端机 · `CLR-MCT-SFP+` 10G 转换器 · `CLR-PSE-100` PoE 注入器 |
+| **⭐ 底牌** | **同一份目录里并列出现 `TG-NET` 的 PoE 交换机**（`P3010M-8POE` 150 W、`P3018M-16POE` 300 W、`P1000` 系列、`S5500` L3 骨干）⇒ **TG-NET（中国 ODM）就是 CLR 的上游** |
+| **⭐ 另一本目录** | **`IEC61850 Ethernet switch`** —— 它已经能做电力标 |
+
+⇒ **A 级第一名手里握着一个活的 DMO 目录（K291）+ 一本 IEC 61850 目录 + 一条中国 ODM 上游。**
+⇒ **话术**：「**TG-NET 那条线，我给你换一代：千兆 PoE + 802.3bt + 环网 G.8032，规格直接进你 K291 的下一版。**」

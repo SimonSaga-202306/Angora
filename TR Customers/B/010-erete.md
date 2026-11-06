@@ -97,24 +97,22 @@ XPS 贴牌替换 + EdgeCore 渠道协同观察（同一底座 = 供应链情报�
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r75 补：**Edge-Core + EtherWan 双代理 + 台湾据点 + 自有网络学校**
+#### r76 补：**XPS 身份解开 —— 是台北 XPcable Group，不是 ONV 贴牌**
 
-| 项 | 内容 |
+**🛑 修正 r73（B/010 备注）**：被推翻的说法「**XPS（XP Active Systems，= ONV 贴牌，用户口径）**」。
+
+| 证据 | 内容 |
 |---|---|
-| 法定全称 | **ERETE BİLGİ SİS. DIŞ TİC. VE SAN. LTD. ŞTİ.** |
-| 成立 | **2001 年 12 月** · 创始人 **Pınar Kabil · Murat Soyak · Timur Yıldız** |
-| 地址 | **19 Mayıs Mah. Güven Sok. No:4/2, Şişli / İstanbul** |
-| 电话 / 邮箱 | **+90 212 212 81 03** · Faks 212 82 96 · GSM 533 778 00 84 · `erete@erete.com.tr`；GM **Murat Soyak** `murat.soyak@erete.com.tr` |
-| **据点** | **伊斯坦布尔 + 台湾**（自述「Tayvan'da ve İstanbul'da merkezleri bulunmaktadır」） |
-| 代理 | **EDGE-CORE（Accton 集团）土耳其分销商** ← 主动作 · **ETHERWAN**（加固型交换机 + 光纤转换器）· **VOSCOM**（光纤转换器代表）· **XPCABLE**（结构化布线，**EGM 认证**）· **XPS Active System** |
-| B2B 平台 | **`eretekne.com`**（= 它自己的店，**不是独立公司**） |
-| 特色 | **「Erete Network Okulu」** —— 每月固定网络培训、出认证证书（土耳其首创） |
-| 项目面 | 美国多州交通信号 · 土耳其多处 **MOBESE** 用 EtherWan hardened（−40~+70 ℃，洞穴/水下/军用野外）· 军工/机场/银行/高校 |
-| 保修话术 | XPCable：Cat5e **15 年系统性能保证**，Cat6 **终身** |
+| 产品 PDF 页脚 | **`XPcable Group · 11F, 51 HENGYANG ROAD, 100 TAIPEI, TAIWAN, R.O.C. · info@xpcable.com`** |
+| 品牌关系 | **`XPCABLE`（布线）= `XPS / XP Active Systems`（交换机）= 同一集团**，ErETE 同时代理两者 |
+| 产地口径 | 「**生产在台湾，研发在美国加州**」（ErETE/rocketreach）；XPCABLE 持 **ETL / UL / DELTA** 证书 |
+| **已确认型号** | 商用：`XPS-1220-18`（16×GbE + 2 SFP，L2+，30 W）· `XPS-1220-28P`（24×PoE + 4 SFP，**400 W**）· `XPS-1220-10P`（8×PoE + 2 SFP）<br>工业非受管：`XPS-I7100-4 / -6 / -10`<br>工业受管：`XPS-I7120-6P / 10P / 14 / 14P`（8 PoE，**240 W**，**G.8032 ERPS**）/ `24 / 24P` · `XPS-I8120-24F / 24PF`（+4×10G SFP+） |
+| **交货期** | **4–6 周**（`eretekne.com` 商品页原文） |
+| **ErETE 的护城河** | **约 200 家「Yetkili Sistem Kurucu」**（授权系统集成商） |
 
-⇒ **软肋**：**Edge-Core / EtherWan 都是台系价格**，纯价格标打不动。
-⇒ **话术**：「**EtherWan 那一档我给你同防护等级、价格低一档**」；或「**XPS 那条线我给你做 OEM**（你贴 XPS，我出货）」。
-⇒ ⚠ **`XPS Active System` 身份仍未定**（「自有」vs「ONV 贴牌」两说并存）—— 见主文 §14 空白。
+⇒ **XPS 是台湾品牌，但产品形态与大陆公模高度接近**（L2+ / G.8032 / 240 W / IP30）⇒ 它大概率也是 ODM 出来，只是品牌在台北。
+⇒ **弱点 = 交期 4–6 周 + 台系价格。**
+⇒ **话术**：「**XPS 那条线，4–6 周太久。同规格我 5–7 天出货，贴 XPS 的牌也行。**」
 
 ---
 
@@ -257,3 +255,26 @@ r48 留下的悬案「它是不是 IP Infusion 独家 / 我方会不会与它撞
 ⇒ **软肋**：**Edge-Core / EtherWan 都是台系价格**，纯价格标打不动。
 ⇒ **话术**：「**EtherWan 那一档我给你同防护等级、价格低一档**」；或「**XPS 那条线我给你做 OEM**（你贴 XPS，我出货）」。
 ⇒ ⚠ **`XPS Active System` 身份仍未定**（「自有」vs「ONV 贴牌」两说并存）—— 见主文 §14 空白。
+
+---
+
+## 附：r76 DMO 价格地图（供应商 K 码 / 型号 / 单价 / 合同）
+
+> 本节为 **r76（2026-11-06）**：**它在政府渠道（DMO）卖什么、卖多少钱、合同还有效吗。**
+
+#### r76 补：**XPS 身份解开 —— 是台北 XPcable Group，不是 ONV 贴牌**
+
+**🛑 修正 r73（B/010 备注）**：被推翻的说法「**XPS（XP Active Systems，= ONV 贴牌，用户口径）**」。
+
+| 证据 | 内容 |
+|---|---|
+| 产品 PDF 页脚 | **`XPcable Group · 11F, 51 HENGYANG ROAD, 100 TAIPEI, TAIWAN, R.O.C. · info@xpcable.com`** |
+| 品牌关系 | **`XPCABLE`（布线）= `XPS / XP Active Systems`（交换机）= 同一集团**，ErETE 同时代理两者 |
+| 产地口径 | 「**生产在台湾，研发在美国加州**」（ErETE/rocketreach）；XPCABLE 持 **ETL / UL / DELTA** 证书 |
+| **已确认型号** | 商用：`XPS-1220-18`（16×GbE + 2 SFP，L2+，30 W）· `XPS-1220-28P`（24×PoE + 4 SFP，**400 W**）· `XPS-1220-10P`（8×PoE + 2 SFP）<br>工业非受管：`XPS-I7100-4 / -6 / -10`<br>工业受管：`XPS-I7120-6P / 10P / 14 / 14P`（8 PoE，**240 W**，**G.8032 ERPS**）/ `24 / 24P` · `XPS-I8120-24F / 24PF`（+4×10G SFP+） |
+| **交货期** | **4–6 周**（`eretekne.com` 商品页原文） |
+| **ErETE 的护城河** | **约 200 家「Yetkili Sistem Kurucu」**（授权系统集成商） |
+
+⇒ **XPS 是台湾品牌，但产品形态与大陆公模高度接近**（L2+ / G.8032 / 240 W / IP30）⇒ 它大概率也是 ODM 出来，只是品牌在台北。
+⇒ **弱点 = 交期 4–6 周 + 台系价格。**
+⇒ **话术**：「**XPS 那条线，4–6 周太久。同规格我 5–7 天出货，贴 XPS 的牌也行。**」

@@ -93,56 +93,71 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r75 补：**白牌层比代理层更肥 + Perpa B K:8 一层 8 家 + İzmir 一天路线（本轮要点）**
+#### r76 补：**DMO 价格地图打通 + 土耳其本土交换机厂 + XPS 身份解开（本轮要点）**
 
-> 用户第 28 次「继续」。完整版见 `144-oem-white-label-layer-and-perpa-floor-8-route-2026-11-06.md`。
+> 用户第 29 次「继续」。完整版见 `145-dmo-price-map-and-turkish-switch-maker-2026-11-06.md`。
 
-**① 两家品牌标签是错的（必须先改，否则话术打错人）**
+**① ⭐⭐⭐ DMO 反查方法成立：`供应商 K 码 → 品牌 → 单价 → 合同起止`**
 
-| 被推翻的说法 | 真相 |
-|---|---|
-| 「**Ekosinerji = 土本地工业交换机品牌**」 | **EKOS Teknoloji ve Elektrik A.Ş.**（原 Ekosinerji，BİST：**EKOS**）—— **中压开关柜 / GIS / RMU / 箱变 / 变电站自动化 / NTP-PTP 时间服务器**；2000 成立；Balıkesir OSB + Gebze Güney Yanyol Cd. No:78 + İstinye；101–250 人；$7.6–7.8M；董事长 **Tarık Akbaş**；**土耳其 GIS 第一家也是最大一家** ⇒ **它是「ODM 客户」（要 IEC 61850-3 交换机 + PTP），不是竞品** |
-| 「**Tipro = 土本地品牌**」 | **Tipro d.o.o.（斯洛文尼亚 / 卢布尔雅那）** —— 模块化工业键盘 + 触摸终端（BeFREE 20/22）；**土耳其代理 = GSL，2018 起**；**不做以太网交换机** |
+| 客户 | DMO K 码 | 状态 | 已抓到的在售 |
+|---|---|---|---|
+| **TeleOne** | **K2887** | **僵尸（2021-09-09 → 2023-09-09，无法供货）** | BRICKCOM 交换机 14,645.16 ₺（≈$293）/ NVR 39,501 ₺ / 相机 10,534.01 ₺ / LANDE 机柜 5,088.39 ₺ |
+| **Telkolink / GelecekBT** | **K291** | **活目录（2018-08-03 批准，文号 55238）** | **CLR 全线 15+ 型号**（`CLR-IES-G42P/G82P/G802P/G824P`、`CLR-IES-T884P` 24 口 10G 骨干 PoE、`CLR-SWG-28` 8 SFP 骨干…）+ **TG-NET 并列**（CLR 的中国 ODM 上游）+ **IEC61850 目录** |
+| **Han Elektronik（FOREDGE）** | 多家（含 **K4702 FS Grup**） | **活，10 个型号** | 见下 |
+| **FS Grup Bilişim** | **K4702** | 活，44 产品 | FOREDGE 全系 + MILESIGHT + AXXON |
 
-**② ⭐⭐⭐ 真正难打的对手：GSL Mühendislik**
+**② ⭐⭐⭐ 价格伞硬数：8 口工业千兆 PoE 在 DMO 卖 $898–1,155**
+
+| 型号 | 规格 | ₺ | ≈USD |
+|---|---|---|---|
+| **FOREDGE `IS108GPS-2F`** | **工业 8×GbE + 2 GbE SFP，240 W** | **44,928.91 – 57,784.04** | **$898–1,155** |
+| FOREDGE `IS104GPS-2F` | 工业 4×GbE + 2 SFP，120 W | 34,944.71 – 44,943.14 | $699–898 |
+| FOREDGE `S5700-24GP-4TFR` | 24×GbE PoE 360 W + 4×10G | 62,401.27 – 80,255.62 | $1,248–1,604 |
+| FOREDGE `AI1016GC` | 16×GbE + 2 SFP，250 W 云管理 | 43,554.16 – 48,153.37 | $871–963 |
+| **PLANET `IGS-801T`** | 8 口工业**非** PoE | **8,346.59** | **≈$167** |
+| D-LINK `DGS-3000-52X` | 48 口 L2+ | 35,179.47（KDV20%） | ≈$703 |
+| HPE `JG932A`（5130 24G） | 24 口 | 19,993.19（KDV18%） | ≈$400 |
+
+⇒ **同一型号不同供应商价差最高 28.6%（`AI8024` 甚至 126%）—— 这是渠道差，不是成本差。**
+⇒ **DMO 的「工业 8 口」价格带 $167 → $1,155，我们的位置在中间，空间极大。**
+
+**③ ⭐⭐⭐ 土耳其有自己的交换机厂：Angora Networks**
 
 | 项 | 内容 |
 |---|---|
-| 全称 / 成立 | **GSL Mühendislik Sanayi ve Ticaret A.Ş.** · **1988 年 5 月，安卡拉**（38 年） |
-| 地址 / 电话 | **İlkbahar Mah. 612. Cadde No:9, Çankaya / Ankara 06550** · **0312 473 3540**（Faks 3544）· `info@gsl.com.tr` |
-| 办公室 / 人数 | 安卡拉 + 伊斯坦布尔 · **25–49 人** |
-| 代理 | **Moxa（2003 年起，21 年+）** · **Kyland** · Robustel · Digi · **Tipro（2018 起）** · Pro Optix · RuggON · Transcend · TXOne · 历史含 EKOS |
-| 线上规模 | `store.gsl.com.tr`：工业以太网 **311 SKU / 受管 119**；MOXA 363 · Kyland 27 |
-| 技术动作 | **自己做 FAT**（Kyland 交换机在安卡拉办公室完成 FAT）· 办认证工业网络培训 |
-| 价格伞 | Moxa `EDS-208-M-SC` RS Türkiye **13,988.58 TL 未税**（≈$280）· `EDS-208A-T` 美国挂牌 **$278.58** · `EDS-208A-MM-ST` RS Türkiye **26,091 TL 未税**（≈$521）⇒ **土耳其对「8 口工业非受管」的心理价位 $280–520** |
+| 法定全称 | **ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ** |
+| 成立 | **2016-11-28**（NACE 620902） |
+| 销售 / 制造 | **Nergiz Sok. No:7 K:3 Via Flat / Plaza Cubes, Söğütözü / Ankara** · **Çamlıca Mah. Anadolu Blv. Timko Sk. Z Blok No:20/1, Yenimahalle / Ankara 06200** |
+| 电话 / 邮箱 | **+90 312 241 77 47** · `sales@angoranetworks.com` |
+| 人数 | **10–50** |
+| 口号 | **「Yerli Akıl, Küresel Teknoloji」** |
+| 产品 | **VERGE 交换机家族**（8/24/32/48×GbE + 4×10G，受管）· SFP · 瘦客户机 · **数据二极管「Arrow」（支持 ModBUS / OPC）** · WiFi/VoIP · PacketFence NAC |
 
-⇒ **它是正规军，护城河是「Moxa+Kyland 双线 + 工程服务」，不是价格。**
-⇒ **唯一可行切口**：「**Moxa 的标你继续报 Moxa；报不下来的标，用我的线兜底** —— 不冲突、不抢你代理权。」
+⇒ **三种可能都成立**：① **对手**（「本土制造商」在 DMO 评级里是加分项）；② **OEM 客户**（10–50 人不可能自建 SMT 线，VERGE 大概率台/陆 ODM 贴牌）；③ **合作者**（数据二极管方案需要配套工业交换）。
+⇒ **第一句话**：「**VERGE 现在在哪家工厂做？8 口工业那一段我给你补上，贴 VERGE 的牌。**」
 
-**③ ⭐⭐⭐ 白牌层：9 家自有品牌 = 9 个 OEM 客户**
+**④ ⭐⭐ 两条身份订正**
+- **`XPS Active Systems` = XPcable Group（台北 11F, 51 HENGYANG ROAD, 100 TAIPEI）**，与 XPCABLE 布线同一集团 ⇒ **不是 ONV 贴牌**（推翻 r73）；型号 `XPS-1220-18/28P/10P`、`XPS-I7100-4/6/10`、`XPS-I7120-6P/10P/14/14P/24/24P`、`XPS-I8120-24F/24PF`；**交期 4–6 周**；ErETE 有 **~200 家授权系统集成商**。
+- **BDCOM 在土耳其是「独家」**：`bdcom.com.tr` 原文「Öncü Güvenlik, BDCOM'un Türkiye'deki **exclusive** distribütörüdür」，22 个型号 ⇒ **$399 是独家代理价，不是市场价。**
 
-| 公司 | 自有品牌 | 关键事实 |
-|---|---|---|
-| **Asya Telekomünikasyon / ISEE** ⭐新 | **ISEE** | **1995-12-27**；**Perpa B Blok K:7-8-9 No:908**（和我们客户同一层）；0850 433 27 92；11–50 人；**132 批进口 / 5 家供应商**；`ISS-2006P` 4 口 PoE 78 W / `ISS-1026P` 24 口 400 W / `ISS-1040` 28×SFP+4×10G；决策人 **Baysal Günel · Serkan Ur · Harun Baştürk** ⇒ **全表最像 OEM 客户的一家**（ISS 只有 3 个型号，无工业线/无 2.5G/无 bt） |
-| **HAN Elektronik A.Ş.**（原名误记 Hane） | **FOREDGE · VIDEOPARK · SPY 家族 · AVer 系列 · M-Sight** | **2000**；Küçükçekmece；444 1 426；51–200 人；**Milesight 土耳其唯一授权 + 其土耳其办事处**（2023 最有价值伙伴）；**UNIWIZ 唯一**；Panasonic 消防；AXXON；**Ruijie + Reyee** ⇒ **已有两层中国供应链，要的是「换掉现在那个深圳工厂」** |
-| **Lansan Teknoloji A.Ş.** | **LNS-** | **2019-12-04**；**Perpa B No:989**；8 口 PoE 标价 **$1,000** / 24 口 **$1,427** ⇒ **价格伞证据 + 最易打穿** |
-| Nokta Elektronik | **upTech** | **upTech = 自有牌（非中系）**；在售 13 品牌含 Edge-Core/Planet/Oring/Ruijie |
-| Öncü Güvenlik | **Sec-on** | 同时代理 **BDCOM**（`IES200-V25-4S2T8P` 等）⇒ **BDCOM $399 锚价是本地可比** |
-| Karer · Snexus · Cenova · Novacom | KR-* / SN- / SWP / NVC- | 已在 r72–r73 建档 |
+**⑤ ⭐ Sec-on `SC-E208-4FH` = 我们的靶型**
+**8×GbE PoE + 4×GbE SFP · L2+ 受管 · 240 W · −40~+75 ℃（电源除外）**；第二渠道在卖的是 **ASR Teknoloji A.Ş.**。
+⇒ 差异点：**它「电源除外」，我方整机 −40~75 ℃。**
 
-**④ ⭐⭐ Perpa B K:8 一条走廊 = 8 家（其中 4 家是客户）**
-**B 836** CCTV Depo · **B 902-904** Cenova · **B 906-907** Nokta · **B 908** Asya Telekom/ISEE ⭐ · **B 989** Lansan ⭐ · **B 1105** Perpa Otomasyon/Sanpa · **B 1246** Perpa Kameram · **B 1276** ALM Elektronik
-⇒ 电梯上 **A K:5（295 GelecekBT、419 Güvenlik Toptancım）→ A K:8（841 Nokta 二号店、808-810/940 Koza）**。**半天 8 家，4 家有档案。**
+**⑥ ⭐ 路线补站**
+- **İzmir 路线 B 加一站**：**BİMEL**（İzmir 分部 **0232 489 0755**；İstanbul 0212 347 7540）。
+- **新路线 C · 安卡拉一天**：**Angora Networks（Söğütözü 销售 + Yenimahalle 工厂）+ GSL（İlkbahar Mah. 612. Cd. No:9）+ FS Grup（Cevizlidere 1243. Sk. No:6/4）**，三站互距 15 分钟。
 
-**⑤ ⭐⭐ İzmir 一天路线**
-**Folkart Towers（CCS 总部）→ Halkapınar 1442 Sk. Tesisat İş Merkezi（CCS 注册地/仓库）→ 1443 Sk. Gıda Çarşısı（整片电气电子批发）→ Mithatpaşa No:146（TeleOne）**，四站互距 1.5–5 km。
+**⑦ ⭐⭐ OEM 客户池正式成表：11 家**
+**Angora Networks（VERGE）· Asya/ISEE · HAN（FOREDGE/VIDEOPARK/SPY/AVer/M-Sight）· Telkolink（CLR，上游 TG-NET）· Nokta（upTech）· Öncü（Sec-on）· Lansan（LNS-）· Karer（KR-*）· Snexus（SN-）· Cenova（SWP/DL）· Novacom（NVC-）**
+⇒ **11 家里 10 家「有牌没厂」，只有 Angora 声称有厂（且只有 10–50 人）。**
 
-**⑥ 两条工商级修正**
-- **CCS**：法定 İşyeri Adresi = **Halkapınar 1442 Sk. Tesisat İş Merkezi No:1/L**（旧 1443 Sk. No:3/A）；另 **Manisa** 点；规模第三源 zoominfo **283 人 / $10–25M**；「İzmir 最大」是**自称**。
-- **TeleOne**：**VKN 8370410675 · 法人成立 2003-10-06（1999 是品牌史）· 代理 Brickcom/Nuoo/Digital Watchdog · 2014 起进 DMO、自述前三**。
+**⑧ GSL 目录进度：56/311**
+家族结构已明：**Moxa** `EDS-205/208/208A/308/316/2005-ELP/2008-ELP/P206A-4PoE` + `EOM-104` 模块；**Kyland** `Opal5/Opal5L/Opal5-E`、`Opal8/Opal8L/Opal8-E-2S6T`、`SICOM3000A-8T/16T/2SFP8T/2GX8GE/2GX8T`、`SICOM3000A-LITE-2S6T-SC40/ST40`、`SICOM3000S-4GX8P`（IEEE1588）、`SICOM3307S-3G7P`、`KIEN1009-3M6T-SC05`、`KIEN7009-2S6T-SDSC40`；**SFP** `SFP-1GSXLC/1GLXLC-T/1GLSXLC/1FESLC-T/1FEMLC-T`。
+⇒ **Kyland 的 Opal 系列（5/8 口非受管）是它最便宜的一层，也是我们最容易打穿的一层。**
 
-**证据等级**：`gsl.com.tr` / `store.gsl.com.tr` / `ekosinerji.com` / `erete.com.tr` / `hanelektronik.com` / `asyatelekom.net` / `isee.com.tr` / `perpa.com.tr` / `lansan.com.tr` / `teleone.com.tr` / `vknsorgula.net` / `rsdelivers.com` 逐字。
-**空白**：**Asya Telekom 的 5 家供应商未取到** · `XPS Active System` 身份未定 · EKOS 的 IEC 61850-3 交换机来源未取到 · `Lansan` 真 VKN/MERSİS 未取到（公开页是假号）· FOREDGE 代工厂未定 · **所有电话仍未试拨** · **DMO K 码仍未反查（TeleOne 最值得查）**。
+**证据等级**：DMO 产品页 + `docplayer` 的 K291 目录全文 + `fsgrup.com.tr` + `angoranetworks.com` + `erete/xp-networks` PDF + `bdcom.com.tr` + `oncuguvenlik/asrteknoloji` + `store.gsl.com.tr` + `bimel.com.tr`，均逐字。
+**空白**：GSL 只剩 **255/311 未抓** · FOREDGE 的完整供应商名单 · **TeleOne 是否已续签新 K 码** · **Angora 的工厂是组装还是贴牌** · **Angora 的 DMO K 码未查** · CLR↔TG-NET 贴牌关系 · **所有电话仍未试拨**。
 
 ---
 
@@ -945,3 +960,75 @@ DMO 里 RUBISEC（供应商 **BİRKİL SAVUNMA**）的 8 口 PoE 卖：
 
 **证据等级**：`gsl.com.tr` / `store.gsl.com.tr` / `ekosinerji.com` / `erete.com.tr` / `hanelektronik.com` / `asyatelekom.net` / `isee.com.tr` / `perpa.com.tr` / `lansan.com.tr` / `teleone.com.tr` / `vknsorgula.net` / `rsdelivers.com` 逐字。
 **空白**：**Asya Telekom 的 5 家供应商未取到** · `XPS Active System` 身份未定 · EKOS 的 IEC 61850-3 交换机来源未取到 · `Lansan` 真 VKN/MERSİS 未取到（公开页是假号）· FOREDGE 代工厂未定 · **所有电话仍未试拨** · **DMO K 码仍未反查（TeleOne 最值得查）**。
+
+---
+
+## 附：r76 DMO 价格地图（供应商 K 码 / 型号 / 单价 / 合同）
+
+> 本节为 **r76（2026-11-06）**：**它在政府渠道（DMO）卖什么、卖多少钱、合同还有效吗。**
+
+#### r76 补：**DMO 价格地图打通 + 土耳其本土交换机厂 + XPS 身份解开（本轮要点）**
+
+> 用户第 29 次「继续」。完整版见 `145-dmo-price-map-and-turkish-switch-maker-2026-11-06.md`。
+
+**① ⭐⭐⭐ DMO 反查方法成立：`供应商 K 码 → 品牌 → 单价 → 合同起止`**
+
+| 客户 | DMO K 码 | 状态 | 已抓到的在售 |
+|---|---|---|---|
+| **TeleOne** | **K2887** | **僵尸（2021-09-09 → 2023-09-09，无法供货）** | BRICKCOM 交换机 14,645.16 ₺（≈$293）/ NVR 39,501 ₺ / 相机 10,534.01 ₺ / LANDE 机柜 5,088.39 ₺ |
+| **Telkolink / GelecekBT** | **K291** | **活目录（2018-08-03 批准，文号 55238）** | **CLR 全线 15+ 型号**（`CLR-IES-G42P/G82P/G802P/G824P`、`CLR-IES-T884P` 24 口 10G 骨干 PoE、`CLR-SWG-28` 8 SFP 骨干…）+ **TG-NET 并列**（CLR 的中国 ODM 上游）+ **IEC61850 目录** |
+| **Han Elektronik（FOREDGE）** | 多家（含 **K4702 FS Grup**） | **活，10 个型号** | 见下 |
+| **FS Grup Bilişim** | **K4702** | 活，44 产品 | FOREDGE 全系 + MILESIGHT + AXXON |
+
+**② ⭐⭐⭐ 价格伞硬数：8 口工业千兆 PoE 在 DMO 卖 $898–1,155**
+
+| 型号 | 规格 | ₺ | ≈USD |
+|---|---|---|---|
+| **FOREDGE `IS108GPS-2F`** | **工业 8×GbE + 2 GbE SFP，240 W** | **44,928.91 – 57,784.04** | **$898–1,155** |
+| FOREDGE `IS104GPS-2F` | 工业 4×GbE + 2 SFP，120 W | 34,944.71 – 44,943.14 | $699–898 |
+| FOREDGE `S5700-24GP-4TFR` | 24×GbE PoE 360 W + 4×10G | 62,401.27 – 80,255.62 | $1,248–1,604 |
+| FOREDGE `AI1016GC` | 16×GbE + 2 SFP，250 W 云管理 | 43,554.16 – 48,153.37 | $871–963 |
+| **PLANET `IGS-801T`** | 8 口工业**非** PoE | **8,346.59** | **≈$167** |
+| D-LINK `DGS-3000-52X` | 48 口 L2+ | 35,179.47（KDV20%） | ≈$703 |
+| HPE `JG932A`（5130 24G） | 24 口 | 19,993.19（KDV18%） | ≈$400 |
+
+⇒ **同一型号不同供应商价差最高 28.6%（`AI8024` 甚至 126%）—— 这是渠道差，不是成本差。**
+⇒ **DMO 的「工业 8 口」价格带 $167 → $1,155，我们的位置在中间，空间极大。**
+
+**③ ⭐⭐⭐ 土耳其有自己的交换机厂：Angora Networks**
+
+| 项 | 内容 |
+|---|---|
+| 法定全称 | **ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ** |
+| 成立 | **2016-11-28**（NACE 620902） |
+| 销售 / 制造 | **Nergiz Sok. No:7 K:3 Via Flat / Plaza Cubes, Söğütözü / Ankara** · **Çamlıca Mah. Anadolu Blv. Timko Sk. Z Blok No:20/1, Yenimahalle / Ankara 06200** |
+| 电话 / 邮箱 | **+90 312 241 77 47** · `sales@angoranetworks.com` |
+| 人数 | **10–50** |
+| 口号 | **「Yerli Akıl, Küresel Teknoloji」** |
+| 产品 | **VERGE 交换机家族**（8/24/32/48×GbE + 4×10G，受管）· SFP · 瘦客户机 · **数据二极管「Arrow」（支持 ModBUS / OPC）** · WiFi/VoIP · PacketFence NAC |
+
+⇒ **三种可能都成立**：① **对手**（「本土制造商」在 DMO 评级里是加分项）；② **OEM 客户**（10–50 人不可能自建 SMT 线，VERGE 大概率台/陆 ODM 贴牌）；③ **合作者**（数据二极管方案需要配套工业交换）。
+⇒ **第一句话**：「**VERGE 现在在哪家工厂做？8 口工业那一段我给你补上，贴 VERGE 的牌。**」
+
+**④ ⭐⭐ 两条身份订正**
+- **`XPS Active Systems` = XPcable Group（台北 11F, 51 HENGYANG ROAD, 100 TAIPEI）**，与 XPCABLE 布线同一集团 ⇒ **不是 ONV 贴牌**（推翻 r73）；型号 `XPS-1220-18/28P/10P`、`XPS-I7100-4/6/10`、`XPS-I7120-6P/10P/14/14P/24/24P`、`XPS-I8120-24F/24PF`；**交期 4–6 周**；ErETE 有 **~200 家授权系统集成商**。
+- **BDCOM 在土耳其是「独家」**：`bdcom.com.tr` 原文「Öncü Güvenlik, BDCOM'un Türkiye'deki **exclusive** distribütörüdür」，22 个型号 ⇒ **$399 是独家代理价，不是市场价。**
+
+**⑤ ⭐ Sec-on `SC-E208-4FH` = 我们的靶型**
+**8×GbE PoE + 4×GbE SFP · L2+ 受管 · 240 W · −40~+75 ℃（电源除外）**；第二渠道在卖的是 **ASR Teknoloji A.Ş.**。
+⇒ 差异点：**它「电源除外」，我方整机 −40~75 ℃。**
+
+**⑥ ⭐ 路线补站**
+- **İzmir 路线 B 加一站**：**BİMEL**（İzmir 分部 **0232 489 0755**；İstanbul 0212 347 7540）。
+- **新路线 C · 安卡拉一天**：**Angora Networks（Söğütözü 销售 + Yenimahalle 工厂）+ GSL（İlkbahar Mah. 612. Cd. No:9）+ FS Grup（Cevizlidere 1243. Sk. No:6/4）**，三站互距 15 分钟。
+
+**⑦ ⭐⭐ OEM 客户池正式成表：11 家**
+**Angora Networks（VERGE）· Asya/ISEE · HAN（FOREDGE/VIDEOPARK/SPY/AVer/M-Sight）· Telkolink（CLR，上游 TG-NET）· Nokta（upTech）· Öncü（Sec-on）· Lansan（LNS-）· Karer（KR-*）· Snexus（SN-）· Cenova（SWP/DL）· Novacom（NVC-）**
+⇒ **11 家里 10 家「有牌没厂」，只有 Angora 声称有厂（且只有 10–50 人）。**
+
+**⑧ GSL 目录进度：56/311**
+家族结构已明：**Moxa** `EDS-205/208/208A/308/316/2005-ELP/2008-ELP/P206A-4PoE` + `EOM-104` 模块；**Kyland** `Opal5/Opal5L/Opal5-E`、`Opal8/Opal8L/Opal8-E-2S6T`、`SICOM3000A-8T/16T/2SFP8T/2GX8GE/2GX8T`、`SICOM3000A-LITE-2S6T-SC40/ST40`、`SICOM3000S-4GX8P`（IEEE1588）、`SICOM3307S-3G7P`、`KIEN1009-3M6T-SC05`、`KIEN7009-2S6T-SDSC40`；**SFP** `SFP-1GSXLC/1GLXLC-T/1GLSXLC/1FESLC-T/1FEMLC-T`。
+⇒ **Kyland 的 Opal 系列（5/8 口非受管）是它最便宜的一层，也是我们最容易打穿的一层。**
+
+**证据等级**：DMO 产品页 + `docplayer` 的 K291 目录全文 + `fsgrup.com.tr` + `angoranetworks.com` + `erete/xp-networks` PDF + `bdcom.com.tr` + `oncuguvenlik/asrteknoloji` + `store.gsl.com.tr` + `bimel.com.tr`，均逐字。
+**空白**：GSL 只剩 **255/311 未抓** · FOREDGE 的完整供应商名单 · **TeleOne 是否已续签新 K 码** · **Angora 的工厂是组装还是贴牌** · **Angora 的 DMO K 码未查** · CLR↔TG-NET 贴牌关系 · **所有电话仍未试拨**。
