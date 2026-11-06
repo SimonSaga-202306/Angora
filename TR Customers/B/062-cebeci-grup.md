@@ -93,71 +93,46 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r76 补：**DMO 价格地图打通 + 土耳其本土交换机厂 + XPS 身份解开（本轮要点）**
+#### r77 总览：**方法修正一轮，价格地图才第一次可信**
 
-> 用户第 29 次「继续」。完整版见 `145-dmo-price-map-and-turkish-switch-maker-2026-11-06.md`。
+**① 🛑 DMO 聚合页会串价 —— 这是本轮最大的方法收获**
+`RUBISEC RS-ES-300-28GPX`：**38,973.49 / 31,784.73 / 334,604.66 ₺**（8.6 倍差）· `FOREDGE AI8024`：**21,401.50 / 25,681.80 / 58,072.20 ₺** · **`PLANET GS-4210-24P4C` 与 `FOREDGE AI8024` 同挂 25,681.80 ₺**。
+⇒ **只信详情页**；聚合页只找型号。
 
-**① ⭐⭐⭐ DMO 反查方法成立：`供应商 K 码 → 品牌 → 单价 → 合同起止`**
+**② ⭐⭐⭐ FOREDGE 的 DMO 主体 = FS Grup Bilişim（K4702），合同 2024-10-21 → 2026-10-21，有效**
+**一个 K 码覆盖 FOREDGE + MILESIGHT + AXXON 共 44 个产品** ⇒ **纯目录商，无工厂，替换上游成本≈0** ⇒ **最易撬开**。
+**已核实**：`AI8024` **21,401.50 ₺**（产品码 119852）· 联系 **0555 685 6157** · 总机 **0312 473 32 00**。
 
-| 客户 | DMO K 码 | 状态 | 已抓到的在售 |
-|---|---|---|---|
-| **TeleOne** | **K2887** | **僵尸（2021-09-09 → 2023-09-09，无法供货）** | BRICKCOM 交换机 14,645.16 ₺（≈$293）/ NVR 39,501 ₺ / 相机 10,534.01 ₺ / LANDE 机柜 5,088.39 ₺ |
-| **Telkolink / GelecekBT** | **K291** | **活目录（2018-08-03 批准，文号 55238）** | **CLR 全线 15+ 型号**（`CLR-IES-G42P/G82P/G802P/G824P`、`CLR-IES-T884P` 24 口 10G 骨干 PoE、`CLR-SWG-28` 8 SFP 骨干…）+ **TG-NET 并列**（CLR 的中国 ODM 上游）+ **IEC61850 目录** |
-| **Han Elektronik（FOREDGE）** | 多家（含 **K4702 FS Grup**） | **活，10 个型号** | 见下 |
-| **FS Grup Bilişim** | **K4702** | 活，44 产品 | FOREDGE 全系 + MILESIGHT + AXXON |
+**③ ⭐⭐ RUBISEC 的完整价格阶梯（三个价，最高差 24%）**
+`RS-ES-300-28GPX`（24×GbE PoE+ + 4×1/10G SFP+）：**经销 USD $969 / 零售 42,000 ₺≈$840 / DMO 38,973.49 ₺≈$779**
+`RS-ES-100-10GP` **$279** · `RS-ES-100-28GP` **$559** · `RS-ES-200-28GS` **$829** · `RS-ES-400-28GSX` **$1,380** · `RS-ES-400-28GTSX` **$12,000** ⚠ · `RS-ES-350-28GPX` **$3,700** · `RS-ES-350-54GPX` **$6,600**
+⇒ **渠道 = Birkil Savunma**（`birkilsavunma.com`，**用 USD 报价的军工/安防渠道**，新线索）。
 
-**② ⭐⭐⭐ 价格伞硬数：8 口工业千兆 PoE 在 DMO 卖 $898–1,155**
+**④ ⭐⭐ DMO 工业 8 口可信价带：$167（PLANET 非 PoE）→ $380（Dahua 120 W）→ $2,315（Cisco IE-3300）**
+⇒ **r76 的单一 $898–1,155 作废。**
 
-| 型号 | 规格 | ₺ | ≈USD |
-|---|---|---|---|
-| **FOREDGE `IS108GPS-2F`** | **工业 8×GbE + 2 GbE SFP，240 W** | **44,928.91 – 57,784.04** | **$898–1,155** |
-| FOREDGE `IS104GPS-2F` | 工业 4×GbE + 2 SFP，120 W | 34,944.71 – 44,943.14 | $699–898 |
-| FOREDGE `S5700-24GP-4TFR` | 24×GbE PoE 360 W + 4×10G | 62,401.27 – 80,255.62 | $1,248–1,604 |
-| FOREDGE `AI1016GC` | 16×GbE + 2 SFP，250 W 云管理 | 43,554.16 – 48,153.37 | $871–963 |
-| **PLANET `IGS-801T`** | 8 口工业**非** PoE | **8,346.59** | **≈$167** |
-| D-LINK `DGS-3000-52X` | 48 口 L2+ | 35,179.47（KDV20%） | ≈$703 |
-| HPE `JG932A`（5130 24G） | 24 口 | 19,993.19（KDV18%） | ≈$400 |
+**⑤ ⭐ GSL 311 的真实构成**
+**受管 119 + 非受管 112 + 其余约 80（SFP 模块 / 光配 / 机架件 `RK-4U` / 转接头 `ADP-SCm-STf-*` / Smart / POE 子类）**
+⇒ **真正在卖的交换机 = 231 款**，「311」不能当竞争规模用。**但 SFP + 配件是它的黏客层 —— 我方的 SFP 若价格对，可直接插进去。**
 
-⇒ **同一型号不同供应商价差最高 28.6%（`AI8024` 甚至 126%）—— 这是渠道差，不是成本差。**
-⇒ **DMO 的「工业 8 口」价格带 $167 → $1,155，我们的位置在中间，空间极大。**
+**⑥ ⭐ Angora Networks 不在 DMO（`VERGE` / 公司名 零命中）**
+⇒ 走**直销 + 集成商 + 项目标**，不进政府目录。
+⇒ **话术**：「**你不进 DMO，是因为你没有一条能撑住目录价的产线。**」/「**我帮你把 8 口工业段做成你能报 DMO 的成本结构 —— 进不进你自己选。**」
+⚠ 也可能以**关联主体名**在册，**未穷举**。
 
-**③ ⭐⭐⭐ 土耳其有自己的交换机厂：Angora Networks**
+**⑦ ⭐ DMO 供应商 K 码名录（14 家，累积）**
+**K291** Telkolink(CLR) · **K2757** ASIR · **K2831/K4141** OMSİS(MILESIGHT，**K4141 已到期**) · **K2887** TeleOne(**僵尸**) · **K3193/K4329** İNFOGEN(D-Link) · **K3922** ALE 渠道 · **K4051/K5041** VOLGA(IDIS) · **K4385** RİVO(GWSECU) · **K4427** 4S BİLİŞİM(Cisco) · **K4702** FS GRUP(FOREDGE+MILESIGHT+AXXON) · **K4716** NETCOM(Huawei) · **K4969** AKTİF GRUP(DAHUA) · **K6285** PİNET(i-PRO)
+⇒ **这张表就是土耳其政府渠道的分销商名录，每一行都是「有 K 码、没工厂」的潜在客户。**
 
-| 项 | 内容 |
-|---|---|
-| 法定全称 | **ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ** |
-| 成立 | **2016-11-28**（NACE 620902） |
-| 销售 / 制造 | **Nergiz Sok. No:7 K:3 Via Flat / Plaza Cubes, Söğütözü / Ankara** · **Çamlıca Mah. Anadolu Blv. Timko Sk. Z Blok No:20/1, Yenimahalle / Ankara 06200** |
-| 电话 / 邮箱 | **+90 312 241 77 47** · `sales@angoranetworks.com` |
-| 人数 | **10–50** |
-| 口号 | **「Yerli Akıl, Küresel Teknoloji」** |
-| 产品 | **VERGE 交换机家族**（8/24/32/48×GbE + 4×10G，受管）· SFP · 瘦客户机 · **数据二极管「Arrow」（支持 ModBUS / OPC）** · WiFi/VoIP · PacketFence NAC |
+**⑧ ⭐ Cenova 的三个交换机牌**：`Cenova CN-` + **`Dayzip DZ-`**（`DZ-PS204D` / `DZ-PS208G` / `DZ-PS308G` / `DZ-GS108` / `DZ-GS116` / `DZ-POE103S` / `DZ-GPS424`）+ **`DL-`**（`DL-3308P` / `DL-3316PF`）⇒ **`Dayzip` 无工厂痕迹 ⇒ 极可能是深圳厂 ODM 牌，这是 A 级客户的入场券。**
 
-⇒ **三种可能都成立**：① **对手**（「本土制造商」在 DMO 评级里是加分项）；② **OEM 客户**（10–50 人不可能自建 SMT 线，VERGE 大概率台/陆 ODM 贴牌）；③ **合作者**（数据二极管方案需要配套工业交换）。
-⇒ **第一句话**：「**VERGE 现在在哪家工厂做？8 口工业那一段我给你补上，贴 VERGE 的牌。**」
+**⑨ OEM 客户「现有上游」排表：11 家里只有 2 家可点名**
+**Telkolink → TG-NET**（强）· **Han/FOREDGE → 深圳未定名工厂**（中）· 其余 9 家（Asya/ISEE、Nokta、Öncü、Cenova、Angora、Lansan、Karer、Snexus、Novacom）**上游空白**。
+⇒ **这是下一轮最值得花钱的地方。**
 
-**④ ⭐⭐ 两条身份订正**
-- **`XPS Active Systems` = XPcable Group（台北 11F, 51 HENGYANG ROAD, 100 TAIPEI）**，与 XPCABLE 布线同一集团 ⇒ **不是 ONV 贴牌**（推翻 r73）；型号 `XPS-1220-18/28P/10P`、`XPS-I7100-4/6/10`、`XPS-I7120-6P/10P/14/14P/24/24P`、`XPS-I8120-24F/24PF`；**交期 4–6 周**；ErETE 有 **~200 家授权系统集成商**。
-- **BDCOM 在土耳其是「独家」**：`bdcom.com.tr` 原文「Öncü Güvenlik, BDCOM'un Türkiye'deki **exclusive** distribütörüdür」，22 个型号 ⇒ **$399 是独家代理价，不是市场价。**
+**证据等级**：`dmo.gov.tr/Katalog/Urun/Detay/4634552_1207375`（FOREDGE AI8024）· `/5319885_597202`（DAHUA）· `/4634552_1152797` `/3471046_1095054` `/1244978_1004187`（MILESIGHT 三码）· `/4152754_108333`（RİVO K4385）· `/5395837_1186780` `/3289133_1113209`（VOLGA）· `/6792399_1274994`（PİNET）· `/5319885_1207612`（AKTİF GRUP）· `dmo.tr/rapor/UrunDetay/4324321_1232439`（CISCO）· `dmo.gov.tr/EMagaza/Magaza/Standart/1187182` · `birkilsavunma.com/tr/rubisec/` · `tybilgisayar.com` · `store.gsl.com.tr/kategori/managed|unmanaged` · `cenova.com.tr/urunler/switchler` —— 均逐字。
 
-**⑤ ⭐ Sec-on `SC-E208-4FH` = 我们的靶型**
-**8×GbE PoE + 4×GbE SFP · L2+ 受管 · 240 W · −40~+75 ℃（电源除外）**；第二渠道在卖的是 **ASR Teknoloji A.Ş.**。
-⇒ 差异点：**它「电源除外」，我方整机 −40~75 ℃。**
-
-**⑥ ⭐ 路线补站**
-- **İzmir 路线 B 加一站**：**BİMEL**（İzmir 分部 **0232 489 0755**；İstanbul 0212 347 7540）。
-- **新路线 C · 安卡拉一天**：**Angora Networks（Söğütözü 销售 + Yenimahalle 工厂）+ GSL（İlkbahar Mah. 612. Cd. No:9）+ FS Grup（Cevizlidere 1243. Sk. No:6/4）**，三站互距 15 分钟。
-
-**⑦ ⭐⭐ OEM 客户池正式成表：11 家**
-**Angora Networks（VERGE）· Asya/ISEE · HAN（FOREDGE/VIDEOPARK/SPY/AVer/M-Sight）· Telkolink（CLR，上游 TG-NET）· Nokta（upTech）· Öncü（Sec-on）· Lansan（LNS-）· Karer（KR-*）· Snexus（SN-）· Cenova（SWP/DL）· Novacom（NVC-）**
-⇒ **11 家里 10 家「有牌没厂」，只有 Angora 声称有厂（且只有 10–50 人）。**
-
-**⑧ GSL 目录进度：56/311**
-家族结构已明：**Moxa** `EDS-205/208/208A/308/316/2005-ELP/2008-ELP/P206A-4PoE` + `EOM-104` 模块；**Kyland** `Opal5/Opal5L/Opal5-E`、`Opal8/Opal8L/Opal8-E-2S6T`、`SICOM3000A-8T/16T/2SFP8T/2GX8GE/2GX8T`、`SICOM3000A-LITE-2S6T-SC40/ST40`、`SICOM3000S-4GX8P`（IEEE1588）、`SICOM3307S-3G7P`、`KIEN1009-3M6T-SC05`、`KIEN7009-2S6T-SDSC40`；**SFP** `SFP-1GSXLC/1GLXLC-T/1GLSXLC/1FESLC-T/1FEMLC-T`。
-⇒ **Kyland 的 Opal 系列（5/8 口非受管）是它最便宜的一层，也是我们最容易打穿的一层。**
-
-**证据等级**：DMO 产品页 + `docplayer` 的 K291 目录全文 + `fsgrup.com.tr` + `angoranetworks.com` + `erete/xp-networks` PDF + `bdcom.com.tr` + `oncuguvenlik/asrteknoloji` + `store.gsl.com.tr` + `bimel.com.tr`，均逐字。
-**空白**：GSL 只剩 **255/311 未抓** · FOREDGE 的完整供应商名单 · **TeleOne 是否已续签新 K 码** · **Angora 的工厂是组装还是贴牌** · **Angora 的 DMO K 码未查** · CLR↔TG-NET 贴牌关系 · **所有电话仍未试拨**。
+**空白**：r76 的 FOREDGE 区间价未回详情页 · Han 自己是否有 K 码 · **RUBISEC 的 K4525/K6355 合同期（技术债，自 r44 挂起）** · **`Dayzip` 的真实工厂** · **TG-NET 的实体** · Asya/ISEE 的 5 家供应商 · GSL 剩余约 80 个「其余」未分类 · **所有电话未试拨**（新增 AKTİF GRUP 0312 284 64 14 / RİVO 0533 658 73 12 / FS Grup 0555 685 61 57）。
 
 ---
 
@@ -1032,3 +1007,50 @@ DMO 里 RUBISEC（供应商 **BİRKİL SAVUNMA**）的 8 口 PoE 卖：
 
 **证据等级**：DMO 产品页 + `docplayer` 的 K291 目录全文 + `fsgrup.com.tr` + `angoranetworks.com` + `erete/xp-networks` PDF + `bdcom.com.tr` + `oncuguvenlik/asrteknoloji` + `store.gsl.com.tr` + `bimel.com.tr`，均逐字。
 **空白**：GSL 只剩 **255/311 未抓** · FOREDGE 的完整供应商名单 · **TeleOne 是否已续签新 K 码** · **Angora 的工厂是组装还是贴牌** · **Angora 的 DMO K 码未查** · CLR↔TG-NET 贴牌关系 · **所有电话仍未试拨**。
+
+---
+
+## 附：r77 串价修正与 FS Grup 主体（详情页可信价）
+
+> 本节为 **r77（2026-11-06）**：**只引用 DMO 详情页价格；它在政府渠道到底由谁挂单。**
+
+#### r77 总览：**方法修正一轮，价格地图才第一次可信**
+
+**① 🛑 DMO 聚合页会串价 —— 这是本轮最大的方法收获**
+`RUBISEC RS-ES-300-28GPX`：**38,973.49 / 31,784.73 / 334,604.66 ₺**（8.6 倍差）· `FOREDGE AI8024`：**21,401.50 / 25,681.80 / 58,072.20 ₺** · **`PLANET GS-4210-24P4C` 与 `FOREDGE AI8024` 同挂 25,681.80 ₺**。
+⇒ **只信详情页**；聚合页只找型号。
+
+**② ⭐⭐⭐ FOREDGE 的 DMO 主体 = FS Grup Bilişim（K4702），合同 2024-10-21 → 2026-10-21，有效**
+**一个 K 码覆盖 FOREDGE + MILESIGHT + AXXON 共 44 个产品** ⇒ **纯目录商，无工厂，替换上游成本≈0** ⇒ **最易撬开**。
+**已核实**：`AI8024` **21,401.50 ₺**（产品码 119852）· 联系 **0555 685 6157** · 总机 **0312 473 32 00**。
+
+**③ ⭐⭐ RUBISEC 的完整价格阶梯（三个价，最高差 24%）**
+`RS-ES-300-28GPX`（24×GbE PoE+ + 4×1/10G SFP+）：**经销 USD $969 / 零售 42,000 ₺≈$840 / DMO 38,973.49 ₺≈$779**
+`RS-ES-100-10GP` **$279** · `RS-ES-100-28GP` **$559** · `RS-ES-200-28GS` **$829** · `RS-ES-400-28GSX` **$1,380** · `RS-ES-400-28GTSX` **$12,000** ⚠ · `RS-ES-350-28GPX` **$3,700** · `RS-ES-350-54GPX` **$6,600**
+⇒ **渠道 = Birkil Savunma**（`birkilsavunma.com`，**用 USD 报价的军工/安防渠道**，新线索）。
+
+**④ ⭐⭐ DMO 工业 8 口可信价带：$167（PLANET 非 PoE）→ $380（Dahua 120 W）→ $2,315（Cisco IE-3300）**
+⇒ **r76 的单一 $898–1,155 作废。**
+
+**⑤ ⭐ GSL 311 的真实构成**
+**受管 119 + 非受管 112 + 其余约 80（SFP 模块 / 光配 / 机架件 `RK-4U` / 转接头 `ADP-SCm-STf-*` / Smart / POE 子类）**
+⇒ **真正在卖的交换机 = 231 款**，「311」不能当竞争规模用。**但 SFP + 配件是它的黏客层 —— 我方的 SFP 若价格对，可直接插进去。**
+
+**⑥ ⭐ Angora Networks 不在 DMO（`VERGE` / 公司名 零命中）**
+⇒ 走**直销 + 集成商 + 项目标**，不进政府目录。
+⇒ **话术**：「**你不进 DMO，是因为你没有一条能撑住目录价的产线。**」/「**我帮你把 8 口工业段做成你能报 DMO 的成本结构 —— 进不进你自己选。**」
+⚠ 也可能以**关联主体名**在册，**未穷举**。
+
+**⑦ ⭐ DMO 供应商 K 码名录（14 家，累积）**
+**K291** Telkolink(CLR) · **K2757** ASIR · **K2831/K4141** OMSİS(MILESIGHT，**K4141 已到期**) · **K2887** TeleOne(**僵尸**) · **K3193/K4329** İNFOGEN(D-Link) · **K3922** ALE 渠道 · **K4051/K5041** VOLGA(IDIS) · **K4385** RİVO(GWSECU) · **K4427** 4S BİLİŞİM(Cisco) · **K4702** FS GRUP(FOREDGE+MILESIGHT+AXXON) · **K4716** NETCOM(Huawei) · **K4969** AKTİF GRUP(DAHUA) · **K6285** PİNET(i-PRO)
+⇒ **这张表就是土耳其政府渠道的分销商名录，每一行都是「有 K 码、没工厂」的潜在客户。**
+
+**⑧ ⭐ Cenova 的三个交换机牌**：`Cenova CN-` + **`Dayzip DZ-`**（`DZ-PS204D` / `DZ-PS208G` / `DZ-PS308G` / `DZ-GS108` / `DZ-GS116` / `DZ-POE103S` / `DZ-GPS424`）+ **`DL-`**（`DL-3308P` / `DL-3316PF`）⇒ **`Dayzip` 无工厂痕迹 ⇒ 极可能是深圳厂 ODM 牌，这是 A 级客户的入场券。**
+
+**⑨ OEM 客户「现有上游」排表：11 家里只有 2 家可点名**
+**Telkolink → TG-NET**（强）· **Han/FOREDGE → 深圳未定名工厂**（中）· 其余 9 家（Asya/ISEE、Nokta、Öncü、Cenova、Angora、Lansan、Karer、Snexus、Novacom）**上游空白**。
+⇒ **这是下一轮最值得花钱的地方。**
+
+**证据等级**：`dmo.gov.tr/Katalog/Urun/Detay/4634552_1207375`（FOREDGE AI8024）· `/5319885_597202`（DAHUA）· `/4634552_1152797` `/3471046_1095054` `/1244978_1004187`（MILESIGHT 三码）· `/4152754_108333`（RİVO K4385）· `/5395837_1186780` `/3289133_1113209`（VOLGA）· `/6792399_1274994`（PİNET）· `/5319885_1207612`（AKTİF GRUP）· `dmo.tr/rapor/UrunDetay/4324321_1232439`（CISCO）· `dmo.gov.tr/EMagaza/Magaza/Standart/1187182` · `birkilsavunma.com/tr/rubisec/` · `tybilgisayar.com` · `store.gsl.com.tr/kategori/managed|unmanaged` · `cenova.com.tr/urunler/switchler` —— 均逐字。
+
+**空白**：r76 的 FOREDGE 区间价未回详情页 · Han 自己是否有 K 码 · **RUBISEC 的 K4525/K6355 合同期（技术债，自 r44 挂起）** · **`Dayzip` 的真实工厂** · **TG-NET 的实体** · Asya/ISEE 的 5 家供应商 · GSL 剩余约 80 个「其余」未分类 · **所有电话未试拨**（新增 AKTİF GRUP 0312 284 64 14 / RİVO 0533 658 73 12 / FS Grup 0555 685 61 57）。
