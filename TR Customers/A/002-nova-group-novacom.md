@@ -199,54 +199,20 @@ Ali Pekyurek + 90 5337159226
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐ r51：Novacom 自有 PoE 线**型号全表**（13 个型号，全部官网/授权盘实见）
+#### r72 补：**NOVA Group 的完整工商信息**
 
-**命名规则**：`NVC-`（Novacom）+ `HIF`（== Hi-F 智能型，带 VLAN/Extend）/ `PSE`（标准 PoE）/ `HIS` / `ND`（非 PoE 数据线）。数字 = 端口组合，尾缀 `C`=Combo、`G`=千兆。
+| 项 | 内容 |
+|---|---|
+| 法人 | **Nova Grup Mühendislik Ticaret Ltd. Şti.**（**2002 成立**） |
+| 地址 | **Öveçler Mah. 1332 Cad. No:8/1-3-5-7, Çankaya / Ankara** |
+| 电话 / 邮箱 | **0312 311 02 00** · `info@novacom.com.tr` · `destek2@nova-grup.com` |
+| 网点 | **Ankara（总部）+ İstanbul + İzmir + Şanlıurfa + London（英国）** |
+| 自有品牌 | **Novacom**：`NVC-*`（交换机 / PoE / 延长器）· `NCV-*` · `ND-*` · `NC-NVR*` |
+| 产品线（本轮新取） | **24V Intercom PoE 交换机**（`NVC-INTSF0420FB2L` / `NVC-INTSF0820FB2L`）· **PoE Extender 1×4 Full Giga 户外**（`NVC-EBT14GW-A`）· PoE Splitter 12V · 5 口千兆交换机（`NVC-HIS2015G1S`)· 卫星 SMATV（DiseqC / Multiswitch / LNB）· NVR |
+| 自述 | 「zayıf akım malzemeleri ve tüm güvenlik sistemleri üzerine **ithalat firması**」「toptan satış」 |
 
-#### A. 智能 PoE（`HIF` 系，带 **VLAN + Extend 250 m + AI Watchdog**）
-| 型号 | 端口 | PoE 预算 |
-|---|---|---|
-| ⭐ **`NVC-HIF0420FBL-C`** | 4×**100M** PoE + 2×100M uplink | **75 W** |
-| `NVC-HIF0820FBL-C` | 8×100M PoE + 2×100M | — |
-| `NVC-HIF0820GBL-C` | 8×**GE** PoE + 2×GE | — |
-| `NVC-HIF1621GBL-C` | 16×100M PoE + 2×GE + **1×SFP** | — |
-| ⭐ **`NVC-HIF2422GBL-C`** | 24×**100M** PoE + 2×GE + **2×SFP Combo** | **400 W**（单口 ≤30 W，DC52V，**AI Watchdog 掉线自动重启**） |
-
-#### B. 标准 PoE（`PSE` 系）
-| 型号 | 端口 | PoE |
-|---|---|---|
-| `NVC-PSE0420` | 4×100M PoE + 2×uplink | — |
-| `NVC-PSE0820` | 8×100M PoE | — |
-| `NVC-PSE0820G` | 8×GE PoE | — |
-| ⭐ **`NVC-PSE1621G`** | 16×100M PoE + 2×GE + **1×SFP** | **300 W**，**250 m @10M**，SFP 20–100 km |
-| `NVC-PSE2422G` | 24 口 PoE + 2×GE + 2×SFP | — |
-| `NVC-PSEG0821` / `-0822` / `-1622` | 8 / 8 / 16 口**千兆** PoE（**G = Gigabit 线**） | — |
-
-#### C. 非 PoE 数据线
-`ND-920`（**8×SFP + 2×RJ45 光纤交换机**）· `ND-920-05TX` / `-08TX`（5/8 口千兆）· `ND-820-08TX`（8×百兆）· `NVC-HIS2015G` · `ND-FP1620G`（**对讲机 PoE** 专用）
-
-### ⭐⭐ 这条产品线的"命门"：**24 口还在用百兆**
-
-- **旗舰 24 口 `NVC-HIF2422GBL-C` 是 24×100M + 2×GE 上联**（不是我方那种 24×GE）。`PSE2422G` 才是 24 口千兆。
-- 全系**最高 af/at 30 W**，**无 bt、无 2.5G、无云**；"智能"= VLAN + Extend 250 m + Watchdog（我方 `EW-*` 早就有，且带拨码）。
-- **它的客户群 = 摄像头/门禁/对讲工程商**（`ND-FP1620G` 是**对讲专用 PoE**）→ 对 **长距 + 免调试** 极敏感。
-
-### 与我方的对位（r51 定稿）
-| 它的型号 | 我方对位 | 差在哪（对客户说什么） |
-|---|---|---|
-| `NVC-HIF2422GBL-C`（24×**百兆** PoE / 400 W） | ⭐ **`EW-S2926GM-AP`**（24×**GE** PoE + 4 Combo + 2 SFP，L2+） | **"百兆换千兆，同价位"** — 这是本轮最强一句 |
-| `NVC-HIF0820FBL-C`（8×百兆 PoE） | `EW-S1710FG-AP`（8×GE PoE + 2 SFP） | 同上 |
-| `NVC-PSE1621G`（16×百兆 PoE / 300 W） | `EW-S1616CGU` / `EW-PIS3620M-16GE` | 同上 + 工业版可选 |
-| `ND-920`（8×SFP + 2 RJ45） | ⭐ **`EW-S3936GM`**（8×GE + 24×SFP + 4×10G） | 它是纯百兆/千兆光纤汇聚，我方**带 10G 上联** |
-| 长距 250 m（Extend） | `EW-S1810CF-AP`（**300 m** 拨码 E 档） | 我方多 50 m，且带 **PoE Watchdog** |
-
-**首封主题**：`NVC-HIF2422 24 port 100M yerine aynı fiyata 24 port Gigabit`
-**必问三句**：① 24 口这款一年走多少台？② 客户有没有问过 2.5G？③ 贴牌（NVC 自有商标）能不能做？
-⚠ **纪律**：**别提"百兆过时"**（它一半 SKU 是百兆，等于骂它的产品经理）；只说 **"同价位升级"**。
-
-### 证据等级（r51）
-- 已核实：**13 个型号名与端口/PoE 预算**（`novacom.com.tr` 产品页 + `aspek.com.tr` 型号总表 + 经销商页三处交叉）。
-- 仍空白：`HIF0820FBL-C` 等中间型号的 PoE 预算、年采购量、现工厂。
+⇒ **判读**：**它是我方唯一「自有 PoE 品牌 + 多国网点 + 明确进口商身份」的 A 级客户**。产品线越宽，越需要第二家 ODM。
+⇒ **切口不变但更具体**：① **工业级在寻源**（商业级已有源）；② **24V 门禁 PoE 是我方没有的品类** ⇒ 可以「先互补、后替代」。
 
 ---
 
@@ -302,3 +268,24 @@ Ali Pekyurek + 90 5337159226
 ### 证据等级（r51）
 - 已核实：**13 个型号名与端口/PoE 预算**（`novacom.com.tr` 产品页 + `aspek.com.tr` 型号总表 + 经销商页三处交叉）。
 - 仍空白：`HIF0820FBL-C` 等中间型号的 PoE 预算、年采购量、现工厂。
+
+---
+
+## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品牌）
+
+> 本节为 **r72（2026-11-06）**：**工商身份与联系人档案 —— 打电话前先读这一节。**
+
+#### r72 补：**NOVA Group 的完整工商信息**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Nova Grup Mühendislik Ticaret Ltd. Şti.**（**2002 成立**） |
+| 地址 | **Öveçler Mah. 1332 Cad. No:8/1-3-5-7, Çankaya / Ankara** |
+| 电话 / 邮箱 | **0312 311 02 00** · `info@novacom.com.tr` · `destek2@nova-grup.com` |
+| 网点 | **Ankara（总部）+ İstanbul + İzmir + Şanlıurfa + London（英国）** |
+| 自有品牌 | **Novacom**：`NVC-*`（交换机 / PoE / 延长器）· `NCV-*` · `ND-*` · `NC-NVR*` |
+| 产品线（本轮新取） | **24V Intercom PoE 交换机**（`NVC-INTSF0420FB2L` / `NVC-INTSF0820FB2L`）· **PoE Extender 1×4 Full Giga 户外**（`NVC-EBT14GW-A`）· PoE Splitter 12V · 5 口千兆交换机（`NVC-HIS2015G1S`)· 卫星 SMATV（DiseqC / Multiswitch / LNB）· NVR |
+| 自述 | 「zayıf akım malzemeleri ve tüm güvenlik sistemleri üzerine **ithalat firması**」「toptan satış」 |
+
+⇒ **判读**：**它是我方唯一「自有 PoE 品牌 + 多国网点 + 明确进口商身份」的 A 级客户**。产品线越宽，越需要第二家 ODM。
+⇒ **切口不变但更具体**：① **工业级在寻源**（商业级已有源）；② **24V 门禁 PoE 是我方没有的品类** ⇒ 可以「先互补、后替代」。

@@ -101,30 +101,25 @@ Perpa 批发规模注册品牌主；型号 SW108FGP-A 式
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐ r50：工业线**全 50 款读完**，upTech 只有 8 款 —— 而"补位"正是切入窗口
+#### r72 补：**Nokta Elektronik 完整工商档案（本轮数据最全的一家）**
 
-| 型号 | 形态 |
+| 项 | 内容 |
 |---|---|
-| `ISW2420-GGS` | L2 网管 4×GE + 2×GE SFP |
-| `ISW2420-GGSP` | L2 网管 4×GE PoE + 2 SFP |
-| `ISW2820-GGS` | L2 网管 8×GE + 2 SFP（IP40，−40 °C） |
-| `ISW2820-GGSPV` | L2 网管 8×GE PoE + 2 SFP |
-| **`ISW2840-GGSP`** | L2 网管 8×GE PoE + **4×GE SFP** |
-| `ISW21240-GGS` | L2 网管 12×GE + 4×GE SFP |
-| `ISW1820-FGSP` | **非管理 8×百兆** PoE + 2×GE SFP |
-| **`ISW1811-FGSP`** | **非管理 8×百兆** PoE + 1×GE RJ45 + 1×GE SFP |
+| 法人 | **Nokta Elektronik ve Bilişim Sistemleri A.Ş.** |
+| **MERSİS** | **0631-0730-5210-0020** |
+| **Ticaret Sicil No** | **555138-0** |
+| **Vergi Dairesi / No** | **Şişli / 6310730521** |
+| **KEP** | `noktaelektronikvebilisim@hs03.kep.tr` |
+| 地址（4 处） | 总部 **Perpa A Blok K:2 No:1** · 销售 1 **B Blok K:8 No:906-907** · 销售 2 **A Blok K:8 No:841** · 技术服务 **B Blok K:8 No:906-907** |
+| 电话 / 邮箱 | **0212 222 87 80** / **0850 333 02 08** · `nokta@noktaelektronik.net` |
+| 规模 | **75–99 人** · 营收约 **$7.5M** · **39% 员工在职 11 年以上**（流失率极低） |
+| **自有品牌** | **upTech** —— 土耳其专利局 **2008/13951**，**2008-03-11 首注册，续展至 2028**，**916 个 SKU**（以太网/PoE 交换机、SFP/SFP+、媒体转换器、线材、连接器） |
+| 代理品牌 | **Dahua（官方 Distribution Partner id 203）** · Oring · Amphenol · Planet · Gewiss · Edge-Core · Goldtool · ATC · Ruijie · Inno Instrument · Noyafa |
+| 决策层 | **Harun Yazar（Vice Chairman）· Ersan Çağlar（COO/CDO）· `Casey CHEN`（Import Manager ← 进口决策人）· Mehmet Tığlı / Nefise Tugay（Sales Managers）· Kadir Babur（Marketing）** |
 
-**⭐ 结构性判断**
-- `Endüstriyel Ethernet` **50 款**的品牌分布：**ORing ≈ 20 · Planet ≈ 12 · upTech 8 · Dahua 6 · Harting 2 · Edge-Core 2**。
-- → **工业段的"主供"是 ORing，不是 upTech。** upTech 工业线是**刚铺的补位线**（多款标 `Yeni`）。
-- → ⭐ **切入点就在"补位线"上**：ORing 是客户长期主供、动不了；**upTech 自己这条线刚上，最容易换 ODM**。
-- 这 8 款**没有一款**具备：**10G 上联 / 2.5G / 12–24 V 被动 PoE / 802.3bt / 云管理**。
-  → 我方对位：`EW-PIS5712M-8GE`（4×10G SFP+）、`EW-EPIS3910-8GE`（12/24 V 被动 + 云 + 单口重启）、`EW-PIS3810M-8GE-BT`（bt 60 W）。
-- ⚠ 同分类里 **Dahua `LR2118-16ET-240`** 标 **ePoE 单线 800 m**、**`PFS4207-4GT-DP`** 标 **bt 单口 90 W** → **"长距"与"单口高功率"两个卖点在该渠道已被占位**，我方长距话术只能落在 **300 m 拨码 + 与 bt 同机**。
-
-### 证据等级（r50 增补）
-- 已核实（新增）：**工业 50 款全 3 页读完**、**品牌分布（ORing/Planet/upTech/Dahua/Harting/Edge-Core）**、**upTech 8 款型号全名**。
-- 仍空白：**ISW 系列现工厂与上市时间**（若刚上，是本季最佳切入点）。
+⇒ **判读**：它**同时代理 5 个交换机品牌**（Dahua / Oring / Planet / Edge-Core / Ruijie）⇒ **不缺供应商**。
+⇒ **它缺的是「能贴 upTech 标、价格低于这五家」的供应商** —— 这是唯一的谈判入口。
+⇒ **`Casey Chen` 是中文名 + Import Manager** ⇒ **它已经有中国采购通道，沟通可以直接进技术细节。**
 
 ---
 
@@ -188,3 +183,29 @@ r48 只点了交换机（非管理/L2+/L3）就被 `noktaelektronik.net` 的分�
 ### 证据等级（r50 增补）
 - 已核实（新增）：**工业 50 款全 3 页读完**、**品牌分布（ORing/Planet/upTech/Dahua/Harting/Edge-Core）**、**upTech 8 款型号全名**。
 - 仍空白：**ISW 系列现工厂与上市时间**（若刚上，是本季最佳切入点）。
+
+---
+
+## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品牌）
+
+> 本节为 **r72（2026-11-06）**：**工商身份与联系人档案 —— 打电话前先读这一节。**
+
+#### r72 补：**Nokta Elektronik 完整工商档案（本轮数据最全的一家）**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Nokta Elektronik ve Bilişim Sistemleri A.Ş.** |
+| **MERSİS** | **0631-0730-5210-0020** |
+| **Ticaret Sicil No** | **555138-0** |
+| **Vergi Dairesi / No** | **Şişli / 6310730521** |
+| **KEP** | `noktaelektronikvebilisim@hs03.kep.tr` |
+| 地址（4 处） | 总部 **Perpa A Blok K:2 No:1** · 销售 1 **B Blok K:8 No:906-907** · 销售 2 **A Blok K:8 No:841** · 技术服务 **B Blok K:8 No:906-907** |
+| 电话 / 邮箱 | **0212 222 87 80** / **0850 333 02 08** · `nokta@noktaelektronik.net` |
+| 规模 | **75–99 人** · 营收约 **$7.5M** · **39% 员工在职 11 年以上**（流失率极低） |
+| **自有品牌** | **upTech** —— 土耳其专利局 **2008/13951**，**2008-03-11 首注册，续展至 2028**，**916 个 SKU**（以太网/PoE 交换机、SFP/SFP+、媒体转换器、线材、连接器） |
+| 代理品牌 | **Dahua（官方 Distribution Partner id 203）** · Oring · Amphenol · Planet · Gewiss · Edge-Core · Goldtool · ATC · Ruijie · Inno Instrument · Noyafa |
+| 决策层 | **Harun Yazar（Vice Chairman）· Ersan Çağlar（COO/CDO）· `Casey CHEN`（Import Manager ← 进口决策人）· Mehmet Tığlı / Nefise Tugay（Sales Managers）· Kadir Babur（Marketing）** |
+
+⇒ **判读**：它**同时代理 5 个交换机品牌**（Dahua / Oring / Planet / Edge-Core / Ruijie）⇒ **不缺供应商**。
+⇒ **它缺的是「能贴 upTech 标、价格低于这五家」的供应商** —— 这是唯一的谈判入口。
+⇒ **`Casey Chen` 是中文名 + Import Manager** ⇒ **它已经有中国采购通道，沟通可以直接进技术细节。**

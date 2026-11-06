@@ -93,56 +93,44 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r71 补：**24 口地板又降了两格 —— 市价 $278、渠道 $403；而且 24 口 L3 470 W 只要 $240**
+#### r72 补：**本轮转向客户情报 —— 六家 A 级客户的身份档案（不再算我方倍率）**
 
-**① 24 口 PoE+ 最终阶梯（本轮定稿）**
+> 用户第 25 次指令：**「继续挖掘，挖这些客户的信息为主，不需要过度关注 Saga 的价格。」**
+> 完整档案见 `141-customer-identity-cards-6-accounts-2026-11-06.md`。
 
-| 层级 | 型号 | 价格 | 我方 $140 |
+**① 地理事实：Perpa 一栋楼 = 我方的客户中心**
+
+| 客户 | 位置 |
+|---|---|
+| GelecekBT | Perpa **A Blok K:5 No:295** |
+| Nokta Elektronik | Perpa **A Blok K:2 No:1**（总部）+ **B Blok K:8 No:906-907** |
+| Cenova | **Elektrokent B Blok K:8 D:902-904**（与 Nokta 同层相邻） |
+| Okisan | Okisan Plaza, Okmeydanı（步行范围） |
+
+⇒ **一次 İstanbul 行程覆盖 4 家 A 级客户，2 家在同层隔壁。**
+
+**② 谁有自有交换机品牌（决定谈什么）**
+
+| 客户 | 自有品牌 | 代理交换机品牌 | 谈什么 |
 |---|---|---|---|
-| **市价最低** | **IP-COM `G3326P-24-410W`**（24 PoE+ 370 W，2 SFP，云管理） | **$278** | **2.0×** |
-| **市价更低（L3）** | IP-COM `G5328P-24-410W`（24 PoE **470 W**，L3） | **$240** ⚠待复核 | **1.7×** |
-| 市价第三 | Reyee `RG-NBS3100-24GT4SFP-P` | $302 | 2.2× |
-| 市价品牌 | ZyXEL `GS1920-24HP v2`（375 W，2 年保） | $412–514 | 2.9–3.7× |
-| **渠道最低（活）** | **RUBISEC `RS-ES-200-28PS`**（24 PoE+ + 4 SFP，56 Gbps） | **$403** | **2.9×** |
-| 渠道第二 | RUJIE `RG-S2915-24GT4MS-P-L`（RESET） | $513 | 3.7× |
-| 渠道第三 | DAHUA `DH-PFSD224ET2-360D`（AKTİF GRUP） | $516 | 3.7× |
+| Novacom | **Novacom（NVC）** | — | **工业级 ODM 新增**（它已在找） |
+| Snexus | **Snexus（SN-）** | — | **贴标 OEM** |
+| CryptoLink | **CRLISW-8P（有政府合格报告）** | — | **认可 + 成本组合** |
+| Nokta | **upTech（916 SKU，商标到 2028）** | Dahua/Oring/Planet/Edge-Core/Ruijie | **降本第二源** |
+| Cenova | **无** | Tiandy / GVD（摄像头） | **填空白货架** |
+| GelecekBT | 无（CLR 独家代理） | CLR / ONET | **第二条线** |
+| Okisan | 无 | Dahua / Tiandy | **5,000 家店卖谁的交换机** |
+| HAFYA | 无 | 无（集成商） | **项目报价** |
 
-⇒ **对外两个数**：渠道「活的 24 口 PoE+ 从 **$403** 起，主流 $513–516」；用户「市面价从 **$240–278** 起」。
-⇒ **🛑 警告**：`G5328P-24-410W` 是 **24 口 + 470 W PoE + L3 + $240**，**低于我方任何预期售价** ⇒ **24 口的成本底线在 FOB $120–150，我方 $140 只是持平、不是优势。这一条必须让上面知道。**
+**③ 安防渠道的真相**：`Tianjin Tiandy` 同时是 Cenova（总代）与 Okisan（授权分销）的品牌；`Dahua` 同时是 Okisan（授权分销）与 Nokta（Distribution Partner）的品牌。
+⇒ **两大货源都是中国摄像头厂，而它们的交换机生意都让给了别人** ⇒ **交换机是这条渠道里唯一还空着的位置。**
 
-**② RUBISEC 是谁：黑山 2016 年成立的品牌，不是土品牌**
+**④ 可直接使用的一句话**
+> 「你们卖 Tiandy / Dahua 的摄像头，交换机靠 Dahua / Planet / Ruijie 补。摄像头那两个牌子自己不做交换机生意 —— **这块货架上没有主人。**」
 
-- 官网原文：「**Rubisec was founded in Montenegro in 2016**」「produces and sells … **under its own brand**」。
-- 土耳其 DMO 由 **BİRKİL SAVUNMA**（店 879103）操作，至少两个 K 系列：**`K4525`（合同 3.07.2024 → 3.09.2026，有效）/ `K6355`（合同期未读到）**。
-- 全线：8 口 PoE **$211** → 24 口 PoE+ **$403** → 48 口 PoE+ 600 W **$858** → 8 口工业（-40~+80 ℃，IP40 DIN）**$1,221** → 核心 48×10G+40G ×2 **（`RS-ES-500-54XQS`，价格未取）** → 核心 `RS-ES-750-32XQS` **$18,806**。
+**⑤ 新增关键人**：Cenova 的 **Rıfat BAYDEMİR（总经理，116）`rifat@cenova.com.tr`** / Kuntay Kızılay（115）· Nokta 的 **Casey CHEN（Import Manager）** 与 Harun Yazar（Vice Chairman）· Okisan 的 **Ekrem / Okan ÖZKARA** 与 Burhan Acar · GelecekBT 的 **Ebru Akdemir / Sait Yıldız**。
 
-**⇒ 对 Cebeci 最有用的两句**
-1. **「你的对手不是大牌，是一个 2016 年才成立、没有工厂的品牌 —— 它靠一个 K 码把 24 口 PoE 卖 $403、8 口工业卖 $1,221。」** ⇒ **位置比品牌值钱。**
-2. **「同样的 8 口，ARNA 卖 $15、RUBISEC 卖 $1,221 —— 差价 81 倍。你要卖给谁，决定你该报哪个价。」**
-
-**③ 修正 r69 的一个结论：DMO 不是永远更贵**
-
-| 型号 | DMO 净价 | 土零售 | 谁便宜 |
-|---|---|---|---|
-| IP-COM `G1024D`（24 口非 PoE） | **$26** | $66 | **DMO 便宜 2.5×** |
-| IP-COM `G1110P-8-150W`（8 口 PoE 150 W） | **$53–68** | $119 | **DMO 便宜 1.7–2.2×** |
-| RUIJIE `RG-S2915-24GT4MS-P-L` | $513 | 同厂 Reyee $302 | 零售便宜 1.7× |
-
-⇒ **规则改为：有活 K 码合同的型号，DMO 可能更便宜；僵尸 K 码则贵得离谱。逐型号判断，不许一刀切。**
-
-**④ 2.5G 的价格锚（报价单直接用）**
-
-| 型号 | 配置 | 价格 |
-|---|---|---|
-| **TP-Link `TL-SG3210XHP-M2`** | **8×2.5G PoE+ 240 W + 2×10G SFP+** | **$460**（Amazon.com.tr 23,000 ₺） |
-| ZyXEL `XMG1930-30` | 24×2.5G，L3 | **$1,700**（€1,440） |
-| `CLR-MRS-8109N/8218N/8226N/8330N` | 8/16/24/30 口 2.5G | **全部面议** |
-
-⇒ **我方 8 口 2.5G PoE+ 做到 ≈$150 就是「TP-Link 三分之一价」；而 CLR-MRS 不报价，永远处在「不知道贵不贵」的位置 —— 这是我们可以主动利用的。**
-
-**证据等级**：DMO 明细页、RUBISEC 官网、Nasabil 官网、hepsiburada/kibristeknoloji/almaluk、Amazon.com.tr 逐字。**空白**：`K6355` 合同期（决定 $403 是否活价）· RUBISEC 的 ODM 供应商 · `G5328P-24-410W` $240 需复核（另一来源 339 USD）· 我方 8 口千兆 FOB。
-
-> **完整版见** `140-24port-floor-278-retail-403-channel-rubisec-dissected-2026-11-06.md`。
+**证据等级**：工商级逐字（Nokta 的 MERSİS / 税号 / KEP / 商标号；Cenova / Novacom / Okisan / GelecekBT / CryptoLink 的法人·地址·电话·品牌）。**空白**：Cenova 与 Novacom 的税号未取到 · CryptoLink 实控人与采购人未取到 · `CRLISW-8P` 规格与产地未取到 · Okisan 的 DMO 关系仅「未找到」不排除存在 · HAFYA 只有表层 · 所有电话邮箱均为公开页原文，**未验证有效性**。
 
 ---
 
@@ -750,3 +738,48 @@ DMO 里 RUBISEC（供应商 **BİRKİL SAVUNMA**）的 8 口 PoE 卖：
 **证据等级**：DMO 明细页、RUBISEC 官网、Nasabil 官网、hepsiburada/kibristeknoloji/almaluk、Amazon.com.tr 逐字。**空白**：`K6355` 合同期（决定 $403 是否活价）· RUBISEC 的 ODM 供应商 · `G5328P-24-410W` $240 需复核（另一来源 339 USD）· 我方 8 口千兆 FOB。
 
 > **完整版见** `140-24port-floor-278-retail-403-channel-rubisec-dissected-2026-11-06.md`。
+
+---
+
+## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品牌）
+
+> 本节为 **r72（2026-11-06）**：**工商身份与联系人档案 —— 打电话前先读这一节。**
+
+#### r72 补：**本轮转向客户情报 —— 六家 A 级客户的身份档案（不再算我方倍率）**
+
+> 用户第 25 次指令：**「继续挖掘，挖这些客户的信息为主，不需要过度关注 Saga 的价格。」**
+> 完整档案见 `141-customer-identity-cards-6-accounts-2026-11-06.md`。
+
+**① 地理事实：Perpa 一栋楼 = 我方的客户中心**
+
+| 客户 | 位置 |
+|---|---|
+| GelecekBT | Perpa **A Blok K:5 No:295** |
+| Nokta Elektronik | Perpa **A Blok K:2 No:1**（总部）+ **B Blok K:8 No:906-907** |
+| Cenova | **Elektrokent B Blok K:8 D:902-904**（与 Nokta 同层相邻） |
+| Okisan | Okisan Plaza, Okmeydanı（步行范围） |
+
+⇒ **一次 İstanbul 行程覆盖 4 家 A 级客户，2 家在同层隔壁。**
+
+**② 谁有自有交换机品牌（决定谈什么）**
+
+| 客户 | 自有品牌 | 代理交换机品牌 | 谈什么 |
+|---|---|---|---|
+| Novacom | **Novacom（NVC）** | — | **工业级 ODM 新增**（它已在找） |
+| Snexus | **Snexus（SN-）** | — | **贴标 OEM** |
+| CryptoLink | **CRLISW-8P（有政府合格报告）** | — | **认可 + 成本组合** |
+| Nokta | **upTech（916 SKU，商标到 2028）** | Dahua/Oring/Planet/Edge-Core/Ruijie | **降本第二源** |
+| Cenova | **无** | Tiandy / GVD（摄像头） | **填空白货架** |
+| GelecekBT | 无（CLR 独家代理） | CLR / ONET | **第二条线** |
+| Okisan | 无 | Dahua / Tiandy | **5,000 家店卖谁的交换机** |
+| HAFYA | 无 | 无（集成商） | **项目报价** |
+
+**③ 安防渠道的真相**：`Tianjin Tiandy` 同时是 Cenova（总代）与 Okisan（授权分销）的品牌；`Dahua` 同时是 Okisan（授权分销）与 Nokta（Distribution Partner）的品牌。
+⇒ **两大货源都是中国摄像头厂，而它们的交换机生意都让给了别人** ⇒ **交换机是这条渠道里唯一还空着的位置。**
+
+**④ 可直接使用的一句话**
+> 「你们卖 Tiandy / Dahua 的摄像头，交换机靠 Dahua / Planet / Ruijie 补。摄像头那两个牌子自己不做交换机生意 —— **这块货架上没有主人。**」
+
+**⑤ 新增关键人**：Cenova 的 **Rıfat BAYDEMİR（总经理，116）`rifat@cenova.com.tr`** / Kuntay Kızılay（115）· Nokta 的 **Casey CHEN（Import Manager）** 与 Harun Yazar（Vice Chairman）· Okisan 的 **Ekrem / Okan ÖZKARA** 与 Burhan Acar · GelecekBT 的 **Ebru Akdemir / Sait Yıldız**。
+
+**证据等级**：工商级逐字（Nokta 的 MERSİS / 税号 / KEP / 商标号；Cenova / Novacom / Okisan / GelecekBT / CryptoLink 的法人·地址·电话·品牌）。**空白**：Cenova 与 Novacom 的税号未取到 · CryptoLink 实控人与采购人未取到 · `CRLISW-8P` 规格与产地未取到 · Okisan 的 DMO 关系仅「未找到」不排除存在 · HAFYA 只有表层 · 所有电话邮箱均为公开页原文，**未验证有效性**。

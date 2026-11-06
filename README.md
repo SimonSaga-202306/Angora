@@ -23,6 +23,8 @@
 
 - [`140-24port-floor-278-retail-403-channel-rubisec-dissected-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/140-24port-floor-278-retail-403-channel-rubisec-dissected-2026-11-06.md)：r71 **地板第三次下修** —— 市价 **$278**（IP-COM `G3326P-24-410W`）/ **$240**（`G5328P-24-410W`，470 W **L3**，⚠待复核）· 渠道活地板 **$403**（RUBISEC `RS-ES-200-28PS`，BİRKİL）⇒ 我方 **1.7–2.0× / 2.9×** · **RUBISEC = 黑山 2016 品牌**（非土品牌），`K4525` 合同至 2026-09-03，全线 $211→$403→$858→$1,221→$18,806 ⇒ **ODM 路径可行性证明** · **IP-COM 土独家代理 = NASA/Nasabil** · 🛑 `G5328P` $240 ⇒ **24 口成本底线 FOB $120–150，我方 $140 只是持平** · 2.5G 锚 $460/$1,700
 
+- [`141-customer-identity-cards-6-accounts-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/141-customer-identity-cards-6-accounts-2026-11-06.md)：r72 **客户情报转向**（用户指令：不看我方价格）—— 6 家 A 级客户身份档案：**CryptoLink `CRLISW-8P` 已拿土通信司 BAŞARILI 报告**（与 EXTREME/ALLIED/D-LINK 并列，KGYS）· **Perpa 一栋楼 = 客户中心**（GelecekBT A K5 No295 / Nokta A K2 No1 + B K8 906-907 / Cenova Elektrokent B K8 D902-904）· **Cenova = Tiandy 总代、7 品牌零交换机** · **Nokta 全档（MERSİS 0631-0730-5210-0020 / upTech 916 SKU 至 2028 / Casey Chen 进口经理）** · Novacom（24V Intercom PoE）· Okisan（Dahua+Tiandy、5,000 经销商、无 DMO）· **渠道真相：交换机是唯一空货架**
+
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md) — 按 0001→0781 顺序的逐文件目录（路径 + 大小 + sha256 + 产物 + 方法）

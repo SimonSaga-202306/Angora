@@ -229,3 +229,49 @@ AI 18B/Claude 20C；ISAF 参展+SAHA İstanbul 会员；关联 ISAF 留档：Vat
 - **Okan Özkara 的确切职责边界**（是否管采购）
 - 是否有**自有品牌计划**（截至 2026-11-01 官网无痕迹 → 暂判"无"）
 - 5000+ 经销商中**活跃**的比例（对外口径数字往往虚高）
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+#### r72 补：**Okisan = Dahua + Tiandy 双授权，5,000 家经销商，无 DMO 记录**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Okisan Güvenlik Teknolojileri Sanayi ve Ticaret A.Ş.** |
+| 成立 | **1988-01-18 注册**（对外常说「28 年经验」） |
+| 地址 | **Okisan Plaza, Mahmut Şevket Paşa Mah. Odesa Bulvarı Ersan Sok. No:24, Okmeydanı / Şişli / İstanbul** |
+| 分公司 | **Ankara：Çetin Emeç Bulvarı, Sokullu Cad. No:15/A, Dikmen** · **İzmir** |
+| 电话 / 邮箱 | **444 1 309** · `info@okisan.com` · `www.okisan.com` / `www.dahua.com.tr` |
+| 规模 | **44–51 人** · 营收约 **$8.6M** · **5,000+ 家经销商** |
+| **代理** | **Dahua（土耳其授权分销）· Tiandy（土耳其授权分销）** · IP/HDCVI/激光热成像/智能家居/消防 |
+| **决策层（订正拼写）** | **Ekrem ÖZKARA（创始人 / CEO）· `Okan ÖZKARA`（Business Development Director）← 旧档误写为 Gokhan Ozkara · Burhan ACAR（Technical Presales Manager）· Dila Gürdal（Org & Marketing）** |
+
+⇒ **判读**：**它不是 DMO 玩家**（本轮未找到任何 K 码），**是纯渠道玩家** ⇒ 与 `AKTİF GRUP`（DMO 的 DAHUA 持码人）是两条完全不同的路。
+⇒ **5,000 家经销商 + 零交换机自有品牌** = **最大的铺货面 + 最空的货架**。
+⇒ **销售语言要换**：对它不谈「DMO 位置」，只谈「**你 5,000 家店里卖谁的交换机？**」。
+
+---
+
+## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品牌）
+
+> 本节为 **r72（2026-11-06）**：**工商身份与联系人档案 —— 打电话前先读这一节。**
+
+#### r72 补：**Okisan = Dahua + Tiandy 双授权，5,000 家经销商，无 DMO 记录**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Okisan Güvenlik Teknolojileri Sanayi ve Ticaret A.Ş.** |
+| 成立 | **1988-01-18 注册**（对外常说「28 年经验」） |
+| 地址 | **Okisan Plaza, Mahmut Şevket Paşa Mah. Odesa Bulvarı Ersan Sok. No:24, Okmeydanı / Şişli / İstanbul** |
+| 分公司 | **Ankara：Çetin Emeç Bulvarı, Sokullu Cad. No:15/A, Dikmen** · **İzmir** |
+| 电话 / 邮箱 | **444 1 309** · `info@okisan.com` · `www.okisan.com` / `www.dahua.com.tr` |
+| 规模 | **44–51 人** · 营收约 **$8.6M** · **5,000+ 家经销商** |
+| **代理** | **Dahua（土耳其授权分销）· Tiandy（土耳其授权分销）** · IP/HDCVI/激光热成像/智能家居/消防 |
+| **决策层（订正拼写）** | **Ekrem ÖZKARA（创始人 / CEO）· `Okan ÖZKARA`（Business Development Director）← 旧档误写为 Gokhan Ozkara · Burhan ACAR（Technical Presales Manager）· Dila Gürdal（Org & Marketing）** |
+
+⇒ **判读**：**它不是 DMO 玩家**（本轮未找到任何 K 码），**是纯渠道玩家** ⇒ 与 `AKTİF GRUP`（DMO 的 DAHUA 持码人）是两条完全不同的路。
+⇒ **5,000 家经销商 + 零交换机自有品牌** = **最大的铺货面 + 最空的货架**。
+⇒ **销售语言要换**：对它不谈「DMO 位置」，只谈「**你 5,000 家店里卖谁的交换机？**」。

@@ -256,39 +256,22 @@ OEM 贴 Cenova 方案（CCTV 场景 PoE 8/16/24 口 + IGMP Snooping/Extend 长�
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐ r51：Dayline（Cenova 自有牌）PoE 线**型号全表** + 一个 120 km 的营销口径
+#### r72 补：**Cenova 是 Tiandy 土耳其总代，7 个品牌里没有交换机**
 
-#### A. 型号（官网 + 经销商交叉，12 个）
-| 型号 | 端口 / 功率 | 备注 |
-|---|---|---|
-| `SWP-H1108PL` | 10 口：8×**10/100** PoE（af，单口 30 W）+ 2 uplink，**120 W** | 2 Gbps |
-| ⭐ `SWP-POE31024PL` | 24×**10/100** PoE（af/**at**）+ 2×GE RJ45 uplink，**250 W**，14.8 Gbps，16K MAC | **Smart 模式：10M / 250 m**；−20~55 °C；2 年保 |
-| ⭐ `SWP-POE31024PFB` | 24×**GE** PoE + **Combo GE/SFP 上联**，**440 W** | 页面写 **"20–120 km 支持"** |
-| `SWP-POE33016PFU-AT` | 16×GE PoE + **2×SFP**，**400 W** | — |
-| `SWP-POE33016PFU-AT` / `SWP-POE33020PF` | 16 口 GE PoE（两档） | — |
-| ⭐ `SWP-POE33028PF-AT` | 24×GE PoE（at） | 零售 **17,949 TL**（经销商页） |
-| `SWP-POE33108P` | 8×GE PoE | — |
-| `DL-3308PFG` | 10 口全千兆 PoE | — |
-| `DZ-GPS424` | 24 口**智能网管** PoE | — |
-| 早期已录：`DL-3416PF` / `DL-3424PF` / `DL-3508PFG-M` / `DL-3508PGF-M` / `DL-3524PGF` / `DL-3808PFG` / `DL-END3308PFG` | — | 型号命名与上表**同族** |
+| 项 | 内容 |
+|---|---|
+| 法人 | **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.**（**2002 成立**） |
+| 地址 | **H. Rıfat Paşa Mah. Elektrokent B Blok Perpa Ticaret Merkezi K:8 D:902-903-904, 34384 Şişli / İstanbul** |
+| 邮箱 / 站 | `info@cenova.com.tr` · `www.cenova.com.tr` |
+| **身份** | **`Tianjin Tiandy Digital Technology` 土耳其授权总代** · **`GVD / Genius Vision Digital`（台湾 Taipei，2007）土耳其总代兼战略项目伙伴** |
+| 品牌 7 个 | **Cenova · Dayzip · Wisetech · Dayline · Bawcon · GVD · Tiandy** |
+| 业务 | 光纤视频传输、光端机、IP 摄像头、NVR/服务器、专业拼接矩阵；**以 Bayi（经销商）渠道为主** |
+| **销售部 3 人（分机 + 邮箱）** | **Rıfat BAYDEMİR（116，总经理）`rifat@cenova.com.tr`** · **Kuntay KIZILAY（115）`kuntaykizlay@cenova.com.tr`** · **Ahmet CANCA（117）`ahmetcanca@cenova.com.tr`** |
+| 自述关键句 | 「**Uzakdoğu'da sahip olduğu üretim kanalları**」= 在远东拥有生产渠道 |
 
-#### B. ⭐ 两个可用的商业情报
-1. **"20–120 km 支持"是它的宣传点**（`SWP-POE31024PFB` 页）→ 它的客户是**园区/城域光纤项目**（学校、厂区、市政）。
-   → **我方打法**：**交换机 + 长距 SFP 模块捆绑报价**（`EW-810GS-20` / `EW-S3936GM` + SFP），用"整包价"打它"只卖机头"。
-2. **零售价已知**：`SWP-POE33028PF-AT`（24×GE PoE at）= **17,949 TL ≈ US$423**（按 42.4 汇率）→
-   → ⭐ **这是"土耳其自有品牌 24 口千兆 PoE"的地板价**（对比 Snexus 的 **$900** 是 L2 网管款）。
-   → 我方 **`EW-S1927CG-AP`（24 口非网管 PoE）** 必须打这个档；**`EW-S2926GM-AP`（网管）** 打 $900 档。**两档不要混报**。
-
-#### C. 全线缺口
-**无 2.5G · 无 802.3bt · 无云 · 大量 24 口仍是百兆（`31024PL` / `H1108PL`）**
-→ 我方一句话：**"24 口百兆 PoE 换千兆、同价；加 bt 60 W 只加 xx%"**
-
-**首封主题**：`SWP-POE31024 yüzde yüz 100M — aynı fiyata Gigabit + 802.3bt`
-**必问三句**：① 31024PL 还在卖吗（百兆 24 口）？② Dayline 商标是 Cenova 的吗？③ 光纤项目要不要 SFP 一起报？
-
-### 证据等级（r51）
-- 已核实：**12 个型号**、`SWP-POE31024PL` 完整规格（官网）、`SWP-POE31024PFB` 440 W/Combo（经销商页）、`SWP-POE33028PF-AT` 零售 **17,949 TL**（34alarm 经销商页）。
-- 仍空白：Dayline **商标注册人**（同 Cifocs 问题）、`330XX` 系的 PoE 预算、年量。
+⇒ **判读**：**7 个品牌全是摄像头/报警/录像，没有一个是交换机** ⇒ 交换机是这家 23 年老分销商货架上**唯一的结构性缺口**。
+⇒ **它本来就习惯「远东贴牌」** ⇒ 谈判语言不需要翻译，**直接谈 ODM 规格 + 价格档位**。
+⇒ **注意**：它与 `AKTİF GRUP`（DMO 持 DAHUA 码）不同 —— **Cenova 无 DMO 记录，是纯渠道商**。
 
 ---
 
@@ -329,3 +312,26 @@ OEM 贴 Cenova 方案（CCTV 场景 PoE 8/16/24 口 + IGMP Snooping/Extend 长�
 ### 证据等级（r51）
 - 已核实：**12 个型号**、`SWP-POE31024PL` 完整规格（官网）、`SWP-POE31024PFB` 440 W/Combo（经销商页）、`SWP-POE33028PF-AT` 零售 **17,949 TL**（34alarm 经销商页）。
 - 仍空白：Dayline **商标注册人**（同 Cifocs 问题）、`330XX` 系的 PoE 预算、年量。
+
+---
+
+## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品牌）
+
+> 本节为 **r72（2026-11-06）**：**工商身份与联系人档案 —— 打电话前先读这一节。**
+
+#### r72 补：**Cenova 是 Tiandy 土耳其总代，7 个品牌里没有交换机**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.**（**2002 成立**） |
+| 地址 | **H. Rıfat Paşa Mah. Elektrokent B Blok Perpa Ticaret Merkezi K:8 D:902-903-904, 34384 Şişli / İstanbul** |
+| 邮箱 / 站 | `info@cenova.com.tr` · `www.cenova.com.tr` |
+| **身份** | **`Tianjin Tiandy Digital Technology` 土耳其授权总代** · **`GVD / Genius Vision Digital`（台湾 Taipei，2007）土耳其总代兼战略项目伙伴** |
+| 品牌 7 个 | **Cenova · Dayzip · Wisetech · Dayline · Bawcon · GVD · Tiandy** |
+| 业务 | 光纤视频传输、光端机、IP 摄像头、NVR/服务器、专业拼接矩阵；**以 Bayi（经销商）渠道为主** |
+| **销售部 3 人（分机 + 邮箱）** | **Rıfat BAYDEMİR（116，总经理）`rifat@cenova.com.tr`** · **Kuntay KIZILAY（115）`kuntaykizlay@cenova.com.tr`** · **Ahmet CANCA（117）`ahmetcanca@cenova.com.tr`** |
+| 自述关键句 | 「**Uzakdoğu'da sahip olduğu üretim kanalları**」= 在远东拥有生产渠道 |
+
+⇒ **判读**：**7 个品牌全是摄像头/报警/录像，没有一个是交换机** ⇒ 交换机是这家 23 年老分销商货架上**唯一的结构性缺口**。
+⇒ **它本来就习惯「远东贴牌」** ⇒ 谈判语言不需要翻译，**直接谈 ODM 规格 + 价格档位**。
+⇒ **注意**：它与 `AKTİF GRUP`（DMO 持 DAHUA 码）不同 —— **Cenova 无 DMO 记录，是纯渠道商**。

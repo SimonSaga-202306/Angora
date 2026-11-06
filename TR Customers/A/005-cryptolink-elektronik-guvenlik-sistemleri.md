@@ -176,33 +176,21 @@ info@cryptolink.com.tr + +90 312 557 64 00 + Çankaya Mah. Bükreş Cad. 19/1
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐ r55：`CRL-MC02` 与 `CRL-SFP-10G-LC` 两份 PDF 读完 —— **datasheet 自相矛盾，换牌痕迹更明显**
+#### r72 补：**CryptoLink 的工业交换机已拿政府「合格报告」—— 本轮最重要的一条客户情报**
 
-#### A. `CRL-MC02`（媒体转换器）
-| 项 | 值 |
+| 项 | 内容 |
 |---|---|
-| 品名 | 2 Ports Media Converter：**1×100M RJ45 + 1×100M 光纤** |
-| 光口 | **ST / SC / FC，100 Mbps 全双工** |
-| 距离档位 | 多模 850/1310 nm **0–2 km**；单模 1310 nm **20 / 40 / 60 km**；单模 1550 nm **80 / 100 / 120 km**（灵敏度 −25 ~ −44 dBm） |
-| 协议 | IEEE802.3/u/z/ab、10Base-T / 100Base-TX / 1000Base-TX（**原文把 1000Base 也列进来，与"100M 口"矛盾**） |
-| 功耗 | **< 5 W**（DC 5 V 1000–3000 mA） |
-| 尺寸 / 重量 | **11×7×2.5 cm / 0.18 kg** |
-| 温度 / MTBF | **−20~50 °C**（存储 −40~85 °C）/ **100,000 h** |
+| 法人 | **CryptoLink Elektronik Güvenlik Sistemleri San. ve Tic. Ltd. Şti.** |
+| 地址 | **Çankaya Mah. Bükreş Cad. No:19/1, Çankaya / Ankara** |
+| 电话 / 邮箱 | **+90 312 557 64 00** · `info@cryptolink.com.tr` |
+| 定位 | **政府/公共部门项目商**：边境安全 · 网络安全 · 网络方案 · 车牌识别 · 在线训练 · 信号干扰 |
+| **自有品牌** | **`CRLISW-8P` 工业交换机（8 口）** |
+| **⭐⭐ 关键原文** | KGYS（城市安全管理体系）C 型以太网交换机技术文件：**「Türkiye'de hali hazırda EXTREME NETWORK, ALLIED TELESIS, CRYPTOLINK, D-LINK gibi çeşitli markalar Haberleşme Daire Başkanlığı'ndan BAŞARILI raporu almış」**，并注明 **「Cryptolink, Extreme network, Dlink switch'ler için benzer yazılımı kullanmaktadır」** |
 
-#### B. `CRL-SFP-10G-LC`（10G 光模块）—— ⚠ **原文自相矛盾**
-- 型号与标题写 **SFP+ 10GbE**，参数栏写 **Transmit Distance: 10Gbs**；
-- 但正文第一段写 **「the speed rate up to **155Mbps** and the transmission distance up to 20km」**；
-- 实测参数：**1310 nm、发射 −15~−3 dBm、接收灵敏度 −34 dBm、单模 20 km / 多模 2 km、DC 3.15–3.45 V、1 W、55.4×13.7×6.25 mm、0.17 g、0~70 °C**。
-
-⇒ **同一份官方 datasheet 里 155M / 10G 并存** —— 这是**换牌厂商直接沿用 OEM 模板、没校对**的典型痕迹（与 r53 发现的上游 `CrystalWAN` 页眉同源）。
-→ **销售可用**：客户若拿它的 datasheet 做招标附件，**参数自相矛盾可直接质疑**；我方 datasheet 只需**准确、可对标**就能赢这一分。
-
-#### C. 至此 CryptoLink 全 7 份 PDF 已读（4 份本轮前已读，2 份本轮读完，1 份重复）
-`CRL-SW-L3-2404-10G` · `CRL-SW-2402` · `CRLISW-08` · `CRLISW-14P` · **`CRL-MC02`** · **`CRL-SFP-10G-LC`** · `CRL-SFP-125 LC`（未单独读，与 10G 版同族）。
-
-### 证据等级（r55）
-- 已核实：**两份 datasheet 全表**、**155M vs 10G 的矛盾文本**。
-- 仍空白：`CRL-SFP-125 LC` 单独规格。
+⇒ **判读（三条）**
+1. **土本地品牌可以拿到通信司的工业交换机型式认可** —— 我方 ODM 合作的**认证路径已被这家走通过一次**。
+2. 它与 `EXTREME` / `D-LINK` **用相似的软件** ⇒ 极可能是**同一芯片方案 + 同一参考设计**的贴牌 ⇒ **我方若做同级方案，认可文件可复用**。
+3. **它缺的是成本与产品宽度，不是资质** ⇒ 谈判切入点 = 「**用你的认可 + 我们的成本**」。
 
 ---
 
@@ -320,3 +308,25 @@ info@cryptolink.com.tr + +90 312 557 64 00 + Çankaya Mah. Bükreş Cad. 19/1
 ### 证据等级（r55）
 - 已核实：**两份 datasheet 全表**、**155M vs 10G 的矛盾文本**。
 - 仍空白：`CRL-SFP-125 LC` 单独规格。
+
+---
+
+## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品牌）
+
+> 本节为 **r72（2026-11-06）**：**工商身份与联系人档案 —— 打电话前先读这一节。**
+
+#### r72 补：**CryptoLink 的工业交换机已拿政府「合格报告」—— 本轮最重要的一条客户情报**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **CryptoLink Elektronik Güvenlik Sistemleri San. ve Tic. Ltd. Şti.** |
+| 地址 | **Çankaya Mah. Bükreş Cad. No:19/1, Çankaya / Ankara** |
+| 电话 / 邮箱 | **+90 312 557 64 00** · `info@cryptolink.com.tr` |
+| 定位 | **政府/公共部门项目商**：边境安全 · 网络安全 · 网络方案 · 车牌识别 · 在线训练 · 信号干扰 |
+| **自有品牌** | **`CRLISW-8P` 工业交换机（8 口）** |
+| **⭐⭐ 关键原文** | KGYS（城市安全管理体系）C 型以太网交换机技术文件：**「Türkiye'de hali hazırda EXTREME NETWORK, ALLIED TELESIS, CRYPTOLINK, D-LINK gibi çeşitli markalar Haberleşme Daire Başkanlığı'ndan BAŞARILI raporu almış」**，并注明 **「Cryptolink, Extreme network, Dlink switch'ler için benzer yazılımı kullanmaktadır」** |
+
+⇒ **判读（三条）**
+1. **土本地品牌可以拿到通信司的工业交换机型式认可** —— 我方 ODM 合作的**认证路径已被这家走通过一次**。
+2. 它与 `EXTREME` / `D-LINK` **用相似的软件** ⇒ 极可能是**同一芯片方案 + 同一参考设计**的贴牌 ⇒ **我方若做同级方案，认可文件可复用**。
+3. **它缺的是成本与产品宽度，不是资质** ⇒ 谈判切入点 = 「**用你的认可 + 我们的成本**」。

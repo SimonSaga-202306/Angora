@@ -1347,6 +1347,44 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §66 · 第 72 轮 — 2026-11-06 ≈06:20–09:40 (+0800)：**用户转向「挖客户、不看我方价格」** / 6 家 A 级客户身份档案 / **Perpa 一栋楼 = 客户中心** / **CryptoLink `CRLISW-8P` 已拿政府 BAŞARILI 报告**
+
+用户第 25 次指令，明确改方向：「**继续挖掘 挖这些客户的信息为主 不需要过度关注 Saga 的价格**」。本轮**不计算任何我方倍率**，只做客户工商情报。
+
+### 一、⭐⭐ 本轮最重要：`CryptoLink` 的自有工业交换机 `CRLISW-8P` 已取得土耳其通信司「BAŞARILI（合格）」报告
+KGYS C 型以太网交换机技术文件原文：「Türkiye'de hali hazırda **EXTREME NETWORK, ALLIED TELESIS, CRYPTOLINK, D-LINK** gibi çeşitli markalar **Haberleşme Daire Başkanlığı'ndan BAŞARILI raporu almış**」，并注「**Cryptolink, Extreme network, Dlink switch'ler için benzer yazılımı kullanmaktadır**」。
+⇒ **土本地品牌可以拿到政府工业交换机型式认可** —— 我方 ODM 合作的**认证路径已被走通一次**；且它与 Extreme/D-Link 软件相似 ⇒ **同芯片同参考设计贴牌，认可文件可复用** ⇒ 切入语 = 「**用你的认可 + 我们的成本**」。
+CryptoLink：Çankaya Mah. Bükreş Cad. No:19/1 Çankaya/Ankara · 0312 557 64 00 · `info@cryptolink.com.tr` · 业务=边境安全/网络安全/网络方案/车牌识别/信号干扰（政府项目商）。
+
+### 二、⭐ Perpa Ticaret Merkezi = 客户中心（首次落到楼层号）
+**GelecekBT** Perpa **A Blok K:5 No:295**（0212 320 4030，`bayi@gelecekbt.com`，2004，CLR Networks 土耳其**唯一**授权分销，5–10 人）· **Nokta Elektronik** Perpa **A Blok K:2 No:1**（总部）+ **B Blok K:8 No:906-907**（销售/技术）+ A Blok K8 No:841 · **Cenova** **Elektrokent B Blok K:8 D:902-903-904**（与 Nokta 同层相邻）· **Okisan** Okisan Plaza Okmeydanı（步行范围）。⇒ **一次 İstanbul 行程覆盖 4 家 A 级客户。**
+
+### 三、Cenova：Tiandy 土耳其总代，7 个品牌里没有交换机
+法人 **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.**（**2002**）· 地址 = Perpa Elektrokent B Blok K8 D902-903-904 · `cenova.com.tr` / `info@cenova.com.tr`。
+身份：**`Tianjin Tiandy Digital Technology` 土耳其授权总代** + **`GVD / Genius Vision Digital`（台湾 Taipei，2007）土耳其总代兼战略项目伙伴**。
+品牌 7 个：**Cenova · Dayzip · Wisetech · Dayline · Bawcon · GVD · Tiandy** —— **全是摄像头/报警/录像，没有一个交换机** ⇒ **23 年老分销商货架上唯一的结构性缺口。**
+销售部 3 人（分机+邮箱）：**Rıfat BAYDEMİR（116，总经理）`rifat@cenova.com.tr`** · **Kuntay KIZILAY（115）`kuntaykizlay@cenova.com.tr`** · **Ahmet CANCA（117）`ahmetcanca@cenova.com.tr`**。
+自述：「**Uzakdoğu'da sahip olduğu üretim kanalları**」⇒ 本来就在中国做 OEM，**谈判不需翻译**。
+
+### 四、Nokta Elektronik：数据最全的一家（含 MERSİS / 税号 / KEP）
+**Nokta Elektronik ve Bilişim Sistemleri A.Ş.** · **MERSİS 0631-0730-5210-0020** · **Ticaret Sicil 555138-0** · **Vergi Şişli / 6310730521** · **KEP noktaelektronikvebilisim@hs03.kep.tr** · 电话 0212 222 87 80 / 0850 333 02 08 · `nokta@noktaelektronik.net`。
+规模 **75–99 人**、营收约 **$7.5M**、**39% 员工在职 11 年以上**。自有品牌 **upTech**：土耳其专利局 **2008/13951**（2008-03-11 首注册，**续展至 2028**），**916 个 SKU**。
+代理：**Dahua（官方 Distribution Partner id 203）· Oring · Amphenol · Planet · Gewiss · Edge-Core · Goldtool · ATC · Ruijie · Inno Instrument · Noyafa**。
+决策层：**Harun Yazar（Vice Chairman）· Ersan Çağlar（COO/CDO）· `Casey CHEN`（Import Manager ← 进口决策人，中文名）· Mehmet Tığlı / Nefise Tugay（Sales Managers）· Kadir Babur（Marketing）**。
+⇒ **它同时代理 5 个交换机品牌 ⇒ 不缺供应商，缺「能贴 upTech 标且更便宜」的那一家**；`Casey Chen` 说明**中国采购通道已存在**。
+
+### 五、Novacom / Okisan / GelecekBT / HAFYA
+**Nova Grup Mühendislik Ticaret Ltd. Şti.**（**2002**）· Öveçler Mah. 1332 Cad. No:8/1-3-5-7 Çankaya/Ankara · **0312 311 02 00** · `info@novacom.com.tr` · 网点 **Ankara + İstanbul + İzmir + Şanlıurfa + London** · 自述「ithalat firması」。产品线含 **24V Intercom PoE 交换机**（`NVC-INTSF0420FB2L`/`0820FB2L`）、**PoE Extender 1×4 Full Giga 户外**（`NVC-EBT14GW-A`）、PoE Splitter、5 口千兆、卫星 SMATV、NVR ⇒ **24V 门禁 PoE 是我方没有的品类，可「先互补后替代」**。
+**Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.** · **1988-01-18 注册** · Okisan Plaza, Mahmut Şevket Paşa Mah. Odesa Bulvarı Ersan Sok. No:24 Okmeydanı/Şişli · **444 1 309** · `info@okisan.com` · 分公司 **Ankara Dikmen（Çetin Emeç Bul. Sokullu Cad. No:15/A）+ İzmir** · **44–51 人 / $8.6M / 5,000+ 经销商** · **Dahua + Tiandy 双授权** · 决策层 **Ekrem ÖZKARA（创始人/CEO）· `Okan ÖZKARA`（Business Development Director，旧档误写 Gokhan Ozkara）· Burhan ACAR（Technical Presales）** ⇒ **无 DMO 记录 = 纯渠道玩家**，销售语言改为「你 5,000 家店里卖谁的交换机？」
+**GelecekBT 订正**：地址 **Perpa A-Blok K:5 No:295**（旧档 K13）、电话 **0212 320 4030**、邮箱 `bayi@gelecekbt.com`、**2004 成立**、**CLR Networks 土耳其唯一授权分销**、5–10 人（Telkolink 8 人）；人名新增 **Ebru Akdemir（Kurumsal Satış）· Sait Yıldız（Yönetici）· Bilge Birol（Satış）**。⇒ **5–10 人做 7 个站 + 全品类 = 高度依赖外部供应 ⇒ 响应速度与 MOQ 比价格更能打动它。**
+**HAFYA**：Şişli，0212 221 16 72，`hafya.com.tr`，**系统集成商非分销商**（无品牌表/无团队页/无工商信息）⇒ **改做项目报价，不做代理谈判**。
+
+### 六、结构性判断（本轮新增）
+`Tianjin Tiandy` = **Cenova（总代）+ Okisan（授权分销）**；`Dahua` = **Okisan（授权分销）+ Nokta（Distribution Partner）** ⇒ **土安防分销的两大货源都是中国摄像头厂，而它们的交换机生意都让给了别人** ⇒ **交换机是这条渠道里唯一空着的货架。**
+销售语言：「你们卖 Tiandy/Dahua 的摄像头，交换机靠 Dahua/Planet/Ruijie 补。**摄像头那两个牌子自己不做交换机生意 —— 这块货架上没有主人。**」
+
+**诚实边界**：Cenova 与 Novacom 的税号/MERSİS 未取到 · CryptoLink 实控人与采购人未取到、`CRLISW-8P` 规格与产地未取到 · Okisan 的 DMO 关系仅「未找到」不排除存在 · HAFYA 只有表层 · 员工数三源不一致（44/49/51）· **所有电话邮箱均为公开页原文，未验证有效性，发信前需人工试拨**。
+
 ## §65 · 第 71 轮 — 2026-11-06 ≈03:00–06:10 (+0800)：**24 口市价地板 $278（IP-COM `G3326P-24-410W`）/ $240（`G5328P-24-410W`，470 W L3）** · **渠道活地板 $403（RUBISEC `RS-ES-200-28PS`）** · **RUBISEC = 黑山 2016 品牌，合同 K4525 至 2026-09-03** · **IP-COM 土独家代理 = NASA/Nasabil（2018-04 起）** · 2.5G 锚 $460/$1,700
 
 用户第 24 次「继续」。清待办 51 的 ①②④。
