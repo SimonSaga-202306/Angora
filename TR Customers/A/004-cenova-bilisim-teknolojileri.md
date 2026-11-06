@@ -256,22 +256,29 @@ OEM 贴 Cenova 方案（CCTV 场景 PoE 8/16/24 口 + IGMP Snooping/Extend 长�
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r72 补：**Cenova 是 Tiandy 土耳其总代，7 个品牌里没有交换机**
+#### r78 补：**身份补齐 + 一个推翻（`Dayzip` 是 Cenova 自己的牌）**
 
-| 项 | 内容 |
+| 字段 | 内容 |
 |---|---|
-| 法人 | **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.**（**2002 成立**） |
-| 地址 | **H. Rıfat Paşa Mah. Elektrokent B Blok Perpa Ticaret Merkezi K:8 D:902-903-904, 34384 Şişli / İstanbul** |
-| 邮箱 / 站 | `info@cenova.com.tr` · `www.cenova.com.tr` |
-| **身份** | **`Tianjin Tiandy Digital Technology` 土耳其授权总代** · **`GVD / Genius Vision Digital`（台湾 Taipei，2007）土耳其总代兼战略项目伙伴** |
-| 品牌 7 个 | **Cenova · Dayzip · Wisetech · Dayline · Bawcon · GVD · Tiandy** |
-| 业务 | 光纤视频传输、光端机、IP 摄像头、NVR/服务器、专业拼接矩阵；**以 Bayi（经销商）渠道为主** |
-| **销售部 3 人（分机 + 邮箱）** | **Rıfat BAYDEMİR（116，总经理）`rifat@cenova.com.tr`** · **Kuntay KIZILAY（115）`kuntaykizlay@cenova.com.tr`** · **Ahmet CANCA（117）`ahmetcanca@cenova.com.tr`** |
-| 自述关键句 | 「**Uzakdoğu'da sahip olduğu üretim kanalları**」= 在远东拥有生产渠道 |
+| **法定全称** | **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. VE TİC. LTD. ŞTİ.** |
+| **地址** | **Perpa Ticaret Merkezi, B Blok, Kat: 7-8-9, No: 902, Şişli / İstanbul**（**同一栋楼占三层**） |
+| 电话 | **+90 212 221 13 40** · **0212 222 71 66** |
+| 邮箱 | **`rifat@cenova.com.tr`**（Rifat Baydemir）· `dayzip@cenova.com.tr` |
+| 地址码 | Perpa **1599466776** |
+| 人数 | **11–50**（LinkedIn 18）· Kariyer.net **25–49** |
+| LinkedIn | **Cenova Güvenlik**，注册年 **2004**（官宣口径 2002） |
+| 品牌结构 | **Cenova · Dayzip · Wisetech · Dayline · Bawcon · GVD · Tiandy** |
 
-⇒ **判读**：**7 个品牌全是摄像头/报警/录像，没有一个是交换机** ⇒ 交换机是这家 23 年老分销商货架上**唯一的结构性缺口**。
-⇒ **它本来就习惯「远东贴牌」** ⇒ 谈判语言不需要翻译，**直接谈 ODM 规格 + 价格档位**。
-⇒ **注意**：它与 `AKTİF GRUP`（DMO 持 DAHUA 码）不同 —— **Cenova 无 DMO 记录，是纯渠道商**。
+**🛑 推翻 r77 的假设**
+r77 写「`Dayzip` 无工厂痕迹 ⇒ 极可能是深圳厂 ODM 牌」。**实际：**
+- App Store `dayzip` 应用：**开发者 = Rifat BAYDEMIR**，**版权 = © CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR.**；
+- 第三方教程站（`dvrdestek.com` / `cctvdesk.com`）原文：**「CMS 软件由 Cenova Bilişim Teknolojileri 开发」**；
+- **⇒ `Dayzip` 是 Cenova 的自有安防品牌**，`DZ-` 的**硬件**才是 ODM。
+
+**⇒ 修正后的判读与话术**
+**Cenova 已经跑通「自有品牌 + ODM 硬件 + 自研 CMS」整套** —— 它**不缺品牌能力，缺的是「工业段产品」和「DMO 目录」**。
+⇒ **话术改成**：「**你的 `DZ-` 已经能覆盖商用 8/16 口，缺的是 −40~75 ℃ 那一格和一张 DMO 码 —— 这两样我可以一起给。**」
+⇒ **不要再问「Dayzip 是谁做的」** —— 问了会显得没做功课。
 
 ---
 
@@ -335,3 +342,33 @@ OEM 贴 Cenova 方案（CCTV 场景 PoE 8/16/24 口 + IGMP Snooping/Extend 长�
 ⇒ **判读**：**7 个品牌全是摄像头/报警/录像，没有一个是交换机** ⇒ 交换机是这家 23 年老分销商货架上**唯一的结构性缺口**。
 ⇒ **它本来就习惯「远东贴牌」** ⇒ 谈判语言不需要翻译，**直接谈 ODM 规格 + 价格档位**。
 ⇒ **注意**：它与 `AKTİF GRUP`（DMO 持 DAHUA 码）不同 —— **Cenova 无 DMO 记录，是纯渠道商**。
+
+---
+
+## 附：r78 离岸品牌模板与身份卡（RUBISEC / Birkil / 四家客户）
+
+> 本节为 **r78（2026-11-06）**：**身份卡到「可以打电话」的密度；以及「挂牌价 ÷2.3–3.0 = 成交价」这条纪律。**
+
+#### r78 补：**身份补齐 + 一个推翻（`Dayzip` 是 Cenova 自己的牌）**
+
+| 字段 | 内容 |
+|---|---|
+| **法定全称** | **CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. VE TİC. LTD. ŞTİ.** |
+| **地址** | **Perpa Ticaret Merkezi, B Blok, Kat: 7-8-9, No: 902, Şişli / İstanbul**（**同一栋楼占三层**） |
+| 电话 | **+90 212 221 13 40** · **0212 222 71 66** |
+| 邮箱 | **`rifat@cenova.com.tr`**（Rifat Baydemir）· `dayzip@cenova.com.tr` |
+| 地址码 | Perpa **1599466776** |
+| 人数 | **11–50**（LinkedIn 18）· Kariyer.net **25–49** |
+| LinkedIn | **Cenova Güvenlik**，注册年 **2004**（官宣口径 2002） |
+| 品牌结构 | **Cenova · Dayzip · Wisetech · Dayline · Bawcon · GVD · Tiandy** |
+
+**🛑 推翻 r77 的假设**
+r77 写「`Dayzip` 无工厂痕迹 ⇒ 极可能是深圳厂 ODM 牌」。**实际：**
+- App Store `dayzip` 应用：**开发者 = Rifat BAYDEMIR**，**版权 = © CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR.**；
+- 第三方教程站（`dvrdestek.com` / `cctvdesk.com`）原文：**「CMS 软件由 Cenova Bilişim Teknolojileri 开发」**；
+- **⇒ `Dayzip` 是 Cenova 的自有安防品牌**，`DZ-` 的**硬件**才是 ODM。
+
+**⇒ 修正后的判读与话术**
+**Cenova 已经跑通「自有品牌 + ODM 硬件 + 自研 CMS」整套** —— 它**不缺品牌能力，缺的是「工业段产品」和「DMO 目录」**。
+⇒ **话术改成**：「**你的 `DZ-` 已经能覆盖商用 8/16 口，缺的是 −40~75 ℃ 那一格和一张 DMO 码 —— 这两样我可以一起给。**」
+⇒ **不要再问「Dayzip 是谁做的」** —— 问了会显得没做功课。

@@ -93,46 +93,51 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r77 总览：**方法修正一轮，价格地图才第一次可信**
+#### r78 总览：**一个离岸品牌的模板 + 一张被高估三倍的价格表 + 四张能打电话的身份卡**
 
-**① 🛑 DMO 聚合页会串价 —— 这是本轮最大的方法收获**
-`RUBISEC RS-ES-300-28GPX`：**38,973.49 / 31,784.73 / 334,604.66 ₺**（8.6 倍差）· `FOREDGE AI8024`：**21,401.50 / 25,681.80 / 58,072.20 ₺** · **`PLANET GS-4210-24P4C` 与 `FOREDGE AI8024` 同挂 25,681.80 ₺**。
-⇒ **只信详情页**；聚合页只找型号。
+**① ⭐⭐⭐ RUBISEC 的真实身份：黑山注册（2016）→ 迪拜研发（2018）→ 爱沙尼亚总部（2020）→ 香港物流（2023）**
+- DMO 页面 `Menşei` 字段 = **Karadağ（黑山）**；地址 **Budva, XVI Ulica, Lokal br. 7**；客服 **+372 5838 16 45（爱沙尼亚）**；自称 `independently developed by Rubisec`。
+- **⇒ 「品牌壳（黑山）+ 总部（爱沙尼亚）+ 研发（迪拜）+ 物流（香港）+ 代工（中国）」是一套可复制的进入模式。**
+- **⇒ 对客户的含义**：**「土耳其本土制造」没有制度红利** —— DMO 只认「原产地 + 供应商 + 合同 + 价格」。**本土牌的价值只在「集成商信任」与「服务响应」。**
 
-**② ⭐⭐⭐ FOREDGE 的 DMO 主体 = FS Grup Bilişim（K4702），合同 2024-10-21 → 2026-10-21，有效**
-**一个 K 码覆盖 FOREDGE + MILESIGHT + AXXON 共 44 个产品** ⇒ **纯目录商，无工厂，替换上游成本≈0** ⇒ **最易撬开**。
-**已核实**：`AI8024` **21,401.50 ₺**（产品码 119852）· 联系 **0555 685 6157** · 总机 **0312 473 32 00**。
+**② ⭐⭐⭐ 挂牌价 vs 成交价 = 2.96 倍（本轮最重要的定价纪律）**
+`rubisec.com/price-list/` 公开 **43 项 Partner Project Price**：
+| 型号 | 官方挂牌 | DMO 成交 | 倍率 |
+|---|---|---|---|
+| `RS-ES-200-28PS`（24×GbE PoE，400 W） | **$1,200** | **20,331.42 ₺ ≈ $406** | **2.96×** |
+| `RS-ES-300-28GPX`（24×PoE+ + 4×10G） | **$2,100** | **38,973.49 ₺ ≈ $779** | 2.69× |
+| `RS-ES-300-52GPX`（48×PoE+ + 4×10G） | **$2,550** | **42,899.79 ₺ ≈ $858** | 2.97× |
+| `RS-ES-350-54GPX`（48 口 760 W） | **$6,660** | **117,708.23 ₺ ≈ $2,354** | 2.83× |
+| `RS-ES-200-10PS`（8×PoE + 2 SFP） | **$600** | **12,840.90 ₺ ≈ $257** | 2.33× |
+**⇒ 纪律：任何「官网 price list / partner price」一律 ÷2.3–3.0 还原成交价**，再用 DMO 详情页校准。Moxa / FOREDGE / Planet 同理。
+**⇒ 工业线还原后**：`RS-IS-100-10GP` $550 → **≈$235** · `RS-IS-200-10GP` $1,800 → **≈$610** · `RS-IS-300-12GPX`（8×PoE + 2 RJ45 + 4×10G，−40~80 ℃，240 W）$3,600 → **≈$1,225**。**我方 8 口工业 PoE $125.72 在所有这些数的一半以下。**
 
-**③ ⭐⭐ RUBISEC 的完整价格阶梯（三个价，最高差 24%）**
-`RS-ES-300-28GPX`（24×GbE PoE+ + 4×1/10G SFP+）：**经销 USD $969 / 零售 42,000 ₺≈$840 / DMO 38,973.49 ₺≈$779**
-`RS-ES-100-10GP` **$279** · `RS-ES-100-28GP` **$559** · `RS-ES-200-28GS` **$829** · `RS-ES-400-28GSX` **$1,380** · `RS-ES-400-28GTSX` **$12,000** ⚠ · `RS-ES-350-28GPX` **$3,700** · `RS-ES-350-54GPX` **$6,600**
-⇒ **渠道 = Birkil Savunma**（`birkilsavunma.com`，**用 USD 报价的军工/安防渠道**，新线索）。
+**③ ⭐⭐⭐ Birkil Savunma 建档 —— 用 5 年资历拿到两年期 DMO 网络合同的样本**
+**BİRKİL SAVUNMA TEKNOLOJİLERİ A.Ş.**（**2021-01-21**，单一股东 A.Ş.，NACE 620101）· **`K4525` + `K6355` 都是它** · 合同 **2026-09-02 → 2028-09-02** · 电话 **0312 284 8477** · `info@birkil.com` · 总部 **Kızılırmak Mah. Next Level Loft No:4 K:15 D:44 Çankaya/Ankara** · 研发办 **Gazi Üniversitesi Gölbaşı Yerleşkesi** · 代理 **Allied Telesis · Milestone · Ruckus · Axis · BCD · Canon · Skyfilter · Rubisec · FF Group · Maipu** · 主营**弹药/防弹/反无人机**。
+**⇒ 结论句**：**如果一家 5 年历史的安卡拉防务小公司都能进 DMO 卖交换机，我们的客户没有理由进不去。缺口只有一个：一个能过目录价的成本结构。**
+**✅ 技术债结清**：r44 起挂的「RUBISEC `K4525`/`K6355` 合同期」= **2026-09-02→2028-09-02（刚续）**。
 
-**④ ⭐⭐ DMO 工业 8 口可信价带：$167（PLANET 非 PoE）→ $380（Dahua 120 W）→ $2,315（Cisco IE-3300）**
-⇒ **r76 的单一 $898–1,155 作废。**
+**④ ⚠ 再修正：`32,102.24 ₺` 是 DAHUA，不是 FOREDGE**
+**`DH-PFSD224ET2-360D`**（**24×10/100 Base-T PoE** 百兆 + 2 GbE combo + 2 SFP，8.8 Gbps，360 W，−10~55 ℃），产品码 **55492**，**两家供应商同价**：**AKTİF GRUP（K4969）** 与 **RİVO**。
+**⇒ r77 把 32,102.24 ₺ 记在 FOREDGE `AI2010GX` 名下是错的**；**FOREDGE 在 DMO 的唯一已核实价 = `AI8024` 21,401.50 ₺。**
+**⇒ 两个新判读**：① **政府花 $642 买一台「24 口百兆 PoE」** ⇒ 客户比的是「端口数 + 瓦数 + 250 m 远距离」，**不是千兆**；② **同型号两家同价 ⇒ DMO 价格由上游控**，**「换一家分销商便宜 5%」这条路不存在**。
 
-**⑤ ⭐ GSL 311 的真实构成**
-**受管 119 + 非受管 112 + 其余约 80（SFP 模块 / 光配 / 机架件 `RK-4U` / 转接头 `ADP-SCm-STf-*` / Smart / POE 子类）**
-⇒ **真正在卖的交换机 = 231 款**，「311」不能当竞争规模用。**但 SFP + 配件是它的黏客层 —— 我方的 SFP 若价格对，可直接插进去。**
+**⑤ ⭐⭐ 四家客户身份卡（可打电话）**
+- **Cenova**：Perpa **B Blok Kat 7-8-9 No:902** · **0212 221 13 40 / 222 71 66** · `rifat@cenova.com.tr` · **11–50 人** · LinkedIn 注册 **2004**（官宣 2002）。**🛑 推翻 r77「`Dayzip` 疑深圳 ODM 牌」：`Dayzip` 是 Cenova 自有品牌**（App Store 开发者 Rifat BAYDEMİR，© CENOVA；CMS 自研）。
+- **GSL**：**GSL MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.** · **1988 安卡拉** · İlkbahar Mah. 612. Cad. No:9 · **25–49 人** · **安卡拉 + 伊斯坦布尔两办公室** · **Moxa 2003 起 22 年** + Robustel/Digi/Kyland/Pro Optix/RuggON/Transcend/**Tipro** · Key Principal **Ümit Özdemir**。
+- **Öncü**：**2002** · **51–200 人** · **1,500+ bayi** · Beykoz 总部 + **Pendik Teknopark 二址** · 0216 537 01 23 / 693 23 33 / 504 06 26。
+- **Han**：**2000** · **51–200 人** · **营收 ≈$20M** · Bağcılar/Ümraniye 1904 Sk No:15/A · **总经理 Hakan Kasap / 采购经理 Fadime Maden ⭐** · DIA ERP（B2B 电商）。
 
-**⑥ ⭐ Angora Networks 不在 DMO（`VERGE` / 公司名 零命中）**
-⇒ 走**直销 + 集成商 + 项目标**，不进政府目录。
-⇒ **话术**：「**你不进 DMO，是因为你没有一条能撑住目录价的产线。**」/「**我帮你把 8 口工业段做成你能报 DMO 的成本结构 —— 进不进你自己选。**」
-⚠ 也可能以**关联主体名**在册，**未穷举**。
+**⑥ ⭐ TG-NET 实体坐实**：**Shenzhen TG-NET Botone Technology Co., Ltd.**，**2011**，南山中山园路 1001 号 E3 栋 4 楼，**龙华大浪工厂 1,500 ㎡**，**200+ 人 / 60+ 研发 / 6 线 / 日产 5,000 / ISO9001:2008**，深圳+上海双研发中心。
+⇒ **与我方同量级 ⇒ CLR 换供应商的技术风险极低**；话术「同一档的厂 + 千兆 bt + G.8032 + 5 年保修 + MOQ 1」。
 
-**⑦ ⭐ DMO 供应商 K 码名录（14 家，累积）**
-**K291** Telkolink(CLR) · **K2757** ASIR · **K2831/K4141** OMSİS(MILESIGHT，**K4141 已到期**) · **K2887** TeleOne(**僵尸**) · **K3193/K4329** İNFOGEN(D-Link) · **K3922** ALE 渠道 · **K4051/K5041** VOLGA(IDIS) · **K4385** RİVO(GWSECU) · **K4427** 4S BİLİŞİM(Cisco) · **K4702** FS GRUP(FOREDGE+MILESIGHT+AXXON) · **K4716** NETCOM(Huawei) · **K4969** AKTİF GRUP(DAHUA) · **K6285** PİNET(i-PRO)
-⇒ **这张表就是土耳其政府渠道的分销商名录，每一行都是「有 K 码、没工厂」的潜在客户。**
+**⑦ GSL 的切入口不是 Moxa，是它的边缘品类**
+GSL 22 年的护城河是**技术服务 + 备件 + 工程师**，**不会为 10% 价差换供应商**。但它代理的 **Tipro（工业终端）/ RuggON（加固平板）/ Transcend（存储）** 采购决策远比 Moxa 松。
+⇒ **切入点：补它没拿到的中国工业牌（802.3bt / 2.5G 工业 / IEC 61850-3）。**
 
-**⑧ ⭐ Cenova 的三个交换机牌**：`Cenova CN-` + **`Dayzip DZ-`**（`DZ-PS204D` / `DZ-PS208G` / `DZ-PS308G` / `DZ-GS108` / `DZ-GS116` / `DZ-POE103S` / `DZ-GPS424`）+ **`DL-`**（`DL-3308P` / `DL-3316PF`）⇒ **`Dayzip` 无工厂痕迹 ⇒ 极可能是深圳厂 ODM 牌，这是 A 级客户的入场券。**
+**证据等级**：`rubisec.com/about` · **`rubisec.com/price-list/`（43 项全表）** · `rubisec.com` 页脚 · `RS-ES-300-Series_DS.pdf` · `birkilsavunma.com` ×3 · `find.com.tr` · **`dmo.gov.tr/Katalog/Urun/Detay/6853611_1224006`（20,331.42 ₺ + 合同 2026-09-02→2028-09-02）** · **`/Detay/5319885_595299`（32,102.24 ₺ + 两供应商同价）** · `dmo.gov.tr/rapor/UrunDetay/4360378_1224020`（42,899.79 ₺ · Karadağ）· `perpa.com.tr` ×2 · `linkedin.com/company/cenova-bilişim` · `kariyer.net` ×2 · `apps.apple.com`（Dayzip）· `dvrdestek.com` · `cctvdesk.com` · `perpastore.com/dayzip` · `contactout.com`（GSL 29 人）· `dnb.com`（GSL Ümit Özdemir）· `tracxn.com`（GSL 42 人）· `made-in-china.com` + `slideshare.net`（TG-NET 2016）· `tg-net.net` · `oncuguvenlik.com.tr` · `secube.com.tr` · `zoominfo.com` · `rocketreach.co` · `appsruntheworld.com` · `brandfetch.com` —— **共 20 个来源，逐字/结构化**。
 
-**⑨ OEM 客户「现有上游」排表：11 家里只有 2 家可点名**
-**Telkolink → TG-NET**（强）· **Han/FOREDGE → 深圳未定名工厂**（中）· 其余 9 家（Asya/ISEE、Nokta、Öncü、Cenova、Angora、Lansan、Karer、Snexus、Novacom）**上游空白**。
-⇒ **这是下一轮最值得花钱的地方。**
-
-**证据等级**：`dmo.gov.tr/Katalog/Urun/Detay/4634552_1207375`（FOREDGE AI8024）· `/5319885_597202`（DAHUA）· `/4634552_1152797` `/3471046_1095054` `/1244978_1004187`（MILESIGHT 三码）· `/4152754_108333`（RİVO K4385）· `/5395837_1186780` `/3289133_1113209`（VOLGA）· `/6792399_1274994`（PİNET）· `/5319885_1207612`（AKTİF GRUP）· `dmo.tr/rapor/UrunDetay/4324321_1232439`（CISCO）· `dmo.gov.tr/EMagaza/Magaza/Standart/1187182` · `birkilsavunma.com/tr/rubisec/` · `tybilgisayar.com` · `store.gsl.com.tr/kategori/managed|unmanaged` · `cenova.com.tr/urunler/switchler` —— 均逐字。
-
-**空白**：r76 的 FOREDGE 区间价未回详情页 · Han 自己是否有 K 码 · **RUBISEC 的 K4525/K6355 合同期（技术债，自 r44 挂起）** · **`Dayzip` 的真实工厂** · **TG-NET 的实体** · Asya/ISEE 的 5 家供应商 · GSL 剩余约 80 个「其余」未分类 · **所有电话未试拨**（新增 AKTİF GRUP 0312 284 64 14 / RİVO 0533 658 73 12 / FS Grup 0555 685 61 57）。
+**空白**：Birkil 真实 VKN（find.com.tr 的税号是占位符 `1234567890`，**不可引用**）· **RUBISEC 的代工厂名** · RUBISEC `RS-IS-*` 工业线的 DMO 成交价 · Cenova VKN/MERSİS（只有 Perpa 地址码 1599466776）· GSL 营收 · Öncü VKN · **Han VKN + 工厂地址 + FOREDGE 代工厂名** · **所有电话未试拨**（新增 Birkil 0312 284 8477 · Cenova 0212 221 13 40 · Öncü 0216 693 23 33 · RUBISEC +372 5838 16 45）。
 
 ---
 
@@ -1054,3 +1059,55 @@ DMO 里 RUBISEC（供应商 **BİRKİL SAVUNMA**）的 8 口 PoE 卖：
 **证据等级**：`dmo.gov.tr/Katalog/Urun/Detay/4634552_1207375`（FOREDGE AI8024）· `/5319885_597202`（DAHUA）· `/4634552_1152797` `/3471046_1095054` `/1244978_1004187`（MILESIGHT 三码）· `/4152754_108333`（RİVO K4385）· `/5395837_1186780` `/3289133_1113209`（VOLGA）· `/6792399_1274994`（PİNET）· `/5319885_1207612`（AKTİF GRUP）· `dmo.tr/rapor/UrunDetay/4324321_1232439`（CISCO）· `dmo.gov.tr/EMagaza/Magaza/Standart/1187182` · `birkilsavunma.com/tr/rubisec/` · `tybilgisayar.com` · `store.gsl.com.tr/kategori/managed|unmanaged` · `cenova.com.tr/urunler/switchler` —— 均逐字。
 
 **空白**：r76 的 FOREDGE 区间价未回详情页 · Han 自己是否有 K 码 · **RUBISEC 的 K4525/K6355 合同期（技术债，自 r44 挂起）** · **`Dayzip` 的真实工厂** · **TG-NET 的实体** · Asya/ISEE 的 5 家供应商 · GSL 剩余约 80 个「其余」未分类 · **所有电话未试拨**（新增 AKTİF GRUP 0312 284 64 14 / RİVO 0533 658 73 12 / FS Grup 0555 685 61 57）。
+
+---
+
+## 附：r78 离岸品牌模板与身份卡（RUBISEC / Birkil / 四家客户）
+
+> 本节为 **r78（2026-11-06）**：**身份卡到「可以打电话」的密度；以及「挂牌价 ÷2.3–3.0 = 成交价」这条纪律。**
+
+#### r78 总览：**一个离岸品牌的模板 + 一张被高估三倍的价格表 + 四张能打电话的身份卡**
+
+**① ⭐⭐⭐ RUBISEC 的真实身份：黑山注册（2016）→ 迪拜研发（2018）→ 爱沙尼亚总部（2020）→ 香港物流（2023）**
+- DMO 页面 `Menşei` 字段 = **Karadağ（黑山）**；地址 **Budva, XVI Ulica, Lokal br. 7**；客服 **+372 5838 16 45（爱沙尼亚）**；自称 `independently developed by Rubisec`。
+- **⇒ 「品牌壳（黑山）+ 总部（爱沙尼亚）+ 研发（迪拜）+ 物流（香港）+ 代工（中国）」是一套可复制的进入模式。**
+- **⇒ 对客户的含义**：**「土耳其本土制造」没有制度红利** —— DMO 只认「原产地 + 供应商 + 合同 + 价格」。**本土牌的价值只在「集成商信任」与「服务响应」。**
+
+**② ⭐⭐⭐ 挂牌价 vs 成交价 = 2.96 倍（本轮最重要的定价纪律）**
+`rubisec.com/price-list/` 公开 **43 项 Partner Project Price**：
+| 型号 | 官方挂牌 | DMO 成交 | 倍率 |
+|---|---|---|---|
+| `RS-ES-200-28PS`（24×GbE PoE，400 W） | **$1,200** | **20,331.42 ₺ ≈ $406** | **2.96×** |
+| `RS-ES-300-28GPX`（24×PoE+ + 4×10G） | **$2,100** | **38,973.49 ₺ ≈ $779** | 2.69× |
+| `RS-ES-300-52GPX`（48×PoE+ + 4×10G） | **$2,550** | **42,899.79 ₺ ≈ $858** | 2.97× |
+| `RS-ES-350-54GPX`（48 口 760 W） | **$6,660** | **117,708.23 ₺ ≈ $2,354** | 2.83× |
+| `RS-ES-200-10PS`（8×PoE + 2 SFP） | **$600** | **12,840.90 ₺ ≈ $257** | 2.33× |
+**⇒ 纪律：任何「官网 price list / partner price」一律 ÷2.3–3.0 还原成交价**，再用 DMO 详情页校准。Moxa / FOREDGE / Planet 同理。
+**⇒ 工业线还原后**：`RS-IS-100-10GP` $550 → **≈$235** · `RS-IS-200-10GP` $1,800 → **≈$610** · `RS-IS-300-12GPX`（8×PoE + 2 RJ45 + 4×10G，−40~80 ℃，240 W）$3,600 → **≈$1,225**。**我方 8 口工业 PoE $125.72 在所有这些数的一半以下。**
+
+**③ ⭐⭐⭐ Birkil Savunma 建档 —— 用 5 年资历拿到两年期 DMO 网络合同的样本**
+**BİRKİL SAVUNMA TEKNOLOJİLERİ A.Ş.**（**2021-01-21**，单一股东 A.Ş.，NACE 620101）· **`K4525` + `K6355` 都是它** · 合同 **2026-09-02 → 2028-09-02** · 电话 **0312 284 8477** · `info@birkil.com` · 总部 **Kızılırmak Mah. Next Level Loft No:4 K:15 D:44 Çankaya/Ankara** · 研发办 **Gazi Üniversitesi Gölbaşı Yerleşkesi** · 代理 **Allied Telesis · Milestone · Ruckus · Axis · BCD · Canon · Skyfilter · Rubisec · FF Group · Maipu** · 主营**弹药/防弹/反无人机**。
+**⇒ 结论句**：**如果一家 5 年历史的安卡拉防务小公司都能进 DMO 卖交换机，我们的客户没有理由进不去。缺口只有一个：一个能过目录价的成本结构。**
+**✅ 技术债结清**：r44 起挂的「RUBISEC `K4525`/`K6355` 合同期」= **2026-09-02→2028-09-02（刚续）**。
+
+**④ ⚠ 再修正：`32,102.24 ₺` 是 DAHUA，不是 FOREDGE**
+**`DH-PFSD224ET2-360D`**（**24×10/100 Base-T PoE** 百兆 + 2 GbE combo + 2 SFP，8.8 Gbps，360 W，−10~55 ℃），产品码 **55492**，**两家供应商同价**：**AKTİF GRUP（K4969）** 与 **RİVO**。
+**⇒ r77 把 32,102.24 ₺ 记在 FOREDGE `AI2010GX` 名下是错的**；**FOREDGE 在 DMO 的唯一已核实价 = `AI8024` 21,401.50 ₺。**
+**⇒ 两个新判读**：① **政府花 $642 买一台「24 口百兆 PoE」** ⇒ 客户比的是「端口数 + 瓦数 + 250 m 远距离」，**不是千兆**；② **同型号两家同价 ⇒ DMO 价格由上游控**，**「换一家分销商便宜 5%」这条路不存在**。
+
+**⑤ ⭐⭐ 四家客户身份卡（可打电话）**
+- **Cenova**：Perpa **B Blok Kat 7-8-9 No:902** · **0212 221 13 40 / 222 71 66** · `rifat@cenova.com.tr` · **11–50 人** · LinkedIn 注册 **2004**（官宣 2002）。**🛑 推翻 r77「`Dayzip` 疑深圳 ODM 牌」：`Dayzip` 是 Cenova 自有品牌**（App Store 开发者 Rifat BAYDEMİR，© CENOVA；CMS 自研）。
+- **GSL**：**GSL MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.** · **1988 安卡拉** · İlkbahar Mah. 612. Cad. No:9 · **25–49 人** · **安卡拉 + 伊斯坦布尔两办公室** · **Moxa 2003 起 22 年** + Robustel/Digi/Kyland/Pro Optix/RuggON/Transcend/**Tipro** · Key Principal **Ümit Özdemir**。
+- **Öncü**：**2002** · **51–200 人** · **1,500+ bayi** · Beykoz 总部 + **Pendik Teknopark 二址** · 0216 537 01 23 / 693 23 33 / 504 06 26。
+- **Han**：**2000** · **51–200 人** · **营收 ≈$20M** · Bağcılar/Ümraniye 1904 Sk No:15/A · **总经理 Hakan Kasap / 采购经理 Fadime Maden ⭐** · DIA ERP（B2B 电商）。
+
+**⑥ ⭐ TG-NET 实体坐实**：**Shenzhen TG-NET Botone Technology Co., Ltd.**，**2011**，南山中山园路 1001 号 E3 栋 4 楼，**龙华大浪工厂 1,500 ㎡**，**200+ 人 / 60+ 研发 / 6 线 / 日产 5,000 / ISO9001:2008**，深圳+上海双研发中心。
+⇒ **与我方同量级 ⇒ CLR 换供应商的技术风险极低**；话术「同一档的厂 + 千兆 bt + G.8032 + 5 年保修 + MOQ 1」。
+
+**⑦ GSL 的切入口不是 Moxa，是它的边缘品类**
+GSL 22 年的护城河是**技术服务 + 备件 + 工程师**，**不会为 10% 价差换供应商**。但它代理的 **Tipro（工业终端）/ RuggON（加固平板）/ Transcend（存储）** 采购决策远比 Moxa 松。
+⇒ **切入点：补它没拿到的中国工业牌（802.3bt / 2.5G 工业 / IEC 61850-3）。**
+
+**证据等级**：`rubisec.com/about` · **`rubisec.com/price-list/`（43 项全表）** · `rubisec.com` 页脚 · `RS-ES-300-Series_DS.pdf` · `birkilsavunma.com` ×3 · `find.com.tr` · **`dmo.gov.tr/Katalog/Urun/Detay/6853611_1224006`（20,331.42 ₺ + 合同 2026-09-02→2028-09-02）** · **`/Detay/5319885_595299`（32,102.24 ₺ + 两供应商同价）** · `dmo.gov.tr/rapor/UrunDetay/4360378_1224020`（42,899.79 ₺ · Karadağ）· `perpa.com.tr` ×2 · `linkedin.com/company/cenova-bilişim` · `kariyer.net` ×2 · `apps.apple.com`（Dayzip）· `dvrdestek.com` · `cctvdesk.com` · `perpastore.com/dayzip` · `contactout.com`（GSL 29 人）· `dnb.com`（GSL Ümit Özdemir）· `tracxn.com`（GSL 42 人）· `made-in-china.com` + `slideshare.net`（TG-NET 2016）· `tg-net.net` · `oncuguvenlik.com.tr` · `secube.com.tr` · `zoominfo.com` · `rocketreach.co` · `appsruntheworld.com` · `brandfetch.com` —— **共 20 个来源，逐字/结构化**。
+
+**空白**：Birkil 真实 VKN（find.com.tr 的税号是占位符 `1234567890`，**不可引用**）· **RUBISEC 的代工厂名** · RUBISEC `RS-IS-*` 工业线的 DMO 成交价 · Cenova VKN/MERSİS（只有 Perpa 地址码 1599466776）· GSL 营收 · Öncü VKN · **Han VKN + 工厂地址 + FOREDGE 代工厂名** · **所有电话未试拨**（新增 Birkil 0312 284 8477 · Cenova 0212 221 13 40 · Öncü 0216 693 23 33 · RUBISEC +372 5838 16 45）。
