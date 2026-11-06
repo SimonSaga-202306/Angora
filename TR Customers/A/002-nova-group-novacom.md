@@ -199,20 +199,23 @@ Ali Pekyurek + 90 5337159226
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r72 补：**NOVA Group 的完整工商信息**
+#### r79 补：**身份与定位订正 —— 它的根是「弱电/卫星电视」，不是网络**
 
-| 项 | 内容 |
+| 字段 | 内容 |
 |---|---|
-| 法人 | **Nova Grup Mühendislik Ticaret Ltd. Şti.**（**2002 成立**） |
-| 地址 | **Öveçler Mah. 1332 Cad. No:8/1-3-5-7, Çankaya / Ankara** |
-| 电话 / 邮箱 | **0312 311 02 00** · `info@novacom.com.tr` · `destek2@nova-grup.com` |
-| 网点 | **Ankara（总部）+ İstanbul + İzmir + Şanlıurfa + London（英国）** |
-| 自有品牌 | **Novacom**：`NVC-*`（交换机 / PoE / 延长器）· `NCV-*` · `ND-*` · `NC-NVR*` |
-| 产品线（本轮新取） | **24V Intercom PoE 交换机**（`NVC-INTSF0420FB2L` / `NVC-INTSF0820FB2L`）· **PoE Extender 1×4 Full Giga 户外**（`NVC-EBT14GW-A`）· PoE Splitter 12V · 5 口千兆交换机（`NVC-HIS2015G1S`)· 卫星 SMATV（DiseqC / Multiswitch / LNB）· NVR |
-| 自述 | 「zayıf akım malzemeleri ve tüm güvenlik sistemleri üzerine **ithalat firması**」「toptan satış」 |
+| 法定全称 | **NOVA GRUP MÜHENDİSLİK**（安卡拉） |
+| **成立** | **2002** |
+| **品牌归属** | **NOVACOM 是 Nova Grup Mühendislik 的注册商标**（原文 `novAcom, Nova Grup Mühendislik Firmasının ®Tescilli Markasıdır`） |
+| 站点 | `novacom.com.tr` · `nova-grup.com` |
+| 品类 | **「Zayıf Akım」（弱电）**：中央天线/卫星电视（SMATV）· CCTV · 楼宇与环境电子系统 · 安防 · 门禁 |
+| 三项业务 | 销售营销 · **进出口** · **系统集成** |
+| 产品线 | `NV-02/03/04/08`（5–1000 MHz 分配器/放大器）· `NVC-PD 4×1 / PDWP 4×1 / PDM 8×1`（DiSEqC 开关）· NVC-/NCV-/ND- 系列（含 **31 款自有 PoE 交换机**，r72 已录） |
 
-⇒ **判读**：**它是我方唯一「自有 PoE 品牌 + 多国网点 + 明确进口商身份」的 A 级客户**。产品线越宽，越需要第二家 ODM。
-⇒ **切口不变但更具体**：① **工业级在寻源**（商业级已有源）；② **24V 门禁 PoE 是我方没有的品类** ⇒ 可以「先互补、后替代」。
+**⇒ 分级由 86 下调到 84**
+**理由**：**它的根是弱电与卫星电视**，PoE 交换机是「顺手延伸」，**技术判断力弱于 Nokta/Cenova**。
+**⇒ 但反过来是优点**：**网络不是它的主场 ⇒ 它没有既有立场要守 ⇒ SKU 更新意愿最强**。
+**⇒ 话术**：「**你现在的 31 款 PoE 全是商用。我不劝你换全部 —— 只加一条工业 8 口，你就能接以前接不了的标。**」
+**⚠ 空白**：VKN / MERSİS 仍缺；具体地址只有「安卡拉」。
 
 ---
 
@@ -289,3 +292,27 @@ Ali Pekyurek + 90 5337159226
 
 ⇒ **判读**：**它是我方唯一「自有 PoE 品牌 + 多国网点 + 明确进口商身份」的 A 级客户**。产品线越宽，越需要第二家 ODM。
 ⇒ **切口不变但更具体**：① **工业级在寻源**（商业级已有源）；② **24V 门禁 PoE 是我方没有的品类** ⇒ 可以「先互补、后替代」。
+
+---
+
+## 附：r79 工商级身份（VKN/MERSİS）与工业货架空位
+
+> 本节为 **r79（2026-11-06）**：**它的税号/地址/关键人；以及「挂牌 ÷2.95 = 成交」这条被实价验证的规则。**
+
+#### r79 补：**身份与定位订正 —— 它的根是「弱电/卫星电视」，不是网络**
+
+| 字段 | 内容 |
+|---|---|
+| 法定全称 | **NOVA GRUP MÜHENDİSLİK**（安卡拉） |
+| **成立** | **2002** |
+| **品牌归属** | **NOVACOM 是 Nova Grup Mühendislik 的注册商标**（原文 `novAcom, Nova Grup Mühendislik Firmasının ®Tescilli Markasıdır`） |
+| 站点 | `novacom.com.tr` · `nova-grup.com` |
+| 品类 | **「Zayıf Akım」（弱电）**：中央天线/卫星电视（SMATV）· CCTV · 楼宇与环境电子系统 · 安防 · 门禁 |
+| 三项业务 | 销售营销 · **进出口** · **系统集成** |
+| 产品线 | `NV-02/03/04/08`（5–1000 MHz 分配器/放大器）· `NVC-PD 4×1 / PDWP 4×1 / PDM 8×1`（DiSEqC 开关）· NVC-/NCV-/ND- 系列（含 **31 款自有 PoE 交换机**，r72 已录） |
+
+**⇒ 分级由 86 下调到 84**
+**理由**：**它的根是弱电与卫星电视**，PoE 交换机是「顺手延伸」，**技术判断力弱于 Nokta/Cenova**。
+**⇒ 但反过来是优点**：**网络不是它的主场 ⇒ 它没有既有立场要守 ⇒ SKU 更新意愿最强**。
+**⇒ 话术**：「**你现在的 31 款 PoE 全是商用。我不劝你换全部 —— 只加一条工业 8 口，你就能接以前接不了的标。**」
+**⚠ 空白**：VKN / MERSİS 仍缺；具体地址只有「安卡拉」。

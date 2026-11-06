@@ -93,51 +93,58 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r78 总览：**一个离岸品牌的模板 + 一张被高估三倍的价格表 + 四张能打电话的身份卡**
+#### r79 补：**名字撞车排雷 + 六家身份总表 + 工业货架空位**
 
-**① ⭐⭐⭐ RUBISEC 的真实身份：黑山注册（2016）→ 迪拜研发（2018）→ 爱沙尼亚总部（2020）→ 香港物流（2023）**
-- DMO 页面 `Menşei` 字段 = **Karadağ（黑山）**；地址 **Budva, XVI Ulica, Lokal br. 7**；客服 **+372 5838 16 45（爱沙尼亚）**；自称 `independently developed by Rubisec`。
-- **⇒ 「品牌壳（黑山）+ 总部（爱沙尼亚）+ 研发（迪拜）+ 物流（香港）+ 代工（中国）」是一套可复制的进入模式。**
-- **⇒ 对客户的含义**：**「土耳其本土制造」没有制度红利** —— DMO 只认「原产地 + 供应商 + 合同 + 价格」。**本土牌的价值只在「集成商信任」与「服务响应」。**
+**① 🛑 Cebeci 有两个主体 —— 必须带 VKN 才能说清是哪一家**
 
-**② ⭐⭐⭐ 挂牌价 vs 成交价 = 2.96 倍（本轮最重要的定价纪律）**
-`rubisec.com/price-list/` 公开 **43 项 Partner Project Price**：
-| 型号 | 官方挂牌 | DMO 成交 | 倍率 |
-|---|---|---|---|
-| `RS-ES-200-28PS`（24×GbE PoE，400 W） | **$1,200** | **20,331.42 ₺ ≈ $406** | **2.96×** |
-| `RS-ES-300-28GPX`（24×PoE+ + 4×10G） | **$2,100** | **38,973.49 ₺ ≈ $779** | 2.69× |
-| `RS-ES-300-52GPX`（48×PoE+ + 4×10G） | **$2,550** | **42,899.79 ₺ ≈ $858** | 2.97× |
-| `RS-ES-350-54GPX`（48 口 760 W） | **$6,660** | **117,708.23 ₺ ≈ $2,354** | 2.83× |
-| `RS-ES-200-10PS`（8×PoE + 2 SFP） | **$600** | **12,840.90 ₺ ≈ $257** | 2.33× |
-**⇒ 纪律：任何「官网 price list / partner price」一律 ÷2.3–3.0 还原成交价**，再用 DMO 详情页校准。Moxa / FOREDGE / Planet 同理。
-**⇒ 工业线还原后**：`RS-IS-100-10GP` $550 → **≈$235** · `RS-IS-200-10GP` $1,800 → **≈$610** · `RS-IS-300-12GPX`（8×PoE + 2 RJ45 + 4×10G，−40~80 ℃，240 W）$3,600 → **≈$1,225**。**我方 8 口工业 PoE $125.72 在所有这些数的一半以下。**
+| 主体 | **我们 `B/062` 要的那一家** | **不是**这一家 |
+|---|---|---|
+| 法定全称 | **CEBECİ TELETEKS SANAYİ TİCARET LTD. ŞTİ.** | **CEBECİ GRUP İNŞ. TUR. TİC. A.Ş.** |
+| **VKN** | **2040018047** | 未取 |
+| 地址 | **Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 Kat:3 D:24, 34384 Okmeydanı / Şişli / İstanbul** | Şekerhane Mah. Yayla Yolu Cad. Cebeci İş Merkezi No:22/1, **Alanya / Antalya** |
+| 电话 | **0212 320 08 88**（传真 320 08 85） | — |
+| 行业 | **电信测试仪表 + ONV 工业交换机 + 结构化布线测试** | **建筑 / 房地产** |
+| 规模 | 小型（Perpa 商圈办公） | **66 人 · 营收 $50.5M · 1982 年** |
+| 关键人 | — | Polathan Çiftçi（创始人）· GIGDER 代表 **Ahmet Cebeci** |
 
-**③ ⭐⭐⭐ Birkil Savunma 建档 —— 用 5 年资历拿到两年期 DMO 网络合同的样本**
-**BİRKİL SAVUNMA TEKNOLOJİLERİ A.Ş.**（**2021-01-21**，单一股东 A.Ş.，NACE 620101）· **`K4525` + `K6355` 都是它** · 合同 **2026-09-02 → 2028-09-02** · 电话 **0312 284 8477** · `info@birkil.com` · 总部 **Kızılırmak Mah. Next Level Loft No:4 K:15 D:44 Çankaya/Ankara** · 研发办 **Gazi Üniversitesi Gölbaşı Yerleşkesi** · 代理 **Allied Telesis · Milestone · Ruckus · Axis · BCD · Canon · Skyfilter · Rubisec · FF Group · Maipu** · 主营**弹药/防弹/反无人机**。
-**⇒ 结论句**：**如果一家 5 年历史的安卡拉防务小公司都能进 DMO 卖交换机，我们的客户没有理由进不去。缺口只有一个：一个能过目录价的成本结构。**
-**✅ 技术债结清**：r44 起挂的「RUBISEC `K4525`/`K6355` 合同期」= **2026-09-02→2028-09-02（刚续）**。
+**⇒ `cebecigrup.com` 的域名归「电信测试」这一家**（页面全是 **Greenlee 711K / Argus 166 / Tempo TM-500 / NC-500 NETcat** 测试仪表），**不是建筑集团**。
+**⇒ 纪律**：**任何提到「Cebeci」的材料必须带 VKN `2040018047` 或地址「Yüzer Havuz Sok.」**，否则一律标 ⚠ 主体未确认。
+**⇒ 分级 45 → 47**（身份确认，但**它在卖 ONV（深圳）** ⇒ 是我方直接竞品的下游）。
 
-**④ ⚠ 再修正：`32,102.24 ₺` 是 DAHUA，不是 FOREDGE**
-**`DH-PFSD224ET2-360D`**（**24×10/100 Base-T PoE** 百兆 + 2 GbE combo + 2 SFP，8.8 Gbps，360 W，−10~55 ℃），产品码 **55492**，**两家供应商同价**：**AKTİF GRUP（K4969）** 与 **RİVO**。
-**⇒ r77 把 32,102.24 ₺ 记在 FOREDGE `AI2010GX` 名下是错的**；**FOREDGE 在 DMO 的唯一已核实价 = `AI8024` 21,401.50 ₺。**
-**⇒ 两个新判读**：① **政府花 $642 买一台「24 口百兆 PoE」** ⇒ 客户比的是「端口数 + 瓦数 + 250 m 远距离」，**不是千兆**；② **同型号两家同价 ⇒ DMO 价格由上游控**，**「换一家分销商便宜 5%」这条路不存在**。
+**② ⭐⭐ 工业货架上有空位：RUBISEC 的 $584 档「有价无货」**
+- `RS-IS-300-12GP`（8×GbE PoE + 2 GbE + 4×1G SFP）：**29,204.18 ₺ ≈ $584** —— 详情页原文 **`Ürün geçici olarak temin edilememektedir`（暂时无法供货）**。
+- `RS-IS-300-12GPX`（8×GbE PoE + 2 + 4×**10G** SFP+，−40~80 ℃，IP40 DIN，**240 W**）：**61,075.68 ₺ ≈ $1,221**（含税 73,290.82）。
+- `RS-IS-200-10GP`（8×PoE + 2 SFP）：**33,405.85 / 35,109.80 / 38,522.69 ₺ ≈ $668–770**。
+**⇒ DMO 的「8 口工业 PoE」现在是「三档 + 一个空洞」**：**Dahua $380** · **RUBISEC $584（无货）/ $668–770** · **Cisco IE-3300 $2,315**。
+**⇒ 我方 $500–700 正好落在「有货 + 有认证」这一格。**
 
-**⑤ ⭐⭐ 四家客户身份卡（可打电话）**
-- **Cenova**：Perpa **B Blok Kat 7-8-9 No:902** · **0212 221 13 40 / 222 71 66** · `rifat@cenova.com.tr` · **11–50 人** · LinkedIn 注册 **2004**（官宣 2002）。**🛑 推翻 r77「`Dayzip` 疑深圳 ODM 牌」：`Dayzip` 是 Cenova 自有品牌**（App Store 开发者 Rifat BAYDEMİR，© CENOVA；CMS 自研）。
-- **GSL**：**GSL MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.** · **1988 安卡拉** · İlkbahar Mah. 612. Cad. No:9 · **25–49 人** · **安卡拉 + 伊斯坦布尔两办公室** · **Moxa 2003 起 22 年** + Robustel/Digi/Kyland/Pro Optix/RuggON/Transcend/**Tipro** · Key Principal **Ümit Özdemir**。
-- **Öncü**：**2002** · **51–200 人** · **1,500+ bayi** · Beykoz 总部 + **Pendik Teknopark 二址** · 0216 537 01 23 / 693 23 33 / 504 06 26。
-- **Han**：**2000** · **51–200 人** · **营收 ≈$20M** · Bağcılar/Ümraniye 1904 Sk No:15/A · **总经理 Hakan Kasap / 采购经理 Fadime Maden ⭐** · DIA ERP（B2B 电商）。
+**③ ⭐⭐⭐ 「÷2.95」规则被实价验证**
+| 型号 | 官方挂牌 | r78 预测 | **DMO 实价** | 实际倍率 | 误差 |
+|---|---|---|---|---|---|
+| `RS-IS-300-12GPX` | **$3,600** | ≈$1,225 | **61,075.68 ₺ ≈ $1,221** | **2.95×** | **−0.3%** ✅ |
+| `RS-IS-200-10GP` | $1,800 | ≈$610 | $668–770（聚合） | 2.34–2.70× | +10~26% |
+| `RS-IS-300-12GP` | $1,950 | ≈$660 | **$584**（无货） | 2.61× | −11% |
+⇒ **工业段溢价结构**：商用 8 口 `RS-ES-200-10PS` **$257** → 工业 `RS-IS-300-12GP` **$584**（**2.3×**）→ 工业 + 4×10G + −40~80 ℃ **$1,221**（**再 2.1×**）。
+⇒ **「工业」这一层值 2.3 倍，「10G 上行 + 宽温」再值 2.1 倍。**
 
-**⑥ ⭐ TG-NET 实体坐实**：**Shenzhen TG-NET Botone Technology Co., Ltd.**，**2011**，南山中山园路 1001 号 E3 栋 4 楼，**龙华大浪工厂 1,500 ㎡**，**200+ 人 / 60+ 研发 / 6 线 / 日产 5,000 / ISO9001:2008**，深圳+上海双研发中心。
-⇒ **与我方同量级 ⇒ CLR 换供应商的技术风险极低**；话术「同一档的厂 + 千兆 bt + G.8032 + 5 年保修 + MOQ 1」。
+**④ ⭐⭐ FOREDGE 的 DMO 实价收口（r76 区间成立）**
+`IS108GPS-2F`（工业 8×GbE PoE + 2×GbE SFP + 控制台，**240 W**）在 **FS Grup（K4702）详情页 = 52,264.98 ₺ ≈ $1,045**；其他聚合页出现 44,928.91 / 57,262.43 / 57,784.04。
+**FS Grup 的 FOREDGE 交换机共 12 个 SKU，价位 5,807.00 – 121,951.00 ₺（≈$116–2,438）。**
+⇒ **它是「一站式报单」逻辑（每个价位放一台），不是「专业工业」逻辑** ⇒ **这就是我方在 8 口工业能赢的结构性原因。**
 
-**⑦ GSL 的切入口不是 Moxa，是它的边缘品类**
-GSL 22 年的护城河是**技术服务 + 备件 + 工程师**，**不会为 10% 价差换供应商**。但它代理的 **Tipro（工业终端）/ RuggON（加固平板）/ Transcend（存储）** 采购决策远比 Moxa 松。
-⇒ **切入点：补它没拿到的中国工业牌（802.3bt / 2.5G 工业 / IEC 61850-3）。**
+**⑤ 六家身份总表（本轮补齐）**
+| 客户 | 关键新增 | 分级 |
+|---|---|---|
+| **Snexus / Hemmah** | **MERSİS 0461092236500001 · VKN 4610922365** · Çekmeköy Turgut Özal Blv No:2 A6 No:145 · **品牌方=唯一分销商** | 85→**87** |
+| **Nokta / upTech** | **2000 · 75–99 人 · Perpa A Blok K:2 No:1 · 0212 222 87 80 · 自有生产设施 + AR-GE · 出口中东/巴尔干/突厥** | 78→**80** |
+| **CryptoLink** | **Çankaya Bükreş Cd No:19/1 · 0312 557 64 00 · 边境安全/网安/车牌识别/信号干扰** | 80→**81** |
+| **Novacom / Nova Grup** | **2002 · NOVACOM 注册商标 · 弱电/卫星电视出身** | 86→**84** ↓ |
+| **Karer** | **2006 · Pendik Atasever Cd No:44 · 1,000 ㎡ · CEO Nurbaki Karataş · DESİ 34/16** | 76→**77** |
+| **Cebeci Teleteks** | **VKN 2040018047 · Yüzer Havuz Sok. No:8 K:3 D:24 · 0212 320 08 88** | 45→**47** |
 
-**证据等级**：`rubisec.com/about` · **`rubisec.com/price-list/`（43 项全表）** · `rubisec.com` 页脚 · `RS-ES-300-Series_DS.pdf` · `birkilsavunma.com` ×3 · `find.com.tr` · **`dmo.gov.tr/Katalog/Urun/Detay/6853611_1224006`（20,331.42 ₺ + 合同 2026-09-02→2028-09-02）** · **`/Detay/5319885_595299`（32,102.24 ₺ + 两供应商同价）** · `dmo.gov.tr/rapor/UrunDetay/4360378_1224020`（42,899.79 ₺ · Karadağ）· `perpa.com.tr` ×2 · `linkedin.com/company/cenova-bilişim` · `kariyer.net` ×2 · `apps.apple.com`（Dayzip）· `dvrdestek.com` · `cctvdesk.com` · `perpastore.com/dayzip` · `contactout.com`（GSL 29 人）· `dnb.com`（GSL Ümit Özdemir）· `tracxn.com`（GSL 42 人）· `made-in-china.com` + `slideshare.net`（TG-NET 2016）· `tg-net.net` · `oncuguvenlik.com.tr` · `secube.com.tr` · `zoominfo.com` · `rocketreach.co` · `appsruntheworld.com` · `brandfetch.com` —— **共 20 个来源，逐字/结构化**。
+**证据等级**：`dmo.gov.tr/Katalog/Urun/Detay/4360378_1224029` · `dmo.tr/rapor/UrunDetay/4360378_1224035` · `dmo.gov.tr/Arama` 三处 · **`www.dmo.gov.tr/EMagaza/Magaza/Standart/1145171`**（FS Grup 12 SKU / 价位带）· `webrate.org`（Snexus 域名注册人）· `snexus.com.tr/sözleşme` · `trendyol.com`（**MERSİS/VKN**）· `allesgo.com` · `snexus.com.tr/dağıtıcılar` · `eguvenlik.com.tr` · `lusha.com` · `kariyer.net` · `guvenlikonline.com` · `signalhire.com` · `yenibiris.com` · `pesiad.org.tr` · `karerguvenlik.com` · `zoominfo.com` · `desi.com.tr` · `cryptolink.com.tr` · `novacom.com.tr` ×2 · `nova-grup.com` · `success.ai` · `cebecigrup.com` ×2 · **`tet.org.tr/.../EEIB_GK_KATILMAYA_HAIZ_FIRMALAR.pdf`（VKN 2040018047）** · `gigder.org.tr` · `rocketreach.co` —— **共 21 个来源，逐字/结构化**。
 
-**空白**：Birkil 真实 VKN（find.com.tr 的税号是占位符 `1234567890`，**不可引用**）· **RUBISEC 的代工厂名** · RUBISEC `RS-IS-*` 工业线的 DMO 成交价 · Cenova VKN/MERSİS（只有 Perpa 地址码 1599466776）· GSL 营收 · Öncü VKN · **Han VKN + 工厂地址 + FOREDGE 代工厂名** · **所有电话未试拨**（新增 Birkil 0312 284 8477 · Cenova 0212 221 13 40 · Öncü 0216 693 23 33 · RUBISEC +372 5838 16 45）。
+**空白**：`RS-IS-200-10GP` 详情页价 · `RS-IS-300-12GP` 何时恢复供货 · **Nokta 的 VKN/MERSİS + 生产设施地址** · **Karer / CryptoLink / Novacom 的 VKN/MERSİS** · Hemmah 的员工数与老板 · FS Grup 的 12 个 SKU 完整清单 · **所有电话未试拨**（新增 Nokta 0212 222 87 80 / 0850 333 02 08 · Karer 0216 397 33 88 · CryptoLink 0312 557 64 00 · Cebeci 0212 320 08 88）。
 
 ---
 
@@ -1111,3 +1118,62 @@ GSL 22 年的护城河是**技术服务 + 备件 + 工程师**，**不会为 10%
 **证据等级**：`rubisec.com/about` · **`rubisec.com/price-list/`（43 项全表）** · `rubisec.com` 页脚 · `RS-ES-300-Series_DS.pdf` · `birkilsavunma.com` ×3 · `find.com.tr` · **`dmo.gov.tr/Katalog/Urun/Detay/6853611_1224006`（20,331.42 ₺ + 合同 2026-09-02→2028-09-02）** · **`/Detay/5319885_595299`（32,102.24 ₺ + 两供应商同价）** · `dmo.gov.tr/rapor/UrunDetay/4360378_1224020`（42,899.79 ₺ · Karadağ）· `perpa.com.tr` ×2 · `linkedin.com/company/cenova-bilişim` · `kariyer.net` ×2 · `apps.apple.com`（Dayzip）· `dvrdestek.com` · `cctvdesk.com` · `perpastore.com/dayzip` · `contactout.com`（GSL 29 人）· `dnb.com`（GSL Ümit Özdemir）· `tracxn.com`（GSL 42 人）· `made-in-china.com` + `slideshare.net`（TG-NET 2016）· `tg-net.net` · `oncuguvenlik.com.tr` · `secube.com.tr` · `zoominfo.com` · `rocketreach.co` · `appsruntheworld.com` · `brandfetch.com` —— **共 20 个来源，逐字/结构化**。
 
 **空白**：Birkil 真实 VKN（find.com.tr 的税号是占位符 `1234567890`，**不可引用**）· **RUBISEC 的代工厂名** · RUBISEC `RS-IS-*` 工业线的 DMO 成交价 · Cenova VKN/MERSİS（只有 Perpa 地址码 1599466776）· GSL 营收 · Öncü VKN · **Han VKN + 工厂地址 + FOREDGE 代工厂名** · **所有电话未试拨**（新增 Birkil 0312 284 8477 · Cenova 0212 221 13 40 · Öncü 0216 693 23 33 · RUBISEC +372 5838 16 45）。
+
+---
+
+## 附：r79 工商级身份（VKN/MERSİS）与工业货架空位
+
+> 本节为 **r79（2026-11-06）**：**它的税号/地址/关键人；以及「挂牌 ÷2.95 = 成交」这条被实价验证的规则。**
+
+#### r79 补：**名字撞车排雷 + 六家身份总表 + 工业货架空位**
+
+**① 🛑 Cebeci 有两个主体 —— 必须带 VKN 才能说清是哪一家**
+
+| 主体 | **我们 `B/062` 要的那一家** | **不是**这一家 |
+|---|---|---|
+| 法定全称 | **CEBECİ TELETEKS SANAYİ TİCARET LTD. ŞTİ.** | **CEBECİ GRUP İNŞ. TUR. TİC. A.Ş.** |
+| **VKN** | **2040018047** | 未取 |
+| 地址 | **Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 Kat:3 D:24, 34384 Okmeydanı / Şişli / İstanbul** | Şekerhane Mah. Yayla Yolu Cad. Cebeci İş Merkezi No:22/1, **Alanya / Antalya** |
+| 电话 | **0212 320 08 88**（传真 320 08 85） | — |
+| 行业 | **电信测试仪表 + ONV 工业交换机 + 结构化布线测试** | **建筑 / 房地产** |
+| 规模 | 小型（Perpa 商圈办公） | **66 人 · 营收 $50.5M · 1982 年** |
+| 关键人 | — | Polathan Çiftçi（创始人）· GIGDER 代表 **Ahmet Cebeci** |
+
+**⇒ `cebecigrup.com` 的域名归「电信测试」这一家**（页面全是 **Greenlee 711K / Argus 166 / Tempo TM-500 / NC-500 NETcat** 测试仪表），**不是建筑集团**。
+**⇒ 纪律**：**任何提到「Cebeci」的材料必须带 VKN `2040018047` 或地址「Yüzer Havuz Sok.」**，否则一律标 ⚠ 主体未确认。
+**⇒ 分级 45 → 47**（身份确认，但**它在卖 ONV（深圳）** ⇒ 是我方直接竞品的下游）。
+
+**② ⭐⭐ 工业货架上有空位：RUBISEC 的 $584 档「有价无货」**
+- `RS-IS-300-12GP`（8×GbE PoE + 2 GbE + 4×1G SFP）：**29,204.18 ₺ ≈ $584** —— 详情页原文 **`Ürün geçici olarak temin edilememektedir`（暂时无法供货）**。
+- `RS-IS-300-12GPX`（8×GbE PoE + 2 + 4×**10G** SFP+，−40~80 ℃，IP40 DIN，**240 W**）：**61,075.68 ₺ ≈ $1,221**（含税 73,290.82）。
+- `RS-IS-200-10GP`（8×PoE + 2 SFP）：**33,405.85 / 35,109.80 / 38,522.69 ₺ ≈ $668–770**。
+**⇒ DMO 的「8 口工业 PoE」现在是「三档 + 一个空洞」**：**Dahua $380** · **RUBISEC $584（无货）/ $668–770** · **Cisco IE-3300 $2,315**。
+**⇒ 我方 $500–700 正好落在「有货 + 有认证」这一格。**
+
+**③ ⭐⭐⭐ 「÷2.95」规则被实价验证**
+| 型号 | 官方挂牌 | r78 预测 | **DMO 实价** | 实际倍率 | 误差 |
+|---|---|---|---|---|---|
+| `RS-IS-300-12GPX` | **$3,600** | ≈$1,225 | **61,075.68 ₺ ≈ $1,221** | **2.95×** | **−0.3%** ✅ |
+| `RS-IS-200-10GP` | $1,800 | ≈$610 | $668–770（聚合） | 2.34–2.70× | +10~26% |
+| `RS-IS-300-12GP` | $1,950 | ≈$660 | **$584**（无货） | 2.61× | −11% |
+⇒ **工业段溢价结构**：商用 8 口 `RS-ES-200-10PS` **$257** → 工业 `RS-IS-300-12GP` **$584**（**2.3×**）→ 工业 + 4×10G + −40~80 ℃ **$1,221**（**再 2.1×**）。
+⇒ **「工业」这一层值 2.3 倍，「10G 上行 + 宽温」再值 2.1 倍。**
+
+**④ ⭐⭐ FOREDGE 的 DMO 实价收口（r76 区间成立）**
+`IS108GPS-2F`（工业 8×GbE PoE + 2×GbE SFP + 控制台，**240 W**）在 **FS Grup（K4702）详情页 = 52,264.98 ₺ ≈ $1,045**；其他聚合页出现 44,928.91 / 57,262.43 / 57,784.04。
+**FS Grup 的 FOREDGE 交换机共 12 个 SKU，价位 5,807.00 – 121,951.00 ₺（≈$116–2,438）。**
+⇒ **它是「一站式报单」逻辑（每个价位放一台），不是「专业工业」逻辑** ⇒ **这就是我方在 8 口工业能赢的结构性原因。**
+
+**⑤ 六家身份总表（本轮补齐）**
+| 客户 | 关键新增 | 分级 |
+|---|---|---|
+| **Snexus / Hemmah** | **MERSİS 0461092236500001 · VKN 4610922365** · Çekmeköy Turgut Özal Blv No:2 A6 No:145 · **品牌方=唯一分销商** | 85→**87** |
+| **Nokta / upTech** | **2000 · 75–99 人 · Perpa A Blok K:2 No:1 · 0212 222 87 80 · 自有生产设施 + AR-GE · 出口中东/巴尔干/突厥** | 78→**80** |
+| **CryptoLink** | **Çankaya Bükreş Cd No:19/1 · 0312 557 64 00 · 边境安全/网安/车牌识别/信号干扰** | 80→**81** |
+| **Novacom / Nova Grup** | **2002 · NOVACOM 注册商标 · 弱电/卫星电视出身** | 86→**84** ↓ |
+| **Karer** | **2006 · Pendik Atasever Cd No:44 · 1,000 ㎡ · CEO Nurbaki Karataş · DESİ 34/16** | 76→**77** |
+| **Cebeci Teleteks** | **VKN 2040018047 · Yüzer Havuz Sok. No:8 K:3 D:24 · 0212 320 08 88** | 45→**47** |
+
+**证据等级**：`dmo.gov.tr/Katalog/Urun/Detay/4360378_1224029` · `dmo.tr/rapor/UrunDetay/4360378_1224035` · `dmo.gov.tr/Arama` 三处 · **`www.dmo.gov.tr/EMagaza/Magaza/Standart/1145171`**（FS Grup 12 SKU / 价位带）· `webrate.org`（Snexus 域名注册人）· `snexus.com.tr/sözleşme` · `trendyol.com`（**MERSİS/VKN**）· `allesgo.com` · `snexus.com.tr/dağıtıcılar` · `eguvenlik.com.tr` · `lusha.com` · `kariyer.net` · `guvenlikonline.com` · `signalhire.com` · `yenibiris.com` · `pesiad.org.tr` · `karerguvenlik.com` · `zoominfo.com` · `desi.com.tr` · `cryptolink.com.tr` · `novacom.com.tr` ×2 · `nova-grup.com` · `success.ai` · `cebecigrup.com` ×2 · **`tet.org.tr/.../EEIB_GK_KATILMAYA_HAIZ_FIRMALAR.pdf`（VKN 2040018047）** · `gigder.org.tr` · `rocketreach.co` —— **共 21 个来源，逐字/结构化**。
+
+**空白**：`RS-IS-200-10GP` 详情页价 · `RS-IS-300-12GP` 何时恢复供货 · **Nokta 的 VKN/MERSİS + 生产设施地址** · **Karer / CryptoLink / Novacom 的 VKN/MERSİS** · Hemmah 的员工数与老板 · FS Grup 的 12 个 SKU 完整清单 · **所有电话未试拨**（新增 Nokta 0212 222 87 80 / 0850 333 02 08 · Karer 0216 397 33 88 · CryptoLink 0312 557 64 00 · Cebeci 0212 320 08 88）。

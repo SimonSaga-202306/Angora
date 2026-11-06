@@ -71,7 +71,8 @@ try:
     R76 = {}
     R77 = {}
     R78 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data'):
+    R79 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -138,6 +139,8 @@ try:
                 R77.update(_mod.D)
             if _m == 'r78_appendix_data':
                 R78.update(_mod.D)
+            if _m == 'r79_appendix_data':
+                R79.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -180,6 +183,7 @@ R75_MARK = '## 附：r75 白牌层与身份订正（OEM 池 / Perpa B K:8 / İzm
 R76_MARK = '## 附：r76 DMO 价格地图（供应商 K 码 / 型号 / 单价 / 合同）'
 R77_MARK = '## 附：r77 串价修正与 FS Grup 主体（详情页可信价）'
 R78_MARK = '## 附：r78 离岸品牌模板与身份卡（RUBISEC / Birkil / 四家客户）'
+R79_MARK = '## 附：r79 工商级身份（VKN/MERSİS）与工业货架空位'
 
 
 def tier_letter(level):
@@ -724,6 +728,16 @@ def main():
             L.append('> 本节为 **r78（2026-11-06）**：**身份卡到「可以打电话」的密度；以及「挂牌价 ÷2.3–3.0 = 成交价」这条纪律。**')
             L.append('')
             L.append(body_r78.strip('\n'))
+            L.append('')
+        body_r79 = R79.get(no)
+        if body_r79:
+            L.append('---')
+            L.append('')
+            L.append(R79_MARK)
+            L.append('')
+            L.append('> 本节为 **r79（2026-11-06）**：**它的税号/地址/关键人；以及「挂牌 ÷2.95 = 成交」这条被实价验证的规则。**')
+            L.append('')
+            L.append(body_r79.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
