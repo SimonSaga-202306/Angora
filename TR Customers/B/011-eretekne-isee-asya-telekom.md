@@ -86,3 +86,37 @@ can@asyatelekom.net（集团）
 ### 证据等级与空白
 - 已核实：Asya Telekom 主体/成立年/地址/电话、ISEE 为其自有品牌且自行进口批发。
 - 空白：真实员工数与营收（第三方数字偏低，疑只采信单一实体）、现 PoE 供应商、采购负责人姓名。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+#### r75 补：**拆分 —— `Eretekne` 是 ErETE 的店，`Isee` 是 Asya Telekom 的牌**
+
+**🛑 修正 r73（B/011）**：档案把「**Eretekne（+ Isee，同 Asya Telekom 集团）**」并列写在一条里 —— **被推翻的是「Eretekne 与 Isee 属于同一集团」这个暗示**。真相是**两家互不相干的公司，只是被同一批 B2B 目录并列展示**。
+
+| 名称 | 真实身份 |
+|---|---|
+| **`eretekne.com`** | **ErETE Bilgi Sis. Dış Tic. ve San. Ltd. Şti. 的自有 B2B 下单平台**（隐私条款落款即 ErETE，地址 Şişli Güven Sok. 4/2） |
+| **`ISEE`（isee.com.tr）** | **ASYA TELEKOMÜNİKASYON VE NET GÜVENLİK SİSTEMLERİ SAN. VE TİC. LTD. ŞTİ. 的自有品牌** —— 见下一节（本轮新建档） |
+
+⚠ **两家不可合并任何字段。**
+
+---
+
+## 附：r75 白牌层与身份订正（OEM 池 / Perpa B K:8 / İzmir 路线）
+
+> 本节为 **r75（2026-11-06）**：**身份订正 + 白牌层（OEM）视角。**
+
+#### r75 补：**拆分 —— `Eretekne` 是 ErETE 的店，`Isee` 是 Asya Telekom 的牌**
+
+**🛑 修正 r73（B/011）**：档案把「**Eretekne（+ Isee，同 Asya Telekom 集团）**」并列写在一条里 —— **被推翻的是「Eretekne 与 Isee 属于同一集团」这个暗示**。真相是**两家互不相干的公司，只是被同一批 B2B 目录并列展示**。
+
+| 名称 | 真实身份 |
+|---|---|
+| **`eretekne.com`** | **ErETE Bilgi Sis. Dış Tic. ve San. Ltd. Şti. 的自有 B2B 下单平台**（隐私条款落款即 ErETE，地址 Şişli Güven Sok. 4/2） |
+| **`ISEE`（isee.com.tr）** | **ASYA TELEKOMÜNİKASYON VE NET GÜVENLİK SİSTEMLERİ SAN. VE TİC. LTD. ŞTİ. 的自有品牌** —— 见下一节（本轮新建档） |
+
+⚠ **两家不可合并任何字段。**

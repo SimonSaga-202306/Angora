@@ -209,10 +209,24 @@ FOREDGE/VIDEOPARK 贴牌替换/补充（云管理 PoE = 我方 + 云 NMS 组合�
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r73 补：本轮**未取到**新信息（诚实记录）
+#### r75 补：**名称订正 + 五个自有商标 + 它已经有两条中国线**
 
-仅 `info@hanelektronik.com`。本轮 3 次检索**未命中其官网主体页**。
-⇒ **列为待补，不臆测、不填充。** 下一轮改用「Hane Elektronik 公司 ünvan / vergi」直接检索工商库。
+**🛑 修正 r73（B/008）**：档案原名写「**Hane Elektronik**」—— **法定名是 `HAN ELEKTRONİK`**（站点 `hanelektronik.com`），被推翻的写法是「Hane」。
+
+| 项 | 内容 |
+|---|---|
+| 法定全称 | **HAN ELEKTRONİK Bilgisayar ve Güvenlik Sistemleri A.Ş.** |
+| 成立 / 人数 | **2000** · **51–200 人** |
+| 地址 | **Mehmet Akif Mah. Bahariye Cad. (Basın Ekspres Yolu) 1904 Sok. No:15/A, Küçükçekmece / İstanbul** |
+| 电话 | **444 1 426** · `info@hanelektronik.com` · 支持站 `destek.hanelektronik.com` |
+| **自有商标（官网「BELGELERİMİZ」逐条）** | **Han Elektronik 商标注册证** · **FOREDGE 分销证** · **VIDEOPARK** · **SPY / SPY AHD / SPY IP / SPY Mobile / SPY Alarm / SPY Network Solution** · **AVerFire / AVerGuard / AVerSound 商标** · **M-Sight（金属探测门 / X 光机）** · **ISO 9001 · ISO 10002 · TS-12540** |
+| 独家代理 | **MILESIGHT（土耳其唯一授权分销 + 其土耳其办事处）**：2018「最高增值+最快成长伙伴」、**2023「最有价值伙伴」** · **UNIWIZ（唯一）** · **PANASONIC 可寻址消防** · **AXXON / Hoop Cam** · Honeywell · TNA · AlienFence · **Shelly** · GRUNDIG · Nevio · Monitoreal |
+| **⭐ 中国品牌线** | **Ruijie** + **Reyee** —— 官网品牌表明列 |
+| 产品 | IP/模拟相机、NVR/DVR、**PoE 交换机 25 款**（FOREDGE AI1016GC 16 口 250 W 云管理 / AI1024GC 24 口 300–360 W / AI806M；VIDEOPARK VP-24PG-2UPG-2SFP 400 W）、SFP、无线网桥 VP-2300CPE、金属探测门 / X 光机 |
+
+⇒ **判读**：它有**两层中国供应链** —— **OEM 白牌（FOREDGE + VIDEOPARK，深圳特征）** + **品牌代理（Ruijie + Reyee）**。
+⇒ **它不需要「帮它建品牌」，它需要「换掉现在那个深圳工厂」**：**同规格、更硬的价、更准的交期、能给它云管理。**
+⇒ ⚠ **别跟它谈 Ruijie 授权** —— 它自己就在卖 Ruijie 和 Reyee。
 
 ---
 
@@ -224,3 +238,28 @@ FOREDGE/VIDEOPARK 贴牌替换/补充（云管理 PoE = 我方 + 云 NMS 组合�
 
 仅 `info@hanelektronik.com`。本轮 3 次检索**未命中其官网主体页**。
 ⇒ **列为待补，不臆测、不填充。** 下一轮改用「Hane Elektronik 公司 ünvan / vergi」直接检索工商库。
+
+---
+
+## 附：r75 白牌层与身份订正（OEM 池 / Perpa B K:8 / İzmir 路线）
+
+> 本节为 **r75（2026-11-06）**：**身份订正 + 白牌层（OEM）视角。**
+
+#### r75 补：**名称订正 + 五个自有商标 + 它已经有两条中国线**
+
+**🛑 修正 r73（B/008）**：档案原名写「**Hane Elektronik**」—— **法定名是 `HAN ELEKTRONİK`**（站点 `hanelektronik.com`），被推翻的写法是「Hane」。
+
+| 项 | 内容 |
+|---|---|
+| 法定全称 | **HAN ELEKTRONİK Bilgisayar ve Güvenlik Sistemleri A.Ş.** |
+| 成立 / 人数 | **2000** · **51–200 人** |
+| 地址 | **Mehmet Akif Mah. Bahariye Cad. (Basın Ekspres Yolu) 1904 Sok. No:15/A, Küçükçekmece / İstanbul** |
+| 电话 | **444 1 426** · `info@hanelektronik.com` · 支持站 `destek.hanelektronik.com` |
+| **自有商标（官网「BELGELERİMİZ」逐条）** | **Han Elektronik 商标注册证** · **FOREDGE 分销证** · **VIDEOPARK** · **SPY / SPY AHD / SPY IP / SPY Mobile / SPY Alarm / SPY Network Solution** · **AVerFire / AVerGuard / AVerSound 商标** · **M-Sight（金属探测门 / X 光机）** · **ISO 9001 · ISO 10002 · TS-12540** |
+| 独家代理 | **MILESIGHT（土耳其唯一授权分销 + 其土耳其办事处）**：2018「最高增值+最快成长伙伴」、**2023「最有价值伙伴」** · **UNIWIZ（唯一）** · **PANASONIC 可寻址消防** · **AXXON / Hoop Cam** · Honeywell · TNA · AlienFence · **Shelly** · GRUNDIG · Nevio · Monitoreal |
+| **⭐ 中国品牌线** | **Ruijie** + **Reyee** —— 官网品牌表明列 |
+| 产品 | IP/模拟相机、NVR/DVR、**PoE 交换机 25 款**（FOREDGE AI1016GC 16 口 250 W 云管理 / AI1024GC 24 口 300–360 W / AI806M；VIDEOPARK VP-24PG-2UPG-2SFP 400 W）、SFP、无线网桥 VP-2300CPE、金属探测门 / X 光机 |
+
+⇒ **判读**：它有**两层中国供应链** —— **OEM 白牌（FOREDGE + VIDEOPARK，深圳特征）** + **品牌代理（Ruijie + Reyee）**。
+⇒ **它不需要「帮它建品牌」，它需要「换掉现在那个深圳工厂」**：**同规格、更硬的价、更准的交期、能给它云管理。**
+⇒ ⚠ **别跟它谈 Ruijie 授权** —— 它自己就在卖 Ruijie 和 Reyee。

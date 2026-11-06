@@ -101,37 +101,22 @@ Berk（**已有回复** = 暖线索）+ info@iotsistem.com
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐⭐ r54：`MLB-E4xxx` 是 **MLiS** 品牌 —— 28 口那台是**百兆**，但已有 **60 W/口** 工业机型
+#### r75 补：**`iotsistem` 与 `iosistem` 是两家不同公司 —— 绝不能合并**
 
-#### A. 型号全表（`iotsistem.com` 原文）
-| 型号 | 端口 | 关键规格 |
+**🛑 修正 r73（B/018）**：档案只记了 `iotsistem`，**没记 `iosistem.com.tr`** —— 两者名字一字母之差，**业务完全不同**。
+
+| | **`iotsistem.com` — IoT Sistem** | **`iosistem.com.tr` — IOSistem Endüstriyel Teknolojiler** |
 |---|---|---|
-| ⭐ `MLB-E4204-28-F` / `-28-G-F` | **24×10/100M** + 4×SFP（100FX 或 1000Base-F） | L2 线速，9K Jumbo，8K MAC，**Flash ring <20 ms**（单/多环），IP30，19" 机架，MTBF **>25 年** |
-| `MLB-E4208-14-F` / `-14-G-F` | 8×GE 级（管理型） | **12~58 VDC 双输入 + 防反接**，PoE 管理（时间/功率/PD 功耗），154×65×108 mm，120 g，IP30 |
-| `MLB-E4104-5-P-F` | **5×10/100 PoE** | **af/at 30 W/口**，**46~57 VDC 双输入**，**−40~75 °C**，IP30，DIN/壁挂 |
-| `MLB-E4106-8-F` | 8 口非管理 | 8K MAC，9K Jumbo，**12~58 VDC**，−40~75 °C，117.8×39×96.9 mm，395 g |
-| `MLB-E4101-5` / `E4102-5-F` / `E4105-8` / `E4103-5-P` / `E4202-10-F` / `E4202-10-GF` | 5/8/10 口梯子 | 同上体系 |
-| ⭐ `MLB-E4212-8-G-P-F` | **6×GE PoE + 2×GE** | **每口 30 / 60 W**，240 VAC 或 44–58 VDC，−40~75 °C，1.5 kV 端口隔离 |
+| 身份 | 电商 / 白牌运营 | **电力系统集成商（EPC）** |
+| 自有线 | **MLB-`E4xxx`**：`4101-5 / 4102-5-F / 4103-5-P / 4105-8 / 4106-8-F / 4202-10-F / 4204-28-F`（工业受管/非受管，IP30，MTBF >25 年，双 DC 12–58 V） | 无 |
+| 代理 | **USR IoT 土耳其官方分销（Bosgem）** | 无（做方案） |
+| 地址 | — | **İnönü Mh. Kayışdağı Cd. No:128, Kandiş İş Mrk. K:1, Ataşehir / İstanbul** |
+| 电话 | — | **+90 216 577 66 82** · `info@iosistem.com.tr` |
+| 成立 / 规模 | — | **2023**（rocketreach）· **2 人** · CTO **Emre Anayurtlu** |
+| 业务 | 工业交换 / 网关 / 4G 路由零售 | **SCADA · TEİAŞ RTU · EDAŞ RTU · 轨交 SDH-PDH · PAX 电话 · 数据中心能耗监测** |
 
-#### B. 品牌归属（外部证据）
-澳洲 `technologydecisions.com.au` 的产品公告把 **`MLB-E4212-8-G-P-F`** 明确称为 **「MLiS Managed Industrial Gigabit Ethernet switch」** ⇒ **`MLB-` 前缀 = MLiS 品牌**，iotsistem 是引入方（土耳其分销/贴牌）。
-
-#### C. 与我方对位
-| 它的型号 | 我方 | 差距 |
-|---|---|---|
-| `MLB-E4204-28-F`（24×**100M** + 4 SFP） | **`EW-S2926GM-AP`**（24×GE PoE）/ `EW-PIS3620M-16GE` | **我方全千兆**，它百兆 |
-| `MLB-E4104-5-P-F`（5 口 af/at 30 W） | `EW-EPIS3910-8GE` / `EW-PIS1810-8GE` | 我方 8 口 + **bt 60 W** + 云 |
-| `MLB-E4212-8-G-P-F`（6 PoE **60 W/口**） | `EW-PIS3810M-8GE-BT` | **它已有 60 W** → 这一档不能吹"只有我方有 bt" |
-
-⚠ **重要修正**：r47 写「iotsistem 缺 802.3bt」——**不准确**，它已有 **60 W/口** 的工业机型（但**不是 802.3bt 标准 90 W，也没有 24 口 bt**）。
-→ **正确说法**：**「它有 60 W/口的 8 口级工业 bt-like，但没有 24 口 bt、没有 2.5G、没有云」**。
-
-**首封**：`MLB-E4204-28 serisi 24 port 100M — GE + 2.5G yükseltmesi (aynı form factor)`
-**必问**：① MLiS 是独家吗？② 集装箱量级？③ 24 口百兆还有多少客户在买？
-
-### 证据等级（r54）
-- 已核实：**7 个 MLB 型号与规格**（`iotsistem.com` 产品页原文）、**MLiS 品牌归属**（澳洲媒体公告）。
-- 仍空白：`MLB-E4204-28` 尺寸 435×570×250 mm 明显是**笔误**（需图确认）、MLiS 的工厂与代理层级。
+⇒ **`iotsistem` 是竞品也是潜在 OEM 客户**（它已经在做我们想做的事）。
+⇒ **`iosistem` 是集成商，卖方案不卖货** —— 单独建档，别串号。
 
 ---
 
@@ -170,3 +155,26 @@ Berk（**已有回复** = 暖线索）+ info@iotsistem.com
 ### 证据等级（r54）
 - 已核实：**7 个 MLB 型号与规格**（`iotsistem.com` 产品页原文）、**MLiS 品牌归属**（澳洲媒体公告）。
 - 仍空白：`MLB-E4204-28` 尺寸 435×570×250 mm 明显是**笔误**（需图确认）、MLiS 的工厂与代理层级。
+
+---
+
+## 附：r75 白牌层与身份订正（OEM 池 / Perpa B K:8 / İzmir 路线）
+
+> 本节为 **r75（2026-11-06）**：**身份订正 + 白牌层（OEM）视角。**
+
+#### r75 补：**`iotsistem` 与 `iosistem` 是两家不同公司 —— 绝不能合并**
+
+**🛑 修正 r73（B/018）**：档案只记了 `iotsistem`，**没记 `iosistem.com.tr`** —— 两者名字一字母之差，**业务完全不同**。
+
+| | **`iotsistem.com` — IoT Sistem** | **`iosistem.com.tr` — IOSistem Endüstriyel Teknolojiler** |
+|---|---|---|
+| 身份 | 电商 / 白牌运营 | **电力系统集成商（EPC）** |
+| 自有线 | **MLB-`E4xxx`**：`4101-5 / 4102-5-F / 4103-5-P / 4105-8 / 4106-8-F / 4202-10-F / 4204-28-F`（工业受管/非受管，IP30，MTBF >25 年，双 DC 12–58 V） | 无 |
+| 代理 | **USR IoT 土耳其官方分销（Bosgem）** | 无（做方案） |
+| 地址 | — | **İnönü Mh. Kayışdağı Cd. No:128, Kandiş İş Mrk. K:1, Ataşehir / İstanbul** |
+| 电话 | — | **+90 216 577 66 82** · `info@iosistem.com.tr` |
+| 成立 / 规模 | — | **2023**（rocketreach）· **2 人** · CTO **Emre Anayurtlu** |
+| 业务 | 工业交换 / 网关 / 4G 路由零售 | **SCADA · TEİAŞ RTU · EDAŞ RTU · 轨交 SDH-PDH · PAX 电话 · 数据中心能耗监测** |
+
+⇒ **`iotsistem` 是竞品也是潜在 OEM 客户**（它已经在做我们想做的事）。
+⇒ **`iosistem` 是集成商，卖方案不卖货** —— 单独建档，别串号。

@@ -101,25 +101,17 @@ Perpa 批发规模注册品牌主；型号 SW108FGP-A 式
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r72 补：**Nokta Elektronik 完整工商档案（本轮数据最全的一家）**
+#### r75 补：**`upTech` 是 Nokta 自己的牌 —— 不是中系品牌**
+
+**🛑 修正 r72（A/052）**：被推翻的说法「**upTech 是土耳其市场上的中系开关品牌之一**」。官网 JSON-LD 明确写着 `brand: upTech, manufacturer: Nokta Elektronik` ⇒ **upTech = Nokta 的自有品牌**（2008 / 商标 13951）。
 
 | 项 | 内容 |
 |---|---|
-| 法人 | **Nokta Elektronik ve Bilişim Sistemleri A.Ş.** |
-| **MERSİS** | **0631-0730-5210-0020** |
-| **Ticaret Sicil No** | **555138-0** |
-| **Vergi Dairesi / No** | **Şişli / 6310730521** |
-| **KEP** | `noktaelektronikvebilisim@hs03.kep.tr` |
-| 地址（4 处） | 总部 **Perpa A Blok K:2 No:1** · 销售 1 **B Blok K:8 No:906-907** · 销售 2 **A Blok K:8 No:841** · 技术服务 **B Blok K:8 No:906-907** |
-| 电话 / 邮箱 | **0212 222 87 80** / **0850 333 02 08** · `nokta@noktaelektronik.net` |
-| 规模 | **75–99 人** · 营收约 **$7.5M** · **39% 员工在职 11 年以上**（流失率极低） |
-| **自有品牌** | **upTech** —— 土耳其专利局 **2008/13951**，**2008-03-11 首注册，续展至 2028**，**916 个 SKU**（以太网/PoE 交换机、SFP/SFP+、媒体转换器、线材、连接器） |
-| 代理品牌 | **Dahua（官方 Distribution Partner id 203）** · Oring · Amphenol · Planet · Gewiss · Edge-Core · Goldtool · ATC · Ruijie · Inno Instrument · Noyafa |
-| 决策层 | **Harun Yazar（Vice Chairman）· Ersan Çağlar（COO/CDO）· `Casey CHEN`（Import Manager ← 进口决策人）· Mehmet Tığlı / Nefise Tugay（Sales Managers）· Kadir Babur（Marketing）** |
+| `upTech` | **Nokta 自有品牌**（制造方 = Nokta Elektronik） |
+| **它在售的 13 个品牌** | upTech · Dahua · **Oring Networking** · Amphenol · **Planet** · Gewiss · **Edge-Core** · Goldtool · ATC · **Ruijie** · Inno Instrument · Noyafa（+ 东芝/WD 硬盘） |
 
-⇒ **判读**：它**同时代理 5 个交换机品牌**（Dahua / Oring / Planet / Edge-Core / Ruijie）⇒ **不缺供应商**。
-⇒ **它缺的是「能贴 upTech 标、价格低于这五家」的供应商** —— 这是唯一的谈判入口。
-⇒ **`Casey Chen` 是中文名 + Import Manager** ⇒ **它已经有中国采购通道，沟通可以直接进技术细节。**
+⇒ **它早有 Edge-Core / Planet / Oring / Ruijie 四条工业线** ⇒ **不能打「你缺工业」**。
+⇒ **正确话术**：「**upTech 的工厂，换我。**」—— 同规格、更硬的价、更准的交期、能给你做定制壳。
 
 ---
 
@@ -209,3 +201,21 @@ r48 只点了交换机（非管理/L2+/L3）就被 `noktaelektronik.net` 的分�
 ⇒ **判读**：它**同时代理 5 个交换机品牌**（Dahua / Oring / Planet / Edge-Core / Ruijie）⇒ **不缺供应商**。
 ⇒ **它缺的是「能贴 upTech 标、价格低于这五家」的供应商** —— 这是唯一的谈判入口。
 ⇒ **`Casey Chen` 是中文名 + Import Manager** ⇒ **它已经有中国采购通道，沟通可以直接进技术细节。**
+
+---
+
+## 附：r75 白牌层与身份订正（OEM 池 / Perpa B K:8 / İzmir 路线）
+
+> 本节为 **r75（2026-11-06）**：**身份订正 + 白牌层（OEM）视角。**
+
+#### r75 补：**`upTech` 是 Nokta 自己的牌 —— 不是中系品牌**
+
+**🛑 修正 r72（A/052）**：被推翻的说法「**upTech 是土耳其市场上的中系开关品牌之一**」。官网 JSON-LD 明确写着 `brand: upTech, manufacturer: Nokta Elektronik` ⇒ **upTech = Nokta 的自有品牌**（2008 / 商标 13951）。
+
+| 项 | 内容 |
+|---|---|
+| `upTech` | **Nokta 自有品牌**（制造方 = Nokta Elektronik） |
+| **它在售的 13 个品牌** | upTech · Dahua · **Oring Networking** · Amphenol · **Planet** · Gewiss · **Edge-Core** · Goldtool · ATC · **Ruijie** · Inno Instrument · Noyafa（+ 东芝/WD 硬盘） |
+
+⇒ **它早有 Edge-Core / Planet / Oring / Ruijie 四条工业线** ⇒ **不能打「你缺工业」**。
+⇒ **正确话术**：「**upTech 的工厂，换我。**」—— 同规格、更硬的价、更准的交期、能给你做定制壳。

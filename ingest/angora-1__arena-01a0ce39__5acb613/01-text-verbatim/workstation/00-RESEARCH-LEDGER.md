@@ -1347,6 +1347,46 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §69 · 第 75 轮 — 2026-11-06 ≈17:00–21:30 (+0800)：**两条品牌标签修正（Ekosinerji = 中压柜厂 / Tipro = 斯洛文尼亚）** / **GSL = Moxa 阵营旗手（1988，2003 起 Moxa，311 SKU）** / **白牌层 9 家自有品牌（Asya/ISEE · Han · Lansan …）** / **Perpa B K:8 一层 8 家** / **İzmir 一天路线**
+
+用户第 28 次「继续」，并要求拉长每轮工时 ⇒ 本轮改为「先拉线再补点」：先找**谁在贴牌**，再回头修标签。
+
+### 一、🛑 两条修正（会直接影响话术对象）
+**`Ekosinerji` 不是工业交换机品牌**：法定 **EKOS Teknoloji ve Elektrik A.Ş.**（原 Ekosinerji Elektrik San. ve Tic. A.Ş.，BİST **EKOS**），EKOS GROUP 五家公司（含 **Tuzla 自由区** EKOSinerji Dış Tic. 与突尼斯/加拿大公司）。**2000** 成立，集团自述 80 年代初以电气材料批发 + EPC 起家。地址：**Balıkesir OSB 17-19**（总部/工厂）· **Gebze İstasyon Mah. Güney Yanyol Cd. No:78** · **İstinye Ressam Hikmet Onat Sk. No:9**；**0262 656 47 67**。**101–250 人**，营收 **$7.6–7.8M**（多源不一）。董事长 **Tarık Akbaş**，GM **Memduh Birbilen**，供应链总监 **Mehmet Eryılmaz**。产品 = **中压空气绝缘/气体绝缘柜、RMU、重合器、分段器、负荷开关、真空断路器、水泥箱变（半地下式土耳其首家）、保护控制继电器、RTU、变电站自动化、NTP-PTP 时间服务器（EKOSync 1588）、GE 配电产品**；自述「**土耳其 GIS 第一家也是最大一家**」，出口 70%。⇒ **它是变电站集成商 = ODM 客户（要 IEC 61850-3 交换机 + PTP），不是竞品。** GSL 的 Moxa 项目里就写着「Moxa PT-7528 + **EKOS Electric EKOSync 1588**」。
+**`Tipro` 不是土耳其品牌**：**Tipro d.o.o.（斯洛文尼亚/卢布尔雅那）**，模块化工业键盘 + 触摸终端（BeFREE 20/22、FREE/FREE+ 模块、工业键盘、听筒、对讲模块），用于轨交/空管 dispatch/安防/医疗/工厂自动化/零售/酒店/停车场。**土耳其代理 = GSL，2018 起。不做以太网交换机。** 误导来源 = `toptanbilgisayar.net/kategori/endustriyel-ethernet` 把「货架上出现的名字」当「生产商」。
+
+### 二、⭐⭐⭐ 新对手：GSL Mühendislik
+**GSL Mühendislik Sanayi ve Ticaret A.Ş.**，**1988 年 5 月安卡拉**成立（38 年）。**İlkbahar Mah. 612. Cadde No:9, Çankaya/Ankara 06550**；**0312 473 3540**（Faks 3544），`info@gsl.com.tr`。安卡拉 + 伊斯坦布尔办公室，**25–49 人**。代理 **Moxa（2003 起，21 年+）· Kyland · Robustel · Digi · Tipro（2018 起）· Pro Optix · RuggON · Transcend · TXOne**，历史含 EKOS。线上店 `store.gsl.com.tr`：工业以太网 **311 SKU / 受管 119**，品牌计数 **MOXA 363 · Kyland 27 · Meanwell 8 · Pro Optix 7**。**自己做 FAT**（Kyland 交换机在安卡拉办公室完成 FAT）、办认证工业网络培训、TSE+ISO 认证技术服务。
+⇒ **价格伞**：Moxa `EDS-208-M-SC`（10/100 8 口 + 1 光口）**RS Türkiye 13,988.58 TL 未税（≈$280）**；`EDS-208A-T`（−40~75 ℃）美国挂牌 **$278.58**；`EDS-208A-MM-ST` RS Türkiye **26,091 TL 未税（≈$521）** ⇒ **土耳其「8 口工业非受管」心理价位 $280–520**。
+⇒ **唯一切口**：「Moxa 的标你继续报 Moxa；报不下来的标，用我的线兜底 —— 不冲突、不抢代理权。」
+
+### 三、⭐⭐⭐ 白牌层（OEM 池）—— 比代理层更肥
+**Asya Telekomünikasyon ve Net Güvenlik Sistemleri San. Tic. Ltd. Şti.**（新）**1995-12-27**，İTO 注册；总部 **Mehmet Akif Mah. Öztekin Cad. No:18 Asya Plaza Ümraniye 34774**；**批发点 Perpa B Blok Kat 7-8-9 No:908（KIRMIZI HAT，入口 K:7）**；Bostancı 分点 (0216) 573 23 43；**0850 433 27 92**；11–50 人；决策人 **Baysal Günel · Serkan Ur · Harun Baştürk**。**自有品牌 ISEE**（官网：「ISEE marka NVR/DVR cihazları firmamızın ürünüdür」）。**贸易实据：132 批进口 / 5 家供应商**（HS 8529.90.92 / 8522.90.00）。ISEE 交换机仅 3 型：`ISS-2006P`（4 口 PoE 78 W + 2 上行，250 m 主动 PoE）、`ISS-1026P`（24 口 400 W + 2×GbE）、`ISS-1040`（28×1G SFP + 4×10G + 12×GbE）。在售还含 Hikvision/Haikon·Dahua·Neutron·Bulwark·Vguard·Karel·Bosch·Honeywell·Samsung。⇒ **全表最像 OEM 客户的一家**。
+**HAN ELEKTRONİK Bilgisayar ve Güvenlik Sistemleri A.Ş.**（订正：档案原写「Hane」）：**2000**，51–200 人，**Mehmet Akif Mah. Bahariye Cad. (Basın Ekspres Yolu) 1904 Sok. No:15/A Küçükçekmece**，**444 1 426**，`info@hanelektronik.com`。自由区同名主体 **HANE ELEKTRONİK SAN. VE TİC. LTD. ŞTİ.**（İst. End. ve Tic. Serbest Bölgesi, Aydınlı SB Mah. Atatürk Cd. No:15 Tuzla）。**自有商标 5 组**：Han 商标注册证 · **FOREDGE 分销证** · **VIDEOPARK** · **SPY/AHD/IP/Mobile/Alarm/Network Solution** · **AVerFire/AVerGuard/AVerSound** · **M-Sight**（金属探测门/X 光）；ISO 9001 · ISO 10002 · TS-12540。独家：**MILESIGHT 土耳其唯一授权 + 其土耳其办事处**（2018 最高增值+最快成长、**2023 最有价值伙伴**）· **UNIWIZ 唯一** · Panasonic 可寻址消防 · AXXON/Hoop Cam · Honeywell · TNA · AlienFence · **Shelly** · GRUNDIG · Nevio · Monitoreal。**中国线：Ruijie + Reyee**。⇒ **已有两层中国供应链（OEM 白牌 + 品牌代理）⇒ 要的是「换掉现在那个深圳工厂」。**
+**LANSAN TEKNOLOJİ A.Ş.**：**2019-12-04**；**Perpa B Blok No:1/1 İç Kapı No:989**（另址 Work Plaza Başakşehir）；0212 955 02 30 / 0312 955 02 00；自有 **LNS-** 全线。**官网标价：LNS-1310P 8 口 PoE $1,000 / LNS-1324P 24 口 $1,427 / LNS-1306-P 6 口 $242 / LNS-1308 8 口 SFP 骨干 $1,755**。⚠ `find.com.tr` 的 MERSİS `1234567890123456` 与 E-tebligat `12345-67890-12345` 是占位假号，不可引用。
+
+### 四、⭐⭐ 邻类三家（各一句）
+**ErETE**：法定 **ERETE BİLGİ SİS. DIŞ TİC. VE SAN. LTD. ŞTİ.**，2001-12 成立，创始人 **Pınar Kabil · Murat Soyak · Timur Yıldız**；**19 Mayıs Mah. Güven Sok. No:4/2 Şişli**；**0212 212 81 03**；`erete@erete.com.tr`，GM **Murat Soyak**。**据点 = 伊斯坦布尔 + 台湾**。代理 **EDGE-CORE（Accton）+ ETHERWAN + VOSCOM + XPCABLE（EGM 认证）+ XPS Active System**；B2B 平台 **`eretekne.com`**（= 它自己的店，非独立公司）；**「Erete Network Okulu」** 每月培训出证（土耳其首创）；美国多州交通信号 + 土耳其 MOBESE 用 EtherWan hardened。⇒ **台系价格，纯价格标打不动；切口 =「EtherWan 同防护等级低一档」或「XPS 那条线我给你做 OEM」。** ⚠ `XPS` 身份仍未定（自有 vs ONV 贴牌）。
+**RF Teknoloji Makine ve Otomasyon San. Tic. Ltd. Şti.**：2012；**Tevfik Bey Mah. Şehit Adem Tamrak Sok. No:2/5 Sefaköy/Küçükçekmece**；**0212 210 95 65**；CalAmp 土耳其代表 + 3OneData 工业线 13 SKU；RF 数据电台/4G/CNC 控制单元/Smart Grid 网关。⇒ **卖「无线回传 + 杆上 PoE 交换一体箱」。**
+**iotsistem ≠ iosistem**：`iotsistem.com` = IoT Sistem（自有 **MLB-E4xxx** 工业受管/非受管、USR IoT 土耳其官方分销 Bosgem）；`iosistem.com.tr` = **IOSistem Endüstriyel Teknolojiler**（**Ataşehir İnönü Mh. Kayışdağı Cd. No:128 Kandiş İş Mrk. K:1**，**0216 577 66 82**，2023，2 人，CTO **Emre Anayurtlu**，做 SCADA/TEİAŞ RTU/EDAŞ RTU/轨交 SDH-PDH/PAX/数据中心能耗）。**两家绝不能合并。**
+
+### 五、⭐⭐ Perpa B Blok K:8 名册（一层 8 家，4 家是客户）
+**B 836** CCTV Depo · **B 902-904** Cenova · **B 906-907** Nokta · **B 908（K:7-8-9）** Asya Telekom/ISEE ⭐ · **B 989** Lansan ⭐ · **B 1105** Perpa Otomasyon/Sanpa Elektronik（1988，测试测量，0212 912 36 86） · **B 1246** Perpa Kameram · **B 1276** ALM Elektronik（switch/AP/PBX/摄像头/消防，0212 210 02 03）。
+⇒ 电梯上 **A K:5 No:295（GelecekBT/Telkolink）+ No:419（Güvenlik Toptancım）→ A K:8 No:841（Nokta 二号店）+ No:808-810/940（Koza）**。**半天 8 家，4 家有档案。**
+
+### 六、⭐⭐ İzmir 一天路线
+**① Folkart Towers（CCS 总部/展厅，Adalet Mh. Manas Blv. No:39 K:2511 Bayraklı）→ ② Halkapınar 1442 Sk. Tesisat İş Merkezi No:1/L（CCS 法定 İşyeri Adresi + 仓库）→ ③ 1443 Sk. No:3/A 旧址 + GIDA ÇARŞISI（1201–1443 sokak 整片电气/电子批发）→ ④ Mithatpaşa Cd. No:146 Zafet Apt. K:1 D:2-3（TeleOne 800 m²）**；四站互距 1.5–5 km。可选 ⑤ **Manisa Yunusemre 75. Yıl Mah. 5391. Sok. No:41**（CCS 点，0533 272 31 91）。
+
+### 七、两条工商级修正
+**CCS**：法定 İşyeri Adresi **Halkapınar 1442 Sk. Tesisat İş Merkezi No:1 L Konak 35170**（VKN 变更：旧 1443 Sk. No:3 A → 新）。规模第三源：zoominfo **283 人 / $10–25M**（同站另处 250–499 / $15.6M），rocketreach 3 人 ⇒ 区间「中型，≥50 人可信」。**「İzmir'in en büyük dağıtıcısı」是自我宣称。**
+**TeleOne**：法定 **TELEONE BİLGİ VE İLETİŞİM HİZMETLERİ SAN. VE TİC. LTD. ŞTİ.**，**VKN 8370410675**，**Yeşiltepe Mh. M.Paşa Cd. No:146 Konak**。**法人成立 2003-10-06（1999 是品牌史）**，税务开始 2009-01-22。**代理 = Brickcom · Nuuo · Digital Watchdog**（r74 空白已补）。**2014 起进 DMO，自述 DMO 本领域最大前三家供应商。** TSE-HYB 2008 起 · ISO+OHSAS 2008 起 · Bilişim 500 两次 · 2016 全球最佳突破 Brickcom 分销商。NACE 由「安防服务」改为「**计算机编程**」⇒ 重心转向软件。**0850 221 95 95 / (0232) 425 50 53。**
+
+### 八、顺手修正两条
+**Öncü 有 BDCOM**：官网在售 `IES200-V25-4S2T8P`（8 口受管 PoE 工业）、`IES200-V25-4S10T`（10 口受管）、`IES2000-TW8S8P`，另有自有 **Sec-on `SC-E208-4FH`** ⇒ **BDCOM 在土耳其已有正式代理，$399 锚价是「本地可比」不是海外参考。报价对 Öncü 的 BDCOM，不对 Moxa。**
+**`upTech` = Nokta 自有品牌**（官网 JSON-LD `brand: upTech, manufacturer: Nokta Elektronik`）⇒ 推翻「upTech 是中系品牌」。**Nokta 在售 13 品牌含 Edge-Core · Planet · Oring · Ruijie** ⇒ 不能打「你缺工业」，只能打「**upTech 的工厂换我**」。
+
+**诚实边界**：**Asya Telekom 的 5 家供应商未取到**（需付费贸易数据）· **`XPS Active System` 身份未定** · **EKOS 的 IEC 61850-3 交换机来源未取到** · **`Lansan` 真 VKN/MERSİS 未取到**（公开页是假号）· **FOREDGE 代工厂未定** · **Ekosinerji→EKOS 更名日期未取到** · **İzmir Gıda Çarşısı 未逐家建档** · **所有电话仍未试拨** · **DMO K 码仍未反查（TeleOne 最值得查）**。
+
 ## §68 · 第 74 轮 — 2026-11-06 ≈13:30–17:00 (+0800)：**Koptek = DCN(2010) + Dongwe(2010) + ONV(2020) 三条中国线** / **Portel = CTC Union 车载·轨交（E-Mark / EN50155 / ITxPT）** / **伊兹密尔第二极：CCS(VKN 2030341121) + TeleOne**
 
 用户第 27 次「继续」，执行 r73 定的两项第一优先。

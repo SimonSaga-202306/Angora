@@ -95,23 +95,19 @@ BC-ODS 贴牌替换（250m extend 长距离 PoE = 我方 2.5G/长距 PoE 卖点�
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r74 补：**伊兹密尔最大分销商之一，且「网络与基础设施」这一格没有交换机厂**
+#### r75 补：**注册地址沿革 + 规模第三源 + 「İzmir 最大」是自称**
 
 | 项 | 内容 |
 |---|---|
-| 法人 | **CCS Güvenlik Sistemleri İç ve Dış Ticaret Ltd. Şti.** |
-| **Vergi No** | **2030341121** |
-| **成立** | **2016-03-28**（活动代码 **464308**：防盗/火灾报警设备批发） |
-| 总部 | **Adalet Mah. Manas Blv. Folkart Towers No:39 İç Kapı 2511, Bayraklı / İzmir** |
-| 仓库 / 门店 | **Halkapınar Mah. 1442 Sk. Tesisat İş Merkezi No:1/L, Konak / İzmir 35170** |
-| 电话 / 邮箱 | **(0232) 459 55 70** · `hello@ccsguvenlik.com.tr` |
-| 分支 | **2018 Q2 开设 İstanbul 分店** |
-| 规模 | ⚠ **两源严重冲突**：zoominfo **250–499 人 / $15.6M**；rocketreach **3 人** ⇒ 只可信「中型以上」 |
-| **代理品牌** | **Hikvision · HiLook · ZKTeco · ERSE · OPUS · AlteBox**（+ WD / Toshiba / Seagate） |
-| 产品面 | 监控 · 消防 · 防盗 · 门禁 · 停车场/车牌 · **X 光机** · 闸机 · UPS · 音响 · 对讲 · **网络与基础设施（Ağ ve Altyapı Ürünleri）** |
+| VKN | **2030341121**（NACE **464308**） |
+| **法定 İşyeri Adresi** | **HALKAPINAR MAH. 1442 SK. TESİSAT İŞMERKEZİ No:1 L, KONAK / İZMİR 35170** |
+| **地址变更（VKN 记录）** | 旧 **HALKAPINAR MAH. 1443 SK. No:3 A KONAK** → 新 **1442 SK. Tesisat İşmerkezi No:1 L** |
+| 对外展示地址 | **Adalet Mh. Manas Blv. Folkart Towers No:39 İç Kapı 2511, Bayraklı** |
+| 第三/第四点 | **Manisa — Yunusemre 75. Yıl Mah. 5391. Sok. No:41**（0533 272 31 91）· **İstanbul 分店 2018 Q2** |
+| **规模三源** | zoominfo **283 人 / $10–25M**；同站另一处 **250–499 人 / $15.6M**；rocketreach **3 人** ⇒ **区间「中型，≥50 人可信，250+ 存疑」** |
+| 自述 | 「**İzmir'in en büyük dağıtıcı firması**」—— **自我宣称，无第三方印证** |
 
-⇒ **判读**：**品牌表里没有任何交换机厂，但官网有「网络与基础设施」这一格** ⇒ **第三个空货架（与 Cenova、NFS 同型）。**
-⇒ **它的客户在伊兹密尔和爱琴海地区，现成选项只有 Hikvision 的交换机** ⇒ 我方 = **「Hikvision 之外的第二个选择」**。
+⇒ **拜访动线（一天）**：**Folkart Towers（总部/展厅）→ Halkapınar Tesisat İş Merkezi（注册地/仓库）→ 1443 Sk. 旧址一带的 Gıda Çarşısı（整片电气电子批发）→ TeleOne（Mithatpaşa No:146）**，四站互距 1.5–5 km。
 
 ---
 
@@ -136,3 +132,23 @@ BC-ODS 贴牌替换（250m extend 长距离 PoE = 我方 2.5G/长距 PoE 卖点�
 
 ⇒ **判读**：**品牌表里没有任何交换机厂，但官网有「网络与基础设施」这一格** ⇒ **第三个空货架（与 Cenova、NFS 同型）。**
 ⇒ **它的客户在伊兹密尔和爱琴海地区，现成选项只有 Hikvision 的交换机** ⇒ 我方 = **「Hikvision 之外的第二个选择」**。
+
+---
+
+## 附：r75 白牌层与身份订正（OEM 池 / Perpa B K:8 / İzmir 路线）
+
+> 本节为 **r75（2026-11-06）**：**身份订正 + 白牌层（OEM）视角。**
+
+#### r75 补：**注册地址沿革 + 规模第三源 + 「İzmir 最大」是自称**
+
+| 项 | 内容 |
+|---|---|
+| VKN | **2030341121**（NACE **464308**） |
+| **法定 İşyeri Adresi** | **HALKAPINAR MAH. 1442 SK. TESİSAT İŞMERKEZİ No:1 L, KONAK / İZMİR 35170** |
+| **地址变更（VKN 记录）** | 旧 **HALKAPINAR MAH. 1443 SK. No:3 A KONAK** → 新 **1442 SK. Tesisat İşmerkezi No:1 L** |
+| 对外展示地址 | **Adalet Mh. Manas Blv. Folkart Towers No:39 İç Kapı 2511, Bayraklı** |
+| 第三/第四点 | **Manisa — Yunusemre 75. Yıl Mah. 5391. Sok. No:41**（0533 272 31 91）· **İstanbul 分店 2018 Q2** |
+| **规模三源** | zoominfo **283 人 / $10–25M**；同站另一处 **250–499 人 / $15.6M**；rocketreach **3 人** ⇒ **区间「中型，≥50 人可信，250+ 存疑」** |
+| 自述 | 「**İzmir'in en büyük dağıtıcı firması**」—— **自我宣称，无第三方印证** |
+
+⇒ **拜访动线（一天）**：**Folkart Towers（总部/展厅）→ Halkapınar Tesisat İş Merkezi（注册地/仓库）→ 1443 Sk. 旧址一带的 Gıda Çarşısı（整片电气电子批发）→ TeleOne（Mithatpaşa No:146）**，四站互距 1.5–5 km。
