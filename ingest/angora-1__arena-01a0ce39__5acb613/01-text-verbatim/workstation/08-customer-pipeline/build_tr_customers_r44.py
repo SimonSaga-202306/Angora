@@ -74,7 +74,8 @@ try:
     R79 = {}
     R80 = {}
     R81 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data'):
+    R82 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -147,6 +148,8 @@ try:
                 R80.update(_mod.D)
             if _m == 'r81_appendix_data':
                 R81.update(_mod.D)
+            if _m == 'r82_appendix_data':
+                R82.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -192,6 +195,7 @@ R78_MARK = '## 附：r78 离岸品牌模板与身份卡（RUBISEC / Birkil / 四
 R79_MARK = '## 附：r79 工商级身份（VKN/MERSİS）与工业货架空位'
 R80_MARK = '## 附：r80 定价双轨与电力段代理地图'
 R81_MARK = '## 附：r81 三条新线索落地与 RUBISEC 认证缺口'
+R82_MARK = '## 附：r82 KGYS「C 型边缘交换机」市场与五家新渠道'
 
 
 def tier_letter(level):
@@ -766,6 +770,16 @@ def main():
             L.append('> 本节为 **r81（2026-11-06）**：**三条新线索（İNFOGEN / İSAC / RİVO）的完整档案；以及「RUBISEC 没有 IEC 61850-3」这一条硬结论。**')
             L.append('')
             L.append(body_r81.strip('\n'))
+            L.append('')
+        body_r82 = R82.get(no)
+        if body_r82:
+            L.append('---')
+            L.append('')
+            L.append(R82_MARK)
+            L.append('')
+            L.append('> 本节为 **r82（2026-11-06）**：**KGYS 是 8 口工业 PoE 的全国性市场，门票是 EGM 一张测试报告；五家新渠道线索（Teslakom / Proline / Areskom / GGS / Netmon）落地。**')
+            L.append('')
+            L.append(body_r82.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))

@@ -1347,6 +1347,63 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §76 · 第 82 轮 — 2026-11-06 ≈13:30–16:10 (+0800)：**找到了「国家为什么要买 8 口工业 PoE」——KGYS，门票是 EGM 一张测试报告** / **五家渠道线索落地（Areskom 实为 r37 旧档升级）**
+
+用户第 35 次「继续」。前两轮在找「谁在卖交换机」；本轮找到了**制度性的需求源**，并第一次把「认证」从障碍改写为「定价原因」。
+
+### 一、🔥🔥🔥 KGYS = 全国性 8 口工业 PoE 市场
+**KGYS（Kent Güvenlik Yönetimi Sistemi / 民间称 MOBESE）**，**EGM（警察总局）** 主导、**ASELSAN/ASELSANNET** 承接，81 省 + 北塞。物理末端 = **街道立杆下的现场机柜，每点位一台工业交换机，汇 8 路摄像头（每路 ≤5 Mbps，合计 ≤40 Mbps）进光纤环网** ⇒ **8 口就是这个国家的标准单元**。
+规格书里这台设备叫 **「C TİPİ ETHERNET ANAHTAR」**，并明写「**该交换机可以与其他交换机不同品牌**」⇒ **单点替换是规则允许的**。
+
+### 二、🔥🔥🔥 1.1.26 条 = 唯一的硬门槛
+必须持有 **EGM 信息技术与通信部**签发的、结果 **「BAŞARILI」** 的 **《C-Tipi Kenar Anahtar ve Traffic Shaping Test Report》**，**随标提交**；以往以「Haberleşme Daire Başkanlığı」名义签发的旧报告同样有效。
+**⇒ 这是「品牌 + 型号 + 固件」三者绑定的国家级准入证。**
+
+**已持票的只有 4 个牌子**：**Extreme Networks（`ISW 8GbP, 4-SFP`）· Allied Telesis · CryptoLink（`CRLISW-8P`）· D-Link（`DIS300` 系）**。
+
+### 三、⭐⭐⭐ 结构发现：CryptoLink 的机器 ≈ D-Link ≈ Extreme（推断）
+三者**同一套固件界面**：默认 `192.168.2.1`、`admin/admin`、系统信息页同款、配置步骤一字不差（`turk-iot.com` 2023-12，含截图）⇒ **极可能同一台湾 ODM 参考设计，CryptoLink 是本地贴牌商**。
+**⇒ CryptoLink 从「客户」升级为「持票通道」**：它已有票、已有 KGYS/车牌场景、已是我们客户。**这是全轮最便宜的一条路径。**
+
+### 四、规格 19 条与价格锚
+1.1.1–1.1.26 关键项：工业型 · **−40~+60 ℃** · 无风扇 · ≥IP20 · 告警继电器 · 环网冗余 · **≥8 千兆电 + ≥2 千兆光（SFP 可 70 km）** · non-blocking · **≥8,000 MAC** · ≥4 队列 · **RMON + SNMP v1v2v3** · IGMP snooping · 802.1Q/MSTP/x-ring/VLAN trunking · 802.1p+ToS · MAC 端口安全 · **802.1x** · 端口镜像 · **LACP** · **IPv6** · 授权随设备 · **每口都要 PoE af+at** · **每口独立 traffic shaping（40 Mbps 下丢包 ≤0.5%、延迟 ≤0.5 s、吸收 ≥200 Kbit 突发）**。
+**价格锚**：D-Link `DIS-300G-8PSW` **$1,132 / $1,262**（eibabo、tradeinn）· Lantech `IPGS-3208GSFP-48V` **35,443 THB**、`IPGS-3408GSFP-48V` **39,278.25 THB**（泰国代理价目）· Allied `AT-GS950/10PS` **$496.1 + KDV**、`AT-GS980M/52` **$3,000 + KDV**。
+**⇒ KGYS 现场档 = $1,100–1,300，与 RUBISEC `IS-300-12GPX` $1,221 完全重合 ⇒ 不是巧合，是这一档的国际市价。我方 $380 / $500–700 在其下方 2–3 倍。**
+
+### 五、五家渠道线索（四新 + 一升级）
+| 线索 | 关键数据 | 分级 |
+|---|---|---|
+| **Teslakom** | **TESLAKOM BİLİŞİM VE TELEKOMÜNİKASYON A.Ş. · 2013 · 11–50 人 · 2019 起 Ankara Bilkent CyberPark AR-GE · 0212 356 46 46 / 0312 472 99 67 · Lantech 土耳其唯一授权经销商（2016 年初起）** · 8 品牌里**只有 1 个硬件网络** · 官网自述要把「土耳其工程师 + 本土生产能力」结合 · KGYS 机型 **`IPGS-3408GSFP-48V-E`（EGM 测试通过、G.8032、16K MAC、−40~75 ℃、硬件 traffic shaping）** | **A- / 76** |
+| **Proline Bilişim** | **PROLINE BİLİŞİM SİSTEMLERİ VE TİCARET A.Ş. · 2003 · ≈105 人 · Beyan Sk. No:66 Ümraniye · 0216 528 62 00** · **Pasifik Teknoloji（PATEK）子公司** · **2026-09-23 KAP：EGM 全国 KGYS 现代化 + PTS，$6,645,000 + KDV，24 个月** ⇒ **手里正握着钱** | **A- / 75** |
+| **Areskom（升级 #63）** | **2004 · Altunizade Kısıklı Cd. No:35/1 Üsküdar · 0216 428 78 78 · Westermo 合作 16 年+** · Westermo/Teltonika/ETC/Acromag/Lanner/Atop/Sena/TEKTELIC · 代理 **Lynx 5612（IEC 61850-3 变电站）** | **B- / 35 → B+ / 71** |
+| **GGS Bilişim** | **2005（Ostim 50 m² 起家）· Batıkent Gersan 2307/2 Sk. No:11 Ankara · 0312 474 01 30** · **6 省 KGYS**（Ankara/İstanbul/İzmir/Trabzon/Mersin/Denizli）· ⚠ 人数三口径冲突不引数 | **B / 68** |
+| **Ankara Netmon** | **1998（Netaş 安装组外包，15 人起）· 126 人 · Dumlupınar Cd. No:28 Sincan · 0312 385 86 00** · ICT 500 强第 14（自述）· KGYS/PTS（SSB+ASELSAN）+ 铁路信号 + 5G 国产化 | **B / 66** |
+另四家电力/盘厂线：**OBC**（Moxa 代理，能源自动化）· **4A Elektrik**（2005，60–750 kV，IEC 61850 数字变电站）· **Teleteknik**（RTU/计量屏制造，TAIS T800）· **TİO Otomasyon**（Sakarya，LS Electric 授权经销，C+ / 55）。
+
+### 六、⚠ 修正三条
+1. **修正 r37：Areskom 上游不是「CTS（台湾）」** ⇒ 是 **Westermo（瑞典）+ Teltonika/ETC/Acromag/Lanner/Atop/Sena/TEKTELIC**；评级 **B-/35 → B+/71**。**CSV 第 63 行文本未改**（维持「146 档不动、CSV 自 ingest 未改」约定），已标为**唯一一处已知旧错误**。
+2. **修正 r81：İSAC 计数是活计数器** —— r82 首页为 **SENSÖR 19,452 / 工业自动化 9,725**（r81 记 19,543 / 9,707）⇒ **今后引用必须带日期，且不得把「目录条目」说成「现货 SKU」**；首页另有「26 品牌 / 3,503 产品 / 28,646 库存」是**另一区块口径，不可相加**。
+3. **修正 r81：İSAC 分部是 İstanbul / Bursa / İzmir**（r81 记 Bursa + Gebze，Gebze 降级为招聘口径）。
+
+### 七、⭐ 新增：İSAC 质量方针写着「做自己的品牌」
+`isac.com.tr/kalite-politikasi/`：「**在生产中创造我们自己的企业品牌是我们的目标；为此 ISAC 的目标包括进入生产并最正确地管理制造过程。**」⇒ **它要的是 OEM/贴牌供应商，不是第 N 个代理品牌** ⇒ **取代 r81 对 İSAC 的「补一格」话术**，升级为「帮你把自有品牌的第一台做出来」。旁证：首页有独立 **Industrial Ethernet Switch** 子分类（在 9,725 之内，无品牌纵深）。
+
+### 八、渠道三分法（本轮方法论产出）
+| 类型 | 代表 | 门票 | 话术 | 价格档 |
+|---|---|---|---|---|
+| A. DMO 目录商 | İNFOGEN · İSAC · RİVO | 无（K 码 + 开票） | 补一格 / 做自有品牌 | $139–700 |
+| B. KGYS 集成商 | **Proline · GGS · Netmon · CryptoLink · Teslakom** | **EGM C-Tipi 报告** | 「现场机台挂谁的牌？给你第二条成本线」 | **$500–700（对标 $1,100–1,300）** |
+| C. 工业网络 VAD / 电力 EPC | Areskom · OBC · 4A · Teleteknik · GSL · ErETE · Simgenet | **IEC 61850-3 / IEEE 1613** | 「无 61850 的工厂/水厂/园区，1/3 价」 | $380–700 |
+**⇒ 没有门票不要打变电站与 KGYS 主标，只打「无认证要求的场景 + 二供」。**
+
+### 九、产出
+新增 `08-customer-pipeline/151-kgys-c-tipi-switch-market-and-new-channel-leads-2026-11-06.md`；新增 `r82_appendix_data.py`（键 `'63'`）；builder 接入 `R82` + `R82_MARK` + emit 块；根 `README.md` 增 `151`；本 ledger 增 §76；`AGENT-README` 增行 82；`00-TASK-STATUS.md` 增 CN + 待办 63。
+
+### 十、诚实边界
+**EGM 已批品牌清单只有 `turk-iot.com` 一处二手披露（2023-12）**，未从 EGM 官方或标书核实 · **CryptoLink = D-Link/Extreme 同平台是推断**（固件界面 + 默认凭据），非拆机/商标证据 · **Teslakom / Proline / Areskom 的 VKN·MERSİS 全缺**（Proline 的 Serdal KARAKAŞ 仅协会页，D&B 另记 Alparslan Cemail Batuk，职位关系不明）· **Areskom 现址（Üsküdar）与旧址（Koşuyolu）并存**，人数 1–10 明显低估 · **GGS 人数 3/324/201–500 三口径冲突不引数** · **Netmon 126 人来自招聘页自述** · **KGYS 年全国采购台数无公开数据 ⇒ 不给市场规模数字** · **我方是否有 8×1G+2×SFP 全口 PoE+ 型号、固件能否逐口整形：未确认** · **所有新电话未试拨**（Teslakom 0212 356 46 46 / 0312 472 99 67 · Proline 0216 528 62 00 · Areskom 0216 428 78 78 · GGS 0312 474 01 30 · Netmon 0312 385 86 00 · OBC 0216 577 54 18 · 4A 0216 366 38 28 · Teleteknik 0216 482 92 47 · TİO 0264 666 17 71）。
+
+---
+
 ## §75 · 第 81 轮 — 2026-11-06 ≈11:00–13:20 (+0800)：**三条新线索全部落成可打电话的档案（İNFOGEN / İSAC / RİVO）** / **RUBISEC 确认没有 IEC 61850-3** / **「补一格」话术成型**
 
 用户第 34 次「继续」（每轮 ≥10 工作分钟）。r80 挖到三家线索但只有「电话 + 品牌」，本轮全部补成带工商号或完整地址的档案；同时验证了 r80 关于 RUBISEC 认证的关键假设。
