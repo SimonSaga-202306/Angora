@@ -1347,6 +1347,32 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §67 · 第 73 轮 — 2026-11-06 ≈09:50–13:20 (+0800)：**10 张 B 级身份卡** / **Perpa K:8 一层楼 = 4 家客户** / **13 人门店也有自有 PoE 全系（Karer KR-*）** / **两类空货架**
+
+用户第 26 次「继续」，延续 r72「只挖客户、不算我方价格」。
+
+### 一、⭐ Perpa 客户地图（落到楼层+房号，本轮更新）
+A K:2 Nokta（总部 No:1）· **A K:5 GelecekBT No:295** · **A K:5 Güvenlik Toptancım No:419（新发现，0212 220 41 88）** · **A K:8 Koza Güvenlik No:808-810-940** · A K:8 Nokta 第二门市 No:841 · **B K:8 CCTV Depo（CepDepo）No:836** · **B K:8 Cenova D:902-903-904** · **B K:8 Nokta 销售/技术 No:906-907**。
+⇒ **A 座 2/5/8 层 + B 座 8 层 = 6 家客户（含 3 家 A 级），一趟电梯走完。** Pertpa B K:8 一层楼挤了 4 家客户。
+
+### 二、⭐⭐ 最有用的新事实：13 人的门店也有自有 PoE 全系
+**Karer Güvenlik**（Pendik，**2006 立、13 人、营收约 $948K、1,000 m² 仓库**）· **MERSİS 0524126788900001 · Vergi 5241267889** · 0216 397 33 88 · CEO/所有人 **Nurbaki KARATAŞ** · 代理 **Dahua / HiLook(by Hikvision) / Seagate / WD / Desi Alarm**。
+自有 **`KR-*` PoE 全系**：`KR-04F2BE`（4+2 100M PoE）· `KR-08F2BE`（8+2 100M PoE）· `KR-16F2G1G`（16+2 千兆 PoE）· 24 口千兆 PoE。
+⇒ **白牌不需要规模，只需要一个愿意接小单的工厂** ⇒ **我方 ODM 客户池比 A 级清单长得多。** ⚠ 该司公开投诉集中于「电话打不通、找不到对接人」⇒ **必须锁定具体人。**
+
+### 三、两类「空货架」，话术完全不同
+**A. 安防分销缺「品类」**：`Cenova`（7 品牌零交换机）· `NFS Teknoloji`（代理 **Hanwha Techwin / Pelco / Oinone / Surenix / TDSI / Identiv** 六家，**零交换机**）· `Okisan` · `Karer`（有自有 KR 但缺高配）⇒ 语言 = **「你缺这一格」**。
+**B. 纯网络缺「便宜供应源」**：`Koptek`（法定名，旧档误写 Coptek；Balmumcu-Beşiktaş，0212 275 79 53；产品线 = 骨干 / Data Center / PoE / L3 / L2 / 工业 / 无线+AP 控制器 / 光纤 / SFP / 转换器，**完全不碰摄像头**）· `Portel Teknoloji A.Ş.`（Kartal，0216 464 44 50，`industrialnetworkcenter.com`，**只做工业网络**，官网公示六个 IBAN 可收 **TL/USD/EUR**）⇒ 语言 = **「同样东西我给你更低」**。
+
+### 四、其余 B 级卡（工商级）
+**CCTV Depo（CCTVDEPO Güvenlik Teknolojileri A.Ş.）**：**MERSİS 0203034849100015 · Vergi Yenibosna 4420033641 · Ticaret Sicil 70431-5 · KEP cctvdepo@hs01.kep.tr** · 主仓 Remzi Özkaya Cad. No:18 Yenibosna/Bahçelievler · Perpa 点 B K:8 No:836 · 0850 303 03 17 · **2004（自称土耳其第一家 B2B 安防平台）** · **官网直列 8 位业务员手机**（Asuman Özüdoğru 0505 018 34 32 / Mehmet Sağlam 0553 090 98 31 / Mert Yıldız 0553 966 98 32 / Volkan Alçevik 0553 089 57 33 / Şahin Elektrik 0535 973 65 19 / Sait Osanmaz 0535 973 65 21 / Tolga Topraklı 0533 271 60 12 / Seda Nur Yılmaz 0533 272 60 12）· 自述「进口 + **自有生产**」⇒ 谈成本与 SKU 数，不谈品牌故事。
+**Öncü Güvenlik Sistemleri A.Ş.**：**Vergi 6560323830（Beykoz VD）· Ticaret Sicil 480061-0** · Kavacık Mah. Yayabeyi Sk. No:8 Kat:Zemin-1-2-3 Beykoz · **+90 216 537 01 23** · `info@oncuguvenlik.com.tr` · **2002 · 51–200 人 · 1,500+ 经销商 · 有 AR-GE · 做 EDS 电子监控** ⇒ 可同时谈贴牌与项目指定。
+**Koza Güvenlik**：Perpa **A K:8 No:808-810-940** · 0212 220 06 04 · Faks 0212 220 11 03 · **2005** · 自述「**kendi tescilli markaları yanında aldığı distribütörlük**」（自有注册商标 + 代理）· 自有线 **Greentech** · 技术 **Deniz Aydın** ⇒ 直接谈「Greentech 的交换机线」。
+**Rima Elektronik**：**1. İnönü Cad. No:18 Kat:1 Beşyol/Florya Küçükçekmece** · 0212 424 16 16 · Faks 0212 553 36 21 · GSM 0533 364 56 81 · `bilgi@rimaelektronik.com` · 成立 2000（名录称 2014 ⚠ 冲突）· **项目集成 + 年度维保**，不是分销商 ⇒ 只谈项目报价与品牌指定。
+**Hane Elektronik**：**本轮三次检索未命中官网，如实记为空**（仅 `info@hanelektronik.com`）。
+
+**诚实边界**：**`Portel` 与 `Koptek` 的代理品牌未取到（下一轮第一优先）** · `Karer KR-*` 的产地与工厂未查明 · Koza/NFS/Rima/Portel/Koptek/Hane 税号未取到 · Rima 成立年份两源冲突 · CCTV Depo 员工数三源不一致（25–49/51–200/100–200）· **所有电话邮箱未试拨未发信**。
+
 ## §66 · 第 72 轮 — 2026-11-06 ≈06:20–09:40 (+0800)：**用户转向「挖客户、不看我方价格」** / 6 家 A 级客户身份档案 / **Perpa 一栋楼 = 客户中心** / **CryptoLink `CRLISW-8P` 已拿政府 BAŞARILI 报告**
 
 用户第 25 次指令，明确改方向：「**继续挖掘 挖这些客户的信息为主 不需要过度关注 Saga 的价格**」。本轮**不计算任何我方倍率**，只做客户工商情报。

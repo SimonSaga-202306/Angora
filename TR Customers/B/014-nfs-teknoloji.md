@@ -95,3 +95,43 @@ Surenix/Oinone 替换/补充（8/24 口 PoE 对位 SRX 系列 + 工业 4 口对�
 ### 证据等级与空白
 - 已核实：法定名、地址、电话、**完整交换机型号清单**、代理品牌（Hanwha/Pelco/Oinone）（官网分类页逐条）。
 - 空白：成立年、员工数、营收、Surenix 的品牌归属（**最关键的一问**）。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+#### r73 补：**六个代理品牌，零交换机 —— 和 Cenova 同型的空货架**
+
+| 项 | 内容 |
+|---|---|
+| 名称 | **NFS Teknoloji**（对外称「Türkiye Distribütörü」） |
+| 地址 | **Aydınevler Mah. Öncel Sk. Meda Marmara Sit. No:1-13A, Maltepe / İstanbul 34854**（旧录：Üsküdar Cumhuriyet Mah. Şair Mehmet Akif Ersoy Sk. No:36 B-Z/1） |
+| 电话 / 邮箱 | **0216 505 82 28** · `info@nfsteknoloji.com` |
+| **代理（全部六家）** | **Hanwha Techwin · Pelco · Oinone · Surenix · TDSI · Identiv** |
+| 定位 | **「TEDARİKÇİNİZ DEĞİL, ÇÖZÜM ORTAĞINIZ」** —— 明确服务**系统集成商 / 项目公司**，不做零售 |
+| 人名 | **Hasan Başarır（Teknik Sorumlu）** |
+
+⇒ **判读**：**六个牌子全是摄像头 / 门禁 / 识别，没有一个是交换机** ⇒ 与 `Cenova` 完全同型的缺口。
+⇒ **它的客户是项目集成商** ⇒ 对**管理型 / 工业型**交换机需求更硬（项目要写进标书），**对低价白牌需求较弱** ⇒ 销售语言用「规格 + 交期 + 保修」，不要用「便宜」。
+
+---
+
+## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）
+
+> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**
+
+#### r73 补：**六个代理品牌，零交换机 —— 和 Cenova 同型的空货架**
+
+| 项 | 内容 |
+|---|---|
+| 名称 | **NFS Teknoloji**（对外称「Türkiye Distribütörü」） |
+| 地址 | **Aydınevler Mah. Öncel Sk. Meda Marmara Sit. No:1-13A, Maltepe / İstanbul 34854**（旧录：Üsküdar Cumhuriyet Mah. Şair Mehmet Akif Ersoy Sk. No:36 B-Z/1） |
+| 电话 / 邮箱 | **0216 505 82 28** · `info@nfsteknoloji.com` |
+| **代理（全部六家）** | **Hanwha Techwin · Pelco · Oinone · Surenix · TDSI · Identiv** |
+| 定位 | **「TEDARİKÇİNİZ DEĞİL, ÇÖZÜM ORTAĞINIZ」** —— 明确服务**系统集成商 / 项目公司**，不做零售 |
+| 人名 | **Hasan Başarır（Teknik Sorumlu）** |
+
+⇒ **判读**：**六个牌子全是摄像头 / 门禁 / 识别，没有一个是交换机** ⇒ 与 `Cenova` 完全同型的缺口。
+⇒ **它的客户是项目集成商** ⇒ 对**管理型 / 工业型**交换机需求更硬（项目要写进标书），**对低价白牌需求较弱** ⇒ 销售语言用「规格 + 交期 + 保修」，不要用「便宜」。

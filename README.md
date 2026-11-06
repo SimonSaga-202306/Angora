@@ -25,6 +25,8 @@
 
 - [`141-customer-identity-cards-6-accounts-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/141-customer-identity-cards-6-accounts-2026-11-06.md)：r72 **客户情报转向**（用户指令：不看我方价格）—— 6 家 A 级客户身份档案：**CryptoLink `CRLISW-8P` 已拿土通信司 BAŞARILI 报告**（与 EXTREME/ALLIED/D-LINK 并列，KGYS）· **Perpa 一栋楼 = 客户中心**（GelecekBT A K5 No295 / Nokta A K2 No1 + B K8 906-907 / Cenova Elektrokent B K8 D902-904）· **Cenova = Tiandy 总代、7 品牌零交换机** · **Nokta 全档（MERSİS 0631-0730-5210-0020 / upTech 916 SKU 至 2028 / Casey Chen 进口经理）** · Novacom（24V Intercom PoE）· Okisan（Dahua+Tiandy、5,000 经销商、无 DMO）· **渠道真相：交换机是唯一空货架**
 
+- [`142-ten-b-tier-identity-cards-perpa-floor-8-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/142-ten-b-tier-identity-cards-perpa-floor-8-2026-11-06.md)：r73 **10 张 B 级身份卡** —— **Perpa K:8 一层楼 = 4 家客户**（Koza A808-810-940 / CCTV Depo B836 / Cenova B D902-904 / Nokta B906-907）· **Karer 13 人 / $948K 自有 KR-* PoE 全系**（MERSİS 0524126788900001）⇒ 白牌不需要规模 · **两类空货架**：安防缺品类（NFS 六品牌零交换机）/ 纯网络缺便宜源（Koptek、Portel 只做工业网络）· **CCTV Depo 全套工商 + 官网 8 位业务员手机** · Öncü（1,500 经销商、Vergi 6560323830）· Koza（Greentech 自有线）· **Coptek 法定名订正为 Koptek**
+
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md) — 按 0001→0781 顺序的逐文件目录（路径 + 大小 + sha256 + 产物 + 方法）

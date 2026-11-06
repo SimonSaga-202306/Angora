@@ -98,42 +98,17 @@ Fuat Sarp Sok. 5/1 Balmumcu + +90 212-275 7953 + info@coptek.com.tr
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-### ⭐⭐ r54：Coptek 卖的是 **DCN（神州数码）+ ONV** 两条代理线 —— **2.5G / 40G / 740–1000 W PoE 全都有**
+#### r73 补：**法定名称订正 —— 是 `Koptek`，不是 Coptek**
 
-#### A. 型号全表（官网 `coptek.com.tr` 原文）
-| 系列 | 型号 | 端口 / 关键规格 |
-|---|---|---|
-| **S4600-SI** | `S4600-10P-SI` | 8×10/100 + 2×GE + 2×SFP，20 Gbps，16K MAC |
-| | `S4600-28P-SI` | 24×GE + 4×SFP，**56 Gbps / 41.7 Mpps**，128 MB/32 MB，16K MAC |
-| | `S4600-52P-SI` | 48×GE + 4×SFP，**104 Gbps / 77 Mpps**，16K MAC |
-| **S4600-SI PoE** | `S4600-28P-P-SI` | 24×GE **PoE** + 4×SFP，**370 W** |
-| | `S4600-10P-P-SI` | 10×GE（PoE/PoE+）+ 2×SFP，**12 口 af/at 15.4/30 W**，20 Gbps，8K MAC |
-| **S4600-X-SI** | `S4600-28X-SI` | 24×GE + **4×10G SFP+**，**128 Gbps / 95 Mpps**，16K MAC，21 W，0~50 °C |
-| | `S4600-28X-P-SI` | 24×GE **PoE** + 4×10G，**370 W** |
-| ⭐ | **`S4600-12X-P-SI`** | **24×100/1000M/2.5G + 4×10G SFP+ + 2×40G QSFP+，full 2.5G L3 PoE，530 W** |
-| **S5750** | `S5750E-52X-P-SI(R2)` | 48×GE **PoE+** + 4×10G，**740 W**，双电源输入 |
-| | `S5750X` 系 | 24/48 GE(+PoE) + **6×10G SFP+**，168/216 Gbps，125/161 Mpps，**1 GB DRAM**，32K MAC，**750 W PoE**，VSF 堆叠 |
-| **CS6200X** | `CS6200X-24T6X-EI` / `-24T6X-P-EI` / `-48T6X-NO` | 24/48 口 + 6×10G，**最高 1000 W PoE** |
-| **ES430** | `ES430-10P-POE` / `-18P-POE` / `-26P-POE` | 8/16/24 口 PoE + 2×SFP Web Smart |
-| **机框** | `DCRS-9816` | 16 槽骨干机框 |
+| 项 | 内容 |
+|---|---|
+| 法人全称 | **Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.** |
+| 办公地址 | **Gayrettepe Mah. Pazar Sk. No:16/A, Balmumcu-Beşiktaş / İstanbul**（另登记：Gayrettepe Mah. Fuatsarp Sok. No:5/1，No:4/3） |
+| 电话 / 传真 / 邮箱 | **+90 212 275 79 53** · Faks 0212 288 43 36 / 0212 288 63 92 · `info@coptek.com.tr` |
+| **产品线（官网菜单逐条）** | **Omurga Switch（骨干）· Data Center Switch · PoE Switch · Layer 3 · Layer 2 · Endüstriyel Ethernet · Wireless + AP Controller · Fiber Ethernet · SFP 模块 · Fiber 转换器** |
 
-#### B. 品牌真相（原文自曝）
-- 官网原文写 **「DCN firmasına ait olan MRPP Ring Koruma Sistemi her modelde standarttır」**、管理项写 **「DCN Private MIB」**；
-- **ONV 线单独开一页** `coptek.com.tr/onv_poeswitch.html`：`POE3010PFM`（10 口 L2+ 管理）、**`POE33052PFM`（48 口管理 / 600 W 电源）**、`POE33024PF`、`POE33064PF`（6 口）、`POE56028PFM`。
-
-⇒ **Coptek = DCN（神州数码）+ ONV 双代理**，不是自有品牌。
-
-#### C. 这意味着什么（⚠ 与 r47 判断不同）
-- **「B 档自有品牌只到 GE + af/at」这句话对 Coptek 不成立**：它卖的有 **2.5G + 40G QSFP+**（`S4600-12X-P-SI`）、**740 W / 1000 W PoE**、**6×10G + 1 GB DRAM 的 S5750X**。
-- 它**不缺档位**，缺的是 **价格与交期**（DCN 是大厂，走的是项目报价）。
-- **打法**：不谈"补位"，谈 **「同规格更低 FOB + 支持贴 Coptek 牌」**，主打 `EW-S5748GM-AP` 对 `S5750E-52X-P-SI`、`EW-S6826` 对 `S4600-12X-P-SI`。
-
-**首封**：`S4600-12X-P-SI / S5750E-52X muadili — daha iyi FOB + Coptek markası`
-**必问**：① DCN 是独家吗？② 2.5G 那台一年几台？③ 项目还是货架为主？
-
-### 证据等级（r54）
-- 已核实：**官网 6 个系列 + ONV 页的型号与规格**（`coptek.com.tr` 各产品页原文）、**「DCN Private MIB / DCN firmasına ait MRPP」原文**。
-- 仍空白：DCN 代理协议范围、`S4600-12X-P-SI` 的实际成交价、ONV 是否独家。
+⇒ **判读**：**它不做摄像头，只做网络** ⇒ 客户买交换机就是买交换机，**不做安防捆绑**。
+⇒ **产品线与我方 100% 重叠**（骨干 / DC / 工业 / SFP）⇒ **B 级里最像「纯交换机买家」的一家**，谈判不需要品牌故事，只需要规格表与价格表。
 
 ---
 
@@ -177,3 +152,21 @@ Fuat Sarp Sok. 5/1 Balmumcu + +90 212-275 7953 + info@coptek.com.tr
 ### 证据等级（r54）
 - 已核实：**官网 6 个系列 + ONV 页的型号与规格**（`coptek.com.tr` 各产品页原文）、**「DCN Private MIB / DCN firmasına ait MRPP」原文**。
 - 仍空白：DCN 代理协议范围、`S4600-12X-P-SI` 的实际成交价、ONV 是否独家。
+
+---
+
+## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）
+
+> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**
+
+#### r73 补：**法定名称订正 —— 是 `Koptek`，不是 Coptek**
+
+| 项 | 内容 |
+|---|---|
+| 法人全称 | **Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.** |
+| 办公地址 | **Gayrettepe Mah. Pazar Sk. No:16/A, Balmumcu-Beşiktaş / İstanbul**（另登记：Gayrettepe Mah. Fuatsarp Sok. No:5/1，No:4/3） |
+| 电话 / 传真 / 邮箱 | **+90 212 275 79 53** · Faks 0212 288 43 36 / 0212 288 63 92 · `info@coptek.com.tr` |
+| **产品线（官网菜单逐条）** | **Omurga Switch（骨干）· Data Center Switch · PoE Switch · Layer 3 · Layer 2 · Endüstriyel Ethernet · Wireless + AP Controller · Fiber Ethernet · SFP 模块 · Fiber 转换器** |
+
+⇒ **判读**：**它不做摄像头，只做网络** ⇒ 客户买交换机就是买交换机，**不做安防捆绑**。
+⇒ **产品线与我方 100% 重叠**（骨干 / DC / 工业 / SFP）⇒ **B 级里最像「纯交换机买家」的一家**，谈判不需要品牌故事，只需要规格表与价格表。

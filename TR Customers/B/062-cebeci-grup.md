@@ -93,44 +93,48 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r72 补：**本轮转向客户情报 —— 六家 A 级客户的身份档案（不再算我方倍率）**
+#### r73 补：**Perpa K:8 一层楼 = 四家客户（本轮的地图更新）**
 
-> 用户第 25 次指令：**「继续挖掘，挖这些客户的信息为主，不需要过度关注 Saga 的价格。」**
-> 完整档案见 `141-customer-identity-cards-6-accounts-2026-11-06.md`。
+> 用户第 26 次「继续」，延续 r72 方向：**只挖客户，不算我方价格**。
+> 完整版见 `142-ten-b-tier-identity-cards-perpa-floor-8-2026-11-06.md`。
 
-**① 地理事实：Perpa 一栋楼 = 我方的客户中心**
+**① Perpa 客户地图（楼层 + 房号）**
 
-| 客户 | 位置 |
-|---|---|
-| GelecekBT | Perpa **A Blok K:5 No:295** |
-| Nokta Elektronik | Perpa **A Blok K:2 No:1**（总部）+ **B Blok K:8 No:906-907** |
-| Cenova | **Elektrokent B Blok K:8 D:902-904**（与 Nokta 同层相邻） |
-| Okisan | Okisan Plaza, Okmeydanı（步行范围） |
+| 楼层 | 客户 | 房号 |
+|---|---|---|
+| **A K:2** | Nokta Elektronik（总部） | No:1 |
+| **A K:5** | **GelecekBT** | No:295 |
+| **A K:5** | **Güvenlik Toptancım**（新发现） | No:419 |
+| **A K:8** | **Koza Güvenlik** | No:808-810-940 |
+| **A K:8** | Nokta（第二门市） | No:841 |
+| **B K:8** | **CCTV Depo（CepDepo）** | No:836 |
+| **B K:8** | **Cenova** | D:902-903-904 |
+| **B K:8** | **Nokta（销售/技术）** | No:906-907 |
 
-⇒ **一次 İstanbul 行程覆盖 4 家 A 级客户，2 家在同层隔壁。**
+⇒ **A 座 2/5/8 层 + B 座 8 层 = 6 家客户（含 3 家 A 级），一趟电梯走完。**
 
-**② 谁有自有交换机品牌（决定谈什么）**
+**② 最有用的新事实：13 人的门店也有自有 PoE 全系**
+`Karer Güvenlik`（Pendik，**13 人 / 约 $948K / 2006**）自有 **`KR-04F2BE` / `KR-08F2BE`（8+2 100M PoE）/ `KR-16F2G1G`（16+2 千兆 PoE）/ 24 口千兆 PoE**。
+⇒ **白牌不需要规模，只需要一个愿意接小单的工厂。** ⇒ **我方的 ODM 客户池比 A 级清单长得多。**
 
-| 客户 | 自有品牌 | 代理交换机品牌 | 谈什么 |
+**③ 两类「空货架」，话术完全不同**
+
+| 类型 | 客户 | 空的是什么 | 怎么说 |
 |---|---|---|---|
-| Novacom | **Novacom（NVC）** | — | **工业级 ODM 新增**（它已在找） |
-| Snexus | **Snexus（SN-）** | — | **贴标 OEM** |
-| CryptoLink | **CRLISW-8P（有政府合格报告）** | — | **认可 + 成本组合** |
-| Nokta | **upTech（916 SKU，商标到 2028）** | Dahua/Oring/Planet/Edge-Core/Ruijie | **降本第二源** |
-| Cenova | **无** | Tiandy / GVD（摄像头） | **填空白货架** |
-| GelecekBT | 无（CLR 独家代理） | CLR / ONET | **第二条线** |
-| Okisan | 无 | Dahua / Tiandy | **5,000 家店卖谁的交换机** |
-| HAFYA | 无 | 无（集成商） | **项目报价** |
+| 安防分销 | **Cenova · NFS · Okisan · Karer** | 交换机**品类** | 「你缺这一格」 |
+| 纯网络 | **Koptek · Portel** | 缺**便宜供应源**（它们已经在卖交换机） | 「同样东西我给你更低」 |
 
-**③ 安防渠道的真相**：`Tianjin Tiandy` 同时是 Cenova（总代）与 Okisan（授权分销）的品牌；`Dahua` 同时是 Okisan（授权分销）与 Nokta（Distribution Partner）的品牌。
-⇒ **两大货源都是中国摄像头厂，而它们的交换机生意都让给了别人** ⇒ **交换机是这条渠道里唯一还空着的位置。**
+- **NFS Teknoloji**（Maltepe，0216 505 82 28）代理 **Hanwha Techwin / Pelco / Oinone / Surenix / TDSI / Identiv 六家，零交换机** ⇒ 与 Cenova 同型。
+- **Portel**（Kartal，0216 464 44 50，`industrialnetworkcenter.com`，A.Ş.、公示六 IBAN 可收 USD/EUR）**只做工业网络、不做摄像头** ⇒ **我方工业 8 口在这里是主力品**。
+- **Koptek**（法定名，非 Coptek；Balmumcu-Beşiktaş，0212 275 79 53）产品线 = **骨干/DC/PoE/L3/L2/工业/SFP/转换器**，**完全不碰摄像头**。
 
-**④ 可直接使用的一句话**
-> 「你们卖 Tiandy / Dahua 的摄像头，交换机靠 Dahua / Planet / Ruijie 补。摄像头那两个牌子自己不做交换机生意 —— **这块货架上没有主人。**」
+**④ 其余三张卡要点**
+- **Öncü Güvenlik A.Ş.**：Vergi **6560323830**（Beykoz VD）· Sicil **480061-0** · Kavacık Yayabeyi Sk. No:8 · **2002 · 51–200 人 · 1,500+ 经销商 · 有 AR-GE · 做 EDS 电子监控** ⇒ 可同时谈贴牌与项目指定。
+- **Koza Güvenlik**：Perpa A K:8 No:808-810-940 · 0212 220 06 04 · **2005** · 自述「自有注册商标 + 代理分销」· 自有线 **Greentech** ⇒ 直接谈「Greentech 的交换机线」。
+- **Rima Elektronik**：Florya，0212 424 16 16，**项目集成 + 年度维保**，不是分销商 ⇒ 只谈项目报价与品牌指定。
+- **Hane Elektronik**：**本轮三次检索未命中官网，如实记录为空。**
 
-**⑤ 新增关键人**：Cenova 的 **Rıfat BAYDEMİR（总经理，116）`rifat@cenova.com.tr`** / Kuntay Kızılay（115）· Nokta 的 **Casey CHEN（Import Manager）** 与 Harun Yazar（Vice Chairman）· Okisan 的 **Ekrem / Okan ÖZKARA** 与 Burhan Acar · GelecekBT 的 **Ebru Akdemir / Sait Yıldız**。
-
-**证据等级**：工商级逐字（Nokta 的 MERSİS / 税号 / KEP / 商标号；Cenova / Novacom / Okisan / GelecekBT / CryptoLink 的法人·地址·电话·品牌）。**空白**：Cenova 与 Novacom 的税号未取到 · CryptoLink 实控人与采购人未取到 · `CRLISW-8P` 规格与产地未取到 · Okisan 的 DMO 关系仅「未找到」不排除存在 · HAFYA 只有表层 · 所有电话邮箱均为公开页原文，**未验证有效性**。
+**证据等级**：工商级逐字（CCTV Depo 的 MERSİS/Vergi/Sicil/KEP/8 业务员；Karer 的 MERSİS/Vergi/两地址；Öncü 的 Vergi/Sicil/完整地址；Portel 六 IBAN；Koptek 官网产品菜单）。**空白**：**Portel 与 Koptek 的代理品牌未取到（下一轮第一优先）** · `Karer KR-*` 产地与工厂未查明 · Koza/NFS/Rima/Portel/Koptek/Hane 税号未取到 · Rima 成立年份两源冲突 · **所有电话邮箱未试拨**。
 
 ---
 
@@ -783,3 +787,52 @@ DMO 里 RUBISEC（供应商 **BİRKİL SAVUNMA**）的 8 口 PoE 卖：
 **⑤ 新增关键人**：Cenova 的 **Rıfat BAYDEMİR（总经理，116）`rifat@cenova.com.tr`** / Kuntay Kızılay（115）· Nokta 的 **Casey CHEN（Import Manager）** 与 Harun Yazar（Vice Chairman）· Okisan 的 **Ekrem / Okan ÖZKARA** 与 Burhan Acar · GelecekBT 的 **Ebru Akdemir / Sait Yıldız**。
 
 **证据等级**：工商级逐字（Nokta 的 MERSİS / 税号 / KEP / 商标号；Cenova / Novacom / Okisan / GelecekBT / CryptoLink 的法人·地址·电话·品牌）。**空白**：Cenova 与 Novacom 的税号未取到 · CryptoLink 实控人与采购人未取到 · `CRLISW-8P` 规格与产地未取到 · Okisan 的 DMO 关系仅「未找到」不排除存在 · HAFYA 只有表层 · 所有电话邮箱均为公开页原文，**未验证有效性**。
+
+---
+
+## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）
+
+> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**
+
+#### r73 补：**Perpa K:8 一层楼 = 四家客户（本轮的地图更新）**
+
+> 用户第 26 次「继续」，延续 r72 方向：**只挖客户，不算我方价格**。
+> 完整版见 `142-ten-b-tier-identity-cards-perpa-floor-8-2026-11-06.md`。
+
+**① Perpa 客户地图（楼层 + 房号）**
+
+| 楼层 | 客户 | 房号 |
+|---|---|---|
+| **A K:2** | Nokta Elektronik（总部） | No:1 |
+| **A K:5** | **GelecekBT** | No:295 |
+| **A K:5** | **Güvenlik Toptancım**（新发现） | No:419 |
+| **A K:8** | **Koza Güvenlik** | No:808-810-940 |
+| **A K:8** | Nokta（第二门市） | No:841 |
+| **B K:8** | **CCTV Depo（CepDepo）** | No:836 |
+| **B K:8** | **Cenova** | D:902-903-904 |
+| **B K:8** | **Nokta（销售/技术）** | No:906-907 |
+
+⇒ **A 座 2/5/8 层 + B 座 8 层 = 6 家客户（含 3 家 A 级），一趟电梯走完。**
+
+**② 最有用的新事实：13 人的门店也有自有 PoE 全系**
+`Karer Güvenlik`（Pendik，**13 人 / 约 $948K / 2006**）自有 **`KR-04F2BE` / `KR-08F2BE`（8+2 100M PoE）/ `KR-16F2G1G`（16+2 千兆 PoE）/ 24 口千兆 PoE**。
+⇒ **白牌不需要规模，只需要一个愿意接小单的工厂。** ⇒ **我方的 ODM 客户池比 A 级清单长得多。**
+
+**③ 两类「空货架」，话术完全不同**
+
+| 类型 | 客户 | 空的是什么 | 怎么说 |
+|---|---|---|---|
+| 安防分销 | **Cenova · NFS · Okisan · Karer** | 交换机**品类** | 「你缺这一格」 |
+| 纯网络 | **Koptek · Portel** | 缺**便宜供应源**（它们已经在卖交换机） | 「同样东西我给你更低」 |
+
+- **NFS Teknoloji**（Maltepe，0216 505 82 28）代理 **Hanwha Techwin / Pelco / Oinone / Surenix / TDSI / Identiv 六家，零交换机** ⇒ 与 Cenova 同型。
+- **Portel**（Kartal，0216 464 44 50，`industrialnetworkcenter.com`，A.Ş.、公示六 IBAN 可收 USD/EUR）**只做工业网络、不做摄像头** ⇒ **我方工业 8 口在这里是主力品**。
+- **Koptek**（法定名，非 Coptek；Balmumcu-Beşiktaş，0212 275 79 53）产品线 = **骨干/DC/PoE/L3/L2/工业/SFP/转换器**，**完全不碰摄像头**。
+
+**④ 其余三张卡要点**
+- **Öncü Güvenlik A.Ş.**：Vergi **6560323830**（Beykoz VD）· Sicil **480061-0** · Kavacık Yayabeyi Sk. No:8 · **2002 · 51–200 人 · 1,500+ 经销商 · 有 AR-GE · 做 EDS 电子监控** ⇒ 可同时谈贴牌与项目指定。
+- **Koza Güvenlik**：Perpa A K:8 No:808-810-940 · 0212 220 06 04 · **2005** · 自述「自有注册商标 + 代理分销」· 自有线 **Greentech** ⇒ 直接谈「Greentech 的交换机线」。
+- **Rima Elektronik**：Florya，0212 424 16 16，**项目集成 + 年度维保**，不是分销商 ⇒ 只谈项目报价与品牌指定。
+- **Hane Elektronik**：**本轮三次检索未命中官网，如实记录为空。**
+
+**证据等级**：工商级逐字（CCTV Depo 的 MERSİS/Vergi/Sicil/KEP/8 业务员；Karer 的 MERSİS/Vergi/两地址；Öncü 的 Vergi/Sicil/完整地址；Portel 六 IBAN；Koptek 官网产品菜单）。**空白**：**Portel 与 Koptek 的代理品牌未取到（下一轮第一优先）** · `Karer KR-*` 产地与工厂未查明 · Koza/NFS/Rima/Portel/Koptek/Hane 税号未取到 · Rima 成立年份两源冲突 · **所有电话邮箱未试拨**。

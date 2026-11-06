@@ -197,3 +197,55 @@ SECUZI 贴牌供货（305m 长距 PoE = 我方 2.5G 长距 PoE 卖点直接对�
 - 完整研究见 **`../B/021-cctv-depo-guvenlik-teknolojileri-as.md` 的「附：完整研究档案」**：CEO **Can Gurcan 自述"中国尤其深圳我非常熟悉"**、2004 成立 / 51–200 人 / **HQ Bahçelievler（已更正）**、SECUZI 自有品牌（2025）、`cctvdepo.com` WHOIS 2004。
 - **B 档视角补一句**：**它其实是 A 档的料**（懂行、决策快、2025 刚起新品牌 = 供应链未固化）。落 B 只是因为**没有"已发生接触"**的记录。
 - **建议**：**优先给它一次机会**——开场直接用型号+价格+交期，不要 PPT。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+#### r73 补：**工商信息最全的一家，8 位业务员手机直接挂在官网**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **CCTVDEPO Güvenlik Teknolojileri A.Ş.** |
+| **MERSİS** | **0203034849100015** |
+| **Vergi** | **Yenibosna VD / 4420033641** |
+| **Ticaret Sicil** | **70431-5** |
+| **KEP** | `cctvdepo@hs01.kep.tr` |
+| 主仓 | **Remzi Özkaya Cad. No:18, Yenibosna / Bahçelievler / İstanbul**（另：Hürriyet Mh. Güngören Sk. 4b） |
+| **Perpa 点** | **Perpa Tic. Mer. B Blok K:8 No:836**（对外称「Perpa CepDepo」） |
+| 电话 / 邮箱 | **0850 303 03 17** · `info@cctvdepo.com` |
+| 成立 / 规模 | **2004**（自称「土耳其第一家 B2B 安防平台」）· 25–49 / 51–200 / 100–200（三源不一致，只作量级） |
+| **8 位业务员（官网直列）** | **Asuman Özüdoğru 0505 018 34 32** · Mehmet Sağlam 0553 090 98 31 · Mert Yıldız 0553 966 98 32 · Volkan Alçevik 0553 089 57 33 · Şahin Elektrik 0535 973 65 19 · Sait Osanmaz 0535 973 65 21 · Tolga Topraklı 0533 271 60 12 · Seda Nur Yılmaz 0533 272 60 12（邮箱格式 `ad@cctvdepo.com`） |
+| 定位 | **B2B 平台 + 进口 + 自有产线**（「ithal ettiği ve **üretimini yaptığı**」） |
+
+⇒ **判读**：**它已经在做「进口 + 生产」** ⇒ 谈判语言是**成本与 SKU 数**，不是品牌故事。
+⇒ **8 个手机号 = 8 个独立入口**，不必走总机。
+⚠ **主仓在 Bahçelievler，Perpa 只是提货点** ⇒ 谈供货条款要谈主仓的收货与清关能力。
+
+---
+
+## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）
+
+> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**
+
+#### r73 补：**工商信息最全的一家，8 位业务员手机直接挂在官网**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **CCTVDEPO Güvenlik Teknolojileri A.Ş.** |
+| **MERSİS** | **0203034849100015** |
+| **Vergi** | **Yenibosna VD / 4420033641** |
+| **Ticaret Sicil** | **70431-5** |
+| **KEP** | `cctvdepo@hs01.kep.tr` |
+| 主仓 | **Remzi Özkaya Cad. No:18, Yenibosna / Bahçelievler / İstanbul**（另：Hürriyet Mh. Güngören Sk. 4b） |
+| **Perpa 点** | **Perpa Tic. Mer. B Blok K:8 No:836**（对外称「Perpa CepDepo」） |
+| 电话 / 邮箱 | **0850 303 03 17** · `info@cctvdepo.com` |
+| 成立 / 规模 | **2004**（自称「土耳其第一家 B2B 安防平台」）· 25–49 / 51–200 / 100–200（三源不一致，只作量级） |
+| **8 位业务员（官网直列）** | **Asuman Özüdoğru 0505 018 34 32** · Mehmet Sağlam 0553 090 98 31 · Mert Yıldız 0553 966 98 32 · Volkan Alçevik 0553 089 57 33 · Şahin Elektrik 0535 973 65 19 · Sait Osanmaz 0535 973 65 21 · Tolga Topraklı 0533 271 60 12 · Seda Nur Yılmaz 0533 272 60 12（邮箱格式 `ad@cctvdepo.com`） |
+| 定位 | **B2B 平台 + 进口 + 自有产线**（「ithal ettiği ve **üretimini yaptığı**」） |
+
+⇒ **判读**：**它已经在做「进口 + 生产」** ⇒ 谈判语言是**成本与 SKU 数**，不是品牌故事。
+⇒ **8 个手机号 = 8 个独立入口**，不必走总机。
+⚠ **主仓在 Bahçelievler，Perpa 只是提货点** ⇒ 谈供货条款要谈主仓的收货与清关能力。

@@ -96,29 +96,20 @@ Deniz Aydin（Technical Mgr）/ ayhan@kozaguvenlik.com.tr / 90 532 610 15 94
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r61 补：**8 口千兆 PoE 这条线，我方在 B2B 层面没有价格优势** —— Koza 那 5 款 TRENDnet 的正确打法
+#### r73 补：**自有注册商标 + 代理双轨，且就在 Perpa K:8**
 
-r56 已确认 Koza 全线是 **TRENDnet 100M 非管理**（`TN-P08G` 120 W / `TN-P16M` 360 W / `TN-P24MG` 24×100M）。r60 建议用 `EW-S1828CG-AP`（24×PoE + 2 RJ45 + 2 SFP / 300 W，**$70**）打 24 口。本轮补一条**反向证据**，避免打错档位：
+| 项 | 内容 |
+|---|---|
+| 法人 | **Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.** |
+| 地址 | **Perpa Ticaret Merkezi A Blok K:8 No:808-810-940, Halil Rıfat Paşa Mah., Şişli / İstanbul**（另一登记：A Blok K:8 No:809-811） |
+| 电话 / 传真 / 邮箱 | **0212 220 06 04** · Faks 0212 220 11 03 · `info@kozaguvenlik.com.tr` |
+| 成立 | **2005** |
+| 定位（自述原文） | **「kendi tescilli markaları yanında aldığı distribütörlük」** = 自有注册商标 + 代理分销 |
+| 自有品牌线索 | **Greentech** |
+| 人名 | **Deniz Aydın（Technical Mgr）· `ayhan@kozaguvenlik.com.tr`** |
 
-**土耳其本土品牌 EZCOOL（主体 = MS Teknoloji Tic. Ltd. Şti.，税号 6230371894，İstanbul Kartal）的分销 B2B 价（`bdk.com.tr` 原文）**：
-
-| 型号 | 配置 | B2B 价 |
-|---|---|---|
-| `EZ-08PSE` | 8FE + 2FE，120 W，非管理 | **$19.64** |
-| `EZ-08PSF` | 8FE + 2GE，120 W，非管理 | **$25.85** |
-| **`EZ-08PSF-FG`** | **8GE + 2GE，120 W，非管理** | **$30.25** |
-| `EZ-08PSF-SFP` | 8FE + 2GE + 1 SFP，120 W，非管理 | **$30.80** |
-
-我方 **8 口千兆 PoE** 公开 FOB 是 **$43.50–47.00** ⇒ **比 EZCOOL 的分销价贵 44–55%**。
-（⚠ 同时修正 r58：当时写的「我方 8 口 $24–26」是 **100M** 款的价格，不是千兆款。）
-
-**⇒ 对 Koza 的正确打法（三句话，按优先级）**：
-
-1. **打 24 口，不打 8 口**：`EW-S1828CG-AP`（24×PoE + 2 RJ45 + 2 SFP，**300 W**）FOB **$70**，对应它的 `TN-P24MG`（24×100M + 2 GE + 2 SFP）。
-2. **打 16 口千兆，不打 8 口**：`EW-S1827CF-AP`（16×100M PoE + 3×GE 上联）**$99–112.5** 对它的 `TN-P16M`（16×100M，360 W）—— 这一档我方是**千兆上联**，规格升级可讲。
-3. **8 口只在「管理型」上出现一次**：我方 8 口 GE PoE **管理款 $43.50–45.90** vs EZCOOL `EZ-08PSF-FG` **非管理 $30.25** ⇒ 只贵 $13–15 但多管理/云/Watchdog，**这是唯一能讲的 8 口故事**；**「我们 8 口更便宜」这句话不能说，是假的。**
-
-**证据等级**：EZCOOL B2B 价 = `bdk.com.tr` 产品行原文；我方 FOB = 2026-11-01 阿里快照（索引级）；「贵 44–55%」= 我方计算。
+⇒ **判读**：**它已经知道怎么贴牌** ⇒ 直接谈「**Greentech 的交换机线**」，而不是从零解释 OEM 是什么。
+⇒ **地理优势**：与 `Nokta（B K:8 906-907）`、`Cenova（B K:8 D902-904）`、`CCTV Depo（B K:8 836）` **同一层楼（A/B 座对面）**。
 
 ---
 
@@ -222,3 +213,24 @@ r56 已确认 Koza 全线是 **TRENDnet 100M 非管理**（`TN-P08G` 120 W / `TN
 3. **8 口只在「管理型」上出现一次**：我方 8 口 GE PoE **管理款 $43.50–45.90** vs EZCOOL `EZ-08PSF-FG` **非管理 $30.25** ⇒ 只贵 $13–15 但多管理/云/Watchdog，**这是唯一能讲的 8 口故事**；**「我们 8 口更便宜」这句话不能说，是假的。**
 
 **证据等级**：EZCOOL B2B 价 = `bdk.com.tr` 产品行原文；我方 FOB = 2026-11-01 阿里快照（索引级）；「贵 44–55%」= 我方计算。
+
+---
+
+## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）
+
+> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**
+
+#### r73 补：**自有注册商标 + 代理双轨，且就在 Perpa K:8**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.** |
+| 地址 | **Perpa Ticaret Merkezi A Blok K:8 No:808-810-940, Halil Rıfat Paşa Mah., Şişli / İstanbul**（另一登记：A Blok K:8 No:809-811） |
+| 电话 / 传真 / 邮箱 | **0212 220 06 04** · Faks 0212 220 11 03 · `info@kozaguvenlik.com.tr` |
+| 成立 | **2005** |
+| 定位（自述原文） | **「kendi tescilli markaları yanında aldığı distribütörlük」** = 自有注册商标 + 代理分销 |
+| 自有品牌线索 | **Greentech** |
+| 人名 | **Deniz Aydın（Technical Mgr）· `ayhan@kozaguvenlik.com.tr`** |
+
+⇒ **判读**：**它已经知道怎么贴牌** ⇒ 直接谈「**Greentech 的交换机线**」，而不是从零解释 OEM 是什么。
+⇒ **地理优势**：与 `Nokta（B K:8 906-907）`、`Cenova（B K:8 D902-904）`、`CCTV Depo（B K:8 836）` **同一层楼（A/B 座对面）**。

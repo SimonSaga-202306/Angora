@@ -236,3 +236,51 @@ OEM 贴 KARER 方案（8/16 口 PoE 直接对位 KR-S 系列；我方 $60 价位
 - 完整研究见同目录 **`../A/007-karer-guvenlik.md` 的「附：完整研究档案」**：PESİAD 会员、**2006 成立 / 1,000 m² / 0216 397 33 88**、`KR-ND1P802LFG` 公开价 **US$160**、板级生意（相机板/NVR 板/镜头/灯板）。
 - **B 档视角补一句**：它之所以在 B 不在 A，是**没有"已发生的接触"记录**（A 档的共同点是有人见过/有微信）。但从 r43 挖到的证据看，**它的商业质量（自有品牌 + 公开报价 + 1,000 m² + 板级能力）其实够 A**。
 - **建议**：把它当 **A- 对待**，先打 **0216 397 33 88** 找 Nurbaki Karataş（owner/CEO）。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+#### r73 补：**13 人、$948K 的门店，有自己的 `KR-*` PoE 交换机全系**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Karer Güvenlik Sistemleri Sanayi ve Ticaret Ltd. Şti.** |
+| **MERSİS** | **0524126788900001** |
+| **Vergi No** | **5241267889**（İstanbul） |
+| 地址 | 门店 **Yayalar Mah. Atasever Cad. No:44, Pendik / İstanbul**；注册 **Velibaba Mah. Mimar Sinan Cad. Filika Sok. No:1/G, Pendik** |
+| 电话 / 邮箱 | **0216 397 33 88** · 0507 218 61 80 · 0555 088 72 40 · `info@karerguvenlik.com` |
+| 成立 / 规模 | **2006** · **13 人** · 营收约 **$948K** · **1,000 m² 仓库** |
+| 决策人 | **Nurbaki KARATAŞ（CEO / 所有人）** · `Samet Şahin`（技术）· `Ebru`（Desi 服务对接） |
+| **自有品牌** | **KARER `KR-*` PoE 交换机全系**：`KR-04F2BE`（4+2 100M PoE）· `KR-08F2BE`（8+2 100M PoE）· `KR-16F2G1G`（16+2 千兆 PoE）· 24 口千兆 PoE |
+| 代理 | **Dahua · HiLook by Hikvision · Seagate · WD · Desi Alarm**；Desi 授权服务点（34/16） |
+
+⇒ **判读（重要）**：**贴牌不需要规模。** 一个 13 人、营收不足百万美元的 Pendik 门店，就能拥有完整的 4/8/16/24 口 PoE 自有系列。
+⇒ **它既是我方的潜在客户，也是「白牌已在这条渠道落地」的证据。**
+⚠ **风险**：公开投诉集中在「电话打不通、找不到对接人」⇒ **跟进必须锁定 Nurbaki 或 Samet 本人，不要只发 info@。**
+
+---
+
+## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）
+
+> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**
+
+#### r73 补：**13 人、$948K 的门店，有自己的 `KR-*` PoE 交换机全系**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Karer Güvenlik Sistemleri Sanayi ve Ticaret Ltd. Şti.** |
+| **MERSİS** | **0524126788900001** |
+| **Vergi No** | **5241267889**（İstanbul） |
+| 地址 | 门店 **Yayalar Mah. Atasever Cad. No:44, Pendik / İstanbul**；注册 **Velibaba Mah. Mimar Sinan Cad. Filika Sok. No:1/G, Pendik** |
+| 电话 / 邮箱 | **0216 397 33 88** · 0507 218 61 80 · 0555 088 72 40 · `info@karerguvenlik.com` |
+| 成立 / 规模 | **2006** · **13 人** · 营收约 **$948K** · **1,000 m² 仓库** |
+| 决策人 | **Nurbaki KARATAŞ（CEO / 所有人）** · `Samet Şahin`（技术）· `Ebru`（Desi 服务对接） |
+| **自有品牌** | **KARER `KR-*` PoE 交换机全系**：`KR-04F2BE`（4+2 100M PoE）· `KR-08F2BE`（8+2 100M PoE）· `KR-16F2G1G`（16+2 千兆 PoE）· 24 口千兆 PoE |
+| 代理 | **Dahua · HiLook by Hikvision · Seagate · WD · Desi Alarm**；Desi 授权服务点（34/16） |
+
+⇒ **判读（重要）**：**贴牌不需要规模。** 一个 13 人、营收不足百万美元的 Pendik 门店，就能拥有完整的 4/8/16/24 口 PoE 自有系列。
+⇒ **它既是我方的潜在客户，也是「白牌已在这条渠道落地」的证据。**
+⚠ **风险**：公开投诉集中在「电话打不通、找不到对接人」⇒ **跟进必须锁定 Nurbaki 或 Samet 本人，不要只发 info@。**

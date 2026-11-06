@@ -87,3 +87,47 @@ Okay Yucedag（Sales Mgr）+ okay.yucedag@portel.com.tr
 ### 证据等级与空白
 - 已核实：法定名（A.Ş.）、地址、电话、主营定位、**三个 IBAN（含 USD/EUR）**、电商站。
 - 空白：成立年、员工数、营收、负责人。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+#### r73 补：**唯一「只做工业网络」的客户 —— 工业段的天然对口**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.** |
+| 地址 | **Yalı Mah. Kadir Sok. No:14, Helis More Residence K:7 D:82, 34873 Kartal / İstanbul** |
+| 电话 / 邮箱 | **0216 464 44 50** · `bilgi@industrialnetworkcenter.com` |
+| 站点 | **industrialnetworkcenter.com**（「Endüstriyel Network ekipman」专营线上市场） |
+| 法人可信度 | 官网**公示六个 IBAN**（TL/USD/EUR，İş Bankası 与另一家）⇒ 正规 A.Ş.、可开票、可收外汇 |
+| 定位 | **只做工业网络，不做摄像头** |
+| 人名 | **Okay Yucedağ（Sales Mgr）`okay.yucedag@portel…`** |
+
+⇒ **判读**：**它不是安防渠道，是工业自动化渠道** ⇒ **我方工业 8 口（-40~+80 ℃ / IP40 DIN）在这里是主力品，不是配角。**
+⇒ **可收 USD/EUR** ⇒ **报价可以直接用美元，不存在汇率谈判摩擦。**
+⚠ **它的代理品牌本轮未取到** ⇒ **下一轮第一优先**（知道它现在卖谁，就知道要打谁）。
+
+---
+
+## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）
+
+> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**
+
+#### r73 补：**唯一「只做工业网络」的客户 —— 工业段的天然对口**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.** |
+| 地址 | **Yalı Mah. Kadir Sok. No:14, Helis More Residence K:7 D:82, 34873 Kartal / İstanbul** |
+| 电话 / 邮箱 | **0216 464 44 50** · `bilgi@industrialnetworkcenter.com` |
+| 站点 | **industrialnetworkcenter.com**（「Endüstriyel Network ekipman」专营线上市场） |
+| 法人可信度 | 官网**公示六个 IBAN**（TL/USD/EUR，İş Bankası 与另一家）⇒ 正规 A.Ş.、可开票、可收外汇 |
+| 定位 | **只做工业网络，不做摄像头** |
+| 人名 | **Okay Yucedağ（Sales Mgr）`okay.yucedag@portel…`** |
+
+⇒ **判读**：**它不是安防渠道，是工业自动化渠道** ⇒ **我方工业 8 口（-40~+80 ℃ / IP40 DIN）在这里是主力品，不是配角。**
+⇒ **可收 USD/EUR** ⇒ **报价可以直接用美元，不存在汇率谈判摩擦。**
+⚠ **它的代理品牌本轮未取到** ⇒ **下一轮第一优先**（知道它现在卖谁，就知道要打谁）。
