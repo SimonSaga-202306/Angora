@@ -1347,6 +1347,54 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §75 · 第 81 轮 — 2026-11-06 ≈11:00–13:20 (+0800)：**三条新线索全部落成可打电话的档案（İNFOGEN / İSAC / RİVO）** / **RUBISEC 确认没有 IEC 61850-3** / **「补一格」话术成型**
+
+用户第 34 次「继续」（每轮 ≥10 工作分钟）。r80 挖到三家线索但只有「电话 + 品牌」，本轮全部补成带工商号或完整地址的档案；同时验证了 r80 关于 RUBISEC 认证的关键假设。
+
+### 一、⭐⭐⭐ İNFOGEN = 一家「为 DMO 而生」的公司
+官网原文：**「İNFOGEN 是为满足土耳其公共机构的信息技术产品需求而成立的」**；**「产品、方案与服务通过 DMO 渠道提供给全国公共机构」**。
+地址 **Selami Ali Mah. Cumhuriyet Cad. Boğaziçi Plaza No:46 K:5, Üsküdar/İstanbul** · **+90 216 706 18 45** · `info@infogen.com.tr`。
+K 码 **`K5884`（PLANET，合同 2026-03-10→2028-03-10）** + `K3193`/`K4329`（D-Link）。品牌：**Fortinet · Safetica · Carbonite · ESET · Microsoft · D-Link · PLANET**（**5 个软件/安全，硬件网络只有 2 条**）。
+⇒ **交换机是它最薄的一块；它没有品牌包袱，只有「目录里能不能放一台能交货的机器」这一个问题。** **分级 A- / 74，优先级最高。**
+
+### 二、⭐⭐⭐ İSAC = 9,707 个工业 SKU，但交换机是副线
+**İSTANBUL SENSÖRLER ALGILAYICI CİHAZLAR VE ENDÜSTRİYEL OTOMASYON SİSTEMLERİ SAN. VE TİC. LTD. ŞTİ.**，**MERSİS `0481056780300013`**，**2009** 成立，**21–50 人**，**Şerifali Mah. Beyan Sk. No:5 Ümraniye/İstanbul**，**0216 520 31 50 / 0850 60 60 180**，Bursa 分公司 + Gebze 办公室，**总经理/联合创始人 Hakan ALKAN**。
+代理：**Panasonic Industry 土耳其唯一代理（2013 起）** · **Advantech 特殊合作** · **Omron（2015 起）** · **Honeywell（2016 起）** · Telemecanique / Weidmüller。
+货架：**工业自动化 9,707 · 传感器 19,543** · 安全件 2,445 · PLC/驱动 2,716 · 视觉 2,300。
+⇒ **代理结构「日系 + 台系」⇒ 对中国品牌无心理障碍；交换机只是 9,707 分之一 ⇒ 「补一格」逻辑的最佳靶子。** **分级 B+ / 71。**
+
+### 三、⭐⭐⭐ RİVO = 安防分销 + Dahua 双供 + 已有 DMO 码
+**RİVO TEKNOLOJİ A.Ş.**，**2013**，**35–37 人**（ContactOut）vs 100–200（SignalHire，⚠ 冲突，**不引具体数**），**`K4385`**（GWSECU，合同 2024-03-21→2026-03-26）。
+**安卡拉 Ehlibeyt Mah. Tekstilciler Cad. Ata Plaza No:1/H, Balgat**（**+90 312 481 19 14**）· **伊斯坦布尔 Bayraktar Blv. No:16, Ümraniye** · 统一 **444 8 620** · `info@rivo.com.tr`。
+关键人：**Hamdi Kepez（总经理）· Eray Çalışkan（产品经理）** · Canan Öztürk（Sales Manager）。
+⇒ **它在 DMO 与 AKTİF GRUP（K4969）在 `DH-PFSD224ET2-360D` 上完全同价 32,102.24 ₺ ⇒ 价格由 Dahua 控，它是执行者。** **分级 B+ / 72；打电话找产品经理 Eray Çalışkan，不找销售。**
+
+### 四、✅ RUBISEC 确认没有 IEC 61850-3（r80 推断成立）
+`RS-IS-300-12GPX` datasheet 全字段：**16 口 10G 上联 L3 · 104 Gbps · 77.38 Mpps · 32K MAC · DRAM 2G · CPU 500 MHz · −40~80 ℃ · IP40 · 35 mm DIN · 双路 48–57 VDC 防反接 · PoE 单口 30 W / 总 120 或 240 W · MTBF 35 年 · ERPS/G.8032 自愈 <20 ms · 250 环/1024 设备**。
+**⇒ `IEC 61850-3` / `IEEE 1613` / `EN 50155` / `NEMA TS2` 全文均未出现。**
+**⇒ 它是「宽温工业交换机」，不是「变电站交换机」** ⇒ **凡涉及 TEİAŞ / 配电 / 变电站自动化的标，`RS-IS-300` 系列无法投标。**
+**⇒ 策略分两条线**：工厂/水厂/园区（无 61850）⇒ 打 $500–700；变电站（要 61850-3）⇒ 必须先拿认证。
+
+### 五、⭐ RUBISEC 工业段自产清单（官方 FAQ）
+`RS-IS-100-10GP` · `RS-IS-200-10GP/20GP/24GP/28GP` · `RS-IS-300-10GP/12GP/12GPX` · `RS-IS-300-16GP-8S` · `RS-IS-400-16GPTX` ⇒ **全部落在 8–28 口；没有 4/5 口，也没有 48 口工业** ⇒ **我方最容易插进去的是 4–8 口与 48 口两端。**
+
+### 六、新线索总表
+| 线索 | 类型 | 关键数据 | 分级 | 优先级 |
+|---|---|---|---|---|
+| **İNFOGEN** | **DMO 专营商** | `K5884` · 合同至 2028-03 · Üsküdar Boğaziçi Plaza No:46 K:5 · 0216 706 18 45 | **A- / 74** | ① |
+| **RİVO** | 安防分销 | 2013 · 444 8 620 · 0312 481 19 14 · GM Hamdi Kepez · `K4385` | **B+ / 72** | ② |
+| **İSAC** | 工业自动化目录商 | MERSİS 0481056780300013 · 2009 · 21–50 人 · 0216 520 31 50 | **B+ / 71** | ③ |
+| **Simgenet** | 电力通信总包 | 2020-04-05 · 3onedata + SMGOS · 0555 600 45 06 | **B / 68** | ④ |
+
+### 七、产出
+新增 `08-customer-pipeline/150-four-new-leads-and-rubisec-cert-gap-2026-11-06.md`；新增 `r81_appendix_data.py`（键 `'62'`）；builder 接入 `R81` + `R81_MARK` + emit 块；根 `README.md` 增 `150`；本 ledger 增 §75；`AGENT-README` 增行 81；`00-TASK-STATUS.md` 增 CM 行 + 待办 62。
+
+### 八、方法与诚实边界
+**新方法**：① **「补一格」话术** —— 对**巨量目录 + 交换机副线**的商（İSAC 9,707 SKU、İNFOGEN 7 品牌只有 2 条硬件线），**不劝换供应商，只补它缺的那一格**；② **认证缺口优先于价格缺口** —— RUBISEC 没有 IEC 61850-3 这一条，比它的 $1,221 更值钱；③ **找产品经理，不找销售**（RİVO 的 Eray Çalışkan 是 Ürün Yöneticisi）。
+**诚实边界**：İNFOGEN 的 VKN/MERSİS/成立年/人数仍缺（只有地址+电话+K 码）· **RİVO 人数与营收两套口径冲突（本报告不引具体数）** · Simgenet 的 VKN/人数 · **İSAC 是否已在 DMO 有 K 码未查** · RUBISEC 是否有别的型号做了 IEC 61850-3（`RS-IS-400-16GPTX` 未取）· **所有电话未试拨**（新增 İNFOGEN 0216 706 18 45 · RİVO 444 8 620 / 0312 481 19 14 · İSAC 0216 520 31 50 / 0850 60 60 180）。
+
+---
+
 ## §74 · 第 80 轮 — 2026-11-06 ≈08:30–11:00 (+0800)：**「÷2.95」被证伪为通用规则（PLANET 反例 0.81×）→ 定价拆双轨** / **新 K 码 İNFOGEN `K5884`（PLANET 挂单方）** / **电力段三条新线索（İNFOGEN · Simgenet · İSAC）与 IEC 61850-3 代理地图** / **Nokta 工商身份补完（推翻 2000 年成立）**
 
 用户第 33 次「继续」（每轮 ≥10 工作分钟）。本轮做的是**给自己上一轮的规则找反例** —— 找到了，规则必须拆轨。

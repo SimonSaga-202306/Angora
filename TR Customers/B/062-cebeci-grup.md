@@ -93,60 +93,69 @@ AI 25B/Claude 20C
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r80 总览：**定价规则拆双轨 + 三条电力段新线索 + Nokta 工商身份**
+#### r81 总览：**三条新线索全部落成「可打电话的档案」+ RUBISEC 确认没有 IEC 61850-3**
 
-**① 🛑 修正 r79：「÷2.95」不是通用规律，是「白牌挂牌虚高」的特例**
-| 类型 | 案例 | 挂牌 | DMO 净价 | 倍率 |
+**① ⭐⭐⭐ İNFOGEN = 一家「为 DMO 而生」的公司**
+- 官网原文：**「İNFOGEN 是为满足土耳其公共机构与组织的信息技术产品需求而成立的」**；**「产品、方案与服务通过 Devlet Malzeme Ofisi（DMO）渠道提供给全国公共机构」**。
+- 地址 **Selami Ali Mah. Cumhuriyet Cad. Boğaziçi Plaza No:46 K:5, Üsküdar / İstanbul** · **+90 216 706 18 45** · `info@infogen.com.tr`。
+- **K 码 `K5884`（PLANET，合同 2026-03-10→2028-03-10）· `K3193` / `K4329`（D-Link）**。
+- 品牌：**Fortinet · Safetica · Carbonite · ESET · Microsoft · D-Link · PLANET** —— **5 个是软件/安全，硬件网络只有 D-Link + PLANET 两条**。
+- ⇒ **交换机是它最薄的一块；它没有品牌包袱，只有一个问题：「目录里能不能放一台能交货的机器」。**
+- ⇒ **话术**：「**你 DMO 目录里的工业交换机只有一台非 PoE 的 `IGS-801T`（$139）。我补你一台 8 口工业 PoE —— 你的公立医院、变电站、水厂项目就不用去别家调货。**」
+- **建议分级 A- / 74，优先级最高。**
+
+**② ⭐⭐⭐ İSAC = 9,707 个工业 SKU，但交换机是副线**
+| 字段 | 内容 |
+|---|---|
+| **法定全称** | **İSTANBUL SENSÖRLER ALGILAYICI CİHAZLAR VE ENDÜSTRİYEL OTOMASYON SİSTEMLERİ SAN. VE TİC. LTD. ŞTİ.** |
+| **MERSİS** | **0481056780300013** |
+| **成立 / 人数** | **2009** · **21–50**（LinkedIn 28 / Prospeo 34 人 ÷ 11 部门） |
+| 地址 | **Şerifali Mah. Beyan Sk. No:5, Ümraniye / İstanbul 34764**（另记 Emin Sok. No:51/5） |
+| 电话 / 邮箱 | **+90 216 520 31 50** · **0850 60 60 180** · `bilgi@isac.com.tr` · KEP `istanbulsensorler@hs01.kep.tr` |
+| 分部 | **Bursa 分公司 + Gebze 办公室** |
+| **关键人** | **Hakan ALKAN —— 总经理 / 联合创始人** · Emre Güneç（Vision & Measurement 业务发展） |
+| **代理（按年份）** | **Panasonic Industry —— 土耳其唯一代理（2013 起）** · **Advantech —— 特殊合作** · **Omron —— 授权经销（2015 起）** · **Honeywell —— 分销（2016 起）** · Telemecanique Sensors / Weidmüller |
+| 货架规模 | **工业自动化 9,707 · 传感器 19,543** · 安全件 2,445 · PLC/驱动 2,716 · 视觉 2,300 |
+| 交换机线 | **Advantech `EKI-2000/5000/7000/9000`** |
+⇒ **代理结构极度「日系 + 台系」⇒ 对中国品牌无心理障碍；交换机只是 9,707 个 SKU 里的一小类 ⇒ 「补一格」逻辑的最佳靶子。**
+⇒ **建议分级 B+ / 71。**
+
+**③ ⭐⭐⭐ RİVO TEKNOLOJİ = 安防分销 + Dahua 双供 + 已有 DMO 码**
+| 字段 | 内容 |
+|---|---|
+| 法定全称 | **RİVO TEKNOLOJİ A.Ş.** |
+| **成立** | **2013** |
+| 人数 / 营收 | **35–37 人**（ContactOut）vs **100–200**（SignalHire）⚠ · **$1–5M** vs **$10–50M** ⚠ ⇒ **只用「35 人 / 中型」定性，不引具体数** |
+| **DMO K 码** | **`K4385`**（GWSECU，合同 2024-03-21→2026-03-26） |
+| **安卡拉** | **Ehlibeyt Mah. Tekstilciler Cad. Ata Plaza No:1/H, Balgat / Ankara** · **+90 312 481 19 14** |
+| **伊斯坦布尔** | **Bayraktar Bulvarı No:16, Ümraniye / İstanbul** |
+| 统一电话 / 邮箱 | **444 8 620** · `info@rivo.com.tr` |
+| **关键人** | **Hamdi Kepez —— Genel Müdür（总经理）** · **Eray Çalışkan —— Ürün Yöneticisi（产品经理）** · Canan Öztürk（Sales Manager） |
+| 价格行为 | 与 **AKTİF GRUP（K4969）** 在 `DH-PFSD224ET2-360D` 上**完全同价 32,102.24 ₺** |
+⇒ **它在 DMO 与 AKTİF GRUP 同价 ⇒ 价格由 Dahua（上游）控，它是执行者不是决策者** ⇒ **它对我方的价值是「已有 K 码 + Dahua 全线 + 缺工业段」。**
+⇒ **建议分级 B+ / 72。打电话找 Eray Çalışkan（产品经理），不要找销售。**
+
+**④ ✅ RUBISEC 确认没有 IEC 61850-3（r80 的推断成立）**
+官方 `RS-IS-300-12GPX` datasheet 全字段：**16 口 10G 上联 L3 · 104 Gbps · 77.38 Mpps · 32K MAC · DRAM 2G · CPU 500 MHz · −40~80 ℃ · IP40 · 35 mm DIN · 双路 48–57 VDC 防反接 · PoE 单口 30 W / 总 120 W 或 240 W · MTBF 35 年 · ERPS/G.8032 自愈 <20 ms · 250 环/1024 设备**。
+**⇒ `IEC 61850-3` / `IEEE 1613` / `EN 50155` / `NEMA TS2` 全文均未出现。**
+**⇒ 它是「宽温工业交换机」，不是「变电站交换机」** ⇒ **凡涉及 TEİAŞ / 配电公司 / 变电站自动化的标，`RS-IS-300` 系列无法投标。**
+**⇒ 我方策略分两条线**：**工厂/水厂/园区（无 61850 要求）⇒ 打 $500–700 那一档；变电站（要求 61850-3）⇒ 必须先拿认证，否则连标都进不去。**
+
+**⑤ ⭐ RUBISEC 工业段自产清单（官方 FAQ 原文）**
+`RS-IS-100-10GP` · `RS-IS-200-10GP` · `RS-IS-200-20GP` · `RS-IS-200-24GP` · `RS-IS-200-28GP` · `RS-IS-300-10GP` · `RS-IS-300-12GP` · `RS-IS-300-12GPX` · `RS-IS-300-16GP-8S` · `RS-IS-400-16GPTX`
+⇒ **10 个型号全部落在 8–28 口；没有 4/5 口，也没有 48 口工业** ⇒ **我方最容易插进去的是 4–8 口与 48 口工业两端。**
+
+**⑥ 新线索总表**
+| 线索 | 类型 | 关键数据 | 分级 | 优先级 |
 |---|---|---|---|---|
-| **白牌（挂牌是锚）** | RUBISEC `RS-ES-200-28PS` | $1,200 | **$406** | **2.96×** |
-| | RUBISEC `RS-IS-300-12GPX` | $3,600 | **$1,221** | **2.95×** |
-| **真实 MSRP 品牌** | **PLANET `IGS-801T`** | **US MSRP $172**（Newegg $179） | **$139** | **0.81×** |
-**⇒ 新规则（三句）**：① **有公开 MSRP / 全球零售可比的品牌（PLANET / Moxa / Cisco / HPE）⇒ DMO ≈ 0.8–1.0× MSRP**，直接引用；② **只有「官网自己挂一张价、无第三方可比」的白牌 ⇒ ÷2.3–3.0**；③ **探针：去 Newegg / planetechusa / DigiKey 搜同型号 —— 搜得到走①，搜不到走②。**
-**⇒ 实际影响**：**Moxa / Planet / Cisco 的历史价格锚不需要重算**，省掉一整轮返工。
+| **İNFOGEN** | **DMO 专营商** | `K5884`/`K3193`/`K4329` · 合同至 2028-03 · Üsküdar Boğaziçi Plaza No:46 K:5 · **0216 706 18 45** | **A- / 74** | ① |
+| **RİVO** | 安防分销（安卡拉+伊斯坦布尔） | **2013 · 444 8 620 · 0312 481 19 14 · GM Hamdi Kepez · Ürün Yön. Eray Çalışkan · `K4385`** | **B+ / 72** | ② |
+| **İSAC** | 工业自动化目录商 | **MERSİS 0481056780300013 · 2009 · 21–50 人 · Şerifali Beyan Sk. No:5 · 0216 520 31 50 · Panasonic 唯一代理** | **B+ / 71** | ③ |
+| **Simgenet** | 电力通信总包 | **2020-04-05 · 3onedata 代理 + SMGOS · +90 555 600 45 06 · Kartal** | **B / 68** | ④ |
 
-**② ⭐⭐ 新 K 码 `K5884` = İNFOGEN DANIŞMANLIK VE BİLİŞİM A.Ş.**
-- 挂 **PLANET `IGS-801T`**（8 口工业千兆**非** PoE，**−40~75 ℃**，IP30，16 Gbps）：**6,955.49 ₺ 未税 / 8,346.59 ₺ 含税 ≈ $139 / $167**，产品码 **131798**。
-- **合同 2026-03-10 → 2028-03-10（刚续两年）** · 电话 **0216 706 1845** · 另有 `K3193` / `K4329`（r76）。
-- **它同时是 D-Link 与 PLANET 的 DMO 挂单方** ⇒ **「中低端进口网络设备」在政府渠道的实际操盘手** —— **客户表里没有的一类角色**。
-- **PLANET 的 8 口工业 PoE 不在 DMO** ⇒ **这一格在 İNFOGEN 这里也是空的。**
-**⇒ 打法：不替代 PLANET，补它缺的那一格。**
+**证据等级**：`infogen.com.tr`（DMO 定位 · 地址 · 电话 · 品牌墙）· `infogen.com.tr/marka/d-link/` · `www.dmo.gov.tr/EMagaza/Magaza/Standart/1095` · `www.dmo.gov.tr/Katalog/Urun/Detay/6254602_1277284` · `isac.com.tr/calisan-aydinlatma-metni/`（**法定全称 + MERSİS**）· `tr.linkedin.com/company/istanbul-sensorler`（2009 · Hakan ALKAN）· `prospeo.io/c/isac-email-format`（**+90 216 520 31 50 · Panasonic 唯一代理 2013 / Omron 2015 / Honeywell 2016**）· `isac.com.tr/magaza/page/2366/`（**9,707 / 19,543**）· `yenibiris.com`（Bursa + Gebze）· `contactout.com`（Rivo 2013 · 35 人）· `signalhire.com`（444 8 620 · 口径冲突）· `www.rivo.com.tr/iletisim`（**两址 + 0312 481 19 14**）· `rocketreach.co`（Hamdi Kepez / Eray Çalışkan）· **`rubisec.com/wp-content/uploads/2024/03/RS-IS-300-12GPX.pdf`** + `RS-IS-300-Series.pdf` + `rubisec.com/switches/` · `tybilgisayar.com` · `aksoybilisim.com` —— **共 25 个来源**。
 
-**③ ⭐⭐⭐ 三条新线索，全在电力/工业自动化段（与现有 146 家客户零重叠）**
-| 线索 | 身份 | 关键数据 |
-|---|---|---|
-| **İNFOGEN** | 渠道（D-Link + PLANET） | **`K5884` · 合同至 2028-03 · 0216 706 1845** |
-| **SİMGENET MÜHENDİSLİK ENERJİ SAN. VE TİC. LTD. ŞTİ.** | **3onedata 土耳其代理 + 自研 SMGOS + TEİAŞ OPGW** | **2020-04-05 · Orhantepe Mah. Girne Sk. No:25A Kartal/İstanbul（迁 Tomurcuk Sok. 4B）· +90 555 600 45 06 · info@simgenet.net**；代理 `MES5400`（30 口模块化 L3，**IEC 61850-3**，HSR/PRP，1588v2）· `MES5300-28GS` · `MES5300-24GT4GS` · `MES5200` · `MES6400PHR-8GT4XS` · `ICS5400TSN`；自研 `Simgenet Teleprotection Unit V2` |
-| **İSAC** | **Advantech 工业以太网交换机授权伙伴** | **0850 60 60 180 · bilgi@isac.com.tr**；`EKI-2000/5000/7000/9000` 全线（`EKI-2525P`、`EKI-2728`）；自我定位「工业传感器 + 自动化供应商」 |
-
-**④ ⭐⭐ 电力段（IEC 61850-3）代理地图 —— 这一格已被 6 家分完**
-| 品牌 | 土耳其代理 | 认证强项 |
-|---|---|---|
-| **Moxa** | **GSL Mühendislik** | **IEC 61850-3 · EN 50155 · NEMA TS2 · IEC 62443** |
-| **Kyland** | **GSL Mühendislik** | **IEC 61850-3 · EN 50155** |
-| **EtherWan** | **ErETE**（`EX47000` / `EX47080-00B`） | **IEC 61850 / IEEE 1613**，−40~75 ℃ |
-| **3onedata** | **Simgenet** | **IEC 61850-3 · HSR/PRP · 1588v2** |
-| **JetNet（Korenix）** | **Beijer Electronics Türkiye** | **IEC 61850-3 · DNV · eMark · ITxPT · EN 50155** |
-| **Advantech** | **İSAC** | CE/FCC/UL（**工业级，非变电站认证**） |
-| **RUBISEC** | Birkil Savunma（`RS-IS-300-12GPX`） | ⚠ **未见 IEC 61850-3 声明** |
-**⇒ 我方进这一段的唯一路线：做「第二源」而不是「第三品牌」** —— 找**已有电力客户但品牌单一**的 Simgenet / ErETE / İSAC，给一个**同规格、能并行投标**的备份。
-
-**⑤ ⭐⭐ DMO「工业 8 口」两轴定稿**
-| 轴 | 型号 | 净价 | ≈USD | 供应商 |
-|---|---|---|---|---|
-| 非 PoE | **PLANET `IGS-801T`**（−40~75 ℃，16 Gbps） | **6,955.49 ₺** | **$139** | **İNFOGEN `K5884`** |
-| PoE 白牌 | **DAHUA `DH-PFSC28GT1-120D`**（120 W，−30~65 ℃） | 18,993.83 ₺ | $380 | `55483` |
-| PoE 12 口 | **RUBISEC `RS-IS-300-12GP`**（**暂时无货**） | 29,204.18 ₺ | $584 | Birkil `K4525` |
-| PoE 8 口 | RUBISEC `RS-IS-200-10GP` | 33,405–38,522 ₺ | $668–770 | `K4525` |
-| PoE+10G+宽温 | **RUBISEC `RS-IS-300-12GPX`**（−40~80 ℃，240 W） | 61,075.68 ₺ | $1,221 | `K4525` |
-| 工业 12 口 | ALCATEL `OS6465T-P12` | 65,342–66,451 ₺ | $1,306–1,328 | — |
-| PoE+ 天花板 | **CISCO `IE-3300-8P2S-E`** | 115,787.25 ₺ | **$2,315** | 4S `K4427` |
-**⇒ 我方 $500–700 现在有三条支撑**：Dahua $380 = **非受管 + 120 W + −30 ℃**；RUBISEC $584–770 = **无货 / 非宽温 / 资料不全**；Cisco $2,315 = 天花板。⇒ **「受管 + 240 W + 整机 −40~75 ℃ + 有货」在 $500–700 = 唯一解。**
-
-**⑥ ⭐ Nokta 工商身份（详见本节另一段）**：**VKN 6310730521 · MERSİS 0631-0730-5210-0020 · 登记 555138-0 · 成立 2005-05-26 · 实缴 30,000,000 ₺ · `upTech` 注册商标** ⇒ **推翻 r79「2000 年成立」**，分级 78 → **81**。
-
-**证据等级**：**`www.dmo.gov.tr/Katalog/Urun/Detay/6254602_1277284`**（PLANET `IGS-801T` 6,955.49 / 8,346.59 ₺ · 131798-K5884 · İNFOGEN · 0216 7061845 · 合同 2026-03-10→2028-03-10）· `planet.neteon.net`（**US MSRP $172**）· `newegg.com`（$179）· `planetechusa.com`（$172 / `IGS-800T` $177.53）· `dmo.tr/Katalog/Arama?...p=17` 与 `dmo.gov.tr/Arama?...p=14`（PLANET 26 SKU · `GSD-1002M` 9,951.70 · MAIPU 28 · LANDE 5 · PEPLINK 4）· `eticaret.gov.tr`（Nokta MERSİS）· `noktaelektronik.net/tr/yasal-bilgiler`（**VKN / MERSİS / Sicil / Şişli VD**）· `noktaelektronik.com.tr/yasal-bilgiler`（B Blok K:8 No:906）· `b2bhint.com`（**2005-05-26 · 30,000,000 ₺ · NACE 465202 · 原名 LTD**）· `noktaelektronik.net/en/hakkimizda`（**upTech 注册商标**）· `simgenet.net` + `/urunler.php` + `/photel-sdh`（3onedata 全线 · SMGOS · TEİAŞ OPGW · PLC · RTU）· `tikla.com.tr` + `firmadan.com` + `yandex.com.tr/maps`（Simgenet 地址/成立/迁址）· `isac.com.tr` ×3（Advantech 授权 · 0850 60 60 180）· `erete.com.tr`（EtherWan `EX47000` IEC 61850 / IEEE 1613）· `gsl.com.tr/moxa-endustriyel-ethernet-switch.html`（Moxa/Kyland 认证矩阵）· `beijerelektronik.com.tr`（JetNet 认证矩阵）—— **共 24 个来源**。
-
-**空白**：İNFOGEN 的工商身份（只有电话 + K 码）· Simgenet 员工数/营收/VKN（2020 年成立、手机号做总机 ⇒ 疑 ≤10 人，**未证实**）· İSAC 法定全称/地址/VKN · **Karer / CryptoLink / Novacom 的 VKN（b2bhint 与 eticaret 均未命中）** · PLANET 的 8 口工业 PoE 是否在 DMO · **RUBISEC 是否有 IEC 61850-3 声明** · **所有电话未试拨**（新增 İNFOGEN 0216 706 1845 · Simgenet +90 555 600 45 06 · İSAC 0850 60 60 180）。
+**空白**：İNFOGEN 的 VKN/MERSİS/成立年/人数（只有地址+电话+K 码）· **RİVO 人数与营收两套口径冲突（不引具体数）** · Simgenet 的 VKN/人数 · **İSAC 是否已在 DMO 有 K 码未查** · RUBISEC 是否有别的型号做了 IEC 61850-3（`RS-IS-400-16GPTX` 未取）· **所有电话未试拨**（新增 İNFOGEN 0216 706 18 45 · RİVO 444 8 620 / 0312 481 19 14 · İSAC 0216 520 31 50 / 0850 60 60 180）。
 
 ---
 
@@ -1240,3 +1249,73 @@ GSL 22 年的护城河是**技术服务 + 备件 + 工程师**，**不会为 10%
 **证据等级**：**`www.dmo.gov.tr/Katalog/Urun/Detay/6254602_1277284`**（PLANET `IGS-801T` 6,955.49 / 8,346.59 ₺ · 131798-K5884 · İNFOGEN · 0216 7061845 · 合同 2026-03-10→2028-03-10）· `planet.neteon.net`（**US MSRP $172**）· `newegg.com`（$179）· `planetechusa.com`（$172 / `IGS-800T` $177.53）· `dmo.tr/Katalog/Arama?...p=17` 与 `dmo.gov.tr/Arama?...p=14`（PLANET 26 SKU · `GSD-1002M` 9,951.70 · MAIPU 28 · LANDE 5 · PEPLINK 4）· `eticaret.gov.tr`（Nokta MERSİS）· `noktaelektronik.net/tr/yasal-bilgiler`（**VKN / MERSİS / Sicil / Şişli VD**）· `noktaelektronik.com.tr/yasal-bilgiler`（B Blok K:8 No:906）· `b2bhint.com`（**2005-05-26 · 30,000,000 ₺ · NACE 465202 · 原名 LTD**）· `noktaelektronik.net/en/hakkimizda`（**upTech 注册商标**）· `simgenet.net` + `/urunler.php` + `/photel-sdh`（3onedata 全线 · SMGOS · TEİAŞ OPGW · PLC · RTU）· `tikla.com.tr` + `firmadan.com` + `yandex.com.tr/maps`（Simgenet 地址/成立/迁址）· `isac.com.tr` ×3（Advantech 授权 · 0850 60 60 180）· `erete.com.tr`（EtherWan `EX47000` IEC 61850 / IEEE 1613）· `gsl.com.tr/moxa-endustriyel-ethernet-switch.html`（Moxa/Kyland 认证矩阵）· `beijerelektronik.com.tr`（JetNet 认证矩阵）—— **共 24 个来源**。
 
 **空白**：İNFOGEN 的工商身份（只有电话 + K 码）· Simgenet 员工数/营收/VKN（2020 年成立、手机号做总机 ⇒ 疑 ≤10 人，**未证实**）· İSAC 法定全称/地址/VKN · **Karer / CryptoLink / Novacom 的 VKN（b2bhint 与 eticaret 均未命中）** · PLANET 的 8 口工业 PoE 是否在 DMO · **RUBISEC 是否有 IEC 61850-3 声明** · **所有电话未试拨**（新增 İNFOGEN 0216 706 1845 · Simgenet +90 555 600 45 06 · İSAC 0850 60 60 180）。
+
+---
+
+## 附：r81 三条新线索落地与 RUBISEC 认证缺口
+
+> 本节为 **r81（2026-11-06）**：**三条新线索（İNFOGEN / İSAC / RİVO）的完整档案；以及「RUBISEC 没有 IEC 61850-3」这一条硬结论。**
+
+#### r81 总览：**三条新线索全部落成「可打电话的档案」+ RUBISEC 确认没有 IEC 61850-3**
+
+**① ⭐⭐⭐ İNFOGEN = 一家「为 DMO 而生」的公司**
+- 官网原文：**「İNFOGEN 是为满足土耳其公共机构与组织的信息技术产品需求而成立的」**；**「产品、方案与服务通过 Devlet Malzeme Ofisi（DMO）渠道提供给全国公共机构」**。
+- 地址 **Selami Ali Mah. Cumhuriyet Cad. Boğaziçi Plaza No:46 K:5, Üsküdar / İstanbul** · **+90 216 706 18 45** · `info@infogen.com.tr`。
+- **K 码 `K5884`（PLANET，合同 2026-03-10→2028-03-10）· `K3193` / `K4329`（D-Link）**。
+- 品牌：**Fortinet · Safetica · Carbonite · ESET · Microsoft · D-Link · PLANET** —— **5 个是软件/安全，硬件网络只有 D-Link + PLANET 两条**。
+- ⇒ **交换机是它最薄的一块；它没有品牌包袱，只有一个问题：「目录里能不能放一台能交货的机器」。**
+- ⇒ **话术**：「**你 DMO 目录里的工业交换机只有一台非 PoE 的 `IGS-801T`（$139）。我补你一台 8 口工业 PoE —— 你的公立医院、变电站、水厂项目就不用去别家调货。**」
+- **建议分级 A- / 74，优先级最高。**
+
+**② ⭐⭐⭐ İSAC = 9,707 个工业 SKU，但交换机是副线**
+| 字段 | 内容 |
+|---|---|
+| **法定全称** | **İSTANBUL SENSÖRLER ALGILAYICI CİHAZLAR VE ENDÜSTRİYEL OTOMASYON SİSTEMLERİ SAN. VE TİC. LTD. ŞTİ.** |
+| **MERSİS** | **0481056780300013** |
+| **成立 / 人数** | **2009** · **21–50**（LinkedIn 28 / Prospeo 34 人 ÷ 11 部门） |
+| 地址 | **Şerifali Mah. Beyan Sk. No:5, Ümraniye / İstanbul 34764**（另记 Emin Sok. No:51/5） |
+| 电话 / 邮箱 | **+90 216 520 31 50** · **0850 60 60 180** · `bilgi@isac.com.tr` · KEP `istanbulsensorler@hs01.kep.tr` |
+| 分部 | **Bursa 分公司 + Gebze 办公室** |
+| **关键人** | **Hakan ALKAN —— 总经理 / 联合创始人** · Emre Güneç（Vision & Measurement 业务发展） |
+| **代理（按年份）** | **Panasonic Industry —— 土耳其唯一代理（2013 起）** · **Advantech —— 特殊合作** · **Omron —— 授权经销（2015 起）** · **Honeywell —— 分销（2016 起）** · Telemecanique Sensors / Weidmüller |
+| 货架规模 | **工业自动化 9,707 · 传感器 19,543** · 安全件 2,445 · PLC/驱动 2,716 · 视觉 2,300 |
+| 交换机线 | **Advantech `EKI-2000/5000/7000/9000`** |
+⇒ **代理结构极度「日系 + 台系」⇒ 对中国品牌无心理障碍；交换机只是 9,707 个 SKU 里的一小类 ⇒ 「补一格」逻辑的最佳靶子。**
+⇒ **建议分级 B+ / 71。**
+
+**③ ⭐⭐⭐ RİVO TEKNOLOJİ = 安防分销 + Dahua 双供 + 已有 DMO 码**
+| 字段 | 内容 |
+|---|---|
+| 法定全称 | **RİVO TEKNOLOJİ A.Ş.** |
+| **成立** | **2013** |
+| 人数 / 营收 | **35–37 人**（ContactOut）vs **100–200**（SignalHire）⚠ · **$1–5M** vs **$10–50M** ⚠ ⇒ **只用「35 人 / 中型」定性，不引具体数** |
+| **DMO K 码** | **`K4385`**（GWSECU，合同 2024-03-21→2026-03-26） |
+| **安卡拉** | **Ehlibeyt Mah. Tekstilciler Cad. Ata Plaza No:1/H, Balgat / Ankara** · **+90 312 481 19 14** |
+| **伊斯坦布尔** | **Bayraktar Bulvarı No:16, Ümraniye / İstanbul** |
+| 统一电话 / 邮箱 | **444 8 620** · `info@rivo.com.tr` |
+| **关键人** | **Hamdi Kepez —— Genel Müdür（总经理）** · **Eray Çalışkan —— Ürün Yöneticisi（产品经理）** · Canan Öztürk（Sales Manager） |
+| 价格行为 | 与 **AKTİF GRUP（K4969）** 在 `DH-PFSD224ET2-360D` 上**完全同价 32,102.24 ₺** |
+⇒ **它在 DMO 与 AKTİF GRUP 同价 ⇒ 价格由 Dahua（上游）控，它是执行者不是决策者** ⇒ **它对我方的价值是「已有 K 码 + Dahua 全线 + 缺工业段」。**
+⇒ **建议分级 B+ / 72。打电话找 Eray Çalışkan（产品经理），不要找销售。**
+
+**④ ✅ RUBISEC 确认没有 IEC 61850-3（r80 的推断成立）**
+官方 `RS-IS-300-12GPX` datasheet 全字段：**16 口 10G 上联 L3 · 104 Gbps · 77.38 Mpps · 32K MAC · DRAM 2G · CPU 500 MHz · −40~80 ℃ · IP40 · 35 mm DIN · 双路 48–57 VDC 防反接 · PoE 单口 30 W / 总 120 W 或 240 W · MTBF 35 年 · ERPS/G.8032 自愈 <20 ms · 250 环/1024 设备**。
+**⇒ `IEC 61850-3` / `IEEE 1613` / `EN 50155` / `NEMA TS2` 全文均未出现。**
+**⇒ 它是「宽温工业交换机」，不是「变电站交换机」** ⇒ **凡涉及 TEİAŞ / 配电公司 / 变电站自动化的标，`RS-IS-300` 系列无法投标。**
+**⇒ 我方策略分两条线**：**工厂/水厂/园区（无 61850 要求）⇒ 打 $500–700 那一档；变电站（要求 61850-3）⇒ 必须先拿认证，否则连标都进不去。**
+
+**⑤ ⭐ RUBISEC 工业段自产清单（官方 FAQ 原文）**
+`RS-IS-100-10GP` · `RS-IS-200-10GP` · `RS-IS-200-20GP` · `RS-IS-200-24GP` · `RS-IS-200-28GP` · `RS-IS-300-10GP` · `RS-IS-300-12GP` · `RS-IS-300-12GPX` · `RS-IS-300-16GP-8S` · `RS-IS-400-16GPTX`
+⇒ **10 个型号全部落在 8–28 口；没有 4/5 口，也没有 48 口工业** ⇒ **我方最容易插进去的是 4–8 口与 48 口工业两端。**
+
+**⑥ 新线索总表**
+| 线索 | 类型 | 关键数据 | 分级 | 优先级 |
+|---|---|---|---|---|
+| **İNFOGEN** | **DMO 专营商** | `K5884`/`K3193`/`K4329` · 合同至 2028-03 · Üsküdar Boğaziçi Plaza No:46 K:5 · **0216 706 18 45** | **A- / 74** | ① |
+| **RİVO** | 安防分销（安卡拉+伊斯坦布尔） | **2013 · 444 8 620 · 0312 481 19 14 · GM Hamdi Kepez · Ürün Yön. Eray Çalışkan · `K4385`** | **B+ / 72** | ② |
+| **İSAC** | 工业自动化目录商 | **MERSİS 0481056780300013 · 2009 · 21–50 人 · Şerifali Beyan Sk. No:5 · 0216 520 31 50 · Panasonic 唯一代理** | **B+ / 71** | ③ |
+| **Simgenet** | 电力通信总包 | **2020-04-05 · 3onedata 代理 + SMGOS · +90 555 600 45 06 · Kartal** | **B / 68** | ④ |
+
+**证据等级**：`infogen.com.tr`（DMO 定位 · 地址 · 电话 · 品牌墙）· `infogen.com.tr/marka/d-link/` · `www.dmo.gov.tr/EMagaza/Magaza/Standart/1095` · `www.dmo.gov.tr/Katalog/Urun/Detay/6254602_1277284` · `isac.com.tr/calisan-aydinlatma-metni/`（**法定全称 + MERSİS**）· `tr.linkedin.com/company/istanbul-sensorler`（2009 · Hakan ALKAN）· `prospeo.io/c/isac-email-format`（**+90 216 520 31 50 · Panasonic 唯一代理 2013 / Omron 2015 / Honeywell 2016**）· `isac.com.tr/magaza/page/2366/`（**9,707 / 19,543**）· `yenibiris.com`（Bursa + Gebze）· `contactout.com`（Rivo 2013 · 35 人）· `signalhire.com`（444 8 620 · 口径冲突）· `www.rivo.com.tr/iletisim`（**两址 + 0312 481 19 14**）· `rocketreach.co`（Hamdi Kepez / Eray Çalışkan）· **`rubisec.com/wp-content/uploads/2024/03/RS-IS-300-12GPX.pdf`** + `RS-IS-300-Series.pdf` + `rubisec.com/switches/` · `tybilgisayar.com` · `aksoybilisim.com` —— **共 25 个来源**。
+
+**空白**：İNFOGEN 的 VKN/MERSİS/成立年/人数（只有地址+电话+K 码）· **RİVO 人数与营收两套口径冲突（不引具体数）** · Simgenet 的 VKN/人数 · **İSAC 是否已在 DMO 有 K 码未查** · RUBISEC 是否有别的型号做了 IEC 61850-3（`RS-IS-400-16GPTX` 未取）· **所有电话未试拨**（新增 İNFOGEN 0216 706 18 45 · RİVO 444 8 620 / 0312 481 19 14 · İSAC 0216 520 31 50 / 0850 60 60 180）。
