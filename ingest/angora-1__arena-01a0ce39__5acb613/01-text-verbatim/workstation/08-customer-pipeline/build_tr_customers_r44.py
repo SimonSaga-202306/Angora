@@ -66,7 +66,8 @@ try:
     R71 = {}
     R72 = {}
     R73 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data'):
+    R74 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -123,6 +124,8 @@ try:
                 R72.update(_mod.D)
             if _m == 'r73_appendix_data':
                 R73.update(_mod.D)
+            if _m == 'r74_appendix_data':
+                R74.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -160,6 +163,7 @@ R70_MARK = '## 附：r70 8 口是血海 + 24 口两个口径（2026-11-06）'
 R71_MARK = '## 附：r71 24 口地板 $278 / 渠道 $403（2026-11-06）'
 R72_MARK = '## 附：r72 客户身份档案（法人 / 税号 / 人 / 代理品牌）'
 R73_MARK = '## 附：r73 B 级客户身份卡（法名 / 税号 / 代理 / 自有品牌）'
+R74_MARK = '## 附：r74 供货线拆解（Koptek / Portel / CCS / TeleOne）'
 
 
 def tier_letter(level):
@@ -654,6 +658,16 @@ def main():
             L.append('> 本节为 **r73（2026-11-06）**：**B 级客户工商档案 —— 打电话前先读这一节。**')
             L.append('')
             L.append(body_r73.strip('\n'))
+            L.append('')
+        body_r74 = R74.get(no)
+        if body_r74:
+            L.append('---')
+            L.append('')
+            L.append(R74_MARK)
+            L.append('')
+            L.append('> 本节为 **r74（2026-11-06）**：**它现在卖谁的东西 —— 决定我们该说什么话。**')
+            L.append('')
+            L.append(body_r74.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))

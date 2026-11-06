@@ -94,21 +94,23 @@ Okay Yucedag（Sales Mgr）+ okay.yucedag@portel.com.tr
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r73 补：**唯一「只做工业网络」的客户 —— 工业段的天然对口**
+#### r74 补：**战场不是安防，是「车载 / 公交 / 轨交」网络**
 
 | 项 | 内容 |
 |---|---|
 | 法人 | **PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.** |
-| 地址 | **Yalı Mah. Kadir Sok. No:14, Helis More Residence K:7 D:82, 34873 Kartal / İstanbul** |
-| 电话 / 邮箱 | **0216 464 44 50** · `bilgi@industrialnetworkcenter.com` |
-| 站点 | **industrialnetworkcenter.com**（「Endüstriyel Network ekipman」专营线上市场） |
-| 法人可信度 | 官网**公示六个 IBAN**（TL/USD/EUR，İş Bankası 与另一家）⇒ 正规 A.Ş.、可开票、可收外汇 |
-| 定位 | **只做工业网络，不做摄像头** |
-| 人名 | **Okay Yucedağ（Sales Mgr）`okay.yucedag@portel…`** |
+| 地址 / 电话 | Yalı Mah. Kadir Sk. No:14, Helis More Residence K:7 D:82, Kartal / İstanbul · 0216 464 44 50 |
+| 双站 | `portel.com.tr`（企业） + `industrialnetworkcenter.com`（在线商城） |
+| 历史 | **20 年以上** |
+| 业务 | ① 工业网络产品 **分销 + 代理**（自述复数「distribütörlüklerimiz」「bayiliklerimiz」）② **半导体 / 电子元器件供应**，**香港设据点** |
+| **代理 · CTC Union（台湾，1993）** | `IVS-G802T-8PH24`：**8×GbE PoE+（30 W/口，120 W）+ 2×GbE**，**24/48 VDC 双路冗余**，**E-Mark E13**，**−40~75 ℃**，IP30 无风扇<br>`IVS-802GT-8PH24`：8×FE PoE + 2×GbE<br>`ITP-G802TM-8PH24` / `ITP-802GT-8PH24`：**EN50155 + M12**（抗冲击震动）<br>`ITP-800A-8PH24` · `ICR-GW404` / `ICR-W401`（4G/WiFi 车载路由） |
+| 标准覆盖 | **E-Mark（车载）· EN50155（轨交）· ITxPT（公共交通 IT）· IEC 61850-3（电力）· EN45545-2（防火）** |
+| 场景 | **公交 / 小巴 / 轨交整车网络**：票务、PIS 乘客信息屏、监控、GPS、4G 路由 |
+| 金融可信 | 官网公示 **六个 IBAN**（TL/USD/EUR，两家银行）⇒ 正规 A.Ş.、可收外汇 |
+| 人名 | **Okay Yucedağ（Sales Mgr）** |
 
-⇒ **判读**：**它不是安防渠道，是工业自动化渠道** ⇒ **我方工业 8 口（-40~+80 ℃ / IP40 DIN）在这里是主力品，不是配角。**
-⇒ **可收 USD/EUR** ⇒ **报价可以直接用美元，不存在汇率谈判摩擦。**
-⚠ **它的代理品牌本轮未取到** ⇒ **下一轮第一优先**（知道它现在卖谁，就知道要打谁）。
+⇒ **判读**：**不要拿普通工业 8 口去谈。** 它要的是 **E-Mark / EN50155 / M12 / 24–48 VDC / ITxPT**。
+⇒ **两条进路**：① 「认证齐全 + 低于 CTC Union」的替代型号；② 直接做它的**元器件采购供应商**（它买芯片和模块）。
 
 ---
 
@@ -131,3 +133,27 @@ Okay Yucedag（Sales Mgr）+ okay.yucedag@portel.com.tr
 ⇒ **判读**：**它不是安防渠道，是工业自动化渠道** ⇒ **我方工业 8 口（-40~+80 ℃ / IP40 DIN）在这里是主力品，不是配角。**
 ⇒ **可收 USD/EUR** ⇒ **报价可以直接用美元，不存在汇率谈判摩擦。**
 ⚠ **它的代理品牌本轮未取到** ⇒ **下一轮第一优先**（知道它现在卖谁，就知道要打谁）。
+
+---
+
+## 附：r74 供货线拆解（Koptek / Portel / CCS / TeleOne）
+
+> 本节为 **r74（2026-11-06）**：**它现在卖谁的东西 —— 决定我们该说什么话。**
+
+#### r74 补：**战场不是安防，是「车载 / 公交 / 轨交」网络**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.** |
+| 地址 / 电话 | Yalı Mah. Kadir Sk. No:14, Helis More Residence K:7 D:82, Kartal / İstanbul · 0216 464 44 50 |
+| 双站 | `portel.com.tr`（企业） + `industrialnetworkcenter.com`（在线商城） |
+| 历史 | **20 年以上** |
+| 业务 | ① 工业网络产品 **分销 + 代理**（自述复数「distribütörlüklerimiz」「bayiliklerimiz」）② **半导体 / 电子元器件供应**，**香港设据点** |
+| **代理 · CTC Union（台湾，1993）** | `IVS-G802T-8PH24`：**8×GbE PoE+（30 W/口，120 W）+ 2×GbE**，**24/48 VDC 双路冗余**，**E-Mark E13**，**−40~75 ℃**，IP30 无风扇<br>`IVS-802GT-8PH24`：8×FE PoE + 2×GbE<br>`ITP-G802TM-8PH24` / `ITP-802GT-8PH24`：**EN50155 + M12**（抗冲击震动）<br>`ITP-800A-8PH24` · `ICR-GW404` / `ICR-W401`（4G/WiFi 车载路由） |
+| 标准覆盖 | **E-Mark（车载）· EN50155（轨交）· ITxPT（公共交通 IT）· IEC 61850-3（电力）· EN45545-2（防火）** |
+| 场景 | **公交 / 小巴 / 轨交整车网络**：票务、PIS 乘客信息屏、监控、GPS、4G 路由 |
+| 金融可信 | 官网公示 **六个 IBAN**（TL/USD/EUR，两家银行）⇒ 正规 A.Ş.、可收外汇 |
+| 人名 | **Okay Yucedağ（Sales Mgr）** |
+
+⇒ **判读**：**不要拿普通工业 8 口去谈。** 它要的是 **E-Mark / EN50155 / M12 / 24–48 VDC / ITxPT**。
+⇒ **两条进路**：① 「认证齐全 + 低于 CTC Union」的替代型号；② 直接做它的**元器件采购供应商**（它买芯片和模块）。

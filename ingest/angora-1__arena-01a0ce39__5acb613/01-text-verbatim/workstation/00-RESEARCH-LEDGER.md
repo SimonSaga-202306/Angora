@@ -1347,6 +1347,38 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §68 · 第 74 轮 — 2026-11-06 ≈13:30–17:00 (+0800)：**Koptek = DCN(2010) + Dongwe(2010) + ONV(2020) 三条中国线** / **Portel = CTC Union 车载·轨交（E-Mark / EN50155 / ITxPT）** / **伊兹密尔第二极：CCS(VKN 2030341121) + TeleOne**
+
+用户第 27 次「继续」，执行 r73 定的两项第一优先。
+
+### 一、🛑 `Koptek` 不缺交换机 —— 它已经代理三家中国品牌
+**DCN / Digital China Network（DC Yunke，2000 年从联想集团分出）**：**2010 年起代理**；骨干 **15 Tbps / 512×1G/10G / MPLS / 4–16 槽**、数据中心、L2/L3、无线控制器、AP、防火墙；全系 **DCNOS** + 硬件 IPv6 Ready；**L3/PoE 型号 5 年保修**。在售：`S4600-28P-P-SI`（24×GE+4×SFP，370 W PoE，4 kV 防雷，无风扇）· `S5750E-52X-P-SI(R2)`（48×GE PoE+ 740 W，L3+，4×10G）· `CS6200-28X-P-EI`（24 PoE 340 W）· `CS6200-52X-P-EI`（48 PoE 740 W + 2×20G 堆叠）· **`IS2100D(R2)` 工业（IP40，−40~+85 ℃）**。
+**Dongwe**：2010 年起，光纤转换器 + SFP（500 m–120 km）。**ONV Technologies（中国）**：2020 年起，工业与室内交换机 `POE33064PF`/`POE33108PF`/`ONV-H2108PL`/`ONV-H3016PF`/`POE33020-28-52PFM`/`POE36028PFM`/`POE56028PFM`。
+**公司历史订正**：**1988 年入行、1997 年起做网络分销** ⇒ **老手，砍价能力强。**
+⇒ **话术改**：不讲「我也有交换机」，讲「**你已有 DCN/ONV/Dongwe，第四条线要不要一个价格更硬的**」。⇒ **技术切口：DCN 的 PoE 型号多为外置电源，我方一体机可直接对标。**
+
+### 二、⭐ `Portel` 的战场是「车载 / 公交 / 轨交」，不是安防
+代理 **CTC Union（台湾 1993）**：`IVS-G802T-8PH24`（8×GbE PoE+ 30 W/口、120 W、**24/48 VDC 双路冗余**、**E-Mark E13**、−40~75 ℃、IP30 无风扇）· `IVS-802GT-8PH24`（8 FE PoE + 2 GbE）· `ITP-G802TM-8PH24` / `ITP-802GT-8PH24`（**EN50155 + M12**，抗冲击震动）· `ITP-800A-8PH24` · `ICR-GW404`/`ICR-W401`（4G/WiFi 车载路由）。标准覆盖 **E-Mark / EN50155 / ITxPT / IEC 61850-3 / EN45545-2**。
+另一条业务：**半导体 / 电子元器件供应，香港设据点** ⇒ 解释了三币种 IBAN 与「只做工业网络、不碰摄像头」。
+⇒ **不要拿普通工业 8 口去谈**：要么「认证齐全 + 低于 CTC Union」，要么直接做它的**元器件供货**。
+
+### 三、⭐ 伊兹密尔第二极
+**CCS Güvenlik Sistemleri İç ve Dış Tic. Ltd. Şti.**：**Vergi No 2030341121** · **成立 2016-03-28** · 活动代码 **464308** · 总部 **Folkart Towers No:39 İç Kapı 2511 Bayraklı/İzmir** · 仓库 **Halkapınar 1442 Sk. Tesisat İş Merkezi 1/L Konak** · **(0232) 459 55 70** · `hello@ccsguvenlik.com.tr` · **2018 Q2 开 İstanbul 分店** · 代理 **Hikvision / HiLook / ZKTeco / ERSE / OPUS / AlteBox** · 产品面含 **X 光机 / 闸机 / UPS / 网络与基础设施**。
+⇒ **「网络与基础设施」这一格没有交换机厂 = 第三个空货架**（与 Cenova、NFS 同型）；客户现成选项只有 Hikvision 交换机 ⇒ 我方 = 「Hikvision 之外的第二个选择」。
+⚠ **规模两源严重冲突**：zoominfo 250–499 人 / $15.6M vs rocketreach 3 人 ⇒ 只可信「中型以上」。
+**TeleOne**（1999，Konak Mithatpaşa Cd. No:146，**800 m² 总部 + Ankara 区域经理部**，<25 人，<$5M）：Video İzleme / Analiz / Networking / 指挥控制中心 / 远程监控的「360° 总方案」，覆盖公共机构；自述「多家品牌土耳其分销商」但**品牌名单未公开** ⇒ 卖点应为「能进标书的规格 + 本地服务」。
+
+### 四、土工业交换机生态（对标清单）
+国际/台系：**CTC Union · Moxa · Kyland · Planet · Edge-Core · Oring · Robustel · Digi · Advantech · Siemens · Weidmüller · Phoenix Contact · Harting**；中系：**DCN · ONV · Ruijie · upTech · RUBISEC**；**土本地：Ekosinerji · Tipro（+ RUBISEC 深度本地化）**。
+⇒ **「中国货没人要」不成立；「没好渠道」才是真问题。**
+
+### 五、三类客户三句话（定稿）
+**缺品类**（Cenova · NFS · CCS · Okisan · Koza）→「你的品牌表里没有一家交换机厂 —— 这一格我给你。」
+**已有中国线缺第四条**（Koptek · Nokta · CCTV Depo）→「你已有 DCN/ONV/Dongwe/Ruijie，第四条线要不要一个价格更硬的？」
+**垂直场景**（Portel 车载轨交 · Rima 项目集成 · TeleOne 政府总包）→「我不跟你比通用型号，我按你的标准做：E-Mark / EN50155 / 标书规格。」
+
+**诚实边界**：Koptek / Portel / TeleOne / CCS 的**税号与 MERSİS 多数未取到**（仅 CCS 有 VKN）· **CCS 员工数两源冲突** · **TeleOne 品牌名单未公开** · **Portel 除 CTC Union 外的代理未穷举** · **Ekosinerji / Tipro 未建档** · 本轮仍未试拨任何电话。
+
 ## §67 · 第 73 轮 — 2026-11-06 ≈09:50–13:20 (+0800)：**10 张 B 级身份卡** / **Perpa K:8 一层楼 = 4 家客户** / **13 人门店也有自有 PoE 全系（Karer KR-*）** / **两类空货架**
 
 用户第 26 次「继续」，延续 r72「只挖客户、不算我方价格」。

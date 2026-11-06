@@ -98,17 +98,22 @@ Fuat Sarp Sok. 5/1 Balmumcu + +90 212-275 7953 + info@coptek.com.tr
 
 > 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
 
-#### r73 补：**法定名称订正 —— 是 `Koptek`，不是 Coptek**
+#### r74 补：**它不是「缺交换机」—— 它已经在代理三家中国交换机品牌**
 
 | 项 | 内容 |
 |---|---|
-| 法人全称 | **Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.** |
-| 办公地址 | **Gayrettepe Mah. Pazar Sk. No:16/A, Balmumcu-Beşiktaş / İstanbul**（另登记：Gayrettepe Mah. Fuatsarp Sok. No:5/1，No:4/3） |
-| 电话 / 传真 / 邮箱 | **+90 212 275 79 53** · Faks 0212 288 43 36 / 0212 288 63 92 · `info@coptek.com.tr` |
-| **产品线（官网菜单逐条）** | **Omurga Switch（骨干）· Data Center Switch · PoE Switch · Layer 3 · Layer 2 · Endüstriyel Ethernet · Wireless + AP Controller · Fiber Ethernet · SFP 模块 · Fiber 转换器** |
+| 法人 | **Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.** |
+| 地址 | Fuat Sarp Sok. No:5/1, Balmumcu / İstanbul（另：Gayrettepe Mah. Pazar Sk. No:16/A） |
+| 电话 / 邮箱 | +90 212 275 79 53 · `info@coptek.com.tr` |
+| **历史** | **1988 年入行 · 1997 年起做网络产品分销** |
+| **代理 1 · DCN** | **Digital China Network / DC Yunke Networks Ltd.**（**2000 年从联想集团分出**），**2010 年起代理**。全系 **DCNOS** + 硬件 IPv6 Ready；**L3/PoE 型号 5 年保修**；骨干最高 **15 Tbps、512×1G/10G、MPLS、4–16 槽** |
+| **代理 2 · Dongwe** | **2010 年起**，光纤转换器 + SFP（500 m–120 km，全品牌兼容） |
+| **代理 3 · ONV Technologies** | **2020 年起**（中国），工业与室内交换机 `POE33064PF` / `POE33108PF` / `ONV-H2108PL` / `ONV-H3016PF` / `POE33020/28/52PFM` / `POE36028PFM` / `POE56028PFM` |
+| 在售 DCN 型号（含规格） | `S4600-28P-P-SI`（24×GE+4×SFP，**370 W PoE**，4 kV 防雷，无风扇）· `S5750E-52X-P-SI(R2)`（**48×GE PoE+ 740 W**，L3+，4×10G）· `CS6200-28X-P-EI`（24×GE PoE 340 W，L3）· `CS6200-52X-P-EI`（48×GE PoE 740 W + 2×20G 堆叠）· **`IS2100D(R2)` 工业（IP40，−40~+85 ℃）** |
 
-⇒ **判读**：**它不做摄像头，只做网络** ⇒ 客户买交换机就是买交换机，**不做安防捆绑**。
-⇒ **产品线与我方 100% 重叠**（骨干 / DC / 工业 / SFP）⇒ **B 级里最像「纯交换机买家」的一家**，谈判不需要品牌故事，只需要规格表与价格表。
+⇒ **判读（话术必须改）**：**不要讲「我也有交换机」** —— 它有三条线，而且都是中国品牌。
+⇒ **要讲「第四条线」**：同规格更低落地价 + **5 年保修照样给**。
+⇒ **它的技术弱点**：DCN 的 PoE 型号多为**外置电源**（`S4600` 370 W 靠外置）；**我方一体机可直接对标这一点。**
 
 ---
 
@@ -170,3 +175,26 @@ Fuat Sarp Sok. 5/1 Balmumcu + +90 212-275 7953 + info@coptek.com.tr
 
 ⇒ **判读**：**它不做摄像头，只做网络** ⇒ 客户买交换机就是买交换机，**不做安防捆绑**。
 ⇒ **产品线与我方 100% 重叠**（骨干 / DC / 工业 / SFP）⇒ **B 级里最像「纯交换机买家」的一家**，谈判不需要品牌故事，只需要规格表与价格表。
+
+---
+
+## 附：r74 供货线拆解（Koptek / Portel / CCS / TeleOne）
+
+> 本节为 **r74（2026-11-06）**：**它现在卖谁的东西 —— 决定我们该说什么话。**
+
+#### r74 补：**它不是「缺交换机」—— 它已经在代理三家中国交换机品牌**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.** |
+| 地址 | Fuat Sarp Sok. No:5/1, Balmumcu / İstanbul（另：Gayrettepe Mah. Pazar Sk. No:16/A） |
+| 电话 / 邮箱 | +90 212 275 79 53 · `info@coptek.com.tr` |
+| **历史** | **1988 年入行 · 1997 年起做网络产品分销** |
+| **代理 1 · DCN** | **Digital China Network / DC Yunke Networks Ltd.**（**2000 年从联想集团分出**），**2010 年起代理**。全系 **DCNOS** + 硬件 IPv6 Ready；**L3/PoE 型号 5 年保修**；骨干最高 **15 Tbps、512×1G/10G、MPLS、4–16 槽** |
+| **代理 2 · Dongwe** | **2010 年起**，光纤转换器 + SFP（500 m–120 km，全品牌兼容） |
+| **代理 3 · ONV Technologies** | **2020 年起**（中国），工业与室内交换机 `POE33064PF` / `POE33108PF` / `ONV-H2108PL` / `ONV-H3016PF` / `POE33020/28/52PFM` / `POE36028PFM` / `POE56028PFM` |
+| 在售 DCN 型号（含规格） | `S4600-28P-P-SI`（24×GE+4×SFP，**370 W PoE**，4 kV 防雷，无风扇）· `S5750E-52X-P-SI(R2)`（**48×GE PoE+ 740 W**，L3+，4×10G）· `CS6200-28X-P-EI`（24×GE PoE 340 W，L3）· `CS6200-52X-P-EI`（48×GE PoE 740 W + 2×20G 堆叠）· **`IS2100D(R2)` 工业（IP40，−40~+85 ℃）** |
+
+⇒ **判读（话术必须改）**：**不要讲「我也有交换机」** —— 它有三条线，而且都是中国品牌。
+⇒ **要讲「第四条线」**：同规格更低落地价 + **5 年保修照样给**。
+⇒ **它的技术弱点**：DCN 的 PoE 型号多为**外置电源**（`S4600` 370 W 靠外置）；**我方一体机可直接对标这一点。**

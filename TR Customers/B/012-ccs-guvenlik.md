@@ -88,3 +88,51 @@ BC-ODS 贴牌替换（250m extend 长距离 PoE = 我方 2.5G/长距 PoE 卖点�
 ### 证据等级与空白
 - 已核实：法定名、税务登记日 **2016-03-28**、地址、双城布局、7/24 支持表述（官网 + 税务查询站）。
 - 空白：真实员工数、"İzmir 最大"是否为自述夸大（**无第三方排名佐证，按自述引用**）、现供应商。
+
+---
+
+## 附：r48 抓站补录（2026-11-01）
+
+> 本节为 **r48（2026-11-01）第二轮抓站**后的**修正与新证据**，逐条标注来源；**与前面小节冲突时，以本节为准**（并已在本节内说明改了什么）。
+
+#### r74 补：**伊兹密尔最大分销商之一，且「网络与基础设施」这一格没有交换机厂**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **CCS Güvenlik Sistemleri İç ve Dış Ticaret Ltd. Şti.** |
+| **Vergi No** | **2030341121** |
+| **成立** | **2016-03-28**（活动代码 **464308**：防盗/火灾报警设备批发） |
+| 总部 | **Adalet Mah. Manas Blv. Folkart Towers No:39 İç Kapı 2511, Bayraklı / İzmir** |
+| 仓库 / 门店 | **Halkapınar Mah. 1442 Sk. Tesisat İş Merkezi No:1/L, Konak / İzmir 35170** |
+| 电话 / 邮箱 | **(0232) 459 55 70** · `hello@ccsguvenlik.com.tr` |
+| 分支 | **2018 Q2 开设 İstanbul 分店** |
+| 规模 | ⚠ **两源严重冲突**：zoominfo **250–499 人 / $15.6M**；rocketreach **3 人** ⇒ 只可信「中型以上」 |
+| **代理品牌** | **Hikvision · HiLook · ZKTeco · ERSE · OPUS · AlteBox**（+ WD / Toshiba / Seagate） |
+| 产品面 | 监控 · 消防 · 防盗 · 门禁 · 停车场/车牌 · **X 光机** · 闸机 · UPS · 音响 · 对讲 · **网络与基础设施（Ağ ve Altyapı Ürünleri）** |
+
+⇒ **判读**：**品牌表里没有任何交换机厂，但官网有「网络与基础设施」这一格** ⇒ **第三个空货架（与 Cenova、NFS 同型）。**
+⇒ **它的客户在伊兹密尔和爱琴海地区，现成选项只有 Hikvision 的交换机** ⇒ 我方 = **「Hikvision 之外的第二个选择」**。
+
+---
+
+## 附：r74 供货线拆解（Koptek / Portel / CCS / TeleOne）
+
+> 本节为 **r74（2026-11-06）**：**它现在卖谁的东西 —— 决定我们该说什么话。**
+
+#### r74 补：**伊兹密尔最大分销商之一，且「网络与基础设施」这一格没有交换机厂**
+
+| 项 | 内容 |
+|---|---|
+| 法人 | **CCS Güvenlik Sistemleri İç ve Dış Ticaret Ltd. Şti.** |
+| **Vergi No** | **2030341121** |
+| **成立** | **2016-03-28**（活动代码 **464308**：防盗/火灾报警设备批发） |
+| 总部 | **Adalet Mah. Manas Blv. Folkart Towers No:39 İç Kapı 2511, Bayraklı / İzmir** |
+| 仓库 / 门店 | **Halkapınar Mah. 1442 Sk. Tesisat İş Merkezi No:1/L, Konak / İzmir 35170** |
+| 电话 / 邮箱 | **(0232) 459 55 70** · `hello@ccsguvenlik.com.tr` |
+| 分支 | **2018 Q2 开设 İstanbul 分店** |
+| 规模 | ⚠ **两源严重冲突**：zoominfo **250–499 人 / $15.6M**；rocketreach **3 人** ⇒ 只可信「中型以上」 |
+| **代理品牌** | **Hikvision · HiLook · ZKTeco · ERSE · OPUS · AlteBox**（+ WD / Toshiba / Seagate） |
+| 产品面 | 监控 · 消防 · 防盗 · 门禁 · 停车场/车牌 · **X 光机** · 闸机 · UPS · 音响 · 对讲 · **网络与基础设施（Ağ ve Altyapı Ürünleri）** |
+
+⇒ **判读**：**品牌表里没有任何交换机厂，但官网有「网络与基础设施」这一格** ⇒ **第三个空货架（与 Cenova、NFS 同型）。**
+⇒ **它的客户在伊兹密尔和爱琴海地区，现成选项只有 Hikvision 的交换机** ⇒ 我方 = **「Hikvision 之外的第二个选择」**。
