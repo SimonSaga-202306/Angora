@@ -1347,6 +1347,48 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 
 ---
 
+## §74 · 第 80 轮 — 2026-11-06 ≈08:30–11:00 (+0800)：**「÷2.95」被证伪为通用规则（PLANET 反例 0.81×）→ 定价拆双轨** / **新 K 码 İNFOGEN `K5884`（PLANET 挂单方）** / **电力段三条新线索（İNFOGEN · Simgenet · İSAC）与 IEC 61850-3 代理地图** / **Nokta 工商身份补完（推翻 2000 年成立）**
+
+用户第 33 次「继续」（每轮 ≥10 工作分钟）。本轮做的是**给自己上一轮的规则找反例** —— 找到了，规则必须拆轨。
+
+### 一、🛑 修正 r79：`÷2.95` 只是「白牌挂牌虚高」的特例
+反例：**PLANET `IGS-801T`（8 口工业千兆非 PoE，−40~75 ℃，IP30，16 Gbps，4K MAC）**
+- **DMO 净价 6,955.49 ₺ / 含税 8,346.59 ₺ ≈ $139 / $167**；
+- **美国 MSRP $172**（planetechusa / neteon）· **Newegg $179** ⇒ **DMO = MSRP 的 0.81 倍**。
+**⇒ 新规则（三句）**：① 有公开 MSRP / 全球零售可比的品牌（PLANET / Moxa / Cisco / HPE）**DMO ≈ 0.8–1.0× MSRP**，直接引用；② 只有「官网自挂一张价、无第三方可比」的白牌（RUBISEC）**才 ÷2.3–3.0**；③ **探针 = 去 Newegg / planetechusa / DigiKey 搜同型号**，搜得到走①，搜不到走②。
+**⇒ 实际影响**：**Moxa / Planet / Cisco 的历史价格锚不需要重算**，省掉一整轮返工。
+
+### 二、⭐⭐ 新 K 码 `K5884` = **İNFOGEN DANIŞMANLIK VE BİLİŞİM A.Ş.**
+挂 **PLANET `IGS-801T`**（产品码 131798），**合同 2026-03-10 → 2028-03-10（刚续两年）**，电话 **0216 706 1845**；另有 `K3193` / `K4329`（D-Link，r76）。
+⇒ **它同时是 D-Link 与 PLANET 的 DMO 挂单方** ⇒ **「中低端进口网络设备」在政府渠道的实际操盘手**，客户表里没有的一类角色。
+⇒ **PLANET 的 8 口工业 PoE 不在 DMO** ⇒ **这一格在 İNFOGEN 这里也是空的** ⇒ **打法：不替代 PLANET，补它缺的那一格。**
+
+### 三、⭐⭐⭐ 电力段三条新线索（与现有 146 家客户零重叠）
+- **SİMGENET MÜHENDİSLİK ENERJİ SAN. VE TİC. LTD. ŞTİ.**（**2020-04-05**，Kartal/İstanbul，**Orhantepe Mah. Girne Sk. No:25A**，迁 **Tomurcuk Sok. 4B**，**+90 555 600 45 06**，`info@simgenet.net`）：**3onedata 土耳其代理**（`MES5400` 30 口模块化 L3 **IEC 61850-3** HSR/PRP 1588v2 · `MES5300-28GS` · `MES5300-24GT4GS` · `MES5200` · `MES6400PHR-8GT4XS` · `ICS5400TSN`）+ **自研 SMGOS 平台** + **Simgenet Teleprotection Unit V2**；业务 = **TEİAŞ OPGW · PAX · PLC 载波 · TPU · RTU · 本地 SCADA · IP/MPLS · SDH/PDH**；ISO 9001 / CE / TSE。
+- **İSAC**（`isac.com.tr`，**0850 60 60 180**，`bilgi@isac.com.tr`）：**Advantech 工业以太网交换机授权伙伴**（`EKI-2000/5000/7000/9000`，`EKI-2525P`、`EKI-2728`），自我定位「工业传感器 + 自动化供应商」。
+- **İNFOGEN**（见上）。
+
+### 四、⭐⭐ 电力段（IEC 61850-3）代理地图：这一格已被 6 家分完
+**Moxa → GSL Mühendislik**（IEC 61850-3 / EN 50155 / NEMA TS2 / IEC 62443）· **Kyland → GSL**（IEC 61850-3 / EN 50155）· **EtherWan → ErETE**（`EX47000` / `EX47080-00B`，IEC 61850 / IEEE 1613，−40~75 ℃）· **3onedata → Simgenet**（IEC 61850-3 / HSR/PRP / 1588v2）· **JetNet(Korenix) → Beijer Electronics Türkiye**（IEC 61850-3 / DNV / eMark / ITxPT / EN 50155）· **Advantech → İSAC**（CE/FCC/UL，工业级非变电站）· **RUBISEC → Birkil**（⚠ 未见 IEC 61850-3 声明）。
+**⇒ 我方进这一段的唯一路线：做「第二源」而不是「第三品牌」** —— 找**已有电力客户但品牌单一**的 Simgenet / ErETE / İSAC，给一个**同规格、能并行投标**的备份。
+
+### 五、⭐⭐ DMO「工业 8 口」两轴定稿
+非 PoE：**PLANET `IGS-801T` $139（İNFOGEN K5884）** → PoE：**DAHUA `PFSC28GT1-120D` $380** → **RUBISEC `RS-IS-300-12GP` $584（暂时无货）** → **`RS-IS-200-10GP` $668–770** → **`RS-IS-300-12GPX` $1,221（−40~80 ℃，240 W）** → ALCATEL `OS6465T-P12` $1,306–1,328 → **CISCO `IE-3300-8P2S-E` $2,315**。
+⇒ **我方 $500–700 的三条支撑**：Dahua $380 = **非受管 + 120 W + −30 ℃**；RUBISEC $584–770 = **无货 / 非宽温 / 资料不全**；Cisco = 天花板 ⇒ **「受管 + 240 W + 整机 −40~75 ℃ + 有货」= 唯一解。**
+
+### 六、⭐ Nokta 工商身份补完（推翻 r79 的「2000 年成立」）
+**VKN `6310730521`（Şişli）· MERSİS `0631-0730-5210-0020` · 商业登记 `555138-0` · 注册成立 `2005-05-26`（原名 LTD，后转 A.Ş.）· 实缴资本 `30,000,000 ₺`（≈$600k）· NACE #465202 · ETBİS 2024-05-02 · `upTech` 是它注册的商标 · Perpa A Blok K:2 No:1 / 信函 B Blok K:8 No:906 · 0212 222 87 80 · `nokta@noktaelektronik.net`。**
+⇒ **实缴 3,000 万 ₺ = A 级里「中等偏上」的重资产分销商**；⇒ **「2000 → 2005」差 5 年 ⇒ 对方讲 25 年时打折听，但不点破**；⇒ **`upTech` 有商标 ⇒ 不换牌，换里面的板子**。**分级 78 → 81。**
+
+### 七、产出
+新增 `08-customer-pipeline/149-pricing-rule-split-and-power-segment-leads-2026-11-06.md`；新增 `r80_appendix_data.py`（键 `'52' '62'`）；builder 接入 `R80` + `R80_MARK` + emit 块；根 `README.md` 增 `149`；本 ledger 增 §74；`AGENT-README` 增行 80；`00-TASK-STATUS.md` 增 CL 行 + 待办 61。
+
+### 八、方法与诚实边界
+**新方法**：① **规则必须找反例** —— 上一轮立的 ÷2.95，本轮被 PLANET 的 0.81× 推翻为「白牌特例」；② **MSRP 探针法**：用海外零售站判断一个品牌有没有真实价格锚；③ **「代理地图」优先于「客户名单」** —— 电力段 6 家代理一次列清，比逐家搜客户高效。
+**诚实边界**：İNFOGEN 的工商身份未知（只有电话 + K 码）· Simgenet 员工数/营收/VKN 未取（2020 年成立、手机号做总机 ⇒ 疑 ≤10 人，**未证实**）· İSAC 法定全称/地址/VKN 未取 · **Karer / CryptoLink / Novacom 的 VKN 本轮检索失败（b2bhint 与 eticaret 均无命中）** · PLANET 的 8 口工业 PoE 是否在 DMO · **RUBISEC 是否有 IEC 61850-3 声明** · **所有电话未试拨**（新增 İNFOGEN 0216 706 1845 · Simgenet +90 555 600 45 06 · İSAC 0850 60 60 180）。
+
+---
+
 ## §73 · 第 79 轮 — 2026-11-06 ≈06:10–08:30 (+0800)：**「挂牌 ÷2.95 = 成交」被 DMO 实价验证（误差 0.3%）** / **工业货架上有空位（$584 有价无货）** / **Snexus 真正主体是 Hemmah（VKN+MERSİS）** / **Cebeci 名字撞车排雷**
 
 用户第 32 次「继续」（每轮 ≥10 工作分钟）。本轮任务是**检验上一轮自己立的两条规则**，同时把客户的「工商级身份」补到能开发票的密度。

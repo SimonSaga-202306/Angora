@@ -32,6 +32,7 @@
 - [`146-dmo-price-bleed-and-rubisec-ladder-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/146-dmo-price-bleed-and-rubisec-ladder-2026-11-06.md)
 - [`147-rubisec-offshore-brand-and-identity-cards-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/147-rubisec-offshore-brand-and-identity-cards-2026-11-06.md)
 - [`148-customer-vkn-and-industrial-shelf-gaps-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/148-customer-vkn-and-industrial-shelf-gaps-2026-11-06.md)
+- [`149-pricing-rule-split-and-power-segment-leads-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/149-pricing-rule-split-and-power-segment-leads-2026-11-06.md)
 
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）
