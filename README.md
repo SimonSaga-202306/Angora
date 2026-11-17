@@ -36,6 +36,7 @@
 - [`150-four-new-leads-and-rubisec-cert-gap-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/150-four-new-leads-and-rubisec-cert-gap-2026-11-06.md)
 - [`151-kgys-c-tipi-switch-market-and-new-channel-leads-2026-11-06.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/151-kgys-c-tipi-switch-market-and-new-channel-leads-2026-11-06.md)
 - [`152-ewind-and-angora-recrawl-delta-2026-11-17.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/152-ewind-and-angora-recrawl-delta-2026-11-17.md)
+- [`153-kgys-cgks-clause-matrix-and-the-3294-tender-anatomy-2026-11-17.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/153-kgys-cgks-clause-matrix-and-the-3294-tender-anatomy-2026-11-17.md)
 
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）
