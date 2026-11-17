@@ -79,7 +79,8 @@ try:
     R84 = {}
     R85 = {}
     R86 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data', 'r85_appendix_data', 'r86_appendix_data'):
+    R87 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data', 'r85_appendix_data', 'r86_appendix_data', 'r87_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -162,6 +163,8 @@ try:
                 R85.update(_mod.D)
             if _m == 'r86_appendix_data':
                 R86.update(_mod.D)
+            if _m == 'r87_appendix_data':
+                R87.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -212,6 +215,7 @@ R83_MARK = '## 附：r83 Ewind 全渠道与 Angora 复爬对照（2026-11-17）'
 R84_MARK = '## 附：r84 2026-04 KGYS/ÇGKS 招标解剖与我方逐条合规矩阵（2026-11-17）'
 R85_MARK = '## 附：r85 LINK Bilgisayar 全档案与 Angora 五条交换机线（2026-11-17）'
 R86_MARK = '## 附：r86 EGM 现场交换机单价与六家 KGYS 交换机包中标商（2026-11-17）'
+R87_MARK = '## 附：r87 2026「仅限本国投标人」结构与 ÇŞB 单价册天花板（2026-11-17）'
 
 
 def tier_letter(level):
@@ -836,6 +840,16 @@ def main():
             L.append('> 本节为 **r86（2026-11-17 深夜）**：**一份 KAP 披露把「政府为一颗 8 口现场机付多少钱」钉死（6,050 TL ≈ $152，LINK 一年交 3,000 台）；并把过去两年 KGYS「交换机包」的六家中标集成商全部具名。** 三条修正：SFP 利润池要分标、LINK 定级升 A、Volza 47 票 = 45 进 + 2 出。')
             L.append('')
             L.append(body_r86.strip('\n'))
+            L.append('')
+        body_r87 = R87.get(no)
+        if body_r87:
+            L.append('---')
+            L.append('')
+            L.append(R87_MARK)
+            L.append('')
+            L.append('> 本节为 **r87（2026-11-17）**：**把「土耳其 2026 交换机采购到底允许谁投标」查成法条 —— 8 单全部「仅限本国投标人 + 本国货 15%」，白牌只能挂在持 YMB 的土耳其法人身上；同时用 ÇŞB 弱电单价册把 8/16/24/48 口 PoE 的工程口径天花板钉死（20,036 / 30,846 / 40,415 / 94,936 TL），并与 r86 的集采 6,050 TL 形成 3.3 倍落差。** 修正：Angora「81 省渠道」不可公开核实。')
+            L.append('')
+            L.append(body_r87.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))

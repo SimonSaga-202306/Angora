@@ -39,6 +39,7 @@
 - [`153-kgys-cgks-clause-matrix-and-the-3294-tender-anatomy-2026-11-17.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/153-kgys-cgks-clause-matrix-and-the-3294-tender-anatomy-2026-11-17.md)
 - [`154-link-bilgisayar-angora-portfolio-and-c-tipi-rules-2026-11-17.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/154-link-bilgisayar-angora-portfolio-and-c-tipi-rules-2026-11-17.md)
 - [`155-egm-field-switch-unit-price-and-six-kgys-switch-package-winners-2026-11-17.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/155-egm-field-switch-unit-price-and-six-kgys-switch-package-winners-2026-11-17.md)
+- [`156-2026-domestic-only-tenders-and-csb-unit-price-ceiling-2026-11-17.md`](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/156-2026-domestic-only-tenders-and-csb-unit-price-ceiling-2026-11-17.md) — r87：2026「仅限本国投标人 + 本国货 15%」结构 · ÇŞB 单价册天花板 · 两单 11 月截标边缘交换机
 
 - [`ingest/angora-1__arena-01a0ce39__5acb613/README.md`](ingest/angora-1__arena-01a0ce39__5acb613/README.md) — 入库总说明、统计、读取顺序、限制说明
 - [`ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md`](ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md) — 完整递归目录树（逐文件带字节数）
