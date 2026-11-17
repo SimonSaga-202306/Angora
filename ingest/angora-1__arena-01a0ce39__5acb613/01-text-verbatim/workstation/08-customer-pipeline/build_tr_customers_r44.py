@@ -77,7 +77,8 @@ try:
     R82 = {}
     R83 = {}
     R84 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data'):
+    R85 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data', 'r85_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -156,6 +157,8 @@ try:
                 R83.update(_mod.D)
             if _m == 'r84_appendix_data':
                 R84.update(_mod.D)
+            if _m == 'r85_appendix_data':
+                R85.update(_mod.D)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
@@ -204,6 +207,7 @@ R81_MARK = '## 附：r81 三条新线索落地与 RUBISEC 认证缺口'
 R82_MARK = '## 附：r82 KGYS「C 型边缘交换机」市场与五家新渠道'
 R83_MARK = '## 附：r83 Ewind 全渠道与 Angora 复爬对照（2026-11-17）'
 R84_MARK = '## 附：r84 2026-04 KGYS/ÇGKS 招标解剖与我方逐条合规矩阵（2026-11-17）'
+R85_MARK = '## 附：r85 LINK Bilgisayar 全档案与 Angora 五条交换机线（2026-11-17）'
 
 
 def tier_letter(level):
@@ -808,6 +812,16 @@ def main():
             L.append('> 本节为 **r84（2026-11-17 晚）**：**把「3,294 台」拆成五包招标、把两份规格书逐条对我方机型、并把三条价格线（D-Link $135 全包 / 我方 855 RMB / 工厂 780 RMB）摆在同一张表上。** 三条判断修正 r83。')
             L.append('')
             L.append(body_r84.strip('\n'))
+            L.append('')
+        body_r85 = R85.get(no)
+        if body_r85:
+            L.append('---')
+            L.append('')
+            L.append(R85_MARK)
+            L.append('')
+            L.append('> 本节为 **r85（2026-11-17）**：**把 LINK Bilgisayar 挖到能打电话的程度（BIST 上市公司、三个月三个 EGM 单、自己没有交换机产品线），补上 Angora 从未记录的 SYNAPSE 五型号，并把 r84 的「外置 shaping 盒子」方案证伪。** 两条修正：C-Tipi 后门已关闭、56 Gbps 陷阱要看光口。')
+            L.append('')
+            L.append(body_r85.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
