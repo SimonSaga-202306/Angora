@@ -1408,6 +1408,18 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 - **修正 r85/r86/r88 的持票名单**：四家 → **五家（+ Angora）**。
 - **承接 r88**：TTK 两轮中标方**仍未获**；`KTB-ELK.17.008` 2026 单价仍在付费墙。
 
+### 七之二、⭐ 补录（同日续做）：Angora 六条产品线全图 —— **交换机全覆盖，缺口在 70 km 光模块**
+| 家族 | 代表 | 形态 | 关键 |
+|---|---|---|---|
+| SYNAPSE | 2712-8T4X/24T4X/48T4X/48T6X · **5713-24S8T6X** | 8/24/48 GE PoE+ + 4–6×10G；24S+8T+6×10G | 56–216 G / 72–162 Mpps · **MTBF >100 万 h** · **−10/+60 ℃** · 6 kV · ACL 1024 · jumbo 13K |
+| VERGE 企业 2023 | 2023-8G/**24G**/32G/**48G** | 8/24/32/48 GE + 4×10G | 56–176 G / 38.1–**104.16** Mpps · **ACL 512** · **jumbo 9,216** · **MTBF 328,650 h** · **0~50 ℃** · 16,000 IPv4 路由 · 12 MB 缓存 · 8 台堆叠 |
+| **VERGE 工业 2023** | **ANW-2023-E8GT-4SFP1G-P** / -4SFP10G-P / ANW-IND-8P-2SFP | **8×GE + 4×SFP + PoE** | 56 G / 48.1 Mpps · **PoE 270 W** · **−45~+85 ℃** · **IP30** · 无风扇 · **48 V DC 外置** · **MTBF 580,000 h** · 0.98 kg · **G.8032 环网** · 继电器告警 |
+| HITIT | 1005-T/1010-T/1011-T（IP40 工业）· 1008-**GGP120**（8×GE PoE + 2×1G RJ45）· 1008-MCP120 · 1016/1024-MSP300（300 W）· 1004-MMP60 | 4–48 铜口，百兆为主 | 摄像头/AP/IP 电话/门禁；自称「Türkiye'nin Switch'i」 |
+| **SFP** | **ANW-SFP-1G-SX 550 m · 1G-LX 10 km · 10G-SR 550 m · 10G-LR 10 km** | **只有四款** | — |
+⇒ **KGYS C-Tipi 要「≥8×GE + ≥2×GE 光（SFP 70 km）」，工业 8 口机 `ANW-2023-E8GT-4SFP1G-P` 逐条命中（温度比要求还宽 5 ℃）**，**但 SFP 只到 10 km，没有 20/40/70/80 km** ⇒ **70 km 模块必须外购** ⇒ **我能卖的是长距 SFP，不是交换机**：我方 LX 成本 ≈25 RMB ≈$3.5 vs 土耳其零售 ≈**1,485 TL ≈ $29.7**（8.5 倍）。
+**⚠ 自我修正**：「Angora 缺 8 口工业机 ⇒ 我方补位」被官方订货表**推翻**（E8GT-4SFP1G-P 与 IND-8P-2SFP 都是 8×GE+4×SFP+PoE）⇒ **r88 与本轮早期的「补 8 口工业段」作废**；Angora 在 8 口工业、24 口、24 光口、48 口四格均已备货 ⇒ **对 Angora 只能打「成本 + 长距光模块 + 板卡级 ODM」**。
+**⭐ 三处数据表软肋**：SYNAPSE 订货表 5 型号全写「8-Port」（r40 再证）· `ANW-IND-8P-2SFP` 名字 2×SFP 规格 4×SFP · **VERGE 48G 写 176 Gbps 却只 104.16 Mpps**（176 G 线速应 130.95）⇒ TTK 2.3 转发率会打掉它。
+
 ### 八、产出与规模
 - 新增 `08-customer-pipeline/158-angora-egm-certificate-and-ttk-lot-fit-2026-10-26.md`。
 - 新增 `r89_appendix_data.py`（键 `'70'`），`build_tr_customers_r44.py` 已接 `R89`（**5 处**：字典声明 / 模块列表 / update 映射 / MARK / 追加块，并把 R48 去重条件扩到 R89）→ **`B/070-tekmarshop-tekmar.md` 增「附：r89 Angora 持有 EGM KGYS 合格证书与 TTK 全单适配」**。
