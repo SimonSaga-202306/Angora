@@ -250,3 +250,50 @@ Index 官方年表（A 级）：**2019 年 Netex 取得 Infovista / D-Link / Ver
 - **TÜSEB 2026 性能计划**：**Koşuyolu 1 骨干 + 19 边缘；ASAM 2 骨干 + 7 边缘**，明写「**全部边缘以光纤上联骨干**」。
 - **İnönü Üniversitesi 案例（DergiPark）**：**2 骨干 + 10 分发 + 90 边缘**，骨干 **active-active**。
 - ⇒ 与 TTK（2/27/1）、Adli Tıp（4/90/10）、Şehzadeler、Galatasaray 合并：**骨干 : 边缘 ≈ 1 : 10** 是土耳其公共机构的固定配比 ⇒ 报价单可直接按「每 10 台边缘配 1 台骨干 + 20 只 SFP」打包。
+
+---
+
+## 十、补录二：两轮真的只差一条 + 一个 11 月 19 日的新窗口 + 一条必须撤回的修正
+
+### 10.1 ⚠⚠ 撤回：**2025 轮的交货/验收地点与 2026 轮相同**
+本地报纸全文转载的 **2025 轮公告（İKN 2025/2351723）3.3 条**原文即：「**TTK Makine ve İkmal Dairesi Başkanlığı Muayene ve Tesellüm İşleri Şube Müdürlüğü Tesellüm Şefliği ambarlarıdır（Bülent Ecevit Caddesi No:125 Zonguldak）**」。
+⇒ **主文「2026 改验收地点」不成立，本条撤回。两轮差异只剩两条：① 2026 新增「2 年质保」；② 联系分机 16 94 → 16 87。**
+（另：2025 公告落款电话为总机 **0372 662 10 00**。）
+
+### 10.2 ⭐⭐ 两轮公告全文补齐（报纸全文转载，A 级）
+2026 轮（İKN **2026/321176**，`halkinsesi.com.tr` / `imzagazetesi.com`）：
+- 4734 法 **第 19 条**开标招标 · **3 kalem** · **30 台** · **e-ihale**，开标 **12.03.2026 14:00**（新闻正文写 15:00，与公告 14:00 不一致 ⇒ **以 EKAP 公告为准**）；
+- **单价合同**（birim fiyat sözleşme）· **kısmi teklif 可**；
+- **每项须附「厂家和/或分销商为本标专门出具的销售与技术支持授权书」**；
+- **2 年质保** · 全部全新同代产品 · **30 天交付** · 交付后 **10 天无故障运行** 方可验收；
+- 目的：总院与附属企业（müesseseler）的 **konsolidasyon**（网络整合）⇒ **不是扩容，是替换整合** ⇒ 边缘机数量（27）≈ 整合后点位数。
+
+### 10.3 ⭐⭐⭐ 新窗口：**İTÜ 2026/2063358**，2026-11-19 10:30
+`hurriyet.com.tr/resmi-ilanlar` 全文（A 级）+ 二手报道：
+- 名称：「**İTÜ Kampüs Kablosuz Ağ Erişim Noktaları ve PoE Ağ Anahtarları Alım İşi**」；
+- 数量：**120 台无线 AP（含控制器许可）+ 5 台 Kenar Anahtar TİP1 + 15 台 Kenar Anahtar TİP2 = 20 台边缘机**；
+- **90 天交付** · **仅限本国投标人**（二手报道）· 需 **yerli malı belgesi** 争 15%（公告 4.1.5 有该条）；
+- **4.3.1 近五年、≥投标额 40% 的 iş deneyim belgesi**；**4.3.2 须 imalatçı（制造商）或 yetkili satıcı（授权销售商）证明**；
+- 联系电话 **0212 285 39 30**。
+⇒ **对我方的直接含义**：我方**不能**以 imalatçı 身份投，**也不能**只凭进口商身份投 ⇒ **只能挂 Angora（imalatçı）或已持 yetkili satıcı 的集成商**。这条把 r87「YMB 51%」的门槛具体化成一张要交的纸。
+⚠ 判读：这是**校园 Wi-Fi 标**（AP 为主），交换机是配角 ⇒ **不是我方主战场，但是 Angora 的天然主场**（它已有 Hitit/Synapse + AP 线）⇒ **建议把这条作为"帮 Angora 中标"的练兵单**，换未来交换机主标的合作信任。
+
+### 10.4 ⭐ DMO 的「Omurga/Kenar Anahtar」是常年品类（不止一单）
+- **`İhale 8540`（2018）**：DMO 梅尔辛联络处代 **Adana Valiliği**：「**1 台骨干 + 3 台边缘 TİP1 + 4 台边缘 TİP2**」；
+- **`İhale 15648`（2023）**：司法部，结果 **İPTAL / Forte**（见 9.4）；
+- **`İhale 17239`（2025-11）**：贸易部「Muhtelif Cins ve Miktar Omurga ve Kenar Anahtar」。
+⇒ **三年三单、三个部委、同一措辞** ⇒ **这是一个 DMO 标准化品类，不是一个项目的偶发需求**；`32 42 30 00` 下的「Kenar/Omurga Anahtar」品目就是它的采购入口。
+
+### 10.5 ⭐ 通用模板再扩散两例（证明「同品牌 SFP」是国家级条款）
+- **Biruni Üniversitesi 技术规格**：**骨干 TİP1 = ≥48×10G SFP+ + ≥4×40/100G QSFP28；骨干 TİP2 = ≥24×10G SFP+ + 4×40/100G；边缘 TİP1 5 台 / TİP2 75 台（≥48×GE PoE+ + 4×10G + 2×12G stack）**，并明写「**所有交换机须与骨干同品牌**」。
+- **Adli Tıp Şehzadeler / Galatasaray / TÜSEB / İnönü** 同族条款。
+⇒ 「**同品牌**」不是 TTK 的偏好，而是**土耳其公共机构弱电标的默认条款**（`KTB-ELK.19.010` 甚至直接写「GBIC 模块须与骨干同品牌」）。**这解释了为什么 SFP 的利润在任何单一品牌投标里都被锁死。**
+
+### 10.6 ⚠ 修正 r86：**「外置 shaping 盒子不被接受」只对部分标成立**
+`Güvenli Okul Projesi 技术规格（2018）` **3.7.2 + 3.7.23.10 / 3.7.23.11** 原文允许：
+> 「若所投 C-Tipi 交换机无法**一体化**满足 −40~+60 ℃ 的整形要求，则 traffic shaping 方案可在**与交换机制造商同品牌**的前提下**以外置设备形式**投标」；外置方案同样须持 EGM 通信司 **「C-Tipi KENAR ANAHTAR ve TRAFFIC SHAPING TEST RAPORU = BAŞARILI」**。
+⇒ **部分标确实允许「同品牌外置」**（但同样要 EGM 报告）⇒ r86「同品牌 shaping 是后门」被证伪的那条**要分级**：**一体化优先、外置仅在同品牌且持报告时可投**。
+另（`turk-iot.com`，B 级）：明确列出已获 EGM「BAŞARILI」报告的品牌只有 **Extreme / Allied Telesis / Cryptolink / D-Link** 四家 ⇒ **与 r85 一致，本轮二次确认。**
+
+### 10.7 一句总结
+**这个市场的门有两把锁：一把是「同品牌 + 授权函」（可以靠 Angora 打开），一把是「EGM C-Tipi 报告 / YMB」（要靠时间和本地法人打开）。** 价格只是第三把、且最不重要的一把。

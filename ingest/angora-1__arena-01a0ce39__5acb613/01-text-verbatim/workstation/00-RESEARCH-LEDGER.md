@@ -1429,6 +1429,14 @@ TTK 自家 `ihale-list.php` 44 单**无交换机标** ⇒ **下一次 TTK 交换
 **方法修正**：**`dmo.gov.tr/Ihale/Detay/<id>` 可直抓**（「DMO 抓不了」只对商品目录页成立）；`İhale/Liste?type=2&cat=10` **34 分片可枚举**。
 **⭐ 新需求源与配货比例**：**TÜSEB 2026**（Koşuyolu 1 骨干 + 19 边缘 / ASAM 2 骨干 + 7 边缘，全光纤上联）· **İnönü Ü.**（2 骨干 + 10 分发 + 90 边缘，active-active）⇒ 合并 TTK 2/27/1、Adli Tıp 4/90/10 ⇒ **骨干 : 边缘 ≈ 1 : 10**，可按「每 10 台边缘配 1 台骨干 + 20 只 SFP」打包报价。
 
+### 十之三、⚠ 撤回一条 + ⭐⭐⭐ 一个新窗口 + 一条分级修正（补录二）
+**⚠ 撤回（自我修正 ①）**：**2025 轮的交货/验收地点与 2026 轮相同** —— 2025 公告 3.3 条原文即「TTK **Makine ve İkmal** ... Tesellüm Şefliği ambarları（Bülent Ecevit Cd. No:125）」⇒ **「2026 改验收地点」不成立**；两轮真实差异只剩 **2 年质保** 与 **分机 16 94→16 87**（2025 公告总机 **0372 662 10 00**）。
+**⭐⭐ 两轮公告全文补齐**（报纸全文转载，A 级）：2026 轮 **4734/19 · 3 kalem / 30 台 · e-ihale 开标 2026-03-12 14:00**（新闻写 15:00，**以 EKAP 为准**）· **单价合同** · **kısmi teklif 可** · **每项须「厂家和/或分销商为本标专门出具的销售与技术支持授权书」** · **2 年质保** · **30 天交付** · **交付后 10 天无故障运行**方可验收；采购目的是总院与附属企业的 **konsolidasyon（网络整合）** ⇒ **27 台边缘 ≈ 整合后点位数，是替换不是扩容**。
+**⭐⭐⭐ 新窗口：İTÜ `2026/2063358`，2026-11-19 10:30**（`hurriyet.com.tr/resmi-ilanlar` 全文）：**120 台 AP（含控制器许可）+ 5 台 Kenar TİP1 + 15 台 TİP2**，**90 天交付**，**仅限本国**，**4.1.5 yerli malı 15%**，**4.3.1 近五年 ≥投标额 40% iş deneyim**，**4.3.2 须 imalatçı 或 yetkili satıcı 证明**，**0212 285 39 30** ⇒ **我方既非 imalatçı、仅进口商也过不了 4.3.2**，**只能挂 Angora 或已持 yetkili satıcı 的集成商**（把 r87「YMB 51%」变成一张必交的纸）；⚠ AP 为主的校园 Wi-Fi 标，**建议作为"帮 Angora 中标"的练兵单**。
+**⭐ DMO 常年品类**：`8540`（2018，Adana Valiliği 1 骨干 + 3 边缘 TİP1 + 4 TİP2）· `15648`（2023 司法部，İPTAL/Forte）· `17239`（2025-11 贸易部）⇒ 三年三单三国部委同一措辞 = **DMO 标准化品类**。
+**⭐ 模板再扩散**：**Biruni Ü.**（骨干 TİP1 ≥48×10G + 4×40/100G QSFP28；TİP2 ≥24×10G；边缘 5 + 75 台 ≥48×GE PoE+ + 4×10G + 2×12G stack）明写「全部交换机须与骨干同品牌」；`KTB-ELK.19.010` 写「GBIC 须与骨干同品牌」⇒ **「同品牌」是全国默认条款**。
+**⚠ 修正 r86（分级）**：`Güvenli Okul 技术规格（2018）` 3.7.2 + 3.7.23.10/11 明许「若一体机不满足 −40~+60 ℃ 整形要求，可**同品牌外置**投标，且外置方案同样须持 EGM「C-Tipi KENAR ANAHTAR ve TRAFFIC SHAPING TEST RAPORU = BAŞARILI」」⇒ **「外置 shaping 不被接受」只对部分标成立**；正确表述 **一体化优先 / 外置仅同品牌 + 持报告**。`turk-iot.com`（B 级）二次确认 **EGM BAŞARILI 仅 Extreme / Allied Telesis / Cryptolink / D-Link 四家**。
+
 ### 十一、产出与规模
 - 新增 `08-customer-pipeline/157-ttk-switch-spec-is-a-dlink-fingerprint-and-angora-24sfp-gap-2026-10-26.md`。
 - 新增 `r88_appendix_data.py`（键 `'69'`），`build_tr_customers_r44.py` 已接入（字典声明 + 模块列表 + update 映射 + MARK + 追加块，共 5 处）→ **`B/069-teknolojipazar.md` 增「附：r88 TTK 交换机规格书是 D-Link 指纹与 Angora 的四条差距」**。
