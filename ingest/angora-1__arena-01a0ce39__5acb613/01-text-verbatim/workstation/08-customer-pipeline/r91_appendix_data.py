@@ -68,6 +68,27 @@ Forescout 官方 `CounterACT Network Devices Compatibility Matrix`（有线交�
 
 **⑧ 修正后的行动优先级（替换前节）**：① **守**——不投写死 NAC/网管/堆叠的标；② **攻**——投没写生态条款的标（**水务 / 市政 / 大学 / 医院**，如 İTÜ、İSU：只写参数与履历）；③ **绕**——通过 Angora / Trio / Ultron / Cyberwise 进，我方做**裸机 / 白牌 SFP / 板卡 ODM**，不露品牌；④ **不追**——Forescout 矩阵与 IEC 62443 均为"品牌方出面 + 季度级"，**先问不承诺**。
 
+**⑨ ⭐⭐⭐ 第二道锁在"投标人资格"上，不在产品上（新发现）**
+**ÇANKIRI KARATEKİN ÜNİVERSİTESİ `İKN 2026/1967649`**（r89 只记了 İKN，本轮拿到全文）：公告 2026-10-16 / **开标 09.11.2026 10:00**；**9 个 Kısım 可部分投标**，其中 **KISIM-4 = 边缘交换机 6 台**；交付 **30 日历日**含安装调试；仅按价格评标。
+**投标人限制：`İhaleye sadece yerli istekliler katılabilecek`（仅本国投标人）**；**15% 本地优惠明确覆盖 KISIM-4**；**资格证：`Kamu Bilişim Yetki Belgesi` + `Yetkili Satıcı Belgesi` 或 `İmalatçı` 证明** + 产品目录。
+⇒ **三层门槛叠加**：① 产品生态（ETİ MADEN 型）② **投标人资格（仅本国法人 + Kamu Bilişim Yetki Belgesi）** ③ **上游授权（原厂授权销售证 / 制造者证明）**。
+⇒ **我方（境外）在结构上无法直投任何 EKAP 标**；能投的只有持 Kamu Bilişim Yetki Belgesi 的土耳其公司 ⇒ **这解释了 r87「yerli-only」为何是结构性的，而非"少赚 15%"**。
+⇒ **行动项**：查清 Kamu Bilişim Yetki Belgesi 的**发证机关、条件、有效期、能否按产品线申请**（下轮专项）。
+
+**⑩ 「攻」的五个在投小包（2026-11）**
+| 标的 | 采购人 | 数量 | 截标 | 为何是目标 |
+|---|---|---|---|---|
+| `2026/1967649` **Kısım-4** | Çankırı Karatekin Ü. | **边缘交换机 6** | **09.11.2026** | 小包 + 可部分投标 + **15% 覆盖交换机包** |
+| **`2026/2162042`** | **Tarsus Belediye**（Mersin） | **交换机 4 + 16 + 8**（清单名 `Switch ve SFP Modülü`） | **27.11.2026** | **含 SFP 的混合小包**，直接对位"模块+整机"组合 |
+| 112 应急指挥 | Bursa/Yıldırım | **交换机 15** + 工作站 15 + IP 电话 15 + 屏 45 | EKAP | 1:1:1 套装，交换机为陪标件 ⇒ 单价空间大 |
+| Afyon 2 KISIM BİLİŞİM | Afyon（省级） | **48 口 Multigig PoE++ ×2 + 24 口 Multigig PoE++ ×2** + AP 39 | EKAP | **2.5G + PoE++** 段（r52/r53 的 `CLR-MRS-8330P` 档） |
+| YTÜ「Omurga Ağ Anahtarı + Yedekleme」 | Yıldız Teknik Ü. | 骨干交换机 | 2026-10 | 骨干段单值高 |
+⚠ **只有 Çankırı 一条拿到全文**；其余四条仅来自公告摘要，**是否同样 yerli-only / 原厂授权 / 同品牌，全部未确认** ⇒ **不可对外说"这四条我们能投"**。
+
+**⑪ 两条新增判断**
+1. **"能不能投"是三层资格问题，不是产品问题**：①投标人国籍 + Kamu Bilişim Yetki Belgesi ②原厂授权书 ③产品生态（NAC/网管/堆叠/原厂模块）—— **我方只能改第 ③ 层的一部分**，①②必须靠本地伙伴。
+2. **对 Angora 的定位再收紧一格**：**它不只是买家，是我方的"投标资格壳"** —— 有 EGM 证书、可能有 Kamu Bilişim Yetki Belgesi（待核）、有 Sanayi Sicil，缺成本与 70 km 模块 ⇒ **这比"卖给它裸机"更值钱**。
+
 **证据等级**：ETİ MADEN 清单与 3.1.a–g = **A**（官方 PDF 逐条）· 3.1.1 硬指标 = **A** · UEDAŞ PDF 格式与两金额 = **A** · OEDAŞ 结果页 = **B**（页面抓取失败，SERP 摘要）· TaahhütHaber 覆盖 TTK 组 = **B+** · TTK"因取消而无中标方" = **A（机制）+ 推断**。
 **空白**：ETİ MADEN 该标年份未标（PDF 路径 `tenders/2020/09`，正文无日期）· 该标中标方未知 · Forescout 8.2 矩阵是否含 Angora/我方未查 · 余下 16 家 EDAŞ 公示形态未逐一确认 · GDZ 规格仍缺 · EÜAŞ 结果未出。
 """
