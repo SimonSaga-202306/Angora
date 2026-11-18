@@ -82,7 +82,8 @@ try:
     R87 = {}
     R88 = {}
     R89 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data', 'r85_appendix_data', 'r86_appendix_data', 'r87_appendix_data', 'r88_appendix_data', 'r89_appendix_data'):
+    R90 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data', 'r85_appendix_data', 'r86_appendix_data', 'r87_appendix_data', 'r88_appendix_data', 'r89_appendix_data', 'r90_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -171,9 +172,11 @@ try:
                 R88.update(_mod.D)
             if _m == 'r89_appendix_data':
                 R89.update(_mod.D)
+            if _m == 'r90_appendix_data':
+                R90.update(_mod.D)
     # r88：避免同一 key 同时被 r48 通用块与 r88 标记块重复输出
     for _k in list(R48.keys()):
-        if _k in R88 or _k in R89:
+        if _k in R88 or _k in R89 or _k in R90:
             R48.pop(_k)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
@@ -228,6 +231,7 @@ R86_MARK = '## 附：r86 EGM 现场交换机单价与六家 KGYS 交换机包中
 R87_MARK = '## 附：r87 2026「仅限本国投标人」结构与 ÇŞB 单价册天花板（2026-11-17）'
 R88_MARK = '## 附：r88 TTK 交换机规格书是 D-Link 指纹与 Angora 的四条差距（2026-10-26）'
 R89_MARK = '## 附：r89 Angora 持有 EGM KGYS 合格证书与 TTK 全单适配（2026-10-26）'
+R90_MARK = '## 附：r90 能源渠道（EDAŞ/EÜAŞ/İSU）—— 唯一能查到交换机真实成交价的公共采购市场（2026-10-26）'
 
 
 def tier_letter(level):
@@ -882,6 +886,16 @@ def main():
             L.append('> 本节为 **r89（2026-10-26）**：**Angora 官网显示它早在 2019 年就通过了 EGM 的 KGYS「交通整形 + 丢包」合格测试并取得参与证书 —— 第五家持票方，长期口径「只有 Extreme/Allied/Cryptolink/D-Link 四家」作废。** 同时：**VERGE 官方数据表（ACL 512 / jumbo 9,216 / MTBF 328,650 h / 0~50 ℃ / 24G 71.3 Mpps）证明 TTK 的 `MTBF ≥760,000 h` 是"排除本地低价机"的筛子**；**而 Synapse 的铜口机 ANW-2712-24T4X（128 G / 99 Mpps）与 48T6X（216 G / 162 Mpps）纸面可过 TTK 2.2 / 2.3 ⇒ 推翻 r88 的「只能投 2 台」与「一张标拆两半」。** 另：**Yerli Malı 法规明文排除「境外零件 + 境内简单组装」⇒ r87 的 SKD 建议作废**；**DMO 新增两个判例（贸易部 Omurga/Kenar → Trio 2025-12-09；财政部 50 台 → Elit Arge 2022-12-14，均无金额）**。')
             L.append('')
             L.append(body_r89.strip('\n'))
+            L.append('')
+        body_r90 = R90.get(no)
+        if body_r90:
+            L.append('---')
+            L.append('')
+            L.append(R90_MARK)
+            L.append('')
+            L.append('> 本节为 **r90（2026-10-26）**：**换轴到能源渠道 —— 土耳其 21 家 EDAŞ / EÜAŞ / 水务公司不走 EKAP、以美元计价、并把中标方与金额贴在自家官网。** 三条判例：**İSU 2025/944195（100 台工业 Tip1 + 9 台 PoE Tip2 + 2 台骨干，约成本 ₺30,081,000，Turkcell ₺29,446,000，Türk Telekom ₺27,995,000 中标，仅 2 家投标，15% 本地优惠没救 Turkcell）**；**AYEDAŞ 2025 防火墙+交换机 材料 $109,000.02 + 人工 ₺1,280,000.19 → ULTRON BİLİŞİM**（GDZ 11-18 截标的同型标，预算锚 $120k–165k）；**EÜAŞ 2026/1545558 十一座水/火电站 ICS 网络打包（götürü、有 eksiltme、交付 150 天、需 ICS 分段/隔离履历 ≥20%）**。单位经济：**İSU 反推单台 $3,400–4,100（8/24 口加权 $1,800–2,600），是我方 FOB 的 9–17 倍** ⇒ **对手是运营商与 OT 集成商，不是本地品牌；Angora 缺的是项目履历，不是产品。**')
+            L.append('')
+            L.append(body_r90.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
