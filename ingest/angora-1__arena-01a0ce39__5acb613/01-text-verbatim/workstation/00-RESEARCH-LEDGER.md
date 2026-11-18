@@ -3276,6 +3276,22 @@ r89 把 TTK 的参数逐条对完（2.1/2.2/2.3），r90 拿到了成交价。�
 3. **唯一不需换供应商就能解的生态门槛 = `Forescout 8.2` 兼容矩阵** ⇒ 行动项：确认 Angora / 我方机型能否入矩阵（入了就能在标书写多品牌可选）；
 4. **被动件是生意**：6,400 条跳线 + 400 理线器 + 52 台机柜 + 4,000 螺母，无品牌锁死。
 
+### 六之二、补录（同轮续做）：⚠ **Forescout 那道门其实也关着**（自我修正）+ 公示地图真实覆盖率
+
+**⚠ 自我修正**：第六节第 3 条「`Forescout 8.2` 矩阵是唯一不需换供应商就能解的生态门槛」**判定过乐观**。
+Forescout 官方 `CounterACT Network Devices Compatibility Matrix`（有线交换机段）、`Switch Plugin` 支持清单、`Switch Vendor ACL Support`（**仅 15 行**）——**只覆盖一级厂商**：**Cisco / HPE（ArubaOS-CX、ProCurve、Comware）/ Juniper / Avaya / Huawei / H3C / Alcatel / Arista / Brocade / Dell（OS10、DNOS 9.x、SONiC）/ Enterasys / Extreme / Hirschmann / DNI**。
+⇒ **`D-Link`、`Zyxel`、`PLANET`、`Angora(ANW)` 全不在清单内** ⇒ **ETİ MADEN 的 b 条不是"可推开的门"，而是又一道品牌筛**（与 d/e/f 华为生态叠加 ⇒ 事实上的同品牌续购）。
+⇒ 要"进矩阵"须 **Forescout 官方为该 ODM 做验证并列入**（季度级周期、需品牌方出面）⇒ 不是我们能单方面解决，须先问 Angora 与 Forescout 土耳其代表处。
+⇒ **话术修正**：不要说"我们能帮你进 Forescout 矩阵"，改说"**这类标只能守不能攻，战场在没写 NAC 兼容条款的标**"。
+⚠ 原文自述矩阵 "represents a **subset** of each vendor's portfolio" ⇒ 矩阵本身也不覆盖全型号，但**厂商级仍是那十几家**。
+
+**⭐ 21 家 EDAŞ 公示地图：已核 5 家，其余多为死路**
+已核：**AYEDAŞ / Toroslar / Başkent（网页表；AYEDAŞ 2,354 条，2026 仍在更新：`AYEDAŞ MARMARA BÖLGESİ AG-YG` → LTS LİTYUM TEKNOLOJİ 68.019.706,37 TRY）· UEDAŞ（一标一 PDF）· OEDAŞ（编号 + İncele）**。
+其余 16 家：**两次定向检索全被"配电私有化拍卖"旧闻淹没**（Vangölü 2013 **118 M USD** → Türkerler；Meram **440 M USD** → Alsim Alarko；Akdeniz **546 M USD** → Limak-Kolin-Cengiz）⇒ **记为死路，不再重复检索**；只能对 5 家定期巡检 + TaahhütHaber 兜底。
+
+**修正后的行动优先级（替换第六节）**：① **守**——不投写死 NAC/网管/堆叠的标；② **攻**——投没写生态条款的标（**水务 / 市政 / 大学 / 医院**，如 İTÜ、İSU：只写参数与履历）；③ **绕**——通过 Angora / Trio / Ultron / Cyberwise 进，我方做**裸机 / 白牌 SFP / 板卡 ODM**，不露品牌；④ **不追**——Forescout 矩阵与 IEC 62443 均为"品牌方出面 + 季度级"，**先问不承诺**。
+**源计数更新**：**抓取 30（12 页全文/PDF 分片 + 18 条 SERP）· 有效 24 · 一手官方 6（ETİ MADEN PDF、3 家 Enerjisa 系表、UEDAŞ PDF、Forescout 官方矩阵 PDF）· 二手 18**。
+
 ### 七、与 r90 的差异
 | # | r90 | r91 |
 |---|---|---|

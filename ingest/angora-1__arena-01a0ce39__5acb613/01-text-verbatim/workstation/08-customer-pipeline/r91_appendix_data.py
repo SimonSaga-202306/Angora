@@ -55,6 +55,19 @@ r89：Angora 的 SFP 只到 10 km，KGYS 要 70 km ⇒ 长距 SFP 是我的机�
 3. **唯一不需要换供应商就能解的生态门槛：`Forescout 8.2` 兼容矩阵** ⇒ 行动项：确认 Angora / 我方机型能否入矩阵（入了就能在标书里写"多品牌可选"）。
 4. **被动件是生意**：6,400 条跳线 + 400 理线器 + 52 台机柜 + 4,000 螺母，无品牌锁死（g 条的"同品牌"可以是 Angora）。
 
+**⑥ ⚠ 自我修正：第六节「Forescout 8.2 矩阵是唯一可解的生态门槛」判定过乐观**
+Forescout 官方 `CounterACT Network Devices Compatibility Matrix`（有线交换机段）与 `Switch Plugin` 支持清单、`Switch Vendor ACL Support`（**仅 15 行**）——**只覆盖一级厂商**：**Cisco / HPE（ArubaOS-CX、ProCurve、Comware）/ Juniper / Avaya / Huawei / H3C / Alcatel / Arista / Brocade / Dell（OS10、DNOS 9.x、SONiC）/ Enterasys / Extreme / Hirschmann / DNI**。
+⇒ **`D-Link`、`Zyxel`、`PLANET`、`Angora(ANW)` 全不在清单内** ⇒ **ETİ MADEN 的 b 条不是"可推开的门"，而是又一道品牌筛**（与 d/e/f 华为生态叠加 ⇒ **事实上的同品牌续购**）。
+⇒ 要"进矩阵"须 **Forescout 官方为该 ODM 做验证并列入**（季度级周期、需品牌方出面）⇒ **不是我们这一层能单方面解决**；须先问 Angora 与 Forescout 土耳其代表处。
+⇒ **话术修正**：**不要再说"我们能帮你进 Forescout 矩阵"**；改说 **"这类标只能守不能攻，我们的战场在没写 NAC 兼容条款的标"**。
+⚠ 原文自述矩阵"represents a **subset** of each vendor's portfolio"（不可能逐一测试）⇒ 矩阵本身也不是全型号覆盖，但**厂商级仍那十几家**。
+
+**⑦ ⭐ 21 家 EDAŞ 公示地图：已核 5 家，其余多为死路**
+已核：**AYEDAŞ / Toroslar / Başkent（网页表，AYEDAŞ 2,354 条，2026 仍在更新：`AYEDAŞ MARMARA BÖLGESİ AG-YG` → **LTS LİTYUM TEKNOLOJİ 68.019.706,37 TRY**）· UEDAŞ（一标一 PDF）· OEDAŞ（编号 + İncele）**。
+其余 16 家：**两次定向检索全被"配电私有化拍卖"旧闻淹没**（Vangölü 2013 **118 M USD** → Türkerler；Meram **440 M USD** → Alsim Alarko；Akdeniz **546 M USD** → Limak-Kolin-Cengiz）⇒ **记为死路，不再重复检索**；只能对 5 家定期巡检 + TaahhütHaber 兜底。
+
+**⑧ 修正后的行动优先级（替换前节）**：① **守**——不投写死 NAC/网管/堆叠的标；② **攻**——投没写生态条款的标（**水务 / 市政 / 大学 / 医院**，如 İTÜ、İSU：只写参数与履历）；③ **绕**——通过 Angora / Trio / Ultron / Cyberwise 进，我方做**裸机 / 白牌 SFP / 板卡 ODM**，不露品牌；④ **不追**——Forescout 矩阵与 IEC 62443 均为"品牌方出面 + 季度级"，**先问不承诺**。
+
 **证据等级**：ETİ MADEN 清单与 3.1.a–g = **A**（官方 PDF 逐条）· 3.1.1 硬指标 = **A** · UEDAŞ PDF 格式与两金额 = **A** · OEDAŞ 结果页 = **B**（页面抓取失败，SERP 摘要）· TaahhütHaber 覆盖 TTK 组 = **B+** · TTK"因取消而无中标方" = **A（机制）+ 推断**。
 **空白**：ETİ MADEN 该标年份未标（PDF 路径 `tenders/2020/09`，正文无日期）· 该标中标方未知 · Forescout 8.2 矩阵是否含 Angora/我方未查 · 余下 16 家 EDAŞ 公示形态未逐一确认 · GDZ 规格仍缺 · EÜAŞ 结果未出。
 """

@@ -131,3 +131,41 @@
 | TaahhütHaber 覆盖 TTK 组 | **B+** | 多份日报 PDF 的目录与正文片段 |
 | TTK 两轮"因取消而无中标方" | **A（机制）/ 推断** | `gecmis-list.php` 标题即"Geçmiş / İptal Edilmiş" + 三渠道无结果 |
 | **空白** | — | ETİ MADEN 该标的**年份未标**（PDF 路径为 `tenders/2020/09`，正文无日期）· 该标中标方未知 · Forescout 8.2 矩阵是否含 Angora/我方未查 · GDZ `ILN02589099` 规格仍缺 · 21 家 EDAŞ 里剩余 16 家的公示形态未逐一确认 · EÜAŞ 结果未出 |
+
+---
+
+## 九、补录（同轮续做）：**Forescout 那道门其实也关着** + 21 家 EDAŞ 公示地图的真实覆盖率
+
+### 9.1 ⚠ 自我修正：第六节第 3 条「Forescout 8.2 矩阵是唯一可解的生态门槛」—— **判定过乐观**
+
+查 Forescout 官方文档后的事实：
+
+- **`CounterACT Network Devices Compatibility Matrix`（有线交换机部分）只列了几家一级厂商**：**Cisco / HPE（含 ArubaOS-CX、ProCurve、Comware）/ Juniper / Avaya(Nortel) / Huawei / H3C / Alcatel / Arista / Brocade / Dell（OS10、DNOS 9.x、**SONiC**）/ Enterasys / Extreme（K6）/ Hirschmann-HiOS / DNI**。
+- **`Switch Plugin` 的支持厂商清单同样是一级厂商集合**（Alcatel / Arista / Avaya / Brocade / Cisco / Dell / Enterasys / Extreme / H3C / HPE / Hirschmann / Huawei / Juniper / DNI 等）。
+- **`Switch Vendor ACL Support` 表只有 15 行** —— 同样是这份一级厂商名单。
+
+⇒ **`D-Link`、`Zyxel`、`PLANET`、`Angora(ANW)` 均不在上述任何一份清单里**。
+⇒ **正确表述**：ETİ MADEN 的 b 条（"必须在 Forescout 8.2 矩阵内"）**不是一扇可以推开的门，而是又一道品牌筛** —— 它把"非一级厂商"整体排除，效果与 d/e/f 条（华为生态）叠加，**指向同一结论：这类标事实上是同品牌续购**。
+⇒ **我方若要"进矩阵"**，需要 Forescout 官方（或其 SDK/插件层）为该 ODM 做验证并列入矩阵 —— **周期以季度计、且需要品牌方出面**，**不是我们这一层能单方面解决的**（是否可行，须先问 Angora 与 Forescout 土耳其代表处）。
+⇒ **对销售话术的修正**：不要再说"我们能帮你进 Forescout 矩阵"；**改说"这类标只能守，不能攻；我们的战场在没写 NAC 兼容条款的标"**。
+⚠ 本条的诚实边界：Forescout 文档中"products in these tables represent **a subset** of each vendor's portfolio, as it is impossible to test every available model"（原文）—— 即**矩阵本身也不是全型号覆盖**，但**厂商级覆盖仍是那十几家**。
+
+### 9.2 21 家 EDAŞ 的公示地图：**已核实 5 家，其余多为死路**
+
+| 已核实（可机器读取） | 形态 |
+|---|---|
+| AYEDAŞ · Toroslar EDAŞ · Başkent EDAŞ | 网页表格（AYEDAŞ **2,354 条**；2026 年也在更新，如 **`AYEDAŞ MARMARA BÖLGESİ AG-YG` → LTS LİTYUM TEKNOLOJİ 68.019.706,37 TRY**） |
+| UEDAŞ | 一标一 PDF（含中标方 + 美元金额） |
+| OEDAŞ | 编号列表 + İncele 子页 |
+
+**其余 16 家（Dicle / Vangölü / Meram / Akdeniz / Sakarya / Fırat / Aras / Çoruh / YEDAŞ / Kayseri / ADM / Boğaziçi / Uludağ 之外的…）**：本轮 2 次定向检索**全部被"配电公司私有化拍卖"的旧闻淹没**（如 Vangölü 2013 私有化 118 M USD 给 Türkerler、Meram 440 M USD 给 Alsim Alarko、Akdeniz 546 M USD 给 Limak-Kolin-Cengiz）——**与交换机采购无关**。
+⇒ **记为死路，不再重复检索**；如需覆盖，只能在"已知有公示页"的 5 家做**定期巡检**，其余靠 TaahhütHaber 日报兜底。
+
+### 9.3 修正后的行动优先级（替换第六节）
+1. **守**：不投"写死 NAC/网管/堆叠"的标（ETİ MADEN 型）。
+2. **攻**：投**没写生态条款**的标 —— 这类标的典型是**水务 / 市政 / 大学 / 医院**（r89 的 İTÜ、r90 的 İSU 皆属这类：只写参数与履历，不写"必须同一品牌网管"）。
+3. **绕**：通过**持证整机厂 + 持证集成商**（Angora / Trio / Ultron / Cyberwise）进入，我方做**裸机 / 白牌 SFP / 板卡 ODM**，不出现品牌名。
+4. **不追**：Forescout 矩阵、IEC 62443 认证 —— 两者都是"品牌方出面 + 季度级周期"，**先问、不承诺**。
+
+### 9.4 源计数更新
+**抓取 30（12 页全文/PDF 分片 + 18 条 SERP 深读）· 有效 24 · 一手官方 6（ETİ MADEN PDF、3 家 Enerjisa 系表、UEDAŞ PDF、Forescout 官方兼容矩阵 PDF）· 二手 18。**
