@@ -1420,6 +1420,10 @@ Winet 卖 Ruijie（Reyee 云）、Nokta 卖 Dahua（DoLynk）/Planet/ORing、`wi
 **⚠ 自我修正**：「Angora 缺 8 口工业机 ⇒ 我方补位」被官方订货表**推翻**（E8GT-4SFP1G-P 与 IND-8P-2SFP 都是 8×GE+4×SFP+PoE）⇒ **r88 与本轮早期的「补 8 口工业段」作废**；Angora 在 8 口工业、24 口、24 光口、48 口四格均已备货 ⇒ **对 Angora 只能打「成本 + 长距光模块 + 板卡级 ODM」**。
 **⭐ 三处数据表软肋**：SYNAPSE 订货表 5 型号全写「8-Port」（r40 再证）· `ANW-IND-8P-2SFP` 名字 2×SFP 规格 4×SFP · **VERGE 48G 写 176 Gbps 却只 104.16 Mpps**（176 G 线速应 130.95）⇒ TTK 2.3 转发率会打掉它。
 
+**⭐ 补出 TTK 一条硬服务条款**（2025 轮公告全文）：**授权书必须「本标专用」（bu ihaleye özel）** · **保修期内维护/维修/备件由投标人免费提供、≤10 个工作日** · **交期投标人自报但 ≤30 天** ⇒ **纯 FOB 接不住，必须有本地备件池**（与 r87「必须本地备货」互证且更硬）。
+**🛑 TTK 中标方第三次确认不可查**：`ttk/duyurular/` **404** · `gecmis-list.php` 只有 `Tamamlandı` · 三家地方报只有公告无结果 · EKAP 需登录 ⇒ 转「需人工/EKAP 账号」类，与 ATK 规格、GDZ 明细同列。
+**本轮净变化一句话**：r88「Angora 只差四条数据表条款」→ r89「**它能投完整标（Synapse 全档），缺的是证书现行性 + MAC/路由字段 + 70 km 光模块**；它不缺产品，卖不进"产品缺口"，只能卖长距 SFP + 板卡 ODM + 成本；想进 yerli-only 标，"简单组装"是违规的，必须真做本地内容」。
+
 ### 八、产出与规模
 - 新增 `08-customer-pipeline/158-angora-egm-certificate-and-ttk-lot-fit-2026-10-26.md`。
 - 新增 `r89_appendix_data.py`（键 `'70'`），`build_tr_customers_r44.py` 已接 `R89`（**5 处**：字典声明 / 模块列表 / update 映射 / MARK / 追加块，并把 R48 去重条件扩到 R89）→ **`B/070-tekmarshop-tekmar.md` 增「附：r89 Angora 持有 EGM KGYS 合格证书与 TTK 全单适配」**。

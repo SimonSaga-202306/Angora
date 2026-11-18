@@ -230,3 +230,29 @@
 - **Angora 在 TTK 这单纸面上能投全 30 台**（2.1 用 5713-24S8T6X、2.2 用 2712-24T4X、2.3 用 2712-48T6X）。
 - **它真正缺的三样，全在"纸"和"模块"上**：① EGM 证书的**现行有效性证明**；② Synapse 的 **MAC 表深度与静态路由条数**（2.3 要 32K MAC）；③ **70 km 光模块**。
 - **我方对它的三条可卖**：**长距 SFP · 板卡/裸机 ODM · 成本**；**不可卖**：**"你没有的产品"**（它都有）。
+
+---
+
+## 十、收口两条：TTK 补出一条服务 SLA + 中标方第三次确认不可查
+
+### 10.1 ⭐ 2025 轮公告里还有一条此前未记录的硬条款：**10 个工作日免费维修**
+`imzagazetesi.com` 对 2025 轮（İKN 2025/2351723）公告的全文转载：
+> 「Firmalar, teklif ettikleri ürünler için **üretici ve/veya distribütör firmadan bu ihaleye özel satış ve teknik destek vermeye dair yetki belgelerini** teklif dosyalarına ekleyecekler.」
+> 「Teçhizatlara **garanti süresi içinde** yapılacak bakım, onarım ve **yedek parça temini** … firma tarafından **ücretsiz** olarak ve **en fazla 10 iş günü** içinde gerçekleştirilecek.」
+> 「Firmalar **teslim sürelerini tekliflerinde belirtecekler**, siparişleri alan firmalar tüm malzemelerin teslimatını **30 gün** içinde gerçekleştirecek.」
+
+⇒ 补齐了 r88 表里没有的三项：① **授权书必须是「本标专用」**（不是通用代理证）；② **保修期内维修与备件免费、≤10 个工作日**；③ **交期由投标人自报，但不得超过 30 天**。
+⇒ 商业含义：**这不是卖货条款，是服务条款** —— 我方的 FOB 模式根本接不住「10 个工作日内免费换件」；**必须有本地备件池**。这条与 r87 已录的「纯 FOB + 海运交不了，必须本地备货」互相印证，**且更硬**（有具体天数与"免费"）。
+
+### 10.2 🛑 收口：TTK 两轮中标方 —— **第三次确认不可查**
+- `taskomuru.gov.tr/ttk/duyurular/` → **404（Sayfa Bulunamadı）**；
+- `taskomuru.gov.tr/ihale/gecmis-list.php` → 只有 `Tamamlandı`，无中标方/金额；
+- 地方报纸两篇（`imzagazetesi` / `halkinsesi` / `yeniadimgazetesi`）→ **只有公告转载，没有结果报道**；
+- EKAP 结果公告需登录。
+⇒ **本轮不再尝试**；这条转为「需人工/EKAP 账号」类任务，与 ATK 规格、GDZ 明细同列。
+
+---
+
+## 十一、本轮的净变化（一句话版）
+
+**r88 说「Angora 只差四条数据表条款」→ r89 证明：它其实能投完整标（Synapse 全档），缺的是「证书现行性 + MAC/路由字段 + 70 km 光模块」；它不缺产品，我们卖不进"产品缺口"，只能卖「长距 SFP + 板卡 ODM + 成本」；而想进 yerli-only 标，走「简单组装」是违规的 —— 必须真做本地内容。**
