@@ -66,6 +66,14 @@ D['71'] = """
 ⇒ **Angora 的 Hitit 8/16 口 PoE 正好是 Tip1/Tip2 档，但它没有 ICS 履历 ⇒ 进不了 EÜAŞ；在 AYEDAŞ/İSU 型标里只能做材料分包。**
 ⇒ **Trio（DMO 贸易部标得主、无自有品牌）有 EKAP 履历但缺美元报价与 OT 履历** ⇒ **"Trio + 我方裸机"比 "Trio + Angora" 少一层加价**。
 
+**⑦ ⭐ 渠道可复制性（再添两家）**：**Toroslar EDAŞ** 官网 `sonuclanan-ihaleler` 公示 **$169,000.00 → REVOTEK ELEKTRONİK**、CyberArk 续保 **$48,000.02 → CYBERWISE**（2019）；**Başkent EDAŞ** 同页公示 **$101,500.00** 等 ⇒ **"官网自晒美元合同"是 Enerjisa 系与独立配电公司的通用做法，可批量枚举、不需 EKAP 账号**。三家中标方（`ULTRON` / `REVOTEK` / `CYBERWISE`）**全是集成/安全服务商**，再次印证对手是集成商。
+
+**⑧ ⭐⭐⭐ 硬发现：ICS 类标普遍要 IEC 62443 组件级认证（TÜV Rheinland 背书）—— 我方与 Angora 都没有**
+土耳其公共 SCADA 规格书通用写法（`gmka.gov.tr` 公开的 Çanakkale OSB SCADA 招标文件原文）：「Yazılım Platformu **bileşen seviyesinde IEC62443 SL2** … **sertifikalandırılmış** … **IEC62443-4-1 ve IEC62443-4-2**」；「…**TÜV Rheinland** tarafından tasdik edilmelidir」。
+⇒ **62443-4-2 = 组件级七项基础要求（IAC/UC/SI/DC/RDF/TRE/RA）**；`EN IEC 62443-4-2:2019/prAA:2026` 修正案**仍是草案（未发布）**，但 **2019 版本体已被采购引用**。
+⇒ **① 即使参数全过，"证书"一栏也会挡下；② Angora 的 EGM 参与证书 ≠ 62443，两张证书互不通用；③ 能源渠道我方唯一合法路径 = 给已持证集成商供裸机/白牌；④ 建议第一条真正投钱的路线图：给工业 8 口机做 IEC 62443-4-2 **SL1** 组件级评估（远低于 SL2 的成本与周期），拿到后集成商才能写进标书。**
+⚠ 边界：该条款出自 Çanakkale OSB 的 SCADA 标样本；**EÜAŞ 实际技术规格书未公开**，是否逐字要求 62443 未确认 —— 按"高概率要求"处理。
+
 **证据等级**：İSU 三金额/条款 = **A**（EKAP 公告全文 + `enkocaeli` 2025-09-03 报道）· AYEDAŞ 金额与签约方 = **A**（官网表）· EÜAŞ 条款 = **A**（官方公告全文）· GDZ 定性 = **B** · 单台 = **推算** · 自然人线索 = **B-**。
 **空白**：İSU 分项单价 · AYEDAŞ 数量 · GDZ 规格与数量 · EÜAŞ 中标方与金额 · 21 家 EDAŞ 中还有几家有公示页 · ICS 是否要求 IEC 62443。
 """

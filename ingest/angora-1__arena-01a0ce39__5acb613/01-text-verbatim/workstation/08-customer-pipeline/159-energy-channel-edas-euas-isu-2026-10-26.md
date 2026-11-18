@@ -194,3 +194,34 @@ $ 总额        = 27,995,000 / 50.02 ≈ $559,676
 | 单台 $3,400–4,100 | **推算** | 由 İSU 总额扣减骨干与集成假设得出，假设已在文中列出 |
 | KGYS 小型标自然人签约方 | **B-** | 抓取镜像，字段错位、金额打码 |
 | **空白** | — | İSU 未公示分项单价 · AYEDAŞ 数量未公示 · GDZ 规格与数量 · EÜAŞ 中标方与金额 · GDZ/`ILN02594847` 是否打包 · 21 家 EDAŞ 中还有几家有同类公示页 · ICS 规格书（是否要求 IEC 62443） |
+
+---
+
+## 十、补录（同轮续做）：渠道可复制性 + **一道我们过不去的认证墙（IEC 62443）**
+
+### 10.1 渠道可复制性确认（A 级，再添两家）
+| 配电公司 | 公示页 | 已见金额样例 |
+|---|---|---|
+| **AYEDAŞ** | `sonuclanan-ihaleler`（**2,354 条**） | 防火墙+交换机材料 **$109,000.02** · 人工 ₺1,280,000.19 |
+| **Toroslar EDAŞ**（Enerjisa） | `toroslaredas.com.tr/sonuclanan-ihaleler` | **$169,000.00 → REVOTEK ELEKTRONİK** · CyberArk 续保 **$48,000.02 → CYBERWISE**（2019，doğrudan temin） |
+| **Başkent EDAŞ**（Enerjisa） | `baskentedas.com.tr/sonuclanan-ihaleler` | **$101,500.00** 等 |
+⇒ **"21 家 EDAŞ 官网自晒美元合同"不是 AYEDAŞ 的特例，是 Enerjisa 系 + 独立配电公司的通用做法。** 这条情报通道**可批量枚举**，且**不需要 EKAP 账号**。
+
+### 10.2 ⭐⭐⭐ 硬发现：**ICS 类标普遍要求 IEC 62443 组件级认证（TÜV Rheinland 背书）—— 我方与 Angora 都不具备**
+土耳其公共 SCADA/ICS 技术规格书的通用写法（以 `gmka.gov.tr` 公开的 Çanakkale OSB SCADA 招标文件为样本，原文）：
+> 「Yazılım Platformu **bileşen seviyesinde IEC62443 SL2** siber güvenlik standard ile uyumlu olacak şekilde **sertifikalandırılmış** olması gerekmektedir: **IEC62443-4-1 ve IEC62443-4-2**.」
+> 「teklif edilen SCADA Yazılımının bileşen düzeyinde IEC 62443 standardına uyduğu **TÜV Rheinland** tarafından tasdik edilmelidir」
+
+- **IEC 62443-4-2** = 组件级技术要求（含 **IAC / UC / SI / DC / RDF / TRE / RA** 七项基础要求，SL-C 等级）；**62443-4-1** = 供应商开发流程。
+- 截至本轮：**EN IEC 62443-4-2:2019/prAA:2026 修正案仍为草案（未发布）**，但**2019 版本体已是采购引用标准**。
+⇒ **含义（这条比价格重要）**：
+1. **EÜAŞ / Başkent EDAŞ 这类 ICS 标，即使我方产品参数全过，也会在"证书"一栏被挡下** —— 与 KGYS 的 EGM C-Tipi 证书是**同一类门槛、不同一张纸**。
+2. **Angora 的 EGM 参与证书不能替代 62443**；反之亦然。**两张证书互不通用。**
+3. ⇒ **对能源渠道，我方唯一合法路径是"给已持证的集成商供裸机/白牌"**（由集成商以整包形式承担认证责任），**不能自己出面投标**。
+4. ⇒ **产品路线图建议（第一条真正需要投钱的）**：**给工业 8 口机做 IEC 62443-4-2 SL1 的组件级评估**（SL1 是入门级，费用与周期远低于 SL2），一旦拿到，**就能被集成商写进标书**，这是**唯一能把"便宜"变成"可投"的动作**。
+
+⚠ **边界**：该 62443 条款出自**Çanakkale OSB 的 SCADA 标**（第三方公开样本），**EÜAŞ 2026/1545558 的实际技术规格书未公开**，是否逐字要求 62443 **未确认**；但同国同类的 ICS 标普遍如此，按"高概率要求"处理。
+⚠ **另注**：上表 `REVOTEK`、`ULTRON`、`CYBERWISE` 三家都是**集成/安全服务商**，再次印证 10.1 的结论。
+
+### 10.3 本轮源计数更新
+**抓取 22（8 页全文 + 14 条 SERP 深读）· 有效 17 · 一手官方 6（EKAP 公告全文 ×2、AYEDAŞ / Toroslar / Başkent EDAŞ 官网表、Başkent EDAŞ 在投页）· 官方 PDF 摘录 1（GMKA 招标文件）· 二手 9。**

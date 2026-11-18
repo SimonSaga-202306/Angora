@@ -3204,6 +3204,14 @@ r85–r89 全部走 EKAP 主轴（KGYS / EGM / TTK / DMO / 大学），结论一
 | 6 | 对 Angora 只谈成本/长距 SFP/ODM | 加一层：**Angora 缺的是项目履历，不是产品** |
 | 7 | — | 新线索：KGYS 小型标自然人签约方（B-，待 EKAP 核实） |
 
+### 六之二、补录（同轮续做）：渠道可复制性 + **IEC 62443 认证墙**
+- **渠道再添两家（A 级）**：**Toroslar EDAŞ** 公示 **$169,000.00 → REVOTEK ELEKTRONİK**、CyberArk 续保 **$48,000.02 → CYBERWISE**（2019，doğrudan temin）；**Başkent EDAŞ** 公示 **$101,500.00** 等 ⇒ **"官网自晒美元合同"是 Enerjisa 系与独立配电公司的通用做法，可批量枚举、不需 EKAP 账号**。三家已知中标方 `ULTRON` / `REVOTEK` / `CYBERWISE` **全是集成/安全服务商**。
+- **⭐⭐⭐ 硬发现：ICS 类标普遍要求 IEC 62443 组件级认证（TÜV Rheinland 背书）** —— 土耳其公共 SCADA 规格书通用写法（`gmka.gov.tr` 公开的 Çanakkale OSB SCADA 招标文件原文）：「Yazılım Platformu **bileşen seviyesinde IEC62443 SL2** … **sertifikalandırılmış** … **IEC62443-4-1 ve IEC62443-4-2**」；「…**TÜV Rheinland** tarafından tasdik edilmelidir」。
+  ⇒ **62443-4-2 = 组件级七项基础要求（IAC/UC/SI/DC/RDF/TRE/RA）**；`EN IEC 62443-4-2:2019/prAA:2026` 修正案仍是**草案（未发布）**，但 **2019 版本体已被采购引用**。
+  ⇒ 四条含义：① 参数全过也会被"证书"挡下；② **Angora 的 EGM 参与证书 ≠ 62443，两张证书互不通用**；③ 能源渠道我方唯一合法路径 = **给已持证集成商供裸机/白牌**；④ **产品路线图第一条真正该投钱的事 = 给工业 8 口机做 IEC 62443-4-2 SL1 组件级评估**（SL1 成本/周期远低于 SL2），拿到后集成商才能写进标书 —— 这是**唯一能把"便宜"变成"可投"的动作**。
+  ⚠ 边界：该条款出自 Çanakkale OSB 的 SCADA 标样本；**EÜAŞ 2026/1545558 实际规格书未公开**，是否逐字要求 62443 未确认，按"高概率要求"处理。
+- **源计数更新**：**抓取 22（8 页全文 + 14 条 SERP）· 有效 17 · 一手官方 6 · 官方 PDF 摘录 1 · 二手 9**。
+
 ### 七、产出与规模
 - 新增 `08-customer-pipeline/159-energy-channel-edas-euas-isu-2026-10-26.md`（九节）
 - 新增 `r90_appendix_data.py`（键 `'71'`）+ builder 接 `R90`（5 处，`R48.pop` 条件扩到 R90）⇒ **written 146 / index 146 / leftovers 0**
@@ -3211,7 +3219,7 @@ r85–r89 全部走 EKAP 主轴（KGYS / EGM / TTK / DMO / 大学），结论一
 - 台账 §84 · `AGENT-README` 第 90 行 · `00-TASK-STATUS` 第 CW 行 · 根 `README.md` 增 `159`
 
 ### 八、源计数与证据等级
-**抓取 17（6 页全文 + 11 条 SERP 深读）· 有效 13 · 一手官方 4（EKAP 公告全文 ×2、AYEDAŞ 官网表、Başkent EDAŞ 官网）· 二手 9**。
+**抓取 22（8 页全文 + 14 条 SERP 深读）· 有效 17 · 一手官方 6（EKAP 公告全文 ×2、AYEDAŞ / Toroslar EDAŞ / Başkent EDAŞ 官网表、Başkent EDAŞ 在投页）· 官方 PDF 摘录 1（GMKA 招标文件）· 二手 9**。
 A：İSU 三金额与全部条款 · AYEDAŞ 金额与签约方 · EÜAŞ 条款 · AYEDAŞ 目录规模 2,354。
 B：GDZ 定性（`ihalezeka` 摘要）。B-：`ihaleciler.com` 自然人线索。**推算**：单台 $3,400–4,100（假设已列）。
 
