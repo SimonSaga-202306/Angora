@@ -1437,6 +1437,12 @@ TTK 自家 `ihale-list.php` 44 单**无交换机标** ⇒ **下一次 TTK 交换
 **⭐ 模板再扩散**：**Biruni Ü.**（骨干 TİP1 ≥48×10G + 4×40/100G QSFP28；TİP2 ≥24×10G；边缘 5 + 75 台 ≥48×GE PoE+ + 4×10G + 2×12G stack）明写「全部交换机须与骨干同品牌」；`KTB-ELK.19.010` 写「GBIC 须与骨干同品牌」⇒ **「同品牌」是全国默认条款**。
 **⚠ 修正 r86（分级）**：`Güvenli Okul 技术规格（2018）` 3.7.2 + 3.7.23.10/11 明许「若一体机不满足 −40~+60 ℃ 整形要求，可**同品牌外置**投标，且外置方案同样须持 EGM「C-Tipi KENAR ANAHTAR ve TRAFFIC SHAPING TEST RAPORU = BAŞARILI」」⇒ **「外置 shaping 不被接受」只对部分标成立**；正确表述 **一体化优先 / 外置仅同品牌 + 持报告**。`turk-iot.com`（B 级）二次确认 **EGM BAŞARILI 仅 Extreme / Allied Telesis / Cryptolink / D-Link 四家**。
 
+### 十之四、⭐⭐ Angora Synapse 官方家族表 + Ewind 2936（补录三，定死"谁缺什么"）
+**Angora Synapse（官方页）**：`ANW-2712-8T4X`（8×GE PoE+/4×10G）· `24T4X`（24 PoE+/4×10G）· `48T4X`（48 PoE+/4×10G）· `48T6X`（48 PoE+/6×10G）· **`ANW-5713-24S8T6X`（8T+24S，6×10G）**；全系 **48 V DC · 6 kV 浪涌 · −10/+60 ℃ · MTBF >1,000,000 h** ⇒ **TTK 2.1 的端口形态在 Angora 线上有原生机**（再证"24×SFP 不是缺口"）；**但 Synapse 只有 1 个全光型号** ⇒ **能投 2 台的骨干、投不了 28 台的边缘**（钱在后者）。
+**Ewind `EW-S2936GM-8GF`（官方数据表）**：**24×GE RJ45 + 8×1G SFP + 4×1/2.5/10G SFP+ · 598 Gbps（厂方口径）· 107.14 Mpps · 32K MAC · 32 M buffer · <15 W · 3 年保修**；PoE 版 `-AP` **400 W（at 600 W）** ⇒ **「24 铜 + 8 光」与 TTK 2.1 的「24 光 + 8 铜」正好反过来** ⇒ **我方 2.1 无直投机型**。
+**⇒ 打法定稿**：**一张标拆两半** —— 2 台骨干用 **Angora `ANW-5713-24S8T6X`**（imalatçı + MTBF 100 万 h + 6×10G 均达标），27 台边缘 + 1 台 48 口用我方 24 口 GE + 4×10G 族并补 **ACL 768 / 路由 124+50 / jumbo 12K**；⚠ **「同品牌」条款 ⇒ 整标只能挂 Angora 品牌（我方供整机或 SKD 散件）**，混投会破功。
+**⇒ 优先级重排**：**Angora 的第一优先不是"再补 24S 机"，而是"给 ANW-2712 家族补三条数据表字段"；我方第一优先是"SKD 散件 + 本地组装，让 Angora 的 YMB 覆盖我方硬件"。**
+
 ### 十一、产出与规模
 - 新增 `08-customer-pipeline/157-ttk-switch-spec-is-a-dlink-fingerprint-and-angora-24sfp-gap-2026-10-26.md`。
 - 新增 `r88_appendix_data.py`（键 `'69'`），`build_tr_customers_r44.py` 已接入（字典声明 + 模块列表 + update 映射 + MARK + 追加块，共 5 处）→ **`B/069-teknolojipazar.md` 增「附：r88 TTK 交换机规格书是 D-Link 指纹与 Angora 的四条差距」**。
