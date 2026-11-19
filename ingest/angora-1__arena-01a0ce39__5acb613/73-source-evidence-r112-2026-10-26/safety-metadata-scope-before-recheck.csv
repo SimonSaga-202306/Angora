@@ -1,0 +1,4 @@
+source_id,repository_relative_path,bytes_before_read,purpose
+S01,ingest/angora-1__arena-01a0ce39__5acb613/72-entry-safety-r112-2026-10-26/incoming-scope-before-read.csv,133183,full safety metadata recheck; no stopped content interpretation
+S02,ingest/angora-1__arena-01a0ce39__5acb613/72-entry-safety-r112-2026-10-26/incoming-read-inventory.csv,286022,full safety metadata recheck; no stopped content interpretation
+S03,ingest/angora-1__arena-01a0ce39__5acb613/72-entry-safety-r112-2026-10-26/stash-untracked-tree-verification.csv,201836,full safety metadata recheck; no stopped content interpretation

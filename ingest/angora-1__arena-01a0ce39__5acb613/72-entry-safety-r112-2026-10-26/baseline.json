@@ -1,0 +1,14 @@
+{
+  "branch": "arena/5da004bd-angora",
+  "session_date_supplied_utc": "2026-10-26",
+  "environment_first_observed_utc": "2026-11-19T14:23:04Z",
+  "monotonic_first_observed_seconds": 19.186273078,
+  "environment_scope_observed_utc": "2026-11-19T14:23:54.003682+00:00",
+  "monotonic_scope_seconds": 68.480185134,
+  "local_head_before_fetch": "691123abc7462489146cece19b81b4f917b58646",
+  "remote_tip_observed_before_fetch": "cb79348b29e706a0416a3ad97ffc6b1b0a94da73",
+  "initial_untracked_files": 868,
+  "scope_total_bytes_before_read": 46015150,
+  "caveat": "session supplied date and environment clock differ; neither is automatically a historic capture date; monotonic time records elapsed interval only",
+  "guardrail": "prelist paths and sizes before hashing; no reset, clean, branch switch, unbounded stage or stash pop"
+}

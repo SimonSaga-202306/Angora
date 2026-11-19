@@ -1,0 +1,2 @@
+# Preserve r112 evidence bytes without line conversion.
+* -text

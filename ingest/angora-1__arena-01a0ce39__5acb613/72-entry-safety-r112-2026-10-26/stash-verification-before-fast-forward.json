@@ -1,0 +1,10 @@
+{
+  "stash_commit": "c028f026f784674a82b1b612a3bacd15e86de077",
+  "untracked_third_parent": "b81e6c7786c676521c50fea38e35bf32aa145d89",
+  "expected_paths": 868,
+  "actual_paths": 868,
+  "all_blob_and_mode_equal": true,
+  "stdout": "Saved working directory and index state On arena/5da004bd-angora: arena r112 pre-fast-forward 868 exact paths",
+  "stderr": "",
+  "limitation": "stash is local only; remote originals or previously protected versions were checked separately; no pop"
+}

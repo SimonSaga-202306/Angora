@@ -1,0 +1,4 @@
+source_id,repository_relative_path,bytes_read,sha256,read_method,analytical_disposition
+M01,ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/README.md,7041,f2b301c31455fed40cb21cbb9867074884f27bb7b04c859b72cf0c8eca63ff40,complete UTF-8 file displayed and bytes hashed after prelisted scope,comparison only under stated scope
+M02,ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/web-visible-inventory.csv,6383,b02b20db5be404f19840f83541c819d96b4360e5a068a217a20c5baedeb7553f,complete UTF-8 file displayed and bytes hashed after prelisted scope,comparison only under stated scope
+M03,ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/issues-and-corrections.csv,2931,e155fc18ad974347977ba4366274fa20661dd5975674d1c272efbad35e10644e,complete UTF-8 file displayed and bytes hashed after prelisted scope,comparison only under stated scope

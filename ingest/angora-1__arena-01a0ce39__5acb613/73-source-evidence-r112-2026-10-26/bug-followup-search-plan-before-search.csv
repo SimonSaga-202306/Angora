@@ -1,0 +1,7 @@
+query_id,query,purpose,guardrail,execution
+Q17,"""Angora"" ""5.5.1.17"" ""5.5.3.10"" -filetype:pdf -ihale",seek public evidence whether planned versions were released or fixes verified,no device operation or PDF; release mention alone not independent validation; do not infer from search snippets,one at a time then save metadata
+Q18,"site:support.angoranetworks.com ""scp"" ""5.5.3.10"" -filetype:pdf",seek a separate public update for the historical SCP issue,no site login and no device tests; distinguish current from archived,one at a time then save metadata
+Q19,"site:support.angoranetworks.com ""5.5.1.14"" ""5.5.3.7"" -filetype:pdf",seek a separate public update for the indicator issue,status solved and planned fields remain separate until evidence confirms release,one at a time then save metadata
+Q20,"site:angoranetworks.com ""AngoraOS"" ""release notes"" -filetype:pdf",seek version release notes without vendor PDFs,no login PDF downloads or device actions,one at a time then save metadata
+Q21,"site:github.com/anwHub ""5.5.3.10"" -filetype:pdf",seek public code-hosting evidence for planned version,repository mention alone not proof of release or deployment,one at a time then save metadata
+Q22,"site:angoranetworks.com ""5.5.1.17"" -filetype:pdf",seek further public HTML context for planned fix,no PDF or device operations; zero visible results not proof of nonexistence,one at a time then save metadata

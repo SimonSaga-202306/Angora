@@ -1,0 +1,116 @@
+{
+  "status": "PASS",
+  "read_scope": {
+    "paths": 58,
+    "bytes": 355715,
+    "groups": {
+      "prior-round-read-inventory.csv": {
+        "paths": 9,
+        "bytes": 60019
+      },
+      "comparison-source-read-inventory.csv": {
+        "paths": 6,
+        "bytes": 53706
+      },
+      "prior-provenance-read-inventory.csv": {
+        "paths": 3,
+        "bytes": 16355
+      },
+      "prior-gh-read-inventory.csv": {
+        "paths": 2,
+        "bytes": 667
+      },
+      "archive-index-read-inventory.csv": {
+        "paths": 4,
+        "bytes": 470
+      },
+      "archive-index-extension-read-inventory.csv": {
+        "paths": 2,
+        "bytes": 418
+      },
+      "github-api-read-inventory.csv": {
+        "paths": 5,
+        "bytes": 22444
+      },
+      "github-org-read-inventory.csv": {
+        "paths": 1,
+        "bytes": 5332
+      },
+      "github-files-read-inventory.csv": {
+        "paths": 7,
+        "bytes": 91709
+      },
+      "new-source-read-inventory.csv": {
+        "paths": 6,
+        "bytes": 38984
+      },
+      "diagnostic-read-inventory.csv": {
+        "paths": 9,
+        "bytes": 39771
+      },
+      "successful-chunk-read-inventory.csv": {
+        "paths": 4,
+        "bytes": 25840
+      }
+    }
+  },
+  "sources": {
+    "catalog_entries": 41,
+    "local_anchors": 43,
+    "boundaries": 18,
+    "corrections": 11
+  },
+  "discovery": {
+    "query_count": 22,
+    "nonempty_result_rows": 67,
+    "zero_queries": [
+      "Q06",
+      "Q18",
+      "Q21"
+    ],
+    "cdx_requests": 6,
+    "filtered_cdx_records": 4
+  },
+  "github": {
+    "example_files": 7,
+    "example_bytes": 91709,
+    "git_blob_matches": 7,
+    "pinned_commit": "7876ce42bafac38ada3c5ccca7df861ed33b63e9",
+    "current_vs_pinned_directory": "7/7 path, size, and blob match",
+    "limitation": "public sample text and current ref do not prove archive-time branch state or execution"
+  },
+  "chunks": {
+    "successful_multichunk_assemblies": 2,
+    "video_sources_quarantined": 2,
+    "live_522_errors": 3
+  },
+  "safety": {
+    "metadata_paths": 3,
+    "metadata_bytes": 621041,
+    "protected_paths": 32,
+    "protected_bytes": 17473261,
+    "incoming_paths": 868,
+    "incoming_bytes": 46015150,
+    "stash": "verified 868 local entries; not portable",
+    "base_commit": "cb79348b29e706a0416a3ad97ffc6b1b0a94da73"
+  },
+  "dossier_append": {
+    "old_bytes": 50605,
+    "appended_bytes": 587,
+    "new_bytes": 51192
+  },
+  "distinct_paths_including_hash_only_safety": 93,
+  "bytes_including_hash_only_safety": 18450017,
+  "relative_links_checked": 126,
+  "elapsed_monotonic_seconds": 2689.667,
+  "output_manifest": {
+    "status": "not yet created"
+  },
+  "limitations": [
+    "local hashes cannot prove tool transcript or webpage original-byte fidelity",
+    "Git blobs are public samples, not independent execution or production evidence",
+    "archive capture, Git commit, session date, and uncalibrated wall clock are different fields",
+    "no device, current support status, certification, customer delivery, or audio verified",
+    "saved read inventories cannot prove earlier access order; local stash is not portable"
+  ]
+}

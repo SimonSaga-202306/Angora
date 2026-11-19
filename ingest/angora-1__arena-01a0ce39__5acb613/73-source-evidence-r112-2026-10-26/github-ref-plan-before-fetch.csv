@@ -1,0 +1,2 @@
+request_id,gh_api_endpoint,planned_path,purpose,guardrail
+G03,repos/anwHub/3rdPartyConfigs/git/ref/heads/master,github-api/G03-linked-ref.json,identify the currently referenced public example repository commit,read-only GitHub API call; no local branch switch; current ref does not by itself prove archive-time identity

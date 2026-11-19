@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q07,1,1,Broşürler - Angora Networks,https://www.angoranetworks.com/brosurler/,"Tuesday, October 04, 2022",brochure index; not opened and no PDF downloaded
+Q07,2,2,Etkinlikler from 11 Ocak 2023,https://www.angoranetworks.com/events/category/egitim/,"Wednesday, January 11, 2023",r109 E03 failed; possible dated event index retry subject to separate plan
+Q07,3,3,Angora Thince İnce İstemci Eğitimi - Angora Networks,https://www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/,"Thursday, July 06, 2023",same as r111 X08; not a new source
+Q07,4,4,Etkinlikler from 12 Temmuz 2023,https://www.angoranetworks.com/events/,,event index not opened; do not infer complete history
+Q07,5,5,Mainpage - Angora Networks,https://www.angoranetworks.com/?lang=en,"Tuesday, December 27, 2022",broad landing page; not opened

@@ -1,0 +1,4 @@
+source_id,repository_relative_path,bytes_read,sha256,row_count,read_method
+S01,ingest/angora-1__arena-01a0ce39__5acb613/72-entry-safety-r112-2026-10-26/incoming-scope-before-read.csv,133183,04c980e250dda5cef4219eee623ac8fff6f0c16b1d67bbd51ee470e6e8af4cee,868,complete metadata parsed and hashed; no content docs interpreted
+S02,ingest/angora-1__arena-01a0ce39__5acb613/72-entry-safety-r112-2026-10-26/incoming-read-inventory.csv,286022,44a9f3597f228af86bb330ea85b6a14d0a5cc5a461535490f8b91aea85872363,868,complete metadata parsed and hashed; no content docs interpreted
+S03,ingest/angora-1__arena-01a0ce39__5acb613/72-entry-safety-r112-2026-10-26/stash-untracked-tree-verification.csv,201836,dcdedec68a348e9c9fa533a70d2cd250ed141b9848e7312198fbae00896f27fa,868,complete metadata parsed and hashed; no content docs interpreted

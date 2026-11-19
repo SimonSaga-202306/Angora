@@ -1,0 +1,5 @@
+index_id,records_after_filters,scope,limitation
+A01,1,status 200; MIME text/html; digest collapsed; cutoff 2026-10-26,empty filtered result not proof of no captures; 200 not proof of article content
+A02,1,status 200; MIME text/html; digest collapsed; cutoff 2026-10-26,empty filtered result not proof of no captures; 200 not proof of article content
+A03,0,status 200; MIME text/html; digest collapsed; cutoff 2026-10-26,empty filtered result not proof of no captures; 200 not proof of article content
+A04,0,status 200; MIME text/html; digest collapsed; cutoff 2026-10-26,empty filtered result not proof of no captures; 200 not proof of article content

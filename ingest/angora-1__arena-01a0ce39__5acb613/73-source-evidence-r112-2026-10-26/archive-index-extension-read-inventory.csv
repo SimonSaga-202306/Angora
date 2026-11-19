@@ -1,0 +1,3 @@
+index_id,repository_relative_path,bytes_read,sha256,filtered_records,limitation
+A05,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/archive-index/support.angoranetworks.com/ht_kb/scp-kullaniminda-hata-olusmasi/cdx.visible.md,213,8c22dacaf08fcc581b69401d009c8a96976db87758f63625c4c96f18e82abe8e,1,CDX 200 HTML and digest collapse not proof target article or all captures
+A06,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/archive-index/support.angoranetworks.com/ht_kb/guc-isiginin-yanmamasi/cdx.visible.md,205,8730ebd5177d0736b59e53259872ec01bcedd7381c3e3ef6a183167b5eecb8d2,1,CDX 200 HTML and digest collapse not proof target article or all captures

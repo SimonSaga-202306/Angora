@@ -1,0 +1,2 @@
+request_id,gh_api_endpoint,planned_success_path,planned_error_path,purpose,guardrail
+G06,orgs/anwHub/repos?per_page=100&type=public,github-api/G06-organization-repositories.json,github-api/G06.error.txt,enumerate public repository metadata for the GitHub organization linked by the archived vendor guide,no clones or branch switches; if 100 results check pagination before calling list complete; do not download firmware or PDF; avoid stopped entities; metadata only

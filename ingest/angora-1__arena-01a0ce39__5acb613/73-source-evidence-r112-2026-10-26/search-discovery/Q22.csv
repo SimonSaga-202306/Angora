@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q22,1,1,ARROW Data Diode - Angora Networks,https://www.angoranetworks.com/angora-data-diode/?lang=en,"Thursday, January 05, 2023",prior product page; snippet does not verify version fix; not opened
+Q22,2,2,Iris SFP Family - Angora Networks,https://www.angoranetworks.com/iris-sfp-family/?lang=en,"Monday, May 03, 2021",prior product page; not relevant to fix; not opened
+Q22,3,3,"Görünürlük, Güvenlik, Maliyet: Packet Broker - Angora Networks",https://www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/,"Monday, June 15, 2026",same X06; unrelated to fix
+Q22,4,4,Services - Angora Networks,https://www.angoranetworks.com/our-services-2/?lang=en,"Monday, May 03, 2021",prior services page; not relevant to fix; not opened
+Q22,5,5,Network Packet Broker - Angora Networks,https://www.angoranetworks.com/yerli-network-packet-broker/?lang=en,"Monday, October 04, 2021",P01 scope too broad; not re-opened or used

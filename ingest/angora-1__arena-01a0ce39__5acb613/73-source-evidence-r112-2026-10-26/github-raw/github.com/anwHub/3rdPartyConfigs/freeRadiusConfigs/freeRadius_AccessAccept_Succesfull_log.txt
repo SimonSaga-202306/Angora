@@ -1,0 +1,315 @@
+(35) Received Access-Request Id 144 from 192.168.100.199:49205 to 192.168.100.200:1812 length 171
+(35)   NAS-IP-Address = 192.168.100.199
+(35)   NAS-Port-Type = Ethernet
+(35)   NAS-Port = 3
+(35)   User-Name = "testuser"
+(35)   Acct-Session-Id = "05000020"
+(35)   State = 0x128abca31482a57323e1f7cb617a6efd
+(35)   Called-Station-Id = "70-B3-D5-82-20-04"
+(35)   Calling-Station-Id = "D0-37-45-39-8E-31"
+(35)   EAP-Message = 0x020800251900170303001a0000000000000003520264b0874ea96d3fe5ea64b5941c35cf97
+(35)   Message-Authenticator = 0xca5e1284654759fc2981386e526cb5f8
+(35) session-state: No cached attributes
+(35) # Executing section authorize from file /etc/freeradius/3.0/sites-enabled/default
+(35)   authorize {
+(35)     policy filter_username {
+(35)       if (&User-Name) {
+(35)       if (&User-Name)  -> TRUE
+(35)       if (&User-Name)  {
+(35)         if (&User-Name =~ / /) {
+(35)         if (&User-Name =~ / /)  -> FALSE
+(35)         if (&User-Name =~ /@[^@]*@/ ) {
+(35)         if (&User-Name =~ /@[^@]*@/ )  -> FALSE
+(35)         if (&User-Name =~ /\.\./ ) {
+(35)         if (&User-Name =~ /\.\./ )  -> FALSE
+(35)         if ((&User-Name =~ /@/) && (&User-Name !~ /@(.+)\.(.+)$/))  {
+(35)         if ((&User-Name =~ /@/) && (&User-Name !~ /@(.+)\.(.+)$/))   -> FALSE
+(35)         if (&User-Name =~ /\.$/)  {
+(35)         if (&User-Name =~ /\.$/)   -> FALSE
+(35)         if (&User-Name =~ /@\./)  {
+(35)         if (&User-Name =~ /@\./)   -> FALSE
+(35)       } # if (&User-Name)  = notfound
+(35)     } # policy filter_username = notfound
+(35)     [preprocess] = ok
+(35)     [chap] = noop
+(35)     [mschap] = noop
+(35)     [digest] = noop
+(35) suffix: Checking for suffix after "@"
+(35) suffix: No '@' in User-Name = "testuser", looking up realm NULL
+(35) suffix: No such realm "NULL"
+(35)     [suffix] = noop
+(35) eap: Peer sent EAP Response (code 2) ID 8 length 37
+(35) eap: Continuing tunnel setup
+(35)     [eap] = ok
+(35)   } # authorize = ok
+(35) Found Auth-Type = eap
+(35) # Executing group from file /etc/freeradius/3.0/sites-enabled/default
+(35)   authenticate {
+(35) eap: Expiring EAP session with state 0xcaaff0eecba7ea23
+(35) eap: Finished EAP session with state 0x128abca31482a573
+(35) eap: Previous EAP request found for state 0x128abca31482a573, released from the list
+(35) eap: Peer sent packet with method EAP PEAP (25)
+(35) eap: Calling submodule eap_peap to process data
+(35) eap_peap: Continuing EAP-TLS
+(35) eap_peap: [eaptls verify] = ok
+(35) eap_peap: Done initial handshake
+(35) eap_peap: [eaptls process] = ok
+(35) eap_peap: Session established.  Decoding tunneled attributes
+(35) eap_peap: PEAP state phase2
+(35) eap_peap: EAP method MSCHAPv2 (26)
+(35) eap_peap: Got tunneled request
+(35) eap_peap:   EAP-Message = 0x020800061a03
+(35) eap_peap: Setting User-Name to testuser
+(35) eap_peap: Sending tunneled request to inner-tunnel
+(35) eap_peap:   EAP-Message = 0x020800061a03
+(35) eap_peap:   FreeRADIUS-Proxied-To = 127.0.0.1
+(35) eap_peap:   User-Name = "testuser"
+(35) eap_peap:   State = 0xcaaff0eecba7ea238c006548a738e22c
+(35) Virtual server inner-tunnel received request
+(35)   EAP-Message = 0x020800061a03
+(35)   FreeRADIUS-Proxied-To = 127.0.0.1
+(35)   User-Name = "testuser"
+(35)   State = 0xcaaff0eecba7ea238c006548a738e22c
+(35) WARNING: Outer and inner identities are the same.  User privacy is compromised.
+(35) server inner-tunnel {
+(35)   session-state: No cached attributes
+(35)   # Executing section authorize from file /etc/freeradius/3.0/sites-enabled/inner-tunnel
+(35)     authorize {
+(35)       policy filter_username {
+(35)         if (&User-Name) {
+(35)         if (&User-Name)  -> TRUE
+(35)         if (&User-Name)  {
+(35)           if (&User-Name =~ / /) {
+(35)           if (&User-Name =~ / /)  -> FALSE
+(35)           if (&User-Name =~ /@[^@]*@/ ) {
+(35)           if (&User-Name =~ /@[^@]*@/ )  -> FALSE
+(35)           if (&User-Name =~ /\.\./ ) {
+(35)           if (&User-Name =~ /\.\./ )  -> FALSE
+(35)           if ((&User-Name =~ /@/) && (&User-Name !~ /@(.+)\.(.+)$/))  {
+(35)           if ((&User-Name =~ /@/) && (&User-Name !~ /@(.+)\.(.+)$/))   -> FALSE
+(35)           if (&User-Name =~ /\.$/)  {
+(35)           if (&User-Name =~ /\.$/)   -> FALSE
+(35)           if (&User-Name =~ /@\./)  {
+(35)           if (&User-Name =~ /@\./)   -> FALSE
+(35)         } # if (&User-Name)  = notfound
+(35)       } # policy filter_username = notfound
+(35)       [chap] = noop
+(35)       [mschap] = noop
+(35) suffix: Checking for suffix after "@"
+(35) suffix: No '@' in User-Name = "testuser", looking up realm NULL
+(35) suffix: No such realm "NULL"
+(35)       [suffix] = noop
+(35)       update control {
+(35)         &Proxy-To-Realm := LOCAL
+(35)       } # update control = noop
+(35) eap: Peer sent EAP Response (code 2) ID 8 length 6
+(35) eap: No EAP Start, assuming it's an on-going EAP conversation
+(35)       [eap] = updated
+(35) files: users: Matched entry testuser at line 1
+(35)       [files] = ok
+(35)       [expiration] = noop
+(35)       [logintime] = noop
+(35) pap: WARNING: Auth-Type already set.  Not setting to PAP
+(35)       [pap] = noop
+(35)     } # authorize = updated
+(35)   Found Auth-Type = eap
+(35)   # Executing group from file /etc/freeradius/3.0/sites-enabled/inner-tunnel
+(35)     authenticate {
+(35) eap: Expiring EAP session with state 0xcaaff0eecba7ea23
+(35) eap: Finished EAP session with state 0xcaaff0eecba7ea23
+(35) eap: Previous EAP request found for state 0xcaaff0eecba7ea23, released from the list
+(35) eap: Peer sent packet with method EAP MSCHAPv2 (26)
+(35) eap: Calling submodule eap_mschapv2 to process data
+(35) eap: Sending EAP Success (code 3) ID 8 length 4
+(35) eap: Freeing handler
+(35)       [eap] = ok
+(35)     } # authenticate = ok
+(35)   # Executing section post-auth from file /etc/freeradius/3.0/sites-enabled/inner-tunnel
+(35)     post-auth {
+(35)       if (0) {
+(35)       if (0)  -> FALSE
+(35)     } # post-auth = noop
+(35)   Login OK: [testuser/<via Auth-Type = eap>] (from client ANGORADUT port 0 via TLS tunnel)
+(35) } # server inner-tunnel
+(35) Virtual server sending reply
+(35)   MS-MPPE-Encryption-Policy = Encryption-Required
+(35)   MS-MPPE-Encryption-Types = 4
+(35)   MS-MPPE-Send-Key = 0xe96efbc7ed3bced20a1dbe454b0d8d6e
+(35)   MS-MPPE-Recv-Key = 0x75763fc757685e610a7f273218cde0bd
+(35)   EAP-Message = 0x03080004
+(35)   Message-Authenticator = 0x00000000000000000000000000000000
+(35)   User-Name = "testuser"
+(35) eap_peap: Got tunneled reply code 2
+(35) eap_peap:   MS-MPPE-Encryption-Policy = Encryption-Required
+(35) eap_peap:   MS-MPPE-Encryption-Types = 4
+(35) eap_peap:   MS-MPPE-Send-Key = 0xe96efbc7ed3bced20a1dbe454b0d8d6e
+(35) eap_peap:   MS-MPPE-Recv-Key = 0x75763fc757685e610a7f273218cde0bd
+(35) eap_peap:   EAP-Message = 0x03080004
+(35) eap_peap:   Message-Authenticator = 0x00000000000000000000000000000000
+(35) eap_peap:   User-Name = "testuser"
+(35) eap_peap: Got tunneled reply RADIUS code 2
+(35) eap_peap:   MS-MPPE-Encryption-Policy = Encryption-Required
+(35) eap_peap:   MS-MPPE-Encryption-Types = 4
+(35) eap_peap:   MS-MPPE-Send-Key = 0xe96efbc7ed3bced20a1dbe454b0d8d6e
+(35) eap_peap:   MS-MPPE-Recv-Key = 0x75763fc757685e610a7f273218cde0bd
+(35) eap_peap:   EAP-Message = 0x03080004
+(35) eap_peap:   Message-Authenticator = 0x00000000000000000000000000000000
+(35) eap_peap:   User-Name = "testuser"
+(35) eap_peap: Tunneled authentication was successful
+(35) eap_peap: SUCCESS
+(35) eap: Sending EAP Request (code 1) ID 9 length 46
+(35) eap: EAP session adding &reply:State = 0x128abca31583a573
+(35)     [eap] = handled
+(35)   } # authenticate = handled
+(35) Using Post-Auth-Type Challenge
+(35) # Executing group from file /etc/freeradius/3.0/sites-enabled/default
+(35)   Challenge { ... } # empty sub-section is ignored
+(35) Sent Access-Challenge Id 144 from 192.168.100.200:1812 to 192.168.100.199:49205 length 0
+(35)   EAP-Message = 0x0109002e1900170303002312811e5bf5be31f261fc6a2612a1703932c451982374bf31cff607405aff3b63afe0de
+(35)   Message-Authenticator = 0x00000000000000000000000000000000
+(35)   State = 0x128abca31583a57323e1f7cb617a6efd
+(35) Finished request
+Waking up in 4.8 seconds.
+(36) Received Access-Request Id 145 from 192.168.100.199:49205 to 192.168.100.200:1812 length 180
+(36)   NAS-IP-Address = 192.168.100.199
+(36)   NAS-Port-Type = Ethernet
+(36)   NAS-Port = 3
+(36)   User-Name = "testuser"
+(36)   Acct-Session-Id = "05000020"
+(36)   State = 0x128abca31583a57323e1f7cb617a6efd
+(36)   Called-Station-Id = "70-B3-D5-82-20-04"
+(36)   Calling-Station-Id = "D0-37-45-39-8E-31"
+(36)   EAP-Message = 0x0209002e190017030300230000000000000004fe40b65785893d40d2d6449c2873762ac84de97c7f384a1d9bad3d
+(36)   Message-Authenticator = 0xa88758eb5894d350444bf63198aa4670
+(36) session-state: No cached attributes
+(36) # Executing section authorize from file /etc/freeradius/3.0/sites-enabled/default
+(36)   authorize {
+(36)     policy filter_username {
+(36)       if (&User-Name) {
+(36)       if (&User-Name)  -> TRUE
+(36)       if (&User-Name)  {
+(36)         if (&User-Name =~ / /) {
+(36)         if (&User-Name =~ / /)  -> FALSE
+(36)         if (&User-Name =~ /@[^@]*@/ ) {
+(36)         if (&User-Name =~ /@[^@]*@/ )  -> FALSE
+(36)         if (&User-Name =~ /\.\./ ) {
+(36)         if (&User-Name =~ /\.\./ )  -> FALSE
+(36)         if ((&User-Name =~ /@/) && (&User-Name !~ /@(.+)\.(.+)$/))  {
+(36)         if ((&User-Name =~ /@/) && (&User-Name !~ /@(.+)\.(.+)$/))   -> FALSE
+(36)         if (&User-Name =~ /\.$/)  {
+(36)         if (&User-Name =~ /\.$/)   -> FALSE
+(36)         if (&User-Name =~ /@\./)  {
+(36)         if (&User-Name =~ /@\./)   -> FALSE
+(36)       } # if (&User-Name)  = notfound
+(36)     } # policy filter_username = notfound
+(36)     [preprocess] = ok
+(36)     [chap] = noop
+(36)     [mschap] = noop
+(36)     [digest] = noop
+(36) suffix: Checking for suffix after "@"
+(36) suffix: No '@' in User-Name = "testuser", looking up realm NULL
+(36) suffix: No such realm "NULL"
+(36)     [suffix] = noop
+(36) eap: Peer sent EAP Response (code 2) ID 9 length 46
+(36) eap: Continuing tunnel setup
+(36)     [eap] = ok
+(36)   } # authorize = ok
+(36) Found Auth-Type = eap
+(36) # Executing group from file /etc/freeradius/3.0/sites-enabled/default
+(36)   authenticate {
+(36) eap: Expiring EAP session with state 0x128abca31583a573
+(36) eap: Finished EAP session with state 0x128abca31583a573
+(36) eap: Previous EAP request found for state 0x128abca31583a573, released from the list
+(36) eap: Peer sent packet with method EAP PEAP (25)
+(36) eap: Calling submodule eap_peap to process data
+(36) eap_peap: Continuing EAP-TLS
+(36) eap_peap: [eaptls verify] = ok
+(36) eap_peap: Done initial handshake
+(36) eap_peap: [eaptls process] = ok
+(36) eap_peap: Session established.  Decoding tunneled attributes
+(36) eap_peap: PEAP state send tlv success
+(36) eap_peap: Received EAP-TLV response
+(36) eap_peap: Success
+(36) eap: Sending EAP Success (code 3) ID 9 length 4
+(36) eap: Freeing handler
+(36)     [eap] = ok
+(36)   } # authenticate = ok
+(36) # Executing section post-auth from file /etc/freeradius/3.0/sites-enabled/default
+(36)   post-auth {
+(36)     update {
+(36)       No attributes updated
+(36)     } # update = noop
+(36)     [exec] = noop
+(36)     policy remove_reply_message_if_eap {
+(36)       if (&reply:EAP-Message && &reply:Reply-Message) {
+(36)       if (&reply:EAP-Message && &reply:Reply-Message)  -> FALSE
+(36)       else {
+(36)         [noop] = noop
+(36)       } # else = noop
+(36)     } # policy remove_reply_message_if_eap = noop
+(36)   } # post-auth = noop
+(36) Login OK: [testuser/<via Auth-Type = eap>] (from client ANGORADUT port 3 cli D0-37-45-39-8E-31)
+(36) Sent Access-Accept Id 145 from 192.168.100.200:1812 to 192.168.100.199:49205 length 0
+(36)   MS-MPPE-Recv-Key = 0xc36550ed2f7fd55af06fefe84cb6bed29e1844d09b44594b17195ca1aeeb9aea
+(36)   MS-MPPE-Send-Key = 0x5c690f6489b853a2e2db1d3c5299e708f4067fd7d5ff5d95dcd7f27a5d590087
+(36)   EAP-Message = 0x03090004
+(36)   Message-Authenticator = 0x00000000000000000000000000000000
+(36)   User-Name = "testuser"
+(36) Finished request
+Waking up in 4.8 seconds.
+(37) Received Accounting-Request Id 146 from 192.168.100.199:49205 to 192.168.100.200:1813 length 108
+(37)   User-Name = "testuser"
+(37)   NAS-IP-Address = 192.168.100.199
+(37)   NAS-Port = 3
+(37)   Called-Station-Id = "70-B3-D5-82-20-04"
+(37)   Calling-Station-Id = "D0-37-45-39-8E-31"
+(37)   Acct-Status-Type = Start
+(37)   Acct-Session-Id = "05000020"
+(37)   Acct-Authentic = RADIUS
+(37)   NAS-Port-Type = Ethernet
+(37) # Executing section preacct from file /etc/freeradius/3.0/sites-enabled/default
+(37)   preacct {
+(37)     [preprocess] = ok
+(37)     policy acct_unique {
+(37)       update request {
+(37)         &Tmp-String-9 := "ai:"
+(37)       } # update request = noop
+(37)       if (("%{hex:&Class}" =~ /^%{hex:&Tmp-String-9}/) && 	    ("%{string:&Class}" =~ /^ai:([0-9a-f]{32})/i)) {
+(37)       EXPAND %{hex:&Class}
+(37)          --> 
+(37)       EXPAND ^%{hex:&Tmp-String-9}
+(37)          --> ^61693a
+(37)       if (("%{hex:&Class}" =~ /^%{hex:&Tmp-String-9}/) && 	    ("%{string:&Class}" =~ /^ai:([0-9a-f]{32})/i))  -> FALSE
+(37)       else {
+(37)         update request {
+(37)           EXPAND %{md5:%{User-Name},%{Acct-Session-ID},%{%{NAS-IPv6-Address}:-%{NAS-IP-Address}},%{NAS-Identifier},%{NAS-Port-ID},%{NAS-Port}}
+(37)              --> af9bc9b0c4e256427e0957fe2c098bf0
+(37)           &Acct-Unique-Session-Id := af9bc9b0c4e256427e0957fe2c098bf0
+(37)         } # update request = noop
+(37)       } # else = noop
+(37)     } # policy acct_unique = noop
+(37) suffix: Checking for suffix after "@"
+(37) suffix: No '@' in User-Name = "testuser", looking up realm NULL
+(37) suffix: No such realm "NULL"
+(37)     [suffix] = noop
+(37)     [files] = noop
+(37)   } # preacct = ok
+(37) # Executing section accounting from file /etc/freeradius/3.0/sites-enabled/default
+(37)   accounting {
+(37) detail: EXPAND /var/log/freeradius/radacct/%{%{Packet-Src-IP-Address}:-%{Packet-Src-IPv6-Address}}/detail-%Y%m%d
+(37) detail:    --> /var/log/freeradius/radacct/192.168.100.199/detail-20200116
+(37) detail: /var/log/freeradius/radacct/%{%{Packet-Src-IP-Address}:-%{Packet-Src-IPv6-Address}}/detail-%Y%m%d expands to /var/log/freeradius/radacct/192.168.100.199/detail-20200116
+(37) detail: EXPAND %t
+(37) detail:    --> Thu Jan 16 02:47:01 2020
+(37)     [detail] = ok
+(37)     [unix] = ok
+(37)     [exec] = noop
+(37) attr_filter.accounting_response: EXPAND %{User-Name}
+(37) attr_filter.accounting_response:    --> testuser
+(37) attr_filter.accounting_response: Matched entry DEFAULT at line 12
+(37)     [attr_filter.accounting_response] = updated
+(37)   } # accounting = updated
+(37) Sent Accounting-Response Id 146 from 192.168.100.200:1813 to 192.168.100.199:49205 length 0
+(37) Finished request
+(37) Cleaning up request packet ID 146 with timestamp +5985
+

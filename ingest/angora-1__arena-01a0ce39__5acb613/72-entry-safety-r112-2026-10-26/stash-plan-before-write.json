@@ -1,0 +1,8 @@
+{
+  "purpose": "Protect the exact 868 initially untracked paths before the current-branch fast-forward",
+  "pathspec_source": "ingest/angora-1__arena-01a0ce39__5acb613/72-entry-safety-r112-2026-10-26/incoming-scope-before-read.csv",
+  "expected_paths": 868,
+  "expected_bytes": 46015150,
+  "target_remote_commit": "cb79348b29e706a0416a3ad97ffc6b1b0a94da73",
+  "guardrails": ["Use only explicitly listed NUL-delimited paths", "Include untracked content but exclude new r112 safety files", "Verify stash third-parent tree blob and mode per path", "Do not pop stash or treat it as a remote backup", "No reset, clean, branch switch, or unbounded staging"]
+}

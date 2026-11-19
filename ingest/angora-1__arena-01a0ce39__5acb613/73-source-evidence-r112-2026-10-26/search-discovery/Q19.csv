@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q19,1,1,Multicast,https://support.angoranetworks.com/?ht_kb=multicast-mld-snooping,"Saturday, September 28, 2019",unrelated command reference for this fix question; not opened
+Q19,2,2,DHCP and DNS,https://support.angoranetworks.com/?ht_kb=dhcp-and-dns-dhcp-snooping,"Saturday, September 28, 2019",unrelated command reference for this fix question; not opened
+Q19,3,3,Apache2 Ubuntu Default Page: It works,https://support.angoranetworks.com/,,search metadata only; no inference of current web server
+Q19,4,4,Multicast,https://support.angoranetworks.com/?ht_kb=multicast-mld,,unrelated command reference for this fix question; not opened
+Q19,5,5,Verge CLI guides are published,https://support.angoranetworks.com/?p=330,"Sunday, September 29, 2019",generic publication announcement; not opened and not proof of fix

@@ -1,0 +1,3 @@
+request_id,gh_api_endpoint,planned_success_path,planned_error_path,purpose,guardrail
+G01,repos/anwHub/3rdPartyConfigs,github-api/G01-repository.json,github-api/G01.error.txt,inspect metadata for the public repo linked by AR01,no clone or branch change; GitHub metadata not proof of ownership or live product integration
+G02,repos/anwHub/3rdPartyConfigs/contents/freeRadiusConfigs?ref=master,github-api/G02-freeradius-directory.json,github-api/G02.error.txt,enumerate the exact sample config folder linked by AR01,preserve full directory listing before choosing or reading individual files; no login to Angora or executing configs; no contact

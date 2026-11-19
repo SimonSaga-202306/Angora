@@ -1,0 +1,206 @@
+[
+  {
+    "source_id": "F01",
+    "total_lines": 2,
+    "active_noncomment_lines": 2,
+    "recognized_token_counts": {},
+    "safe_nonsecret_assignments": [],
+    "note": "counts can include examples/comments; active only means nonblank and not line-comment; does not prove runtime behavior"
+  },
+  {
+    "source_id": "F02",
+    "total_lines": 282,
+    "active_noncomment_lines": 28,
+    "recognized_token_counts": {},
+    "safe_nonsecret_assignments": [],
+    "note": "counts can include examples/comments; active only means nonblank and not line-comment; does not prove runtime behavior"
+  },
+  {
+    "source_id": "F03",
+    "total_lines": 927,
+    "active_noncomment_lines": 58,
+    "recognized_token_counts": {
+      "Access-Accept": {
+        "count": 6,
+        "first_lines": [
+          51,
+          383,
+          385,
+          392,
+          657,
+          785
+        ]
+      },
+      "Access-Challenge": {
+        "count": 1,
+        "first_lines": [
+          716
+        ]
+      },
+      "PEAP": {
+        "count": 13,
+        "first_lines": [
+          3,
+          27,
+          114,
+          148,
+          162,
+          707,
+          747,
+          750
+        ]
+      },
+      "MSCHAPv2": {
+        "count": 3,
+        "first_lines": [
+          769,
+          792,
+          850
+        ]
+      },
+      "EAP-TLS": {
+        "count": 11,
+        "first_lines": [
+          162,
+          171,
+          583,
+          594,
+          599,
+          613,
+          690,
+          695
+        ]
+      }
+    },
+    "safe_nonsecret_assignments": [
+      {
+        "line": 27,
+        "key": "default_eap_type",
+        "value": "peap"
+      },
+      {
+        "line": 630,
+        "key": "default_eap_type",
+        "value": "md5"
+      },
+      {
+        "line": 669,
+        "key": "use_tunneled_reply",
+        "value": "no"
+      },
+      {
+        "line": 769,
+        "key": "default_eap_type",
+        "value": "mschapv2"
+      },
+      {
+        "line": 787,
+        "key": "use_tunneled_reply",
+        "value": "no"
+      }
+    ],
+    "note": "counts can include examples/comments; active only means nonblank and not line-comment; does not prove runtime behavior"
+  },
+  {
+    "source_id": "F04",
+    "total_lines": 315,
+    "active_noncomment_lines": 314,
+    "recognized_token_counts": {
+      "Access-Accept": {
+        "count": 1,
+        "first_lines": [
+          252
+        ]
+      },
+      "Access-Challenge": {
+        "count": 1,
+        "first_lines": [
+          167
+        ]
+      },
+      "PEAP": {
+        "count": 45,
+        "first_lines": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58
+        ]
+      },
+      "MSCHAPv2": {
+        "count": 3,
+        "first_lines": [
+          59,
+          121,
+          122
+        ]
+      },
+      "EAP-TLS": {
+        "count": 2,
+        "first_lines": [
+          53,
+          225
+        ]
+      }
+    },
+    "safe_nonsecret_assignments": [],
+    "note": "counts can include examples/comments; active only means nonblank and not line-comment; does not prove runtime behavior"
+  },
+  {
+    "source_id": "F05",
+    "total_lines": 200,
+    "active_noncomment_lines": 19,
+    "recognized_token_counts": {},
+    "safe_nonsecret_assignments": [
+      {
+        "line": 20,
+        "key": "use_mppe",
+        "value": "yes"
+      },
+      {
+        "line": 25,
+        "key": "require_encryption",
+        "value": "yes"
+      },
+      {
+        "line": 30,
+        "key": "require_strong",
+        "value": "yes"
+      }
+    ],
+    "note": "counts can include examples/comments; active only means nonblank and not line-comment; does not prove runtime behavior"
+  },
+  {
+    "source_id": "F06",
+    "total_lines": 794,
+    "active_noncomment_lines": 79,
+    "recognized_token_counts": {
+      "Access-Accept": {
+        "count": 1,
+        "first_lines": [
+          449
+        ]
+      },
+      "Access-Reject": {
+        "count": 1,
+        "first_lines": [
+          427
+        ]
+      }
+    },
+    "safe_nonsecret_assignments": [],
+    "note": "counts can include examples/comments; active only means nonblank and not line-comment; does not prove runtime behavior"
+  },
+  {
+    "source_id": "F07",
+    "total_lines": 220,
+    "active_noncomment_lines": 9,
+    "recognized_token_counts": {},
+    "safe_nonsecret_assignments": [],
+    "note": "counts can include examples/comments; active only means nonblank and not line-comment; does not prove runtime behavior"
+  }
+]

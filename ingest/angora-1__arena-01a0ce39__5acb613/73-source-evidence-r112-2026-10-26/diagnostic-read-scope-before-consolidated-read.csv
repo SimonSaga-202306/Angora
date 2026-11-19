@@ -1,0 +1,10 @@
+source_id,repository_relative_path,bytes_before_read,disposition
+X01,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/fetch-failures/X01.visible.md,1288,failure record only; not source
+X02,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/fetch-failures/X02.visible.md,1438,failure record only; not source
+X03,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/fetch-failures/X03.visible.md,1186,failure record only; not source
+X04,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/fetch-failures/X04.visible.md,1186,failure record only; not source
+X05,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/fetch-failures/X05.visible.md,1187,failure record only; not source
+X01,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/quarantine/X01/chunk-0.visible.md,7958,quarantined partial tool block; no substantive analysis
+X02,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/external-chunks/X02/chunk-0.visible.md,8694,quarantined partial tool block; no substantive analysis
+X02,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/external-chunks/X02/chunk-1.visible.md,8779,quarantined partial tool block; no substantive analysis
+X02,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/external-chunks/X02/chunk-2.visible.md,8055,quarantined partial tool block; no substantive analysis

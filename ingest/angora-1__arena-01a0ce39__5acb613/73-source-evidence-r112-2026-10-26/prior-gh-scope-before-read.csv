@@ -1,0 +1,3 @@
+source_id,repository_relative_path,bytes_before_read,purpose,guardrail
+H01,ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/github-discovery-plan-before-search.csv,611,verify the exact prior GH03 query,metadata only; do not infer absence from zero hits
+H02,ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/github-api-GH03.json,56,verify prior search result bytes independently from catalog,metadata only; GitHub search indexing and later state may differ

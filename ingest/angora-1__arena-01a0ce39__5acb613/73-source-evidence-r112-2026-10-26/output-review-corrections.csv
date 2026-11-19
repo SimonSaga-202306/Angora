@@ -1,0 +1,5 @@
+artifact,issue,correction,re_read
+main report and appendix mapping followup,"不复制 could be misread as not storing the byte-identical public source files","clarified that original public bytes are retained while sample values are not extracted into report or used",complete changed files reread
+main report README audit scope note,README public old preview link appeared in tool output,disclosed prior display and that link was not visited; did not repeat token,complete changed files reread
+main report,phrase 活动分支 was ambiguous,clarified the repository branch at the time of the 2022 archive capture,complete changed file reread
+source-catalog.csv F01-F07,old limitation could imply all sample credential values are certainly inactive,clarified production applicability and validity are unknown and no execution occurred,complete changed file reread

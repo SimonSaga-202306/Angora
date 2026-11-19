@@ -1,0 +1,2 @@
+source_id,chunk_index,issue,correction,limitation
+X02,2,manual copy capitalized the word for in an unrelated recommendation title,restored lowercase for from the displayed tool response before final reread,entire chunk is quarantined and not automatically compared with source response; local line was read before consolidated reread scope

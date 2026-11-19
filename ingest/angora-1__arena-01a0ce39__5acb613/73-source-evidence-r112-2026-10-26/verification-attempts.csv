@@ -1,0 +1,5 @@
+attempt,command,result,scope_or_limit
+T01,python3 -m unittest discover -s tools -p test_verify_r11*.py -v,PASS 14 tests,"seven reused r111 helpers plus seven r112 Git blob, directory, drift and CDX fixture tests; no real device or end-to-end tampering"
+V01,python3 tools/verify_r112.py --write-summary,PASS before manifest,"58 paths and 355715 bytes; 43 anchors; 7 Git blobs; 22 queries; 868 local stash entries; 32 protected copies; 122 links; manifest not yet created"
+T02,python3 -m unittest discover -s tools -p test_verify_r11*.py -v,PASS 14 tests,repeated after output review edits; temporary fixtures only
+V02,python3 tools/verify_r112.py --write-summary,PASS before manifest,"after disclosure and review links; 126 relative links; manifest not yet created"

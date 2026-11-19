@@ -1,0 +1,11 @@
+{
+  "before_head": "691123abc7462489146cece19b81b4f917b58646",
+  "fetched_head": "cb79348b29e706a0416a3ad97ffc6b1b0a94da73",
+  "after_head": "cb79348b29e706a0416a3ad97ffc6b1b0a94da73",
+  "returncode": 0,
+  "stdout_summary": "fast-forward completed; full path listing suppressed to avoid displaying stopped-item metadata",
+  "stderr": "",
+  "environment_observation_utc": "2026-11-19T14:24:48.946495+00:00",
+  "monotonic_seconds": 123.42300689,
+  "guardrail": "fast-forward only; no reset clean branch switch or stash pop"
+}

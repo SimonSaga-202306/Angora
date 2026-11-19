@@ -1,0 +1,11 @@
+{
+  "file_count": 868,
+  "bytes_read": 46015150,
+  "comparison_counts": {
+    "different_but_equal_to_prior_protection": 32,
+    "same_as_remote": 836
+  },
+  "new_protected_variants": [],
+  "base_ref": "FETCH_HEAD",
+  "note": "full bytes read for safety hashing only; no stopped or PASS material displayed or interpreted; no stash yet"
+}

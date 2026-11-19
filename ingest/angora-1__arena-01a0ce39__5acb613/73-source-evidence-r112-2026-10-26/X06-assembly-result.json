@@ -1,0 +1,13 @@
+{
+  "source_id": "X06",
+  "requested_url": "https://www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/",
+  "returned_url": "https://www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/",
+  "tool_chunks_returned": 2,
+  "final_has_more": false,
+  "local_combined_path": "ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/external-visible/www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/index.visible.md",
+  "bytes": 16203,
+  "sha256": "90f68f54338ab034ceb15813e3a3a8908c11150e0412c448dad6543a4fa5765a",
+  "boundary_check": "chunk0 ends oluşturabilmeni; chunk1 begins zi ve",
+  "guardrail": "no exact stopped token found; limited automated match, not a guarantee",
+  "limitation": "locally assembled from manually transcribed visible markdown; no automatic comparison with tool output; no images or raw HTML; web page itself is generic and vendor-authored"
+}

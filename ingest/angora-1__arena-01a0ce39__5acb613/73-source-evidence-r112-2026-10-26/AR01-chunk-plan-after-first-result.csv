@@ -1,0 +1,3 @@
+replay_id,chunk_index,planned_chunk_path,planned_combined_path,ordering_note
+AR01,0,archive-chunks/AR01/chunk-0.visible.md,archive-replay/support.angoranetworks.com/ht_kb/802-1x-port-based-authentication-using-freeradius/20220118064213/index.visible.md,original and replay URL prelisted; chunk plan created after first tool result exposed count 2
+AR01,1,archive-chunks/AR01/chunk-1.visible.md,archive-replay/support.angoranetworks.com/ht_kb/802-1x-port-based-authentication-using-freeradius/20220118064213/index.visible.md,fetch full remaining block; verify article identity and boundary before use

@@ -1,0 +1,4 @@
+source_id,chunk_index,planned_chunk_path,planned_combined_path,ordering_note
+X02,0,external-chunks/X02/chunk-0.visible.md,external-visible/www.youtube.com/watch/C43VQBJtdrk/index.visible.md,source URL was planned before fetch; chunk list created after tool returned first chunk and total 3
+X02,1,external-chunks/X02/chunk-1.visible.md,external-visible/www.youtube.com/watch/C43VQBJtdrk/index.visible.md,fetch next only if title identity and continuity remain plausible
+X02,2,external-chunks/X02/chunk-2.visible.md,external-visible/www.youtube.com/watch/C43VQBJtdrk/index.visible.md,fetch final and validate title identity and continuity; no audio verification

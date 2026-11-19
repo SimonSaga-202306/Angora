@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q08,1,1,Broşürler - Angora Networks,https://www.angoranetworks.com/brosurler/,"Tuesday, October 04, 2022",brochure index not opened; no PDF downloaded
+Q08,2,2,Özgün Tasarım (OEM/ODM) Hizmeti - Angora Networks,https://www.angoranetworks.com/ozgun-tasarim-oem-odm-hizmeti/,"Saturday, December 03, 2022",already covered r106; not re-fetched
+Q08,3,3,Network Switch Ailesi - Angora Networks,https://www.angoranetworks.com/network-devices/,"Wednesday, June 11, 2025",saved previously; not independent new source
+Q08,4,4,"Görünürlük, Güvenlik, Maliyet: Packet Broker - Angora Networks",https://www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/,"Monday, June 15, 2026",candidate distinct vendor article; verify identity and full page before claims; search age not publish date
+Q08,5,5,Quick Start Guide,https://support.angoranetworks.com/?ht_kb=quick-start-guide,,candidate historic support article; full source and version needed; no device commands or login

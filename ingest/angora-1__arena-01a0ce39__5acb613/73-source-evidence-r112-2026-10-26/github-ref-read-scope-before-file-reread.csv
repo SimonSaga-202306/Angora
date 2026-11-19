@@ -1,0 +1,2 @@
+request_id,repository_relative_path,bytes_before_reread,ordering_caveat
+G03,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/github-api/G03-linked-ref.json,355,API response was parsed for JSON validity before this local reread scope; request endpoint was prelisted

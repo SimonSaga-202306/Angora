@@ -1,0 +1,13 @@
+{
+  "safety_metadata_files": 3,
+  "safety_metadata_bytes": 621041,
+  "initial_paths": 868,
+  "initial_bytes": 46015150,
+  "same_as_r111": 836,
+  "different_equal_r109_protected": 32,
+  "local_stash_tree_paths_verified": 868,
+  "all_git_blob_and_mode_match": true,
+  "protected_copy_files_prelisted": 32,
+  "protected_copy_bytes_prelisted": 17473261,
+  "limitation": "stash is local only and cannot be assumed in another clone; protected content is not interpreted"
+}

@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q01,1,1,"Yerli Akıl, Küresel Teknoloji / Angora Networks Genel Müdürü Levent KILIÇ - YouTube",https://www.youtube.com/watch?v=z0loF632E2s,"Wednesday, May 24, 2023",candidate full interview behind prior P01 summary; search metadata only; separately plan full fetch
+Q01,2,2,ANGORA,https://ennisfabrics.com/products/angora,"Saturday, May 27, 2023",unrelated fabric; not opened
+Q01,3,3,ANGORA,https://vision-fabrics.com/products/angora,,unrelated fabric; not opened
+Q01,4,4,Wolf-Gordon - ANA 6321 - Ansonia - ANGORA,https://www.wolfgordon.com/products/upholstery/ansonia-ana-6321,,unrelated upholstery; no PDF opened
+Q01,5,5,ACOVA ANGORA XS MANUAL Pdf Download,https://www.manualslib.com/manual/2219843/Acova-Angora-Xs.html,"Thursday, November 25, 2021",unrelated heater; no PDF opened

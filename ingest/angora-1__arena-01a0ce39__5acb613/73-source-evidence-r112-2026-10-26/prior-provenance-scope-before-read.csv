@@ -1,0 +1,4 @@
+source_id,repository_relative_path,bytes_before_read,purpose,guardrail
+M01,ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/README.md,7041,verify whether prior selected paths were saved as HTML-visible or quarantined PDF,metadata and overview only; no isolated PDF read or link visit
+M02,ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/web-visible-inventory.csv,6383,verify source origin and quarantine status of P01/P02,metadata and overview only; no isolated PDF read or link visit
+M03,ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/issues-and-corrections.csv,2931,check known URL alias and product-page interpretation issues,metadata and overview only; no isolated PDF read or link visit

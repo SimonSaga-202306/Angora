@@ -1,0 +1,3 @@
+source_id,repository_relative_path,bytes_read,sha256,read_method
+H01,ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/github-discovery-plan-before-search.csv,611,5632a8c2b3f0610d08a1845bb3a502f76a159075f0d9e01374f5fc998a7afb92,complete UTF-8 prior API plan or response displayed and hashed
+H02,ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/github-api-GH03.json,56,3e14c51c1e62e3130eaeb10b2b0cbc946c902f6ff2e0587bfc67c256522530d5,complete UTF-8 prior API plan or response displayed and hashed

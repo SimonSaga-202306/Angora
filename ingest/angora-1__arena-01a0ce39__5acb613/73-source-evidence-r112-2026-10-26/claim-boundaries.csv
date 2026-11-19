@@ -1,0 +1,19 @@
+boundary_id,claim,anchors,do_not_infer
+B01,历史802.1X适用范围,NET-SCOPE;NET-EAP-CLAIM,2022回放中的厂商说明写 Verge 5.0及以上与若干认证类型；非当前全型号矩阵或独立兼容性测试
+B02,样例的认证路径,NET-PEAP;NET-DIRECTORY;NET-SERVERS;NET-REAUTH,示例为PEAP、本地用户及单服务器，目录集成超出范围；多服务器及显示状态不可视为该示例的默认部署
+B03,与TACACS的版本范围,NET-SCOPE;OLD-TACACS-V,802.1X终端接入与TACACS设备管理用途不同；5.0及以上和英文大于4.0不是相互矛盾或统一下界
+B04,公开样例与来源归属,NET-REPO;CFG-README;CFG-REF;CFG-COMMIT-DATE,档案页面链接GitHub公开例子；当前引用固定提交的七个blob分别匹配；不证明2022时master指向、法人关系或生产部署
+B05,EAP配置字段,CFG-OUTER;CFG-PEAP-BLOCK;CFG-INNER;CFG-TUNNEL,仓库样例外层PEAP和PEAP段内MSCHAPv2等字段，不证明当前默认值、产品兼容或生产安全配置
+B06,MSCHAP加密设置,CFG-MPPE;CFG-ENC;CFG-STRONG,仅记录公共示例的配置文本；不证明现场已启用或可抵抗特定攻击
+B07,示例成功日志,CFG-ACCEPT,一个仓库文本含Access-Accept；不是本轮实测、独立实验、真实客户验收或安全认证
+B08,r110 GitHub零命中,OLD-GH03-QUERY;OLD-GH03-ZERO;CFG-URL,r110 GH03保存零结果，本轮从文档直接发现含该域名的README；不倒推旧查询一定出错或说明索引机制
+B09,历史SSH问题,SSH-SYM;SSH-VERS;SSH-STATUS;SSH-PLAN,2021快照记载5.5.1.x和5.5.3.x问题及计划版本；不证明影响全部硬件、现存问题、修复已发布或漏洞
+B10,历史SCP问题,SCP-SYM;SCP-VERS;SCP-STATUS;SCP-PLAN,2021快照自述特定SCP文件传输触发错误重启并待解决；无设备验证、当前状态与部署影响
+B11,历史指示灯问题,LED-SYM;LED-VERS;LED-STATUS;LED-PLAN,页面写5.5.1.13及之前、状态已解决且字段名为计划修复版本；不验证版本已发布或故障为供电硬件问题
+B12,计划修复与升级示例,SSH-PLAN;SCP-PLAN;OLD-UP-SAMPLE,修复版本是2021计划；2025存档示例文件名不是现场安装或版本推荐，不能据此证明漏洞存在或已修复
+B13,替代传输方式,SSH-SYM;SCP-SYM,厂商历史建议只作原文记录；本轮不建议现场切换协议、不操作设备，传输安全与变更条件未评估
+B14,Packet Broker概念与性能,PB-DESCRIPTION;PB-EXAMPLE;PB-FILTER;PB-INLINE;PB-ROI,厂商文章描述一般架构、流量情境和ROI；不推广为某SKU实测吞吐、零丢包或量化投资回报
+B15,训练活动索引,INDEX-JUL;INDEX-JAN,动态索引展示两个活动摘要，不证明全历史、实到人数、考试或演示已发生
+B16,视频与站点失败,,X01和X02不完整或分块漂移整体隔离；X03–X05是522；不能把失败当永久不可用或部分字幕当全文
+B17,旧网页读取范围,,P01混有停项相邻端口字段及数据表链接已排除；P02并非独立测试；没有访问PDF或追问停项
+B18,时间和重复,,会话给定日期与环境钟冲突未校准；相同公司文档、仓库、索引及重复分块不算独立证人

@@ -1,0 +1,3 @@
+request_id,gh_api_endpoint,planned_success_path,planned_error_path,purpose,guardrail
+G04,repos/anwHub/3rdPartyConfigs/contents/freeRadiusConfigs?ref=7876ce42bafac38ada3c5ccca7df861ed33b63e9,github-api/G04-pinned-directory.json,github-api/G04.error.txt,verify directory blob IDs against the immutable commit ref observed in G03,no local branch switch; public example repository is not independent device test
+G05,repos/anwHub/3rdPartyConfigs/git/commits/7876ce42bafac38ada3c5ccca7df861ed33b63e9,github-api/G05-pinned-commit.json,github-api/G05.error.txt,inspect public Git commit metadata for timing context,commit date not proof of archived snapshot contents or product deployment; no contact

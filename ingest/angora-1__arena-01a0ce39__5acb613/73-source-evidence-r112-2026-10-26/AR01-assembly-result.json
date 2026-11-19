@@ -1,0 +1,12 @@
+{
+  "replay_id": "AR01",
+  "capture_timestamp": "20220118064213",
+  "tool_chunks_returned": 2,
+  "final_has_more": false,
+  "page_path": "ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/802-1x-port-based-authentication-using-freeradius/20220118064213/index.visible.md",
+  "bytes": 9637,
+  "sha256": "fcbe7b2fcc75095d3bfd82245ce46552b97955ef1a65e6c60b3885544334d134",
+  "identity_check": "target article title and vendor document description present; CDN 200 alone not sufficient",
+  "boundary_check": "chunk0 ends authentication- and chunk1 begins using-freeradius#)",
+  "limitations": "manual transcription of visible Markdown; no automated comparison with tool output or original HTML; guide example not device test"
+}

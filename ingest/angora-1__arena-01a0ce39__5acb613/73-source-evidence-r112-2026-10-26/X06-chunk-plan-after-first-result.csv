@@ -1,0 +1,3 @@
+source_id,chunk_index,planned_chunk_path,planned_combined_path,ordering_note
+X06,0,external-chunks/X06/chunk-0.visible.md,external-visible/www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/index.visible.md,URL and page path prelisted; chunk count known only after chunk 0 returned
+X06,1,external-chunks/X06/chunk-1.visible.md,external-visible/www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/index.visible.md,request next; verify continuity and stop-list before use

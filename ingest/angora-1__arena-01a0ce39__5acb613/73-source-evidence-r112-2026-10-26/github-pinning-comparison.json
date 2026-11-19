@@ -1,0 +1,10 @@
+{
+  "raw_api_files_read": 5,
+  "raw_api_bytes": 22444,
+  "directory_entries": 7,
+  "current_ref_commit": "7876ce42bafac38ada3c5ccca7df861ed33b63e9",
+  "commit_author_date": "2020-01-16T11:10:49Z",
+  "commit_committer_date": "2020-01-16T11:10:49Z",
+  "directory_current_vs_pinned_identical_by_path_size_blob": true,
+  "limitation": "commit timestamp and current ref are API fields; branch position at 2022 archive time not independently verified; example config is not deployment proof"
+}

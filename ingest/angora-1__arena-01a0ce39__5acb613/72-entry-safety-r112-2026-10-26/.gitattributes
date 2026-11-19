@@ -1,0 +1,2 @@
+# Preserve r112 safety bytes without line conversion.
+* -text

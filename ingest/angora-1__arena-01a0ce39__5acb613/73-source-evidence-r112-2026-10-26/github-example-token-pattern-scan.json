@@ -1,0 +1,33 @@
+{
+  "scope": "seven public sample blobs only; narrow patterns; not proof no sensitive values",
+  "results": [
+    {
+      "source_id": "F01",
+      "high_risk_token_pattern_hits": []
+    },
+    {
+      "source_id": "F02",
+      "high_risk_token_pattern_hits": []
+    },
+    {
+      "source_id": "F03",
+      "high_risk_token_pattern_hits": []
+    },
+    {
+      "source_id": "F04",
+      "high_risk_token_pattern_hits": []
+    },
+    {
+      "source_id": "F05",
+      "high_risk_token_pattern_hits": []
+    },
+    {
+      "source_id": "F06",
+      "high_risk_token_pattern_hits": []
+    },
+    {
+      "source_id": "F07",
+      "high_risk_token_pattern_hits": []
+    }
+  ]
+}
