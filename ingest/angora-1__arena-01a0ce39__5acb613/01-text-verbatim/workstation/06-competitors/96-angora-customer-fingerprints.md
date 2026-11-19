@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：§六把 Hakan Öztuna 认作 Angora 董事长/资方的内容**撤回、主体未确认**：原公报 OCR 多栏交错，疑为 Bursa ITECH 邻栏。董事职位和股份是不同概念；见 r95。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # Angora Networks 客户指纹档案（2026-10-06，第 13 轮）
 
 > 任务来源：用户第 13 轮指令「挖一下他们的客户…型号/产品指纹、社媒、图片反搜等等渠道，只看结果」。

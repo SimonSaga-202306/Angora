@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：Hakan 为 Angora 董事长、Ewind 为最大供应商及 HITIT 全系由其代工均**撤回或降级**：前者疑属邻栏公司，后两者无逐票型号或排名证据；本记录保留历史原文。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # 土耳其锚点战略备忘录：Marvell/Prestera 对标 Mikrotik 路线（2026-10-06，第 13 轮）
 
 > 任务来源：用户第 13 轮指令③「我之前是考虑以 Angora 这个公司为土耳其市场的锚点，但他们下单确实少且慢，还有必要继续把希望放在他们身上吗？我还有其他的公司作为选择吗？要注意：我们走的是 Marvell 路线，Marvell Prestera 系列的芯片和产品规格，对标 Mikrotik。挖掘分析一下咋搞。」

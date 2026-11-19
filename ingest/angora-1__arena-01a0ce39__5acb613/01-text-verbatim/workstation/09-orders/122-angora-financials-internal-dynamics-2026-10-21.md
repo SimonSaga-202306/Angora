@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：Hakan 为 Angora 董事长/沉默资方及由此推断资本进入董事会的内容**撤回、主体未确认**，疑为 Bursa ITECH 邻栏。2025 Connexite 财报属于英国独立公司，不可替代 Angora 财报。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # 122 · Angora 财务状况 / 融资模式 / 内部结构深挖（用户第 29 轮三问）
 
 - 日期：2026-10-21（第 29 轮）

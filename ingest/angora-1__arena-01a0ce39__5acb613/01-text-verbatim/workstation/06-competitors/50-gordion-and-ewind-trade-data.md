@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：「21 票全部中国」及据此认定 Ewind 于某日之前向 Angora 供货不成立：贸易页面概览包含中国/以色列/德国，逐票供应商未解锁。Gordion 内容是既有历史研究，不能作为 r94 首次发现。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # Gordion 数据中心线 + Ewind 海关实测数据
 
 > 2026-09-23

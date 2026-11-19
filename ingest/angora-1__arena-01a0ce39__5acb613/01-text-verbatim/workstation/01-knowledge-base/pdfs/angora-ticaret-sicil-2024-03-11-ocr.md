@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：本页为多栏 OCR；下方对 Hakan Öztuna 及其与 Angora 关系的归属**撤回、主体未确认**，疑与 Bursa ITECH 邻栏串行；未取得原扫描图，须目视复核。Angora 的股东及资本不能从这页混排推定。保留全部历史摘要及 OCR 原文。 [详细证据与替代口径](../../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # ANGORA TICARET SICIL 11 MART 2024（土耳其贸易登记公报，OCR）
 
 > 来源：`ANGORA TICARET SICIL 11 MART 2024 .pdf`（扫描件，无文本层，经 RapidOCR 250dpi 识别）

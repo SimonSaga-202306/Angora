@@ -1,5 +1,7 @@
 # Angora-1 全量入库仓库
 
+> **r95 重要修正**：[Angora 公报、既有供应链与英国独立公司核验](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。我方早已与 Angora 有交易，不是第 16 家新供应商；2024 登记 OCR 已在库但跨栏，Hakan 属 Angora 的董事长/资方结论撤回、主体待确认；英国 Connexite 的股权与账目**不能当 Angora 的**。渠道全貌、Ewind 具体型号、Gordion 现售和长距 SFP 均需再核。[Angora 独立档案](ingest/angora-1__arena-01a0ce39__5acb613/10-followup-angora-2026-10-26/angora-networks.md)；[逐源文本清单](ingest/angora-1__arena-01a0ce39__5acb613/09-source-evidence-r95-2026-10-26/README.md)。
+
 本仓库保存 **[SimonSaga-202306/Angora-1](https://github.com/SimonSaga-202306/Angora-1)**
 分支 `arena/01a0ce39-angora`（commit `5acb613`）的**全量读取入库结果**。
 

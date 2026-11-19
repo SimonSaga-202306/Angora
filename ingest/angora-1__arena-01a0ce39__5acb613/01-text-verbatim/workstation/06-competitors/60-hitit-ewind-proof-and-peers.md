@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：标题和 §一中「HITIT = Ewind 白牌已实证／Ewind 最大供应商」**撤回**：通用端口/功率相似和贸易索引不能证明具体型号 OEM 或供应商排名；16 口预算并不一致，4 口电源也不是交换机。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # 🔴 HITIT = Ewind 白牌（已实证）· 中国同行海关数据 · Advensis 核实
 
 > 2026-09-23

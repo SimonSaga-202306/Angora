@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：Hakan 为 Angora 董事长/任期及 HITIT 全系为 Ewind 代工的判断**撤回或降级**；2024 公报跨栏待复核、型号级交易原单未知。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # 🏢 Angora Networks 全史（2016 创立 → 2026 现状）· 多维度
 > 更新：2026-09-23　·　维度：沿革 / 口号 / 股权 / 业务范围 / 产品 / 供应商 / 客户 / 人员变化 / 进出口 / 营业额 / 资质
 > 来源：官网（TR/EN/RU）、LinkedIn、ZoomInfo、find.com.tr、ictmedia 土耳其 ICT 媒体、贸易登记公报 OCR、海关数据、仓库内 75 份商业单据与 1,102 条微信

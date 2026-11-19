@@ -55,6 +55,8 @@ AI 12B/Claude 未确认（建议人工介入）
 
 ## 附：r93 Angora 本体专项（一）—— 渠道只有 4 家、伙伴制度带报备与保价、Synapse 反向推翻「TTK 不可投」（2026-10-26）
 
+> **r95 修正**：以下是 Angora 的历史全局附录，不属于本客户 RadioTeknoloji；「渠道只有 4 家、地区无渠道、长距/高端缺口及 Synapse 三档 TTK 全过」等已撤回或重新划界。C 档不联系。请以 [Angora 独立档案](../../ingest/angora-1__arena-01a0ce39__5acb613/10-followup-angora-2026-10-26/angora-networks.md) 为准；以下原文仅保留追溯。
+
 > 本节为 **r93（2026-10-26）**：**按用户指令把主轴收窄到 Angora 本体。** 三个新结论：**① 渠道只有 4 家**（A Bilişim / Arelcon / Asır Digital / Fi Teknoloji，Ankara×2 + İstanbul×1 + Antalya×1；**东部/东南/黑海全空白**；4 家主业均非网络硬件 —— Asır 是 **HPE & Aruba Platinum**、Arelcon 是数据保护 ⇒ **不排他、重视度也低 ⇒「Angora 渠道庞大」作废**）；**② 但伙伴制度是 Tier-1 写法**：GOLD/SILVER/BRONZE 三档（**BRONZE 只要 2 人 + 1 销售**）+ **ARP 报备制度**（最小商机 **UD$10K** · **RFP 一发不得再报备** · **90 天续期** · 未报备方须为报备方保价 **BRONZE≥10%/SILVER≥7%/GOLD≥5%** · 未报备方中标报备方仍得 **2% 佣金**）⇒ **渠道不是压价型而是保护先手型**；**③ TTK 2026 三个分项（含 24×SFP 骨干）可被 Synapse 单品牌全覆盖** —— `ANW-5713-24S8T6X`（24S+8T+6×10G，128 Gbps/106 Mpps/−10~+60 ℃/MTBF>1M h）**推翻 r88「Angora 缺 24 口 SFP」，并把 r89 的「TTK 不可投」收窄为「Verge 不可投、Synapse 可投」**；真正的门槛移到 **30 天交期 / 2 年质保 / TSE 售后证 / 专项授权书** —— 恰是我方能补的。**另外两次修正**：**r92 的 YMB「A/B/C 三档」应为 A/B/C/D/E 五档**；**r91「原厂光模块条款」由 TTK `2.2.40`（OEM 品牌不接受）独立复现 ⇒ 上升为公共标通用条款。** **⭐ 价格锚（官方零售店，全店仅 5 SKU 无交换机）**：1G-SX 1,250 / 1G-LX 1,485 / 10G-SR 2,475 / **10G-LR 2,925 TL ≈ $58.5** ⇒ 反推渠道价 1G-LX $16–19、10G-LR $32–38，**我方仍有 3–4 倍空间**。**⭐ GM 2023 年已公开承认做 OEM**（「yeterli sayıda, büyüklükte projeler olduğu zaman OEM ürünlerde üretebiliyoruz」）⇒ **谈判轴改为「补它做不出的四段：40/70/80 km 光模块 · 25/40/100G 上行 · 全千兆工业宽温 PoE++ · 交期」**。**⚠ 新核验入口 `lonca.gov.tr`**（可按 firma adı 查 üretim konusu，商会文件承认其截图可替代 Sanayi Sicil）**但本轮 HTTP 500**。」
 
 #### r93 总览：**Angora 本体专项（一）—— 渠道只有 4 家、伙伴制度带报备与保价、Synapse 反向推翻「TTK 不可投」**

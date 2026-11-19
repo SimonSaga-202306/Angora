@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：Hakan 为 Angora 新董事长及其与股权变动的推断**撤回、主体未确认**：2024 公报 OCR 可能串入邻栏 Bursa ITECH；现有股东/资本仍未知。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # 121 · Angora 全量重头分析（统一时间线 + 27 轮信息整合 + 2.5 年关系全画像）
 
 - 日期：2026-10-21（第 28 轮）

@@ -939,6 +939,8 @@ def main():
             L.append('')
             L.append(R93_MARK)
             L.append('')
+            L.append('> **r95 修正**：以下是 Angora 的历史全局附录，不属于本客户 RadioTeknoloji；「渠道只有 4 家、地区无渠道、长距/高端缺口及 Synapse 三档 TTK 全过」等已撤回或重新划界。C 档不联系。请以 [Angora 独立档案](../../ingest/angora-1__arena-01a0ce39__5acb613/10-followup-angora-2026-10-26/angora-networks.md) 为准；以下原文仅保留追溯。')
+            L.append('')
             L.append('> 本节为 **r93（2026-10-26）**：**按用户指令把主轴收窄到 Angora 本体。** 三个新结论：**① 渠道只有 4 家**（A Bilişim / Arelcon / Asır Digital / Fi Teknoloji，Ankara×2 + İstanbul×1 + Antalya×1；**东部/东南/黑海全空白**；4 家主业均非网络硬件 —— Asır 是 **HPE & Aruba Platinum**、Arelcon 是数据保护 ⇒ **不排他、重视度也低 ⇒「Angora 渠道庞大」作废**）；**② 但伙伴制度是 Tier-1 写法**：GOLD/SILVER/BRONZE 三档（**BRONZE 只要 2 人 + 1 销售**）+ **ARP 报备制度**（最小商机 **UD$10K** · **RFP 一发不得再报备** · **90 天续期** · 未报备方须为报备方保价 **BRONZE≥10%/SILVER≥7%/GOLD≥5%** · 未报备方中标报备方仍得 **2% 佣金**）⇒ **渠道不是压价型而是保护先手型**；**③ TTK 2026 三个分项（含 24×SFP 骨干）可被 Synapse 单品牌全覆盖** —— `ANW-5713-24S8T6X`（24S+8T+6×10G，128 Gbps/106 Mpps/−10~+60 ℃/MTBF>1M h）**推翻 r88「Angora 缺 24 口 SFP」，并把 r89 的「TTK 不可投」收窄为「Verge 不可投、Synapse 可投」**；真正的门槛移到 **30 天交期 / 2 年质保 / TSE 售后证 / 专项授权书** —— 恰是我方能补的。**另外两次修正**：**r92 的 YMB「A/B/C 三档」应为 A/B/C/D/E 五档**；**r91「原厂光模块条款」由 TTK `2.2.40`（OEM 品牌不接受）独立复现 ⇒ 上升为公共标通用条款。** **⭐ 价格锚（官方零售店，全店仅 5 SKU 无交换机）**：1G-SX 1,250 / 1G-LX 1,485 / 10G-SR 2,475 / **10G-LR 2,925 TL ≈ $58.5** ⇒ 反推渠道价 1G-LX $16–19、10G-LR $32–38，**我方仍有 3–4 倍空间**。**⭐ GM 2023 年已公开承认做 OEM**（「yeterli sayıda, büyüklükte projeler olduğu zaman OEM ürünlerde üretebiliyoruz」）⇒ **谈判轴改为「补它做不出的四段：40/70/80 km 光模块 · 25/40/100G 上行 · 全千兆工业宽温 PoE++ · 交期」**。**⚠ 新核验入口 `lonca.gov.tr`**（可按 firma adı 查 üretim konusu，商会文件承认其截图可替代 Sanayi Sicil）**但本轮 HTTP 500**。」')
             L.append('')
             L.append(body_r93.strip('\n'))
@@ -948,6 +950,8 @@ def main():
             L.append('---')
             L.append('')
             L.append(R94_MARK)
+            L.append('')
+            L.append('> **r95 修正**：以下是 Angora 的历史全局附录，不属于本客户 TechnoPC；「我方第 16 家供应商、KOZ 日期、渠道总数、长距上限及 10 月 30 日未来报道」等已纠正。请以 [Angora 独立档案](../../ingest/angora-1__arena-01a0ce39__5acb613/10-followup-angora-2026-10-26/angora-networks.md) 为准；以下原文仅保留追溯。')
             L.append('')
             L.append('> 本节为 **r94（2026-10-26）**：**按用户要求把 Angora 成立以来的商业信息成体系入库。** 四个新结论：**① 十年编年补齐（12 节点）** —— **2016-11-28 注册（NACE 620902，IT 服务非制造）→ 2017 只做服务（咨询/维护/研发）→ 2018 首款 24 口交换机 → 2019 现货 COTS + 建渠道 → 2019-11-16 EGM KGYS 交通整形合格（工业 8 口 L2+）→ 2020 新一代产品 + 海外 → 2021 TGSK 会员 / Knowledge Club 培训 / Cisco ISE 与 PacketFence 兼容 → 2022 Arrow 数据二极管 → 2023 七周年 + KOZ’23 + ModBUS/OPC → 2024–2026 新闻停更（产品页仍在更：Synapse 2026-01-15 / Hitit 2026-03-24）→ 2026-10 EPDK+ELDER 加速器 20 强（⚠ 未获奖）**；**② 产品家族是 10 个不是 6 个** —— 新增 **GORDION 数据中心系列（`2520-48SFP25G-6SFP100G` 3.2 Tbps / `2520-32QSFP100G` 6.4 Tbps / `2520-32QSFP400G` 12.8 Tbps，Marvell 95EX/95CX + 自有 `AngoraOS`）** ⇒ **r93「自家只到 10G」作废，删掉「补 25/100G」谈判点**；另新增 **KARINCA NPB（License 制：BASE + 端口 + 吞吐）** 与 **ARI 7 型号 uCPE（官方支持 pfSense/OPNsense/PacketFence/Proxmox）**；**③ 渠道是三层** —— **总代 Elcore Distribution（Elcore TR，2021 进土耳其；KOZ’23 由 Elcore 国别经理 Aykut Dalyan 主讲「ANGORA & ELCORE 分销实力」）+ 4 家官网伙伴 + 技术伙伴 Alaattin Bilişim（土耳其 PacketFence 端到端支持，0312 909 32 39）** ⇒ **r93「只有 4 家」补全为 6 个可核主体**；**④ 它是进口商** —— **Volza：45 票进口 / 15 家供应商 / 2 票出口（约旦 1、俄罗斯 1，最后一票 2023-11-14）** ⇒ **旧口径「47 票全进口」作废；我方身份不是挑战者而是第 16 家供应商**。**另两处修正**：**about 页公开 11 个客户 logo（KGM/TSK/TÜRKSAT/TCDD/MSB/ASELSAN/HAVELSAN/Anadolu Ü./Turkcell KKTC/EGM/Sağlık Bakanlığı）⇒ r93「官网不公开客户」作废**（⚠ logo ≠ 中标记录）；**所有权为合伙人制** —— **Levent Kılıç = Kurucu Ortak**、**Mehmet Taylan Esen = Yönetici Ortak（KOZ’23 讲「生产流程」⇒「有没有工厂」问他）**；**它公开售卖 OEM/ODM 服务**（「100% 本国设计」，Intel/ARM 板卡→服务器，含外壳与定制 OS）⇒ **谈判轴收窄为三段：40/70/80 km 光模块 · 全千兆工业宽温 PoE++ · 交期**。」')
             L.append('')
@@ -1080,6 +1084,8 @@ def main():
              '它只在 `06-competitors/110` 第 20 行与原始名单 #44，**不在 111 管线里**，'
              '按客户侧评级归入 `A/`。')
     R.append('')
+    R.append('> **r95 映射修正**：`C/074` 和 `A/075` 内的 r93/r94 Angora 全局附录是机械载体，**不是 RadioTeknoloji / TechnoPC 的事实**；历史原文保留，其错误以 [Angora 独立档案](../ingest/angora-1__arena-01a0ce39__5acb613/10-followup-angora-2026-10-26/angora-networks.md) 与 r95 为准。Angora 与英国 Connexite 是独立主体，不计入此处 146 行。**C 档不跟进、不群发；疑重复主体只联系一次。**')
+    R.append('')
     R.append('---')
     R.append('')
     R.append('## 一、怎么读（四件事）')
@@ -1130,7 +1136,7 @@ def main():
              '| %d | 有真实业务，但缺一环（价格、DDP、规模、决策链）；'
              '**季度节奏维护**。 |' % n['B'])
     R.append('| **C** | `C` / `C+` / `C 战略留档` / `C 不跟进` / `C 低` | %d | '
-             '只到邮箱/电话，或明确不跟进；**只做群发触达与备选**。 |' % n['C'])
+             '只保留记录；按用户要求 **不跟进、不群发**。 |' % n['C'])
     R.append('')
     R.append('> ⚠ 两处需要人判断的地方：① `C 战略留档`（如 PavoTek）与 `C 不跟进`'
              '（如 MFD/Bimel 类）**同放在 `C/`**，但性质完全不同，看文件里的「备注」；'
@@ -1142,7 +1148,7 @@ def main():
         'B': ('B 档 · 常规跟进', '有真实业务但无强信号，或有单一短板（价格/DDP/规模小）。'
               '**按季度节奏维护，不投定制资源。**'),
         'C': ('C 档 · 备选池', '信息少 / 只到邮箱电话 / 战略留档 / 明确不跟进。'
-              '**只做群发触达与备选，不单独投入人力。**'),
+              '**仅保存记录，不跟进、不群发。**'),
     }
     for t in TIERS:
         rows_t = [r for r in index_rows if r[7] == t]
@@ -1165,8 +1171,8 @@ def main():
              '#56 Optima、#80 Telemobil、#58 Okisan —— 有产品空档、有联系人、有打法。')
     R.append('2. **订单级/窗口级 3 家**：#91 Sami（500 台）、#92 Selim（换源窗口）、'
              '#84 ONSIS（回头要样品）—— **只能靠人推进，爬虫无效**。')
-    R.append('3. **B/C 级 124 家**：先扫 `建议动作` 列，只挑「有具体项目/有自有品牌」的动，'
-             '其余作为备选池。')
+    R.append('3. **B 级**：先扫 `建议动作` 列，只挑「有具体项目/有自有品牌」的动；'
+             '**C 级仅留档，不跟进、不群发**。')
     R.append('')
     R.append('## 八、重复对（%d 组，两批名单各录一次）' % len(dup_pairs))
     R.append('')
@@ -1223,15 +1229,11 @@ def main():
     R.append('')
     io.open(os.path.join(OUT_DIR, 'README.md'), 'w', encoding='utf-8').write('\n'.join(R))
 
-    # 清理旧版平铺文件（v1 曾把 MD 直接放在根目录；现改为 A/B/C 分档）
-    removed = 0
-    for fn in os.listdir(OUT_DIR):
-        if fn.endswith('.md') and fn != 'README.md':
-            os.remove(os.path.join(OUT_DIR, fn))
-            removed += 1
-
+    # 不自动删除根目录中的历史或用户文件。旧版平铺文件只报告，交由人工处理。
+    flat_leftovers = [fn for fn in os.listdir(OUT_DIR)
+                      if fn.endswith('.md') and fn != 'README.md']
     print('written:', written, 'files; index rows:', len(index_rows),
-          '; removed flat leftovers:', removed)
+          '; preserved flat files:', len(flat_leftovers))
 
 
 if __name__ == '__main__':

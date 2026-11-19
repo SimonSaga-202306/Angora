@@ -1,3 +1,5 @@
+> **r95 修正（2026-10-26）**：Hakan 在 Angora 任董事长的主体归属**撤回、待核**；2024 公报 OCR 可能跨栏串入 Bursa ITECH。其他历史职务也须按对应日期核验。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
+
 # 👥 Angora Networks 人员总档案（管理层 / 员工 / 全员）
 > 更新：2026-09-23　·　渠道：LinkedIn、ZoomInfo、RocketReach、ictmedia 土耳其 ICT 媒体、ortakakil.org.tr 公开履历、YouTube、X、官网、微信、商业单据
 > 本文件合并并取代此前分散在各处的人员线索，为**唯一人员主档**。
