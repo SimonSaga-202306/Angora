@@ -1,0 +1,11 @@
+path_from_ingest_root,in_r103_16,in_r102_29,r104_use
+01-text-verbatim/workstation/04-website-mirror/00-crawl-manifest.md,False,False,source excluded: legacy general mirror
+01-text-verbatim/workstation/04-website-mirror/10-pages-part1.md,False,False,source excluded: legacy general mirror
+01-text-verbatim/workstation/04-website-mirror/11-pages-part2.md,False,False,source excluded: legacy general mirror
+01-text-verbatim/workstation/04-website-mirror/12-pages-part3-specs-and-codes.md,False,False,source excluded: legacy general mirror
+01-text-verbatim/workstation/04-website-mirror/13-pages-part4-russian.md,False,False,source excluded: legacy general mirror
+01-text-verbatim/workstation/04-website-mirror/90-downloads.md,False,False,source excluded: legacy general mirror
+06-web-crawl-2026-10-27/angora/api/wp-api-pages.tsv,False,False,historical WP TSV: analyze only literal rows
+06-web-crawl-2026-10-27/angora/api/wp-api-posts.tsv,False,False,historical WP TSV: analyze only literal rows
+07-web-crawl-2026-11-01/angora/api/wp-api-pages-2026-11-01.tsv,False,False,historical WP TSV: analyze only literal rows
+07-web-crawl-2026-11-01/angora/api/wp-api-posts-2026-11-01.tsv,False,False,historical WP TSV: analyze only literal rows

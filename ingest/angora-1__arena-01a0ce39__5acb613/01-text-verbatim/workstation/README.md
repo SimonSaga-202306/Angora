@@ -266,3 +266,8 @@ python3 workstation/99-raw/audit_coverage.py
 ## r103 最新入口：型号、端口与 IRIS 光模块
 
 [报告](08-customer-pipeline/172-angora-optics-port-evidence-r103-2026-10-26.md) · [字段纠错](09-orders/120-angora-orders-master-2026-10-21.mapping-r103.md) · [限定来源](../../37-source-evidence-r103-2026-10-26/README.md) · [Angora 内部记录](../../38-followup-angora-r103-2026-10-26/angora-networks.md)。修正 r96 `SFP100` 文件名误读；相同型号登记的另一组主体未确认。
+
+
+## r104 · Angora 安全产品与工业协议
+
+新增 [173 安全产品与协议报告](08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md)及[订单档案独立映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r104.md)。来源仅支持厂商自述和旧索引字段核对，不代表客户部署；旧 PDF PASS 的发现时序与四份隔离文本另见来源审计。

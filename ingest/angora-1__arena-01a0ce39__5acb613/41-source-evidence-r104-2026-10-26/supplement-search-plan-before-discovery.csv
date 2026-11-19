@@ -1,0 +1,4 @@
+seq,query,purpose
+1,"site:angoranetworks.com ""Network Packet Broker"" Angora product",discover only; security portfolio context
+2,"site:angoranetworks.com ""BEE"" ""SD-WAN"" Angora security",discover only; security portfolio context
+3,"site:angoranetworks.com ""Arrow"" ""Modbus"" ""OPC"" protocol",discover only; industrial-protocol corroboration

@@ -1,0 +1,12 @@
+item,product_or_claim,what_the_visible_source_says,not_established,anchors
+ModBUS,Arrow data diode,2023 vendor release claims ModBUS integrated,"TCP/RTU/serial mapping; function codes; read/write; proxy mechanism; model, version and tests",release-en-modbus-opc|release-tr-modbus-opc
+OPC,Arrow data diode,2023 vendor release claims OPC integrated,"UA vs Classic; security mode and certificates; publication/subscription; proxy; model, version and tests",release-en-modbus-opc|release-tr-modbus-opc
+SCADA,Arrow use case,product and launch mention SCADA or an isolated SCADA network,"SCADA is a system category, not one specific wire protocol; no named installation",arrow-protocols|launch-scada
+Syslog / SNMP,Arrow product page,lists Syslog and SNMP in its protocol support,version; message modes; proxy design; licensing and actual tests,arrow-protocols|arrow-license
+HTTP / HTTPS / file,Arrow product page,"lists file types, HTTP/HTTPS and a one-way hardware claim",end-to-end request/response operation; supported subprotocols; default licensing; test results,arrow-protocols|arrow-physical
+ICAP,Arrow product page,"external ICAP-based antivirus, antimalware and DLP support claimed","bundled security engine, product versions, integration tests",arrow-icap
+802.1X / Cisco ISE,"Angora network switches, not Arrow",2021 project-related 802.1x and AAA/CoA/etc support claimed,specific switch model and firmware; independent interoperable matrix; actual deployment,ise-feature-claim
+802.1X / PacketFence,"Angora network switches, not Arrow",vendor claims 802.1x compatibility; Turkish version claims partner tests,"test protocol/results, software versions, affected switch SKUs, installation or acceptance",packetfence-en-claim|packetfence-tr-tests
+L2/L3/L4 packet filters,Karınca NPB,L2/L3/L4 selection and physical port table,"data diode isolation, inline prevention or measured loss/latency",npb-filter-l2l4|npb-ports-25|npb-ports-100|npb-no-loss
+TLS / SSL processing,Karınca NPB,page describes sending packets to algorithm-processing and SSL devices,"built-in decryption by NPB, support for current TLS versions or cryptographic compliance",npb-ssl-external
+SD-WAN / open-source apps,BEE / ARI hardware platform,x86 platform framing and named software compatibility claims,"compatibility of every application on every SKU, in particular ARM; benchmark or deployments",bee-software|bee-arm

@@ -1,0 +1,11 @@
+repository_relative_path,bytes,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/00-crawl-manifest.md,6082,a03a3f592d79a6b00f25b819f95a3acaecafe6021de9eea9925eade49d6bcf9d
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/10-pages-part1.md,25165,26d7657d8fabc8269e61df5a28a404c5fe25eec205f36917e819954d78c40ebc
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/11-pages-part2.md,38379,942d55ed1e8c65c7ad7ebb6aa58c3a017c207713937065bf05acad7325e0c199
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/12-pages-part3-specs-and-codes.md,10556,1110d6ca04608a8aba42c5c8466b9339c7bb48ed097bda201cfc9c163d424da8
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/13-pages-part4-russian.md,8643,6f3b451b43f904c75cfbae7e5b595db620d235dd4cce4ec689346ab9eb06fab9
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/90-downloads.md,3061,fb2341ef5111d818cc61f596be2a9a253837e1214b02a2f021a7d254b6399faf
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/angora/api/wp-api-pages.tsv,3094,1663506b3c3e563579d2b909647b425721cadcf9b265389433f163a2b5c8b6c7
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/angora/api/wp-api-posts.tsv,1186,685728f4516e7b32fa1ab9a84017bcc3cb9d809eae5cd02ef3a059160eb87883
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/angora/api/wp-api-pages-2026-11-01.tsv,2764,42a5faae3607adc6e5a262365ddbba4cde71296d16f6a4799a8c1d298efdfe88
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/angora/api/wp-api-posts-2026-11-01.tsv,1340,2c92eb8560ca25898b35a2c93a919a14964554835da82be08bf9cafb6fa6c2a7

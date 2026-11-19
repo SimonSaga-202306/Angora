@@ -169,3 +169,8 @@ git -C /tmp/audit show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:'<原始路径>'
 ## r103 最新入口：端口与 IRIS 光模块证据
 
 [综合报告](01-text-verbatim/workstation/08-customer-pipeline/172-angora-optics-port-evidence-r103-2026-10-26.md) · [字段纠错](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r103.md) · [来源与行锚](37-source-evidence-r103-2026-10-26/README.md) · [Angora 内部准备](38-followup-angora-r103-2026-10-26/angora-networks.md) · [入场保护](36-entry-safety-r103-2026-10-26/README.md)。相同型号不合并不同主体，资料冲突未证为实物故障。
+
+
+## r104 · Angora 安全产品与工业协议
+
+[入场保护](40-entry-safety-r104-2026-10-26/README.md) · [来源范围和限制](41-source-evidence-r104-2026-10-26/README.md) · [安全产品报告](01-text-verbatim/workstation/08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md) · [内部主体记录](42-followup-angora-r104-2026-10-26/angora-networks.md) · [审计](43-audit-r104-2026-10-26.md)。本轮不联系客户；官网 PDF 的旧 PASS 发现前有误访问，四份新文字隔离、不作结论。

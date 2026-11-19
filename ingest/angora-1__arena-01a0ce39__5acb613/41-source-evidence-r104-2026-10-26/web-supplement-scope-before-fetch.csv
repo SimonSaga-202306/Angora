@@ -1,0 +1,9 @@
+seq,url,planned_path_from_r104_source_dir,purpose
+1,https://www.angoranetworks.com/angora-networks-launches-data-diode-solution-arrow/?lang=en,external-visible/www.angoranetworks.com/angora-networks-launches-data-diode-solution-arrow/index.en.extracted.md,manufacturer launch release
+2,https://www.angoranetworks.com/angora-networks-completed-the-cisco-ise-integration/?lang=en,external-visible/www.angoranetworks.com/angora-networks-completed-the-cisco-ise-integration/index.en.extracted.md,manufacturer Cisco ISE release
+3,https://www.angoranetworks.com/angora-networks-completed-the-cisco-ise-integration-2/?lang=en,external-visible/www.angoranetworks.com/angora-networks-completed-the-cisco-ise-integration-2/index.en.extracted.md,manufacturer PacketFence NAC release
+4,https://www.angoranetworks.com/yerli-network-packet-broker/?lang=en,external-visible/www.angoranetworks.com/yerli-network-packet-broker/index.en.extracted.md,manufacturer packet broker webpage
+5,https://www.angoranetworks.com/network-packet-broker-test/?lang=en,external-visible/www.angoranetworks.com/network-packet-broker-test/index.en.extracted.md,manufacturer Bee SD-WAN webpage
+6,https://www.angoranetworks.com/angora-networks-veri-diyotu-cozumunde-ezber-bozan-modbus-ve-opc-protokolu-destegini-tanitti/,external-visible/www.angoranetworks.com/angora-networks-veri-diyotu-cozumunde-ezber-bozan-modbus-ve-opc-protokolu-destegini-tanitti/index.tr.extracted.md,Turkish-language manufacturer protocol release
+7,https://www.angoranetworks.com/download/1222/?tmstv=1672924355,external-visible/www.angoranetworks.com/download/1222/index.extracted.md,brochure linked by product page; extraction if available
+8,https://www.angoranetworks.com/download/1236/?tmstv=1672924425,external-visible/www.angoranetworks.com/download/1236/index.extracted.md,datasheet linked by product page; extraction if available

@@ -1,0 +1,5 @@
+item,body_or_english_text,turkish_text,visible_index,old_wp_tsv_date_literal,interpretation,anchors
+Cisco ISE,"June 21, 2021",not fetched,06/25/2021,2021-06-25T17:48:14 (id 777),body dateline versus site date; no actual customer deployment date,ise-dateline|index-ise-date
+PacketFence NAC,"English opening says June 21, 2021 / Cisco ISE",26 Ağustos 2021 / PacketFence,09/01/2021,2021-09-01T14:26:19 (id 803),English opening is cross-topic; Turkish and site index differ; vendor alone claims partner tests,packetfence-en-crossed-head|packetfence-tr-dateline|index-packetfence-date|packetfence-tr-tests
+Arrow launch,"October 10, 2022",not fetched,10/09/2022,not identified in selected old Turkish-post TSV,"preserve both strings, avoid assuming time zone or identifying production date",launch-date|index-launch-date
+ModBUS / OPC,"December 05, 2023",05 Aralık 2023,12/06/2023,2023-12-06T14:27:03 (id 1746),body datelines versus index/CMS date; language versions share publisher,release-en-date|release-tr-date|index-release-date|r39-post-1746|r40-post-1746
