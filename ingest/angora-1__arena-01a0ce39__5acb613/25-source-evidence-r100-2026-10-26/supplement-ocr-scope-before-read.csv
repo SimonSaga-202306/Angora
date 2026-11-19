@@ -1,0 +1,4 @@
+seq,path_from_ingest_root,size_bytes,representation,scope
+1,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225232_904.jsonl,55360,OCR-derived or screenshot metadata,full byte-read; only selected message / metadata examined
+2,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225232_904.txt,14158,OCR-derived or screenshot metadata,full byte-read; only selected message / metadata examined
+3,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225232_904.png.meta.json,678,OCR-derived or screenshot metadata,full byte-read; only selected message / metadata examined

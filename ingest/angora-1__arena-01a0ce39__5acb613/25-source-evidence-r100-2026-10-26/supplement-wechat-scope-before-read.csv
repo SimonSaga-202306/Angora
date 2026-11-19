@@ -1,0 +1,5 @@
+seq,path_from_ingest_root,size_bytes,representation,scope
+1,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation.md,353197,OCR-derived conversation,"full byte-read, exact version-message targeted analysis only"
+2,01-text-verbatim/workstation/01-knowledge-base/wechat-2026.md,113237,OCR-derived conversation,"full byte-read, exact version-message targeted analysis only"
+3,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md,349748,OCR-derived conversation,"full byte-read, exact version-message targeted analysis only"
+4,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json,752882,OCR-derived conversation,"full byte-read, exact version-message targeted analysis only"

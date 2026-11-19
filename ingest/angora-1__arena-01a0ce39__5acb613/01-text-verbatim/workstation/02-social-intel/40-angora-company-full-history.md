@@ -1,3 +1,5 @@
+> **r100 修正并取代旧产品表中的 NMS 集成断言**：2026-08-17 回复只是作者相信客户已集成，不能据此说官网 NMS 已集成 7.3.13；同名文件卡也不证明安装。见文末附录和 [r100 报告](../08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md)。
+>
 > **r95 修正（2026-10-26）**：Hakan 为 Angora 董事长/任期及 HITIT 全系为 Ewind 代工的判断**撤回或降级**；2024 公报跨栏待复核、型号级交易原单未知。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
 
 # 🏢 Angora Networks 全史（2016 创立 → 2026 现状）· 多维度
@@ -163,3 +165,7 @@
 - [ ] 2027-03 Levent 与 Hakan Öztuna 的**董事任期到期**
 - [ ] Levent 护照 **2027-06-29 到期**
 - [ ] 贸易登记公报主体归属核实（SADUN İNŞAAT vs Angora）
+
+## 附录：r100 明确修正并取代旧 NMS 字段
+
+§产品表将官网 Angora NMS 写成“已集成我方 lite-hotfix-7.3.13”，证据不足：2026-08-17 作者只称**相信**对方已集成，既无客户确认、安装记录或验收，也未证明官网 NMS 就是其所指系统。2026-07 同名文件卡及请转交为分享线索，不是实际部署证据。详见 [r100 证据链](../08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md)与[映射](../09-orders/120-angora-orders-master-2026-10-21.mapping-r100.md)。

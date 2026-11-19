@@ -16,3 +16,25 @@
 # r99 preserves both the pre-fast-forward variant and the recorded evidence bytes.
 /ingest/angora-1__arena-01a0ce39__5acb613/21-protected-variants-r99-2026-10-26/original-paths/** -text
 /ingest/angora-1__arena-01a0ce39__5acb613/22-source-evidence-r99-2026-10-26/** -text
+
+# r100: preserve manifest bytes and the precise existing derived evidence files.
+/ingest/angora-1__arena-01a0ce39__5acb613/25-source-evidence-r100-2026-10-26/** -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin**" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Reply on SAGA Enterprise L3 Recommendation Report.docx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/reply-on-saga-enterprise-l3-recommendation-report-docx.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Saga Feature List_7.5.x_L2+.xlsx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/STSC20250117007.xls.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.psd.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/采购合同_STSC20250117007.xls.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/CI.xls.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/STSC20250619007_R1.xls.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/mac_address&serial_number.xlsx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-conversation.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-2026.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225232_904.jsonl" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225232_904.txt" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225232_904.png.meta.json" -text

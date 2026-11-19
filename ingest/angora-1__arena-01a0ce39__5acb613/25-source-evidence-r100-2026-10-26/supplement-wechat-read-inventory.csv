@@ -1,0 +1,5 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation,read_method
+1,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation.md,353197,8b37408c95efd537aa2c24d1d14ed96db1bae72c8069e7505e75534c1f58671e,OCR derivative,"full byte-read, exact version-message targeted analysis only"
+2,01-text-verbatim/workstation/01-knowledge-base/wechat-2026.md,113237,4bb511d9400c7baa1e9591083674b488e6270113e901cda8c79644ad92d3d556,OCR derivative,"full byte-read, exact version-message targeted analysis only"
+3,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md,349748,987874aa344f1d31fd9a44ccd25bd15b023ed73e8364dc35c813534d2bc73884,OCR derivative,"full byte-read, exact version-message targeted analysis only"
+4,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json,752882,25e8fb6a12f0cec7d28aadea1c81236ac652011957bdf976fd636ec6073d59a3,OCR derivative,"full byte-read, exact version-message targeted analysis only"

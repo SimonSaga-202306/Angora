@@ -1,3 +1,5 @@
+> **r100 当前入口**：[固件与型号](08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md) · [字段修正](09-orders/120-angora-orders-master-2026-10-21.mapping-r100.md) · [4,903/4,903 限定派生路径](../../25-source-evidence-r100-2026-10-26/README.md) · [内部准备](../../26-followup-angora-r100-2026-10-26/angora-networks.md)。完整字节读取不等于逐项安全审计或取得原固件；不主动接触，不重启 PASS。
+
 # 📋 任务总表 · 完成情况
 
 > **r99 当前入口**：[售后与质保报告](08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md) · [映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r99.md) · [限定 30/30 派生产物](../../22-source-evidence-r99-2026-10-26/README.md) · [仅内部记录](../../23-followup-angora-r99-2026-10-26/angora-networks.md)。29 项文字产物全文及 1 张内嵌图目视，微信仅局部；不等于重取原件。r96/r97 冲突的旧账及旧机会主动追问建议已取代；不联系客户、不重启 PASS。

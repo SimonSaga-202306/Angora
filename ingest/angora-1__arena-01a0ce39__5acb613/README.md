@@ -1,3 +1,5 @@
+> **r100 最新入口**：[固件型号与 NMS 追溯](01-text-verbatim/workstation/08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md) · [逐字段纠错](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r100.md) · [4,903 项限定来源清单](25-source-evidence-r100-2026-10-26/README.md) · [仅内部准备](26-followup-angora-r100-2026-10-26/angora-networks.md)。其中 4,881 是同一固件树的派生文件；没有原 `.bin`，不能把同名 OCR 当作逐字节一致或安装证明，不联系客户、不升级。
+
 # 全量读取入库 — SimonSaga-202306/Angora-1 @ arena/01a0ce39-angora
 
 > **r99 最新入口**：[售后与质保报告](01-text-verbatim/workstation/08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md) · [修正映射](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r99.md) · [30 项限定来源](22-source-evidence-r99-2026-10-26/README.md) · [独立内部准备](23-followup-angora-r99-2026-10-26/angora-networks.md)。第二单保修图片为 PDF 内嵌派生物，非新取原 PDF；三年/五年分别来自不同文书和名称不同的主体，效力未证。旧账、旧机会和其他 PASS 事项不主动追问。

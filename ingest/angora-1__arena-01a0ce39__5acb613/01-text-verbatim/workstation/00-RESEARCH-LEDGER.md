@@ -1,3 +1,5 @@
+> **r100 明确修正并取代 r27 台账的固件“末版物理实证”**：[固件与型号报告](08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md) · [映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r100.md) · [范围](../../25-source-evidence-r100-2026-10-26/README.md)。2026 回复是作者最后分享及相信集成，2026-07 同名文件卡只有 OCR 和大小线索；原包、字节一致、第三单安装及 NMS 验收未知。本轮无新网页、不联系客户、不执行升级，旧 PASS 不重启。
+
 # 📚 研究台账：外部信源结论 / 方法 / 死胡同
 
 > **r99 限定本地复核**：[报告](08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md) · [映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r99.md) · [30 项来源](../../22-source-evidence-r99-2026-10-26/README.md)。第二单单页内嵌图已目视，第三单上游三年/五年分属不同文书和名称不同的主体；修正 IEC61850 旧“未答复”。不同售后事件与证据等级独立，未发信、未重启 PASS 项；无新增外网网页。

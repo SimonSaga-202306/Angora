@@ -1,0 +1,16 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation,read_method
+1,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/CONTAINER.md,3501,5f565e4b33f3086aa9d764ef1f76b4f176b559b43b33a63f702fe25c2975096d,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+2,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/upgrade.cfg,859,7adae77d8bdb9e1585e218be354c9f02677f68e2a9f0e6f7acf863b0dc2ac351,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+3,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/rootfs-FILELIST.tsv,549051,2b16d9c01fee0b5e92091844ef74c78884b172f93f7505cbe8f6e03208559456,firmware-container-derived-index,整项字节读取；普通文本全文回读，TSV全行程序解析
+4,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/rootfs-binary-index.tsv,219322,2189e040b6fa630c5402220ed4d1ff805d898eb32f7d76d3c885ac2e49e6f8a9,firmware-container-derived-index,整项字节读取；普通文本全文回读，TSV全行程序解析
+5,03-binary-meta/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin.meta.json,914,085cd6513d31c65bd124adf9f8b960be269f1e007b3eeebc972dbfaf416d4f3c,firmware-binary-metadata,整项字节读取；普通文本全文回读，TSV全行程序解析
+6,02-extracted/Reply on SAGA Enterprise L3 Recommendation Report.docx.extracted.md,4445,f72dfaed2b7516f98d5c4087ed77a31421450afc77fe7ad7f6a3715967516803,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+7,01-text-verbatim/workstation/01-knowledge-base/docx/reply-on-saga-enterprise-l3-recommendation-report-docx.md,2837,86a61b8518ce74666acfb287af6307992774cfa1d5f5298253d1f02d1b79854a,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+8,02-extracted/Saga Feature List_7.5.x_L2+.xlsx.extracted.md,6623,d02d1ca6c5dea1477aa9e0e90fb07bc921709119e6fa110c060b4f04e7b4aa20,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+9,02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,3320,d8e431692dbbbe6f53a788fbd3b2afc5a10b3b1a224ea9718feba8d946c614ab,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+10,02-extracted/3rd order 176台2光16电 L2 PoE/STSC20250117007.xls.extracted.md,5033,8632a0cb4e080e213969720195f243bd1e0f502fa03d39d6038360c997302c69,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+11,02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.psd.extracted.md,2545,4f62b100440360df10009223036c2cd28fab22ec58877f2a21436fd4183020c5,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+12,02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/采购合同_STSC20250117007.xls.extracted.md,3630,e3f5a2ab4cd3fbb4a7181fd7ed4148a90aca7c0f4b025f8bcf413b703be9ae1a,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+13,02-extracted/2nd order sample 2层10G 16口 2光8管理/CI.xls.extracted.md,3825,09f9b6c342d4ed991ae15a3dbc70159f59ebb64c8f178a38ebb0028e54ff5799,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+14,02-extracted/6th order 6台工业2光8/STSC20250619007_R1.xls.extracted.md,4145,c8ac4f0962ac10f0014bcb33111159741751a887d70de4828e1cc1fdcdc932f4,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+15,02-extracted/mac_address&serial_number.xlsx.extracted.md,30524,23c7fda7513ce6410026182faa8371e1dbaa8ddb517b9d471abc76279f0e59bf,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析

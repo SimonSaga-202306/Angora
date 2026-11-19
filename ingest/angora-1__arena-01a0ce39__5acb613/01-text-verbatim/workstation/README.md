@@ -1,3 +1,5 @@
+> **r100 最新入口**：[固件、型号和 NMS 追溯](08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md) · [明确纠错](09-orders/120-angora-orders-master-2026-10-21.mapping-r100.md) · [限定范围](../../25-source-evidence-r100-2026-10-26/README.md) · [Angora 内部记录](../../26-followup-angora-r100-2026-10-26/angora-networks.md)。原包不可得；作者仅表示相信 NMS 集成，同名型号/文件不证明兼容或设备安装。不联系客户，不重启 PASS。
+
 > **r99 最新入口**：[Angora 售后、技术事件与质保](08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md) · [字段修正](09-orders/120-angora-orders-master-2026-10-21.mapping-r99.md) · [30 项限定来源](../../22-source-evidence-r99-2026-10-26/README.md) · [内部准备](../../23-followup-angora-r99-2026-10-26/angora-networks.md)。第二单内嵌图片与第三单三年/五年两份文书分别留证，修正 IEC61850 “未答复”；旧案未证闭环不代表现时故障，不联系客户或重启 PASS 项。
 
 > **r98 最新入口**：[第三至第六单、质保与数据中心](08-customer-pipeline/167-angora-orders-warranty-datacenter-r98-2026-10-26.md) · [字段修正](09-orders/120-angora-orders-master-2026-10-21.mapping-r98.md) · [187 项派生目录](../../18-source-evidence-r98-2026-10-26/README.md) · [独立跟进](../../19-followup-angora-r98-2026-10-26/angora-networks.md)。纠正旧第三单发运日期、PI 大写、平台对调与 RAR 同字节误读；数据中心实际投标/验收未知。本轮未联系客户，未解压 RAR。

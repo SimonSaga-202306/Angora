@@ -1,0 +1,16 @@
+seq,path_from_ingest_root,size_bytes,representation,planned_read
+1,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/CONTAINER.md,3501,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+2,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/upgrade.cfg,859,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+3,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/rootfs-FILELIST.tsv,549051,firmware-container-derived-index,整项字节读取；普通文本全文回读，TSV全行程序解析
+4,05-nontext-content/firmware/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin/rootfs-binary-index.tsv,219322,firmware-container-derived-index,整项字节读取；普通文本全文回读，TSV全行程序解析
+5,03-binary-meta/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin.meta.json,914,firmware-binary-metadata,整项字节读取；普通文本全文回读，TSV全行程序解析
+6,02-extracted/Reply on SAGA Enterprise L3 Recommendation Report.docx.extracted.md,4445,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+7,01-text-verbatim/workstation/01-knowledge-base/docx/reply-on-saga-enterprise-l3-recommendation-report-docx.md,2837,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+8,02-extracted/Saga Feature List_7.5.x_L2+.xlsx.extracted.md,6623,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+9,02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,3320,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+10,02-extracted/3rd order 176台2光16电 L2 PoE/STSC20250117007.xls.extracted.md,5033,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+11,02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.psd.extracted.md,2545,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+12,02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/采购合同_STSC20250117007.xls.extracted.md,3630,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+13,02-extracted/2nd order sample 2层10G 16口 2光8管理/CI.xls.extracted.md,3825,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+14,02-extracted/6th order 6台工业2光8/STSC20250619007_R1.xls.extracted.md,4145,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析
+15,02-extracted/mac_address&serial_number.xlsx.extracted.md,30524,existing-derived-text,整项字节读取；普通文本全文回读，TSV全行程序解析

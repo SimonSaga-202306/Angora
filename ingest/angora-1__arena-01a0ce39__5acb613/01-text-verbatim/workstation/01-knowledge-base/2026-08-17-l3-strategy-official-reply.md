@@ -1,3 +1,5 @@
+> **r100 明确修正并取代下文 §1/§2/§7 的过度推断**：原文是作者最后分享 `lite-hotfix-7.3.13` 并相信对方已集成 NMS，不证明实际集成、全球 AC3 末版或具体设备安装；五年是当时供给声明，7.5.x L2+ 表也不能代表全部 L3 版本。见文末附录和 [r100 报告](../08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md)。
+>
 # 🔴 2026-08-17 Saga 官方回复：L3 战略、芯片路线、CENTEC
 > 来源：`Reply on SAGA Enterprise L3 Recommendation Report.docx`
 > 全文：`workstation/01-knowledge-base/docx/reply-on-saga-enterprise-l3-recommendation-report-docx.md`
@@ -75,3 +77,10 @@
 - 视为**面向欧洲市场的战略跳板**（紧邻保加利亚）
 - 绑定手段：User Manual/Label 全用客户版本、土耳其语 web GUI、PCB 印客户名、让 Angora 官网宣传我方
 - ⭐ 原文论断：**"目前国内同行没人全线做 Marvell 芯片，独有的优势"** —— 再次印证芯片代际真相
+
+## 附录：r100 明确修正并取代本旧分析（原文保留）
+
+1. §1“最后一个 AC3 版本，已交付并集成进 Angora 的 NMS”过于确定。原回复写 `the last version which I shared and believed that you have integrated it to your NMS system`；仅证明作者的表述。2026-07 OCR 同名文件卡是另一条分享线索，但无发送副本 SHA、收件或安装证明，两个 OCR 版的发件人标注还有冲突。
+2. §1/§7“AC5 锁定五年”应限定为 2026-08-17 当时对长期投入及持续供给的陈述，不等同签约履约、库存或其他主体的路线。用户关于技术代际的明确纠正仍有效，不能以这一份声明推断其他厂商或产品领先/落后。
+3. §2“L3 动态路由停在 7.3.0、7.5.x 未跟进”由不同层级清单外推，予以撤回：7.5.x 表标注 L2+，不能代表所有 L3 机型/版本，表内还列 PIM-SM。原回复另说 7.5.x L3 更新较少，但没有逐 SKU 的部署及实测。
+4. 不将这些修正变成对历史旧 RFQ/RFP、既有未成交事项或 PASS 事项的主动追问。[逐字段映射](../09-orders/120-angora-orders-master-2026-10-21.mapping-r100.md) · [原文抽取](../../../02-extracted/Reply%20on%20SAGA%20Enterprise%20L3%20Recommendation%20Report.docx.extracted.md)。
