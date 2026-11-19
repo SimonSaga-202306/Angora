@@ -1,3 +1,5 @@
+> **r99 最新入口**：[Angora 售后、技术事件与质保](08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md) · [字段修正](09-orders/120-angora-orders-master-2026-10-21.mapping-r99.md) · [30 项限定来源](../../22-source-evidence-r99-2026-10-26/README.md) · [内部准备](../../23-followup-angora-r99-2026-10-26/angora-networks.md)。第二单内嵌图片与第三单三年/五年两份文书分别留证，修正 IEC61850 “未答复”；旧案未证闭环不代表现时故障，不联系客户或重启 PASS 项。
+
 > **r98 最新入口**：[第三至第六单、质保与数据中心](08-customer-pipeline/167-angora-orders-warranty-datacenter-r98-2026-10-26.md) · [字段修正](09-orders/120-angora-orders-master-2026-10-21.mapping-r98.md) · [187 项派生目录](../../18-source-evidence-r98-2026-10-26/README.md) · [独立跟进](../../19-followup-angora-r98-2026-10-26/angora-networks.md)。纠正旧第三单发运日期、PI 大写、平台对调与 RAR 同字节误读；数据中心实际投标/验收未知。本轮未联系客户，未解压 RAR。
 
 > **r97 最新入口**：[首两单、385 台与软件](08-customer-pipeline/166-angora-first-second-order-software-r97-2026-10-26.md) · [字段映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r97.md) · [逐源目录](../../15-source-evidence-r97-2026-10-26/README.md)。商业接触已见 2024-04-28 邮件；首单 8 口为商业机，第二单分三张 PI 且后续同型号有不同配置。文件数是限定范围的派生文件数，原件和最终履约仍待核。

@@ -1,5 +1,7 @@
 # 📚 研究台账：外部信源结论 / 方法 / 死胡同
 
+> **r99 限定本地复核**：[报告](08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md) · [映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r99.md) · [30 项来源](../../22-source-evidence-r99-2026-10-26/README.md)。第二单单页内嵌图已目视，第三单上游三年/五年分属不同文书和名称不同的主体；修正 IEC61850 旧“未答复”。不同售后事件与证据等级独立，未发信、未重启 PASS 项；无新增外网网页。
+
 > **r98 新增/纠错**：[第三至第六单和数据中心](08-customer-pipeline/167-angora-orders-warranty-datacenter-r98-2026-10-26.md)，[映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r98.md)，[完整限定目录](../../18-source-evidence-r98-2026-10-26/README.md)。2025 数据中心 RFP 对内存/存储等要求与同包候选资料存在差距，不证明实际报价、投标或中标；第三单不是已证 03-02 发运；PSD 图层不证明 PDF 签章；旧 RAR 清单散件 SHA 不是成员载荷 SHA。4 个 URL 文本为人工转录，ICC 三处探索未完整保存；不把搜索摘要冒充全文。
 
 > **r96 安全修正并取代历史恢复建议**：下方旧文的例行 `reset --hard` 属危险建议，不能照做；先检查当前分支和工作树、保护变动，再安全比较远端。历史操作仅作为记录保留。

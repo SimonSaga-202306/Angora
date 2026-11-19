@@ -63,7 +63,7 @@
 - **2026-03-16 14:57** — *"Hi Simon, here is the output from Taylan. **It seems the chipset is Vitesse.**"*
 
 ### B4. 技术诉求
-- **2026-01-20 23:18** — *"Just a quick question about the industrial switches / **Do we have IEC61850 certificate?**"*（⚠️ 至今未答复）
+- **2026-01-20 23:18** — *"Just a quick question about the industrial switches / **Do we have IEC61850 certificate?**"*（⚠️ 至今未答复；**此括号判断已由文末 r99 勘误修正**）
 - **2026-04-16 14:53** — *"One last thing before I forget, pls do include the **DIN rail Apparatus** in the 8-port industrial switch."*
 
 ---
@@ -146,3 +146,9 @@
 
 > **业务背景**：88 台 STI-288DGGPM（L2+ 工业 8 口）+ 240W 全汉原厂 48V 电源的报价 = 875+250 RMB/套；
 > **截至 2026-10-06 未落单**。末次落单 = 2025-06-19（6 台）→ 15.4 个月零订单（用户"15+ 个月"陈述经仓库 STSC 订单时间戳验证）。
+
+---
+
+## G. r99 勘误：IEC 61850 问询有次日回复
+
+**修正并取代本台账 B4 对 2026-01-20 问询的“至今未答复”判断**：对齐转录记 2026-01-21 00:01 Simon 回复 `Sorry, it is not available`，随后列其他工业相关标准，Levent 称会核查。问题原问“证书或符合性”，答复不能外推到所有型号或证明通过/不通过认证；OCR 和说话人位置归因仍应与截图原件复核。详见 [r99 报告](../08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md)及 [映射](../09-orders/120-angora-orders-master-2026-10-21.mapping-r99.md)。

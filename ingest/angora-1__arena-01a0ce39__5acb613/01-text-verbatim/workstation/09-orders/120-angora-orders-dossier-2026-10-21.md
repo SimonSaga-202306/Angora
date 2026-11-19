@@ -314,3 +314,9 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 4. 4th/5th 历史索引有 7 组、21 路径照片同 SHA；仅索引交叉，未重读原始照片，不能把它们当独立批次交付证据。历史未成交/未付款与财务差异维持用户 PASS、不催不联系。
 
 详见 [r98 字段映射](120-angora-orders-master-2026-10-21.mapping-r98.md) 与 [逐源总报告](../08-customer-pipeline/167-angora-orders-warranty-datacenter-r98-2026-10-26.md)。附录是对工作档的显式修改，历史版本可由 Git `98006ef` 读取；不是未修改的源仓 byte-identical 副本。
+
+## 附录：r99 修正并取代 r98 单一质保概括（历史正文保留）
+
+1. r98 附录仅提第三单供应侧五年。2025-01 采购表是深圳供方、同型号 178 台、三年且不含电源；2025-03 销售合同是惠州供方、同型号 178 台、含电源、工业五年。主体名称不同，不自动认定同法人或哪份有效；客户侧 PI/PSD 为三年。**修正并取代 r98 单一上游五年概括**。
+2. 第二单证书 PDF 的既有内嵌图片本轮已视觉回读，记商业一年至 2025-11-22、工业三年至 2027-11-22、10 台 3 箱，但未列逐台序号；不是重新取回 PDF 或认证签章。
+3. **修正并取代 r96/r97 冲突执行建议**：旧财务差异、未成交/未付款旧单、旧 RFQ/RFP 等按用户 PASS，不主动追问或重启。详见 [r99 映射](120-angora-orders-master-2026-10-21.mapping-r99.md)和[报告](../08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md)。

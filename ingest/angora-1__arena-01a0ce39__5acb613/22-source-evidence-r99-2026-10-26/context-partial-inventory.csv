@@ -1,0 +1,22 @@
+path_from_ingest_root,bytes,sha256,representation,inspection_limit
+01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md,349748,987874aa344f1d31fd9a44ccd25bd15b023ed73e8364dc35c813534d2bc73884,derived-WeChat-or-corrected-prior-analysis,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json,752882,25e8fb6a12f0cec7d28aadea1c81236ac652011957bdf976fd636ec6073d59a3,derived-WeChat-or-corrected-prior-analysis,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/01-knowledge-base/05-verified-quotes-by-speaker.md,14345,ebf0f04680565b8442a9dad7a6be684f4a75f7fa94faafc6cd8f347740764b04,derived-WeChat-or-corrected-prior-analysis,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223548_837.jsonl,29100,c483c953aff2ebc9037c8d702af630c0fc812a1f56a5dafb0fdc663ecda2c8f4,OCR-aligned-lines,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223548_837.txt,7061,6e9413ea465c7662dd29629081f05ad20e68715cac66f13725e3f5790ead88d7,OCR-plain-text,部分检索/上下文回读；不计入30项完整阅读
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223548_837.png.meta.json,678,14ef2c911640e664c028396ef35f7f98a6e450a89345176e2634f3aeffb3d75d,original-screenshot-metadata-only,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223630_948.jsonl,32238,3529eb73b9c8a545578c507a6f7c3340fae34daa37457112cb013faa2f9ce68b,OCR-aligned-lines,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223630_948.txt,8536,658bd1e2716c930ca03200b4f08518a272c6030d0f1320f06cef8642ad85017b,OCR-plain-text,部分检索/上下文回读；不计入30项完整阅读
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223630_948.png.meta.json,678,01685f294d26a4feb297a598d90938cc748bd97e90fe58447b94e2832e56a727,original-screenshot-metadata-only,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224554_074.jsonl,52600,ff098473c2eec86619165193c45a0251e3dd364d4d6417e298d0955917c0478a,OCR-aligned-lines,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224554_074.txt,13939,31e06a2949a2086076842553b28c50c17b0eacd5efd69e5ba7815ae0b3157ac1,OCR-plain-text,部分检索/上下文回读；不计入30项完整阅读
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224554_074.png.meta.json,678,b927c6294f3f352e7df9c8509dad5a88a237200f6dec67acf8c6924125fbdb35,original-screenshot-metadata-only,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224715_689.jsonl,61522,c267388b7b13475f84f9459c68ca3506743c3219fed69617fb6daaed7d3e0323,OCR-aligned-lines,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224715_689.txt,15440,c662f78eeb527e56418cfcc08edc79bffb775e40e4152ecf84694885ca39a211,OCR-plain-text,部分检索/上下文回读；不计入30项完整阅读
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224715_689.png.meta.json,678,920982bf1bcca0c880dee3799b26d8e33aeeee4b15521627797e6bb8890798e5,original-screenshot-metadata-only,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225232_904.jsonl,55360,31a679530121de3eb6a84f169b471715a4ea6cee624d8c4aed0f886e3e360228,OCR-aligned-lines,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225232_904.txt,14158,31314e129b7ba54d31e0793811271b8ba453022c4f95186e66dcf10bd421bc85,OCR-plain-text,部分检索/上下文回读；不计入30项完整阅读
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225232_904.png.meta.json,678,ad76485f0aba6d4044c2f41a949cfb0f86d3e9bb3cc0a163ac6a946532a69dd1,original-screenshot-metadata-only,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224111_987.jsonl,46831,8580e6729a0196334e6134370746af453dc57964f638bb6388514a15711af374,OCR-aligned-lines,部分检索/上下文回读；不计入30项完整阅读
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224111_987.txt,12261,3eff8daca47d409c7a0e1540a8d5912585fb20adcb8a4bc5ff748379017f7c3f,OCR-plain-text,部分检索/上下文回读；不计入30项完整阅读
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224111_987.png.meta.json,678,99a56733c1c37f4e1dd6ae05ecaa1fcec4321df51eca266512e0c2a781d7e242,original-screenshot-metadata-only,部分检索/上下文回读；不计入30项完整阅读

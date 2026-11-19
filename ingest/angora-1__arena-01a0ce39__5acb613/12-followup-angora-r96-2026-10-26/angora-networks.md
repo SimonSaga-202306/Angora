@@ -1,5 +1,7 @@
 # Angora Networks · r96 独立跟进记录
 
+> **r99 修正并取代本档与用户 PASS 冲突的跟进建议**：不得向客户追问第六单 `$900/$990`、历史财务差异、未成交/未付款旧单或仓库旧 RFQ/RFP；以下仅保留历史文字，不执行相关旧建议。[r99 内部记录](../23-followup-angora-r99-2026-10-26/angora-networks.md)。
+
 > **主体**：ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.，既有客户；不与英国 Connexite 或其他客户合并。沿用 [r95 Angora 独立档案](../10-followup-angora-2026-10-26/angora-networks.md)，本轮未联系。会话给出的当前日期为 2026-10-26 UTC，沙箱时钟显示 2026-11-19；动态页面不是已验证的历史日快照。
 
 ## 本轮新增可执行事项

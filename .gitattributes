@@ -12,3 +12,7 @@
 
 # r98 evidence transcripts and inventories are also hashed as exact local bytes.
 /ingest/angora-1__arena-01a0ce39__5acb613/18-source-evidence-r98-2026-10-26/** -text
+
+# r99 preserves both the pre-fast-forward variant and the recorded evidence bytes.
+/ingest/angora-1__arena-01a0ce39__5acb613/21-protected-variants-r99-2026-10-26/original-paths/** -text
+/ingest/angora-1__arena-01a0ce39__5acb613/22-source-evidence-r99-2026-10-26/** -text
