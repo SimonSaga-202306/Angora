@@ -1,0 +1,7 @@
+repository_relative_path,bytes,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/local-cms-read-inventory.csv,375,compare r107 analytical path scope with r106 20-item input list
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/local-method-read-inventory.csv,356,compare r107 analytical path scope with r106 20-item input list
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/context-read-inventory.csv,1232,compare r107 analytical path scope with r106 20-item input list
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/local-existing-web-read-inventory.csv,602,compare r107 analytical path scope with r106 20-item input list
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/local-direct-read-inventory.csv,671,compare r107 analytical path scope with r106 20-item input list
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/previous-index-read-inventory.csv,745,compare r107 analytical path scope with r106 20-item input list

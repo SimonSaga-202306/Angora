@@ -1,0 +1,7 @@
+event_id,date_fields_as_written,anchors,vendor_statement,boundary
+export-2017,旧 CMS id 64: 2017-02-03T11:18:36；关联卡 02/03/2017,EX-claim;EX-image;CMS-r39-64;EX-related2017,厂商页面说又发出一单到国外；其图片 URL 带 20201124。,不可将日期字段／文件名当真实发运日；货物、采购方、订单及真实采集日未知；r95 的撤回继续有效。
+egm-2019,旧 CMS id 324: 2019-11-16T17:20:00；网页文字含 © 2019,EGM-scope;EGM-intro;CMS-r39-324,厂商称其 8 口 L2+ 工业交换机通过包含流量整形与丢包的要求测试并获项目参与证书。,原 EGM 证书、测试报告、样机型号与配置未取；没有独立证据证明订单、现场部署或实际验收。
+teachers-2020,旧 CMS id 62: 2020-11-24T11:18:00；关联卡 11/24/2020,CMS-r39-62;TEACH-related2020;TEACH-title;TEACH-image,该 slug 的本轮工具标题为教师节；正文可见层未出现出口发货陈述。,导出的相邻相关文章标题不能当当前页正文；不排除历史内容变化；图片不同 URL 不证明不同或相同图片字节。
+tgsk-2021,旧 CMS id 405: 2021-01-29T12:55:18,CMS-r39-405;TGSK-claim,厂商网页写成为土耳其网络安全集群成员。,没有独立会员记录、期限或当前状态；会员不是资格认证或订单。
+training-2021-tr,旧 CMS id 419: 2021-02-12T17:35:26；土文正文 February 12 2021,CMS-r39-419;TRAIN-tr-date;TRAIN-tr-language,厂商称与 Knowledge Club 签署培训中心协议，课程含理论实操及土英双语。,未见双方签字文本、授课、人数、适用产品、课程日历或证据当前有效。
+training-2021-en,英文正文 February 12 2021；既存英文新闻索引 05/03/2021,TRAIN-en-date;TRAIN-en-language;TRAIN-index-date;TRAIN-index-body,同厂商英语正文和索引摘录复述 2 月 12 日，索引另显示数字日期。,05/03 可有不同日月解释；不同字段可能表示不同事件，不判定哪一日发布或哪一日签字。

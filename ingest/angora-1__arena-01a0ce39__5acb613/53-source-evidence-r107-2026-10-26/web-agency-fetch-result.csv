@@ -1,0 +1,2 @@
+url,status,tool_message,body_obtained,analysis_use
+https://advensis.com.tr/angoranetworks/,error,Failed to fetch page,false,excluded; search metadata is not source text and failure reason unknown; no identical retry

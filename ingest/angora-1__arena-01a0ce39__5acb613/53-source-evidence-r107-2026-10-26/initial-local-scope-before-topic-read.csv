@@ -1,0 +1,13 @@
+repository_relative_path,bytes,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/angora/api/wp-api-posts.tsv,1186,existing first saved CMS post metadata; dates unverified; no PDF
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/angora/api/wp-api-posts-2026-11-01.tsv,1340,existing second saved CMS post metadata; dates unverified; no live API
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/00-METHOD-TIMESTAMPS.md,5109,existing crawl method and type distinction
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/00-METHOD-TIMESTAMPS.md,3446,existing second crawl method and dates
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/163-angora-corporate-chronicle-2016-2026-2026-10-26.md,37417,existing chronology; first byte-read earlier under historical safety scope
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md,30160,existing legal/entity and source limitations; no followup
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md,12158,existing product/source attribution context; first byte-read earlier under historical safety scope
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md,13034,previous product scope and limitations
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/175-angora-design-service-delivery-r106-2026-10-26.md,11969,previous service and interview analysis
+ingest/angora-1__arena-01a0ce39__5acb613/51-audit-r106-2026-10-26.md,7300,previous audit and prior reading method
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/README.md,6966,previous source representation and manual corrections
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/external-visible/ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir/index.tr.extracted.md,33069,prior manual 2023 interview transcription; preserve bytes; audit known omission

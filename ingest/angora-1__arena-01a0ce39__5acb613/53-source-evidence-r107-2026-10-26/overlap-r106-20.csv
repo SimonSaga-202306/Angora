@@ -1,0 +1,15 @@
+repository_relative_path,in_r106_20,r107_group
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/angora/api/wp-api-posts.tsv,False,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/angora/api/wp-api-posts-2026-11-01.tsv,False,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/00-METHOD-TIMESTAMPS.md,True,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/00-METHOD-TIMESTAMPS.md,True,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/163-angora-corporate-chronicle-2016-2026-2026-10-26.md,True,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md,False,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md,True,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md,True,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/175-angora-design-service-delivery-r106-2026-10-26.md,False,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/51-audit-r106-2026-10-26.md,False,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/README.md,False,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/external-visible/ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir/index.tr.extracted.md,False,initial-local-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/external-visible/www.angoranetworks.com/news/index.en.extracted.md,False,news-index-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/interview-claim-matrix.csv,False,additional-read-inventory.csv

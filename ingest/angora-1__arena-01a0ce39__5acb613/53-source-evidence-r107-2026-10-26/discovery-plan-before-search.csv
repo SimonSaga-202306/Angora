@@ -1,0 +1,4 @@
+query_id,query,purpose,guardrail
+Q01,"""Angora Networks"" ""EGM"" ""KGYS"" 2019 -larch -scodeno -lanaotek -filetype:pdf -site:support.angoranetworks.com",seek independent official or trade-publication provenance for 2019 product claim,discovery only; do not visit PDF or contact anyone
+Q02,"""Angora Networks"" 2018 ilk switch ağ anahtarı -larch -scodeno -lanaotek -filetype:pdf -site:support.angoranetworks.com",seek contemporaneous evidence of early product commercialization,discovery only; exclude stopped parties and PDF
+Q03,"""Angora Networks"" ""ihracat"" 2017 2020 -larch -scodeno -lanaotek -filetype:pdf -site:support.angoranetworks.com",seek independent dating of company export statement,do not infer transaction from snippets; no PDF or trade-index paywall

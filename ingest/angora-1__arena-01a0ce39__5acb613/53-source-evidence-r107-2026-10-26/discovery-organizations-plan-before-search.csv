@@ -1,0 +1,4 @@
+query_id,query,purpose,guardrail
+Q04,"""Angora Networks"" ""Knowledge Club"" 2021 yetkili eğitim protokolü -larch -scodeno -lanaotek -filetype:pdf -site:support.angoranetworks.com",seek a separate publisher for Angora training-protocol description,discovery metadata only; do not contact organization or fetch PDF
+Q05,"""Angora Networks"" ""Türkiye Siber Güvenlik Kümelenmesi"" üye -larch -scodeno -lanaotek -filetype:pdf -site:support.angoranetworks.com",seek public membership list entry to compare with Angora self-claim,discovery metadata only; do not contact organization or fetch PDF
+Q06,"""Angora Networks"" ""EGM"" ""KGYS"" ""8 port"" -larch -scodeno -lanaotek -filetype:pdf -site:angoranetworks.com",seek a separate publisher or official record on Angora test announcement,discovery metadata only; do not contact customer or fetch PDF

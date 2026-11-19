@@ -1,0 +1,11 @@
+query_id,position,url,page_age_as_reported,disposition
+Q04,1,https://www.angoranetworks.com/angora-networks-and-knowledge-club-signed-protocol-for-authorized-training-center/?lang=en,Monday May 03 2021,separately prelisted and fetched; same publisher as Turkish version
+Q04,2,https://www.angoranetworks.com/artik-tgsk-uyesiyiz/,Monday June 15 2026,already prelisted and fetched; vendor self-claim only
+Q04,3,https://www.angoranetworks.com/news/?lang=en,,not fetched; seek already saved index instead
+Q04,4,https://www.angoranetworks.com/angora-networks-completed-the-cisco-ise-integration/?lang=en,Wednesday December 21 2022,not fetched; already covered in r104
+Q04,5,https://www.knowledgeclub.net/partnership/,Monday September 02 2024,not fetched; partner directory and unrelated organization names outside scope; snippet alone not a verified protocol
+Q05,1,https://www.angoranetworks.com/artik-tgsk-uyesiyiz/,Monday June 15 2026,already fetched; vendor self-claim only
+Q05,2,https://www.angoranetworks.com/category/uncategorized-tr/,,not fetched; vendor category index
+Q05,3,https://siberkume.org.tr/katalog?page=145,,not fetched; no shown Angora membership entry
+Q05,4,https://siberkume.org.tr/katalog/urunler/firma/37-645-anchor-security-yazilim-danismanlik-anonim-sirketi,,not fetched; unrelated organization
+Q05,5,https://e-safe.org/2025-e-safe-siber-guvenlik-odulleri-juri-seviyesi,,not fetched; unrelated awards

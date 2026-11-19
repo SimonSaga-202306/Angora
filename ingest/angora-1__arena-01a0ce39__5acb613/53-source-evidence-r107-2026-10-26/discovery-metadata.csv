@@ -1,0 +1,11 @@
+query_id,position,url,page_age_as_reported,disposition
+Q01,1,https://www.angoranetworks.com/angora-networks-egm-trafik-sekillendirme-gereklilik-testlerini-gecti/,Monday June 15 2026,same vendor page already prelisted and fetched; no independent certificate located by this query
+Q02,1,https://www.angoranetworks.com/angora-networks-_en/?lang=en,Tuesday December 27 2022,not fetched; prior r106 quarantine prevents use
+Q02,2,https://www.angoranetworks.com/network-devices/,Wednesday June 11 2025,not fetched; existing r105 coverage
+Q02,3,https://www.angoranetworks.com/synapse-network-switch-ailesi/,Thursday January 15 2026,not fetched; existing r105 coverage
+Q02,4,https://advensis.com.tr/angoranetworks/,Thursday November 12 2020,separately prelisted fetch failed; no body obtained; publisher date and independence uncertain
+Q02,5,https://www.cbinsights.com/company/angora-networks,,not fetched; directory not independent contemporary proof
+Q03,1,https://www.angoranetworks.com/ut-in-laoreet-sapien-eu-amet/,Monday June 15 2026,same vendor page already prelisted and fetched; search snippet not treated as raw source
+Q03,2,https://www.angoranetworks.com/angora-networks-egm-trafik-sekillendirme-gereklilik-testlerini-gecti/,Monday June 15 2026,same vendor page; no independent transaction evidence
+Q03,3,https://www.angoranetworks.com/saglikli-basarili-ve-mutlu-bir-yeni-yil-dileriz/,Monday June 15 2026,not fetched; recommendation list cannot establish the export date
+Q03,4,https://fliphtml5.com/kfal/gevh/05-ICT_MEDIA_MAYIS_2025/,Monday May 05 2025,not fetched; unrelated document and no PDF access

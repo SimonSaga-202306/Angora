@@ -386,3 +386,14 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 - 厂商列 Best Effort、更换速度、维护窗口和各项培训时长，是选项描述，不是合同、地理覆盖、实际履约或授课证明。两份既有定制文书仅记录各自的品牌／GUI 等文字，不能合并或推断实机验收；未重启任何已 PASS 事项，不联系客户。
 
 详见 [独立附录](120-angora-orders-dossier-2026-10-21.r106-appendix.md)、[字段映射](120-angora-orders-master-2026-10-21.mapping-r106.md)和 [r106 报告](../08-customer-pipeline/175-angora-design-service-delivery-r106-2026-10-26.md)；旧档前缀保留。
+
+
+---
+
+## r107 追加附录索引：早期商业化与转存纠错
+
+- **修正／取代 r94**：当前可复核的 2020-11-24 对应网页是教师节，未见出口正文；另一页的出口陈述无法仅由旧 CMS 日期或图片名确定发运日。2019 工业 8 口 L2+ 的测试与项目参与证书是厂商声明，未取得 EGM 原证书或验收；不能断定“唯一公开的部委级准入”。r95 对 2017 货物类型的撤回继续有效。
+- **修正／取代 r40**：两份旧文章表中 10 个 ID 的日期及修改字段一致，但两个保存的 slug 字符串不同；不能据此推断真实 URL 变动。r104 已纠正 r39 表头 9 行、实际保存 10 行。
+- **修正 r106**：四个访谈工具块已获取，但人工转存漏掉一段；旧版不变，另存单处修订版。原先九条索引主张行在单次替换前后不变，全文仍未自动逐字核验。2021 培训、会员均属厂商历史声明，不等于当前合同、证书或已授课。
+
+详见 [独立附录](120-angora-orders-dossier-2026-10-21.r107-appendix.md)、[映射](120-angora-orders-master-2026-10-21.mapping-r107.md)和 [r107 报告](../08-customer-pipeline/176-angora-early-commercial-evidence-r107-2026-10-26.md)。不联系客户或重启已 PASS 事项；旧前缀保留。

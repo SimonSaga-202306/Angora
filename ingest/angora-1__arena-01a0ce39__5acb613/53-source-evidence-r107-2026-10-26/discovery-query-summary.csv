@@ -1,0 +1,10 @@
+query_id,result_count,scope_and_result_limit
+Q01,1,manufacturer result only; no independent EGM certificate established
+Q02,5,early product discovery; about page quarantined previously and agency fetch later failed
+Q03,4,export discovery; no independently verified transaction date
+Q04,5,training discovery; English vendor page fetched after separate prelisting and partner directory not fetched
+Q05,5,membership discovery; no specific association record obtained
+Q06,0,no results for this query only; not proof that no record exists
+Q07,5,three unrelated HTML results and two unexpected government PDF snippets; PDFs not opened or used
+Q08,0,no results for this query only; not proof that no membership exists
+Q09,2,training-provider search; partner wall and generic training page not fetched

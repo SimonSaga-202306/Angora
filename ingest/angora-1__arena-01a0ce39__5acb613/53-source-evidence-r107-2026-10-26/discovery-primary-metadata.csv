@@ -1,0 +1,8 @@
+query_id,position,url,page_age_as_reported,disposition
+Q07,1,https://www.egm.gov.tr/bilgiteknolojilerivehaberlesme/kgys-ve-goruntu-sistemleri-temel-teknisyenlik-egitimi-h,Wednesday December 11 2019,not fetched; search result does not identify Angora or certificate
+Q07,2,https://egm.gov.tr/kent-guvenlik-yonetim-sistemleri-kgys-ile-trafik-denetimi-gerceklestirildi-,Wednesday December 29 2021,not fetched; unrelated enforcement story
+Q07,3,https://www.egm.gov.tr/kent-guvenlik-yonetim-sistemleri-kgys-ile-trafik-denetimi-gerceklestirildi-2021-12-15,Wednesday December 15 2021,not fetched; unrelated enforcement story
+Q07,4,https://www.egm.gov.tr/kurumlar/egm.gov.tr/IcSite/strateji/Konsolide/EGM_2023-KURUMSAL-MALI-DURUM-BEKLENTILER-RAPORU(1).pdf,,excluded; search returned PDF snippet despite filter; not opened or used; snippet acquisition method unknown
+Q07,5,https://www.egm.gov.tr/kurumlar/egm.gov.tr/IcSite/strateji/Konsolide/2022_EGM_KURUMSAL_MALI_DURUM_BEKLENTILER_RAPORU.pdf,,excluded; search returned PDF snippet despite filter; not opened or used; snippet acquisition method unknown
+Q09,1,https://www.knowledgeclub.net/partnership/,Monday September 02 2024,not fetched; partner wall outside agreed scope
+Q09,2,https://www.knowledgeclub.net/training/,Friday August 09 2019,not fetched; search snippet not specific evidence of Angora protocol

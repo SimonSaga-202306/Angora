@@ -1,0 +1,4 @@
+query_id,query,purpose,guardrail
+Q07,"site:egm.gov.tr ""Angora Networks"" ""KGYS"" -larch -scodeno -lanaotek -filetype:pdf",seek governmental public HTML specific to Angora qualification claim,discovery only; no contact; no PDF; no generalized inference from no results
+Q08,"site:siberkume.org.tr ""Angora Networks"" -larch -scodeno -lanaotek -filetype:pdf",seek association-controlled public individual entry for Angora,discovery only; no partner walls and no contact
+Q09,"site:knowledgeclub.net ""Angora Networks"" ""training"" -larch -scodeno -lanaotek -filetype:pdf",seek separate training provider Angora-specific evidence,discovery only; no directory partner wall; no contact or PDF
