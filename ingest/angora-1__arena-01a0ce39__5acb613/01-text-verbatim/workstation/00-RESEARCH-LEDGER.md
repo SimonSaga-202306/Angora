@@ -3507,3 +3507,56 @@ r91 问：该证法规上是 `hizmet` 要求，为何 Çankırı 的 `mal alım�
 **⚠ 低于 r88 的 52/46，系用户指令要求收窄至单一主体的口径变更**（横向源无增量价值），且一手占比 **36% > r88 的 13%**，证据密度更高 ⇒ **记为口径变更，不记为质量下降**。
 **空白**：4 家伙伴是否兼代理 Huawei/H3C/D-Link（`arduc` 11 个 Logo 未识别）· Fi Teknoloji 除电话外未知 · Angora 是否有 YMB / Sanayi Sicil 是否含交换机（lonca 500）· 「制造」与 Arelcon 同址的性质 · `5713` 的 MAC/路由/TSE 售后证 · Angora 是否在 EKAP 中标名单（`ANW-` 型号在公开规格书仍零命中）· 「100% yerli sermaye」股权事实 · 规模数据全为第三方估算 · **45 家电话全未拨**。
 **r94 三条提示**：① `lonca.gov.tr` 是当前最高性价比单点（一查同时答「有无产线 / 能否出 YMB / 是否真制造」），沙箱不可达则必须由土耳其侧代查截图；② `ANW-5713-24S8T6X` 是整条 Synapse 线的钥匙，下一步找它的独立数据表核 MAC/路由/40G；③ **不要再搜「Angora Networks + ihale kazandı」**（已两轮确认被 `ANGORA SU ARITMA` 污染），投标痕迹只能从采购人 + IKN 反查，且大概率它出授权书、伙伴递标 —— 验证唯一办法是问 4 家伙伴「你们投过哪些标」。
+
+---
+
+## §88 · 第 94 轮 — 2026-10-26（UTC）：**Angora 本体专项（二）—— 2016–2026 企业档案：十年编年 · 10 个产品家族 · 三层渠道 · 45 票进口**
+
+### 一、为什么有这一轮
+用户第 46 次「继续」，并加码：「**最好是把 angora 成立之后所有的商业信息都挖了入库**」。⇒ r93 是横切（渠道 + 一张标），本轮改纵切：**时间轴（每一条商业新闻/协议/资质）+ 结构（品牌家族、所有权、渠道层级、客户、贸易流）**。目标不是「再找一条线索」，而是**把这家公司做成一份可长期复用的档案**。
+
+### 二、十年编年（12 个可核节点）
+**2016-11-28 注册**（A.Ş.，Yenimahalle/Ankara，**NACE 620902 = IT 服务，非制造**；X 账号 2016-12 开设）→ **2017「首批服务」：咨询/维护/研发**（第一年无产品；2017-02-03 博客首次出口 ⇒ 服务/贸易出口）→ **2018 首款产品：24 口交换机（PoE 与非 PoE）** → **2019 现货 COTS + 建渠道** + **2019-11-16 EGM KGYS「交通整形」合格**（原文：**工业 8 口 L2+ 可管理交换机**，获全国项目参与证书）→ **2020 新一代产品 + 海外运营**（2020-10-23 以 **Kurucu Ortak** 身份出席 Kamubib-Bimy）→ **2021 三签**：**TGSK 会员（01-29）· Knowledge Club 授权培训中心（02-12）· Cisco ISE（06-21）+ PacketFence NAC（08-26）兼容**；同年 **Elcore 进土耳其** → **2022**：Packet Broker 文（10-02）· **Arrow 数据二极管发布（10-10）** · ICT Media 预告 **Angora KOZ'23**（10-18）· Kamubib-Bimy 2022 由 **Taylan Esen（Yönetici Ortak）** 演讲（11-17）→ **2023**：GM 专访（06-08，100% yerli sermaye / OEM / Teknokent）· **KOZ'23 举办（10-19）** · **Arrow 加 ModBUS/OPC（12-05）** · **最后一票可查出口（11-14，约旦）** → **2024–2026 静默**：新闻与博客止于 2023-12-05，但**产品页在更**（Synapse 2026-01-15 / Hitit 2026-03-24）；`post-sitemap` 的 `2026-06-15` 是**站点迁移 lastmod，不是发文日**；**2026-10 EPDK+ELDER「Enerjim Sensin」加速器 20 强决赛（⚠ 未获奖，获奖者 Pulse Systech / AT-AK / VoltGuard）**。
+
+### 三、产品家族是 10 个，不是 6 个（推翻 r93 的「只到 10G」）
+新增 **GORDION 数据中心系列**（一手 PDF `download/1053`）：**`2520-48SFP25G-6SFP100G`（48×25G + 6×100G，3.2 Tbps，Marvell 95EX，520 W 热插拔）· `2520-32QSFP100G`（6.4 Tbps）· `2520-32QSFP400G`（32×400G，12.8 Tbps）**；8–16 GB RAM / 16–64 GB Flash；**VXLAN / NVGRE / VXLAN-GPE / VPLS / EVPN / MPLS**；**自有 `AngoraOS`**。
+新增 **KARINCA NPB**（`download/1031`）：**`ANW-ANT-10000-BASE`**（8×1/10/25G + 过滤包，100 Gbps）+ **`-ADD-XP`**（端口许可）+ **`-ADD-YGB`**（吞吐许可）⇒ **License 制售卖**。
+补全 **ARI 家族到 7 型号**（`download/1062`）：`1100`(C2316) `1200`(ARM A72) `2000`(J1900) `3200`(C3336) `3400`(C3558) `3800`(C3758) `4600`(C3958，4×10G)；**官方列明可跑 pfSense / OPNsense / PacketFence / OpenWISP / Cuckoo / Asterisk / NextCloud / Proxmox / NGINX**。
+⇒ 判读：**有 400G + 自有 NOS ⇒ 不是「只会贴牌 24 口」；Arı 是纯白牌 uCPE ⇒ 与我方摩擦最小；Karınca 已具「硬件 + License」定价能力 ⇒ OEM 报价可沿用同一结构。**
+
+### 四、渠道三层（补全 r93 的「4 家」）
+**总代 Elcore Distribution（Elcore TR，2021 进土耳其，İstanbul + Ankara）** —— KOZ'23 上由 **Elcore 国别经理 Aykut Dalyan** 主讲「ANGORA & ELCORE 合作与分销实力」；**伙伴 4 家**（A Bilişim / Arelcon / Asır Digital / Fi Teknoloji）；**技术伙伴 Alaattin Bilişim**（安卡拉，1–10 人，`alaattin.com.tr`，**+90 312 909 32 39**）—— 土耳其 PacketFence 端到端支持方（PR 原文）。
+⇒ **「81 ilde bayi ve servis ağı」是可核 6 家主体对不上的宣传语** ⇒ **渠道密度极低 = 我方机会面**。
+
+### 五、所有权、客户与贸易足迹
+- **合伙人制**：**Levent Kılıç = Kurucu Ortak**（2020 议程；2023 专访称 Genel Müdür）· **Mehmet Taylan Esen = Yönetici Ortak**（2022 议程；**KOZ'23 讲「Angora Üretim Süreci」⇒「有没有工厂」应问他**）· 另有 Zafer Doğruel / İbrahim Balcı / Eren Koç / Mehmet Yasin Koru / Can Hayat。
+- **客户 logo 11 个（about 页）**：**KGM · TSK · TÜRKSAT · TCDD · MSB · ASELSAN · HAVELSAN · Anadolu Üniversitesi · Turkcell KKTC · EGM · Sağlık Bakanlığı**（上传期 2020-12 ~ 2022-02）⇒ **r93「官网不公开客户」作废**；⚠ **logo ≠ 中标记录，无年份/金额/标号**。
+- **贸易足迹（Volza 摘要，页面 500）**：**45 票进口 / 15 家供应商 / 2 票出口（约旦 1、俄罗斯 1，最后一票 2023-11-14）/ 合计 47 票** ⇒ **旧口径「47 票全进口」作废**；**它是进口商 ⇒ 我方是「第 16 家供应商」而非挑战者**。
+- **官方名录互证**：**VKN 0690520220 · 0312 241 77 47**（İMMİB 2023 与 2024 两版一致）；find.com.tr 0312 222 5121（2017 快照）。
+
+### 六、它公开卖的服务（OEM 是正式品类）
+**Özgün Tasarım（OEM/ODM）** 专页：**「100% 本国设计」由土耳其工程师在土耳其完成**；范围 **Intel / ARM 的 IoT 板卡 → 高端服务器**；交付含 **电子设计 + 物理外壳 + 定制操作系统**。另：专业服务（咨询/设计/Day-2/文档/在线支持）、培训（Knowledge Club 授权培训中心）。
+⇒ **OEM 是对外收询盘的正式服务**（入口页 `ozgun-tasarim-oem-odm-hizmeti`，手册页脚 `contact@angoranetworks.com`）⇒ 谈判时对方是「服务提供方」，不是「被说服方」。
+
+### 七、修正表
+| # | 旧轮 | 本轮 | 级别 |
+|---|---|---|---|
+| 1 | **r93**：自家只到 10G，25/40/100G 是缺口 | **作废**：Gordion 12.8 Tbps / 32×400G + AngoraOS ⇒ **删掉「补 25/100G」** | 修正 r93 |
+| 2 | **r93**：渠道只有 4 家 | **补全**：+ Elcore 总代 + Alaattin 技术伙伴 = **6 家可核主体** | 补全 r93 |
+| 3 | **r93**：`client-types` 空 ⇒ 官网不公开客户 | **作废**：about 页 11 个客户 logo | 修正 r93 |
+| 4 | **r93**：新闻停更 ⇒ 传播停摆 | **精确化**：产品页在更、新闻停更；2026-06-15 是迁移 lastmod；**≠ 停业** | 精确化 r93 |
+| 5 | **r93 §八**：补四段（含 25/40/100G） | **收窄为三段**：40/70/80 km 光模块 · 全千兆工业宽温 PoE++ · 交期/现货 | 修正 |
+| 6 | 旧「Volza 47 票全进口」 | **47 = 45 进口 + 2 出口** | 维持修正 |
+| 7 | 规模 7 人 / 11–50 人 | 新增互证：**手册页脚同时用 `contact@angoranetworks.com` 与错拼的 `support@angora.networks.com`** | 加强 |
+
+### 八、产出与规模
+- 新增 `08-customer-pipeline/163-angora-corporate-chronicle-2016-2026-2026-10-26.md`（十五节）
+- 新增 `r94_appendix_data.py`（键 `'75'`）+ builder 接 `R94`（6 处）⇒ **written 146 / index 146 / leftovers 0**
+- 挂载：**`TR Customers/A/075-technopc.md`**（行号 075 落在 **A 档**）
+- 台账 §88 · `AGENT-README` 第 94 行 · `00-TASK-STATUS` 第 DA 行 · 根 `README.md` 增 `163`
+- **⚠ 工程事故（已恢复）**：本轮开工时沙箱在**基准提交 `691123a`** 重新克隆，r44–r93 全部文件本地缺失；已 `git fetch + reset --hard FETCH_HEAD` 恢复到 `ad1c5b1`，本轮新文件为 untracked 未被覆盖。**教训：每轮开工先 fetch+reset 已成必须**。
+
+### 九、源计数与空白
+**抓取 31（5 失败：`volza` 500、2 次空 SERP、沿用前两轮的 `lonca`/`fitekshop`）· 去重引用 44 · 一手 19 / 二手 25 · 一手占比 43%**（r88 为 13%）⇒ 源数低于 r88 的 52/46，系**用户要求聚焦单一主体的主动降级**。
+**空白**：**股东名单 / 注册资本 / 实缴**（Ticaret Sicil Gazetesi 未检得）· 营收利润员工数无官方披露 · **「制造」地址与 Arelcon 同址性质仍未解** · **Elcore 代理起始日/排他性/是否仍在代** · **Gordion 2024 年后是否仍在售** · Volza 15 家供应商国别（页面 500）· Gordion/Karınca/Arı 是否进过公共标（`ANW-` 型号仍零命中）· 11 个客户 logo 无年份金额 · YMB/Sanayi Sicil（`lonca` 仍 500）· **46 家电话全未拨**（+Alaattin Bilişim）。
+**r95 三条提示**：① 唯一还没找到的硬事实是**股权与资本** —— 只能走 Ticaret Sicil Gazetesi 检索或直接问「是否接受战略投资/合资」；② **Gordion 是最大信息缺口**（400G + 自有 NOS：真在卖 ⇒ 段位上移；2021 年的 PPT ⇒ r93 的「实务上只到 10G」仍成立）⇒ 找 Gordion 的客户案例/报价/第二份 datasheet；③ **不要在公开标方向继续找「Angora 中标」**，它的模式是**出授权书 + 伙伴/总代递标**，唯一有效验证是问 **Elcore**。
