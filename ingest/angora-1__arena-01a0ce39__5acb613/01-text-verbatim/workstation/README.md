@@ -1,3 +1,5 @@
+> **r97 最新入口**：[首两单、385 台与软件](08-customer-pipeline/166-angora-first-second-order-software-r97-2026-10-26.md) · [字段映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r97.md) · [逐源目录](../../15-source-evidence-r97-2026-10-26/README.md)。商业接触已见 2024-04-28 邮件；首单 8 口为商业机，第二单分三张 PI 且后续同型号有不同配置。文件数是限定范围的派生文件数，原件和最终履约仍待核。
+
 > **r95 修正（2026-10-26）**：此前关于 Hakan 为 Angora 沉默资方、Ewind 为最大供应商以及 HITIT 全系已实证的摘要**撤回或降级**：原公报 OCR 多栏串行，贸易聚合索引未解锁逐票。 [详细证据与替代口径](08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
 
 # 🗂️ workstation · Angora 情报工作台

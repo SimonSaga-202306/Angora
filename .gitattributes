@@ -1,3 +1,11 @@
 # Preserve r96 evidence bytes (including original CRLF and transcript whitespace)
 # across checkouts; SHA-256 in its manifest refers to these exact local artifacts.
 /ingest/angora-1__arena-01a0ce39__5acb613/11-source-evidence-r96-2026-10-26/** -text
+
+# r97 separately preserves each conflicting incoming version, without conversion.
+/ingest/angora-1__arena-01a0ce39__5acb613/14-protected-variants-r97-2026-10-26/original-paths/** -text
+# The protected 16 MB drawing has over two million tiny lines; do not render it as a text diff.
+/ingest/angora-1__arena-01a0ce39__5acb613/14-protected-variants-r97-2026-10-26/original-paths/**/*.dxf -diff
+
+# Preserve the recorded r97 visible text and inventory hashes, including spaces.
+/ingest/angora-1__arena-01a0ce39__5acb613/15-source-evidence-r97-2026-10-26/** -text

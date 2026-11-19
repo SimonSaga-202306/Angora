@@ -1,3 +1,5 @@
+> **r97 修正并取代 r27**：首单两台 8 口是商业 PoE，非工业机；第二单 `$1,545/$200/$600` 是不同时点的三张 PI，不能写成 10 月 22 日已收全额；`P20241026-01` 正文是 ¥6,624，文件名 ¥5,624 不能称净额。`ANW-2116-PG` 二、三单同名不同规格，`$200` 最终是否抵扣未证。见文末 r97 附录和 [逐字段映射](120-angora-orders-master-2026-10-21.mapping-r97.md)。
+>
 > **r96 修正并取代 r27 对应结论**：该文/同名 CSV 的「统一汇率 7.15」「6th $990 与发票对平、2025-06-13 FedEx 已出」「Saga OUI / 2,048 个、41 已用、2,000+ 剩余」「4th-pre 行项未抽取、¥9,110 单独未了结」均不成立或证据不足。4th/5th 有 $255 跨单差价与多个发票版本；3rd 计划、开票、装箱口径不同。原文只作历史档，[逐字段映射与证据](120-angora-orders-master-2026-10-21.mapping-r96.md)；当前 [r96 总报告](../08-customer-pipeline/165-angora-order-mac-document-reconciliation-2026-10-26.md)。
 
 # 120 · Angora 订单链全量档案（Google Drive 订单文件夹 → 本地知识库）
@@ -293,3 +295,13 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 - `06-competitors/110-turkey-local-competitors.csv` 行 1（PNetworks）：TT 贴牌通道 vs PNetworks-Edgecore 白牌同构对照
 - `06-competitors/97-turkey-anchor-strategy-marvell-route.md`：Marvell 护城河论述（本档案 7.4 节 = 用户方 2026-07-20 内部文档原文）
 - `06-competitors/95-smartbyte-price-trend-2024-vs-2026.md`：SmartByte 价单（本档案 = 实际成交价的 9 个锚点）
+
+## 附录：r97 明确修正并取代 r27（保留历史原文）
+
+1. §2/§3.1/§4 的首单“2×8 口工业”不对：PI 和采购合同均称商业 PoE；24/48 口上联包含 10G。首单 PI 8 口 240W 预算与采购合同 52V/120W 电源待核，不能替用户确定实际功率。
+2. §3.2 的供货合同 `P20241026-01` 文本列 ¥6,624；文件名 ¥5,624 等于未含 ¥1,000 界面费的算术小计，不能写成“净额”。采购与供货文件的型号、深圳/惠州名称不同，不能自行判同一法人。
+3. 第二单 10-21 `$1,545`、10-28 `$200` 服务、11-05 `$600` 三 PI 和 CI 总额相同，但项目拆分不同；卖方 11-06 确认已收到 `$200`，`$600` 当时称在途，完整银行流水仍待核。
+4. `ANW-2116-PG` 第二单为 16 电+4 光商用机，第三单 PI 为 16 电+2 光工业机；11 月约定的软件费抵扣未在 2025-01 PI 单列，不能宣称已经冲抵或仍欠。10-23 客户回复与 11-28 议价是不同原文档。
+5. 第二单 11-13 海关所在国曾被客户纠正；11-21 客户称前一天已清关、货在伊斯坦布尔，但没有在该句给运单号，最终签收仍未独立核实。
+
+逐字段证据见 [r97 映射](120-angora-orders-master-2026-10-21.mapping-r97.md) 与 [总报告](../08-customer-pipeline/166-angora-first-second-order-software-r97-2026-10-26.md)。

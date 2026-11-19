@@ -1,5 +1,7 @@
 # 📋 任务总表 · 完成情况
 
+> **r97 当前入口**：[Angora 深度报告](08-customer-pipeline/166-angora-first-second-order-software-r97-2026-10-26.md) · [旧字段映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r97.md) · [来源/目录](../../15-source-evidence-r97-2026-10-26/README.md) · [独立跟进](../../16-followup-angora-r97-2026-10-26/angora-networks.md) · [入场 27 个差异版本安全副本](../../14-protected-variants-r97-2026-10-26/README.md)。首单商业 8 口、第二单三笔与 2116 同名异规格均已修正；385 台后续及最终抵扣仍未闭环。r96 旧 stash 在新环境中不可见，27 个文件以本轮目录逐字节保存，不得依赖 stash 跨环境存在。未联系任何客户，也未启用关闭的应用。
+
 > **r96 当前入口（取代旧轮相应结论；会话当前日期 2026-10-26 UTC，沙箱时钟显示 2026-11-19，非已验证的历史网页快照）**：[Angora 总报告](08-customer-pipeline/165-angora-order-mac-document-reconciliation-2026-10-26.md) · [订单 CSV/正文逐字段映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r96.md) · [逐源清单](../../11-source-evidence-r96-2026-10-26/README.md) · [Angora 独立跟进档](../../12-followup-angora-r96-2026-10-26/angora-networks.md)。2025 第三单 PI/CI/PL/回单分口径；4th-pre ¥9,110 是供货侧金额、4th/5th $255 及 6th $90 差额仍待核。MAC 归属与 1,536/35 行修正见报告；公报原图、当前财报、Gordion 商业状态、Ewind 逐票仍未知。不主动联系其他客户，本轮未发信；旧章节对已停令对象的建议失效。原 781 件只是历史清单，本轮未全量重读。
 
 > **r96 安全修正**：下方历史“硬重置恢复”建议已撤回，不得例行执行；先确认当前分支、检查并保护工作树。`stash@{0}` 为本地安全快照，未删除，也不会随 push 自动上传。
