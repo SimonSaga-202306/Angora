@@ -1,0 +1,3 @@
+replay_id,chunk_index,planned_chunk_path,planned_combined_path,ordering_note
+AR07,0,archive-chunks/AR07/chunk-0.visible.md,archive-replay/support.angoranetworks.com/ht_kb/voice-video-ip-telephony/20210227210054/index.visible.md,URL and source path prelisted; chunk count learned after first response
+AR07,1,archive-chunks/AR07/chunk-1.visible.md,archive-replay/support.angoranetworks.com/ht_kb/voice-video-ip-telephony/20210227210054/index.visible.md,fetch remaining block and check identity and continuity; no device commands

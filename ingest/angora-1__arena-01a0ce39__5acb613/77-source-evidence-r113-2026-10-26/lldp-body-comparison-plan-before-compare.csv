@@ -1,0 +1,2 @@
+comparison_id,source_a,source_b,start_marker,end_marker,normalization,guardrail
+D01,archive-replay/support.angoranetworks.com/ht_kb/link-katmani-kesif-protokolu-lldp/20211128053947/index.visible.md,archive-replay/support.angoranetworks.com/ht_kb/link-katmani-kesif-protokolu-lldp/20250211055347/index.visible.md,## Angora uygulaması,### Was this article helpful?,replace 14-digit Wayback replay timestamps with a placeholder only,compare saved manual text only; paths already read for chunk assembly; no claim of raw HTML identity or continuous firmware behavior

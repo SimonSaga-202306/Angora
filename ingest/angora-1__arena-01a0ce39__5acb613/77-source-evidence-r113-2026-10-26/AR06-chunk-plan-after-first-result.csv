@@ -1,0 +1,3 @@
+replay_id,chunk_index,planned_chunk_path,planned_combined_path,ordering_note
+AR06,0,archive-chunks/AR06/chunk-0.visible.md,archive-replay/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/20250211062254/index.visible.md,URL and source path prelisted; chunk list made after first response; public default values not repeated in narrative
+AR06,1,archive-chunks/AR06/chunk-1.visible.md,archive-replay/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/20250211062254/index.visible.md,fetch remaining block; verify identity and continuity; no login or device action

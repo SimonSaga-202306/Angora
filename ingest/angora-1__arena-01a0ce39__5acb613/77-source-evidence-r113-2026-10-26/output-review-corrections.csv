@@ -1,0 +1,2 @@
+artifact,issue,correction,re_read
+verify_r113.py,draft source classifier would also reject AR replay IDs when excluding A index IDs,restricted the exclusion to A followed by two digits and added a fixture distinguishing A01 from AR01,reviewed code and positive/negative fixture passed before first full verifier run

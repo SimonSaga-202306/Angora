@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q06,1,1,Angora Networks - YouTube,https://www.youtube.com/channel/UCCAG46dVy-wxXtO-_b7fTPA,,channel metadata only; not an independent source
+Q06,2,2,Network teknolojileri alanında: ANGORA NETWORKS- Levent Kılıç - YouTube,https://www.youtube.com/watch?v=yveHNxOXD3g,"Monday, October 12, 2020",same as r111 X04; no re-fetch
+Q06,3,3,"Yerli Akıl, Küresel Teknoloji / Angora Networks Genel Müdürü Levent KILIÇ - YouTube",https://www.youtube.com/watch?v=z0loF632E2s,"Wednesday, May 24, 2023",r112 failed 401/script drift; do not retry unchanged
+Q06,4,4,Angorabuilds - YouTube,https://www.youtube.com/channel/UCOBbteLfn-RJriD_rjkKc1A,,unrelated channel; not opened
+Q06,5,5,Tygodnik Angora pogawędki - YouTube,https://www.youtube.com/@redakcja.angora/podcasts,,unrelated magazine; not opened

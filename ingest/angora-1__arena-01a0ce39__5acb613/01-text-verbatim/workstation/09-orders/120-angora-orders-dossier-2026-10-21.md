@@ -444,3 +444,8 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 ## r112 增补索引（2026-10-26 为目录标签）
 
 [独立档案附录](120-angora-orders-dossier-2026-10-21.r112-appendix.md) · [字段映射](120-angora-orders-master-2026-10-21.mapping-r112.md) · [主报告](../08-customer-pipeline/181-angora-nac-support-bug-evidence-r112-2026-10-26.md)。增补 r110 的历史 802.1X 和厂商问题页面；修正对 r110 GH03 零结果“无公开材料”的可能误读，但不把旧响应判错。历史计划版本、公开样例和日志均不是现场修复或验收证明。主体未确认；用户已 PASS 事项不重新开启。
+
+
+## r113 增补索引（2026-10-26 为目录标签）
+
+[独立档案附录](120-angora-orders-dossier-2026-10-21.r113-appendix.md) · [字段映射](120-angora-orders-master-2026-10-21.mapping-r113.md) · [主报告](../08-customer-pipeline/182-angora-management-voice-evidence-r113-2026-10-26.md)。增补 r110 的历史 LLDP、语音 VLAN 和入门说明；限定 r112 的问题索引只能说明链接出现，不证明当时或当前修复状态。历史默认与示例不等于当前设备配置或实测。主体未确认，用户已 PASS 事项不重新开启。

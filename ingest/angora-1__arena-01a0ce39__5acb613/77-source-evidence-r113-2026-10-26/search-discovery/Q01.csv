@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q01,1,1,Voice/Video/IP Telephony,https://support.angoranetworks.com/?ht_kb=voice-video-ip-telephony,"Thursday, September 26, 2019",candidate historic support guide; search metadata only
+Q01,2,2,Quick Start Guide,https://support.angoranetworks.com/?ht_kb=quick-start-guide,,r112 direct 522 and filtered CDX empty; no re-open
+Q01,3,3,Tacacs+ Authentication (with Cisco ISE),https://support.angoranetworks.com/?ht_kb=tacacs-authentication-with-cisco-ise,"Thursday, October 24, 2019",r110 existing historical source; not new
+Q01,4,4,Stacking,https://support.angoranetworks.com/?ht_kb=stacking,"Sunday, April 05, 2020",r110 existing historical source; not new
+Q01,5,5,Komut Satırı kullanımı,https://support.angoranetworks.com/?ht_kb=komut-satiri-kullanimi,"Sunday, October 18, 2020",r110 existing historical source; not new

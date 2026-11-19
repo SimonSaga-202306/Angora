@@ -1,0 +1,111 @@
+[![Wayback Machine](https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png)](https://web.archive.org/web/ "Wayback Machine home page")
+
+[4 captures](https://web.archive.org/web/*/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu "See a list of every capture for this URL")
+
+28 Nov 2021 - 11 Feb 2025
+
+|     |     |     |
+| --- | --- | --- |
+| [Jun](https://web.archive.org/web/20240623120527/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu "12:05:27 Jun 23, 2024") | FEB | Mar |
+| [12:05:27 Jun 23, 2024](https://web.archive.org/web/20240623120527/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu "12:05:27 Jun 23, 2024") | 11 |  |
+| [2021](https://web.archive.org/web/20211128060138/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu "06:01:38 Nov 28, 2021") | 2025 | 2026 |
+
+success
+
+fail
+[Share via My Web Archive](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu# "Share via My Web Archive") [Sign In](https://archive.org/account/login.php "Sign In")[Get some help using the Wayback Machine](https://help.archive.org/help/category/the-wayback-machine/ "Get some help using the Wayback Machine")[Close the toolbar](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu#close "Close the toolbar")
+
+[screenshot](https://web.archive.org/web/20250211062254/http://web.archive.org/screenshot/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu "screenshot")[video](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu# "video")[Share on Facebook](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu# "Share on Facebook")[Share on Twitter](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu# "Share on Twitter")
+
+[About this capture](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu#expand)
+
+TIMESTAMPS
+
+![loading](https://web-static.archive.org/_static/images/loading.gif)
+
+The Wayback Machine - https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht\_kb=hizli-baslangic-kilavuzu
+
+# Knowledge Base
+
+Search ForSearch
+
+1. [Home](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/ "Home")
+2. [Knowledge Base](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?post_type=ht_kb "Knowledge Base")
+3. [How To Guides](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb_category=how-to-guides "View all posts in How To Guides")
+4. [Hızlı Başlangıç Kılavuzu](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu "Hızlı Başlangıç Kılavuzu")
+
+Angora Networks ürünlerini seçtiğiniz için teşekkür ederiz.
+
+Bu bölüm, ilk bağlantı ve yapılandırma adımlarını anlatmaktadır. Eğer kurulumlar ile ilgili sorun yaşarsanız, Angora networks iş ortakları ile irtibata geçebilir veya  **[My Angora](https://web.archive.org/web/20250211062254/https://my.angoranetworks.com/)** üzerinden bir destek talebi yaratabilirsiniz.
+
+**Başlamadan önce**
+
+Cihaza güç vermeden önce, tüm elektrik bağlantılarının uygun şekilde yapıldığından emin olun.
+
+Cihazlar standart kabinler ile uyumludur ve montaj için gereken tüm elemanlar cihazınıza ait kutuda bulunmaktadır. Lütfen cihazın uygun şekilde monte edildiğini kontrol edin. Eğer cihazınızı bir kabin içinde çalıştırmayacaksanız, sabit bir masada konumlandığından ve üzerinde hiç bir şey olmadığından emin olun.
+
+**Komut satırına konsol portu ile erişim**
+
+Cihaz komut satırına bağlanmak için, Rj-45 / DB9 or Rj-45 / USB UART tipi bir kabloyu, cihaz ön paneli üzerinde bulunan ‘KONSOL’ arayüzüne takmalısınız. Bu kablo çevresel sürekliliğin sağlanması amacıyla cihaz kutusu içinden çıkmamaktadır. İstenildiği takdirde Angora Networks iş ortakları üzerinden ayrıca sipariş edilir. Diğer ağ cihazlarınızı yönettiğiniz mevcut kablolarınızı kullanarak da, erişim sağlayabilirsiniz.
+
+> SFP+ arayüzlerinin sağında bulunan _‘YONETIM’_ arayüzü henüz aktif değildir. Bu arayüz sadece arıza giderimi amaçlı kullanılmaktadır.
+
+Konsol bağlantısı üzerinden veri akışı sağlanması için, bir terminal emülasyon uygulaması kullanmak gerekmektedir.SecureCRT, Screen vey Zoc7 gibi bilinen uygulamalar ile veri iletişimini sağlayabilirsiniz. Çok fazla hata barındırdığı için Putty uygulamasının kullanılması önerilmemektedir.
+
+**Rj-45 Konsol kablosunu bağlama**
+
+1. Rj-45 / DB9 (USB) kablonun Rj-45 tarafını, anahtarın ‘KONSOL’ portuna bağlayın.
+2. Kablonun diğer tarafı DB9 konnektör ise, bilgisayarınızın seri portuna, USB connector ise bilgisayarınızın USB portuna bağlayın.
+3. Bİlgisayarınızda kablo bağlantısı yaptığınız erişim arayüzün numarasını (COMX)
+4. Terminal emülasyon uygulamasını başlatın
+5. Aşağıdaki bağlantı parametrelerini kullanın:
+
+> Protocol: Serial
+>
+> Connection Port: COMX
+>
+> Baud Rate: 115200
+>
+> Data Bits: 8
+>
+> Parity: None
+>
+> StopBits: 1
+>
+> Flow Control: None
+
+Aşağıda SecureCRT programı ile yapılan bir bağlantın için ayarların ekran görüntüsü verilmiştir:
+
+![](https://web.archive.org/web/20250211062254im_/https://lh4.googleusercontent.com/Dqoezd_cqV9nbwkymzqa2qJQYFFrL2nYZy-WcZO-LcN0_F4wJib0kiT25ncB2kKUv-ROE_mV1145wGAnH-hxgCZB-IrkyJ3EFQiP3-yS-PXndaf3GWrpk8sLgf_jegATlzPfBAlk)
+
+1. Cihazın elektrik kablosunu, önce cihaza daha sonra elektrik prizine bağlayın. Cihaz üzerinde durum ışığı mavi durum ışığı kısa bir süre yanıp sönecektir. Bu anda cihaz açılmaya başlamış demektir. Kısa bir süre bekleyin. Ekranda yükleme kayıtları gözükecektir. Cihaz ilk kez açılıyor veya başlangıç yapılandırması silinmiş ise, açılış 5 dakika kadar sürecektir. Aksi durumda yaklaşık 1 dakikada açılacaktır. Başlangıç prosedürleri bitince, kullanıcı adı sorulacaktır.
+2. Yeni cihazlar için varsayılan kullanıcı adı ve parola ‘admin’ olarak tanımlanmıştır.
+3. Doğru kullanıcı adı ve parolayı girdiğinizde, anahtar komut satırına erişeceksiniz.
+
+> `User Name: admin`
+>
+> `Password: *******`
+>
+> `switch #`
+
+> _Eğer terminal emülasyonu için **Putty** uygulmasını kullanıyorsanız, geri silme için tanımlamayı değiştirmeniz gerekir. Bunun için_
+>
+> _**Session Options->Keyboard** menüsünden **Ctrl+H**_ seçeneğini işaretleyin _._
+
+### Was this article helpful?
+
+[Yes](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu#) [No](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=hizli-baslangic-kilavuzu#)
+
+### Related Articles
+
+- [Software Upgrade (TFTP/USB) – Verge Switches](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=software-upgrade-tftp-verge "Software Upgrade (TFTP/USB) – Verge Switches")  - 0
+  - 688
+- [Sıfır Dokunma Yapılandırması (Zero Touch Provisioning – ZTP)](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=sifir-dokunma-yapilandirmasi-zero-touch-provisioning-ztp "Sıfır Dokunma Yapılandırması (Zero Touch Provisioning – ZTP)")  - 3
+  - 1237
+- [Sistem Bilgilerini Öğrenme](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=sistem-bilgilerini-ogrenme "Sistem Bilgilerini Öğrenme")  - 1
+  - 842
+- [Link Katmanı Keşif Protokolü (LLDP)](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=link-katmani-kesif-protokolu-lldp "Link Katmanı Keşif Protokolü (LLDP)")  - 0
+  - 1209
+- [Komut Satırı kullanımı](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=komut-satiri-kullanimi "Komut Satırı kullanımı")  - 0
+  - 1601
+- [Yazılım Güncelleme (TFTP/USB) – Verge Anahtarlar](https://web.archive.org/web/20250211062254/https://support.angoranetworks.com/?ht_kb=yazilim-guncelleme

@@ -1,0 +1,21 @@
+{
+  "comparison_id": "D02",
+  "parts": [
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/voice-video-ip-telephony/20210227210054/index.visible.md",
+      "file_bytes": 8511,
+      "file_sha256": "754c564587eb72cf00103d03aab0fd97e46f038e4026350331c01b1c36e22327",
+      "selected_body_bytes": 3696,
+      "selected_body_sha256": "1db55f19bbcb2bf6aabc1f166fe95b14eb0060bec9db04d65b76bd5e8236fee9"
+    },
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/voice-video-ip-telephony/20241202222118/index.visible.md",
+      "file_bytes": 8496,
+      "file_sha256": "a2e2d72712d7dd7f4c1005883a107b278b96d9642eeced295e2e357ff5b02f41",
+      "selected_body_bytes": 3696,
+      "selected_body_sha256": "1db55f19bbcb2bf6aabc1f166fe95b14eb0060bec9db04d65b76bd5e8236fee9"
+    }
+  ],
+  "selected_saved_body_byte_identical": true,
+  "limitation": "this is equality of selected locally transcribed text, not proof tool output/raw HTML equality, identical snapshots, intermediate continuity or device support"
+}

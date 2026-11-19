@@ -1,0 +1,11 @@
+correction_id,scope,before_or_issue,r113_change,anchors
+C01,增补 r112 缺陷背景,r112提供2021 SSH/SCP各自页面与当时待解决状态,本轮2022分类页仍列出相同文章链接及独立关闭子分类计数；不能升级为2022或当前问题未解决,CAT-SCP-LINK;CAT-SSH-LINK;OLD-SSH-STATUS;OLD-SCP-STATUS
+C02,增补 r110 运维文档,r110侧重TACACS、堆叠、升级、CLI和ZTP,新增LLDP、系统信息、语音VLAN与快速入门历史页面；不替换r110任何版本及兼容性边界,LLDP-DEFAULT-21;SYS-SNMP;VOICE-SCOPE-21
+C03,限定 r110 CLI接口编号,r110指出接口编号通式与例子不一致,新文档中的示例和接口表不能消除该差异或证明任何型号命令,CLI-TEMPLATE;CLI-EXAMPLE
+C04,增补 r110 入门资料可见性,r110英文入门直连522且归档缺正文；r112英文quick-start过滤索引为空,本轮取到不同URL的土文历史入门页；不能视为英文正文恢复或证明当前网站可用,QUICK-OOB;QUICK-CABLE
+C05,延续 r108 活动日期限制,r108已将KOZ预告日期与名称区分且不认定实际日期,本轮回读既有原文与报告，无新独立举办证据；不重复认作新报道,EVENT-DATE;EVENT-PLAN;EVENT-LABEL;EVENT-OLD-BOUNDARY
+C06,限定两组跨快照比较,部分本地转存选定段落经归一化或原字节比较相同,不外推原响应、HTML、未观察的中间时间或实际固件行为,LLDP-DEFAULT-21;LLDP-DEFAULT-25;VOICE-SCOPE-21;VOICE-SCOPE-24
+C07,披露X01错误检索线索,搜索命中的2021杂志页全文不含Angora名称,保留独立页文本但标记无关，不采用于Angora结论，不继续跟进人物,
+C08,披露抓取／回读顺序,首块之后才知道分块数；各块和九个归档正文为组装及摘要先读后建汇总清单,URL和目标路径预先列出；所有保存文件后完整回读或扫描；哈希不能证明首次顺序,
+C09,披露公开默认值处理,AR06历史页面含公开出厂登录值,原文独立保存；单独遮盖视图便于回读，报告不复述或使用；未访问设备,QUICK-DEFAULT-MENTION
+C10,继续保留 r111 主体和时间边界,工商主体同一性与墙钟冲突未解决,未获取新工商原件或独立时钟，不倒填旧采集日、不合并客户,

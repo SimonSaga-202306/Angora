@@ -1,0 +1,11 @@
+{
+  "replay_id": "AR08",
+  "capture": "20241202222118",
+  "tool_chunks_returned": 2,
+  "final_has_more": false,
+  "page_path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/voice-video-ip-telephony/20241202222118/index.visible.md",
+  "bytes": 8496,
+  "sha256": "a2e2d72712d7dd7f4c1005883a107b278b96d9642eeced295e2e357ff5b02f41",
+  "boundary": "chunk0 ends Komut Satı; chunk1 starts rı kullanımı",
+  "limitation": "direct manual transcription of 2024 tool output; not automatically compared with tool response or independent test"
+}

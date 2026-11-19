@@ -1,0 +1,8 @@
+query_id,query,purpose,guardrail,execution
+Q13,"site:aa.com.tr ""Angora Networks"" -filetype:pdf -ihale -teklif",seek an Anadolu Agency report mentioning Angora,no PDF or procurement followup; search metadata only until specific fetch plan,one at a time and save results immediately
+Q14,"site:trthaber.com ""Angora Networks"" -filetype:pdf -ihale -teklif",seek public broadcast reporting on Angora,no PDF or procurement followup; avoid stopped entities,one at a time and save results immediately
+Q15,"site:teknoparkankara.com.tr ""Angora Networks"" ""2023"" -filetype:pdf",seek institutional technology-park attribution,zero results do not prove absence; no PDF or contact,one at a time and save results immediately
+Q16,"site:ostimteknopark.com ""Angora Networks"" -filetype:pdf",seek institutional technology-park attribution,no partner directory exploration; no PDF or contact,one at a time and save results immediately
+Q17,"site:ictmedia.com.tr ""Angora Networks"" ""2022"" -filetype:pdf -ihale -teklif",seek distinct dated pre-2023 media reporting,no old orders or tender documents; publication field must be checked,one at a time and save results immediately
+Q18,"site:networkworld.com.tr ""Angora Networks"" -filetype:pdf -ihale -teklif",seek an Angora-specific IT trade article,avoid lists of suppliers and stopped subjects; no PDF,one at a time and save results immediately
+Q19,"site:btgunlugu.com ""Angora Networks"" -filetype:pdf -ihale -teklif",seek a distinct IT trade report,no PDF contact or stopped subject research,one at a time and save results immediately

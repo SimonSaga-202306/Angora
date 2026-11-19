@@ -1,0 +1,16 @@
+repository_relative_path,bytes_before_review,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/182-angora-management-voice-evidence-r113-2026-10-26.md,7612,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r113-appendix.md,4374,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r113.md,4024,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/78-followup-angora-r113-2026-10-26/angora-networks.md,1887,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/79-audit-r113-2026-10-26.md,4852,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/README.md,7133,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/scope-and-sequence-deviations.md,2350,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/source-catalog.csv,15181,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/claim-boundaries.csv,2981,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/issues-and-corrections.csv,2249,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/evidence-traceability.csv,14022,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/lldp-body-comparison-result.json,1575,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/voice-body-comparison-result.json,1186,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/AR06-redacted-review-metadata.json,748,complete authored output review; separate from source ingest
+ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/verification-summary.json,2226,complete authored output review; separate from source ingest

@@ -1,0 +1,11 @@
+repository_relative_path,bytes_before_read,purpose,guardrail
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/181-angora-nac-support-bug-evidence-r112-2026-10-26.md,10367,immediately prior conclusions and scope,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/README.md,9537,prior per-source evidence and counts,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/source-catalog.csv,20357,r112 source identity metadata; no raw examples,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/claim-boundaries.csv,3176,r112 no-inference boundaries,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/issues-and-corrections.csv,2534,named prior corrections,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r112.md,3921,prior dossier field mapping,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/archive-index-plan-before-fetch.csv,2210,prior archive queries to prevent duplication,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/archive-index-extension-plan-before-fetch.csv,1101,prior additional archive queries,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/source-catalog.csv,19684,r110 archived support source metadata,"no source PDF, old RFQ/quotes or stopped subject contact"
+ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/claim-boundaries.csv,3774,r110 technical boundaries,"no source PDF, old RFQ/quotes or stopped subject contact"

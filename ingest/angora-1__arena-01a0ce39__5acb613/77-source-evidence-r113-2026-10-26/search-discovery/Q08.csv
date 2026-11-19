@@ -1,0 +1,4 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q08,1,1,Page 122 - KobiEfor Eylül 2021,https://www.edergi.kobi-efor.com.tr/sayilar/2021/9/files/basic-html/page122.html,"Wednesday, September 01, 2021",candidate single HTML magazine page; Angora relevance and full text unverified; requires explicit fetch plan
+Q08,2,2,KobiEfor E-Dergi,https://www.edergi.kobi-efor.com.tr/45,,broad index; not opened
+Q08,3,3,KobiEfor E-Dergi,https://www.edergi.kobi-efor.com.tr/36,,broad index; not opened

@@ -1,0 +1,11 @@
+source_id,repository_relative_path,bytes_before_consolidated_read,disposition
+AR03,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR03/chunk-0.visible.md,8560,same-source auxiliary block; previously read for assembly; not independent
+AR03,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR03/chunk-1.visible.md,3555,same-source auxiliary block; previously read for assembly; not independent
+AR04,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR04/chunk-0.visible.md,8560,same-source auxiliary block; previously read for assembly; not independent
+AR04,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR04/chunk-1.visible.md,3652,same-source auxiliary block; previously read for assembly; not independent
+AR06,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR06/chunk-0.visible.md,8373,same-source auxiliary block; previously read for assembly; not independent
+AR06,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR06/chunk-1.visible.md,328,same-source auxiliary block; previously read for assembly; not independent
+AR07,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR07/chunk-0.visible.md,8051,same-source auxiliary block; previously read for assembly; not independent
+AR07,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR07/chunk-1.visible.md,460,same-source auxiliary block; previously read for assembly; not independent
+AR08,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR08/chunk-0.visible.md,8037,same-source auxiliary block; previously read for assembly; not independent
+AR08,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR08/chunk-1.visible.md,459,same-source auxiliary block; previously read for assembly; not independent

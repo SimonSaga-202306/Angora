@@ -1,0 +1,2 @@
+# Preserve r113 safety artifacts without text conversion.
+* -text

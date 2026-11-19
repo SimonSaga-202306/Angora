@@ -1,0 +1,26 @@
+{
+  "comparison_id": "D01",
+  "parts": [
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/link-katmani-kesif-protokolu-lldp/20211128053947/index.visible.md",
+      "file_bytes": 12115,
+      "file_sha256": "f7b3621806992817ff49b6618409ffa54536ae159b4fc75d75c4a52de07db948",
+      "body_utf8_bytes": 5831,
+      "body_sha256": "dc1aedefa3ab9bfbb150d0ac8ba05059d3f2452d67e89fc17212a1b8cedd0364",
+      "normalized_body_bytes": 5826,
+      "normalized_body_sha256": "a6bc98711b5fabf72ecf72c4aa8d70bca66fea8049d526513b93a4b1299fd73f"
+    },
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/link-katmani-kesif-protokolu-lldp/20250211055347/index.visible.md",
+      "file_bytes": 12212,
+      "file_sha256": "73e14dc9415cdb59e1fca9a8b84a7f7b33967ff84c62f045cd2e03a93ee393ca",
+      "body_utf8_bytes": 5831,
+      "body_sha256": "5366f5213aae983c8e38267cd3b54772337efcbff44a08266725147d593b2c87",
+      "normalized_body_bytes": 5826,
+      "normalized_body_sha256": "a6bc98711b5fabf72ecf72c4aa8d70bca66fea8049d526513b93a4b1299fd73f"
+    }
+  ],
+  "normalized_saved_text_equal": true,
+  "exclusions": "only body from Angora uygulaması to before Was this article helpful; Wayback timestamps replaced; no source fidelity or intermediate capture assertion",
+  "representation": "direct manual transcriptions, not automatically compared with original tool responses; no audio or device tests"
+}

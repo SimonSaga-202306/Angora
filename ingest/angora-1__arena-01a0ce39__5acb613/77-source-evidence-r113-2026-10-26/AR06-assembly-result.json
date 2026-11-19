@@ -1,0 +1,12 @@
+{
+  "replay_id": "AR06",
+  "capture": "20250211062254",
+  "tool_chunks_returned": 2,
+  "final_has_more": false,
+  "page_path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/20250211062254/index.visible.md",
+  "bytes": 8701,
+  "sha256": "e043ed67be1be42cd59cb423005ada277f9bf2b1d47e943bec02255e03ae91b1",
+  "boundary": "chunk0 ends yazilim-guncelleme; chunk1 starts -tftp-verge-anahtarlar",
+  "transcription_note": "two occurrences of a public historical default word temporarily used a placeholder and were restored locally from the displayed response without printing; no automatic byte comparison",
+  "limitation": "historical vendor text; firmware and SKU not stated; default values and management port status may differ now; no login/device tests"
+}

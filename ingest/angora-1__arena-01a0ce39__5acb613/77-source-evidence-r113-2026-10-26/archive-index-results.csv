@@ -1,0 +1,10 @@
+index_id,records_after_filters,limitation
+A01,1,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A02,0,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A03,1,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A04,5,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A05,6,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A06,4,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A07,6,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A08,0,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity
+A09,3,status 200 HTML filtered and digest-collapsed; empty is not absence; 200 not content identity

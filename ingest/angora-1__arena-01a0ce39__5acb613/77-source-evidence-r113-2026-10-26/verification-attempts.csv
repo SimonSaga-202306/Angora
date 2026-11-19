@@ -1,0 +1,5 @@
+attempt,command,result,scope_or_limit
+T01,python3 -m unittest discover -s tools -p test_verify_r11*.py -v,PASS 21 tests,"14 prior helper tests and seven r113 bounded comparison/redaction/classification fixture tests; not end-to-end real device or original webpage validation"
+V01,python3 tools/verify_r113.py --write-summary,PASS before manifest,"47 paths and 274674 bytes; 36 local anchors; 19 searches; 9 archived replays; 97 relative links; manifest not yet created"
+T02,python3 -m unittest discover -s tools -p test_verify_r11*.py -v,PASS 21 tests,repeated after output review links; fixture-only tests
+V02,python3 tools/verify_r113.py --write-summary,PASS before manifest,"after audit and output review links; 101 relative links; manifest not yet created"

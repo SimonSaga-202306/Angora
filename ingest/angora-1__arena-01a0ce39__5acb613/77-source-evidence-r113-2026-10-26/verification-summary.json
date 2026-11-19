@@ -1,0 +1,92 @@
+{
+  "status": "PASS",
+  "read_scope": {
+    "paths": 47,
+    "bytes": 274674,
+    "groups": {
+      "prior-round-read-inventory.csv": {
+        "paths": 10,
+        "bytes": 76661
+      },
+      "comparison-source-read-inventory.csv": {
+        "paths": 5,
+        "bytes": 35169
+      },
+      "prior-event-comparison-read-inventory.csv": {
+        "paths": 2,
+        "bytes": 24055
+      },
+      "archive-index-read-inventory.csv": {
+        "paths": 9,
+        "bytes": 4118
+      },
+      "archive-replay-read-inventory.csv": {
+        "paths": 9,
+        "bytes": 67829
+      },
+      "archive-chunk-read-inventory.csv": {
+        "paths": 10,
+        "bytes": 50035
+      },
+      "AR06-redacted-review-read-inventory.csv": {
+        "paths": 1,
+        "bytes": 8761
+      },
+      "external-read-inventory.csv": {
+        "paths": 1,
+        "bytes": 8046
+      }
+    }
+  },
+  "sources": {
+    "catalog_entries": 27,
+    "local_anchors": 36,
+    "boundaries": 17,
+    "corrections": 10
+  },
+  "discovery": {
+    "queries": 19,
+    "nonempty_result_rows": 34,
+    "zero_queries": [
+      "Q03",
+      "Q13",
+      "Q14",
+      "Q16",
+      "Q18",
+      "Q19"
+    ],
+    "cdx_requests": 9,
+    "filtered_cdx_records": 26,
+    "replays": 9,
+    "tool_chunks": 14
+  },
+  "chunks": {
+    "two_chunk_assemblies": 5,
+    "auxiliary_chunks": 10
+  },
+  "local_body_comparisons": {
+    "lldp_normalized_equal": true,
+    "voice_selected_bytes_equal": true
+  },
+  "safe_review": {
+    "redacted_positions": 2,
+    "magazine_false_positive": true
+  },
+  "dossier_append": {
+    "old_bytes": 51192,
+    "appended_bytes": 571,
+    "new_bytes": 51763
+  },
+  "relative_links_checked": 101,
+  "elapsed_monotonic_seconds": 2145.02,
+  "output_manifest": {
+    "status": "not yet created"
+  },
+  "limitations": [
+    "manual local transcription hashes cannot prove tool response or original HTML fidelity",
+    "selected body comparisons cannot prove firmware state or intermediate history",
+    "no current device, certification, deployment, original images or MIB ZIP verified",
+    "local inventories cannot prove first-read ordering; deviations are documented",
+    "uncalibrated wall clock differs from supplied session date"
+  ]
+}

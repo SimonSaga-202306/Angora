@@ -1,0 +1,11 @@
+{
+  "replay_id": "AR04",
+  "capture": "20250211055347",
+  "tool_chunks_returned": 2,
+  "final_has_more": false,
+  "page_path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/link-katmani-kesif-protokolu-lldp/20250211055347/index.visible.md",
+  "bytes": 12212,
+  "sha256": "73e14dc9415cdb59e1fca9a8b84a7f7b33967ff84c62f045cd2e03a93ee393ca",
+  "boundary": "chunk0 ends lldp ne; chunk1 starts ighbors",
+  "limitation": "direct manual transcription of 2025 tool output; not automatically compared with response or independent device test"
+}

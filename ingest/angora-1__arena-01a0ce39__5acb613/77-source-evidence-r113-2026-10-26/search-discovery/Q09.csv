@@ -1,0 +1,4 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q09,1,1,IP Routing,https://support.angoranetworks.com/?ht_kb=ip-routing-open-shortest-path-first-ospf,,candidate vendor CLI reference; metadata only; no command execution and no SKU inference
+Q09,2,2,IP Routing,https://support.angoranetworks.com/?ht_kb=ip-routing-rip,,candidate vendor CLI reference; metadata only
+Q09,3,3,IP Routing,https://support.angoranetworks.com/?ht_kb=ip-routing-ip-addressing,,candidate vendor CLI reference; metadata only

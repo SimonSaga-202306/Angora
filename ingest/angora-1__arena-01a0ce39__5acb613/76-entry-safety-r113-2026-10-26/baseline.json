@@ -1,0 +1,15 @@
+{
+  "branch": "arena/5da004bd-angora",
+  "session_given_date_utc": "2026-10-26",
+  "environment_first_observed_utc": "2026-11-19T15:27:15Z",
+  "monotonic_first_observed_seconds": 3817.732209589,
+  "environment_scope_observed_utc": "2026-11-19T15:27:37.803320+00:00",
+  "monotonic_scope_seconds": 3840.330732711,
+  "local_head": "4b76bff0614d8d57109e42c60d5889649dd7e50d",
+  "remote_tip_observed": "4b76bff0614d8d57109e42c60d5889649dd7e50d",
+  "initial_status_entries": 0,
+  "tracked_path_count_metadata_only": 7039,
+  "stash_action": "not needed because worktree and index were clean; do not pop existing stash",
+  "date_caveat": "supplied session date and environment clock conflict; not independently calibrated; no historic capture date inferred",
+  "guardrail": "only prelisted scope; no reset, clean, branch switch, unbounded staging or pop stash"
+}

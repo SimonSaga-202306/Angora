@@ -1,0 +1,2 @@
+source_id,requested_url,status,tool_chunks,total_chunks,local_path,disposition
+X01,https://www.edergi.kobi-efor.com.tr/sayilar/2021/9/files/basic-html/page122.html,success,1,1,external-visible/www.edergi.kobi-efor.com.tr/sayilar/2021/9/files/basic-html/page122.visible.md,search result was a false lead; visible page contains unrelated appointments and no Angora mention; no claims extracted; manual transcription not automatically compared

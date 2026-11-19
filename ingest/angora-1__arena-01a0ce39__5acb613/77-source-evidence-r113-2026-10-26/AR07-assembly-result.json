@@ -1,0 +1,11 @@
+{
+  "replay_id": "AR07",
+  "capture": "20210227210054",
+  "tool_chunks_returned": 2,
+  "final_has_more": false,
+  "page_path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/voice-video-ip-telephony/20210227210054/index.visible.md",
+  "bytes": 8511,
+  "sha256": "754c564587eb72cf00103d03aab0fd97e46f038e4026350331c01b1c36e22327",
+  "boundary": "chunk0 ends Güncell; chunk1 begins eme",
+  "limitation": "manual transcription; historical vendor configuration example, not independent test, no commands executed"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/20250211062254/index.visible.md",
+  "source_bytes": 8701,
+  "source_sha256": "e043ed67be1be42cd59cb423005ada277f9bf2b1d47e943bec02255e03ae91b1",
+  "review_path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/derived-redacted/AR06.safe-review.md",
+  "review_bytes": 8761,
+  "review_sha256": "665618e2168930f35596c5fd64a7dc18f60b4af71928c4c6029ee25c718e3960",
+  "replacement_count": 2,
+  "limitation": "redacted review view is a derivative, not the original source and not an independent witness; original manual transcription retained separately"
+}

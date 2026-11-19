@@ -1,0 +1,6 @@
+source_id,bytes_scanned,sha256,stop_name_exact_scan
+P01,4402,f0f44267511523344ecb7e1e77f5b34399c109dd57304ffd473dc2920d2cc3d9,no exact token match; not proof of no stopped material
+P02,4193,7e334cdd8da5755420a6edc817199fbb08a0b3911a6ee529fe99f71b911743d3,no exact token match; not proof of no stopped material
+P03,3694,817d3721d13e74d10dfbbca10fe2fefafa62bbdfabc40844dac00eb7a51094b2,no exact token match; not proof of no stopped material
+P04,7531,b82a12f32258caa3dd39083da11191c07cab35375fac341dfacda0b38ed1a395,no exact token match; not proof of no stopped material
+P05,15349,ec75ba42cc07be88297b213e1dca51744ba347625c4795d6d6cb80fbc8239235,no exact token match; not proof of no stopped material

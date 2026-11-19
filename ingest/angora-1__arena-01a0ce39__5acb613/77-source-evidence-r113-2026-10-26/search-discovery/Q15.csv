@@ -1,0 +1,2 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q15,1,1,Ankara Teknopark Teknoloji Geliştirme Bölgesi Yönetici Anonim Şirketi,https://www.teknoparkankara.com.tr/pdf/teknopark-ankara-bolge-isletme-yonergesi-2026.pdf,"Wednesday, February 04, 2026",unrelated PDF returned despite negative filter; not opened or downloaded; no Angora attribution from snippet

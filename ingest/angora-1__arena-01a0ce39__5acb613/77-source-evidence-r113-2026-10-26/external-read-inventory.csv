@@ -1,0 +1,2 @@
+source_id,repository_relative_path,bytes_read,sha256,read_method,angora_token_present,disposition
+X01,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/external-visible/www.edergi.kobi-efor.com.tr/sayilar/2021/9/files/basic-html/page122.visible.md,8046,0a2168d895064b62a8d65bded7db7df27428f48bc18a95bfb9c21dd0434f2605,complete UTF-8 bytes decoded and hashed; title and exact token scanned; unrelated people not analyzed,False,unrelated magazine page; full bytes scanned without analyzing people; no Angora claims

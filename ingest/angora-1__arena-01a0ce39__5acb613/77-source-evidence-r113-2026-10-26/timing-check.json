@@ -1,0 +1,11 @@
+{
+  "session_given_date_utc": "2026-10-26",
+  "wall_clock_observed_utc": "2026-11-19T16:03:00.225118+00:00",
+  "wall_clock_caveat": "environment wall clock conflicts with provided session date and is uncalibrated; no historic capture date inferred",
+  "monotonic_start_seconds": 3817.732209589,
+  "monotonic_check_seconds": 5962.752503953,
+  "elapsed_seconds": 2145.02,
+  "threshold_seconds": 600,
+  "same_host_timebase": "Linux monotonic on r113 workspace",
+  "method_caveat": "elapsed includes research and reasoning; not proof of continuous typing; no deliberate sleep used"
+}

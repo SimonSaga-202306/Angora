@@ -1,0 +1,3 @@
+source_id,chunk_index,repository_relative_path,bytes_read,sha256,representation
+AR03,0,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR03/chunk-0.visible.md,8560,c0abbb43f9a710abe8103b43fc730de9f1f65ac7956b8589bf080d948372fb48,manual tool-visible transcription; no automatic source comparison
+AR03,1,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-chunks/AR03/chunk-1.visible.md,3555,867b5946761e65abfe9101f6d4a620ea618469efa9376774ed2766478a5c9c4c,manual tool-visible transcription; no automatic source comparison

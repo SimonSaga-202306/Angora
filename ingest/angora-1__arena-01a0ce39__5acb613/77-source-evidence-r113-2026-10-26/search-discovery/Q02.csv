@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q02,1,1,Verge CLI guides are published,https://support.angoranetworks.com/?p=330,"Sunday, September 29, 2019",generic CLI announcement; no closed bug proof
+Q02,2,2,Multicast,https://support.angoranetworks.com/?ht_kb=multicast-mld-snooping,"Saturday, September 28, 2019",unrelated to closed bug query; not opened
+Q02,3,3,Management,https://support.angoranetworks.com/?ht_kb=management-macro,,unrelated to closed bug query; not opened
+Q02,4,4,Multicast,https://support.angoranetworks.com/?ht_kb=multicast-mld-proxy,"Saturday, September 28, 2019",unrelated to closed bug query; not opened
+Q02,5,5,Multicast,https://support.angoranetworks.com/?ht_kb=multicast-mld,,unrelated to closed bug query; not opened

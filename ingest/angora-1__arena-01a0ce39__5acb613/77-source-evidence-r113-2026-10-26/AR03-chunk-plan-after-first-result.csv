@@ -1,0 +1,3 @@
+replay_id,chunk_index,planned_chunk_path,planned_combined_path,ordering_note
+AR03,0,archive-chunks/AR03/chunk-0.visible.md,archive-replay/support.angoranetworks.com/ht_kb/link-katmani-kesif-protokolu-lldp/20211128053947/index.visible.md,URL and page path prelisted; chunk count known after first response
+AR03,1,archive-chunks/AR03/chunk-1.visible.md,archive-replay/support.angoranetworks.com/ht_kb/link-katmani-kesif-protokolu-lldp/20211128053947/index.visible.md,fetch all remaining chunks; verify title and continuity; no device operation
