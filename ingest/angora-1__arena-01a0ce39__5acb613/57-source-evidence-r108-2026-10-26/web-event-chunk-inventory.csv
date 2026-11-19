@@ -1,0 +1,3 @@
+url,chunk_index,has_more,start_byte,end_byte_exclusive,bytes,sha256,boundary
+https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,0,true,0,8497,8497,e06fbf33ab6c0ad5bba50ed760743c5e5c7927facefc8312d8aef2e64edf1f26,tool chunk ended inside recommended article URL after /habe; manually reconstructed
+https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,1,false,8497,14243,5746,a2ce45968e421a96d00859924713d6f6fbba8daa51af7b1accf1085e6e38d63d,tool chunk began r/cambium; final newline in saved file excluded from chunk hash

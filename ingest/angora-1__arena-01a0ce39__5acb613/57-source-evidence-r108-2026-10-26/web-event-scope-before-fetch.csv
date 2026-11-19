@@ -1,0 +1,2 @@
+seq,url,planned_path_from_r108_source_dir,purpose,guardrails
+1,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,external-visible/ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor/index.tr.extracted.md,record event date status and agenda from publisher; distinguish prospective from actual attendance or transactions,HTML tool-visible text only; no PDF; no form/contact; quarantine complete page if stopped-company names appear; save every tool chunk separately and as one source

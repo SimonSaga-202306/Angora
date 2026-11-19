@@ -1,0 +1,21 @@
+query_id,position,url,page_age_as_reported,disposition
+Q05,1,https://hipam.marmara.edu.tr/projeler/bilimsel-yayinlar,,unrelated university bibliography; not opened
+Q05,2,https://meobs.marmara.edu.tr/Ders/advanced-computer-networks/cse7020-44522-2002,,unrelated course; not opened
+Q05,3,https://cse-eng.marmara.edu.tr/en/research,,unrelated research groups; not opened
+Q05,4,https://cse-eng.marmara.edu.tr/arastirma,,unrelated university research page; not opened
+Q05,5,https://www.researchgate.net/publication/271304465_MARMARA_UNIVERSITESI_EGITIM_YONETIMI_VE_DENETIMI_ALANINDAKI_YUKSEK_LISANS_TEZLER,Wednesday January 01 2014,unrelated theses; not opened
+Q06,1,https://angoratd.com/pazar-arastirmasi/,,unrelated similarly named organization; not opened
+Q06,2,https://tureng.com/en/turkish-english/pazar%20analizi,,dictionary; not opened
+Q06,3,https://avys.omu.edu.tr/storage/app/public/zumral.gultekin/137789/G%C4%B0R%C4%B0%C5%9E%C4%B0MC%C4%B0L%C4%B0K%208.pdf,,excluded unrelated PDF returned despite filetype filter; not opened or analyzed; search snippet acquisition unknown
+Q06,4,https://angoraarastirma.com.tr/hakkimizda/,,unrelated organization; not opened
+Q06,5,https://serkanakarsu.com/urun/pazar-analizi/,Tuesday July 04 2023,unrelated commercial page; not opened
+Q07,1,https://www.globaltechmagazine.com/2020/06/02/bilgi-ve-iletisim-teknolojileri-sektoru-2019-pazar-verileri-aciklandi/,Tuesday June 02 2020,separately prelist for possible HTML fetch; repeats association data not independent survey
+Q07,2,https://www.teknoklik.net/turkiyenin-ilk-500-bilisim-sirketi-belli-oldu/,Thursday November 30 2023,not opened; repeats association figures
+Q07,3,https://www.haberturk.com/turkiye-bilgi-ve-iletisim-teknolojileri-sektoru-150-milyar-liralik-buyuklugu-asti-haberler-2699133-teknoloji,Tuesday June 02 2020,not opened; repeats association figures
+Q07,4,https://www.bursadabugun.com/haber/turk-bilisim-sektoru-150-milyar-lirayi-asti-1296623.html,Tuesday June 02 2020,not opened; repeats association figures
+Q07,5,https://www.tubisad.org.tr/tr/guncel/detay/Turkiye-bilgi-ve-iletisim-teknolojileri-sektorunun-buyuklugu-150-milyar-lirayi-asti/58/2671/0,Tuesday June 02 2020,separately prelist direct association HTML page; raw report not fetched
+Q08,1,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,same prelisted 2022 advance notice; no independent execution record
+Q09,1,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,same prelisted notice; not an additional source
+Q09,2,https://www.angorakoop18.com/genel-kurul-duyurulari,,unrelated housing cooperative; not opened or used
+Q09,3,https://angoraciftlikevleri.com/Yayinlar/sikca-sorulan-sorular-12957,,unrelated housing cooperative; not opened
+Q09,4,https://www.angorakoop18.com/mevzuat,,unrelated legal page; not opened

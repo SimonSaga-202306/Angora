@@ -1,0 +1,6 @@
+# Preserve r108 source and evidence bytes without checkout conversion.
+* -text
+# The two tool-visible video text files contain intentional source line-end spaces.
+# Treat them as binary in Git diffs; verify their bytes and whitespace via r108 audit.
+external-visible/www.youtube.com/watch/32J3cYQXCyM/index.tr.extracted.md -diff
+quarantine/www.youtube.com/watch/jrdoTa5owZk/visible-chunks-0-1.tr.partial.md -diff

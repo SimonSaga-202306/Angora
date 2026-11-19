@@ -1,0 +1,7 @@
+case,numerator_TL,denominator_TL,ratio_percent,anchors,limitation
+old-156,2000000000,156000000,1282.0513,O-2019;O-HARD,旧档自身两值；不是 13%；不假定旧档市场值正确
+old-153,2000000000,153000000,1307.1895,O-2019;O-HARD,旧档“修订值”与旧硬件值；不假定同口径
+video-156,20000000000,156000000,12820.5128,V-TOTAL1;V-HARD;V-PCT,工具字幕 literal 两值互不自洽；未听音频或检查幻灯片
+video-153,20000000000,153000000,13071.8954,V-TOTAL2;V-HARD;V-PCT,工具字幕 literal 两值互不自洽；不自动判定原话错误
+press-sector,20400000000,152700000000,13.3595,N-TOTAL;N-HARD,2020 媒体转述 TÜBİSAD 2019 行业数据，整个 ICT 总盘为分母
+press-it,20400000000,56100000000,36.3636,N-IT;N-HARD,2019 媒体转述的 IT 子行业分母；不是 Angora 份额

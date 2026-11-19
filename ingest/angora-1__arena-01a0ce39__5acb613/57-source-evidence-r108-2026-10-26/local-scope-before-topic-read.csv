@@ -1,0 +1,24 @@
+repository_relative_path,bytes,purpose,first_read_under_safety_scope
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/163-angora-corporate-chronicle-2016-2026-2026-10-26.md,38593,r94 chronology and existing appended corrections; analyze only Angora event context,True
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md,30160,r95 explicit historical chronology corrections,False
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md,12158,r104 product/source boundary context,True
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md,13034,r105 portfolio and date boundaries,False
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/175-angora-design-service-delivery-r106-2026-10-26.md,12676,r106 interview and design limits,True
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/176-angora-early-commercial-evidence-r107-2026-10-26.md,9518,r107 early timeline and named corrections,False
+ingest/angora-1__arena-01a0ce39__5acb613/55-audit-r107-2026-10-26.md,5612,r107 audit and scope comparison,False
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/README.md,6799,r107 sources and limits,False
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/event-evidence-matrix.csv,1989,r107 event distinctions,False
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/issues-and-corrections.csv,2807,r107 named corrections,False
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/interview-claim-matrix.csv,4323,r106 indexed interview statements,False
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/corrected-r106/ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir/index.tr.extracted.md,33087,r106 interview corrected copy; not independently verified full transcription,False
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/external-visible/www.angoranetworks.com/ozgun-tasarim-oem-odm-hizmeti/index.tr.extracted.md,1862,saved OEM vendor claim,False
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/external-visible/www.angoranetworks.com/hizmetlerimiz/index.tr.extracted.md,2006,saved vendor services list,False
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/external-visible/www.angoranetworks.com/angora-networks-launches-data-diode-solution-arrow/index.en.extracted.md,5612,saved product launch press announcement,False
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/external-visible/www.angoranetworks.com/news/index.en.extracted.md,5695,saved vendor index for announcement timing,False
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/external-visible/www.angoranetworks.com/network-devices/index.tr.extracted.md,4907,saved vendor portfolio coverage,False
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/angora/api/wp-api-posts.tsv,1186,previous saved CMS table; not raw API,False
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/angora/api/wp-api-posts-2026-11-01.tsv,1340,second previous saved CMS table; not raw API,False
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/initial-local-read-inventory.csv,2365,r107 initial local list for overlap,True
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/news-index-read-inventory.csv,251,r107 extra news index list for overlap,False
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/additional-read-inventory.csv,211,r107 additional late-listed list for overlap,False
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/previous-index-read-inventory.csv,1101,r107 comparison list for overlap,True

@@ -1,0 +1,5 @@
+query_id,query,purpose,guardrail
+Q01,"""Angora Networks"" 2022 ""bayi"" ""kanal"" toplantısı -larch -scodeno -lanaotek -filetype:pdf",find contemporaneous reports of Angora channel commercialization,search metadata only; no partner walls; no company contact; do not open PDF
+Q02,"""Angora Networks"" 2023 ""bayi"" ""ürün"" kanal -larch -scodeno -lanaotek -filetype:pdf",find Angora event or direct corporate announcements on product and channel evolution,search metadata only; no competitor research; no PDF or contact
+Q03,"""Angora Networks"" 2022 2023 ""ürün"" ""Ar-Ge"" röportaj -larch -scodeno -lanaotek -filetype:pdf",find media interviews about Angora own research and product launches,search metadata only; no PDF or contact
+Q04,"""Angora Networks"" 2024 2025 ""yerli"" ağ anahtarı ""proje"" -larch -scodeno -lanaotek -filetype:pdf",find independent public reporting on Angora commercialization and projects,search metadata only; no PDF; no customers contacted

@@ -1,0 +1,2 @@
+seq,url,source_identity,purpose,guardrails
+1,https://youtu.be/jrdoTa5owZk,same video as https://www.youtube.com/watch?v=jrdoTa5owZk,attempt one alternative canonical presentation after changing chunk totals prevented valid assembly,no account interaction; do not count as independent source; stop if blocks remain incompatible; no pricing analysis

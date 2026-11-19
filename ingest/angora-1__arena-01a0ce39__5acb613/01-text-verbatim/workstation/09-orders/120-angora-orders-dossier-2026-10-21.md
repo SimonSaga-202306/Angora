@@ -397,3 +397,14 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 - **修正 r106**：四个访谈工具块已获取，但人工转存漏掉一段；旧版不变，另存单处修订版。原先九条索引主张行在单次替换前后不变，全文仍未自动逐字核验。2021 培训、会员均属厂商历史声明，不等于当前合同、证书或已授课。
 
 详见 [独立附录](120-angora-orders-dossier-2026-10-21.r107-appendix.md)、[映射](120-angora-orders-master-2026-10-21.mapping-r107.md)和 [r107 报告](../08-customer-pipeline/176-angora-early-commercial-evidence-r107-2026-10-26.md)。不联系客户或重启已 PASS 事项；旧前缀保留。
+
+
+---
+
+## r108 追加附录索引：市场调查与渠道时序
+
+- **修正／取代旧 `02-social-intel/50`**：民族因素“不影响”是初始假设，市场视频转写的演讲者最终称其有作用，仍非全市场因果证明；过往负面经验的初始假设在演讲总结中未获证明。旧档行业硬件 `20 亿` 与转写 `20 milyar` 不同，字幕总盘亦与比例不自洽，未经原音不擅自定因。样本数仅作条件算术。
+- **限定／修正 r95**：2022-10-19 是 2022-10-18 预告所指计划日，12 月上传的视频本身不证明当天如期举办；仍撤回 r94 将这则预告直接记为 2023-10-19 的说法。
+- 旧档“所有政府项目普遍硬门槛”、现场设备等同在线、产品等同 SKU 和具体 Intel 许可均不成立或证据不足；不据此推断认证、合法性或履约。
+
+详见 [独立附录](120-angora-orders-dossier-2026-10-21.r108-appendix.md)、[映射](120-angora-orders-master-2026-10-21.mapping-r108.md)、[r108 报告](../08-customer-pipeline/177-angora-koz-survey-channel-evidence-r108-2026-10-26.md)。不联系客户或重启已 PASS 事项。

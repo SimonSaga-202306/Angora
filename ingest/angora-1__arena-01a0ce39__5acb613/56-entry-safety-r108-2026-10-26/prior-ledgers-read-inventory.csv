@@ -1,0 +1,7 @@
+repository_relative_path,bytes,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/append-log.csv,1727,97aad1e68d6b072391934c9ceaf3c68dc0f0661b2d418712cda27608ec06078b
+ingest/angora-1__arena-01a0ce39__5acb613/52-entry-safety-r107-2026-10-26/protected-variants-read-inventory.csv,10213,a467b259de07a90f2488da4937c32028ba8406edafdf43ef9939f08b84fe0f04
+ingest/angora-1__arena-01a0ce39__5acb613/52-entry-safety-r107-2026-10-26/historical-append-final-read-inventory.csv,1119,7e6bad40d1ac5045fd95997277e9be72bc82a5c0990036d0e09d90ea92885e78
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/r106-transcription-correction-log.csv,1047,66d840acfd23a6697498c97d8459b55c42eaaafeeb593ea88aa4f35baad89feb
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/initial-local-read-inventory.csv,2365,1c567a8b0e02809addc2c9da54b1232bb270707909e72d94c64772a00abc0f33
+ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/previous-index-read-inventory.csv,1101,20593ae5c8baf40d70b84de0c3a6738be388f451111a34ac2f0dd7ad51bd2627

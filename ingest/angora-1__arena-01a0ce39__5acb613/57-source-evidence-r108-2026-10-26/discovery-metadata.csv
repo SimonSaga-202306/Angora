@@ -1,0 +1,14 @@
+query_id,position,url,page_age_as_reported,disposition
+Q01,1,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,separately prelist for possible full visible-text retrieval; forthcoming event not proof of execution
+Q02,1,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,same result as Q01; one URL not independent source
+Q02,2,https://tutkumubul.com/listing/angora-market/,Wednesday March 26 2025,not opened; unrelated market
+Q03,1,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,Saturday June 03 2023,not opened; same interview already represented in earlier saved material; magazine as a whole out of scope
+Q03,2,https://angora.club/,,not opened; partner/testimonial wall may surface stopped entities
+Q03,3,https://angoraarastirma.com.tr/,,not opened; unrelated Angora entity
+Q03,4,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,same URL as Q01; not independent additional event evidence
+Q03,5,https://fliphtml5.com/kfal/vwtn/ICT_MEDIA_OCAK_2021/,Tuesday December 29 2020,not opened; magazine as a whole out of scope
+Q04,1,https://www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872,Thursday October 29 2026,not opened or analyzed; search-reported date is later than supplied session date and historical award previously examined
+Q04,2,https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,Thursday June 08 2023,existing r106 interview and r107 correction; not opened again at discovery stage
+Q04,3,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,Saturday June 03 2023,same interview in full magazine; not opened
+Q04,4,https://tr.linkedin.com/company/angora-networks,,not opened; corporate profile and numbers not treated as contemporaneous ground truth
+Q04,5,https://fliphtml5.com/kfal/vwtn/ICT_MEDIA_OCAK_2021/,Tuesday December 29 2020,not opened; same magazine as Q03

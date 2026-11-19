@@ -1,0 +1,2 @@
+seq,url,planned_path_from_r108_source_dir,purpose,guardrails
+1,https://www.youtube.com/watch?v=32J3cYQXCyM,external-visible/www.youtube.com/watch/32J3cYQXCyM/index.tr.extracted.md,verify legacy KOZ market talk title timestamp and accessible captions,visible text only; no account login or interaction; do not infer audio accuracy from automatic captions; quarantine if stopped-subject token occurs

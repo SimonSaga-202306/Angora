@@ -1,0 +1,9 @@
+item,value,anchors,boundary
+sent,1000,V-SENT,approximately; machine transcription; outreach denominator
+responses_assessed,115,V-115,transcription is garbled; no respondent list or original survey
+excluded,69,V-69,reason coverage incomplete; no questionnaire-level dataset
+remaining_if_arithmetic,46,V-115;V-69,115 minus 69; conditional arithmetic not independently verified
+evaluated_divided_sent,11.5000%,V-SENT;V-115,115/1000 if both interpreted as same people and counts accurate
+retained_divided_evaluated,40.0000%,V-115;V-69,"46/115, conditional on 69 exclusions from 115"
+retained_divided_sent,4.6000%,V-SENT;V-115;V-69,"46/1000, conditional; not a representative response rate"
+excluded_reason,6 and 3,V-6;V-3,transcript is garbled; units and overlap unknown; does not account for all 69

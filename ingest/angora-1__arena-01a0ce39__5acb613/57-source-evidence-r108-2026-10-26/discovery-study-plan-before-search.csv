@@ -1,0 +1,6 @@
+query_id,query,purpose,guardrail
+Q05,"""Angora Networks"" ""Marmara Üniversitesi"" ""araştırma"" network 2022 -larch -scodeno -lanaotek -filetype:pdf",seek Angora market study primary description and sample,metadata first; no PDF or contact; not Angora company financial analysis
+Q06,"""32J3cYQXCyM"" Angora KOZ Pazar Analizi -larch -scodeno -lanaotek -filetype:pdf",locate market presentation video and publication metadata,search metadata first; no PDF or contact; do not call truncated result a full transcript
+Q07,"TÜBİSAD 2019 bilişim sektör pazar büyüklüğü donanım milyar araştırması -larch -scodeno -lanaotek -filetype:pdf -site:gov.tr",find contemporaneous HTML reporting of Turkey industry market statistic,not Angora financial statements; no PDF or paywall bypass
+Q08,"""Angora KOZ'23"" ""2022"" ""zirve"" -larch -scodeno -lanaotek -filetype:pdf",seek a post-event report versus event announcement,metadata only; no participant outreach or partner wall
+Q09,"""Angora Networks"" ""kanal ortaklığı programı"" ""2022"" -larch -scodeno -lanaotek -filetype:pdf",seek channel program historical public materials,metadata only; no competitor topics or contact

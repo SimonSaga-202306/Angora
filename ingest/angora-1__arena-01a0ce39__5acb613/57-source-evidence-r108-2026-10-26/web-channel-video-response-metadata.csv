@@ -1,0 +1,10 @@
+request_identity,chunk_index,total_chunks_reported,presentation,disposition
+canonical,0,4,transcript form,saved partial chunk 0
+canonical,1,5,recommendations form,metadata only; not saved as evidence
+canonical,2,5,recommendations form,metadata only; not saved as evidence
+canonical,3,5,recommendations form,metadata only; not saved as evidence
+canonical retry,1,5,recommendations form,metadata only; not saved as evidence
+alias,0,4,transcript form,saved partial chunk 0
+alias,1,4,transcript form,saved partial chunk 1
+alias,2,6,recommendations form,metadata only; not saved as evidence
+alias,3,6,recommendations form,metadata only; not saved as evidence
