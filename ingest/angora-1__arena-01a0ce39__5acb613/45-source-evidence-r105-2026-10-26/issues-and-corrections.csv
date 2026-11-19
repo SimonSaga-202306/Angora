@@ -1,0 +1,14 @@
+case,prior_claim_or_scope,evidence_anchor_ids,disposition,correction,limit
+C01,r39 Synapse / family all 1G,Y-OLD-ALL;Y-poe-ports;Y-OLD-5713,修正/取代,旧文自身同时写 5713 含 24×10G；新网页表 8T+24S 亦未解释 24S 速率，无法断定全家族 1G。,两个文本来源不能裁决硬件；不判断设备缺陷。
+C02,r39 Synapse 5713 24x10G,Y-OLD-5713;Y-poe-ports;Y-uplinks,限定,旧文有该说法；本轮厂商可见表把 8T+24S 放于 Gigabit PoE+ 行，另列 6 个 10G/GE。,不能仅凭 SKU 推断 24S 的速率、介质、供电或复用。
+C03,r39 Synapse 48T4X power budget,Y-OLD-48T4X;Y-power,增补,旧摘要表只记 370W AC；本轮可见表同型号还记 740W DC。,不能因此断言过去官网写错或何时改版；不重启 48 口澄清。
+C04,r39 Synapse 24-port non-PoE load,Y-OLD-load;Y-power,限定,旧文把 24 和 48 归组写 <48W；本轮厂商表 24T4X 单元格为 <35W。,<35W 当然也小于 <48W；区别是单元格精度，不指称数学矛盾或历史版本错误。
+C05,r39 Hitit MMP96 lower configuration,H-OLD-MMP96;H-MMP96;H-MMP120,限定,同表 MMP96 为 96W、MMP120 为 120W；不能据预算差一词概括所有硬件性能降配。,不推断成本、供应商、固件或实际性能。
+C06,r39 Hitit MCP port transcription,H-OLD-MCP;H-MCP,限定,旧摘要把接入口简写为 100；本轮官网显示 100/100。,保留原字，不自动修补成 10/100，也不把抽取误差判为设备缺陷。
+C07,r39 Verge unknown SKU classification,OLD-name-inference;N-codes;V-models;R103-same-name,修正/取代,三类号段并非任何未知型号的可验证自动分类规则；只记来源明确列出的型号。,相同字符串不保证板卡、端口、功能或验收相同。
+C08,r39 Verge all ports 30W,V-poe-wording;V-power-wording,限定,网页写 up to 30W from all ports；某类别同表写 180W AC power supply。,单口上限、同时供电预算和整机电源额定值不同；未取实际 PoE budget 或逐口测试。
+C09,r39 months unchanged and reliability lead,Y-OLD-months;Y-OLD-reliability;Y-mtbf,修正/取代,旧页面日期及厂商 MTBF 数字不构成完整网页版本史或对比可靠性试验。,当前会话与环境时钟冲突，旧保存文件采集日期也不能独立核实；不做竞争对手再研究。
+C10,r94 10G is Verge/Synapse upper bound,R94-10g-cap;V-GORDION-code;V-GORDION-port;Y-poe-ports,修正/取代,本轮 Verge 网页将 ANW-GORDION 放在 DC/TOR 类别，同列 6x100G；Synapse 的 24S 速率亦未明。,厂商页面分类边界与实物配置未独立证实；不把 GORDION 与其它型号混同。
+C11,r104 date audit sequencing,R104-audit-order;R104-page-order;R104-scope-order,修正/取代,前序会话执行记录显示 39-audit-r103 也在清单前经 read_file 读取，因此应为 4 项先读后列、其余 5 项先列后读。,根据保留的会话执行记录；CSV 字节和文件修改时间无法独立证明执行次序，35 路径/字节总数不变。
+C12,r105 additional chronology inputs,R104-audit-order;R104-scope-order,自我披露,本轮 4 个既有路径在列出限定补充范围前已通过 read_file 或 rg 读取/扫描，后补列并完整回读哈希。,不得称该 4 项先列后读；不改变先前 20 条先列范围。
+C13,r104 and r105 date context,R104-date-clock;R105-baseline-date,限定,本会话指定 2026-10-26 UTC；环境时钟观察为 2026-11-19，冲突未解决。,不将环境日强行认作会话日期，不更改 r104 记录或 r105 baseline，也不倒填旧网页采集日。

@@ -1,0 +1,2 @@
+# Preserve all r105 source records and tool-visible text bytes without checkout conversion.
+* -text

@@ -1,0 +1,7 @@
+repository_relative_path,bytes,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/local-product-read-inventory.csv,1796,50b28744bf1ffba59e9e56d95031d000b2906e5ead26f78ab01b68603b4db07d
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/local-method-read-inventory.csv,356,b870f6068f1b6e3f5d693e5aabf314fd217a07ea62b4fb2a9926da9d24909ff9
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/date-audit-read-inventory.csv,1529,bc72660dc2ebded6c921bfbdbb5b5d26a53c8056aac3263f99045a41a27f3750
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/context-prefix-read-inventory.csv,1229,e3462584ff3facf6f7b13311780bcb39c6e93845044e84646a2184614cc70478
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/overlap-check-inputs-after-first-read.csv,2145,5cfd1ff87b09360b883be48af15713f8c7168ddc02b4c160cea25a30a45c5655
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/append-log.csv,1924,a4faf9d13e1e52eec4de05052cd98771737a8e8c5a34a4ec079cff8462ffd7cc

@@ -1,0 +1,2 @@
+repository_relative_path,original_prefix_sha256,previous_suffix_bytes,previous_suffix_sha256,revised_suffix_bytes,revised_suffix_sha256,reason
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,36183d2ba05368b42308def2f0fae6e86ffd537a961cb19b2cdab44ed86ceab8,1398,98f2c69319773365eddca6bf8a066d524a5bad0c647fa59b06675b00fbeed11f,1425,b61ae9002bdec5ca5b173fde0c702980da7ab3f1aabc8a4dfcc4b95704accca8,retain ambiguous vendor wording; do not silently interpret it as a per-port maximum

@@ -1,0 +1,2 @@
+repository_relative_path,bytes,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/40-entry-safety-r104-2026-10-26/entry-comparison.csv,246852,read prior safety ledger before enumerating protected variants

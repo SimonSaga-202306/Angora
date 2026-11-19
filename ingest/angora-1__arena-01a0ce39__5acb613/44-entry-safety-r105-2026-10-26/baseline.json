@@ -1,0 +1,9 @@
+{
+  "session_date_supplied_utc": "2026-10-26",
+  "environment_start_observed_utc": "2026-11-19T07:37:25Z",
+  "branch": "arena/5da004bd-angora",
+  "head": "73d2c9d010ac36875a19fe23edfcd885234c73a6",
+  "remote_tracking": "73d2c9d010ac36875a19fe23edfcd885234c73a6",
+  "preexisting_status_entries": 0,
+  "notes": "environment date conflicts with session date; do not infer webpage collection date; no merge, reset, stash or checkout used"
+}

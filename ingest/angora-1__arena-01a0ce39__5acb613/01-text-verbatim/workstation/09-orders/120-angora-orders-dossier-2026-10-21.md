@@ -363,3 +363,15 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 - Arrow 的协议、Karınca 的性能和 Arı 的兼容性均是厂商文字，不是设备实测或客户验收；网站 logo 不建立安全产品成交主体。本附录不增改任何订单行。
 
 [独立映射](120-angora-orders-master-2026-10-21.mapping-r104.md) · [r104 报告](../08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md) · [来源与限制](../../../41-source-evidence-r104-2026-10-26/README.md)。
+
+
+---
+
+## r105 追加附录索引：具名修正与证据边界
+
+- **修正／取代 r39**：Synapse“全线 1G”与其旧表 `5713` 的 24×10G 互相冲突；本轮官网 `8T+24S` 中的 24S 速率仍未明。按型号号段自动归类任何未知型号、以预算差概括整机降配，以及把厂商“Up to 30Watts from all ports”直接解读为全口同时各 30W，均不能沿用。48T4X 的 740W DC 仅是本轮页面可见文字增补，不重启已 PASS 澄清。
+- **修正／取代 r94**：“10G 是 Verge/Synapse 的上限”范围过宽：Verge 页面 DC/TOR 列中有 `ANW-GORDION` 和 6×100G 字面值；系列正式边界及实物未证。
+- **修正／取代 r104**：除三个 README 外，前序执行记录显示 `39-audit-r103` 也先读后列；日期核对 9 项应为 4／5 而非 3／6。哈希不能独立重建先后，数量不变。r105 自身另有 4 条补充路径先读／扫描后列。
+- **日期边界**：本会话提供 `2026-10-26 UTC`，环境显示 `2026-11-19 UTC`，冲突未解；不倒填历史采集日、不重开已 PASS 事项。
+
+完整证据、计算及限制见 [独立附录](120-angora-orders-dossier-2026-10-21.r105-appendix.md)、[映射](120-angora-orders-master-2026-10-21.mapping-r105.md)和 [r105 报告](../08-customer-pipeline/174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md)。本段只追加，不替换历史前缀或合并其他主体。

@@ -1,0 +1,4 @@
+query_id,query,purpose,guardrail
+Q01,"site:angoranetworks.com Synapse ANW-5713-24S8T6X switch -filetype:pdf",Find manufacturer HTML explanations for ambiguous model; no PDF access,Discovery only; snippets not specs or independent evidence
+Q02,"site:angoranetworks.com Hitit Synapse Verge switch product network -filetype:pdf",Find another manufacturer HTML page addressing family or management; no PDF access,Discovery only; no competitor or stopped-party analysis
+Q03,"site:angoranetworks.com ANW-2023 ANW-GORDION network switch -filetype:pdf",Find manufacturer HTML showing Verge and Gordion boundaries; no PDF access,Discovery only; no customer or order follow-up

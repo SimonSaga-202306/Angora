@@ -1,0 +1,3 @@
+seq,url,planned_path_from_r105_source_dir,purpose
+1,https://www.angoranetworks.com/network-devices/,external-visible/www.angoranetworks.com/network-devices/index.tr.extracted.md,historical comparison points to this separate product page; HTML only
+2,https://www.angoranetworks.com/verge-network-switch-family/?lang=en,external-visible/www.angoranetworks.com/verge-network-switch-family/index.en.extracted.md,"language link from fetched Verge page; same manufacturer, HTML only"

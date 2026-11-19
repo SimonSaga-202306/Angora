@@ -1,0 +1,5 @@
+repository_relative_path,bytes,sha256,disclosure
+ingest/angora-1__arena-01a0ce39__5acb613/43-audit-r104-2026-10-26.md,6844,e1280a165b316ae688039f45a68c3fd245e162127ecafc2f119c3fae003c992b,full text via read_file before this listing; listed afterwards and fully byte-read for hash
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/date-audit-scope-before-read.csv,1913,4c7c91b5b3698118bb838ac5dd713f7404c7bb03c472ee42258aa32b360d37ae,full text via read_file before this listing; listed afterwards and fully byte-read for hash
+ingest/angora-1__arena-01a0ce39__5acb613/41-source-evidence-r104-2026-10-26/README.md,7041,f2b301c31455fed40cb21cbb9867074884f27bb7b04c859b72cf0c8eca63ff40,rg scanned targeted chronology patterns before this listing; listed afterwards and fully byte-read for hash
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r104.md,3169,c85949ee9f5880eb4afcfe93b90931eadf3a229d33b924613ff3df15cec8910b,rg scanned targeted chronology patterns before this listing; listed afterwards and fully byte-read for hash

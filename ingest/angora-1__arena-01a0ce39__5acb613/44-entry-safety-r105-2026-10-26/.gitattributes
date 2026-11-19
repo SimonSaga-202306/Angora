@@ -1,0 +1,2 @@
+# Preserve safety ledger bytes without changing root attributes or r104 protected files.
+* -text

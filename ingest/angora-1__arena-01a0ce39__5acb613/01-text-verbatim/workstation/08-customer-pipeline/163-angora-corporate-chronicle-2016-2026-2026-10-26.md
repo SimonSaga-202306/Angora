@@ -251,3 +251,10 @@
 - **修正 r39／r40 已存 WordPress TSV 文件头计数以及 r40 帖子“完全一致”**：两份页面表各 25 条、r39 帖子表 10 条；两次帖子表 10 个 ID 的日期字段相同，但两个 slug 字段不同。该比较只针对已保存 TSV，不代表实时或全站 API。
 
 详见 [r104 报告](173-angora-security-products-protocols-r104-2026-10-26.md)、[逐项纠错](../../../41-source-evidence-r104-2026-10-26/issues-and-corrections.csv)与[订单档案映射](../09-orders/120-angora-orders-master-2026-10-21.mapping-r104.md)；只附加，不覆盖本档前缀。
+
+
+---
+
+## r105 具名勘误：产品系列上限与证据口径
+
+**修正／取代 r94** 总览及修正表“10G 是 Verge/Synapse 的上限”：本轮 [Verge 土文页面](../../../45-source-evidence-r105-2026-10-26/external-visible/www.angoranetworks.com/verge-network-switch-serisi/index.tr.extracted.md)把 `ANW-GORDION` 放在 DC/TOR 列，列内有 `6x 100G QSFP28`；Synapse 网页对 `8T+24S` 的 24S 速率也未清楚解释。不能仅凭家族标签为所有型号设 10G 上限，也不据此断言任一设备的实测性能或正式系列边界。厂商 MTBF 和旧 CMS 字段不能证明比较可靠性领先、网页长期未变或上市时间。详见 [r105 报告](174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md)和[档案附录](../09-orders/120-angora-orders-dossier-2026-10-21.r105-appendix.md)；本段只追加，旧文字保留。
