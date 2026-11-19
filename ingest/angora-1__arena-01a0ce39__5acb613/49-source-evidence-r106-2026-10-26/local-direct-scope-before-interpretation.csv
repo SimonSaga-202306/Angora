@@ -1,0 +1,4 @@
+repository_relative_path,bytes,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/Angora-Replies_2024.10.23.docx.extracted.md,5430,existing text extraction; only design and branding fields; original DOCX not retrieved
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,3320,separate existing text extraction; only design and branding fields; original DOCX not retrieved
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md,12158,r104 correction context; first byte-read under safety list before this semantic scope

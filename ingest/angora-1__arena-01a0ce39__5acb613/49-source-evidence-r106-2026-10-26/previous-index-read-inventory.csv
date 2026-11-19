@@ -1,0 +1,5 @@
+repository_relative_path,bytes,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/local-read-inventory.csv,1238,42d8dd29ab764b5722aff025b936eb67b7e59af6258daf03a0ab7ca72c817618
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/context-prefix-read-inventory.csv,1237,b1677457af760760477195d79e4a52bb460f640c9a1f3c8264c505a5cbebe8c7
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/previous-index-read-inventory.csv,1099,44f3d03dca289894bc014cb8785c0a2fbe4fb093d689ea076f2d992fb4afd38b
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/additional-read-inventory.csv,1125,a0c8fc9827c11183059ce9bcad009ff67bae4efc088ec33a778fd5d8be24f88a

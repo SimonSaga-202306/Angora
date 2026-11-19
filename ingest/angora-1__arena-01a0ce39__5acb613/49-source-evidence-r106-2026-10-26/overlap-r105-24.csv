@@ -1,0 +1,17 @@
+repository_relative_path,in_r105_24,r106_group
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/angora/api/wp-api-pages.tsv,True,local-cms-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/angora/api/wp-api-pages-2026-11-01.tsv,True,local-cms-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/00-METHOD-TIMESTAMPS.md,True,local-method-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/00-METHOD-TIMESTAMPS.md,True,local-method-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/163-angora-corporate-chronicle-2016-2026-2026-10-26.md,True,context-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md,False,context-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md,False,context-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md,False,context-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,True,context-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/47-audit-r105-2026-10-26.md,False,context-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/15-source-evidence-r97-2026-10-26/www.angoranetworks.com/our-services-2/index.en.extracted.md,False,local-existing-web-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/15-source-evidence-r97-2026-10-26/www.angoranetworks.com/angora-nms_en/index.en.extracted.md,False,local-existing-web-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/15-source-evidence-r97-2026-10-26/README.md,False,local-existing-web-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/Angora-Replies_2024.10.23.docx.extracted.md,False,local-direct-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,False,local-direct-read-inventory.csv
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/173-angora-security-products-protocols-r104-2026-10-26.md,True,local-direct-read-inventory.csv

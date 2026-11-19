@@ -1,0 +1,3 @@
+repository_relative_path,bytes,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/06-web-crawl-2026-10-27/angora/api/wp-api-pages.tsv,3094,old saved WordPress metadata; no live API
+ingest/angora-1__arena-01a0ce39__5acb613/07-web-crawl-2026-11-01/angora/api/wp-api-pages-2026-11-01.tsv,2764,second old saved WordPress metadata; same publisher

@@ -1,0 +1,2 @@
+query_id,query,purpose,guardrail
+Q01,"""Angora Networks"" ""Levent Kılıç"" 2023 üretim -site:support.angoranetworks.com -filetype:pdf",Discover a primary interview or independent publication about Angora design and production,Discovery only; no support login pages; no PDF; do not follow partner walls or contact anyone

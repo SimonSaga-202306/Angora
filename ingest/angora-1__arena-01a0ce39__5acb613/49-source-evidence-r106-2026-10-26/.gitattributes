@@ -1,0 +1,4 @@
+# Preserve r106 source and tool-visible text bytes without checkout conversion.
+* -text
+# Quarantine the full about-page tool transcription; it incidentally contains a stopped-party logo URL.
+external-visible/www.angoranetworks.com/angora-networks-_en/index.en.extracted.md -diff

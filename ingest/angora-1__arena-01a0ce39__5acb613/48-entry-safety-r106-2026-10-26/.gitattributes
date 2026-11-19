@@ -1,0 +1,2 @@
+# Preserve r106 safety-ledger bytes; do not alter root or earlier attributes.
+* -text

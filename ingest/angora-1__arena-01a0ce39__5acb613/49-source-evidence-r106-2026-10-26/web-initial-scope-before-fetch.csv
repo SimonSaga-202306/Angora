@@ -1,0 +1,4 @@
+seq,url,planned_path_from_r106_source_dir,purpose,guardrail
+1,https://www.angoranetworks.com/ozgun-tasarim-oem-odm-hizmeti/,external-visible/www.angoranetworks.com/ozgun-tasarim-oem-odm-hizmeti/index.tr.extracted.md,manufacturer OEM ODM capabilities as visible webpage,HTML-derived tool text only; do not fetch PDF or submit forms
+2,https://www.angoranetworks.com/hizmetlerimiz/,external-visible/www.angoranetworks.com/hizmetlerimiz/index.tr.extracted.md,manufacturer services support and training page,HTML-derived tool text only; do not fetch PDF or use comment validation
+3,https://www.angoranetworks.com/angora-networks-_en/?lang=en,external-visible/www.angoranetworks.com/angora-networks-_en/index.en.extracted.md,manufacturer self-described company chronology,HTML-derived tool text only; references and images are not contracts or customers

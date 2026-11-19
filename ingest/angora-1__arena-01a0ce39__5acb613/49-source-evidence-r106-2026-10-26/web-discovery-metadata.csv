@@ -1,0 +1,6 @@
+query_id,position,result_type,url,page_age_as_reported,disposition
+Q01,1,ICT Media interview,https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,Thursday June 08 2023,selected for separately prelisted public HTML fetch
+Q01,2,Magazine flipbook,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,Saturday June 03 2023,not fetched; avoid document extraction
+Q01,3,Contact-profile index,https://www.zoominfo.com/p/Levent-Kilic%CC%A7/2030094037,,not fetched; no contact data copied
+Q01,4,Professional profile index,https://www.xing.com/profile/Levent_KILIC19,,not fetched; no contact or career inference
+Q01,5,Contact-profile index,https://rocketreach.co/levent-kilic-email_818927470,,not fetched; no contact data copied

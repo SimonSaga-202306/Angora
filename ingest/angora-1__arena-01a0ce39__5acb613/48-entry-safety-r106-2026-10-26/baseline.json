@@ -1,0 +1,9 @@
+{
+  "session_date_supplied_utc": "2026-10-26",
+  "environment_start_observed_utc": "2026-11-19T08:07:17Z",
+  "branch": "arena/5da004bd-angora",
+  "head": "61d47150ce7c73854225d69b9c3bc72dc7c90547",
+  "remote_branch_head": "61d47150ce7c73854225d69b9c3bc72dc7c90547",
+  "preexisting_status_entries": 0,
+  "notes": "Environment date conflicts with the supplied session date; it is only a clock observation, not a verified historical collection date. No branch switch, reset, stash or merge."
+}

@@ -375,3 +375,14 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 - **日期边界**：本会话提供 `2026-10-26 UTC`，环境显示 `2026-11-19 UTC`，冲突未解；不倒填历史采集日、不重开已 PASS 事项。
 
 完整证据、计算及限制见 [独立附录](120-angora-orders-dossier-2026-10-21.r105-appendix.md)、[映射](120-angora-orders-master-2026-10-21.mapping-r105.md)和 [r105 报告](../08-customer-pipeline/174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md)。本段只追加，不替换历史前缀或合并其他主体。
+
+
+---
+
+## r106 追加附录索引：设计、服务与历史时间边界
+
+- **修正／取代 r94**：OEM/ODM 网页介绍是厂商声称可提供的服务，不等于具体项目交付；不能仅凭芯片或商标把全部产品归为进口白牌、或把某产品线概括为 100% 采购主板并安装自有系统。也不能据“81 地域”和“6 已识别主体”这种不同分母推断覆盖矛盾或渠道密度；r95 原有纠错继续保留。
+- **修正／取代 r40**：两份旧 TSV 相应页面的 `date`／`modified` 字段一致，不证明全站网页或中间历史未改；r104 已纠正 r40 头 24 行与实际保存 25 数据行的差异，旧 TSV 原字节不改。
+- 厂商列 Best Effort、更换速度、维护窗口和各项培训时长，是选项描述，不是合同、地理覆盖、实际履约或授课证明。两份既有定制文书仅记录各自的品牌／GUI 等文字，不能合并或推断实机验收；未重启任何已 PASS 事项，不联系客户。
+
+详见 [独立附录](120-angora-orders-dossier-2026-10-21.r106-appendix.md)、[字段映射](120-angora-orders-master-2026-10-21.mapping-r106.md)和 [r106 报告](../08-customer-pipeline/175-angora-design-service-delivery-r106-2026-10-26.md)；旧档前缀保留。

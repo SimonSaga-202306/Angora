@@ -1,0 +1,5 @@
+repository_relative_path,bytes,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/44-entry-safety-r105-2026-10-26/protected-variants-read-inventory.csv,10310,9f47d5512bf8b33c1c15ca5a9433050072514a9689f3374447ff6e38c3d5d845
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/append-log.csv,1435,75100ef5264ff3f38594c0ba1c7dc2090e77411a5b6bec7b570c6cdc70ee11f3
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/r104-final-protection-inventory.csv,1222,da8b5dfcd5b1e2e01f6c0751c88c948ebb089ea293b2644cfcd755ed0d1ee29c
+ingest/angora-1__arena-01a0ce39__5acb613/45-source-evidence-r105-2026-10-26/context-prefix-read-inventory.csv,1237,b1677457af760760477195d79e4a52bb460f640c9a1f3c8264c505a5cbebe8c7

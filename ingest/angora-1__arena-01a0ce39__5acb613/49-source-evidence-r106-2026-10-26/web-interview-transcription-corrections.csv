@@ -1,0 +1,3 @@
+chunk_index,start_byte,before_bytes,before_sha256,after_bytes,after_sha256,reason
+2,17473,8681,cc1c2b999b7455af6232de46749d3614b1dae28c362bfb0cfeedde594393fa2b,8574,b1650795c6693dc2e2066915d00aa147a21bc98e08500828a23b449b7ddaca67,manual reread found one spacing difference and a duplicated sidebar link; corrected to tool-visible text; earlier chunks unchanged; no automatic response comparison
+3,26047,7022,fa0414fa6cdca76661d024a3fe9724ba91117716405aafe482c699225b4121ec,7022,7129b1c460548f98029a8a76f8969c9785739432ace41b989bdee33b557bac1d,manual reread found one unrelated sidebar URL spelling error; corrected to tool-visible text; earlier chunks unchanged; no automatic response comparison

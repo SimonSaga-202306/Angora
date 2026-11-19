@@ -1,0 +1,9 @@
+case,prior_claim,anchors,disposition,correction,limit
+D01,r94 163 line 112: OEM/ODM 交付含硬件与定制 OS,R94-oem-delivery;OEM-hardware;OEM-operating-system;INT-brand-oem,限定／修正,官网及访谈是可提供服务的表述，不能转成已经完成、交付或验收；操作系统来源及许可未独立验证。,厂商自述不是设计合同、交付报告、源码或设备实测。
+D02,r94 163 lines 8/87: 以进口白牌为底座及 ARI 全线 100% 买主板加自有系统,R94-supply-model;R94-ari-all;R104-ari-variation;OEM-board-design;INT-ownership-claim,修正／取代绝对化,不能从处理器名称、支持应用、商标或个别来源推断所有型号的主板来源、制造地点与 OS 权属；管理者关于 IP 的自述也不构成独立权属证明。,不否认任何既有特定采购证据；没有重开历史财务或未付订单。
+D03,r94 163 line 127: 81 地理覆盖与已知 6 主体矛盾，渠道密度极低,R94-coverage,修正／取代,可达地域与已识别主体数量分母不同；仅凭六个已知实体不能判定覆盖宣称真伪或密度。,本轮未验证实际渠道、合同、各地响应或站点地图；不引用隔离页面。
+D04,r94 163 line 179: OEM 表单/邮箱为已证正式入口及主动联系建议,R94-outreach;OEM-service-location,限定／不执行,本轮仅观察产品介绍及一般支持链接，未证专用受理路径；不把历史建议转为现在的联系任务。,工具可见文字非原 HTML；未提交表单、不登录、未联系客户。
+D05,r40 WordPress 页面索引断言官网没有任何页面改动,R40-no-change;CMS-1152-39;CMS-1152-40;CMS-275-39;CMS-275-40,修正／取代,两份已存 TSV 的特定 ID 的 date/modified 字段相同，只能说明字段文字相同。,旧目录日期与本会话日期不一致，采集时刻未知；字段相同不能证明正文、隐藏内容或整站未变。
+D06,r40 TSV 文件头 24 条而全表数据行 25 条,R40-count-header,延续 r104 具名纠正,重新计算现存 TSV 数字 ID 数据行，不改原 TSV 文件头。,只覆盖保存的表格，不能证明实时 API 或整站完整。
+D07,服务页支持响应被推断为无条件 SLA 或实绩,SERV-standard-best-effort-TR;SERV-next-day-change-TR;SERV-four-hour-change-TR;SERV-service-window-TR,限定,标识为 Best Effort、针对 Angora 产品换货选项、年度维护和服务窗口；网页没有完整合同条件和已兑现证据。,不承诺地理覆盖、起算点、备件、工单响应或客户验收。
+D08,培训目录时长被推断成授课和培训产出,SERV-angora-switch-TR;SERV-network-basics-EN;R101-training-card,限定,目录内各课程天数与过往文件卡均不能证明已经授课、参与人数或培训内容完成。,不同语言属于同一厂商，不是独立第三方；原培训文件未取。

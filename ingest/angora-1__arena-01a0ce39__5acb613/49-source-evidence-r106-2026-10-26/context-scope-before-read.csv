@@ -1,0 +1,7 @@
+repository_relative_path,bytes,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/163-angora-corporate-chronicle-2016-2026-2026-10-26.md,36246,r94 chronicle; first byte-read under earlier safety list
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md,14512,r101 training and network management limitations
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md,12233,r102 identity/customization limitations
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/174-angora-switch-portfolio-lifecycle-r105-2026-10-26.md,13034,r105 product/version limitations
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,43127,dossier prefix; first byte-read under earlier safety list; do not reopen stopped topics
+ingest/angora-1__arena-01a0ce39__5acb613/47-audit-r105-2026-10-26.md,7160,r105 method and execution chronology
