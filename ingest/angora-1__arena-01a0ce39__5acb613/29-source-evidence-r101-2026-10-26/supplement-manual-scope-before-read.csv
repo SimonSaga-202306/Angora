@@ -1,0 +1,8 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,02-extracted/INFO_2025.12.17/CLI Manual.docx.extracted.md,3172231,pre-existing extracted document or email derivative,complete byte-read; selective semantic review; no archive extraction
+2,02-extracted/INFO_2025.12.17/Web Manual.docx.extracted.md,139915,pre-existing extracted document or email derivative,complete byte-read; selective semantic review; no archive extraction
+3,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-cli-manual-docx.json,4313454,pre-existing extracted document or email derivative,complete byte-read; selective semantic review; no archive extraction
+4,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-cli-manual-docx.md,2396260,pre-existing extracted document or email derivative,complete byte-read; selective semantic review; no archive extraction
+5,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-web-manual-docx.json,180145,pre-existing extracted document or email derivative,complete byte-read; selective semantic review; no archive extraction
+6,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-web-manual-docx.md,113833,pre-existing extracted document or email derivative,complete byte-read; selective semantic review; no archive extraction
+7,01-text-verbatim/workstation/01-knowledge-base/gmail-threads/TT_switch_administration_guide.md,2951,pre-existing extracted document or email derivative,complete byte-read; selective semantic review; no archive extraction

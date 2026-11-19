@@ -1,0 +1,4 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation,read_method
+1,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224554_074.jsonl,52600,ff098473c2eec86619165193c45a0251e3dd364d4d6417e298d0955917c0478a,screenshot OCR derivative or metadata,complete byte-read; targeted review
+2,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224554_074.txt,13939,31e06a2949a2086076842553b28c50c17b0eacd5efd69e5ba7815ae0b3157ac1,screenshot OCR derivative or metadata,complete byte-read; targeted review
+3,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224554_074.png.meta.json,678,b927c6294f3f352e7df9c8509dad5a88a237200f6dec67acf8c6924125fbdb35,screenshot OCR derivative or metadata,complete byte-read; targeted review

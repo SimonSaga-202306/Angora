@@ -38,3 +38,34 @@
 "/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225232_904.jsonl" -text
 "/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225232_904.txt" -text
 "/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225232_904.png.meta.json" -text
+
+# r101: preserve protected variants, evidence manifests and each selected derived source byte-for-byte.
+/ingest/angora-1__arena-01a0ce39__5acb613/29-source-evidence-r101-2026-10-26/** -text
+/ingest/angora-1__arena-01a0ce39__5acb613/28-protected-variants-r101-2026-10-26/** -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pub.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pub.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/User Manual_178台LT-IS6318GP-2GX16GT.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pub.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/ANW-VERGE-2023-INDUSTRIAL-DATASHEET-20210423-TR.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/ANW-VERGE-2023-ENTERPRISE-DATASHEET-20210423-TR.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - TT switch administration guide.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FILE-INDEX.csv" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225251_736.jsonl" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225251_736.txt" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225251_736.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/CLI Manual.docx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/Web Manual.docx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-cli-manual-docx.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-cli-manual-docx.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-web-manual-docx.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-web-manual-docx.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/TT_switch_administration_guide.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224554_074.jsonl" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224554_074.txt" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224554_074.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/User Manual.docx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.md" -text

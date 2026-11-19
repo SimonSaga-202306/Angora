@@ -1,0 +1,4 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,02-extracted/INFO_2025.12.17/User Manual.docx.extracted.md,1291026,pre-existing extracted standalone Word user manual,complete byte-read; selective capability review; no archive extraction
+2,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.json,1447034,pre-existing extracted standalone Word user manual,complete byte-read; selective capability review; no archive extraction
+3,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.md,1099269,pre-existing extracted standalone Word user manual,complete byte-read; selective capability review; no archive extraction

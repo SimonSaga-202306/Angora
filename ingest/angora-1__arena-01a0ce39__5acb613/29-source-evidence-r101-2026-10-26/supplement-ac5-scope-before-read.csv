@@ -1,0 +1,4 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225251_736.jsonl,16037,screenshot OCR derivative or metadata,complete byte-read; only 2026-08-26 AC5 sample and integration proposal
+2,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225251_736.txt,4459,screenshot OCR derivative or metadata,complete byte-read; only 2026-08-26 AC5 sample and integration proposal
+3,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225251_736.png.meta.json,676,screenshot OCR derivative or metadata,complete byte-read; only 2026-08-26 AC5 sample and integration proposal

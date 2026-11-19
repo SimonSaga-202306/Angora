@@ -254,3 +254,7 @@ python3 workstation/99-raw/audit_coverage.py
 | OCR 截图 | **26 / 26** 完成（第 26 张 = 2026-10-06 用户新传 877 图） |
 | 已验证可引用原话 | **60+** 条 |
 | 自有 YouTube 视频（字幕已取） | **10 / 10**（KOZ'23 全套 4 讲 + My Angora 培训 4 讲 + Arrow 数据二极管等）；另 ICTMEDIATV 短访谈 1/2 已取 |
+
+## r101 最新入口：培训、手册与网管证据链
+
+[报告](08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md) · [修正映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r101.md) · [说话人归属勘误](01-knowledge-base/05-verified-quotes-by-speaker.mapping-r101.md) · [38 项来源清单](../../29-source-evidence-r101-2026-10-26/README.md) · [Angora 独立内部记录](../../30-followup-angora-r101-2026-10-26/angora-networks.md)。修正旧“CENTEC 材料即方案落地”；培训文件卡不证明授课，平台声明不证明特定设备已验收。

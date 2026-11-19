@@ -1,0 +1,4 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation,read_method
+1,02-extracted/INFO_2025.12.17/User Manual.docx.extracted.md,1291026,cbf2c6f0b8e23ab7aac261afa77a3334bb4f352c2cda72ed995a4bee8c993fac,pre-existing extracted standalone Word user manual,complete byte-read; targeted review; no archive extraction
+2,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.json,1447034,61cee1bf72166877757da0404a5d696c27a73d89410deea3bdd91538961b9bc0,pre-existing extracted standalone Word user manual,complete byte-read; targeted review; no archive extraction
+3,01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.md,1099269,18d0faf76b1cf0b522a8fcd977887719af0b504dc5f34aabc7540c3c762280f6,pre-existing extracted standalone Word user manual,complete byte-read; targeted review; no archive extraction

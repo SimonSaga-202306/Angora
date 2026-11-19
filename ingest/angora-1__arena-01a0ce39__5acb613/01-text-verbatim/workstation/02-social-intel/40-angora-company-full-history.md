@@ -169,3 +169,7 @@
 ## 附录：r100 明确修正并取代旧 NMS 字段
 
 §产品表将官网 Angora NMS 写成“已集成我方 lite-hotfix-7.3.13”，证据不足：2026-08-17 作者只称**相信**对方已集成，既无客户确认、安装记录或验收，也未证明官网 NMS 就是其所指系统。2026-07 同名文件卡及请转交为分享线索，不是实际部署证据。详见 [r100 证据链](../08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md)与[映射](../09-orders/120-angora-orders-master-2026-10-21.mapping-r100.md)。
+
+## 附录：r101 手册和培训不自动等于落地
+
+**修正并取代将 CENTEC 材料存在视为方案已在客户项目落地的推断**：已有 CENTEC STH 手册文字、厂商服务页面及 2026 培训文件卡，均不足证明特定设备部署、课程授课或客户验收。2025 TT 新系统、另一个平台和官网 ANMS 的同一性也未知。见 [r101 报告](../08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md) 和 [映射](../09-orders/120-angora-orders-master-2026-10-21.mapping-r101.md)。

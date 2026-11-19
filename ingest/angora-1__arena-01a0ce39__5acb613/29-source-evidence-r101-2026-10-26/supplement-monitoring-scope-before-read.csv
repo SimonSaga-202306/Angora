@@ -1,0 +1,4 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224554_074.jsonl,52600,screenshot OCR derivative or metadata,complete byte-read; only the dated log-monitoring plan
+2,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224554_074.txt,13939,screenshot OCR derivative or metadata,complete byte-read; only the dated log-monitoring plan
+3,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224554_074.png.meta.json,678,screenshot OCR derivative or metadata,complete byte-read; only the dated log-monitoring plan

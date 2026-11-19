@@ -1,0 +1,20 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pdf.extracted.md,6524,manual text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+2,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pub.extracted.md,85705,manual text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+3,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf.extracted.md,5919,manual text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+4,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pub.extracted.md,93303,manual text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+5,02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/User Manual_178台LT-IS6318GP-2GX16GT.pdf.extracted.md,6547,manual text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+6,02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pdf.extracted.md,6489,manual text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+7,02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pub.extracted.md,94998,manual text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+8,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json,752882,OCR-aligned conversation JSON,full byte-read and SHA-256; targeted analysis without reproducing credentials
+9,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md,349748,OCR-aligned conversation Markdown,full byte-read and SHA-256; targeted analysis without reproducing credentials
+10,01-text-verbatim/workstation/01-knowledge-base/wechat-2026.md,113237,alternate OCR conversation Markdown,full byte-read and SHA-256; targeted analysis without reproducing credentials
+11,15-source-evidence-r97-2026-10-26/www.angoranetworks.com/angora-nms_en/index.en.extracted.md,4847,prior visible webpage transcription,full byte-read and SHA-256; targeted analysis without reproducing credentials
+12,15-source-evidence-r97-2026-10-26/www.angoranetworks.com/angora-nms/index.extracted.md,3002,prior visible webpage transcription,full byte-read and SHA-256; targeted analysis without reproducing credentials
+13,15-source-evidence-r97-2026-10-26/www.angoranetworks.com/our-services-2/index.en.extracted.md,2298,prior visible webpage transcription,full byte-read and SHA-256; targeted analysis without reproducing credentials
+14,02-extracted/ANW-VERGE-2023-INDUSTRIAL-DATASHEET-20210423-TR.pdf.extracted.md,30498,datasheet text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+15,02-extracted/ANW-VERGE-2023-ENTERPRISE-DATASHEET-20210423-TR.pdf.extracted.md,35115,datasheet text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+16,02-extracted/Saga Feature List_7.5.x_L2+.xlsx.extracted.md,6623,workbook text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+17,02-extracted/Gmail - TT switch administration guide.pdf.extracted.md,3567,email PDF text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+18,02-extracted/6th order 6台工业2光8/STSC20250619007_R1.xls.extracted.md,4145,invoice spreadsheet text extraction,full byte-read and SHA-256; targeted analysis without reproducing credentials
+19,00-manifest/FILE-INDEX.csv,266632,historical source-file metadata index,full byte-read and SHA-256; targeted analysis without reproducing credentials
