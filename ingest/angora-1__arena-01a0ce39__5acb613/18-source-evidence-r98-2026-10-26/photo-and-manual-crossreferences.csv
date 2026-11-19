@@ -1,0 +1,27 @@
+group,source_path,source_bytes_in_original_index,source_sha256_in_original_index,evidence_limit
+photo-01,4th order sample  2层10G 24口 48口/ANW-2248-PX/2.jpg,379613,eb5cb2780c490919f83e72ddb63ea10df1d09ab03b1fd3b4fc559cd0ee09d5c8,historical index values only; source image not re-read
+photo-01,4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/2.jpg,379613,eb5cb2780c490919f83e72ddb63ea10df1d09ab03b1fd3b4fc559cd0ee09d5c8,historical index values only; source image not re-read
+photo-01,5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/2.jpg,379613,eb5cb2780c490919f83e72ddb63ea10df1d09ab03b1fd3b4fc559cd0ee09d5c8,historical index values only; source image not re-read
+photo-02,4th order sample  2层10G 24口 48口/ANW-2224-PX/3.jpg,549446,3321bbbf18cdcb35443d8c09b7f5330e36b272e53c1504d418cd29f6e1079b6a,historical index values only; source image not re-read
+photo-02,4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/3.jpg,549446,3321bbbf18cdcb35443d8c09b7f5330e36b272e53c1504d418cd29f6e1079b6a,historical index values only; source image not re-read
+photo-02,5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/1.jpg,549446,3321bbbf18cdcb35443d8c09b7f5330e36b272e53c1504d418cd29f6e1079b6a,historical index values only; source image not re-read
+photo-03,4th order sample  2层10G 24口 48口/ANW-2224-PX/5.jpg,634813,f37c1776b50812d8607d27bf6d0c40f5bf0cabdb544dbd471bde6c052597996e,historical index values only; source image not re-read
+photo-03,4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/7.jpg,634813,f37c1776b50812d8607d27bf6d0c40f5bf0cabdb544dbd471bde6c052597996e,historical index values only; source image not re-read
+photo-03,5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/2.jpg,634813,f37c1776b50812d8607d27bf6d0c40f5bf0cabdb544dbd471bde6c052597996e,historical index values only; source image not re-read
+photo-04,4th order sample  2层10G 24口 48口/ANW-2248-PX/1.jpg,665058,7bd9aaee4743277ca62f5197200c9a7b5e408863a86bc928496c2087afc4333b,historical index values only; source image not re-read
+photo-04,4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/1.jpg,665058,7bd9aaee4743277ca62f5197200c9a7b5e408863a86bc928496c2087afc4333b,historical index values only; source image not re-read
+photo-04,5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/1.jpg,665058,7bd9aaee4743277ca62f5197200c9a7b5e408863a86bc928496c2087afc4333b,historical index values only; source image not re-read
+photo-05,4th order sample  2层10G 24口 48口/ANW-2248-PX/3.jpg,698271,244c02417c7989781c6a6b3d64d0d80261b95b7a349a57873222c3a3b14a32b3,historical index values only; source image not re-read
+photo-05,4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/3.jpg,698271,244c02417c7989781c6a6b3d64d0d80261b95b7a349a57873222c3a3b14a32b3,historical index values only; source image not re-read
+photo-05,5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/3.jpg,698271,244c02417c7989781c6a6b3d64d0d80261b95b7a349a57873222c3a3b14a32b3,historical index values only; source image not re-read
+photo-06,4th order sample  2层10G 24口 48口/ANW-2224-PX/2.jpg,708741,55c416c54aade0dec8fc0d3b27e5760f729ebd8165fddab2b5bb138eda7f0458,historical index values only; source image not re-read
+photo-06,4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/2.jpg,708741,55c416c54aade0dec8fc0d3b27e5760f729ebd8165fddab2b5bb138eda7f0458,historical index values only; source image not re-read
+photo-06,5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/4.jpg,708741,55c416c54aade0dec8fc0d3b27e5760f729ebd8165fddab2b5bb138eda7f0458,historical index values only; source image not re-read
+photo-07,4th order sample  2层10G 24口 48口/ANW-2224-PX/4.jpg,763570,da3cde78d0174503786a5ef676303bbd7920a455fe0fcd35572084566e368b0e,historical index values only; source image not re-read
+photo-07,4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/4.jpg,763570,da3cde78d0174503786a5ef676303bbd7920a455fe0fcd35572084566e368b0e,historical index values only; source image not re-read
+photo-07,5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/3.jpg,763570,da3cde78d0174503786a5ef676303bbd7920a455fe0fcd35572084566e368b0e,historical index values only; source image not re-read
+manual-01,2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf,608064,ac42bdafee0db686c32c0158efe8a23a32eea82f0491edd993ff31fe6ec896ef,historical index values only; source PDF not re-read
+manual-01,4th order sample  2层10G 24口 48口/Unshipped/User Manual_STSC20250228007.pdf,608064,ac42bdafee0db686c32c0158efe8a23a32eea82f0491edd993ff31fe6ec896ef,historical index values only; source PDF not re-read
+manual-01,4th order sample  2层10G 24口 48口/User Manual_STSC20250507007.pdf,608064,ac42bdafee0db686c32c0158efe8a23a32eea82f0491edd993ff31fe6ec896ef,historical index values only; source PDF not re-read
+manual-01,5th order sample  2层10G 24口 48口/Shipment Info/User Manual_STSC20250526007.pdf,608064,ac42bdafee0db686c32c0158efe8a23a32eea82f0491edd993ff31fe6ec896ef,historical index values only; source PDF not re-read
+manual-01,5th order sample  2层10G 24口 48口/User Manual_STSC20250526007.pdf,608064,ac42bdafee0db686c32c0158efe8a23a32eea82f0491edd993ff31fe6ec896ef,historical index values only; source PDF not re-read

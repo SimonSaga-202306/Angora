@@ -1,5 +1,7 @@
 # 全量读取入库 — SimonSaga-202306/Angora-1 @ arena/01a0ce39-angora
 
+> **r98 最新入口与 RAR 清单纠错**：[第三至第六单与数据中心报告](01-text-verbatim/workstation/08-customer-pipeline/167-angora-orders-warranty-datacenter-r98-2026-10-26.md) · [映射](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r98.md) · [187 条源路径及证据](18-source-evidence-r98-2026-10-26/README.md)。本轮 187/187 是读取派生产物，87 文字/图层抽取、98 元数据、2 原样文本；不是重取 187 原件。**修正下文 RAR “散件覆盖”**：14 个只是同名同大小，旧成员 SHA 由散件计算，未验证成员载荷；另一软件清单大小不同。RAR 解压已 PASS，不执行。
+
 > **r97 最新入口**：[首两单、385 台及软件报告](01-text-verbatim/workstation/08-customer-pipeline/166-angora-first-second-order-software-r97-2026-10-26.md) · [字段修正](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r97.md) · [首两单 108 项目录与逐源清单](15-source-evidence-r97-2026-10-26/README.md) · [差异版本安全副本](14-protected-variants-r97-2026-10-26/README.md)。108/108 是本轮读取并哈希的派生文件数，32 为文字/图层抽取、76 仅元数据，不代表本轮重取或完整审读原件。
 
 > **入库原则：不合并（NO MERGING）。** 一个源文件 = 一个产物；压缩包内每个成员也各自成产物。781 个源文件 → 781 个一级产物 + 72 个压缩包成员产物。保留原始相对路径、原始字节哈希、原始文件名（含中文、空格、大小写）。

@@ -32,3 +32,12 @@
 | `Performance of PeakNetX Platform_EN.pptx` | 97,089 | ✅ 是 |
 
 ## ⚠️ 仅存在于 rar 内、仓库其他地方没有的文件（需本地解压后补充）
+
+## r98 修正并取代本文件的对应说法（保留历史正文）
+
+- 对话 `INFO.rar` / `Please check the info` 的日期是 **2025-12-17**，不是上文误写的“2026 微信”。
+- 本文件所列为 RAR 目录，不是载荷全部信息；软件清单成员目录记 **154,139 bytes**，同名散件旧索引为 **154,107 bytes**。两者不能当同版本；其他同名同大小项也未做成员载荷对比，不能声称逐字节相同。
+- 当年成员清单中的 `sha256` 源自同名散件而非 RAR 成员内容；可参见 `tools/extract_archives.py` 的 `handle_rar_listing`。[来源说明](../../../../18-source-evidence-r98-2026-10-26/README.md)。
+- 用户已对 **INFO.rar 解压 PASS**，上文“若需提取执行 unrar”的旧建议失效，不执行、不建议客户执行。
+
+本附录显式改变了这个工作档文件；原先字节可由 Git `98006ef` 读取，不把附录后的文件冒称源仓 byte-identical 产物。

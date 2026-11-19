@@ -9,3 +9,6 @@
 
 # Preserve the recorded r97 visible text and inventory hashes, including spaces.
 /ingest/angora-1__arena-01a0ce39__5acb613/15-source-evidence-r97-2026-10-26/** -text
+
+# r98 evidence transcripts and inventories are also hashed as exact local bytes.
+/ingest/angora-1__arena-01a0ce39__5acb613/18-source-evidence-r98-2026-10-26/** -text

@@ -305,3 +305,12 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 5. 第二单 11-13 海关所在国曾被客户纠正；11-21 客户称前一天已清关、货在伊斯坦布尔，但没有在该句给运单号，最终签收仍未独立核实。
 
 逐字段证据见 [r97 映射](120-angora-orders-master-2026-10-21.mapping-r97.md) 与 [总报告](../08-customer-pipeline/166-angora-first-second-order-software-r97-2026-10-26.md)。
+
+## 附录：r98 明确修正并取代 r27（历史正文保留）
+
+1. §3.3/CSV 的“2025-03-02 出货”未经承运轨迹证明，且 03-03 卖方说未收款不能放行；03-04 称收款、03-05 转仓、03-07 给 UPS 号、03-17 客户称到货。实际揽收、独立签收、终端验收仍未知。
+2. §7.7 的“VastLakes 25G、PeakNetX 10G”平台配对错误：STH25G 数据表首页写 PeakNetX、STH1G 数据表首页写 VastLakes。平台还可支持其他速率，不能一平台等于唯一速率。资料包及路线回复不证明 RFP 已匹配、成交或验收。
+3. 第三单 PI 数字 `$47,174` 而英文大写仍是 `$1,545`；CI R1 大写与数字一致。PSD 文字层记三年保修及相同 UPS 号，PDF 图片/签章未核；供应侧五年条款不能自动转成客户承诺。
+4. 4th/5th 历史索引有 7 组、21 路径照片同 SHA；仅索引交叉，未重读原始照片，不能把它们当独立批次交付证据。历史未成交/未付款与财务差异维持用户 PASS、不催不联系。
+
+详见 [r98 字段映射](120-angora-orders-master-2026-10-21.mapping-r98.md) 与 [逐源总报告](../08-customer-pipeline/167-angora-orders-warranty-datacenter-r98-2026-10-26.md)。附录是对工作档的显式修改，历史版本可由 Git `98006ef` 读取；不是未修改的源仓 byte-identical 副本。
