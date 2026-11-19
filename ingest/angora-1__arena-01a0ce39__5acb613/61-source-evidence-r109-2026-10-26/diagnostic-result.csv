@@ -1,0 +1,2 @@
+id,url,chunk_index,status,has_more,total_chunks,disposition
+D-HTTP,https://github.com/,0,success,true,2,availability check only; not an Angora source and not a full crawl; second block deliberately not fetched

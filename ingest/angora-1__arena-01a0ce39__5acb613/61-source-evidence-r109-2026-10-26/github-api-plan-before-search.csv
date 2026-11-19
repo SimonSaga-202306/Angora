@@ -1,0 +1,4 @@
+id,api_endpoint,query,purpose
+GH01A,GET /search/code,"""C43VQBJtdrk""",metadata discovery only for previously failed video fetch
+GH02A,GET /search/code,"""yveHNxOXD3g""",metadata discovery only for previously failed video fetch
+GH03A,GET /search/code,"""angora-thince-ince-istemci-egitimi""",metadata discovery only for event URL mirror

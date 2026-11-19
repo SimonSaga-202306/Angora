@@ -1,0 +1,4 @@
+id,query,purpose,guardrail
+GH01,"""C43VQBJtdrk""",seek public GitHub indexed references to unavailable process video,metadata only; no clones no unrelated files; results are leads not full transcripts
+GH02,"""yveHNxOXD3g""",seek public GitHub indexed references to unavailable 2020 interview,metadata only; no clones no unrelated files; results are leads not full transcripts
+GH03,"""angora-thince-ince-istemci-egitimi""",seek public mirror of event page,metadata only; no clones no unrelated files; results are leads not event evidence

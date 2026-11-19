@@ -1,0 +1,4 @@
+source_id,url,role,guardrail
+V01A,https://youtu.be/C43VQBJtdrk,direct alias of V01 after failed canonical first block,only use if all consistent tool chunks saved; stop on drift; no audio download
+V02A,https://youtu.be/yveHNxOXD3g,direct alias of V02 after failed canonical first block,only use if all consistent tool chunks saved; no audio download
+E01A,https://angoranetworks.com/event/angora-kanal-ortagi-satis-egitimi/,non-www alias of E01 after failure,only page visible text; no registration or PDF

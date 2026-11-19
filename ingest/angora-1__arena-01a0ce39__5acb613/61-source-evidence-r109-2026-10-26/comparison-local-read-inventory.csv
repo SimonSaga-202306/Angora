@@ -1,0 +1,2 @@
+repository_relative_path,bytes_before_read,purpose,bytes_read,sha256,full_bytes_read
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/local-read-inventory.csv,4645,r108/r109 exact path overlap only,4645,50b27f5111b1f38d8ac49d986d5da0be9f72d8016c65894b4d1dae840532a00a,True

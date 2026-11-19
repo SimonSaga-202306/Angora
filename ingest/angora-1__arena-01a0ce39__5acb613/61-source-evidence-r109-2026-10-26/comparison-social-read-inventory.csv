@@ -1,0 +1,2 @@
+repository_relative_path,bytes_before_read,purpose,bytes_read,sha256,full_bytes_read
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/social-selection-read-inventory.csv,352,complete r108 path overlap using its separately recorded social selection,352,69f7eae264d1ed947eb01e14a33707e7f9f0000f94b35e129085716a39e1301f,True

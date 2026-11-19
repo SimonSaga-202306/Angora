@@ -1,0 +1,2 @@
+id,url,reason,guardrail
+D-HTTP,https://github.com/,distinguish general fetch-page failure from target-only failure; not an Angora evidence source,no login or mutations; only page availability

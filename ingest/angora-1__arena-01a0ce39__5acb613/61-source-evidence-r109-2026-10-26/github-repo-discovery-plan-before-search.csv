@@ -1,0 +1,4 @@
+id,endpoint,query,purpose,guardrail
+GR01,GET /search/repositories,"angoranetworks in:name,description",identify potential official public repos,metadata only; name resemblance does not establish identity
+GR02,GET /search/repositories,"""Angora Networks"" in:name,description",identify possible product documentation mirrors,metadata only; no assumption common-name repositories belong to company
+GR03,GET /users/angoranetworks/repos,,test exact-named account public repo list,metadata only; account and brand association unconfirmed

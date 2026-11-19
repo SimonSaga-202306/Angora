@@ -1,0 +1,10 @@
+{
+  "stash_commit": "e74e476b678b48c3ce060a8c01fd04dd926a99cc",
+  "untracked_parent": "826522f37a755534d6becfd70bf6f93fbe149637",
+  "stashed_paths": 868,
+  "exact_git_blob_matches": 868,
+  "protected_variants_verified": 32,
+  "remaining_status_entries_under_safety_dir": 42,
+  "status": "all preexisting untracked content preserved in stash and all 32 divergent byte copies separately preserved; safe for current-branch fast-forward",
+  "stash_policy": "do not pop or delete"
+}

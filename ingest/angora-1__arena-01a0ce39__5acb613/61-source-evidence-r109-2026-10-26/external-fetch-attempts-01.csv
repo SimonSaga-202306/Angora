@@ -1,0 +1,6 @@
+source_id,attempted_url,chunk_index,status,tool_message,disposition
+V01,https://www.youtube.com/watch?v=C43VQBJtdrk,0,error,Failed to fetch page,no content returned; not used as evidence
+V02,https://www.youtube.com/watch?v=yveHNxOXD3g,0,error,Failed to fetch page,no content returned; not used as evidence
+E01,https://www.angoranetworks.com/event/angora-kanal-ortagi-satis-egitimi/,0,error,Failed to fetch page,no content returned; search snippets not used as page evidence
+E02,https://www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/,0,error,Failed to fetch page,no content returned; search snippets not used as page evidence
+E03,https://www.angoranetworks.com/events/category/egitim/,0,error,Failed to fetch page,no content returned; search snippets not used as page evidence

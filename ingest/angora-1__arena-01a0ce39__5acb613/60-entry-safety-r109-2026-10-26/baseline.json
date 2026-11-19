@@ -1,0 +1,20 @@
+{
+  "session_date_supplied_utc": "2026-10-26",
+  "environment_start_observed_utc": "2026-11-19T09:52:36Z",
+  "branch": "arena/5da004bd-angora",
+  "local_head_before_fetch": "691123abc7462489146cece19b81b4f917b58646",
+  "fetched_head": "b4d05524eaabd58dc21ba49664c50a93c50a5810",
+  "initial_status_count": 868,
+  "initial_status_types": {
+    "untracked": 868
+  },
+  "incoming_total_bytes": 46015150,
+  "comparison_counts": {
+    "same_as_remote": 836,
+    "different_from_remote": 32,
+    "missing_from_remote": 0
+  },
+  "protected_variant_count": 32,
+  "protected_variant_bytes": 17473261,
+  "note": "First status output was truncated and incidentally displayed unrelated historical order filenames; no such content was analyzed. Opaque byte hashing/copy only for safety. No reset, branch switch, checkout, deletion or stash pop."
+}

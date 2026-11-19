@@ -1,0 +1,8 @@
+{
+  "branch": "arena/5da004bd-angora",
+  "head_after_fast_forward": "b4d05524eaabd58dc21ba49664c50a93c50a5810",
+  "stash_commit": "e74e476b678b48c3ce060a8c01fd04dd926a99cc",
+  "protected_variant_copies_verified_after_ff": 32,
+  "remaining_status_entries_only_r109_safety": 43,
+  "result": "fast-forward succeeded; no reset or branch switch; original stash retained unpopped"
+}

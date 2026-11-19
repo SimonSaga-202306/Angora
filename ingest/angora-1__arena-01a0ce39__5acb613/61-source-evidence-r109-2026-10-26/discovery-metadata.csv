@@ -1,0 +1,25 @@
+query_id,position,url,page_age_as_reported,disposition
+Q01,1,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,r108 prior pre-event notice; use existing full visible text only
+Q01,2,https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,Thursday June 08 2023,r106 prior interview with r107 correction; retain manual transcription limit
+Q01,3,https://angorateknoloji.com/tr,,different similarly named company; association with Angora Networks unconfirmed; do not investigate
+Q01,4,https://www.youtube.com/watch?v=yveHNxOXD3g,Monday October 12 2020,consider separately prelisted direct video fetch; old research already references it
+Q01,5,https://advensis.com.tr/angoranetworks/,Thursday November 12 2020,r107 separately prelisted fetch failed; no identical retry
+Q02,1,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,duplicate r108 prior notice; no extra source
+Q02,2,https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,,duplicate r106 interview; same speaker
+Q02,3,https://www.angoranetworks.com/tag/veri-diyotu-en/?lang=en,,not fetched; product date covered in r104
+Q02,4,https://www.angoranetworks.com/author/wwwadmin/?lang=en,,not fetched; author index may contain unrelated material
+Q02,5,https://advensis.com.tr/angoranetworks/,Thursday November 12 2020,previous fetch failed; no identical retry
+Q03,1,https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,Thursday June 08 2023,r106 prior interview and r107 corrected copy
+Q03,2,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,Saturday June 03 2023,not fetched; magazine whole issue out of scope and same interview
+Q03,3,https://www.youtube.com/watch?v=yveHNxOXD3g,Monday October 12 2020,same video as Q01 result 4
+Q03,4,https://www.zoominfo.com/c/angora-networks/466430035,,not fetched; directory data not verified
+Q03,5,https://www.angoranetworks.com/angora-networks-egm-trafik-sekillendirme-gereklilik-testlerini-gecti/,Monday June 15 2026,r107 covered manufacturer claim; no new certificate
+Q04,1,https://www.angoranetworks.com/event/angora-kanal-ortagi-satis-egitimi/,Wednesday January 04 2023,consider separately prelisted event HTML; agenda not proof class occurred
+Q04,2,https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,same r108 notice; not additional source
+Q04,3,https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi,Monday November 28 2016,not fetched; historical corporate directory and not operational proof
+Q04,4,https://www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/,Monday June 15 2026,not fetched; r104 product scope already covered
+Q05,1,https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,Thursday June 08 2023,same interview as above
+Q05,2,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,Saturday June 03 2023,not fetched; magazine whole issue out of scope
+Q05,3,https://compatlas.com.tr/kategori/gomulu,,not fetched; third-party multi-firm directory and identity field not verified
+Q05,4,https://girisimin.com/2026/04/28/turkiyedeki-teknokentler-rehberi,Tuesday June 30 2026,not fetched; directory and date fields unverified
+Q05,5,https://timlegirisim.com/tr/etkinlikler-bizden-haberler.html,Friday February 27 2026,not fetched; multi-company directory and separate historical award not current scope

@@ -1,0 +1,2 @@
+id,stage,description,remedy,limitation
+D01,initial status,"Unbounded git status output was truncated and included unrelated untracked historical order filenames; no such files were analyzed.","Recorded all 868 initial untracked paths in a complete metadata scope before opaque byte hashing; separately copied 32 variants; stashed and verified all 868 blobs; disclosed to user.","The truncated stdout is not a complete directory record and is not counted as an ingest."

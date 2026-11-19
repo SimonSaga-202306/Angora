@@ -1,0 +1,4 @@
+query_id,query,purpose,guardrail
+Q06,"site:angoranetworks.com/event/ ""Angora"" ""eğitim"" -larch -scodeno -lanaotek -filetype:pdf",discover historical Angora event pages and course agenda by URL,metadata only; do not register or contact; avoid partner directories
+Q07,"""Angora Networks"" ""eğitim"" ""2023"" ""etkinlik"" -larch -scodeno -lanaotek -filetype:pdf",seek event-specific historical training schedules from public HTML,metadata only; no participant claims; no PDF
+Q08,"""C43VQBJtdrk"" ""Angora"" -larch -scodeno -lanaotek -filetype:pdf",identify 2022 KOZ process video metadata before retrieving it,metadata only; no audio upload or contact

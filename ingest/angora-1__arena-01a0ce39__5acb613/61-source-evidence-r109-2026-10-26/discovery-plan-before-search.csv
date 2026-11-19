@@ -1,0 +1,6 @@
+query_id,query,purpose,guardrail
+Q01,"""Angora Networks"" ""Ürün Geliştirme Süreci"" tasarım 2022 -larch -scodeno -lanaotek -filetype:pdf",find Angora primary public product development process and dated presentations,discovery metadata first; no other competitors; no PDF or contact
+Q02,"""Angora Networks"" ""Üretim Süreci"" ürün prototip 2022 -larch -scodeno -lanaotek -filetype:pdf",find Angora manufacturing lifecycle presentation for source comparison,discovery metadata first; no partner wall; no PDF; no contact
+Q03,"""Angora Networks"" tasarım prototip ""test"" sertifikasyon 2023 röportaj -larch -scodeno -lanaotek -filetype:pdf",find primary manager statements on testing and productization,discovery metadata first; no PDF or customer outreach
+Q04,"""Angora Networks"" ürün ""satış sonrası"" ""servis"" 2023 -larch -scodeno -lanaotek -filetype:pdf",find Angora own services and aftersales process pages,discovery metadata first; no warranty promises or actual SLA inferred; no PDF
+Q05,"""Angora Networks"" ""üretim"" ""Teknokent"" ""yazılım"" 2023 -larch -scodeno -lanaotek -filetype:pdf",seek independent attribution for 2023 design and software claims,discovery metadata first; no PDF or account login

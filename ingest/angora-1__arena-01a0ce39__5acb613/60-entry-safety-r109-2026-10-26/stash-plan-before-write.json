@@ -1,0 +1,13 @@
+{
+  "purpose": "Preserve the 868 preexisting untracked files before fast-forwarding the current branch; do not pop or delete the stash.",
+  "initial_scope": "incoming-scope-before-read.csv",
+  "read_inventory": "incoming-read-inventory.csv",
+  "variants_copy_inventory": "protected-variants-before-stash.csv",
+  "variant_copy_count": 32,
+  "variant_copy_bytes": 17473261,
+  "exact_literal_pathspec_count": 868,
+  "pathspec_source": "/tmp/angora-r109-original-untracked-pathspecs.nul",
+  "stash_includes_new_safety_directory": false,
+  "preexisting_stashes": 0,
+  "guardrails": "Inspect the stash tree and all protected byte copies before any fast-forward. Do not reset, clean, switch branches, delete, merge source records, or pop the stash."
+}

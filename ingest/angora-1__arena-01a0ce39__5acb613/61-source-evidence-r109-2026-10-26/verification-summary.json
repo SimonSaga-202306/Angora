@@ -1,0 +1,16 @@
+{
+  "status": "pass",
+  "exit_code": 0,
+  "verifier_path": "tools/verify_r109.py",
+  "verifier_sha256": "3d3e0fd7abadb6a820ef3bf55c588518b721661d9e6f5b9db62b1cfe44cf9ef7",
+  "environment_clock_start_observation_utc": "2026-11-19T10:17:17.242136+00:00",
+  "environment_clock_end_observation_utc": "2026-11-19T10:17:17.451221+00:00",
+  "clock_caveat": "environment clock conflicts with session date 2026-10-26; not evidence of historical acquisition date",
+  "stdout": "PASS branch and separately recorded session/environment dates\nPASS 868 entry paths, 32 protected variants, 31 prior copies; local stash tree reverified\nPASS 2 append-only files and all 9 previous chain prefixes\nPASS 49/49 scoped byte reads (828,240 bytes) and 10-path overlap with r108\nPASS 9 separate saved artifacts, 44 exact full-line anchors and bilingual text comparison\nPASS 8 recorded target fetch failures, 8 discovery queries, and GitHub metadata results\nPASS 98 local report links\nPASS 12 in-memory corruption/duplicate negative tests\nr109 verification PASS (byte and linkage checks only)\n",
+  "stderr": "",
+  "limitations": [
+    "byte and linkage checks only",
+    "local stash is not a remote backup",
+    "not proof of source accuracy or access order"
+  ]
+}

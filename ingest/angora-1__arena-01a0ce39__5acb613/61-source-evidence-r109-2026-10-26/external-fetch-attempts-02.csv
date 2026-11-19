@@ -1,0 +1,4 @@
+source_id,attempted_url,chunk_index,status,tool_message,disposition
+V01A,https://youtu.be/C43VQBJtdrk,0,error,Failed to fetch page,no content returned; not used
+V02A,https://youtu.be/yveHNxOXD3g,0,error,Failed to fetch page,no content returned; not used
+E01A,https://angoranetworks.com/event/angora-kanal-ortagi-satis-egitimi/,0,error,Failed to fetch page,no content returned; search snippets not used as page evidence

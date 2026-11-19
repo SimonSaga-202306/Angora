@@ -1,0 +1,2 @@
+query_ids,command_attempt,status,message,remedy
+GH01 GH02 GH03,gh search code --limit 20,error,"local gh search implementation has no code subcommand; flag interpreted at search parent",do not count as search; query GitHub code-search REST API only if supported and preserve each result separately

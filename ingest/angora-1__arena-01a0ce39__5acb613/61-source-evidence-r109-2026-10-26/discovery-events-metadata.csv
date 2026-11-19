@@ -1,0 +1,13 @@
+query_id,position,url,page_age_as_reported,disposition
+Q06,1,https://www.angoranetworks.com/event/angora-kanal-ortagi-satis-egitimi/,Wednesday January 04 2023,consider separately prelisted event page; no signup or attendance inference
+Q06,2,https://www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/,Thursday July 06 2023,consider separately prelisted event page; registration-close date may precede event and search date not trusted publication metadata
+Q07,1,https://www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/,Thursday July 06 2023,same Q06 URL; no duplicate source
+Q07,2,https://www.angoranetworks.com/event/angora-kanal-ortagi-satis-egitimi/,Wednesday January 04 2023,same Q06 URL; no duplicate source
+Q07,3,https://www.angoranetworks.com/events/category/egitim/,Wednesday January 11 2023,consider separately prelisted event index; latest list not full historical inventory
+Q07,4,https://www.angoranetworks.com/events/,,not fetched; event index pagination and scope not independently established
+Q07,5,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,Saturday June 03 2023,not fetched; same old interview in a whole magazine
+Q08,1,https://www.horseworldonline.net/horse/profile/3787802,,unrelated name; not opened
+Q08,2,https://www.vesselfinder.com/vessels/details/271047887,,unrelated vessel; not opened
+Q08,3,https://bluebunnies.org/angora,,unrelated; not opened
+Q08,4,https://www.walmart.com/seller/101502283,,unrelated storefront; not opened
+Q08,5,https://crossword-solver.io/clue/angora/,,unrelated; not opened
