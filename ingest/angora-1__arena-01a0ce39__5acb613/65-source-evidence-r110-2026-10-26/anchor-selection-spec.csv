@@ -1,0 +1,46 @@
+anchor_id,source_id,unique_line_selector,lines_before,lines_after,interpretive_boundary
+AUTH-EN-V,AR01,version greater than 4.0,0,0,English strictly greater than 4.0; same sentence then claims all software versions
+AUTH-EN-TEST,AR01,This is a tested configuration for basic usage,0,0,vendor says tested; we have not independently tested
+AUTH-EN-FALLBACK,AR01,"only then, the local users can be used",0,0,documented example: server unreachable not rejection; no production test
+AUTH-EN-CMD,AR01,currently not supporting tacacs command authorization,0,0,historical vendor text about command authorization not login authentication
+AUTH-EN-ISE,AR01,"ISE software version used to prepare this document, is 2.6",0,0,"example ISE version 2.6, not a current version or compatibility promise"
+AUTH-TR-V,AR03,4.0 versiyonu ve üzerini kullanantüm,0,0,Turkish language includes 4.0; incompatible boundary with English strict reading
+AUTH-TR-FALLBACK,AR03,Eğer tacacs sunucu erişilemez,0,0,Turkish source same unavailable-versus-rejection distinction
+AUTH-TR-CMD,AR03,"mevcut yazılımda, tacacs komut doğrulamasını desteklemediğinden",0,0,vendor historical statement; not proof of current absence
+STACK-MAX,AR05,Angora edge switches can be stacked to allow 8 switches,0,0,up to eight or 400 as vendor documentation not SKU-level test
+STACK-TOPO,AR05,topology can be a ring or chain.,1,3,vendor topology description not proof of specific deployment
+STACK-SYNC,AR05,software versions are not supported in the stack.,1,6,same-version requirement and verification failure; ambiguous its own pronoun
+STACK-HW,AR05,compatibility check consists both software and hardware.,1,1,compatibility depends on hardware and software; no complete supported model list
+STACK-LOG,AR05,master device synchronizes the software of the slave devices,1,2,syslog emitted if synchronization occurs; not proof it occurred
+STACK-CONSOLE,AR05,only the console port on the master device,0,0,documented behavior for archived setup
+STACK-AGE,AR05,"times is less than 10 minutes,",3,2,less versus more than ten minutes; exact boundary unstated in this passage
+STACK-TAKEOVER,AR05,device (switchover). This task change takes a maximum of 30 seconds.,4,0,historical vendor claim; not measured failover or traffic-loss guarantee
+STACK-DYNAMIC,AR05,devices. Dynamically created tables such as STP tables,1,5,cold backup does not synchronize listed dynamic tables; vendor also asserts no packet loss except instant
+STACK-REBOOT,AR05,"To change the working state, you need to restart the device.",0,0,document description; do not execute in live network
+STACK-CABLE,AR05,Cables used for stack operation are standard Multi-Mode fiber cables.,0,0,historical support instructions not general compatibility of all ports
+UP-EN-METHOD,AR08,upgrade procedure of Angora Networks edge switches via TFTP,0,0,"vendor describes two transfer mechanisms, no independent testing"
+UP-EN-CONSOLE,AR08,console connection is required for timely access and user intervention.,0,0,vendor recommends console access; not generic safety guarantee
+UP-EN-USB,AR08,either FAT32 or ExFAT formatted.,0,0,vendor doc file system guidance only
+UP-EN-IMAGE,AR08,This output shows two software image as,0,0,two images described; does not demonstrate guaranteed rollback or preserve configs
+UP-EN-SAMPLE,AR08,Software image file to be uploaded: image_5.5.3.03.bin,0,0,example image filename not a current release or actual acquired firmware
+UP-EN-WAIT,AR08,"If the USB disk is not ready within 15 seconds,",0,0,"one English troubleshooting assertion, not proof sole failure cause"
+UP-EN-INACTIVE,AR08,Installed software will be listed as “Inactive-image”,0,0,"vendor says next-reboot activation, not measured update outcome"
+UP-EN-SAVE,AR08,write memory,0,0,vendor says save running config before reboot; not an instruction to operate
+UP-TR-PORTAL,AR09,En güncel AngoraOS yazılımlarına [Angora Servis Portalinden],0,0,"archived link claims current images there, not verified portal availability"
+UP-TR-WAIT,AR09,USB diskin tanınması 8-10 saniye,0,0,"Turkish text mentions 8-10 seconds and suggests reformat, no 15-second threshold"
+UP-TR-INACTIVE,AR09,Yüklenen sürüm dosyası “Inactive-image”,0,0,same publisher not independent support; actual activation untested
+ZTP-INITIAL,AR10,Angora kenar anahtar ürünlerinde ilk yazılım sürümünden itibaren,0,0,"vendor historical claim since first version, no independent release evidence"
+ZTP-METHOD,AR10,Bu özellik DHCP protokolü ile IP adresi edinme,0,0,vendor describes DHCP plus TFTP configuration
+ZTP-RUNNING,AR10,Cihaz bu dosyayı aldığında hemen çalışan yapılandırmasına ekler,0,0,"document claims immediate running-config application, not tested"
+ZTP-66,AR10,66: TFTP Sunucu Adresi,0,0,DHCP option in vendor example; no verified environment
+ZTP-67,AR10,67: Yapılandırma Dosyası,0,0,configuration filename option in vendor example; no deployment proof
+CLI-LEVEL1,AR11,**Seviye 1:**,0,0,"historical vendor description of monitoring privilege, not every product"
+CLI-LEVEL15,AR11,**Seviye 15:**,0,0,"historical vendor description of high privilege, not independent test"
+CLI-SESSION,AR11,Geçilen seviye sadece mevcut oturum için geçerlidir.,0,0,vendor describes privilege elevation as session-specific
+CLI-AREAS,AR11,1. Kullanıcı komut alanı,0,3,vendor lists four CLI areas; does not verify every firmware
+CLI-TEMPLATE,AR11,[Cihaz Numarası/0/Arayüz Numarası],0,0,template explicitly fixes middle component to 0
+CLI-EXAMPLE1,AR11,interface GigabitEthernet 1/1/1,0,0,example has middle component 1; doc does not reconcile template
+CLI-EXAMPLE2,AR11,interface FastEthernet 1/2/1,0,0,example has middle component 2; do not decide correct syntax
+CLI-RANGE,AR11,"yapılan tüm değişiklikler, tüm arayüzlere uygulanır.",2,0,vendor says changes on a range apply to all selected interfaces; no operation
+CLI-HELP,AR11,Komutların girişi sırasında yardım almak için soru işareti,0,0,vendor describes context help; no live CLI tested
+CLI-HISTORY,AR11,Konsol bağlantıları için varsayılan derinlik 10 komuttur.,0,0,vendor history default and limit; do not generalize to other firmware

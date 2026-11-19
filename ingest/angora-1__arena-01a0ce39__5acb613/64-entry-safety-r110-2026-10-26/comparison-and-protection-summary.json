@@ -1,0 +1,14 @@
+{
+  "initial_files": 868,
+  "initial_bytes": 46015150,
+  "remote_comparison": {
+    "different_from_remote": 32,
+    "same_as_remote": 836
+  },
+  "variant_count": 32,
+  "exact_prior_r109_protected_reused": 32,
+  "novel_variants_separately_copied": 0,
+  "novel_variant_bytes": 0,
+  "prior_ledger_count": 4,
+  "preservation": "prior copies are immutable blobs reachable from fetched r109 commit; novel variants copied before stash; no source contents interpreted"
+}

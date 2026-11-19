@@ -1,0 +1,6 @@
+path,bytes_read,sha256,rows
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/local-read-inventory.csv,9911,00ae7adf7c508378ffa5588ff9641a51d4796d61b9c9ca58d7764863ed3a7a24,40
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/supplemental-local-read-inventory.csv,1416,59ba30f225b96597c2c33b0f4bdd064dfd7f449819bcff3aee5c70370c18b662,5
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/training-local-read-inventory.csv,837,4415a70a8bc551142f56b1ae737662d88675679997fec00d4e07f5ed898ad624,2
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/comparison-local-read-inventory.csv,300,8b6546f794bfb493b239422918c4223665787cea8414be1b5d6979c9ebf2c43d,1
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/comparison-social-read-inventory.csv,349,bad09a770273f83245e238a4e3a40b5e0a838d59579f93fb1720011cadca40ba,1

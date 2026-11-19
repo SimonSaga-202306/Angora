@@ -1,0 +1,5 @@
+repository_relative_path,remote_blob_sha1,bytes_before_read
+ingest/angora-1__arena-01a0ce39__5acb613/60-entry-safety-r109-2026-10-26/protected-variants-before-stash.csv,76510c05e3e0a26986f9dae7437b345aa8e17245,15484
+ingest/angora-1__arena-01a0ce39__5acb613/60-entry-safety-r109-2026-10-26/historical-append-final-read-inventory.csv,58ab72cd2531978ab30585ad43bbbb8caad58a0c,2563
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/append-log.csv,ec2d2e0d7d8993c9d9fd0434530145f3a7f947f9,810
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/output-manifest-before-stage.csv,f3ac243b5ed18792dd0243ad956f92ab296cadcd,24058

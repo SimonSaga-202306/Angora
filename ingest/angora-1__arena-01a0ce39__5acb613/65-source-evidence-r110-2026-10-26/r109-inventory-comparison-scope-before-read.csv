@@ -1,0 +1,6 @@
+path,bytes_before_read,basis
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/local-read-inventory.csv,9911,r109 README named all five inventories; compare paths only
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/supplemental-local-read-inventory.csv,1416,r109 README named all five inventories; compare paths only
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/training-local-read-inventory.csv,837,r109 README named all five inventories; compare paths only
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/comparison-local-read-inventory.csv,300,r109 README named all five inventories; compare paths only
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/comparison-social-read-inventory.csv,349,r109 README named all five inventories; compare paths only

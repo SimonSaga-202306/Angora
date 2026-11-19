@@ -1,0 +1,10 @@
+{
+  "operation": "git stash push --include-untracked with exact literal original-file pathspec",
+  "original_file_count": 868,
+  "pathspec_file_ephemeral": "/tmp/angora-r110-original-untracked-pathspecs.nul",
+  "pathspec_sha256": "32fc2b76de4ba0c5c7afe18f1be7b56c8ff70e1ab40fe992dd98af87753ba951",
+  "initial_file_hashes_reverified_before_stash": 868,
+  "excluded": "new r110 safety directory and any path not in original scope",
+  "safety_entries_not_to_stash": 8,
+  "policy": "do not pop or delete stash; verify third parent before fast-forward"
+}

@@ -1,0 +1,8 @@
+query_id,position,url,page_age_as_reported,disposition
+Q12,1,https://www.keyword-suggest-tool.com/search/tacacs+server+cisco/,,not fetched; third-party listing not a full mirror or independent proof
+Q13,1,https://support.angoranetworks.com/?ht_kb=stacking,Sunday April 05 2020,same target KB03; search result excerpt only not complete original page
+Q13,2,https://support.omadanetworks.com/us/document/13164/,,not fetched; different company and not evidence for Angora
+Q13,3,https://www.angoranetworks.com/verge-network-switch-family/?lang=en,Tuesday December 27 2022,not fetched; covered by r105 and not a support article mirror
+Q13,4,https://cran.r-project.org/web/packages/stacking/index.html,Thursday January 16 2025,not fetched; unrelated statistics package
+Q13,5,https://archive.org/details/stackingdecksecr0000berg,Friday July 15 2022,not fetched; unrelated book
+Q14,0,,,zero search results; not proof no archive exists

@@ -1,0 +1,20 @@
+id,topic,anchor_ids,can_record,cannot_infer
+B01,历史支持文档可见性,AUTH-EN-V;UP-EN-METHOD;STACK-MAX;ZTP-METHOD,分别在历史归档可见技术说明,不是当前站点可用、所有型号可用、原HTML或版本更新频率
+B02,TACACS版本边界,AUTH-EN-V;AUTH-TR-V,英文大于4.0；土文4.0及以上；各自后句又泛称所有软件型号,严格按文字解释恰好4.0有冲突；不能自行认定包含/排除或推广当前所有设备
+B03,认证和命令授权,AUTH-EN-FALLBACK;AUTH-TR-FALLBACK;AUTH-EN-CMD;AUTH-TR-CMD,示例区分服务器不可达与拒绝；当时文字称Verge不支持TACACS命令授权,不是认证、授权、计费全部不可用；也不证明当前版本仍不支持
+B04,ISE版本,AUTH-EN-ISE,历史示例写Cisco ISE 2.6,不是当前版本兼容表、厂商认证或实测结果
+B05,镜像与传输,UP-EN-METHOD;UP-EN-IMAGE;UP-EN-INACTIVE,指南描述TFTP或USB以及Active/Inactive与下一次重启激活,不证明所有SKU双镜像、任意版本兼容、回滚可靠或无损升级
+B06,升级前提,UP-EN-CONSOLE;UP-EN-USB;UP-EN-SAVE,指南写网络可达、建议本地控制台、USB格式、保存配置,不要操作设备；手册不是变更审批、生产环境SOP或测试记录
+B07,示例固件,UP-EN-SAMPLE,文件名示例image_5.5.3.03.bin,不是最新发布版本、时间、设备固件哈希或已下载文件
+B08,USB识别文字差异,UP-EN-WAIT;UP-TR-WAIT,英文8–10秒并提15秒及格式问题；土文8–10秒后建议重格式化,不能证明唯一原因、实际机型或原网站全时期翻译；无设备测试
+B09,历史服务入口,UP-TR-PORTAL,土文快照链接Angora服务门户获取软件,未登录或验证现行可用、文件、权限、售后承诺或源码权利
+B10,堆叠容量,STACK-MAX;STACK-TOPO;STACK-CABLE,历史文档声称不同型号至多8台/400口、环/链和10G光口,不代表所有型号可混堆或现场实现；实际兼容矩阵未知
+B11,堆叠同步,STACK-SYNC;STACK-HW;STACK-LOG,页面称成员相同软件；有软硬件兼容检查；失败关闭新设备端口并有日志条目,未证每个设备完全相同镜像；未实际同步；句中its own指代未消歧
+B12,切换与动态表,STACK-TAKEOVER;STACK-DYNAMIC,厂商写最长30秒、冷备不复制所列动态表、重算并声称除瞬间外不丢包,不是经测零中断/零丢包；30秒角色切换不是可靠业务恢复SLA
+B13,选主边界,STACK-AGE,选主段落分别写运行时间差小于及大于10分钟,该段没有清楚说明恰好10分钟，另有同10分钟时段表述；不自行补边界
+B14,ZTP方式,ZTP-INITIAL;ZTP-METHOD;ZTP-RUNNING;ZTP-66;ZTP-67,土文档写DHCP选项66/67及TFTP配置并加入运行配置,不是可用模型清单、实测、部署日志、配置来源认证或安全架构证明
+B15,独立性,AUTH-EN-V;AUTH-TR-V;UP-EN-METHOD;UP-TR-INACTIVE,英土分别保存，都是同一厂商知识库,不是两个独立实验、第三方认证或客户履约
+B16,快照污染,STACK-MAX,2022堆叠正文取得；2025-08同URL归档返回无关网页,不能由CDX状态200就当正确内容；不推断污染原因或被入侵
+B17,平台映射,UP-EN-SAMPLE;AUTH-EN-V,文档使用AngoraOS以及例子版本4.0/5.5.3.03,不能把版本映射至r101的7.3.13/AC5 7.5.0或任何客户订单设备
+B18,CLI接口模板不一致,CLI-TEMPLATE;CLI-EXAMPLE1;CLI-EXAMPLE2,同一可见文档编号模板中间固定0，而示例写1/1/1与1/2/1,不能自行判哪个正确、推广所有型号，亦不能据文档差异断定设备缺陷
+B19,CLI权限与批量范围,CLI-LEVEL1;CLI-LEVEL15;CLI-AREAS;CLI-RANGE,历史指南描述第1和15级、四类命令区域及范围配置影响多个接口,非当前版本权限矩阵或实机验证；不把示例命令用于生产

@@ -1,0 +1,9 @@
+id,query,purpose,guardrail
+Q01,"site:support.angoranetworks.com firmware switch upgrade -filetype:pdf -larch -scodeno -lanaotek",discover publicly indexed firmware and support documentation,metadata discovery only; no login; no PDF
+Q02,"site:support.angoranetworks.com ""yazılım"" ""güncelleme"" -filetype:pdf -larch -scodeno -lanaotek",discover Turkish software maintenance guidance,metadata discovery only; no login; no PDF
+Q03,"site:angoranetworks.com ""firmware"" ""update"" switch -filetype:pdf -larch -scodeno -lanaotek",discover manufacturer HTML on software updates,metadata discovery only; do not claim current support status
+Q04,"""Angora Networks"" ""security"" ""vulnerability"" software -filetype:pdf -larch -scodeno -lanaotek",discover publicly attributed vulnerability or security-update notices,metadata discovery only; avoid unverified vulnerability claims
+Q05,"""Angora Networks"" ""network management"" ANMS software -filetype:pdf -larch -scodeno -lanaotek",find publicly accessible documentation on management software,metadata discovery only; no partner walls or PDF
+Q06,"""Angora Networks"" ""CLI"" documentation switch -filetype:pdf -larch -scodeno -lanaotek",discover CLI documentation and format,metadata discovery only; no software execution no downloads
+Q07,"""Angora Networks"" ""software"" ""support"" lifecycle -filetype:pdf -larch -scodeno -lanaotek",discover published lifecycle and support policies,metadata discovery only; no login or outreach
+Q08,"""Angora Networks"" ""network yönetim"" ""yazılım"" -filetype:pdf -larch -scodeno -lanaotek",discover Turkish management-platform information,metadata discovery only; no other competitor research

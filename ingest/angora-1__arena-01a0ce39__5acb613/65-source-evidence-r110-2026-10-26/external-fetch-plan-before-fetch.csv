@@ -1,0 +1,6 @@
+source_id,url,purpose,guardrail
+KB01,https://support.angoranetworks.com/?ht_kb=tacacs-authentication-with-cisco-ise,English TACACS guidance and version boundary,save each complete tool block separately; not an independent test; no device commands
+KB02,https://support.angoranetworks.com/?ht_kb=tacacs-kimlik-dogrulama-cisco-ise-kullanarak,Turkish counterpart and version boundary,save each complete tool block separately; same publisher not independent; no device commands
+KB03,https://support.angoranetworks.com/?ht_kb=stacking,stack software compatibility and failure behavior,save all tool blocks before using; no firmware download; no operation
+KB04,https://support.angoranetworks.com/?ht_kb=komut-satiri-kullanimi,CLI documentation structure and modes,save all tool blocks before using; no commands run on devices
+KB05,https://support.angoranetworks.com/?ht_kb=getting-started,identify product scope and management options,save all tool blocks before use; title alone does not identify model

@@ -1,0 +1,33 @@
+query_id,position,url,page_age_as_reported,disposition
+Q01,1,https://support.angoranetworks.com/?ht_kb=stacking,Sunday April 05 2020,consider prelisted HTML fetch; software compatibility statement only if full text retrieved
+Q01,2,https://support.angoranetworks.com/?ht_kb=getting-started,Saturday July 10 2021,consider HTML fetch; product identity not assumed
+Q01,3,https://support.angoranetworks.com/?ht_kb=tacacs-authentication-with-cisco-ise,Thursday October 24 2019,consider HTML fetch; version statement is vendor documentation not actual deployment
+Q01,4,https://support.angoranetworks.com/?ht_kb=komut-satiri-kullanimi,Sunday October 18 2020,consider prelisted HTML fetch; do not execute commands
+Q01,5,https://support.angoranetworks.com/?ht_kb=voice-video-ip-telephony,Thursday September 26 2019,not fetched; vague PoE marketing and outside lifecycle focus
+Q02,1,https://support.angoranetworks.com/?ht_kb=komut-satiri-kullanimi,Sunday October 18 2020,same Q01 URL; related-article labels are leads only
+Q03,1,https://support.angoranetworks.com/?ht_kb=management-link-layer-discovery-protocol-lldp,Saturday September 28 2019,not fetched; lengthy CLI reference and examples not evidence of deployed model
+Q04,1,https://www.researchgate.net/publication/326643242_Angora_Efficient_Fuzzing_by_Principled_Search,Tuesday May 01 2018,unrelated Angora software fuzzer; not opened and not Angora Networks
+Q04,2,https://andreas-zeller.info/2019/10/10/when-results-are-all-that-matters-case.html,Thursday October 10 2019,unrelated Angora software fuzzer; not opened
+Q04,3,https://www.researchgate.net/publication/323570803_Angora_Efficient_Fuzzing_by_Principled_Search,Sunday March 04 2018,unrelated Angora software fuzzer; not opened
+Q04,4,https://docs.agora.io/en/realtime-media/marketplace/reference/security,,Agora is a different name and provider; not opened or associated
+Q04,5,https://docs.agora.io/en/realtime-media/rtmp-gateway/reference/security,,Agora is a different name and provider; not opened or associated
+Q05,1,https://www.angoranetworks.com/angora-nms_en/?lang=en,Tuesday December 27 2022,not fetched; r106 isolated old NMS page for stopped-party icons
+Q05,2,https://www.linkedin.com/company/angora-networks,Tuesday March 08 2022,not fetched; account and reference-wall content may be outside scope
+Q05,3,https://www.zoominfo.com/c/angora-networks/466430035,,not fetched; directory metrics not verified
+Q05,4,https://www.linkedin.com/posts/levent-kili%C3%A7-317858162_angoranetworks-networkadministration-networkarchitecture-activity-6920953397160337408-hLnS,Thursday April 14 2022,not fetched; social account statement and relative date unverified
+Q05,5,https://www.angoranetworks.com/brosurler/,Tuesday October 04 2022,not fetched; brochure page links to PDF and PDF download is PASS
+Q06,1,https://support.angoranetworks.com/?ht_kb=energy-power-over-ethernet-poe,Saturday September 28 2019,not fetched; lengthy CLI source requires full retrieval and no device operations
+Q06,2,https://support.angoranetworks.com/?ht_kb=layer-2-technologies-ethernet-configuration,,not fetched; lengthy configuration reference
+Q06,3,https://support.angoranetworks.com/?ht_kb=ip-routing-ip-addressing,,not fetched; lengthy configuration reference
+Q06,4,https://support.angoranetworks.com/?ht_kb=layer-2-technologies-virtual-local-area-network-vlan,Saturday September 28 2019,not fetched; lengthy configuration reference
+Q06,5,https://support.angoranetworks.com/?ht_kb=ip-routing-open-shortest-path-first-ospf,,not fetched; lengthy configuration reference
+Q07,1,https://www.angoranetworks.com/our-services-2/?lang=en,Monday May 03 2021,prior r97 source and r106/r109 analysis; no new fetch
+Q07,2,https://rocketreach.co/angora-networks-profile_b402226cfc1524af,,not fetched; identity and directory metrics not verified
+Q07,3,https://www.angoranetworks.com/angora-data-diode/?lang=en,Thursday January 05 2023,not fetched; product covered in r104 and no PDF retrieval
+Q07,4,https://www.angoranetworks.com/angora-nms_en/?lang=en,Tuesday December 27 2022,not fetched; r106 isolated old NMS page for stopped-party icons
+Q07,5,https://www.angoranetworks.com/angora-networks-completed-the-cisco-ise-integration/?lang=en,Wednesday December 21 2022,prior related vendor claim; consider only separately scoped existing text not extra source from snippet
+Q08,1,https://tr.linkedin.com/company/angora-networks,,not fetched; social account and reference wall outside scope
+Q08,2,https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,Thursday June 08 2023,prior r106/r107 source; search snippet not additional independent source
+Q08,3,https://www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/,Monday June 15 2026,not fetched; r104 covered product
+Q08,4,https://angoratechnology.com/iot-solutions.html,,different similarly named company; affiliation with Angora Networks unconfirmed; not opened
+Q08,5,https://yandex.com.tr/maps/org/angora_networks/160935450820/,,not fetched; third-party map identity and current office not verified

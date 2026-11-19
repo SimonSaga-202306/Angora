@@ -1,0 +1,4 @@
+id,query,purpose,guardrail
+Q12,"""support.angoranetworks.com"" ""tacacs"" archive -filetype:pdf -larch -scodeno -lanaotek",find archive or independent mirror for support articles,search metadata only; no PDF
+Q13,"""support.angoranetworks.com"" ""stacking"" archive -filetype:pdf -larch -scodeno -lanaotek",find archive or mirror for stacking article,search metadata only; no PDF
+Q14,"site:web.archive.org ""support.angoranetworks.com"" ""tacacs"" -filetype:pdf -larch -scodeno -lanaotek",find indexed Internet Archive capture,search metadata only; no PDF

@@ -1,0 +1,4 @@
+id,query,purpose,guardrail
+Q09,"site:support.angoranetworks.com ""Software Upgrade"" ""TFTP"" ""Verge"" -filetype:pdf -larch -scodeno -lanaotek",discover exact support article URL,metadata only; do not download firmware or execute commands
+Q10,"site:support.angoranetworks.com ""Yazılım Güncelleme"" ""TFTP"" ""Verge"" -filetype:pdf -larch -scodeno -lanaotek",find corresponding Turkish support article,metadata only; no PDF; no login
+Q11,"site:support.angoranetworks.com ""release notes"" ""software"" ""Verge"" -filetype:pdf -larch -scodeno -lanaotek",look for public release notes,metadata only; no download or claims of exhaustive absence

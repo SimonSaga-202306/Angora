@@ -1,0 +1,6 @@
+repository_relative_path,planned_operation,reason
+ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/output-scope-extension-before-hash.csv,retain,record output scope extension before hashes
+ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/discovery-attribution-correction.md,create,explain unverified search query attribution without treating snippets as proof
+ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/metadata-attribution-originals/discovery-metadata.csv,copy-exact,retain original Q01-Q08 metadata before adding row warning
+ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/metadata-attribution-originals/upgrade-discovery-metadata.csv,copy-exact,retain original Q09-Q11 metadata before adding row warning
+ingest/angora-1__arena-01a0ce39__5acb613/65-source-evidence-r110-2026-10-26/metadata-attribution-originals/archive-discovery-metadata.csv,copy-exact,retain original Q12-Q14 metadata before adding row warning

@@ -1,0 +1,11 @@
+{
+  "verified_prior_protected_variants": 32,
+  "verified_prior_protected_bytes": 17473261,
+  "stash_untracked_blob_count": 868,
+  "stash_tree_reverified_in_current_clone": true,
+  "historical_append_chains_reverified": 9,
+  "new_append_prior_prefix_length": 48365,
+  "new_append_prefix_sha256": "b15acbf6e543a6774c775ae2b48c7ce3ac9b45720b1ad0506ab39aa11085a40f",
+  "local_stash": "3e2d5571c79f113bdf8712561d42d32c9010395b",
+  "limitation": "local stash is not a remote backup; hashes prove bytes only, not provenance, sequence or business facts"
+}

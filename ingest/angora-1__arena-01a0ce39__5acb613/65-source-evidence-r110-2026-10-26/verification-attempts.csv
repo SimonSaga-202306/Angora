@@ -1,0 +1,9 @@
+attempt,result,detail,resolution
+1,FAIL,"verify_r110.py detected that issues-and-corrections.csv anchor_ids contained boundary IDs such as B01 rather than evidence anchor IDs","replaced boundary IDs with existing explicit source anchor IDs; C05 has no content anchor because quarantined results are classified by source records; corrected C01 six to seven after CLI addition"
+2,PASS,"all 45 anchors, 48 scoped files, 29 source artifacts, quarantine, links, 32 protected variants and 868 stash blobs checked","summary saved; limitations remain"
+3,INFO,"concurrent edits to each of two same files raced; one D05 disclosure link and one updated issue count were overwritten","detected immediately, reapplied serially, and checked both"
+4,PASS,"expanded verifier checked D05 disclosures and eleven correction rows as well as nine prior append chains and appended links","summary saved; manual transcription and date limitations remain"
+5,FAIL,"README linked output-manifest-before-stage.csv before it existed; verify_r110.py stopped on the broken link","initialized the file, wrote the verification summary, generated the complete scoped manifest, and checked it"
+6,PASS,"core verifier now checks all 46 attribution warnings against three original metadata copies and 12 issue records","links checked against placeholder only; output manifest not yet checked at that stage"
+7,PASS,"complete output manifest matched 103 listed paths and 102 non-self file hashes; links and source checks passed","manifest excludes its own hash to avoid a circular dependency; regenerate and recheck whenever a listed file changes"
+8,PASS,"expanded core checks matched each archive replay to its catalog row, planned URL, CDX capture and saved wrapper, and matched CDX query and original URLs","this checks saved-record consistency, not original HTML or external source truth"

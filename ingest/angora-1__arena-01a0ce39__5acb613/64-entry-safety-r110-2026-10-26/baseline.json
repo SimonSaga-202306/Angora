@@ -1,0 +1,12 @@
+{
+  "branch": "arena/5da004bd-angora",
+  "local_head_before_fetch": "691123abc7462489146cece19b81b4f917b58646",
+  "fetched_head": "9df3405118c2e38ccc146d8447ab5bfddc787cc5",
+  "session_date_supplied_utc": "2026-10-26",
+  "environment_initial_observed_utc": "2026-11-19T10:57:43.145154+00:00",
+  "environment_scope_observed_utc": "2026-11-19T10:58:22.885297+00:00",
+  "initial_untracked_files": 868,
+  "scope_total_bytes_before_read": 46015150,
+  "timestamp_caveat": "environment date conflicts with session date; environment time is an observation only",
+  "operation": "metadata scope created before original-file byte reads; no reset or branch switch"
+}

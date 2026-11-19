@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "scope_groups": [
+    {
+      "scope": "comparison-local-scope-before-read.csv",
+      "count": 14,
+      "bytes": 100177
+    },
+    {
+      "scope": "source-artifact-scope-before-read.csv",
+      "count": 28,
+      "bytes": 130178
+    },
+    {
+      "scope": "r109-inventory-comparison-scope-before-read.csv",
+      "count": 5,
+      "bytes": 12813
+    },
+    {
+      "scope": "supplemental-cli-scope-before-read.csv",
+      "count": 1,
+      "bytes": 15349
+    }
+  ],
+  "distinct_paths_fully_read": 48,
+  "scoped_bytes": 258517,
+  "catalog_artifacts": 29,
+  "archive_replays": 11,
+  "archive_tool_blocks": 20,
+  "direct_transcriptions": 7,
+  "reconstructed_replays": 2,
+  "quarantined_replays": 2,
+  "cdx_filtered_digest_records": 35,
+  "evidence_anchors": 45,
+  "discovery_metadata_rows_with_unverified_query_attribution": 46,
+  "discovery_original_metadata_copies_verified": 3,
+  "issue_records": 12,
+  "cdx_query_cutoff_utc": "2026-10-26",
+  "r109_path_overlap": 4,
+  "protected_variants": 32,
+  "protected_variant_bytes": 17473261,
+  "stash_recorded_blobs": 868,
+  "stash_tree_checked_in_this_clone": true,
+  "legacy_prefix_bytes": 48365,
+  "historical_append_chains_verified": 9,
+  "local_links_checked": 124,
+  "output_manifest_checked_this_run": false,
+  "output_manifest_paths_and_bytes": null,
+  "negative_tests": 4,
+  "environment_clock_observation_utc": "2026-11-19T11:42:27.513011+00:00",
+  "session_date_supplied_utc": "2026-10-26",
+  "verifier_sha256": "eecd122c9b3598840732edd1c5048b8967cc03b04635710afef21b949eee7dc8",
+  "limitations": "Manual tool-visible transcriptions and reconstructions are not automatically byte-compared to tool responses or original HTML; parallel search query attribution remains unverified; no device test, temporal provenance, independent certification or service delivery is established."
+}

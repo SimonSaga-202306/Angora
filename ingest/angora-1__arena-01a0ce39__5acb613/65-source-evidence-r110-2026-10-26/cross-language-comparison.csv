@@ -1,0 +1,5 @@
+id,topic,source_a,a_literal_or_observation,source_b,b_literal_or_observation,interpretation_and_limit,anchor_ids
+X01,TACACS最低版本,AR01,version greater than 4.0,AR03,4.0 versiyonu ve üzerini,英文严格大于；土文4.0及以上。恰好4.0未解决；同一厂商非独立证人。,AUTH-EN-V;AUTH-TR-V
+X02,TACACS权限范围,AR01,not supporting tacacs command authorization,AR03,tacacs komut doğrulamasını desteklemediğinden,两者均指历史命令授权限制，不等于登录认证不可用或现行仍不支持。,AUTH-EN-CMD;AUTH-TR-CMD
+X03,升级USB等待,AR08,8-10 seconds / within 15 seconds,AR09,8-10 saniye / yeniden biçimlendirmeyi deneyin,保存英文有15秒表述，土文无相同阈值；不可归因翻译错误，也不证明格式问题是唯一原因。,UP-EN-WAIT;UP-TR-WAIT
+X04,软件门户链接,AR08,该保存稿未见门户链接,AR09,Angora Servis Portalinden,土文保存稿含门户链接；缺席不能证明页面没有其他未见链接或门户现在可用。,UP-TR-PORTAL

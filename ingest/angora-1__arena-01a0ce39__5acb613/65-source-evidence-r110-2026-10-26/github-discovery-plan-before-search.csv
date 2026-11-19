@@ -1,0 +1,5 @@
+id,endpoint,query,purpose,guardrail
+GH01,GET /search/code,"""tacacs-authentication-with-cisco-ise""",seek source-preserving public mirror,metadata only; compare identity before opening anything
+GH02,GET /search/code,"""tacacs-kimlik-dogrulama-cisco-ise-kullanarak""",seek Turkish counterpart mirror,metadata only; no unrelated repos
+GH03,GET /search/code,"""support.angoranetworks.com""",seek official support link references,metadata only; same site references not independent proof
+GH04,GET /search/code,"""AngoraOS"" ""TACACS""",seek public support documents,metadata only; no exploitation or code execution

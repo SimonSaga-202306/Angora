@@ -1,0 +1,8 @@
+{
+  "branch": "arena/5da004bd-angora",
+  "head_after_ff": "9df3405118c2e38ccc146d8447ab5bfddc787cc5",
+  "verified_prior_protected_copies": 32,
+  "prior_protected_bytes": 17473261,
+  "local_stash": "3e2d5571c79f113bdf8712561d42d32c9010395b",
+  "result": "fast-forward succeeded without reset, cleaning, branch switch or stash pop"
+}

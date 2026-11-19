@@ -1,0 +1,8 @@
+{
+  "stash_commit": "3e2d5571c79f113bdf8712561d42d32c9010395b",
+  "untracked_parent": "398414d4996cc293afc8fac2b82d5a2aef445f6b",
+  "paths": 868,
+  "matching_original_git_blobs": 868,
+  "remaining_status_only_new_safety_files": 10,
+  "policy": "retain local stash unpopped; prior 32 copies are already committed in fetched r109 tree"
+}

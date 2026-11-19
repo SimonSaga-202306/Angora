@@ -1,0 +1,8 @@
+query_id,position,url,page_age_as_reported,disposition,query_attribution_status
+Q09,1,https://support.angoranetworks.com/?ht_kb=tacacs-authentication-with-cisco-ise,Thursday October 24 2019,English vendor support page; consider prelisted direct fetch,"UNVERIFIED batch assignment; query, rank, and zero marker not independently established"
+Q09,2,https://support.angoranetworks.com/?ht_kb=komut-satiri-kullanimi,Sunday October 18 2020,Turkish CLI page; related upgrade title not itself an upgrade URL,"UNVERIFIED batch assignment; query, rank, and zero marker not independently established"
+Q09,3,https://support.angoranetworks.com/?ht_kb=stacking,Sunday April 05 2020,stacking vendor support page; consider prelisted direct fetch,"UNVERIFIED batch assignment; query, rank, and zero marker not independently established"
+Q09,4,https://support.angoranetworks.com/?ht_kb=voice-video-ip-telephony,Thursday September 26 2019,not fetched; outside selected lifecycle focus,"UNVERIFIED batch assignment; query, rank, and zero marker not independently established"
+Q09,5,https://support.angoranetworks.com/?ht_kb=tacacs-kimlik-dogrulama-cisco-ise-kullanarak,Friday October 25 2019,Turkish vendor support page; consider separately prelisted direct fetch,"UNVERIFIED batch assignment; query, rank, and zero marker not independently established"
+Q10,1,https://support.angoranetworks.com/?ht_kb=komut-satiri-kullanimi,Sunday October 18 2020,duplicate Q09 result 2; no discovered exact upgrade URL,"UNVERIFIED batch assignment; query, rank, and zero marker not independently established"
+Q11,0,,,zero search results returned; absence of results is not proof no release notes exist,"UNVERIFIED batch assignment; query, rank, and zero marker not independently established"
