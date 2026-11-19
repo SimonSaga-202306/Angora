@@ -1,6 +1,8 @@
+> **r96 补充与修正**：已找到公报的两张内嵌 JP2，但转码后仍不可读，**不是完整 PDF 页的可视核验**；Hakan 主体未确认的结论不变。MAC 登记、六单成本、4th-pre 与 6th 的金额/物流记录经新复核，以 [r96 总报告](165-angora-order-mac-document-reconciliation-2026-10-26.md)和[逐字段映射](../09-orders/120-angora-orders-master-2026-10-21.mapping-r96.md)为准。会话给出的日期与沙箱时钟不一致，实际采集日待核；用户没有另设历史截止日，实时页面不能伪装成过去快照。
+
 # r95 · Angora 深挖与纠错：工商公报跨栏、既有供应链、英国关联公司的股权及财务
 
-- **业务基准日**：2026-10-26（UTC）；**执行环境时钟冲突**：本轮运行 `date -u` 显示 2026-11-19。不能把本轮实时网页当作 10-26 当天的历史快照。凡能独立确认的旧公告、旧财报和合同以文书日期标注；其余仅记为「本轮页面所见」。
+- **日期口径（r96 修正）**：会话给出的当前日期为 2026-10-26（UTC），不是用户另设的业务截止日；运行 `date -u` 显示 2026-11-19，实际采集日需独立核实。不能把实时网页当作 10-26 当天的历史快照；凡能独立确认的旧公告、旧财报和合同以文书日期标注，其余仅记为「本轮页面所见」。
 - **范围**：承接 r94 的「成立以来商业信息」，回读仓库内订单、公报 OCR 和历史研究，再用第三方贸易页面、2022 峰会原声及英国官方申报交叉核验。**本轮不联系任何人、不索取账号、不新增采购或发送邮件。**
 - **来源落盘**：11 个 URL 的完整可见文本抽取，逐 URL 分文件存于 `09-source-evidence-r95-2026-10-26/`；清单逐项列 URL、路径、字节数和哈希。**文本抽取不是 PDF 原件**；墙后和未取文本不能当作已读取。以前留存的来源不重新合并。
 - **保密**：本档混有用户提供的商业会话与订单，应当作为内部工作底稿；不向 Angora 或第三方转发。未转抄护照、自然人身份证、私人住址或银行账号。
@@ -70,7 +72,7 @@ OCR 把多栏按照横向行顺序交错输出。其相邻文句同时出现 **B
 
 ### 4.1 已有供应方线索，均带窗口
 
-**Ewind（本轮观察，业务基准 2026-10-26；运行环境时钟 2026-11-19）**：搜索索引展示的 [Volza 公司摘要](https://www.volza.com/company-profile/angora-networks-informatics-technology-trade-industry-joint-stock-company-54698404/) 列 **Ewind Technology Co Ltd**；[TurkeyTradeData 公开公司页](https://www.turkeytradedata.com/company/angora-networks-bilisim/4da8548afd70d79878456c8e21724f57) 在 **2023-08-01—2024-07-31** 的供应商预览列 **Ewind Technology**、Eglobal Technology Company Limited、Shenzhen Fengrunda Technology Company Limited。**不是 r95 首次发现**：仓库 `../03-import-data/20-angora-import-records-2026-10.md` 第四节和 `../06-competitors/50-gordion-and-ewind-trade-data.md` 已记。两家商业聚合商可能基于重叠的海关数据，**不能当两个互不相干的逐票一手证据**。
+**Ewind（本轮页面观察；会话当前日期 2026-10-26，运行环境时钟显示 2026-11-19，实际采集日待核）**：搜索索引展示的 [Volza 公司摘要](https://www.volza.com/company-profile/angora-networks-informatics-technology-trade-industry-joint-stock-company-54698404/) 列 **Ewind Technology Co Ltd**；[TurkeyTradeData 公开公司页](https://www.turkeytradedata.com/company/angora-networks-bilisim/4da8548afd70d79878456c8e21724f57) 在 **2023-08-01—2024-07-31** 的供应商预览列 **Ewind Technology**、Eglobal Technology Company Limited、Shenzhen Fengrunda Technology Company Limited。**不是 r95 首次发现**：仓库 `../03-import-data/20-angora-import-records-2026-10.md` 第四节和 `../06-competitors/50-gordion-and-ewind-trade-data.md` 已记。两家商业聚合商可能基于重叠的海关数据，**不能当两个互不相干的逐票一手证据**。
 
 以上只能支持「这两个第三方页面把名称列为供应商线索」。**具体供应批次、产品、成交价格、持续性及 Ewind 缩写与哪一个完整注册实体完全对应均未见**。另一个 Volza 索引的 Ewind 页面只显示印度一个买家，和 Angora 页面中的关联口径不同：可能存在不同覆盖范围、别名/实体合并或其他错误；不能消除冲突。**Ewind 是用户定义的竞对；不把它称为我方、也不声称其在 2026 仍给该客户供货。**
 
@@ -128,7 +130,7 @@ Angora [服务页](https://www.angoranetworks.com/26/hizmetler/)列 best-effort 
 3. r94 的「1+4+1=6、与 81 省对不上，所以渠道密度极低」不成立。**已找到几个名字是样本下界，不是全国渠道总体或市场密度**；`../06-competitors/60-hitit-ewind-proof-and-peers.md` 很早已记 Advensis 的历史 Angora 产品页面，2022 官方影片和既有资料还提 Fi/Kaleiçi 的历史安排。没有逐省/逐年完整名单，既不能确认 81 省，也不能证伪其覆盖。`angora.club` 直接抓取失败，仅搜索摘要可见，不当完整伙伴名录。
 4. Zafer Doğruel 的旧 KOZ 职务是**历史职务**。公开职历索引显示其 Angora 渠道经理为 2021–2024、2025 起在 Andasis，来源为 [RocketReach 索引](https://rocketreach.co/zafer-dogruel-email_205015321)，不能断言本日状态。**撤回 r94「现在首问 Zafer 办报备」；先通过已联系的 Levent 确认当前对口人。**
 5. `ut-in-laoreet-sapien-eu-amet` 页显示 2017-02-03，同时复用含 `20201124` 的图片路径，官网沿革又称 2018 第一款产品；这无法证明 2017 订单是服务、贸易还是设备，也无法证明首次出口日期。**撤回 r94「2017 年出口肯定是服务/贸易，不是设备」**。
-6. r94 所引 2026-10-30 媒体稿晚于会话业务日 2026-10-26；**不得作为截至业务日已发生的决赛/获奖事实或趋势**，须等独立的当日或更早来源核对。运行环境时钟冲突不能把未来日期自动改成已经发生。
+6. r94 所引媒体稿标注 2026-10-30，晚于会话给出的当前日期 2026-10-26；保留其线索，但**不得作为截至会话日已发生的决赛/获奖事实或趋势**，须以独立来源核对其时点。运行环境时钟的不同显示不能单独证明已发生。
 
 ## 七、给现有合作关系的下一步（不骚扰、不发信）
 

@@ -1,3 +1,5 @@
+> **r96 修正并取代 r29 对财务的泛化**：下文「每单都融资、公司没现金、资本极轻」「年营收 $2–5M」「EGM 规模必然迫使其靠外部融资」均不能由零散往来、目标或第三方估值证明，**撤回作为事实/现状判断**。2024–2025 若干具体对话可支持当时项目现金流压力和融资安排的当事人表述；当前余额、利润、营收、偿付能力和每单资金来源均未知。财务数字分别对应我方有限成本表或英国 Connexite，不是 Angora 的经审计账目。详见 [r96 总报告](../08-customer-pipeline/165-angora-order-mac-document-reconciliation-2026-10-26.md)及[映射](120-angora-orders-master-2026-10-21.mapping-r96.md)。
+>
 > **r95 修正（2026-10-26）**：Hakan 为 Angora 董事长/沉默资方及由此推断资本进入董事会的内容**撤回、主体未确认**，疑为 Bursa ITECH 邻栏。2025 Connexite 财报属于英国独立公司，不可替代 Angora 财报。 [详细证据与替代口径](../08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。
 
 # 122 · Angora 财务状况 / 融资模式 / 内部结构深挖（用户第 29 轮三问）

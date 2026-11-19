@@ -1,5 +1,9 @@
 # Angora-1 全量入库仓库
 
+> **r96 最新研究与纠错**：[Angora 订单、MAC、公报与产品核验](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/165-angora-order-mac-document-reconciliation-2026-10-26.md) · [旧订单字段映射](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r96.md) · [逐源清单](ingest/angora-1__arena-01a0ce39__5acb613/11-source-evidence-r96-2026-10-26/README.md) · [Angora 独立跟进](ingest/angora-1__arena-01a0ce39__5acb613/12-followup-angora-r96-2026-10-26/angora-networks.md) · [审计记录](ingest/angora-1__arena-01a0ce39__5acb613/13-audit-r96-2026-10-26.md)。**更正旧档**：MAC 登记线索归 Angora；4th/5th 差价与 6th 金额差异待核；有限账面差额非 Angora 利润。会话给出的当前日期与沙箱时钟不一致；用户没有另设截止日，动态网页不是已验证的历史快照。
+>
+> **历史全量入库范围说明**：下方 781/5,756 数字来自原有目录与抽取审计，不证明所有二进制/扫描图、付费内容或原始文书均可读、均已目视或本轮重新读完。扫描公报文字仍不可目视；PDF/Office 提取可能遗漏版式和图层。各材料的字节副本、文本抽取、仅元数据应以各自清单为准。
+
 > **r95 重要修正**：[Angora 公报、既有供应链与英国独立公司核验](ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/164-angora-register-supplychain-connexite-2026-10-26.md)。我方早已与 Angora 有交易，不是第 16 家新供应商；2024 登记 OCR 已在库但跨栏，Hakan 属 Angora 的董事长/资方结论撤回、主体待确认；英国 Connexite 的股权与账目**不能当 Angora 的**。渠道全貌、Ewind 具体型号、Gordion 现售和长距 SFP 均需再核。[Angora 独立档案](ingest/angora-1__arena-01a0ce39__5acb613/10-followup-angora-2026-10-26/angora-networks.md)；[逐源文本清单](ingest/angora-1__arena-01a0ce39__5acb613/09-source-evidence-r95-2026-10-26/README.md)。
 
 本仓库保存 **[SimonSaga-202306/Angora-1](https://github.com/SimonSaga-202306/Angora-1)**
@@ -7,9 +11,9 @@
 
 - 781 个文件 / 57 个子目录 / 最深 5 层，递归全覆盖，含隐藏文件与配置检查
 - **不合并**：一个源文件 = 一个产物（781）；再加压缩包逐成员（72）与"不可文本化"项目的深层内容（4903）＝ **5756 个产物**
-- 文本类文件逐字节原样副本；Office/PDF/旧版 .doc 全量文本还原；二进制媒体保留字节级身份
+- **r96 修正历史表述**：文本类副本、Office/PDF/旧版 .doc 的文本抽取和二进制媒体按各自清单区分；扫描、版式与图层可能缺失，不能笼统称全部文书已完整还原或全部二进制已在本轮核验字节身份
 - 固件 `.bin` 已完全解开：XZ → tar → UBI → UBIFS，4881 个文本文件逐字节入库、2118 个二进制逐个 sha256
-- **24 项完整性校验全部 PASS**，0 缺漏
+- **r96 限定历史表述**：原入库曾报告 24 项完整性检查 PASS；这是当时规则内的检查结果，并非本轮复验或“内容零遗漏”的证明
 
 入口：
 

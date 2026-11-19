@@ -1,5 +1,7 @@
 # 第 23 轮原始档案：全量复核 + 新挖掘（2026-10-21，10-08 后 13 天窗口）
 
+> **r96 安全修正**：下方 hard reset 仅为 r23 历史操作记录，不是现行恢复方法；例行执行的建议已撤回，先检查当前工作树并保护变动。
+
 > 任务来源：用户第 23 轮指令「把你之前做的再过一次 看看有没有啥新发现 新的信息 / 继续挖掘angora的相关信息」
 > 环境变化：⚠️ **沙箱重置**（workspace 回到基点 c4085aa、openpyxl 丢失）→ 按 TASK-STATUS §八 恢复流程 `git fetch origin arena/01a0ce39-angora && git reset --hard FETCH_HEAD`（HEAD=0dee834，359 文件 ✓）+ `pip install --break-system-packages openpyxl`（3.1.5）。
 > ⭐ **fetch_page 代理恢复**（r19-r22 连续 4 轮 OSS InvalidAccessKeyId 全挂 → 本轮 rehbersanayi/hepsiburada/angoranetworks/fiberix/teksarf 直接可抓；ewindnet.com 与 pnetworks.com.tr 仍间歇失败 → 用 web_search 摘要补足）。

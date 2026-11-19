@@ -1,3 +1,5 @@
+> **r96 修正并取代 r27 对应结论**：该文/同名 CSV 的「统一汇率 7.15」「6th $990 与发票对平、2025-06-13 FedEx 已出」「Saga OUI / 2,048 个、41 已用、2,000+ 剩余」「4th-pre 行项未抽取、¥9,110 单独未了结」均不成立或证据不足。4th/5th 有 $255 跨单差价与多个发票版本；3rd 计划、开票、装箱口径不同。原文只作历史档，[逐字段映射与证据](120-angora-orders-master-2026-10-21.mapping-r96.md)；当前 [r96 总报告](../08-customer-pipeline/165-angora-order-mac-document-reconciliation-2026-10-26.md)。
+
 # 120 · Angora 订单链全量档案（Google Drive 订单文件夹 → 本地知识库）
 
 - 日期：2026-10-21（第 27 轮）
