@@ -3436,3 +3436,74 @@ r91 问：该证法规上是 `hizmet` 要求，为何 Çankırı 的 `mal alım�
 - **GDZ `ILN02589099`** = **「Güvenlik duvarı ve ağ anahtarı alınacaktır」（防火墙 + 交换机合并标）**，18.11.2026 ⇒ **⚠ 修正 r90 的「单纯交换机标」口径**：与 AYEDAŞ 判例（防火墙+交换机拆两包、均 ULTRON）同型，**主包更可能是防火墙，交换机是搭车件** ⇒ **谈判靶子换成「防火墙中标方」**。
 - **Tarsus `2026/2162042`** = **「Switch ve SFP Modülü」4 + 16 + 8**，Tarsus Belediye **Fen İşleri**，27.11.2026 ⇒ `4.3.2` / 是否 yerli-only **仍未知**。
 **⚠ 边界**：`Tip1/Tip2` 定义未取到（İTÜ şartname 在 EKAP 内；旧模板 İYTE 记 `24 口=Tip1 / 8 口=Tip2 / 48 口=Tip3-4` ⇒ **「Tip」是院校惯用编号、各校不同**；İTÜ 直觉 48/24 口 PoE **属推断，不可对外**）· **「KBYB 已成货物标通用筛子」须收窄为「bilişim 内容占比高、IT 部门主导的货物标已成惯例；纯硬件小标仍大量无此要求」**。
+
+---
+
+## §87 · 第 93 轮 — 2026-10-26（UTC）：**Angora 本体专项（一）—— 渠道只有 4 家、伙伴制度带报备与保价、Synapse 反向推翻「TTK 不可投」**
+
+### 一、为什么有这一轮
+用户第 45 次「继续」，并给出新口径：**「继续挖 多挖和 angora 相关的 其他的不要花太多精力」**。⇒ 从 r93 起主轴由「土耳其公共采购泛情报」收窄为 **Angora 本体**；其他主体只作反证，不再单独立档。r92 留下的空白（「Angora 是否有 YMB / 是否有工厂 / 有没有投标痕迹」）不改搜索方式就永远解不开 —— 本轮换的是**入口**：从「查它的标」改为「查它的**渠道与伙伴制度**」。
+
+### 二、渠道：只有 4 家，但制度是 Tier-1 写法
+`angoranetworks.com/is-ortaklari` 全文只有 **4 家**：**A Bilişim**（`arduc.com.tr`，0312 478 03 43，Ankara）· **Arelcon**（`arelcon.com`，0312 419 34 33，Ankara/Çankaya）· **Asır Digital**（`asirdx.com`，0212 212 20 97，İstanbul）· **Fi Teknoloji**（`fitekshop.com`，0532 291 56 94，Antalya）。
+- **排他性得到部分答案：不排他，且重视度低。** Asır 是 **HPE & Aruba Platinum**（Aruba PBS 授权服务 / Central / SASE / GreenLake / FS），Arelcon 是 **ArelProtect**（备份 + 反勒索 + EDR + 补丁管理）。**4 家官网没有一家把 Angora 放进导航一级** ⇒ **「Angora 渠道庞大」作废。**
+- **地理**：Ankara×2 + İstanbul×1 + Antalya×1 ⇒ **东部/东南/黑海/地中海东部全空白**，我方在该区不构成渠道冲突（第二次确认，本轮按地址核到）。
+- **4 家全部不在 r92 的 KBYB 公示名单** ⇒ 它连「伙伴有证」这条路也没走通。
+
+### 三、伙伴制度（一手，`partnership-form` 原文）
+- **三档**：GOLD / SILVER / BRONZE；**BRONZE 只要 ≥2 人 + ≥1 个客户代表**，GOLD 要 ≥10 人 + ≥2 售前 + 每类产品 ≥1 台 Lab + 呼叫中心 + ≥2 张 Angora 技术培训证。
+- **ARP（项目报备）11 条，三条可谈判参数**：① **最小商机 UD$10K**；② **RFP 一经发布（公开或邀请）不得再报备 ⇒ 必须在 ilan 之前动手**；③ 未报备伙伴报价须为报备方保价 **BRONZE ≥10% / SILVER ≥7% / GOLD ≥5%**，且未报备方中标时报备方仍得 **2% 佣金**，90 天续期。⇒ **渠道不是压价型，是保护先手型 —— 对外来供应商有利：它的伙伴不靠杀价赢，靠信息早。**
+- 伙伴权益第一条：**「Angora Networks can participate in tenders with its authorization certificate」** ⇒ 解释了 TTK `3.3` 要求的「专项授权书」由谁出。
+
+### 四、组织：三个办公点 + 一个境外销售办
+销售 **Nergi(z) Sokak No:7, Via Flat Plaza Cubes, Söğütözü/Ankara** · **制造 Çamlıca Mh. Anadolu Blv. Timko Sk. Z Blok No:20/1, Yenimahalle/Ankara 06200** · **欧洲区域销售办 Aron Cotruş 57, Sector 1, Bucureşti/Romanya**（本轮新增）· 注册地 Alacaatlı Mah. Park Cad. 47/31（**NACE 620902**，成立 2016-11-28）· İMMİB 2023 名录另见 Serhat Mah. 1147. Cad. No:14/12 + **0312 241 77 47**。
+- **⚠ 关键判读**：**「制造」地址与伙伴 Arelcon 的注册地址完全重合**（同楼 Timko Sk Z Blok No:20/1）⇒ 可能是「同楼不同单元」或「共用场地」。**既不能写成「有工厂」，也不能写成「没工厂」—— 必须电话核实。**
+- **规模（第三方估算）**：Crunchbase 11–50 人 · RocketReach 7 人 · ZoomInfo 营收 <$5M ⇒ 与「4 家渠道 + 电商 5 个 SKU」自洽。
+
+### 五、TTK 2026 备用交换机标：逐条比对推翻 r88 的「24SFP 缺口」
+规格书全文（`taskomuru.gov.tr`，6 页）：**2.1 骨干 24×SFP + ≥8 Combo + ≥4×10G / ≥128 Gbps / ≥95.23 Mpps / ≥16,000 MAC / MTBF ≥760,000 h**；**2.2 24 口（95.24 Mpps / 4,000 VLAN / ≥124 IPv4 + 50 IPv6 路由 / 768 ACL / 16 kbps 粒度）**；**2.3 48 口（176 Gbps / 130.95 Mpps / 32,000 MAC）**；`2.1.27`/`2.2.39` 同品牌；**`2.2.40` 光模块必须同品牌、OEM 品牌不接受**；`3.3` 专项授权书；`3.9` TSE 售后证；`3.10` **30 天交货**；质保 2 年；交货地 Zonguldak。
+- **`ANW-5713-24S8T6X`（24×SFP + 8T + 6×10G，128 Gbps / 106 Mpps）存在** ⇒ **2.1 可过** ⇒ **r88 的「Angora 24 口 SFP 缺口」作废**。
+- `2712-24T4X`（128 Gbps / **99 Mpps**）过 2.2；`2712-48T4X`（**216 Gbps / 162 Mpps**）过 2.3 ⇒ **TTK 2026 三档可被 Synapse 单品牌覆盖**。
+- ⇒ **r89 的「Verge 过不了 TTK ⇒ TTK 不可投」收窄为「Verge 不可投、Synapse 可投」**；**真正的门槛从产品移到「30 天交期 / 2 年质保 / TSE 售后证 / 专项授权书」—— 恰是我方能给的。**
+- **`2.2.40` 独立复现 r91 的「原厂光模块」逻辑** ⇒ 从单例上升为**公共标通用条款**；SFP 只能以 Angora 品牌出货。
+
+### 六、价格锚：官方零售店 5 个 SKU，没有一台交换机
+`hepsiburada.com/angoranetworks`（卖家 = Angora，全店 5 ürün）：**`ANW-CBL-USB-CNsl` 450 · `ANW-SFP-1G-SX` 1,250 · `ANW-SFP-1G-LX` 1,485 · `ANW-SFP-10G-SR` 2,475 · `ANW-SFP-10G-LR` 2,925 TL**。
+- **10G-LR ≈ $58.5**（₺50.02）；按零售 55–65% 反推渠道价 **1G-LX ≈$16–19 / 10G-LR ≈$32–38** ⇒ **我方仍有 3–4 倍空间**。
+- **官方店无一台交换机** ⇒ 交换机 100% 走项目（与 4 家伙伴 + 授权书制度自洽）。
+- **⚠ 噪声**：`badem.shop` 把 `ANW-1071-E8GT-4SFP10G-P` 标成 11,036,355 TL，与 n11 的 84,600,45 / 31,051,46 TL 冲突 ⇒ **不可用**；且 `ANW-1071-…` 命名不在官网 Verge 页，属第三方旧命名。
+
+### 七、GM 公开承认做 OEM ⇒ 谈判轴改写
+2023-06-08 ICT Media 专访，**Levent Kılıç**：「…bizim tasarım ve üretim gücümüzden **OEM ürün olarak da yararlanmak mümkün** … yeterli sayıda, büyüklükte projeler olduğu zaman **OEM ürünlerde üretebiliyoruz**」+ 「Teknokente geçtik … tasarım ve üretim kısımlarını teknokente doğru kaydırmaya başladık」。
+- ⇒ **取代 r90 的「白牌补位」**：不必劝它做白牌，**它已经在做**。**补它做不出的四段**：① **40/70/80 km 光模块**（只到 10 km）；② **25G/40G/100G 上行**（对标 4432Z / 2520-32Q 但自家只到 10G）；③ **全千兆工业宽温 PoE++**（Hitit 工业段 100M 非 PoE）；④ **交期**。
+- **⚠ 反面证据一并记**：同一专访把叙事建立在「yabancı markaların satıldığı bir pazar」上 ⇒ **以「外国供应商」身份直谈会撞叙事，以「它 OEM 线的供应链」身份谈才不冲突。**
+
+### 八、YMB：路径推进 + 一次修正
+- **修正 r92**：Yerli Malı Belgesi 的**标准表含 sınıf（A, B, C, D, E）五档**（32793 号 Tebliğ MADDE 10(2)(ğ)）—— 不是三档。
+- **四道前置 + ≥51% 本地增值率**；签发 = 注册地所属 **TOBB/TESK 之 oda 或 borsa**，经 **SBS** 线上办理。
+- **⭐ 新核验入口 `lonca.gov.tr`**：可按 firma adı / ürün grubu / ürün kodu 查在册工业企业的 üretim konusu，且多份商会文件明文承认 **「lonca 截图可替代 Sanayi Sicil」** ⇒ **继 `belgedogrulama` 之后第二个「按公司名反查」的官方入口，且查的正是 YMB 的第 ④ 道前置。⚠ 但本轮 `https`/`http` 均 HTTP 500，界面未实证。**
+- 对 Angora 三可能：(a) Sanayi Sicil 含交换机 ⇒ 能出 YMB；(b) 只含 bilgisayar programlama（**NACE 620902**）⇒ 只能出 <51% 的 Katkı Oranı Raporu；(c) 无 Sicil ⇒ 「100% yerli sermaye」纯股权表述。**本轮倾向 (a) 但不下结论。**
+
+### 九、修正表
+| # | 旧轮 | 本轮 | 级别 |
+|---|---|---|---|
+| 1 | **r88**：Angora 缺 24 口 SFP | **作废**（`ANW-5713-24S8T6X`） | 修正 r88 |
+| 2 | **r89**：TTK 不可投 | **划边界**为「Verge 不可投、Synapse 可投」 | 修正 r89 推论范围 |
+| 3 | 「Angora 渠道庞大」 | **作废**（4 家，主业均非网络硬件） | 修正 |
+| 4 | **r92**：YMB 三档 | **五档 A/B/C/D/E** | 修正 r92 |
+| 5 | **r91**：原厂光模块条款 | **加强**（TTK `2.2.40` 复现） | 加强 r91 |
+| 6 | **r89**：760,000 h 是品牌筛子 | **精确化**：筛子挡 Verge 不挡 Synapse ⇒ **指纹是产品级而非公司级** | 精确化 r89 |
+| 7 | 「Angora = 投标资格壳」 | **保持降级**，且 4 家伙伴也未公示 | 加强 r92 |
+| 8 | 「缺 8 口工业机」 | **第三次证伪** | 维持 |
+
+### 十、产出与规模
+- 新增 `08-customer-pipeline/162-angora-channel-arp-and-synapse-ttk-fit-2026-10-26.md`（十四节）
+- 新增 `r93_appendix_data.py`（键 `'74'`）+ builder 接 `R93`（6 处：`R93 = {}` / 模块列表 / import 分支 / `R48.pop` 条件 / `R93_MARK` / `body_r93` 输出块）⇒ **written 146 / index 146 / leftovers 0**
+- 挂载：**`TR Customers/C/074-radioteknoloji.md`**（r93 的行号 074 落在 **C 档**，非预期中的 B 档 —— 机械约定按管线行号，仍以行号为准）
+- 台账 §87 · `AGENT-README` 第 93 行 · `00-TASK-STATUS` 第 CZ 行 · 根 `README.md` 增 `162`
+
+### 十一、源计数与空白
+**抓取 21（2 失败：`fitekshop.com`×2、`lonca.gov.tr`）· 去重引用 33 · 一手 12 / 二手 21**。
+**⚠ 低于 r88 的 52/46，系用户指令要求收窄至单一主体的口径变更**（横向源无增量价值），且一手占比 **36% > r88 的 13%**，证据密度更高 ⇒ **记为口径变更，不记为质量下降**。
+**空白**：4 家伙伴是否兼代理 Huawei/H3C/D-Link（`arduc` 11 个 Logo 未识别）· Fi Teknoloji 除电话外未知 · Angora 是否有 YMB / Sanayi Sicil 是否含交换机（lonca 500）· 「制造」与 Arelcon 同址的性质 · `5713` 的 MAC/路由/TSE 售后证 · Angora 是否在 EKAP 中标名单（`ANW-` 型号在公开规格书仍零命中）· 「100% yerli sermaye」股权事实 · 规模数据全为第三方估算 · **45 家电话全未拨**。
+**r94 三条提示**：① `lonca.gov.tr` 是当前最高性价比单点（一查同时答「有无产线 / 能否出 YMB / 是否真制造」），沙箱不可达则必须由土耳其侧代查截图；② `ANW-5713-24S8T6X` 是整条 Synapse 线的钥匙，下一步找它的独立数据表核 MAC/路由/40G；③ **不要再搜「Angora Networks + ihale kazandı」**（已两轮确认被 `ANGORA SU ARITMA` 污染），投标痕迹只能从采购人 + IKN 反查，且大概率它出授权书、伙伴递标 —— 验证唯一办法是问 4 家伙伴「你们投过哪些标」。
