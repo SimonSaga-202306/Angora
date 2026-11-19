@@ -1,0 +1,3 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation
+1,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224347_969.jsonl,54069,f33ab8053e06326ca113cc9bba9e01d6b823bd353bc75a99d94037ccc8c256d2,prior aligned OCR; same screenshot versions not independent
+2,02-extracted/mac_address&serial_number.xlsx.extracted.md,30524,23c7fda7513ce6410026182faa8371e1dbaa8ddb517b9d471abc76279f0e59bf,"prior XLSX text extraction, not device scan"

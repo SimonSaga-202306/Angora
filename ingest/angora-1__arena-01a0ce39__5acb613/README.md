@@ -165,3 +165,7 @@ git -C /tmp/audit show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:'<原始路径>'
 ## r102 最新入口：品牌、标签与设备身份
 
 [综合报告](01-text-verbatim/workstation/08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md) · [逐字段纠错](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r102.md) · [29 项来源](33-source-evidence-r102-2026-10-26/README.md) · [Angora 内部准备](34-followup-angora-r102-2026-10-26/angora-networks.md) · [入场安全比对](32-entry-safety-r102-2026-10-26/README.md)。未重取标签、GUI 原图或实际设备，不联系客户。
+
+## r103 最新入口：端口与 IRIS 光模块证据
+
+[综合报告](01-text-verbatim/workstation/08-customer-pipeline/172-angora-optics-port-evidence-r103-2026-10-26.md) · [字段纠错](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r103.md) · [来源与行锚](37-source-evidence-r103-2026-10-26/README.md) · [Angora 内部准备](38-followup-angora-r103-2026-10-26/angora-networks.md) · [入场保护](36-entry-safety-r103-2026-10-26/README.md)。相同型号不合并不同主体，资料冲突未证为实物故障。

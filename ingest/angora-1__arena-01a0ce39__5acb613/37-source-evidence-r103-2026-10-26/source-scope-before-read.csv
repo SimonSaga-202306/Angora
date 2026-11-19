@@ -1,0 +1,15 @@
+seq,path_from_ingest_root,size_bytes,representation
+1,00-manifest/FILE-INDEX.csv,266632,historical original/derivative path metadata index
+2,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pdf.extracted.md,6524,prior local PDF text-layer extraction
+3,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf.extracted.md,5919,prior local PDF text-layer extraction
+4,02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/User Manual_178台LT-IS6318GP-2GX16GT.pdf.extracted.md,6547,prior local PDF text-layer extraction
+5,02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pdf.extracted.md,6489,prior local PDF text-layer extraction
+6,02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.ai.extracted.md,682,prior AI text extraction; not source artwork
+7,02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.pdf.extracted.md,939,prior PDF extraction; not source artwork
+8,02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,3320,prior Word text extraction
+9,09-source-evidence-r95-2026-10-26/www.angoranetworks.com/26/files/Angora-Datasheet-SFP100G-20210330.pdf.extracted.md,8267,"prior web tool visible PDF text, not original PDF"
+10,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/files/ANGORA-IRIS-SFP-DATASHEET_EN-1.pdf.extracted.md,6565,"prior web tool visible PDF text, not original PDF"
+11,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/files/ANGORA-IRIS-SFP100-DATASHEET-20210423.pdf.extracted.md,6673,"prior normalized web PDF text, filename/body mismatch"
+12,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/files/ANGORA-IRIS-SFP25-DATASHEET-20210423.pdf.extracted.md,4033,"prior web tool visible PDF text, not original PDF"
+13,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/qr/10203/ANW-IRS100-DS-EN.pdf.extracted.md,8753,prior normalized web PDF text; independent binary not verified
+14,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/urunler/iris-sfp/index.extracted.md,3665,"prior visible web-page text, not original HTML"

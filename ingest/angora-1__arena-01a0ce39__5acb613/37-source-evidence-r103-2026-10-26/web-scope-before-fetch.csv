@@ -1,0 +1,4 @@
+seq,url,planned_path_from_r103_source_dir,representation
+1,https://www.angoranetworks.com/qr/10201/ANW-IRS-DS-EN.pdf,external-visible/www.angoranetworks.com/qr/10201/ANW-IRS-DS-EN.pdf.extracted.md,manufacturer PDF tool-visible text; not PDF bytes
+2,https://www.angoranetworks.com/iris-sfp-family/?lang=en,external-visible/www.angoranetworks.com/iris-sfp-family/index.en.extracted.md,manufacturer HTML rendered text; not original HTML
+3,https://www.angoranetworks.com/qr/10203/ANW-IRS100-DS-EN.pdf,external-visible/www.angoranetworks.com/qr/10203/ANW-IRS100-DS-EN.pdf.extracted.md,manufacturer PDF tool-visible text; not PDF bytes

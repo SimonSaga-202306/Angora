@@ -1,0 +1,3 @@
+seq,path_from_ingest_root,size_bytes,sha256
+1,09-source-evidence-r95-2026-10-26/README.md,4494,ffec8e84a81877bdb82cb70aca0a14e59c8d5573432e50e2b3fcf600cbf9fcee
+2,11-source-evidence-r96-2026-10-26/README.md,15228,437b34dd283046bf003f5ba9fd8f1fb8e737fb8c83a25e9932a50664e01785b0

@@ -262,3 +262,7 @@ python3 workstation/99-raw/audit_coverage.py
 ## r102 最新入口：品牌交付与设备标识
 
 [报告](08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md) · [字段纠错](09-orders/120-angora-orders-master-2026-10-21.mapping-r102.md) · [29 项限定来源](../../33-source-evidence-r102-2026-10-26/README.md) · [Angora 内部记录](../../34-followup-angora-r102-2026-10-26/angora-networks.md)。修正旧电源设计的既成化和“白牌进运营商体系”推断；不把 OCR、文字要求、图像元数据当实物验收。
+
+## r103 最新入口：型号、端口与 IRIS 光模块
+
+[报告](08-customer-pipeline/172-angora-optics-port-evidence-r103-2026-10-26.md) · [字段纠错](09-orders/120-angora-orders-master-2026-10-21.mapping-r103.md) · [限定来源](../../37-source-evidence-r103-2026-10-26/README.md) · [Angora 内部记录](../../38-followup-angora-r103-2026-10-26/angora-networks.md)。修正 r96 `SFP100` 文件名误读；相同型号登记的另一组主体未确认。

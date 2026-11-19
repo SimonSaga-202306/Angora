@@ -1,0 +1,7 @@
+case_id,anchor_ids,observation,interpretation_limit
+C01,IRIS-01;IRIS-02;IRIS-03;IRIS-04,10G SR row: 1310nm single-mode 10km vs 850nm multi-mode 300m,"These are conflicting tool-visible rows/sections, not a proven fault in the physical PDF or module; row alignment/extraction unverified."
+C02,IRIS-05;IRIS-06;IRIS-07,100G SR4 narrative: 12-fiber MTP/MPO vs general table: LC,Do not select patch cord from table alone; underlying PDF layout and actual module not verified.
+C03,IRIS-08;IRIS-09,25G AOC row includes 1000 Base-LX while optical table labels 25G AOC 850nm,May be source typo or extraction/table-column issue; no module model performance conclusion.
+C04,IRIS-10,1m (6ft) in 100G DAC ordering entry,"1m is approximately 3.28ft, but cannot determine actual cable length or which field is wrong."
+C05,IRIS-13;IRIS-14,1G SX general table 550m versus detailed 50/125 at 500m and 62.5/125 at 300m,Different fiber grade/conditions may explain it; not automatically a contradiction.
+C06,GUIDE-01,r96 called SFP100 filename 100G although it does not contain the letter G,Explicitly superseded: filename alone does not prove 100G; existing visible body is 1G/10G.

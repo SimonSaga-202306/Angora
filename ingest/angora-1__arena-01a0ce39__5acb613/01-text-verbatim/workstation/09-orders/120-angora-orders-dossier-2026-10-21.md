@@ -344,3 +344,9 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 3. 同一 2024 回复文档两张七行 MAC 表是重复文本；逐表保留 14 行、仅有 7 个不同地址，间距不恒定不自动表示地址冲突。
 
 详见 [r102 映射](120-angora-orders-master-2026-10-21.mapping-r102.md) 与 [逐源报告](../08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md)。
+
+## 附录：r103 明确修正并取代 r96 的文件名推断
+
+**修正并取代 r96 来源 README 第 6 项“文件名为 100G”的说法**：该 URL 的文件名实际为 `ANGORA-IRIS-SFP100-DATASHEET-20210423.pdf`，`SFP100` 不含 `G`，仅凭名称不能判为 100G。其既存可见文本是 1G/10G；另一明确带 `100G` 的 URL 是分开的记录，未取得原始 PDF，不能推断原始字节是否相同。
+
+同一登记表中另有十行 `TT-2208-PG`，但该组字段未直接标 Angora，**主体未确认**，不合并进本客户订单。详见 [r103 字段映射](120-angora-orders-master-2026-10-21.mapping-r103.md) 与 [报告](../08-customer-pipeline/172-angora-optics-port-evidence-r103-2026-10-26.md)。

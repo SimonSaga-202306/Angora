@@ -1,0 +1,15 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation
+1,00-manifest/FILE-INDEX.csv,266632,5612d22ed1609e86fa2a1414e5c304af3724e9bcf4f29c35cb4a435661e06ff3,historical original/derivative path metadata index
+2,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pdf.extracted.md,6524,c9efed6cca83f2a7859ce9f47ad766c2349870e2f07c10b9ce74eb042af6a24a,prior local PDF text-layer extraction
+3,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf.extracted.md,5919,111d08812d645265c781d881a356178888a13e64312204e6470e83bd3ea99b81,prior local PDF text-layer extraction
+4,02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/User Manual_178台LT-IS6318GP-2GX16GT.pdf.extracted.md,6547,4ac04875f177344b2ac2e1a5976d039637c738b92243092bf3e3865f9fc3d52f,prior local PDF text-layer extraction
+5,02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pdf.extracted.md,6489,9cdba5491a3b6a3d18fc00f0ed001853adf2801def069e86168b439a886ec4dc,prior local PDF text-layer extraction
+6,02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.ai.extracted.md,682,7ac039ef2bee8964b719c6f85185850b0aba48f6abe1b680ff3c79bb21fe444a,prior AI text extraction; not source artwork
+7,02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.pdf.extracted.md,939,92b8e3c5a94714dd7e3bccd65ce9eaed4c6d5cf55224a7498db405240273bc02,prior PDF extraction; not source artwork
+8,02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,3320,d8e431692dbbbe6f53a788fbd3b2afc5a10b3b1a224ea9718feba8d946c614ab,prior Word text extraction
+9,09-source-evidence-r95-2026-10-26/www.angoranetworks.com/26/files/Angora-Datasheet-SFP100G-20210330.pdf.extracted.md,8267,78a2843b1366bcf4c5b725c3fbc273a5eee293e87d03b7e62160ebd67a95a7c7,"prior web tool visible PDF text, not original PDF"
+10,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/files/ANGORA-IRIS-SFP-DATASHEET_EN-1.pdf.extracted.md,6565,8f0c228a1df763e7ee9c058997f0608177b0f4f062deba58530c2b00689c9114,"prior web tool visible PDF text, not original PDF"
+11,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/files/ANGORA-IRIS-SFP100-DATASHEET-20210423.pdf.extracted.md,6673,9c1f8cb65ef16013dba9ecfc91b92aa16389ef18cdcd6b57566550a6d7ca348e,"prior normalized web PDF text, filename/body mismatch"
+12,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/files/ANGORA-IRIS-SFP25-DATASHEET-20210423.pdf.extracted.md,4033,6c10aae0129a9aec314c95f7531fee4c32200621403b2189e39f963d3c1e22ac,"prior web tool visible PDF text, not original PDF"
+13,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/qr/10203/ANW-IRS100-DS-EN.pdf.extracted.md,8753,a4f6ba9f6e56ee056765d3921446a639722e88626d44e88a24655d320da12a99,prior normalized web PDF text; independent binary not verified
+14,11-source-evidence-r96-2026-10-26/www.angoranetworks.com/26/urunler/iris-sfp/index.extracted.md,3665,7ed2999cce92897bfcfcbcbca2be37b9152f8bdfbe73cede0bda21910e3ecbfb,"prior visible web-page text, not original HTML"

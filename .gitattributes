@@ -92,3 +92,10 @@
 "/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224347_969.jsonl" -text
 "/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224347_969.txt" -text
 "/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224347_969.png.meta.json" -text
+
+# r103: preserve bounded safety ledgers, source records and selected derivative bytes.
+/ingest/angora-1__arena-01a0ce39__5acb613/36-entry-safety-r103-2026-10-26/** -text
+/ingest/angora-1__arena-01a0ce39__5acb613/37-source-evidence-r103-2026-10-26/** -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.ai.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.pdf.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/09-source-evidence-r95-2026-10-26/www.angoranetworks.com/26/files/Angora-Datasheet-SFP100G-20210330.pdf.extracted.md" -text
