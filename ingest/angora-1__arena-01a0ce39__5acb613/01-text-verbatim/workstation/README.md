@@ -258,3 +258,7 @@ python3 workstation/99-raw/audit_coverage.py
 ## r101 最新入口：培训、手册与网管证据链
 
 [报告](08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md) · [修正映射](09-orders/120-angora-orders-master-2026-10-21.mapping-r101.md) · [说话人归属勘误](01-knowledge-base/05-verified-quotes-by-speaker.mapping-r101.md) · [38 项来源清单](../../29-source-evidence-r101-2026-10-26/README.md) · [Angora 独立内部记录](../../30-followup-angora-r101-2026-10-26/angora-networks.md)。修正旧“CENTEC 材料即方案落地”；培训文件卡不证明授课，平台声明不证明特定设备已验收。
+
+## r102 最新入口：品牌交付与设备标识
+
+[报告](08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md) · [字段纠错](09-orders/120-angora-orders-master-2026-10-21.mapping-r102.md) · [29 项限定来源](../../33-source-evidence-r102-2026-10-26/README.md) · [Angora 内部记录](../../34-followup-angora-r102-2026-10-26/angora-networks.md)。修正旧电源设计的既成化和“白牌进运营商体系”推断；不把 OCR、文字要求、图像元数据当实物验收。

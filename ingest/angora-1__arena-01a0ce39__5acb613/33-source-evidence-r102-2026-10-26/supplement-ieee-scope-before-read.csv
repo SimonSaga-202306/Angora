@@ -1,0 +1,2 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,11-source-evidence-r96-2026-10-26/registry-copy/mam.csv,608108,previously saved fixed-version IEEE MA-M mirror CSV,"complete byte-read, lookup only registered Angora prefix"

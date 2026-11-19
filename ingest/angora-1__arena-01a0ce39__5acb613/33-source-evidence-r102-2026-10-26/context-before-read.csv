@@ -1,0 +1,10 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,01-text-verbatim/workstation/08-customer-pipeline/166-angora-first-second-order-software-r97-2026-10-26.md,19322,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+2,01-text-verbatim/workstation/08-customer-pipeline/168-angora-aftersales-project-evidence-r99-2026-10-26.md,14925,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+3,01-text-verbatim/workstation/08-customer-pipeline/169-angora-firmware-traceability-r100-2026-10-26.md,13914,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+4,01-text-verbatim/workstation/08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md,14176,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+5,01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,37960,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+6,01-text-verbatim/workstation/09-orders/121-angora-master-reanalysis-2026-10-21.md,26289,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+7,01-text-verbatim/workstation/02-social-intel/40-angora-company-full-history.md,11896,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+8,01-text-verbatim/workstation/README.md,28253,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence
+9,README.md,11633,"prior derived report or entry, mutable",complete byte-read before potential append-only correction; not independent evidence

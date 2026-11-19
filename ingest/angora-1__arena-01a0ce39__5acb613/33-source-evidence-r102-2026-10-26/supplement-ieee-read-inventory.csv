@@ -1,0 +1,2 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation,read_method
+1,11-source-evidence-r96-2026-10-26/registry-copy/mam.csv,608108,b875206fa5b2ccd229bc61da781ea838df56c34511465f620c22a1a284a5618c,previously saved fixed-version IEEE MA-M mirror CSV,complete byte-read; one-prefix lookup only

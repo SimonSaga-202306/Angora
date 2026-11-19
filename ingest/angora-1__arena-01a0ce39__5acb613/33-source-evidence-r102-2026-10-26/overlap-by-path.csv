@@ -1,0 +1,30 @@
+path_from_ingest_root,sha256,r97,r98,r99_full,r99_partial,r100,r101
+00-manifest/FILE-INDEX.csv,5612d22ed1609e86fa2a1414e5c304af3724e9bcf4f29c35cb4a435661e06ff3,no,no,no,no,no,yes
+02-extracted/2nd order sample 2层10G 16口 2光8管理/Angora-Replies_2024.10.23.docx.extracted.md,cfcdb7afa496703e817f93d2642c3a85272dc5d9d8846921b5dc7a024beac6e9,yes,no,no,no,no,no
+02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,d8e431692dbbbe6f53a788fbd3b2afc5a10b3b1a224ea9718feba8d946c614ab,no,yes,no,no,yes,no
+03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V label.png.meta.json,5990e2cae7fd9ded73358b48de692c8f218dd92ff36175bc5fcd7709b6eced78,yes,no,no,no,no,no
+03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG label.png.meta.json,504e66a29e936c596f5919b877797bf96df587e05b0f794e76ee46382e101111,yes,no,no,no,no,no
+03-binary-meta/2nd order sample 2层10G 16口 2光8管理/GUI after change.png.meta.json,550d233b0bd4cdfba5090ef5617285a135b490ff32580c61f366a9b67b5f0d08,yes,no,no,no,no,no
+03-binary-meta/2nd order sample 2层10G 16口 2光8管理/label format.jpg.meta.json,f43167d88675dc9577d1e7e47d8a1c3bc6443efb82521e658f07ee08ec484458,yes,no,no,no,no,no
+03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.meta.json,14238ba7b6b48405236465606818b3d11831099bd439dbe1c5895cca72e8d170,yes,no,no,no,no,no
+03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/prodcut label.png.meta.json,d36466386ea575ad6f605cf5c6112c9b9e1f2f8dd72468cc6233cd83998bf632,no,yes,no,no,no,no
+02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pdf.extracted.md,c9efed6cca83f2a7859ce9f47ad766c2349870e2f07c10b9ce74eb042af6a24a,yes,no,yes,no,no,yes
+02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf.extracted.md,111d08812d645265c781d881a356178888a13e64312204e6470e83bd3ea99b81,yes,yes,yes,no,no,yes
+02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/User Manual_178台LT-IS6318GP-2GX16GT.pdf.extracted.md,4ac04875f177344b2ac2e1a5976d039637c738b92243092bf3e3865f9fc3d52f,no,yes,yes,no,no,yes
+02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pdf.extracted.md,9cdba5491a3b6a3d18fc00f0ed001853adf2801def069e86168b439a886ec4dc,no,yes,yes,no,no,yes
+01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json,25e8fb6a12f0cec7d28aadea1c81236ac652011957bdf976fd636ec6073d59a3,no,no,no,yes,yes,yes
+01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md,987874aa344f1d31fd9a44ccd25bd15b023ed73e8364dc35c813534d2bc73884,no,yes,no,yes,yes,yes
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223749_931.jsonl,704dea1a9cd7ff770668b632befafcedfa3374468986059efc3ec13c719a10ff,no,no,no,no,no,no
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223749_931.txt,aa66a6accacfcb22c72f38b55e737f1bf322743066a50883db51f6ded2a03c73,no,no,no,no,no,no
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223749_931.png.meta.json,decf8bf18ff0544c675e6816234b0927d890a50c893943fde8ed4ff537827074,no,no,no,no,no,no
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224033_579.jsonl,b4c1a3bb76c35d56482ef9d708b0b59a5014545d9d628bd99184ed2522de5482,no,no,no,no,no,no
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224033_579.txt,a9bc14fb7ad521afdca714c1bbf758ded0986c5cc1f2cd23a275871ebd36a309,no,no,no,no,no,no
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224033_579.png.meta.json,037ef39967b337c50174a02b5ed11060f7fb610198f4ed7c3d9c6feda180ec39,no,no,no,no,no,no
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224111_987.jsonl,8580e6729a0196334e6134370746af453dc57964f638bb6388514a15711af374,no,no,no,yes,no,no
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224111_987.txt,3eff8daca47d409c7a0e1540a8d5912585fb20adcb8a4bc5ff748379017f7c3f,no,no,no,yes,no,no
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224111_987.png.meta.json,99a56733c1c37f4e1dd6ae05ecaa1fcec4321df51eca266512e0c2a781d7e242,no,no,no,yes,no,no
+01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224347_969.jsonl,f33ab8053e06326ca113cc9bba9e01d6b823bd353bc75a99d94037ccc8c256d2,no,no,no,no,no,no
+01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224347_969.txt,451e782335d3db069dd4b6bccc7956012657b9ee1621f7f0a0cef733c4240402,no,no,no,no,no,no
+03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224347_969.png.meta.json,f49ef5d3afd1d45d5266fea7e7566e53bc7eb44223a54a9b1720b2de457b979b,no,no,no,no,no,no
+02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.psd.extracted.md,4f62b100440360df10009223036c2cd28fab22ec58877f2a21436fd4183020c5,no,yes,yes,no,yes,no
+11-source-evidence-r96-2026-10-26/registry-copy/mam.csv,b875206fa5b2ccd229bc61da781ea838df56c34511465f620c22a1a284a5618c,no,no,no,no,no,no

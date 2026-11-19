@@ -1,0 +1,13 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223749_931.jsonl,39183,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+2,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223749_931.txt,9838,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+3,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223749_931.png.meta.json,678,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+4,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224033_579.jsonl,46248,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+5,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224033_579.txt,11628,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+6,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224033_579.png.meta.json,678,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+7,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224111_987.jsonl,46831,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+8,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224111_987.txt,12261,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+9,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224111_987.png.meta.json,678,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+10,01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224347_969.jsonl,54069,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+11,01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224347_969.txt,14227,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only
+12,03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224347_969.png.meta.json,678,OCR screenshot derivative or metadata,complete byte-read; strictly scoped labels and UI events only

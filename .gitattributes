@@ -69,3 +69,26 @@
 "/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/User Manual.docx.extracted.md" -text
 "/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.json" -text
 "/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.md" -text
+
+# r102: protect entry ledgers, source indexes and selected derived evidence bytes.
+/ingest/angora-1__arena-01a0ce39__5acb613/32-entry-safety-r102-2026-10-26/** -text
+/ingest/angora-1__arena-01a0ce39__5acb613/33-source-evidence-r102-2026-10-26/** -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/Angora-Replies_2024.10.23.docx.extracted.md" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V label.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG label.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/GUI after change.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/label format.jpg.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/prodcut label.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223749_931.jsonl" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223749_931.txt" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223749_931.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224033_579.jsonl" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224033_579.txt" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224033_579.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224111_987.jsonl" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224111_987.txt" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224111_987.png.meta.json" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224347_969.jsonl" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224347_969.txt" -text
+"/ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224347_969.png.meta.json" -text

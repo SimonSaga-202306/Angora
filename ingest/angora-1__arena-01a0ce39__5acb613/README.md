@@ -161,3 +161,7 @@ git -C /tmp/audit show 5acb6132a6a6090bfc777c324cfea6bc8dfb877a:'<原始路径>'
 ## r101 最新入口：培训、手册与 NMS
 
 [综合报告](01-text-verbatim/workstation/08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md) · [字段修正](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r101.md) · [归属勘误](01-text-verbatim/workstation/01-knowledge-base/05-verified-quotes-by-speaker.mapping-r101.md) · [限定 38 项派生来源](29-source-evidence-r101-2026-10-26/README.md) · [Angora 内部准备](30-followup-angora-r101-2026-10-26/angora-networks.md) · [入场差异保护](28-protected-variants-r101-2026-10-26/README.md)。不将材料存在写为实际部署，不联系客户，不解压 INFO.rar。
+
+## r102 最新入口：品牌、标签与设备身份
+
+[综合报告](01-text-verbatim/workstation/08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md) · [逐字段纠错](01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r102.md) · [29 项来源](33-source-evidence-r102-2026-10-26/README.md) · [Angora 内部准备](34-followup-angora-r102-2026-10-26/angora-networks.md) · [入场安全比对](32-entry-safety-r102-2026-10-26/README.md)。未重取标签、GUI 原图或实际设备，不联系客户。

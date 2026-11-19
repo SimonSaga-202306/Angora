@@ -1,0 +1,16 @@
+seq,path_from_ingest_root,size_bytes,representation,intended_review
+1,00-manifest/FILE-INDEX.csv,266632,historical file index,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+2,02-extracted/2nd order sample 2层10G 16口 2光8管理/Angora-Replies_2024.10.23.docx.extracted.md,5430,Word text extraction,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+3,02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,3320,Word text extraction,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+4,03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V label.png.meta.json,697,original image metadata only,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+5,03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG label.png.meta.json,698,original image metadata only,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+6,03-binary-meta/2nd order sample 2层10G 16口 2光8管理/GUI after change.png.meta.json,648,original image metadata only,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+7,03-binary-meta/2nd order sample 2层10G 16口 2光8管理/label format.jpg.meta.json,902,original image metadata only,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+8,03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.meta.json,6479,"archive metadata/index only, no extraction",complete byte-read and SHA-256; strictly targeted branding/label and UI review
+9,03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/prodcut label.png.meta.json,711,original image metadata only,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+10,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pdf.extracted.md,6524,PDF text-layer extraction,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+11,02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf.extracted.md,5919,PDF text-layer extraction,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+12,02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/User Manual_178台LT-IS6318GP-2GX16GT.pdf.extracted.md,6547,PDF text-layer extraction,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+13,02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pdf.extracted.md,6489,PDF text-layer extraction,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+14,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json,752882,OCR-aligned conversation JSON,complete byte-read and SHA-256; strictly targeted branding/label and UI review
+15,01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md,349748,OCR-aligned conversation Markdown,complete byte-read and SHA-256; strictly targeted branding/label and UI review

@@ -1,0 +1,2 @@
+seq,path_from_ingest_root,size_bytes,sha256,representation,read_method
+1,02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.psd.extracted.md,2545,4f62b100440360df10009223036c2cd28fab22ec58877f2a21436fd4183020c5,PSD text extraction,complete byte-read; serial-range text only

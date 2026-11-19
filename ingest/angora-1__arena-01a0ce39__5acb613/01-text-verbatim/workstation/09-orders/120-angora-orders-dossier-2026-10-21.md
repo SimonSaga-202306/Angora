@@ -336,3 +336,11 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 3. **修正旧 `05` 的逐行归属绝对化外推**：2026-07-20 15:15 OCR 两版对说话人标注相冲突，原图缺失，主体未确认；既有 413 条样本统计本轮未复算。已哈希原档不动，另建[归属映射](../01-knowledge-base/05-verified-quotes-by-speaker.mapping-r101.md)。
 
 详见 [r101 字段映射](120-angora-orders-master-2026-10-21.mapping-r101.md) 与 [逐源报告](../08-customer-pipeline/170-angora-training-manual-nms-r101-2026-10-26.md)。
+
+## 附录：r102 明确修正并取代 r27 对电源与运营商落地的表述
+
+1. **修正并取代 §3.3 将定制电源写成已实现的橙色、Logo 和原产地标识变更**：2025/Q1 文书仅有条件性颜色偏好与标识要求，文字还有抽取/拼写歧义；未取得成品、原图、测试或签收。目标市场的真实原产地与强制标识应另行合规核查，不由这段聊天判断是否合法或建议隐瞒来源。
+2. **修正并取代将 TT 型号/Logo 文字直接解释为运营商生产网络落地**：2025-06 OCR 记 Web 和标签展示要求，但最终实物标签、界面原图、运营商采购及验收均未证。2024 的 `ANW` 序列号要求与 2025 数字格式分开保留，不判断历史违约。
+3. 同一 2024 回复文档两张七行 MAC 表是重复文本；逐表保留 14 行、仅有 7 个不同地址，间距不恒定不自动表示地址冲突。
+
+详见 [r102 映射](120-angora-orders-master-2026-10-21.mapping-r102.md) 与 [逐源报告](../08-customer-pipeline/171-angora-branding-label-identity-r102-2026-10-26.md)。
