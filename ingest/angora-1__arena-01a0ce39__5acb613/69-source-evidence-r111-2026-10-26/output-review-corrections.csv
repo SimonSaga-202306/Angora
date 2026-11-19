@@ -1,0 +1,3 @@
+artifact,issue,correction,re_read
+180-angora-commercial-history-evidence-r111-2026-10-26.md,lead used ambiguous 上轮 although failures occurred in r109,identified r109 explicitly,complete file reread after edit
+claim-boundaries.csv B02,one referenced anchor contained the 2023 article date rather than its 2016 founding wording,removed the non-supporting anchor and limited B02 wording to the directly anchored video description,complete file reread after edit

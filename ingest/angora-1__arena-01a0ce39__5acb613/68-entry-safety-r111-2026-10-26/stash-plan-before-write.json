@@ -1,0 +1,10 @@
+{
+  "operation": "git --literal-pathspecs stash push --include-untracked --pathspec-from-file=- --pathspec-file-nul -m r111-entry-safety",
+  "planned_exact_path_count": 868,
+  "pathspec_nul_bytes_sha256": "542e0e6aea831195b5e9aede48e26827b73f89314761769b8e3be7fc7f63c050",
+  "input_inventory": "incoming-read-inventory.csv",
+  "prior_protection_comparison": "32 matching prior r109 protected variants; 836 matching remote tree; Git blob and mode checked",
+  "environment_observed_utc": "2026-11-19T11:56:43.587203+00:00",
+  "monotonic_seconds": 116.458154493,
+  "guardrails": "do not include r111 output paths; verify stash third parent before fast-forward; do not pop; local stash is not a remote backup"
+}

@@ -1,0 +1,5 @@
+repository_relative_path,bytes_read,sha256,read_method,purpose
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/external-fetch-plan-before-fetch.csv,1077,5c261a3b30ae1ae0db395beebc8e677cb4d74f8ceb62bdd952a556c30ff33edb,complete file read_file display and bytes hashed,compare previously attempted video IDs
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/web-video-scope-before-fetch.csv,398,376b9852c071a725e4cff7eb1405e4a599d4a0f16ab3ea3424419194587145a5,complete file read_file display and bytes hashed,compare earlier attempted video IDs
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/web-event-visible-inventory.csv,728,1689dc1141ac0dc85427e306437e3d773bd6c5ca6956653a1d329604e9fa5396,complete file read_file display and bytes hashed,compare prior event source identities and avoid duplication
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/web-market-video-visible-inventory.csv,1988,dd5ccce27386386f465b2482873a90070673d170baa5eeec7ff8351a36ae4a69,complete file read_file display and bytes hashed,compare earlier market-video source identities

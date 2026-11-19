@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q26,1,1,TOBB BİLİŞİM BULUŞMALARI,http://tobb.org.tr/Sayfalar/TOBBBilisimBulusmalari.php,"Tuesday, December 13, 2016",no relevant company identity visible in snippet; not opened
+Q26,2,2,www.tuik.gov.tr,https://www.tobb.org.tr/BilgiHizmetleri/Documents/Raporlar/BT_KULLANIM.pdf,"Friday, November 28, 2008",unrelated PDF returned despite negative filter; not opened or downloaded
+Q26,3,3,Bilişim Destekleri Bilgilendirme Toplantısı Gerçekleştirildi,https://www.tobb.org.tr/Sayfalar/Detay.php?rid=12344&lst=Haberler,"Friday, June 03, 2022",no relevant company identity visible in snippet; not opened
+Q26,4,4,TOBB BİLGİ HİZMETLERİ DAİRESİ AYLIK BÜLTENİ ŞUBAT - MART 2007 YIL 2 SAYI 14,https://www.tobb.org.tr/BilgiHizmetleri/Documents/Bulten/2007_02-03.pdf,,unrelated PDF returned despite negative filter; not opened or downloaded
+Q26,5,5,TOBB - Türkiye Odalar ve Borsalar Birliği,https://www.tobb.org.tr/CERNSanayiIrtibatOfisi/Sayfalar/sunumlar.php,,unrelated presentations index; not opened

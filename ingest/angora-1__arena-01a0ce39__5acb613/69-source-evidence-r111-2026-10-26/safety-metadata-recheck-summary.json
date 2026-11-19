@@ -1,0 +1,15 @@
+{
+  "metadata_files_fully_read": 3,
+  "metadata_bytes_read": 609109,
+  "incoming_paths": 868,
+  "incoming_bytes": 46015150,
+  "same_remote": 836,
+  "different_equal_prior_protected": 32,
+  "stash_commit": "5a38ec659918d57e09fada4f62a2e913f914d3dc",
+  "actual_stash_tree_paths": 868,
+  "all_stash_blob_and_mode_equal": true,
+  "all_head_blob_and_mode_equal": true,
+  "protected_variant_paths_prelisted": 32,
+  "protected_variant_bytes_prelisted": 17473261,
+  "caveat": "only metadata was decoded; two headers were inspected before this full-read scope; protected-file bytes not yet read in this step"
+}

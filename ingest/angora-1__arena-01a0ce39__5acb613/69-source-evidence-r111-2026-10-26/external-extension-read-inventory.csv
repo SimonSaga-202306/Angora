@@ -1,0 +1,2 @@
+source_id,repository_relative_path,bytes_read,sha256,lines,read_method,representation_caveat
+X08,ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/external-visible/www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/index.visible.md,5019,d65f23f8b03975d9a55e22b58c4c2893f55af3a94129bdd75959b5466e8d2b94,56,complete UTF-8 saved file displayed with read_file; complete local bytes hashed,"manual saved visible text, not raw original; no automatic comparison to tool response"

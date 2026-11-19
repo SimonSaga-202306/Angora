@@ -1,0 +1,5 @@
+query_id,query,purpose,guardrail,execution
+Q11,"site:kobi-efor.com.tr ""Angora Networks"" -filetype:pdf",find media reports on Angora participation and product themes,one domain avoids supplier directories; verify original article and dates before claims,execute singly and record each result before next query
+Q12,"site:teknoparkankara.com.tr ""Angora Networks"" -filetype:pdf",seek technology-park institutional attribution,metadata only until separate fetch plan; do not infer current tenant status,execute singly and record each result before next query
+Q13,"site:tubitak.gov.tr ""Angora Networks"" -filetype:pdf",seek an institutional research-project attribution,metadata only; no PDF and no unverified grant claims,execute singly and record each result before next query
+Q14,"site:ictmedia.com.tr ""Angora Networks"" ""2019"" -filetype:pdf",seek dated early business reporting in a single media domain,metadata only until separate fetch plan; no supplier directories,execute singly and record each result before next query

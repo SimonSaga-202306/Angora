@@ -1,0 +1,4 @@
+record,issue,correction,boundary
+Q01-result-3,"temporary manual title '2016 interview with Levent Kılıç' could misstate the interview's date","before further use replaced it with the exact visible search-result title; reported age 2023-06-08 retained","search metadata only; 2016 is a founding claim from another context not the interview date"
+Q23-result-1,"unquoted ASCII comma inside the Turkish article title made the row parse as eight fields instead of seven","quoted the unchanged title so the row parses correctly","manually recorded search metadata only; no underlying search-response JSON saved"
+Q24-result-1,"unquoted ASCII comma inside the same title made the row parse as eight fields instead of seven","quoted the unchanged title so the row parses correctly","same interview as Q23; not a second independent source"

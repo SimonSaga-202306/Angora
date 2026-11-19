@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q02,1,1,"Angora Networks - Products, Competitors, Financials, Employees, Headquarters Locations",https://www.cbinsights.com/company/angora-networks,,third-party directory; unverified; search snippet not an incorporation record
+Q02,2,2,"“Yerli bir üreticiye verilebilecek en büyük destek, onun ürünlerini kullanmaktır”",https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,"Thursday, June 08, 2023",already covered r107/r109
+Q02,3,3,Angora Networks Information,https://rocketreach.co/angora-networks-profile_b402226cfc1524af,,third-party directory; contradictory employee counts within snippet; not opened or used as headcount fact
+Q02,4,4,Network teknolojileri alanında: ANGORA NETWORKS- Levent Kılıç - YouTube,https://www.youtube.com/watch?v=yveHNxOXD3g,"Monday, October 12, 2020",potential 2020 source; identity date and transcript require full retrieval and prior-overlap check
+Q02,5,5,Angora Networks,https://tr.linkedin.com/company/angora-networks,,profile metadata only; not opened

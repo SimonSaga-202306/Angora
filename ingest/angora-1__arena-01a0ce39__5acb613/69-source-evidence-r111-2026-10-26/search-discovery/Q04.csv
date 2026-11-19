@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q04,1,1,Network Switch Ailesi - Angora Networks,https://www.angoranetworks.com/network-devices/,"Wednesday, June 11, 2025",repeated Q03; search snippet only; official PDF links not opened
+Q04,2,2,Yerli Switch Üreticisi Angora Networks - Advensis,https://advensis.com.tr/angoranetworks/,"Thursday, November 12, 2020",repeated Q03; third-party page is a lead not a certificate
+Q04,3,3,"Angora Networks, Kanal Ortakları Zirvede Buluşuyor",https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,already covered r108
+Q04,4,4,06-ICT MEDIA HAZİRAN 2023 - Flipbook by ICTMEDIA,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,"Saturday, June 03, 2023",not opened; repetition of already-studied interview
+Q04,5,5,Hitit Network Switch Ailesi - Angora Networks,https://www.angoranetworks.com/hitit-yerli-network-switch-ailesi/,"Tuesday, March 24, 2026",repeated Q03; no certificate established

@@ -1,0 +1,16 @@
+{
+  "source_id": "X02",
+  "requested_url": "https://kobi-efor.com.tr/kapak/tbdden-kamu-bib25-ve-bimy29-butunlesik-etkinligidijital-h15774.html",
+  "returned_canonical_url": "https://kobi-efor.com.tr/tbdden-kamu-bib25-ve-bimy29-butunlesik-etkinligidijital-gelecek-ve-otesi",
+  "tool_chunks_returned": 5,
+  "final_has_more": false,
+  "transcribed_chunk_paths": 5,
+  "saved_page": "ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/external-visible/kobi-efor.com.tr/kapak/tbdden-kamu-bib25-ve-bimy29-butunlesik-etkinligidijital-h15774/index.visible.md",
+  "bytes": 36335,
+  "sha256": "2f28fd654d7589f37b06ca3c8b83024803d23c13ffab721aad4b64a1999bf7eb",
+  "boundary_checks": 4,
+  "representation": "manual transcription of visible Markdown; no raw HTML, no image bytes, no automated comparison to tool output",
+  "date_note": "page displays 01.12.2022; search snippets reported conflicting ages; no independent event calendar obtained",
+  "stopped_entity_token_guard": "no stop-listed tokens found by exact word scan; no source contents used to research other parties",
+  "source_identity_note": "same publisher may serve multiple URLs; X03 not yet fetched; not independent witnesses"
+}

@@ -1,0 +1,4 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q27,1,1,About Us - TBD Turkish Informatics Association,https://www.tbd.org.tr/en/corporate/about-us/,,association background only in snippet; not event corroboration; not opened
+Q27,2,2,Kurumsal,https://tbd.org.tr/kurumsal,,association background only in snippet; not event corroboration; not opened
+Q27,3,3,Ankara Branch - TBD Turkish Informatics Association,https://tbd.org.tr/branch-offices/ankara-branch,,association background only in snippet; not event corroboration; not opened

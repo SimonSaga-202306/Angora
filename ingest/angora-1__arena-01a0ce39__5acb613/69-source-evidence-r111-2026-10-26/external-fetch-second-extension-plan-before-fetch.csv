@@ -1,0 +1,2 @@
+source_id,url,planned_success_path,planned_failure_path,purpose,guardrail
+X08,https://www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/,external-visible/www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/index.visible.md,fetch-failures/X08.visible.md,retry r109 E02 historical thin-client education announcement as a separate source,do not register or enter meeting; no PDF; agenda does not prove attendee proficiency or current technical compatibility; quarantine if stopped subjects appear

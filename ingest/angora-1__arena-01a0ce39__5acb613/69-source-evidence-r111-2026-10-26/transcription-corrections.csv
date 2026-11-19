@@ -1,0 +1,3 @@
+source_id,chunk_index,issue,correction,limitation
+X02,1,"manual transcription temporarily copied KKTC’yi as KKTC’yı","corrected to the visible tool response before combining chunks","one local line range was read for correction before the final read-inventory; full transcription is not automatically compared to the tool output"
+X07,1,"manual transcription temporarily changed the footer cookie-policy link target to the data-processing page","corrected link target to /Page/gizlilik-ve-cerez-politikasi in the saved source","source file was read before correction and before the final consolidated read-inventory; no complete automated comparison of the transcription against the tool response"

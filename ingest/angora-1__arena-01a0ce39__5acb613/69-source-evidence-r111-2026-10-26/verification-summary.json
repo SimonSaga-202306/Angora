@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "source_and_comparison_paths": 26,
+  "source_and_comparison_bytes": 237155,
+  "catalog_entries": 12,
+  "exact_local_anchors": 35,
+  "search": {
+    "queries": 28,
+    "nonempty_result_rows": 98,
+    "zero_result_query_ids": [
+      "Q12",
+      "Q16",
+      "Q20",
+      "Q21",
+      "Q25"
+    ]
+  },
+  "safety": {
+    "metadata_paths": 3,
+    "metadata_bytes": 609109,
+    "protected_paths": 32,
+    "protected_bytes": 17473261,
+    "incoming_paths": 868,
+    "incoming_bytes": 46015150,
+    "stash": "verified 868 local tree entries; stash is not portable",
+    "base_tree": "9d8ad5d7123d3c2216032f327af09a7b14fb9cf6"
+  },
+  "distinct_paths_including_hash_only_safety": 61,
+  "bytes_including_hash_only_safety": 18319525,
+  "dossier_append": {
+    "old_bytes": 49964,
+    "appended_bytes": 641,
+    "current_bytes": 50605
+  },
+  "relative_links_checked": 118,
+  "elapsed_monotonic_seconds": 1685.799,
+  "output_manifest": {
+    "status": "not yet created"
+  },
+  "limitations": [
+    "local hashes do not verify original web content or transcription fidelity",
+    "no audio, legal registration, device behavior, certification or delivery verified",
+    "monotonic elapsed time does not calibrate calendar dates or prove continuous work",
+    "local stash may not exist in a future clone; it is not a remote backup",
+    "stored inventories and hashes cannot prove the order of prior reads"
+  ]
+}

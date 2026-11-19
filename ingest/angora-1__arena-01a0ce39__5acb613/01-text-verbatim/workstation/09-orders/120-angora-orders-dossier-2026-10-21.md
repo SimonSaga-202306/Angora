@@ -434,3 +434,8 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 - CLI 编号通式中间写 0，例子却有 1／2；保留歧义，不把示例用于未知设备。ZTP 的 DHCP/TFTP 描述不是已部署或安全评估。
 - **复核 r105–r109 日期口径**：会话指定 2026-10-26 UTC，环境钟观察为 2026-11-19 UTC；冲突未校准。不能凭环境钟改称旧会话日期有误，也不能倒填历史采集日。
 - 原始 HTML、截图、固件和设备测试均未取得；一份回放仅有标题、另一份为无关页面且已隔离，另两份为明确降级的模板重建。
+
+
+## r111 增补索引（2026-10-26 为目录标签）
+
+[独立档案附录](120-angora-orders-dossier-2026-10-21.r111-appendix.md) · [字段映射](120-angora-orders-master-2026-10-21.mapping-r111.md) · [主报告](../08-customer-pipeline/180-angora-commercial-history-evidence-r111-2026-10-26.md)。增补 r109 未能取得的访谈及两份活动公告；主体未确认、首次海关出口年份未证，公告报名数不是出席人数。**修正本轮对 r110 C04 的错误转述**：r110 原文已标注日期冲突未校准，本轮保留其谨慎口径，不倒填旧网页采集日。用户已 PASS 的事项不重新开启。

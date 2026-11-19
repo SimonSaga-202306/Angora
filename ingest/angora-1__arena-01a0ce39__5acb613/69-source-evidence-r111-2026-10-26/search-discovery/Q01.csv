@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q01,1,1,"Angora Networks, Kanal Ortakları Zirvede Buluşuyor",https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor,,already covered r108; lead only
+Q01,2,2,06-ICT MEDIA HAZİRAN 2023 - Flipbook by ICTMEDIA,https://fliphtml5.com/kfal/hvxx/06-ICT_MEDIA_HAZI%CC%87RAN_2023/,"Saturday, June 03, 2023",not opened; reproduction may relate to already-studied interview and contains embedded PDF references
+Q01,3,3,"“Yerli bir üreticiye verilebilecek en büyük destek, onun ürünlerini kullanmaktır”",https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir,"Thursday, June 08, 2023",already covered r107/r109; not an independent new source
+Q01,4,4,BEE SD-WAN - Angora Networks,https://www.angoranetworks.com/network-packet-broker-test/?lang=en,"Wednesday, December 21, 2022",possible official HTML product page; compare against prior catalogue before separate fetching
+Q01,5,5,Angora Networks - Crunchbase Company Profile & Funding,https://www.crunchbase.com/organization/angora-networks,,directory metadata and identity unverified; not opened

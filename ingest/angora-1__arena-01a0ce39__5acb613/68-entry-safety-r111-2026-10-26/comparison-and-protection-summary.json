@@ -1,0 +1,10 @@
+{
+  "file_count": 868,
+  "bytes_read": 46015150,
+  "comparison_counts": {
+    "different_but_equal_to_remote_prior_protection": 32,
+    "same_as_remote": 836
+  },
+  "new_protected_variants": [],
+  "note": "full bytes read for safety hashes only; no PASS content displayed or interpreted; remote Git blob and mode comparisons; stash has not yet been performed"
+}

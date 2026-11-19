@@ -1,0 +1,5 @@
+query_id,query,purpose,guardrail,execution
+Q25,"site:tsg.tobb.org.tr ""ANGORA NETWORKS"" -filetype:pdf",look for trade registry organization indexed text,do not login or download PDF; zero result is not nonexistence; no contact,single serial call and immediate result metadata
+Q26,"site:tobb.org.tr ""ANGORA NETWORKS"" ""BİLİŞİM"" -filetype:pdf",look for chamber context for legal-name identity,do not open unrelated registry records or PDF; no contact,single serial call and immediate result metadata
+Q27,"site:tbd.org.tr ""Taylan Esen"" ""Angora"" -filetype:pdf",look for organizer corroboration of named event participant,no PDF and no contact; event mentions do not prove procurement,single serial call and immediate result metadata
+Q28,"site:kobi-efor.com.tr ""Angora Networks"" ""Taylan Esen"" -filetype:pdf",look for additional distinct dated media reports,do not treat publisher aliases as independent; if relevant separately prelist page before fetch; no PDF,single serial call and immediate result metadata

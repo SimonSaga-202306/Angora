@@ -1,0 +1,2 @@
+# Preserve r111 safety artifacts and protected bytes without line conversion.
+* -text

@@ -1,0 +1,7 @@
+attempt,command,result,scope_or_limit
+T01,python3 -m unittest discover -s tools -p test_verify_r111.py -v,PASS 7 tests,"temporary fixture tests exercise file hash and size, malformed CSV, anchors, chunk joins, append-only prefix and path escape; not end-to-end tampering of the real dossier"
+V01,python3 tools/verify_r111.py --write-summary,PASS before output manifest,"26 paths and 237155 bytes; 35 anchors; 28 queries; 868 local stash entries; 32 protected variants; 113 relative links; summary placeholder was replaced; later documentation changes require rerun"
+V02,python3 tools/verify_r111.py --write-summary,PASS before output manifest,"after documenting repeated X02 chunks; 114 relative links; summary intentionally reports output manifest not yet created"
+V03,python3 tools/verify_r111.py --write-summary,PASS before output manifest,"after adding audit links; 115 relative links; final output manifest was not yet created"
+T02,python3 -m unittest discover -s tools -p test_verify_r111.py -v,PASS 7 tests,repeat after output review changes; helper-level temporary fixtures only
+V04,python3 tools/verify_r111.py --write-summary,PASS before output manifest,"after output review links; 118 relative links; local stash present; output manifest was not yet created"

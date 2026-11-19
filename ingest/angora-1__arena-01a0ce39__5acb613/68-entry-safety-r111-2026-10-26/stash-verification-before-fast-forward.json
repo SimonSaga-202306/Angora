@@ -1,0 +1,8 @@
+{
+  "stash_commit": "5a38ec659918d57e09fada4f62a2e913f914d3dc",
+  "untracked_third_parent": "dc87d8a1f792d618a3d9ebb51868b7c3a3c8de3e",
+  "expected_paths": 868,
+  "actual_paths": 868,
+  "all_blob_and_mode_equal": true,
+  "limitation": "stash is local only and not a remote backup; verified remote equivalents or prior protected copies remain on fetched branch; stash is not popped"
+}

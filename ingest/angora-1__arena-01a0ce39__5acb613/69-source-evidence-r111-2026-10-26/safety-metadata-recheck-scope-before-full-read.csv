@@ -1,0 +1,4 @@
+source_id,repository_relative_path,bytes_before_full_read,purpose
+S01,ingest/angora-1__arena-01a0ce39__5acb613/68-entry-safety-r111-2026-10-26/incoming-scope-before-read.csv,121025,recheck all prelisted incoming paths and byte totals
+S02,ingest/angora-1__arena-01a0ce39__5acb613/68-entry-safety-r111-2026-10-26/incoming-read-inventory.csv,286248,recheck all 868 local blob and mode comparisons; partial header was inspected before this full-read scope
+S03,ingest/angora-1__arena-01a0ce39__5acb613/68-entry-safety-r111-2026-10-26/stash-untracked-tree-verification.csv,201836,recheck all 868 stash tree rows and mode; partial header was inspected before this full-read scope

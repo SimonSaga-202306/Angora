@@ -1,0 +1,11 @@
+{
+  "before_head": "691123abc7462489146cece19b81b4f917b58646",
+  "fetched_head": "9d8ad5d7123d3c2216032f327af09a7b14fb9cf6",
+  "after_head": "9d8ad5d7123d3c2216032f327af09a7b14fb9cf6",
+  "returncode": 0,
+  "stdout": "Updating 691123a..9d8ad5d\nFast-forward\n",
+  "stderr": "",
+  "environment_observation_utc": "2026-11-19T11:57:09.069628+00:00",
+  "monotonic_seconds": 141.940595705,
+  "guardrail": "fast-forward only; no reset, clean, branch switch or stash pop"
+}

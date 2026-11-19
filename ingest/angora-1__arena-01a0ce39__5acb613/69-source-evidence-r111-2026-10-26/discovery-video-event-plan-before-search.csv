@@ -1,0 +1,6 @@
+query_id,query,purpose,guardrail,execution
+Q15,"""Angora Networks"" ""Kamu BİB"" 2022 -filetype:pdf",find separate reports for the event in X02,no supplier directories; no contact; separate source identity,execute singly and record each result before next query
+Q16,"site:tbd.org.tr ""Angora Networks"" ""2022"" -filetype:pdf",seek organizer confirmation of event role,do not download PDF or infer procurement; metadata only until separately planned fetch,execute singly and record each result before next query
+Q17,"""yveHNxOXD3g"" ""Angora"" -filetype:pdf",find independent context for r109 V02 interview,do not download video or treat a search snippet as a transcript,execute singly and record each result before next query
+Q18,"""Angora Networks"" ""2021"" ""yurt dışı"" ""2020"" -filetype:pdf",seek dated corroboration of historical overseas-sales statement,no supplier directories or contact; overseas sales do not prove first customs export,execute singly and record each result before next query
+Q19,"site:angoranetworks.com ""Bilişim Teknolojileri"" -filetype:pdf",find official HTML with self-described entity names,no PDF or names from partner pages; do not treat vendor self-identification as registry proof,execute singly and record each result before next query

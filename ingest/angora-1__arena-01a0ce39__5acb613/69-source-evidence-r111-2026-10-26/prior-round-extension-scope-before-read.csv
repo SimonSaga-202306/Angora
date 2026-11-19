@@ -1,0 +1,5 @@
+repository_relative_path,bytes_before_read,purpose,guardrail
+ingest/angora-1__arena-01a0ce39__5acb613/61-source-evidence-r109-2026-10-26/external-fetch-plan-before-fetch.csv,1077,compare previously attempted video IDs,metadata inventories only; no stopped-party exploration or PDF
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/web-video-scope-before-fetch.csv,398,compare earlier attempted video IDs,metadata inventories only; no stopped-party exploration or PDF
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/web-event-visible-inventory.csv,728,compare prior event source identities and avoid duplication,metadata inventories only; no stopped-party exploration or PDF
+ingest/angora-1__arena-01a0ce39__5acb613/57-source-evidence-r108-2026-10-26/web-market-video-visible-inventory.csv,1988,compare earlier market-video source identities,metadata inventories only; no stopped-party exploration or PDF

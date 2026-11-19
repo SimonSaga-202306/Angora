@@ -1,0 +1,6 @@
+query_id,result_position,tool_result_id,title,url,page_age_as_reported,disposition
+Q19,1,1,Privacy Policy - Angora Networks,https://www.angoranetworks.com/privacy-policy/?lang=en,"Sunday, May 02, 2021",same vendor page as X05; not independent registry confirmation
+Q19,2,2,İş Ortakları - Angora Networks,https://www.angoranetworks.com/is-ortaklari/,"Saturday, October 01, 2022",partner list not opened; avoid stopped subjects
+Q19,3,3,Angora Networks ® completed the PacketFence NAC integration. - Angora Networks,https://www.angoranetworks.com/angora-networks-completed-the-cisco-ise-integration-2/?lang=en,"Friday, September 03, 2021",potential distinct vendor 802.1X NAC claim; URL slug and page title differ; prior-overlap and full text required
+Q19,4,4,"Angora Networks, EGM Trafik Şekillendirme gereklilik testlerini geçti - Angora Networks",https://www.angoranetworks.com/angora-networks-egm-trafik-sekillendirme-gereklilik-testlerini-gecti/,"Monday, June 15, 2026",covered r107; not proof of independent certificate
+Q19,5,5,Synapse Network Switch Ailesi - Angora Networks,https://www.angoranetworks.com/synapse-network-switch-ailesi/,"Thursday, January 15, 2026",covered r105; no PDF
