@@ -84,7 +84,8 @@ try:
     R89 = {}
     R90 = {}
     R91 = {}
-    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data', 'r85_appendix_data', 'r86_appendix_data', 'r87_appendix_data', 'r88_appendix_data', 'r89_appendix_data', 'r90_appendix_data', 'r91_appendix_data'):
+    R92 = {}
+    for _m in ('r48_appendix_data', 'r49_appendix_data', 'r50_appendix_data', 'r51_appendix_data', 'r52_appendix_data', 'r53_appendix_data', 'r54_appendix_data', 'r55_appendix_data', 'r56_appendix_data', 'r57_appendix_data', 'r58_appendix_data', 'r59_appendix_data', 'r60_appendix_data', 'r61_appendix_data', 'r62_appendix_data', 'r63_appendix_data', 'r64_appendix_data', 'r65_appendix_data', 'r66_appendix_data', 'r67_appendix_data', 'r68_appendix_data', 'r69_appendix_data', 'r70_appendix_data', 'r71_appendix_data', 'r72_appendix_data', 'r73_appendix_data', 'r74_appendix_data', 'r75_appendix_data', 'r76_appendix_data', 'r77_appendix_data', 'r78_appendix_data', 'r79_appendix_data', 'r80_appendix_data', 'r81_appendix_data', 'r82_appendix_data', 'r83_appendix_data', 'r84_appendix_data', 'r85_appendix_data', 'r86_appendix_data', 'r87_appendix_data', 'r88_appendix_data', 'r89_appendix_data', 'r90_appendix_data', 'r91_appendix_data', 'r92_appendix_data'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
         if os.path.exists(_p):
             _spec = _ilu.spec_from_file_location(_m, _p)
@@ -177,9 +178,11 @@ try:
                 R90.update(_mod.D)
             if _m == 'r91_appendix_data':
                 R91.update(_mod.D)
+            if _m == 'r92_appendix_data':
+                R92.update(_mod.D)
     # r88：避免同一 key 同时被 r48 通用块与 r88 标记块重复输出
     for _k in list(R48.keys()):
-        if _k in R88 or _k in R89 or _k in R90 or _k in R91:
+        if _k in R88 or _k in R89 or _k in R90 or _k in R91 or _k in R92:
             R48.pop(_k)
     for _m in ('b_deepdig_data_1', 'b_deepdig_data_2'):
         _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _m + '.py')
@@ -236,6 +239,7 @@ R88_MARK = '## 附：r88 TTK 交换机规格书是 D-Link 指纹与 Angora 的�
 R89_MARK = '## 附：r89 Angora 持有 EGM KGYS 合格证书与 TTK 全单适配（2026-10-26）'
 R90_MARK = '## 附：r90 能源渠道（EDAŞ/EÜAŞ/İSU）—— 唯一能查到交换机真实成交价的公共采购市场（2026-10-26）'
 R91_MARK = '## 附：r91 公共标的技术壁垒不在参数、在生态（锁死条款）与公示地图 v2（2026-10-26）'
+R92_MARK = '## 附：r92 投标资格是可审计的 —— Kamu Bilişim Yetki Belgesi（STB01）全解（2026-10-26）'
 
 
 def tier_letter(level):
@@ -910,6 +914,16 @@ def main():
             L.append('> 本节为 **r91（2026-10-26）**：**r89 把参数对完、r90 拿到成交价，本轮回答"参数全过为什么还是进不去" —— 因为墙是生态。** 范本是 **ETİ MADEN 技术规格书（44 台交换机 + 28 AP + 6,400 条跳线）**：**全部交换机必须同一品牌 + 必须列入 `Forescout 8.2` 兼容矩阵 + 光模块必须原厂（OEM 不接受）+ 无线须兼容现网 `Huawei AC6605` + 有线须被 `Huawei E-Sight` 纳管 + 48 口须能与 `Huawei S5735-S48P4X` 堆叠** ⇒ **这不是买 44 台交换机，这是买华为**。⇒ **修正 r89 的 SFP 结论**：出现"原厂光模块"条款时，SFP 只能做**隐形 ODM**（Angora 出标签/质保），不能直接卖。⇒ **TTK 中标方第四次不可查并给出机制**：**取消标不产生结果公告 ⇒ 应记为"不存在"而非"未获得"**。⇒ **渠道公示地图 v2**：Enerjisa 系网页表 + **UEDAŞ 一标一 PDF（含中标方与美元金额）** + OEDAŞ 编号页 + **TaahhütHaber 每日公报（专设 BOTAŞ/TPAO-ETİ MADEN-TKİ-TTK 组）**。⇒ **唯一不需换供应商就能解的生态门槛：`Forescout 8.2` 矩阵**。')
             L.append('')
             L.append(body_r91.strip('\n'))
+            L.append('')
+        body_r92 = R92.get(no)
+        if body_r92:
+            L.append('---')
+            L.append('')
+            L.append(R92_MARK)
+            L.append('')
+            L.append('> 本节为 **r92（2026-10-26）**：**把 r91 的第三层门槛（投标人层）拆到底 —— 那张证叫 `Kamu Bilişim Yetki Belgesi`（`STB01-####`），由 Sanayi ve Teknoloji Bakanlığı / Milli Teknoloji Genel Müdürlüğü 依 29.06.2022/31881 号 Yönetmelik 电子签发。** 门槛低得出奇：**MADDE 5(1)(a) 只要一份覆盖「至少一类 bilişim hizmet」的 TÜRKAK 抬头 `TS EN ISO/IEC 27001`** —— 不要业绩、不要资本、不要 62443、不要 CMMI（后两者只属 Yazılım / Sızma 证）；**≤2 个月审结**；**有效期 = 所交材料中最早到期者之日**（7 张实测 **197–355 天，无一张 3 年** ⇒ 二手「3 年」说法作废）。**但它是 e-Devlet + 土耳其税号专属 ⇒ 境外主体结构上不可得。** **KİK 的强制条款 `89/A`（2023-09-29 生效）只管 bilişim hizmet 标（含 doğrudan temin 与 4734 豁免），对 mal alımı 无强制** —— 而 2026 年已有 6 张货物标把它写进 `4.3.2`（含 Çankırı `2026/1967649`）⇒ **r91 的歧义答案是「KİK 未扩、采购人普遍自行扩用」：法律上可争议，事实上是硬墙。** **⭐ 唯一合法窗口：`Hizmet Alımı İhaleleri Uygulama Yönetmeliği 16.6.4` —— 采购人漏写的法定文件，评标阶段不得再索取、不得补交。** **⭐ 名单侧：Angora / Ultron / Trio / Cyberwise / GelecekBT / Snexus / Nokta / LINK 八家全部「未公示」**（对照组 10 家有公示）⇒ **r91 的「Angora = 投标资格壳」降级为未证实，壳更可能在持证集成商身上**；**最干净通道是货物标：我们卖裸机 → 持证集成商去投**（货物标分包不受 `89/A.5` 约束）。**核验**：`kamubilisim.sanayi.gov.tr/belgedogrulama`（按编号；⚠ 本沙箱不可达，界面未实证）。**⚠ 发证机关未随 2026-10-31 部委改组而变**（新设的是管部委自身基建的 Bilgi Teknolojileri GM，不是 Milli Teknoloji GM）。')
+            L.append('')
+            L.append(body_r92.strip('\n'))
             L.append('')
         out = os.path.join(OUT_DIR, letter, fname)
         io.open(out, 'w', encoding='utf-8').write('\n'.join(L))
