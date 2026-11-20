@@ -1,0 +1,9 @@
+{
+  "stash_commit": "1fac437530d484f48568b6d51b2e59eafe8e8d46",
+  "third_parent": "0de57e3d5b477119d6c6339fa5fcda2855fb8443",
+  "stash_paths": 868,
+  "matching_path_and_blob": 868,
+  "matching_scope_bytes": 46015150,
+  "new_inputs_and_safety_directory_excluded": true,
+  "keep_stash_do_not_pop_or_drop": true
+}

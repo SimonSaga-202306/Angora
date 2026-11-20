@@ -1,0 +1,12 @@
+{
+  "full_read_paths": 871,
+  "full_read_bytes": 46016890,
+  "original_paths": 868,
+  "original_bytes": 46015150,
+  "same_path_byte_identical": 836,
+  "other_path_byte_identical": 32,
+  "new_input_paths": 3,
+  "new_input_bytes": 1740,
+  "protected_new_input_copy_matches": 3,
+  "remote_tracking_commit": "2122d5f7992ac1f623736533473687ea15437498"
+}

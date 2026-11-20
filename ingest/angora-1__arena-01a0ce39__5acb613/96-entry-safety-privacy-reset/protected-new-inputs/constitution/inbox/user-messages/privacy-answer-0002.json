@@ -1,0 +1,10 @@
+{
+  "answers": [
+    {
+      "customResponse": null,
+      "questionId": "public_repository_privacy",
+      "selectedOptionId": "publish_all"
+    }
+  ],
+  "skipped": false
+}
