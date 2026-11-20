@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "9ba15ab53b884baea08d3237fa2eeb1d",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:23:53.114861+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/rules/06-complex-work.md",
+  "supersedes_record_id": null,
+  "note": "\u72ec\u7acb\u6d3e\u751f\u89c4\u5219\u6587\u4ef6\u7684\u5b57\u8282\u526f\u672c\uff1b\u4e0d\u66ff\u4ee3\u7528\u6237\u539f\u59cb\u6d88\u606f\u3002",
+  "original_relative_path": "constitution/rules/06-complex-work.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/rules/06-complex-work.md": {
+      "bytes": 1076,
+      "sha256": "985febc458ea13d4a401b6ef4fadfd5c3dc53418d747d010b8b86b201285c169"
+    }
+  }
+}

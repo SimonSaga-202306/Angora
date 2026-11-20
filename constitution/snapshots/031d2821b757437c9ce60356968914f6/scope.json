@@ -1,0 +1,198 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "031d2821b757437c9ce60356968914f6",
+  "listed_at_beijing_unverified": "2026-11-20T16:24:12.192934+08:00",
+  "clock_provenance": "system wall clock, synchronization unverified",
+  "files": [
+    {
+      "path": "records/events/26cdc49dfb7d4d179f06c0f2f462987e/event.bin",
+      "listed_bytes": 729,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/26cdc49dfb7d4d179f06c0f2f462987e/metadata.json",
+      "listed_bytes": 899,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/576d8adb921e4f81b635346fc2c45f39/event.bin",
+      "listed_bytes": 1239,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/576d8adb921e4f81b635346fc2c45f39/metadata.json",
+      "listed_bytes": 889,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7652dac4ce324a1195b10754309ff9b1/event.bin",
+      "listed_bytes": 830,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7652dac4ce324a1195b10754309ff9b1/metadata.json",
+      "listed_bytes": 909,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/aac96b9514c545b7ad7c52692d5260cc/event.bin",
+      "listed_bytes": 1339,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/aac96b9514c545b7ad7c52692d5260cc/metadata.json",
+      "listed_bytes": 914,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/ac1621c60e664e23a0e5941e1ac8c1c2/event.bin",
+      "listed_bytes": 972,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/ac1621c60e664e23a0e5941e1ac8c1c2/metadata.json",
+      "listed_bytes": 912,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7d0dcb0fdcce4f23a694919476f1a6ba/message.bin",
+      "listed_bytes": 174,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7d0dcb0fdcce4f23a694919476f1a6ba/metadata.json",
+      "listed_bytes": 1114,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7eae0be08c5845d2911ecccd3d0f54df/message.bin",
+      "listed_bytes": 669,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7eae0be08c5845d2911ecccd3d0f54df/metadata.json",
+      "listed_bytes": 1119,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7fe291c9d0024cc6aa02431ca854f3ce/message.bin",
+      "listed_bytes": 275,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7fe291c9d0024cc6aa02431ca854f3ce/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a385a8d924f043c58f4090ac0d2399c3/message.bin",
+      "listed_bytes": 227,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a385a8d924f043c58f4090ac0d2399c3/metadata.json",
+      "listed_bytes": 1117,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a90c5e540f7345809fc1093f9b621cbf/message.bin",
+      "listed_bytes": 300,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a90c5e540f7345809fc1093f9b621cbf/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/ab80aabf6aff4c57acbac8b2cf0654e0/message.bin",
+      "listed_bytes": 264,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/ab80aabf6aff4c57acbac8b2cf0654e0/metadata.json",
+      "listed_bytes": 1117,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/c58d945833dc490ab9716a2b7b18088b/message.bin",
+      "listed_bytes": 1300,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/c58d945833dc490ab9716a2b7b18088b/metadata.json",
+      "listed_bytes": 1114,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/f6f8315353d94c039590865f8748f7d3/message.bin",
+      "listed_bytes": 231,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/f6f8315353d94c039590865f8748f7d3/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d4f71a426c8453d9ab8adb476ca226c/files/constitution/rules/01-no-merging.md",
+      "listed_bytes": 1149,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d4f71a426c8453d9ab8adb476ca226c/metadata.json",
+      "listed_bytes": 1054,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8aebb79700174d0b9b52c9fe7eb36d2c/files/constitution/rules/02-message-time-version.md",
+      "listed_bytes": 1606,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8aebb79700174d0b9b52c9fe7eb36d2c/metadata.json",
+      "listed_bytes": 1084,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ba15ab53b884baea08d3237fa2eeb1d/files/constitution/rules/06-complex-work.md",
+      "listed_bytes": 1076,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ba15ab53b884baea08d3237fa2eeb1d/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cc95c7334e514b74804f1fa25f6765a7/files/constitution/rules/04-sources-and-failures.md",
+      "listed_bytes": 1919,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cc95c7334e514b74804f1fa25f6765a7/metadata.json",
+      "listed_bytes": 1084,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8ef6c887b17404c8f4bc73d76bd85ee/files/constitution/rules/05-sandbox-recovery.md",
+      "listed_bytes": 1262,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8ef6c887b17404c8f4bc73d76bd85ee/metadata.json",
+      "listed_bytes": 1072,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbb0d0969d124cd7b1ed07c2a2dbcfd5/files/constitution/rules/03-verification.md",
+      "listed_bytes": 1209,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbb0d0969d124cd7b1ed07c2a2dbcfd5/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    }
+  ]
+}

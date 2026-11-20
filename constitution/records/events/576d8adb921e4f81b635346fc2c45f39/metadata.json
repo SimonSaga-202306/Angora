@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "576d8adb921e4f81b635346fc2c45f39",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:23:53.474768+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/plan-rebuild-after-reset.md",
+  "supersedes_record_id": null,
+  "note": "\u6bcf\u4e2a\u95ee\u9898\u6216\u8ba1\u5212\u72ec\u7acb\u8bb0\u5f55\u3002",
+  "event_kind": "plan",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 1239,
+      "sha256": "802bfbca900078553b2e332759395b7007eb591a20787a0cfac2ca966bd8e204"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "ac1621c60e664e23a0e5941e1ac8c1c2",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:23:53.246412+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/issues/implementation-002-success-inventory-gap.md",
+  "supersedes_record_id": null,
+  "note": "\u6bcf\u4e2a\u95ee\u9898\u6216\u8ba1\u5212\u72ec\u7acb\u8bb0\u5f55\u3002",
+  "event_kind": "issue",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 972,
+      "sha256": "6e7f3a8db6dd0fbc47edca962a3695931df731b6e90ed22f704f698608d7d493"
+    }
+  }
+}

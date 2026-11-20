@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "7d0dcb0fdcce4f23a694919476f1a6ba",
+  "type": "message",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:23:52.076760+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/inbox/user-messages/privacy-answer-0002.json",
+  "supersedes_record_id": null,
+  "note": "\u5355\u6761\u53ef\u89c1\u6d88\u606f\u7684\u4eba\u5de5\u8f6c\u5b58\uff1b\u91cd\u7f6e\u524d\u5185\u5bb9\u4f9d\u636e\u4ecd\u53ef\u89c1\u5de5\u5177\u8c03\u7528\u91cd\u5efa\uff0c\u5e73\u53f0\u534f\u8bae\u5b57\u8282\u53ca\u771f\u5b9e\u6536\u53d1\u65f6\u95f4\u672a\u77e5\u3002",
+  "role": "user",
+  "outcome": "copied",
+  "files": {
+    "message.bin": {
+      "bytes": 174,
+      "sha256": "d042f29a2146317241ba0141e48db1f90971d2e313d2feb6877bb70da6a8a280"
+    }
+  }
+}

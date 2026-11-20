@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "7eae0be08c5845d2911ecccd3d0f54df",
+  "type": "message",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:23:52.143344+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "manual_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/inbox/assistant-messages/privacy-question-0001.txt",
+  "supersedes_record_id": null,
+  "note": "\u5355\u6761\u53ef\u89c1\u6d88\u606f\u7684\u4eba\u5de5\u8f6c\u5b58\uff1b\u91cd\u7f6e\u524d\u5185\u5bb9\u4f9d\u636e\u4ecd\u53ef\u89c1\u5de5\u5177\u8c03\u7528\u91cd\u5efa\uff0c\u5e73\u53f0\u534f\u8bae\u5b57\u8282\u53ca\u771f\u5b9e\u6536\u53d1\u65f6\u95f4\u672a\u77e5\u3002",
+  "role": "assistant",
+  "outcome": "copied",
+  "files": {
+    "message.bin": {
+      "bytes": 669,
+      "sha256": "b691718e2a862a73c8fe9aaf9f023ecc279ebdfee5857922ad0f93eadb9fcbca"
+    }
+  }
+}

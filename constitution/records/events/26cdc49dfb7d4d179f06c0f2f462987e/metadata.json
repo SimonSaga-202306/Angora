@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "26cdc49dfb7d4d179f06c0f2f462987e",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:23:53.314327+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/issues/implementation-003-gh-field.md",
+  "supersedes_record_id": null,
+  "note": "\u6bcf\u4e2a\u95ee\u9898\u6216\u8ba1\u5212\u72ec\u7acb\u8bb0\u5f55\u3002",
+  "event_kind": "issue",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 729,
+      "sha256": "215d1aa8e9a5920586e6b0ad30223fafa8e56c75530170182f24f42f8c6e9b26"
+    }
+  }
+}

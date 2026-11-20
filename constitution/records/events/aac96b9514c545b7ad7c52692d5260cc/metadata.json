@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "aac96b9514c545b7ad7c52692d5260cc",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:23:53.402381+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/issues/sandbox-reset-during-privacy-confirmation.md",
+  "supersedes_record_id": null,
+  "note": "\u6bcf\u4e2a\u95ee\u9898\u6216\u8ba1\u5212\u72ec\u7acb\u8bb0\u5f55\u3002",
+  "event_kind": "issue",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 1339,
+      "sha256": "29c63f27722b62059c68fc1c2535d602df5b4e27bbe48d53f2668bd3356146e1"
+    }
+  }
+}
