@@ -1,0 +1,10 @@
+{
+  "query":"site:kirikkaleteknopark.com \"Ulubatlı\" \"Yahşihan\" iletişim",
+  "depth":"1",
+  "status":"success",
+  "capture_note":"Partial manual capture: unrelated result 2 contained a third-party mobile number, omitted to minimize third-party personal contact data. Result 1 is the park operator's generic footer, not Angora's verified legal address.",
+  "results":[
+    {"description":"## Öğrencilerden Kırıkkale Üniversitesi Teknopark’a Anlamlı Ziyaret\nYahşihan İlçe Millî Eğitim Müdürlüğü koordinasyonunda, Tutum, Yatırım ve Türk Malları Haftası kapsam... ### BİZE ULAŞIN\n\nYenişehir Mah. Ulubatlı Sok. No:3 Yahşihan / Kırıkkale\n\n+90 318 357 33 33\n\ninfo@kirikkaleteknopark.com","id":1,"title":"Haberler","url":"https://kirikkaleteknopark.com/haberler/"},
+    {"id":2,"title":"Firma Rehberi","url":"https://kirikkaleteknopark.com/firma-rehberi/","description":"[omitted: unrelated company contact details]"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "652e59a8fbe34d46bc4f94ffa70fe6c2",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:23:41.844313+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-first-failure.manual.txt",
+  "supersedes_record_id": null,
+  "note": "\u9996\u6b21\u6784\u5efa\u5931\u8d25\u5de5\u5177\u8f93\u51fa\u4eba\u5de5\u8f6c\u5f55\uff1b\u539f\u8fdb\u7a0b\u65e5\u5fd7\u672a\u91cd\u5b9a\u5411\u3002",
+  "event_kind": "issue",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 511,
+      "sha256": "af645601a9046b7e01a1085a0dbf7026384fad03ab2e1bbff51d7c562c48bf5e"
+    }
+  }
+}

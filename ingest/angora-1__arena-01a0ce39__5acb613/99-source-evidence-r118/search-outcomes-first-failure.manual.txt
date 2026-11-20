@@ -1,0 +1,9 @@
+Tool-visible bash result from the first search outcomes build attempt (manual transcription; original process log was not separately redirected):
+
+exit_code: 1
+stderr:
+Traceback (most recent call last):
+  File "<stdin>", line 14, in <module>
+KeyError: 'status'
+
+No search-outcomes CSV or summary was created in that failed attempt. Follow-up diagnostic found missing status in Q16, Q19 current version, and Q31. See search-status-correction-r118.md for the correction and the earlier Q19 correction-note error.

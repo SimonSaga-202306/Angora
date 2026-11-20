@@ -1,0 +1,7 @@
+key,path,listed_bytes,kind,supersedes,note
+Q16-revision,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q16.tool-visible.manual.revision-r1.json,2137,source,b11bfd731ab7480cbd219ffc12671202,保留旧稿后修正工具可见状态；非原始协议字节。
+Q19-revision,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q19.tool-visible.manual.revision-r2.json,3491,source,10acb6af250b4ae6a0597db564f69c39,保留旧稿后修正工具可见状态；非原始协议字节。
+Q31-revision,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q31.tool-visible.manual.revision-r1.json,1652,source,840c9ee144424a55b01aa97eeca540ad,保留旧稿后修正工具可见状态；非原始协议字节。
+Q19-correction-correction,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-status-correction-r118.md,1223,event,6e6c683f698e48da9e0501d4dc8f3c3a,具名修正先前错误纠正说明，并补记 Q16/Q31。
+search-build-failure,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-first-failure.manual.txt,511,event,,首次构建失败工具输出人工转录；原进程日志未重定向。
+P04-boundary-drift,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/chunk-boundary-drift-issue.md,822,event,,不同请求的边界不连续；原因未证。

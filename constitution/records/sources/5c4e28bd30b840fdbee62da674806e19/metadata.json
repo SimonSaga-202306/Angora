@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "5c4e28bd30b840fdbee62da674806e19",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:33:10.296832+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.completed.json",
+  "supersedes_record_id": "6c832154925f4a4e8be16dec8241dca2",
+  "note": "\u72ec\u7acb\u4fdd\u7559\u7684\u9a8c\u8bc1\u8fdb\u5ea6\u7248\u672c\uff0cGit \u68c0\u67e5\u4ecd\u5f85\u5b8c\u6210\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.completed.json",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.completed.json": {
+      "bytes": 961,
+      "sha256": "7a0dd57a8eaf9416367ee8aa99fe212adda1339a62cf241493003d5c9a3f9d6f"
+    }
+  }
+}

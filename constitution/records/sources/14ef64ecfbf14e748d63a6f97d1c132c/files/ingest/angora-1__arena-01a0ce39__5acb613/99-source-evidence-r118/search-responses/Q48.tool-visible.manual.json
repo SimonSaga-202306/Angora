@@ -1,0 +1,10 @@
+{
+  "query":"site:kku.edu.tr \"Teknopark\" \"Ulubatlı\" \"Yahşihan\"",
+  "depth":"1",
+  "capture_note":"Manual transcription of tool-visible response; not protocol bytes or automatically compared. The university address below describes KÜBTUAM opposite the park, not an Angora branch.",
+  "results":[
+    {"description":"#### İletişim\n#### Projeler\n\n- Kırıkkale Üniversitesi, Şehitler Kampüsü, 71450   Yahşiha n /  KIRIKKALE\n- 0318 357 42 42 ## İletişim Bilgileri\n📍 **Adres:**\n\nKırıkkale Üniversitesi Bilimsel ve Teknolojik Araştırmalar Uygulama ve Araştırma Merkezi (**KÜBTUAM**) (TEKNOPARK karşısı) **Kat:1**\n\nKırıkkale Üniversitesi, Şehitler Kampüsü, 71450\n\nYahşihan / **KIRIKKALE**","id":1,"title":"Kırıkkale Üniversitesi","url":"https://kubtuam.kku.edu.tr/Idari/Sayfa/Index?Sayfa=TelefonDahili"},
+    {"description":"#### İletişim\n#### Projeler\n\n- Kırıkkale Üniversitesi, Şehitler Kampüsü, 71450  Yahşiha**n / KIRIKKALE**\n- 0318 357 42 42\n\nKırıkkale Üniversitesi\n\nBilimsel ve Teknolojik Araştırmalar Uygulama ve Araştırma Merkezi (KÜBTUAM) ## İletişim Bilgileri\n##### 📍 Adres:\nKırıkkale Üniversitesi Bilimsel ve Teknolojik Araştırmalar Uygulama ve Araştırma Merkezi (**KÜBTUAM**) (TEKNOPARK karşısı) **Kat:1**\n\nKırıkkale Üniversitesi, Şehitler Kampüsü, 71450\n\nYahşihan / **KIRIKKALE**","id":2,"title":"Kırıkkale Üniversitesi","url":"https://kubtuam.kku.edu.tr/Idari/Sayfa/Index?Sayfa=TelefonDahili&AspxAutoDetectCookieSupport=1"},
+    {"description":"### KOSGEB'e BASVURU\n**11.**  İşletmenizin bulunduğu yeri seçiniz. ÖRN : Teknopark Kırıkkale Üniversitesi Mühendislik Fakültesi 71450 Yahşihan / KIRIKKALE Tel:0 318 357 38 09 Faks:0 318 357 37 45 E-Posta:kirikkaletekmer@kku.edu.tr","id":3,"pageAge":"Friday, January 24, 2014","title":"KOSGEB'e BASVURU - TEKMER - Kırıkkale Üniversitesi","url":"https://tekmer.kku.edu.tr/basvuru.php"}
+  ]
+}

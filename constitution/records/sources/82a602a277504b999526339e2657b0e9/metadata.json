@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "82a602a277504b999526339e2657b0e9",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:32:46.207293+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-before-r118/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "supersedes_record_id": null,
+  "note": "r118 \u72ec\u7acb\u4ea4\u4ed8\u6216\u9a8c\u8bc1\u8bb0\u5f55\u7684\u672c\u5730\u5b57\u8282\u526f\u672c\uff1b\u4e0d\u66ff\u4ee3\u4e0a\u6e38\u6765\u6e90\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-before-r118/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-before-r118/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md": {
+      "bytes": 52917,
+      "sha256": "3cff35ed4d84c34450800cca1e22645c67c738561d8e21fc3287f79b6ab4acf5"
+    }
+  }
+}

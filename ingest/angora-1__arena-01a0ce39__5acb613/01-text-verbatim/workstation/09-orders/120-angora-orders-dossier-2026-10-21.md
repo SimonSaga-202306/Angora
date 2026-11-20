@@ -462,3 +462,5 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 - **r116 补充索引（独立附录）**：[2019 地址范围映射与科技园目录](120-angora-orders-dossier-2026-10-21.r116-appendix.md)；主体未确认，非合同、认证或交付证明。
 
 - r117 历史证据独立附录：[PEN 镜像、园区及同名辨别](120-angora-orders-dossier-2026-10-21.r117-appendix.md)；[主体映射](120-angora-orders-master-2026-10-21.mapping-r117.md)。
+
+- r118 独立附录：[Kırıkkale 分支候选与园区交叉证据](120-angora-orders-dossier-2026-10-21.r118-appendix.md)；[主体映射](120-angora-orders-master-2026-10-21.mapping-r118.md)。候选未核，法人主体未确认；不代表交易或入园日。

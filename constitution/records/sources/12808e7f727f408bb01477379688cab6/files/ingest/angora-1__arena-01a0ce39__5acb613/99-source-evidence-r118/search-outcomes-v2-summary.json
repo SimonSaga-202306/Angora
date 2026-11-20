@@ -1,0 +1,15 @@
+{
+  "planned_and_recorded_queries": 48,
+  "result_items_including_repeated_and_irrelevant": 104,
+  "zero_result_responses": 5,
+  "partially_redacted_responses": 19,
+  "manually_transcribed_unredacted_responses": 29,
+  "status_fields_corrected_in_separate_versions": [
+    "Q16",
+    "Q19",
+    "Q31",
+    "Q48"
+  ],
+  "supersedes_index": "search-outcomes.csv (46 queries); earlier index preserved",
+  "limitations": "counts from local transcription metadata, not independent sources; redacted results incomplete and transcription not byte-verified"
+}

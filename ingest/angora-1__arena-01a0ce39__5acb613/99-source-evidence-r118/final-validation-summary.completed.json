@@ -1,0 +1,13 @@
+{
+  "status": "local-checks-and-final-ledger-snapshot-completed-git-check-pending",
+  "local_validation_result": "local-verification-rerun-result.json",
+  "initial_local_validation_failure": "local-verification-first.exit.json",
+  "ledger_unit_tests_exit": "ledger-tests.exit.json",
+  "ledger_unit_tests_stderr": "ledger-tests.stderr.bin",
+  "ledger_final_snapshot_result": "final-ledger-snapshot.stdout.bin",
+  "ledger_final_verify_result": "final-ledger-verify.stdout.bin",
+  "ledger_final_snapshot_id": "5025e0046e5846f7b313ac1f70eae03e",
+  "final_git_scope": "final-stage-scope-before-read.csv",
+  "final_git_blob_verification": "final-stage-verification.json",
+  "notes": "The 83-file local rerun, 34 unit tests, and 187-record ledger snapshot verification succeeded. The final Git stage check is generated later. The earlier local-checkpoint and planned-and-pending versions are separately preserved; their source ledger records precede this revision."
+}

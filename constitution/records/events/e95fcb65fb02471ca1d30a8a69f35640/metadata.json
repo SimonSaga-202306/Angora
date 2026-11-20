@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "e95fcb65fb02471ca1d30a8a69f35640",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:23:41.894613+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/chunk-boundary-drift-issue.md",
+  "supersedes_record_id": null,
+  "note": "\u4e0d\u540c\u8bf7\u6c42\u7684\u8fb9\u754c\u4e0d\u8fde\u7eed\uff1b\u539f\u56e0\u672a\u8bc1\u3002",
+  "event_kind": "issue",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 822,
+      "sha256": "b460953b3c6332973cb9bccdc7e05c3cb5c3937b9cd27e8072d1a8bc15db824e"
+    }
+  }
+}

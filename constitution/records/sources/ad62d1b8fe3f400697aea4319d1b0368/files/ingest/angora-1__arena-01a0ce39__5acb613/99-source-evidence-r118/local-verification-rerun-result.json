@@ -1,0 +1,30 @@
+{
+  "outcome": "ok",
+  "scope_files_listed": 83,
+  "scope_files_fully_read": 83,
+  "bytes_read": 370711,
+  "checks_passed": 18,
+  "checks": [
+    "48 unique indexed queries",
+    "indexed bytes hashes queries statuses and item counts agree",
+    "reported index aggregate counts",
+    "candidate fields and unverified disclaimer",
+    "branch 2 of 2 separately transcribed",
+    "2023 park four local chunks no literal angora",
+    "park 8000 character boundaries plausible",
+    "2024 park name and domain line",
+    "interview generic technopark quote",
+    "2023 archive UTC to Beijing conversion",
+    "2024 archive UTC to Beijing conversion",
+    "P04 recorded response boundary drift",
+    "P01 P02 P03 P07 failed requests recorded separately",
+    "Q47 address absent from P08 tool text",
+    "four explicit JSON status repairs and Q19 earlier version had one valid status",
+    "dossier byte-identical preserved prefix and one r118 index",
+    "local Markdown links exist",
+    "source evidence CSV paths resolve"
+  ],
+  "relative_markdown_links_checked": 89,
+  "missing_local_links": [],
+  "limitation": "Only listed local bytes and structural assertions; not proof of source authenticity, independent evidence, complete external data, or exact manual transcription."
+}

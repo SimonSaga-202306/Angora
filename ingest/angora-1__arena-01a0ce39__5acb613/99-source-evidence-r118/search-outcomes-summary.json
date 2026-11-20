@@ -1,0 +1,13 @@
+{
+  "planned_and_recorded_queries": 46,
+  "result_items_including_repeated_and_irrelevant": 99,
+  "zero_result_responses": 5,
+  "partially_redacted_responses": 18,
+  "manually_transcribed_unredacted_responses": 28,
+  "status_fields_corrected_in_separate_versions": [
+    "Q16",
+    "Q19",
+    "Q31"
+  ],
+  "limitations": "counts are local transcription metadata, not independent sources; redacted results are incomplete and unredacted transcription is not byte-verified"
+}

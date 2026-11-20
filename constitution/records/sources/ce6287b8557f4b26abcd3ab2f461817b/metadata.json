@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "ce6287b8557f4b26abcd3ab2f461817b",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:32:45.812561+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/100-followup-angora-r118-2026-10-26/angora-networks.md",
+  "supersedes_record_id": null,
+  "note": "r118 \u72ec\u7acb\u4ea4\u4ed8\u6216\u9a8c\u8bc1\u8bb0\u5f55\u7684\u672c\u5730\u5b57\u8282\u526f\u672c\uff1b\u4e0d\u66ff\u4ee3\u4e0a\u6e38\u6765\u6e90\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/100-followup-angora-r118-2026-10-26/angora-networks.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/100-followup-angora-r118-2026-10-26/angora-networks.md": {
+      "bytes": 1648,
+      "sha256": "84c419e5c99eae1152f4d1b63079d749ee71ce998d205c8618a7d3d95405fe6c"
+    }
+  }
+}

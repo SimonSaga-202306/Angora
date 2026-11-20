@@ -1,0 +1,26 @@
+key,path,listed_bytes,kind,supersedes,note
+delivery-R,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/187-angora-kirikkale-branch-candidate-r118-2026-10-26.md,8737,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+delivery-D,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r118-appendix.md,2857,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+delivery-M,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r118.md,2576,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+delivery-F,ingest/angora-1__arena-01a0ce39__5acb613/100-followup-angora-r118-2026-10-26/angora-networks.md,1648,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+delivery-A,ingest/angora-1__arena-01a0ce39__5acb613/101-audit-r118-2026-10-26.md,3561,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+delivery-T,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/evidence-traceability.csv,3621,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+delivery-I,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/issues-and-corrections.md,3506,event,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+readme-initial,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/README.initial-version.md,3489,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+readme-bad,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/README.bad-link-revision.md,3483,source,readme-initial,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+readme-final,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/README.md,3489,source,readme-bad,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+dossier-before,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-before-r118/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,52917,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+dossier-after,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,53185,source,dossier-before,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+readme-double-correction,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/readme-double-correction-result.md,515,event,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+local-failure-stderr,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/local-verification-first.stderr.bin,418,event,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+search-index-v1,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes.csv,15720,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+search-summary-v1,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-summary.json,473,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+search-index-v2,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-v2.csv,16435,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+search-summary-v2,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-v2-summary.json,551,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+local-result,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/local-verification-rerun-result.json,1279,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+local-inventory,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/local-verification-rerun-inventory-after-read.csv,15886,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+ledger-tests-stderr,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/ledger-tests.stderr.bin,3995,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+ledger-tests-exit,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/ledger-tests.exit.json,16,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+dossier-append-check,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-append-verification.json,653,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+final-validation-plan,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.json,699,source,,r118 独立交付或验证记录的本地字节副本；不替代上游来源。
+final-validation-progress,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.completed.json,844,source,final-validation-plan,r118 独立交付或验证记录的本地字节副本；不替代上游来源。

@@ -1,0 +1,8 @@
+{
+  "outcome": "ok",
+  "files_listed": 176,
+  "files_fully_read": 176,
+  "bytes_read": 905663,
+  "sensitive_pattern_hits": [],
+  "limitations": "Only the specified simple credential patterns were scanned; this is not exhaustive privacy, secret or authorization review."
+}

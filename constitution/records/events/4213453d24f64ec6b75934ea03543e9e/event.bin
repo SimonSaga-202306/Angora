@@ -1,0 +1,9 @@
+Tool-visible result of the first v2 search-outcomes build (manually transcribed; process stderr was not independently redirected):
+
+exit_code: 1
+stderr:
+Traceback (most recent call last):
+  File "<stdin>", line 14, in <module>
+KeyError: 'status'
+
+No v2 index or summary was created by that failed attempt. Diagnostic: Q48's manually wrapped response omitted the tool's visible `status: success`. Keep the initial file and create a separate corrected version; do not claim the tool itself omitted it.

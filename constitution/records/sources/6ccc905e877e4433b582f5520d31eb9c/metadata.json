@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "6ccc905e877e4433b582f5520d31eb9c",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:23:41.645978+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q16.tool-visible.manual.revision-r1.json",
+  "supersedes_record_id": "b11bfd731ab7480cbd219ffc12671202",
+  "note": "\u4fdd\u7559\u65e7\u7a3f\u540e\u4fee\u6b63\u5de5\u5177\u53ef\u89c1\u72b6\u6001\uff1b\u975e\u539f\u59cb\u534f\u8bae\u5b57\u8282\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q16.tool-visible.manual.revision-r1.json",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q16.tool-visible.manual.revision-r1.json": {
+      "bytes": 2137,
+      "sha256": "8b3efa41a9dc09fcdf4253a46dae9dabec2398b7747bb7a1454154bb2ea680ea"
+    }
+  }
+}

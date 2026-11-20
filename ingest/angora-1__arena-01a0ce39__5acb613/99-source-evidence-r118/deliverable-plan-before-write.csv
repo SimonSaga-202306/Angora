@@ -1,0 +1,9 @@
+id,path,role
+R,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/187-angora-kirikkale-branch-candidate-r118-2026-10-26.md,main report with evidence strength and uncertainty
+D,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r118-appendix.md,separate dossier appendix and named r117 additions
+M,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r118.md,identity cross reference without merger
+F,ingest/angora-1__arena-01a0ce39__5acb613/100-followup-angora-r118-2026-10-26/angora-networks.md,single subject internal memo not contact
+A,ingest/angora-1__arena-01a0ce39__5acb613/101-audit-r118-2026-10-26.md,limitations audit test results and scope
+S,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/README.md,source directory and fidelity map
+T,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/evidence-traceability.csv,claim to per-source trace
+I,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/issues-and-corrections.md,separate corrections and incomplete data

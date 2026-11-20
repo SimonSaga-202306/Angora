@@ -1,0 +1,28 @@
+{
+  "query": "\"ANGORA NETWORKS\" site:gov.tr \"2023\" siber -pdf",
+  "depth": "1",
+  "capture_note": "Manual transcription of tool-visible response; not protocol bytes or automatically compared. PDF snippets despite -pdf; no PDFs opened.",
+  "results": [
+    {
+      "description": "The Eleventh Development Plan (2019-2023) has been prepared in Turkish. This is **ELEVENTH DEVELOPMENT PLAN 2019-2023**",
+      "id": 1,
+      "pageAge": "Sunday, January 01, 2023",
+      "title": "Eleventh Development Plan 2019-2023",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2022/07/Eleventh_Development_Plan_2019-2023.pdf"
+    },
+    {
+      "description": "Bu kapsamda 2023 yılı Mayıs ayı bülteninde Avrupa kıtasından; Almanya, Belçika, Altyapı Güvenlik Forumu’nda, deniz altı kablolarından uydulara kadar uzanan\n\nzorluklar da dahil olmak üzere, gelişmekte olan teknolojiler ve gelişen tehdit ortamı\n\nele alınmış olup bu alandaki en acil siber güvenlik konularının belirlenmesi\n\namaçlanmıştır.\n\n• ENISA tarafından düzenlenen 2023 Siber Güvenlik Sertifikasyon Konferansı, 25\n\nMayıs 2023'te Atina'da gerçekleştirilmiştir. B u karara karşı Telenet Piyasa Mahkemesi'nde iptal talebinde\n\nbulunmuştu. Piyasa Mahkemesi, 10 Mayıs 2023 tarihli kararında, BIPT'nin\n\noperatörlerin elektronik iletişim ağlarının ve hizmetlerinin güvenliğinin etkin bir şekilde\n\ngaranti altına alınmasını sağlama görevini teyit etmiştir.",
+      "id": 2,
+      "title": "Btk",
+      "url": "https://btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/05/3a8f7f8b-29c0-42c2-9f9c-de8b0e1063f9.pdf"
+    },
+    {
+      "description": "Ulaşım endüstrisi ve bilişim profesyonellerinin\n\nyeni nesil teknolojilere hazır olmaları için öğrenme ve bilgi aktarımı süreçleri ve yöntemleri\n\ngeliştirilir ve teşvik edilir.\n\nUlusal siber güvenliğe yönelik insan kaynakları kapasitesinin artırılması için çalışmalar\n\nyapılır. Tüm bireylerin siber güvenliği sağlamak ve risklerle mücadele etmek için gerekli\n\nyaklaşımları öğrenmeleri için farkındalığı artıracak ve gereksinim duyulan yetkinliği Ulusal siber güvenliğin sağlanması için gerekli düzenlemeler yapılır ve uluslararası\n\ndüzenlemeler ve standartlar dikkate alınarak ulusal siber güvenlik mevzuatı geliş tirilir.\n\nUlaştırma ve haberleşme teknolojilerinin uluslararası standartlarda geliştirilmesi ve işletilmesi Ülkemizin siber güvenlik\n\nalanında uluslararası alanda en üst sıralarda yer alması hedeflenirken, siber olay tespit ve\n\nmüdahale imkânları ve kabiliyetleri de geliştirilir. Kritik altyapılar başta olmak üzere tüm\n\nkesimlerin güvenli bir şekilde erişebilmesi için, risk analizleri yapılıp güvenli yazılımlar Yeni nesil bilgi ve iletişim tek nolojileriyle\n\nilgili güvenliği sağlamak için de öneriler geliştirilir.\n\nüniversiteler; bilgi paylaşımı ve iş birliği içinde hareket ederek siber güvenliği, siber olayların\n\nöncesinde, sırasında ve sonrasında alınacak tedbirlerin etkin bir şekilde koordine edilmesiyle\n\nsağlarlar.",
+      "id": 3,
+      "pageAge": "Friday, August 01, 2025",
+      "title": "ANKARA 2023 ÖZEL İHTİSAS KOMİSYONU RAPORU KARAYOLU ULAŞTIRMASI",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2025/08/Karayolu-Ulastirmasi-Ozel-Ihtisas-Komisyonu-Raporu_01082025.pdf"
+    }
+  ],
+  "status": "success"
+}

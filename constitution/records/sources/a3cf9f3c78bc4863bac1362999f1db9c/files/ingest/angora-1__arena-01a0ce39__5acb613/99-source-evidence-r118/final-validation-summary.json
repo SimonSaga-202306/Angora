@@ -1,0 +1,11 @@
+{
+  "status": "planned-and-pending",
+  "local_validation_result": "local-verification-result.json",
+  "initial_local_validation_failure": "local-verification-first.exit.json",
+  "ledger_unit_tests_result": "ledger-tests.exit.json",
+  "ledger_final_snapshot_result": "final-ledger-snapshot.stdout.bin",
+  "ledger_final_verify_result": "final-ledger-verify.stdout.bin",
+  "final_git_scope": "final-stage-scope-before-read.csv",
+  "final_git_blob_verification": "final-stage-verification.json",
+  "notes": "Paths point to separately generated outcomes; this is a plan, not a claim those files already exist. The result files and explicit exit codes are authoritative for the checks, not this index."
+}

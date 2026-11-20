@@ -1,0 +1,11 @@
+{
+  "original_path": "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "preserved_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-before-r118/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "before_bytes": 52917,
+  "before_sha256": "3cff35ed4d84c34450800cca1e22645c67c738561d8e21fc3287f79b6ab4acf5",
+  "append_bytes": 268,
+  "after_bytes": 53185,
+  "after_sha256": "19f7d2990d42400b144cf09017147b327ae4e3f55cc610ee1ad29c256b2f5941",
+  "original_prefix_byte_identical": true,
+  "before_equals_git_head": true
+}

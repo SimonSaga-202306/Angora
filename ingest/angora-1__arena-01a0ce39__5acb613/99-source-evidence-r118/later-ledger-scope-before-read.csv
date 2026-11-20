@@ -1,0 +1,9 @@
+key,path,listed_bytes,kind,method,supersedes_key
+Q47,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q47.protected-partial.json,959,source,tool_visible_transcription,
+Q48-initial,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q48.tool-visible.manual.json,1979,source,tool_visible_transcription,
+Q48-revision,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q48.tool-visible.manual.revision-r1.json,2125,source,tool_visible_transcription,Q48-initial
+P07-failure,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P07/response-0.error.json,285,event,tool_visible_transcription,
+P08-ch0,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P08/kirikkaleteknopark.com/haberler/chunk-0.visible.manual.md,6856,source,tool_visible_transcription,
+P08-meta,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P08/response-metadata.json,693,source,supplied_file,
+P08-drift,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P08/search-to-page-drift.md,764,event,supplied_file,
+v2-failure,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-v2-first-failure.manual.txt,500,event,manual_transcription,

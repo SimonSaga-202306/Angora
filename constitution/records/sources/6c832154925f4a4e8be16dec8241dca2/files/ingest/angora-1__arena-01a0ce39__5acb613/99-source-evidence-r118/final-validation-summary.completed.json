@@ -1,0 +1,12 @@
+{
+  "status": "local-checks-completed-final-git-check-pending",
+  "local_validation_result": "local-verification-rerun-result.json",
+  "initial_local_validation_failure": "local-verification-first.exit.json",
+  "ledger_unit_tests_exit": "ledger-tests.exit.json",
+  "ledger_unit_tests_stderr": "ledger-tests.stderr.bin",
+  "ledger_final_snapshot_result": "final-ledger-snapshot.stdout.bin",
+  "ledger_final_verify_result": "final-ledger-verify.stdout.bin",
+  "final_git_scope": "final-stage-scope-before-read.csv",
+  "final_git_blob_verification": "final-stage-verification.json",
+  "notes": "The 83-file rerun and 34 local tests succeeded. The referenced final snapshot and stage check are generated later; refer to their actual files for outcome. This separate index supersedes the earlier planned-and-pending index without overwriting it."
+}
