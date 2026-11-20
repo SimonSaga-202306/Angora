@@ -1,0 +1,9 @@
+{
+  "command": "python3 tools/test_constitution_ledger.py",
+  "exit_code": 0,
+  "elapsed_monotonic_seconds_same_process": 6.31143,
+  "finished_at_beijing_unverified": "2026-11-20T16:32:08.698897+08:00",
+  "stdout_bytes": 0,
+  "stderr_bytes": 3995,
+  "scope": "disposable local fixtures, no external network"
+}

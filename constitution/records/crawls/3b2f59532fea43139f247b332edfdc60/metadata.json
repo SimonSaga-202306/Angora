@@ -1,0 +1,36 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "3b2f59532fea43139f247b332edfdc60",
+  "type": "crawl",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:25:08.928050+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "authorization_note": "\u7528\u6237\u660e\u786e\u6307\u5b9a time.is \u5317\u4eac\u4f5c\u4e3a\u65f6\u95f4\u53c2\u8003\uff1b\u4e0d\u8bbf\u95ee\u5df2\u505c\u9879\u3002",
+  "requested_url": "https://time.is/Beijing",
+  "requested_url_withheld_reason": null,
+  "request_method": "GET",
+  "redirects_followed": false,
+  "request_authentication": "none supplied by this tool",
+  "headers_representation": "client-parsed pairs, not raw wire headers; sensitive headers redacted",
+  "body_representation": "HTTP entity bytes exposed by client after HTTP framing, not a raw network packet",
+  "max_bytes": 16777216,
+  "http_status": null,
+  "body_present": false,
+  "body_complete": false,
+  "truncated_by_limit": false,
+  "outcome": "recorded_with_failure",
+  "finished_at_beijing_unverified": "2026-11-20T16:25:08.975810+08:00",
+  "elapsed_monotonic_seconds_same_process": 0.047787,
+  "files": {
+    "response-headers.json": {
+      "bytes": 142,
+      "sha256": "1e44784ac5d84c8fe84fb3441cf2e40489a0a6b2459d04ed0bab40d2156aaad6"
+    },
+    "failure.txt": {
+      "bytes": 98,
+      "sha256": "1ad58b942a025398326d89ec57ad7cfea0f864b25ae2a0ea726b22ee4afb2367"
+    }
+  }
+}

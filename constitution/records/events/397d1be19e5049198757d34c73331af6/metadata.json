@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "397d1be19e5049198757d34c73331af6",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:28:16.810340+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/issues/time-is-city-count-check.md",
+  "supersedes_record_id": null,
+  "note": "\u9010\u9879\u8bb0\u5f55\u68c0\u67e5\u7ed3\u679c\u6216\u5df2\u77e5\u95ee\u9898\uff0c\u4fdd\u7559\u9996\u6b21\u5931\u8d25\u4e0e\u590d\u6838\u3002",
+  "event_kind": "issue",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 856,
+      "sha256": "ad0a75b7b12f170ba5dc7d702487cb7101c39c2e1f81fe4fe0e3dcc1b2f8814d"
+    }
+  }
+}

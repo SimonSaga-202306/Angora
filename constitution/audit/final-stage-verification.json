@@ -1,0 +1,9 @@
+{
+  "staged_paths": 159,
+  "matching_paths": 159,
+  "bytes_read": 486323,
+  "limited_secret_pattern_count": 4,
+  "potential_secret_paths": [],
+  "excludes_these_generated_results_until_separately_staged": true,
+  "limitations": "four pattern scan is not a guarantee of no secrets"
+}

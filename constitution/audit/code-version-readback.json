@@ -1,0 +1,28 @@
+[
+  {
+    "version": "cb1246f-git",
+    "path": "tools/constitution_ledger.py",
+    "bytes": 30163,
+    "sha256": "de1547418ba95061ad09306474baeb75bac41cc4262e0e7e7f74caa9200aff85",
+    "protected_copy": "constitution/history/constitution_ledger.py.cb1246f.txt"
+  },
+  {
+    "version": "working-tree",
+    "path": "tools/constitution_ledger.py",
+    "bytes": 30597,
+    "sha256": "7156a76ac2d22cad1ca0dd42b59c9af86d33f21f802ae32e83b21672dbc790b1"
+  },
+  {
+    "version": "cb1246f-git",
+    "path": "tools/test_constitution_ledger.py",
+    "bytes": 19151,
+    "sha256": "5339703f44bc8fda7b301f8c6c56dacea2641e509df0b407f2956deeb48df8e4",
+    "protected_copy": "constitution/history/test_constitution_ledger.py.cb1246f.txt"
+  },
+  {
+    "version": "working-tree",
+    "path": "tools/test_constitution_ledger.py",
+    "bytes": 20297,
+    "sha256": "55dd3adcc65d6dffc7b50d74bcf7d063e25b336d3e40bf71e6bb96febf89c2d4"
+  }
+]

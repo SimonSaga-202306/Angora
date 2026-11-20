@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "0f3387c974824208af333ca9c85fa898",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:30:19.914731+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/issues/readme-checkpoint-correction.md",
+  "supersedes_record_id": null,
+  "note": "\u5177\u540d\u66f4\u6b63\uff0c\u4fdd\u7559\u65e7\u7248\u3002",
+  "event_kind": "correction",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 440,
+      "sha256": "ca2bdf0362b56b35e01a2cc0a72dd6f85e8fc39b2343be8afe9be8044b4d9cbe"
+    }
+  }
+}

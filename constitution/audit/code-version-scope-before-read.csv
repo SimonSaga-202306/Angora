@@ -1,0 +1,5 @@
+version,path,listed_bytes
+cb1246f-git,tools/constitution_ledger.py,30163
+working-tree,tools/constitution_ledger.py,30597
+cb1246f-git,tools/test_constitution_ledger.py,19151
+working-tree,tools/test_constitution_ledger.py,20297

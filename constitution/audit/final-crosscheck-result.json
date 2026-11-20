@@ -1,0 +1,93 @@
+{
+  "outcome": "ok",
+  "checks": {
+    "full_read": {
+      "ok": true,
+      "detail": {
+        "listed": 243,
+        "read": 243,
+        "bytes": 1214559
+      }
+    },
+    "message_mapping": {
+      "ok": true,
+      "detail": {
+        "inbox_files": 10,
+        "matching_message_records": 10,
+        "upstream_fidelity": "not independently established"
+      }
+    },
+    "six_rules": {
+      "ok": true,
+      "detail": {
+        "separate_rules": 6,
+        "independent_source_records": 6
+      }
+    },
+    "version_chains_and_old_git_copies": {
+      "ok": true,
+      "detail": {
+        "version_counts": {
+          "constitution/policies/publication-consent.md": 2,
+          "constitution/README.md": 3,
+          "tools/constitution_ledger.py": 2,
+          "tools/test_constitution_ledger.py": 2
+        },
+        "old_git_blob_copies_compared": 4
+      }
+    },
+    "public_consent": {
+      "ok": true,
+      "detail": {
+        "user_choice": "publish_all",
+        "repo_is_private": false,
+        "credential_exception_retained": true
+      }
+    },
+    "time_source_limitations": {
+      "ok": true,
+      "detail": {
+        "raw_html_obtained": false,
+        "fetch_failure_preserved": true,
+        "observed_cities": 49,
+        "count_discrepancy_reason": "unknown"
+      }
+    },
+    "tests_and_snapshot": {
+      "ok": true,
+      "detail": {
+        "offline_tests": 34,
+        "test_exit_code": 0,
+        "snapshot_records": 62,
+        "logged_fetch_failures": 1
+      }
+    },
+    "entry_recovery": {
+      "ok": true,
+      "detail": {
+        "original_paths": 868,
+        "remote_same_path": 836,
+        "remote_other_path": 32,
+        "stash_checked_now": true,
+        "stash_not_durable": true
+      }
+    },
+    "local_links": {
+      "ok": true,
+      "detail": {
+        "markdown_files": 21,
+        "local_links_checked": 44
+      }
+    },
+    "limited_secret_patterns": {
+      "ok": true,
+      "detail": {
+        "files_scanned": 243,
+        "patterns": 4,
+        "limitation": "limited patterns cannot prove absence of credentials"
+      }
+    }
+  },
+  "scope_note": "only prelisted paths; excludes this report, inventory, scope CSV and later files",
+  "limits": "no proof of missing historical chat, platform transport bytes, webpage truth, or absolute completeness"
+}

@@ -1,0 +1,73 @@
+test_symlinked_records_root_rejected_by_verify (__main__.LedgerTests.test_symlinked_records_root_rejected_by_verify) ... FAIL
+test_symlinked_records_root_rejected_by_snapshot (__main__.LedgerTests.test_symlinked_records_root_rejected_by_snapshot) ... FAIL
+test_symlinked_snapshot_root_rejected (__main__.LedgerTests.test_symlinked_snapshot_root_rejected) ... FAIL
+
+======================================================================
+FAIL: test_symlinked_records_root_rejected_by_verify (__main__.LedgerTests.test_symlinked_records_root_rejected_by_verify)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/user/Angora/tools/test_constitution_ledger.py", line 347, in test_symlinked_records_root_rejected_by_verify
+    report = self.cli("verify", code=2)[0]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Angora/tools/test_constitution_ledger.py", line 91, in cli
+    self.assertEqual(proc.returncode, code, f"stdout={proc.stdout}\nstderr={proc.stderr}")
+AssertionError: 0 != 2 : stdout={
+  "outcome": "ok",
+  "records_checked": 0,
+  "payload_files_checked": 0,
+  "records_with_logged_failures": 0,
+  "snapshot": null,
+  "errors": [],
+  "limitation": "hashes check local bytes, not truth or completeness; pin snapshots in Git or another trusted system"
+}
+
+stderr=
+
+======================================================================
+FAIL: test_symlinked_records_root_rejected_by_snapshot (__main__.LedgerTests.test_symlinked_records_root_rejected_by_snapshot)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/user/Angora/tools/test_constitution_ledger.py", line 355, in test_symlinked_records_root_rejected_by_snapshot
+    self.cli("snapshot", code=2)
+  File "/home/user/Angora/tools/test_constitution_ledger.py", line 91, in cli
+    self.assertEqual(proc.returncode, code, f"stdout={proc.stdout}\nstderr={proc.stderr}")
+AssertionError: 0 != 2 : stdout={
+  "id": "6e374955511249a9b0c20ab9f71a03f2",
+  "directory": "/tmp/tmp1clkoyk0/ledger/snapshots/6e374955511249a9b0c20ab9f71a03f2",
+  "listed": 0,
+  "read": 0,
+  "bytes_read": 0,
+  "errors": []
+}
+
+stderr=
+
+======================================================================
+FAIL: test_symlinked_snapshot_root_rejected (__main__.LedgerTests.test_symlinked_snapshot_root_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/user/Angora/tools/test_constitution_ledger.py", line 365, in test_symlinked_snapshot_root_rejected
+    report = self.cli("verify", "--snapshot", snap["id"], code=2)[0]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Angora/tools/test_constitution_ledger.py", line 91, in cli
+    self.assertEqual(proc.returncode, code, f"stdout={proc.stdout}\nstderr={proc.stderr}")
+AssertionError: 0 != 2 : stdout={
+  "outcome": "ok",
+  "records_checked": 1,
+  "payload_files_checked": 1,
+  "records_with_logged_failures": 0,
+  "snapshot": {
+    "id": "a6eb9bf85dda4df0b4e7eaca25288052",
+    "baseline_files": 2,
+    "new_files_since_snapshot": []
+  },
+  "errors": [],
+  "limitation": "hashes check local bytes, not truth or completeness; pin snapshots in Git or another trusted system"
+}
+
+stderr=
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.503s
+
+FAILED (failures=3)

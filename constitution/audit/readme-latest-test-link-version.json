@@ -1,0 +1,6 @@
+{
+  "exit_code": 0,
+  "stdout": "{\n  \"id\": \"137ffe02cc82497f8634ee45a0ad4dd9\",\n  \"record_dir\": \"/home/user/Angora/constitution/records/sources/137ffe02cc82497f8634ee45a0ad4dd9\",\n  \"outcome\": \"copied\"\n}\n",
+  "stderr": "",
+  "supersedes": "6872075e2eef463f86137d075a82bf02"
+}

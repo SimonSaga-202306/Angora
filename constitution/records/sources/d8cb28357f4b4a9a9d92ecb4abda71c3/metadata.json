@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "d8cb28357f4b4a9a9d92ecb4abda71c3",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:32:56.541373+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/history/test_constitution_ledger.py.cb1246f.txt",
+  "supersedes_record_id": null,
+  "note": "\u6b64\u6587\u4ef6\u5b57\u8282\u526f\u672c\uff1b\u6d4b\u8bd5 stdout\u3001stderr\u3001\u7ed3\u679c\u548c\u4ee3\u7801\u7248\u672c\u5747\u5355\u72ec\u5b58\u653e\u3002",
+  "original_relative_path": "tools/test_constitution_ledger.py",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/tools/test_constitution_ledger.py": {
+      "bytes": 19151,
+      "sha256": "5339703f44bc8fda7b301f8c6c56dacea2641e509df0b407f2956deeb48df8e4"
+    }
+  }
+}

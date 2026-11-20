@@ -339,6 +339,32 @@ class LedgerTests(unittest.TestCase):
         self.cli("message", "--file", self.input, "--role", "user", "--method", "supplied_file", code=2)
         self.assertTrue(any("unexpected records entry" in e for e in self.cli("verify", code=2)[0]["errors"]))
 
+    def test_symlinked_records_root_rejected_by_verify(self):
+        self.root.mkdir()
+        outside = self.dir / "outside"
+        outside.mkdir()
+        (self.root / "records").symlink_to(outside, target_is_directory=True)
+        report = self.cli("verify", code=2)[0]
+        self.assertTrue(any("records root" in error for error in report["errors"]))
+
+    def test_symlinked_records_root_rejected_by_snapshot(self):
+        self.root.mkdir()
+        outside = self.dir / "outside"
+        outside.mkdir()
+        (self.root / "records").symlink_to(outside, target_is_directory=True)
+        self.cli("snapshot", code=2)
+        self.assertFalse((self.root / "snapshots").exists())
+
+    def test_symlinked_snapshot_root_rejected(self):
+        self.msg()
+        snap = self.cli("snapshot")[0]
+        snapshots = self.root / "snapshots"
+        outside = self.dir / "outside-snapshots"
+        snapshots.rename(outside)
+        snapshots.symlink_to(outside, target_is_directory=True)
+        report = self.cli("verify", "--snapshot", snap["id"], code=2)[0]
+        self.assertTrue(any("symlink" in error for error in report["errors"]))
+
     def test_recovery_plan_readonly_and_simulated_protection(self):
         repo = self.dir / "fixture-repo"
         repo.mkdir()

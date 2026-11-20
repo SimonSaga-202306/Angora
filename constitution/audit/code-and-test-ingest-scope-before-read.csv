@@ -1,0 +1,12 @@
+path,listed_bytes,kind,original_path
+constitution/history/constitution_ledger.py.cb1246f.txt,30163,code-old,tools/constitution_ledger.py
+tools/constitution_ledger.py,30597,code-new,tools/constitution_ledger.py
+constitution/history/test_constitution_ledger.py.cb1246f.txt,19151,code-old,tools/test_constitution_ledger.py
+tools/test_constitution_ledger.py,20297,code-new,tools/test_constitution_ledger.py
+constitution/issues/implementation-004-record-root-symlink.md,664,issue,
+constitution/audit/symlink-gap-before-fix.stdout.bin,0,source,constitution/audit/symlink-gap-before-fix.stdout.bin
+constitution/audit/symlink-gap-before-fix.stderr.bin,3446,source,constitution/audit/symlink-gap-before-fix.stderr.bin
+constitution/audit/symlink-gap-before-fix.result.json,183,source,constitution/audit/symlink-gap-before-fix.result.json
+constitution/audit/rebuilt-test-02.stdout.bin,0,source,constitution/audit/rebuilt-test-02.stdout.bin
+constitution/audit/rebuilt-test-02.stderr.bin,3995,source,constitution/audit/rebuilt-test-02.stderr.bin
+constitution/audit/rebuilt-test-02.result.json,310,source,constitution/audit/rebuilt-test-02.result.json

@@ -315,6 +315,8 @@ def capture_fetch(root: Path, args):
 
 def list_files(root: Path):
     base = root / "records"
+    if base.is_symlink():
+        raise ValueError("records root must not be a symlink")
     if not base.exists():
         return []
     entries = []
@@ -338,9 +340,10 @@ def list_files(root: Path):
 
 
 def snapshot(root: Path):
+    scoped_files = list_files(root)  # refuse a symlinked root before creating a snapshot directory
     ident, directory = allocate(root, "snapshots")
     scope = {"schema": SCHEMA, "id": ident, "listed_at_beijing_unverified": now_beijing(),
-             "clock_provenance": "system wall clock, synchronization unverified", "files": list_files(root)}
+             "clock_provenance": "system wall clock, synchronization unverified", "files": scoped_files}
     scope_bytes = encode(scope)
     write_new(directory / "scope.json", scope_bytes)  # list first, then read
     entries, errors = [], []
@@ -411,7 +414,9 @@ def validate_inventory(meta, bucket, declared):
 def verify(root: Path, snapshot_id: str | None):
     errors, count, files_checked, logged_failures = [], 0, 0, 0
     base = root / "records"
-    if base.exists():
+    if base.is_symlink():
+        errors.append("records root must not be a symlink")
+    elif base.exists():
         for bucket in sorted(base.iterdir()):
             if bucket.is_symlink() or not bucket.is_dir() or bucket.name not in BUCKETS:
                 errors.append(f"unexpected records entry: {bucket.relative_to(root)}")
@@ -468,6 +473,8 @@ def verify(root: Path, snapshot_id: str | None):
             if len(snapshot_id) != 32 or any(c not in "0123456789abcdef" for c in snapshot_id):
                 raise ValueError("invalid snapshot ID")
             directory = root / "snapshots" / snapshot_id
+            if (root / "snapshots").is_symlink() or directory.is_symlink():
+                raise ValueError("snapshot root or directory must not be a symlink")
             scope_bytes = (directory / "scope.json").read_bytes()
             scope = json.loads(scope_bytes)
             manifest = json.loads((directory / "manifest.json").read_bytes())

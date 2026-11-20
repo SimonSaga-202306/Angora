@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "d95b754961bd44889983e12d84bf0bf0",
+  "type": "message",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:33:53.610480+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "manual_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/inbox/assistant-messages/final-draft-0001.txt",
+  "supersedes_record_id": null,
+  "note": "\u62df\u5728\u5b8c\u6210\u6700\u7ec8\u63d0\u4ea4\u4e0e\u8fdc\u7aef\u6838\u9a8c\u540e\u53d1\u9001\u7684\u5355\u6761\u56de\u590d\u8349\u7a3f\uff1b\u5c1a\u672a\u53d1\u51fa\uff0c\u5b9e\u9645\u53d1\u9001\u65f6\u95f4\u548c\u5e73\u53f0 ID \u672a\u77e5\u3002",
+  "role": "assistant",
+  "outcome": "copied",
+  "files": {
+    "message.bin": {
+      "bytes": 548,
+      "sha256": "eb495045adef430472b543e6ceac4a77b896eb4e15c136c3abf5857a2dac73e2"
+    }
+  }
+}

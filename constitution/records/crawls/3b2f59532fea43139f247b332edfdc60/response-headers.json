@@ -1,0 +1,5 @@
+{
+  "response_present": false,
+  "representation": "client-parsed pairs, not raw wire headers; sensitive headers redacted",
+  "headers": []
+}

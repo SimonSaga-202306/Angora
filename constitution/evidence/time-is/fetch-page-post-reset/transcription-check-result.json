@@ -1,0 +1,20 @@
+{
+  "file": "constitution/evidence/time-is/fetch-page-post-reset/chunk-0.tool-visible-transcription.md",
+  "bytes_read": 4615,
+  "sha256": "893b93ca0e16807b8884715dd2b14c7236474b3e376b98b85fdebe9b6a37687c",
+  "city_link_count_including_heading": 50,
+  "checks": {
+    "time_042515pm": true,
+    "date_2026_11_20": true,
+    "utc_plus_8": true,
+    "iana_shanghai": true,
+    "table_la_minus16": true,
+    "table_sydney_plus3": true,
+    "city_count_50": false,
+    "first_city_baotou": true,
+    "last_city_urumqi": true,
+    "ending_cross": true
+  },
+  "limitation": "manual comparison of selected anchors only; not automatic byte comparison with tool response or original HTML",
+  "city_count_excluding_heading": 49
+}

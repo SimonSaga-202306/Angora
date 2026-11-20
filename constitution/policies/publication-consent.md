@@ -1,6 +1,6 @@
 # 公开仓库与用户决定
 
-本仓库经 `gh repo view --json nameWithOwner,isPrivate,url` 返回 `isPrivate: false`；本轮的查询失败与修正结果分别在 `../audit/gh-visibility-first.stderr.tool-visible.txt` 和 `../audit/gh-visibility-second.*` 留存。远端公开后任何人可访问；Git 历史中的内容可能难以彻底撤回。
+本仓库经 `gh repo view --json nameWithOwner,isPrivate,url` 返回 `isPrivate: false`。**重置后更正**：本页首个检查点版本引用的 `../audit/gh-visibility-first.stderr.tool-visible.txt` 与 `../audit/gh-visibility-second.*` 随重置消失；旧版未静默覆盖，见检查点 `adec2a0` 和[字节保护副本](../../ingest/angora-1__arena-01a0ce39__5acb613/96-entry-safety-privacy-reset/protected-new-inputs/constitution/policies/publication-consent.md)。原工具可见输出在 [`../evidence/github/`](../evidence/github/) 人工重建；重置后的独立重新查询原始输出也在该目录。远端公开后任何人可访问；Git 历史中的内容可能难以彻底撤回。
 
 针对公开风险，已向用户明确提供四项选择。用户选中 **`publish_all`／允许公开对话**：允许本轮及后续对话逐条推送公开仓库；凭据等禁止保存的内容除外。用户选择的工具可见结果独立转存见 [`../inbox/user-messages/privacy-answer-0002.json`](../inbox/user-messages/privacy-answer-0002.json)，对应问题及选项见 [`../inbox/assistant-messages/privacy-question-0001.txt`](../inbox/assistant-messages/privacy-question-0001.txt)。这两条不合并，工具转存不能证明平台协议字节或精确时间。
 

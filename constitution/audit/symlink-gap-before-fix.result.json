@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "expected": "failure before fix",
+  "elapsed_monotonic_seconds_same_process": 0.594037,
+  "finished_at_beijing_unverified": "2026-11-20T16:31:21.706730+08:00"
+}

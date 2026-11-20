@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "fa5ec7fb42fd4f90a80b5a2f0f8483d4",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:28:16.173094+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/evidence/time-is/fetch-page-post-reset/transcription-check-result.json",
+  "supersedes_record_id": null,
+  "note": "\u9010\u9879\u8bb0\u5f55\u68c0\u67e5\u7ed3\u679c\u6216\u5df2\u77e5\u95ee\u9898\uff0c\u4fdd\u7559\u9996\u6b21\u5931\u8d25\u4e0e\u590d\u6838\u3002",
+  "event_kind": "check",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 720,
+      "sha256": "6e3c52463d43fa63ba184dad5b4f7a6dc349bdb5db09f5799b666f90f9bbc24e"
+    }
+  }
+}

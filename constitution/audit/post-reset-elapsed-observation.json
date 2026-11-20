@@ -1,0 +1,8 @@
+{
+  "post_reset_entry_monotonic": 89.434106685,
+  "end_monotonic": 1311.543447356,
+  "elapsed_seconds_same_observed_environment": 1222.109,
+  "last_observed_boot_id": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "beijing_wall_at_end_unverified": "2026-11-20T16:36:32.797501+08:00",
+  "interpretation": "elapsed includes thinking and tool wait, not continuous hands-on work; no cross-reset subtraction and no sleeping to inflate time"
+}
