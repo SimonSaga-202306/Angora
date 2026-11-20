@@ -1,0 +1,1913 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "29ba77a40c4a42e384229aed173f025e",
+  "listed_at_beijing_unverified": "2026-11-20T20:34:34.614276+08:00",
+  "clock_provenance": "system wall clock, synchronization unverified",
+  "files": [
+    {
+      "path": "records/crawls/3b2f59532fea43139f247b332edfdc60/failure.txt",
+      "listed_bytes": 98,
+      "kind": "file"
+    },
+    {
+      "path": "records/crawls/3b2f59532fea43139f247b332edfdc60/metadata.json",
+      "listed_bytes": 1535,
+      "kind": "file"
+    },
+    {
+      "path": "records/crawls/3b2f59532fea43139f247b332edfdc60/response-headers.json",
+      "listed_bytes": 142,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/0f3387c974824208af333ca9c85fa898/event.bin",
+      "listed_bytes": 440,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/0f3387c974824208af333ca9c85fa898/metadata.json",
+      "listed_bytes": 893,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/156176d229b54e9f89878515f18d8520/event.bin",
+      "listed_bytes": 418,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/156176d229b54e9f89878515f18d8520/metadata.json",
+      "listed_bytes": 1032,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/1d5d5332028241c7b29b9c14dd464fd4/event.bin",
+      "listed_bytes": 344,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/1d5d5332028241c7b29b9c14dd464fd4/metadata.json",
+      "listed_bytes": 1025,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/1dc5c25d2e4546b1b6bfc5ff7ee05fa1/event.bin",
+      "listed_bytes": 515,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/1dc5c25d2e4546b1b6bfc5ff7ee05fa1/metadata.json",
+      "listed_bytes": 1031,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/26cdc49dfb7d4d179f06c0f2f462987e/event.bin",
+      "listed_bytes": 729,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/26cdc49dfb7d4d179f06c0f2f462987e/metadata.json",
+      "listed_bytes": 899,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/2bcc66498af64722a255258a729d7450/event.bin",
+      "listed_bytes": 296,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/2bcc66498af64722a255258a729d7450/metadata.json",
+      "listed_bytes": 1025,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/2deba16fd9c0431f93bf83505c678d2f/event.bin",
+      "listed_bytes": 1321,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/2deba16fd9c0431f93bf83505c678d2f/metadata.json",
+      "listed_bytes": 1008,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/367e279f7fd24670a947172f401bb522/event.bin",
+      "listed_bytes": 764,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/367e279f7fd24670a947172f401bb522/metadata.json",
+      "listed_bytes": 1093,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/397d1be19e5049198757d34c73331af6/event.bin",
+      "listed_bytes": 856,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/397d1be19e5049198757d34c73331af6/metadata.json",
+      "listed_bytes": 968,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/4213453d24f64ec6b75934ea03543e9e/event.bin",
+      "listed_bytes": 500,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/4213453d24f64ec6b75934ea03543e9e/metadata.json",
+      "listed_bytes": 1096,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/4bf2033f92a14dee99c8dd9cbe915496/event.bin",
+      "listed_bytes": 3506,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/4bf2033f92a14dee99c8dd9cbe915496/metadata.json",
+      "listed_bytes": 1023,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/57041e099a964664a8a3ccfbc6f24ac5/event.bin",
+      "listed_bytes": 1550,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/57041e099a964664a8a3ccfbc6f24ac5/metadata.json",
+      "listed_bytes": 995,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/576d8adb921e4f81b635346fc2c45f39/event.bin",
+      "listed_bytes": 1239,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/576d8adb921e4f81b635346fc2c45f39/metadata.json",
+      "listed_bytes": 889,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/5bb7a63b4d4b4b7c848e761f40d16c11/event.bin",
+      "listed_bytes": 664,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/5bb7a63b4d4b4b7c848e761f40d16c11/metadata.json",
+      "listed_bytes": 922,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/5e1a417cbeec4449b670cfe312a5a7cc/event.bin",
+      "listed_bytes": 1017,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/5e1a417cbeec4449b670cfe312a5a7cc/metadata.json",
+      "listed_bytes": 997,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/6187bfa66cb64e12b33f7ae4ce0a5c16/event.bin",
+      "listed_bytes": 1339,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/6187bfa66cb64e12b33f7ae4ce0a5c16/metadata.json",
+      "listed_bytes": 984,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/64ddbfd340034972b57b1d1806de798a/event.bin",
+      "listed_bytes": 827,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/64ddbfd340034972b57b1d1806de798a/metadata.json",
+      "listed_bytes": 948,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/652e59a8fbe34d46bc4f94ffa70fe6c2/event.bin",
+      "listed_bytes": 511,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/652e59a8fbe34d46bc4f94ffa70fe6c2/metadata.json",
+      "listed_bytes": 1032,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/6e6c683f698e48da9e0501d4dc8f3c3a/event.bin",
+      "listed_bytes": 280,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/6e6c683f698e48da9e0501d4dc8f3c3a/metadata.json",
+      "listed_bytes": 1004,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/71e08c50473546f2abc8f979592e0031/event.bin",
+      "listed_bytes": 344,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/71e08c50473546f2abc8f979592e0031/metadata.json",
+      "listed_bytes": 1025,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7634463515544b38ae22aa933e8886dd/event.bin",
+      "listed_bytes": 1223,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7634463515544b38ae22aa933e8886dd/metadata.json",
+      "listed_bytes": 1015,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7652dac4ce324a1195b10754309ff9b1/event.bin",
+      "listed_bytes": 830,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7652dac4ce324a1195b10754309ff9b1/metadata.json",
+      "listed_bytes": 909,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/8f201c40367c4265b3a158921087fc12/event.bin",
+      "listed_bytes": 417,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/8f201c40367c4265b3a158921087fc12/metadata.json",
+      "listed_bytes": 1052,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/a8fddc438bc0452ea13bb7039d9e413d/event.bin",
+      "listed_bytes": 887,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/a8fddc438bc0452ea13bb7039d9e413d/metadata.json",
+      "listed_bytes": 1008,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/a9a01b44d69e44d7b051b288ebe00427/event.bin",
+      "listed_bytes": 460,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/a9a01b44d69e44d7b051b288ebe00427/metadata.json",
+      "listed_bytes": 1015,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/aac96b9514c545b7ad7c52692d5260cc/event.bin",
+      "listed_bytes": 1339,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/aac96b9514c545b7ad7c52692d5260cc/metadata.json",
+      "listed_bytes": 914,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/ac1621c60e664e23a0e5941e1ac8c1c2/event.bin",
+      "listed_bytes": 972,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/ac1621c60e664e23a0e5941e1ac8c1c2/metadata.json",
+      "listed_bytes": 912,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/b743d8d59e654df38fc61f9097b767b4/event.bin",
+      "listed_bytes": 697,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/b743d8d59e654df38fc61f9097b767b4/metadata.json",
+      "listed_bytes": 904,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/e17e447b5ddf42df8dea2676d8958d0b/event.bin",
+      "listed_bytes": 285,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/e17e447b5ddf42df8dea2676d8958d0b/metadata.json",
+      "listed_bytes": 1104,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/e95fcb65fb02471ca1d30a8a69f35640/event.bin",
+      "listed_bytes": 822,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/e95fcb65fb02471ca1d30a8a69f35640/metadata.json",
+      "listed_bytes": 991,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/f7c9f6431366418ab3c0003f80a8f6f2/event.bin",
+      "listed_bytes": 1528,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/f7c9f6431366418ab3c0003f80a8f6f2/metadata.json",
+      "listed_bytes": 972,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/fa5ec7fb42fd4f90a80b5a2f0f8483d4/event.bin",
+      "listed_bytes": 720,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/fa5ec7fb42fd4f90a80b5a2f0f8483d4/metadata.json",
+      "listed_bytes": 1004,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/fbb98dfc2bd641caaed419912a197ff6/event.bin",
+      "listed_bytes": 483,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/fbb98dfc2bd641caaed419912a197ff6/metadata.json",
+      "listed_bytes": 1004,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/13985281409c4de6bada28ed176e8a99/message.bin",
+      "listed_bytes": 134,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/13985281409c4de6bada28ed176e8a99/metadata.json",
+      "listed_bytes": 983,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/15373df0900a410090bff60f9348424d/message.bin",
+      "listed_bytes": 175,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/15373df0900a410090bff60f9348424d/metadata.json",
+      "listed_bytes": 1046,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/2af960438afe4af897259cf1fe9b422a/message.bin",
+      "listed_bytes": 111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/2af960438afe4af897259cf1fe9b422a/metadata.json",
+      "listed_bytes": 1042,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/3cd2f895994145049cf74d60e17fcc93/message.bin",
+      "listed_bytes": 319,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/3cd2f895994145049cf74d60e17fcc93/metadata.json",
+      "listed_bytes": 1030,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/696fad73d6dd4a219dad2aa8bdcfc6f7/message.bin",
+      "listed_bytes": 190,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/696fad73d6dd4a219dad2aa8bdcfc6f7/metadata.json",
+      "listed_bytes": 991,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/6ae48f40b2054cdaa97b59a8c93cfb14/message.bin",
+      "listed_bytes": 6,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/6ae48f40b2054cdaa97b59a8c93cfb14/metadata.json",
+      "listed_bytes": 1043,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7cd87541e0fa4d18babaa84afc4b561b/message.bin",
+      "listed_bytes": 177,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7cd87541e0fa4d18babaa84afc4b561b/metadata.json",
+      "listed_bytes": 976,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7d0dcb0fdcce4f23a694919476f1a6ba/message.bin",
+      "listed_bytes": 174,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7d0dcb0fdcce4f23a694919476f1a6ba/metadata.json",
+      "listed_bytes": 1114,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7eae0be08c5845d2911ecccd3d0f54df/message.bin",
+      "listed_bytes": 669,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7eae0be08c5845d2911ecccd3d0f54df/metadata.json",
+      "listed_bytes": 1119,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7fe291c9d0024cc6aa02431ca854f3ce/message.bin",
+      "listed_bytes": 275,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7fe291c9d0024cc6aa02431ca854f3ce/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a385a8d924f043c58f4090ac0d2399c3/message.bin",
+      "listed_bytes": 227,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a385a8d924f043c58f4090ac0d2399c3/metadata.json",
+      "listed_bytes": 1117,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a90c5e540f7345809fc1093f9b621cbf/message.bin",
+      "listed_bytes": 300,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a90c5e540f7345809fc1093f9b621cbf/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/ab80aabf6aff4c57acbac8b2cf0654e0/message.bin",
+      "listed_bytes": 264,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/ab80aabf6aff4c57acbac8b2cf0654e0/metadata.json",
+      "listed_bytes": 1117,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/c58d945833dc490ab9716a2b7b18088b/message.bin",
+      "listed_bytes": 1300,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/c58d945833dc490ab9716a2b7b18088b/metadata.json",
+      "listed_bytes": 1114,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/d95b754961bd44889983e12d84bf0bf0/message.bin",
+      "listed_bytes": 548,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/d95b754961bd44889983e12d84bf0bf0/metadata.json",
+      "listed_bytes": 1094,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/e740f228ff42453a9e63f26d35af5b63/message.bin",
+      "listed_bytes": 944,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/e740f228ff42453a9e63f26d35af5b63/metadata.json",
+      "listed_bytes": 978,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/e8cbe55b4f8c4215a794a0512513cf31/message.bin",
+      "listed_bytes": 575,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/e8cbe55b4f8c4215a794a0512513cf31/metadata.json",
+      "listed_bytes": 1106,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/f6f8315353d94c039590865f8748f7d3/message.bin",
+      "listed_bytes": 231,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/f6f8315353d94c039590865f8748f7d3/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/068ddf120379414cacbbe0678a23dc51/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-1.visible.manual.md",
+      "listed_bytes": 8316,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/068ddf120379414cacbbe0678a23dc51/metadata.json",
+      "listed_bytes": 1623,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/069bfd5bb7a94b46bbab62c2690e55b9/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q11.tool-visible.manual.json",
+      "listed_bytes": 3767,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/069bfd5bb7a94b46bbab62c2690e55b9/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/0862a822b8e64b34a4a94e4c070a0166/files/AGENTS.md",
+      "listed_bytes": 2682,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/0862a822b8e64b34a4a94e4c070a0166/metadata.json",
+      "listed_bytes": 946,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/09ecda5e00ea4426854261e1c20ca384/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q18.tool-visible.manual.json",
+      "listed_bytes": 1284,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/09ecda5e00ea4426854261e1c20ca384/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1025d923d649468c85cfd3c4e27e872c/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q04.protected-partial.json",
+      "listed_bytes": 2075,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1025d923d649468c85cfd3c4e27e872c/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/102a550beee84b7ea3eeb267910db547/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q08.tool-visible.manual.json",
+      "listed_bytes": 1276,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/102a550beee84b7ea3eeb267910db547/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/10acb6af250b4ae6a0597db564f69c39/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q19.tool-visible.manual.json",
+      "listed_bytes": 3337,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/10acb6af250b4ae6a0597db564f69c39/metadata.json",
+      "listed_bytes": 1400,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/12808e7f727f408bb01477379688cab6/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-v2-summary.json",
+      "listed_bytes": 551,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/12808e7f727f408bb01477379688cab6/metadata.json",
+      "listed_bytes": 1247,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/132653c4424c4f34932b6bdfe83f2a5a/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q34.tool-visible.manual.json",
+      "listed_bytes": 1335,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/132653c4424c4f34932b6bdfe83f2a5a/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/137ffe02cc82497f8634ee45a0ad4dd9/files/constitution/README.md",
+      "listed_bytes": 2480,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/137ffe02cc82497f8634ee45a0ad4dd9/metadata.json",
+      "listed_bytes": 1017,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1431e83f13304f43b86efc0bb565db18/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q33.tool-visible.manual.json",
+      "listed_bytes": 207,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1431e83f13304f43b86efc0bb565db18/metadata.json",
+      "listed_bytes": 1369,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/14ef64ecfbf14e748d63a6f97d1c132c/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q48.tool-visible.manual.json",
+      "listed_bytes": 1979,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/14ef64ecfbf14e748d63a6f97d1c132c/metadata.json",
+      "listed_bytes": 1352,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/16b3f2b48a374ecaa4a1ff181b739e0d/files/constitution/audit/symlink-gap-before-fix.result.json",
+      "listed_bytes": 183,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/16b3f2b48a374ecaa4a1ff181b739e0d/metadata.json",
+      "listed_bytes": 1126,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1793032e73f6494ea63e35b7ec01618a/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/README.initial-version.md",
+      "listed_bytes": 3489,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1793032e73f6494ea63e35b7ec01618a/metadata.json",
+      "listed_bytes": 1230,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/17b7a3d25d404dad975b8069ce3f8660/files/constitution/audit/rebuilt-test-02.result.json",
+      "listed_bytes": 310,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/17b7a3d25d404dad975b8069ce3f8660/metadata.json",
+      "listed_bytes": 1105,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/195ccd4294154273850fea2174b23836/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-v2.csv",
+      "listed_bytes": 16435,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/195ccd4294154273850fea2174b23836/metadata.json",
+      "listed_bytes": 1222,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1a3f95ff88c74ac39b0dfebdd5f67392/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q40.tool-visible.manual.json",
+      "listed_bytes": 1548,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1a3f95ff88c74ac39b0dfebdd5f67392/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1b42d30dc1fc48cd97950fce2be6c315/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/archive-index/A01/response-metadata.json",
+      "listed_bytes": 590,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/1b42d30dc1fc48cd97950fce2be6c315/metadata.json",
+      "listed_bytes": 1189,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/209ec135dc6242b9a1a4b238519a2c49/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q35.tool-visible.manual.json",
+      "listed_bytes": 5164,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/209ec135dc6242b9a1a4b238519a2c49/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/2a4108bfbbf34a89b1e03bdb85d50224/files/constitution/README.md",
+      "listed_bytes": 920,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/2a4108bfbbf34a89b1e03bdb85d50224/metadata.json",
+      "listed_bytes": 1011,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/2f2be260dc4d485194c1b1e576d9a742/files/constitution/policies/preexisting-boundaries.md",
+      "listed_bytes": 2150,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/2f2be260dc4d485194c1b1e576d9a742/metadata.json",
+      "listed_bytes": 1084,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/30f27a4c27004667aa14a3b8f0b3352e/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q15.tool-visible.manual.json",
+      "listed_bytes": 187,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/30f27a4c27004667aa14a3b8f0b3352e/metadata.json",
+      "listed_bytes": 1369,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/33c75880085f4f078519da72e5c95c7b/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q28.protected-partial.json",
+      "listed_bytes": 441,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/33c75880085f4f078519da72e5c95c7b/metadata.json",
+      "listed_bytes": 1363,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/33d0e5224c7e4e928801643e350e01c0/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/response-metadata.json",
+      "listed_bytes": 1026,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/33d0e5224c7e4e928801643e350e01c0/metadata.json",
+      "listed_bytes": 1175,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3560c31653af4256b31363556f1f5ddf/files/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+      "listed_bytes": 53185,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3560c31653af4256b31363556f1f5ddf/metadata.json",
+      "listed_bytes": 1348,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/36203f410d3147efb3618373f3e503f5/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q31.tool-visible.manual.revision-r1.json",
+      "listed_bytes": 1652,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/36203f410d3147efb3618373f3e503f5/metadata.json",
+      "listed_bytes": 1346,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/36bc8ff0666946d2a0547625394f6ed7/files/constitution/evidence/github/pre-reset-query-success.tool-visible.json",
+      "listed_bytes": 256,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/36bc8ff0666946d2a0547625394f6ed7/metadata.json",
+      "listed_bytes": 1207,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/37f532ed103a4c34b0641259d3ef4537/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q43.tool-visible.manual.json",
+      "listed_bytes": 609,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/37f532ed103a4c34b0641259d3ef4537/metadata.json",
+      "listed_bytes": 1369,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/39f711f2e6bf422a98f170672e00410f/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q45.protected-partial.json",
+      "listed_bytes": 2841,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/39f711f2e6bf422a98f170672e00410f/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d1194860f674e638eb79ffe318494bd/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q13.protected-partial.json",
+      "listed_bytes": 1234,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d1194860f674e638eb79ffe318494bd/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d4f71a426c8453d9ab8adb476ca226c/files/constitution/rules/01-no-merging.md",
+      "listed_bytes": 1149,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d4f71a426c8453d9ab8adb476ca226c/metadata.json",
+      "listed_bytes": 1054,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3e23fdaecaa443dea765d5dabf39ff92/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q48.tool-visible.manual.revision-r1.json",
+      "listed_bytes": 2125,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3e23fdaecaa443dea765d5dabf39ff92/metadata.json",
+      "listed_bytes": 1418,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4449d481537b45f095ad50751388eb1e/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q24.protected-partial.json",
+      "listed_bytes": 2960,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4449d481537b45f095ad50751388eb1e/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/469228aa0281473298da0a4490434ce5/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q39.tool-visible.manual.json",
+      "listed_bytes": 1543,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/469228aa0281473298da0a4490434ce5/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/46f72ace18c04283929520cb7a5d8bc2/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q17.protected-partial.json",
+      "listed_bytes": 1166,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/46f72ace18c04283929520cb7a5d8bc2/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4c8c7807152c44d08f15e16a6797d963/files/constitution/policies/preexisting-boundaries.md",
+      "listed_bytes": 1788,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4c8c7807152c44d08f15e16a6797d963/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4cb820bc611e40cbbc0eaa525e4baeed/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/time-reference/time.is/Beijing/query-angora-r118-reference/response-metadata.json",
+      "listed_bytes": 818,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4cb820bc611e40cbbc0eaa525e4baeed/metadata.json",
+      "listed_bytes": 1386,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4d902dafa3894a2f8a77495014366c3f/files/constitution/policies/publication-consent.md",
+      "listed_bytes": 1302,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4d902dafa3894a2f8a77495014366c3f/metadata.json",
+      "listed_bytes": 1173,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/536e522a2a8f4ad0a42e5d855334e37d/files/constitution/evidence/time-is/pre-reset-observation-02.md",
+      "listed_bytes": 502,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/536e522a2a8f4ad0a42e5d855334e37d/metadata.json",
+      "listed_bytes": 1168,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/53b9c1da7d694ac2a881300f8367f05f/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q38.tool-visible.manual.json",
+      "listed_bytes": 1578,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/53b9c1da7d694ac2a881300f8367f05f/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/53e59971d97949fd9cf80402814d3c75/files/constitution/evidence/time-is/fetch-page-before-observation.json",
+      "listed_bytes": 246,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/53e59971d97949fd9cf80402814d3c75/metadata.json",
+      "listed_bytes": 1140,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5605dd46eeb8422eb251ef3d7e33396f/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-1.visible.manual.md",
+      "listed_bytes": 8124,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5605dd46eeb8422eb251ef3d7e33396f/metadata.json",
+      "listed_bytes": 1521,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/56d21ee762ed4a9e8a0f1daaf6927439/files/constitution/evidence/time-is/direct-after-reset.stderr.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/56d21ee762ed4a9e8a0f1daaf6927439/metadata.json",
+      "listed_bytes": 1123,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/577730b7542a47f8a04107364f995f95/files/constitution/README.md",
+      "listed_bytes": 2796,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/577730b7542a47f8a04107364f995f95/metadata.json",
+      "listed_bytes": 985,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/58511a2fa8714739b5b74006af4d465b/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q27.tool-visible.manual.json",
+      "listed_bytes": 1269,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/58511a2fa8714739b5b74006af4d465b/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/59cd08f1eeb04368a8fdc7f5f5b47c94/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P08/kirikkaleteknopark.com/haberler/chunk-0.visible.manual.md",
+      "listed_bytes": 6856,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/59cd08f1eeb04368a8fdc7f5f5b47c94/metadata.json",
+      "listed_bytes": 1460,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5a499fa812734632909164016c8c98e2/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-2.visible.manual.md",
+      "listed_bytes": 4558,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5a499fa812734632909164016c8c98e2/metadata.json",
+      "listed_bytes": 1623,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5b47f0b225fc4aedba7954c436c64321/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/local-verification-rerun-inventory-after-read.csv",
+      "listed_bytes": 15886,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5b47f0b225fc4aedba7954c436c64321/metadata.json",
+      "listed_bytes": 1303,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5b786114651d44c495ca6c6b532f6543/files/constitution/audit/symlink-gap-before-fix.stderr.bin",
+      "listed_bytes": 3446,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5b786114651d44c495ca6c6b532f6543/metadata.json",
+      "listed_bytes": 1124,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5c4e28bd30b840fdbee62da674806e19/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.completed.json",
+      "listed_bytes": 961,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5c4e28bd30b840fdbee62da674806e19/metadata.json",
+      "listed_bytes": 1264,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5d83ea5d21374be6a524fd65ac05a260/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q06.tool-visible.manual.json",
+      "listed_bytes": 3300,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5d83ea5d21374be6a524fd65ac05a260/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/61dc5c266f904b26ae08d1fd63602efe/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q21.tool-visible.manual.json",
+      "listed_bytes": 180,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/61dc5c266f904b26ae08d1fd63602efe/metadata.json",
+      "listed_bytes": 1369,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/63076592a1be41c5bda334ef8c000112/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P05/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi/chunk-1.visible.manual.md",
+      "listed_bytes": 1581,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/63076592a1be41c5bda334ef8c000112/metadata.json",
+      "listed_bytes": 1686,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/64dcd747f2a1494fb532330530586f2e/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q36.tool-visible.manual.json",
+      "listed_bytes": 202,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/64dcd747f2a1494fb532330530586f2e/metadata.json",
+      "listed_bytes": 1369,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/64f7ab2c4a0349d58eff512425cfa7e9/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/time-reference/time.is/Beijing/query-angora-r118-reference/chunk-0.visible.manual.md",
+      "listed_bytes": 4602,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/64f7ab2c4a0349d58eff512425cfa7e9/metadata.json",
+      "listed_bytes": 1483,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/662e0b5e707a4f7ba125fa042d3201eb/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P05/response-metadata.json",
+      "listed_bytes": 1279,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/662e0b5e707a4f7ba125fa042d3201eb/metadata.json",
+      "listed_bytes": 1196,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/671539e285a14d46ac3b5bcef2980aa0/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q19.tool-visible.manual.revision-r2.json",
+      "listed_bytes": 3491,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/671539e285a14d46ac3b5bcef2980aa0/metadata.json",
+      "listed_bytes": 1346,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6872075e2eef463f86137d075a82bf02/files/constitution/README.md",
+      "listed_bytes": 2341,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6872075e2eef463f86137d075a82bf02/metadata.json",
+      "listed_bytes": 1015,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/696bac652e51424b9f3478184aa076e1/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q12.protected-partial.json",
+      "listed_bytes": 3131,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/696bac652e51424b9f3478184aa076e1/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6c832154925f4a4e8be16dec8241dca2/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.completed.json",
+      "listed_bytes": 844,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6c832154925f4a4e8be16dec8241dca2/metadata.json",
+      "listed_bytes": 1301,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6ccc905e877e4433b582f5520d31eb9c/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q16.tool-visible.manual.revision-r1.json",
+      "listed_bytes": 2137,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6ccc905e877e4433b582f5520d31eb9c/metadata.json",
+      "listed_bytes": 1346,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/70fe7f56d1b949ebae67ec7ba5fe8895/files/constitution/evidence/github/recheck.stderr.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/70fe7f56d1b949ebae67ec7ba5fe8895/metadata.json",
+      "listed_bytes": 1087,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/73502d7d8b304c65be93b1b6055c9b5b/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-append-verification.json",
+      "listed_bytes": 653,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/73502d7d8b304c65be93b1b6055c9b5b/metadata.json",
+      "listed_bytes": 1250,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/73a2ec866e7c47a88a849c83ddf8d110/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/ledger-tests.exit.json",
+      "listed_bytes": 16,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/73a2ec866e7c47a88a849c83ddf8d110/metadata.json",
+      "listed_bytes": 1219,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/772d786bd6174144a05fd3053b09e251/files/constitution/evidence/time-is/fetch-page-post-reset/response-metadata.tool-visible-transcription.json",
+      "listed_bytes": 420,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/772d786bd6174144a05fd3053b09e251/metadata.json",
+      "listed_bytes": 1300,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/773e53bc9b794d5f9b50ebd999f3ab03/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q10.protected-partial.json",
+      "listed_bytes": 1353,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/773e53bc9b794d5f9b50ebd999f3ab03/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/78abc5a375f447b596b0d17b357085ff/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q23.protected-partial.json",
+      "listed_bytes": 2062,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/78abc5a375f447b596b0d17b357085ff/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/7bad7e13df41474789237db859436377/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q30.protected-partial.json",
+      "listed_bytes": 1988,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/7bad7e13df41474789237db859436377/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/7d8879d22f2940cb9911bb181fc8f625/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-3.visible.manual.md",
+      "listed_bytes": 3497,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/7d8879d22f2940cb9911bb181fc8f625/metadata.json",
+      "listed_bytes": 1521,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/7f1b03483fa848daabe2b01cbbb791f3/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q14.protected-partial.json",
+      "listed_bytes": 1282,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/7f1b03483fa848daabe2b01cbbb791f3/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/80da1b86ba2b4a2a99833579b9e63f92/files/constitution/evidence/time-is/fetch-page-post-reset/chunk-0.tool-visible-transcription.md",
+      "listed_bytes": 4615,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/80da1b86ba2b4a2a99833579b9e63f92/metadata.json",
+      "listed_bytes": 1265,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/81416c8683274b53b96dd9004e58bbb7/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q19.tool-visible.manual.initial-version.json",
+      "listed_bytes": 3359,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/81416c8683274b53b96dd9004e58bbb7/metadata.json",
+      "listed_bytes": 1346,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/82a602a277504b999526339e2657b0e9/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/dossier-before-r118/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+      "listed_bytes": 52917,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/82a602a277504b999526339e2657b0e9/metadata.json",
+      "listed_bytes": 1450,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/82ff799267ec4f5abca95d8938d4ba77/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q47.protected-partial.json",
+      "listed_bytes": 959,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/82ff799267ec4f5abca95d8938d4ba77/metadata.json",
+      "listed_bytes": 1345,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8326c643532c443fbda043a0b6d89db1/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q22.tool-visible.manual.json",
+      "listed_bytes": 1243,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8326c643532c443fbda043a0b6d89db1/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/840c9ee144424a55b01aa97eeca540ad/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q31.tool-visible.manual.json",
+      "listed_bytes": 1514,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/840c9ee144424a55b01aa97eeca540ad/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/859d45f2ffec4d358b2de7af67a927b1/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-2.visible.manual.md",
+      "listed_bytes": 8115,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/859d45f2ffec4d358b2de7af67a927b1/metadata.json",
+      "listed_bytes": 1521,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8aebb79700174d0b9b52c9fe7eb36d2c/files/constitution/rules/02-message-time-version.md",
+      "listed_bytes": 1606,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8aebb79700174d0b9b52c9fe7eb36d2c/metadata.json",
+      "listed_bytes": 1084,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8bbba5baef5249568dbe0c1134f672cc/files/tools/constitution_ledger.py",
+      "listed_bytes": 30163,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8bbba5baef5249568dbe0c1134f672cc/metadata.json",
+      "listed_bytes": 1080,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8dd37bb219b448caaf50ed98b68b90ea/files/constitution/evidence/github/recheck.result.json",
+      "listed_bytes": 147,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8dd37bb219b448caaf50ed98b68b90ea/metadata.json",
+      "listed_bytes": 1092,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9295462b855042689d177a5e21d11342/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q07.protected-partial.json",
+      "listed_bytes": 4226,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9295462b855042689d177a5e21d11342/metadata.json",
+      "listed_bytes": 1394,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/939b747fb3294a24b9e10b4a41846d46/files/constitution/evidence/time-is/direct-after-reset.stdout.bin",
+      "listed_bytes": 206,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/939b747fb3294a24b9e10b4a41846d46/metadata.json",
+      "listed_bytes": 1125,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9735736c6d834446ad50181c251d5745/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-0.visible.manual.md",
+      "listed_bytes": 8092,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9735736c6d834446ad50181c251d5745/metadata.json",
+      "listed_bytes": 1521,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/975fac776c964604993493c28ca24668/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q03.protected-partial.json",
+      "listed_bytes": 1986,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/975fac776c964604993493c28ca24668/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ba15ab53b884baea08d3237fa2eeb1d/files/constitution/rules/06-complex-work.md",
+      "listed_bytes": 1076,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ba15ab53b884baea08d3237fa2eeb1d/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ec93884a92b46ee8678df4544ce8f58/files/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/187-angora-kirikkale-branch-candidate-r118-2026-10-26.md",
+      "listed_bytes": 8737,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ec93884a92b46ee8678df4544ce8f58/metadata.json",
+      "listed_bytes": 1401,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a0148aab351e4d7b9e037a5ca07c3d8b/files/constitution/evidence/time-is/fetch-page-after-observation.json",
+      "listed_bytes": 247,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a0148aab351e4d7b9e037a5ca07c3d8b/metadata.json",
+      "listed_bytes": 1137,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a21abaa98d31470f93e6e3fa5a1129d6/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q02.tool-visible.manual.json",
+      "listed_bytes": 4354,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a21abaa98d31470f93e6e3fa5a1129d6/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a3cf9f3c78bc4863bac1362999f1db9c/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-validation-summary.json",
+      "listed_bytes": 699,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a3cf9f3c78bc4863bac1362999f1db9c/metadata.json",
+      "listed_bytes": 1241,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a65ca1a9af864fa7916d4888992d8805/files/constitution/audit/rebuilt-test-02.stderr.bin",
+      "listed_bytes": 3995,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a65ca1a9af864fa7916d4888992d8805/metadata.json",
+      "listed_bytes": 1103,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a820a9656d394a94a460daea1ce6ac62/files/constitution/audit/symlink-gap-before-fix.stdout.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a820a9656d394a94a460daea1ce6ac62/metadata.json",
+      "listed_bytes": 1121,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a96458afec4344d198bec245fc757d65/files/tools/constitution_ledger.py",
+      "listed_bytes": 30597,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a96458afec4344d198bec245fc757d65/metadata.json",
+      "listed_bytes": 1083,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/aaaa458c1f4648b2a6aff699367d9629/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q05.tool-visible.manual.json",
+      "listed_bytes": 182,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/aaaa458c1f4648b2a6aff699367d9629/metadata.json",
+      "listed_bytes": 1369,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ac58cb1742c94f3b81ff765e7d2f6df4/files/constitution/OPERATING-GUIDE.md",
+      "listed_bytes": 6228,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ac58cb1742c94f3b81ff765e7d2f6df4/metadata.json",
+      "listed_bytes": 1012,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ad62d1b8fe3f400697aea4319d1b0368/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/local-verification-rerun-result.json",
+      "listed_bytes": 1279,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ad62d1b8fe3f400697aea4319d1b0368/metadata.json",
+      "listed_bytes": 1263,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/af5d960b87c649549c956bafb06805bb/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q44.tool-visible.manual.json",
+      "listed_bytes": 3642,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/af5d960b87c649549c956bafb06805bb/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/afd1c7ebf34b4930a457051430b20c9d/files/constitution/history/preexisting-boundaries-before-r118-7ce342a.md",
+      "listed_bytes": 1788,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/afd1c7ebf34b4930a457051430b20c9d/metadata.json",
+      "listed_bytes": 1126,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b11bfd731ab7480cbd219ffc12671202/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q16.tool-visible.manual.json",
+      "listed_bytes": 1991,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b11bfd731ab7480cbd219ffc12671202/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b4813182de4542f7bc8e77d5d98049bd/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-0.visible.manual.initial-version.md",
+      "listed_bytes": 8420,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b4813182de4542f7bc8e77d5d98049bd/metadata.json",
+      "listed_bytes": 1563,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b587d8810cbb4bbabebf2b54132d2a9a/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/response-metadata.json",
+      "listed_bytes": 953,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b587d8810cbb4bbabebf2b54132d2a9a/metadata.json",
+      "listed_bytes": 1195,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b6094803ae9f454fa4128cce9a15f3e2/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-0.visible.manual.md",
+      "listed_bytes": 8467,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b6094803ae9f454fa4128cce9a15f3e2/metadata.json",
+      "listed_bytes": 1653,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9ad383b2fb84c3996856cf88d52d879/files/constitution/evidence/github/pre-reset-query-failure.tool-visible.stderr.txt",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9ad383b2fb84c3996856cf88d52d879/metadata.json",
+      "listed_bytes": 1226,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9cca2dfcfdc49b89ecd13797ff63fe8/files/tools/test_constitution_ledger.py",
+      "listed_bytes": 20297,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9cca2dfcfdc49b89ecd13797ff63fe8/metadata.json",
+      "listed_bytes": 1098,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ba725537bc274fcc9beace4afadcb520/files/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r118-appendix.md",
+      "listed_bytes": 2857,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ba725537bc274fcc9beace4afadcb520/metadata.json",
+      "listed_bytes": 1359,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ba85da0c03a84ec4a5ff3b2369b396b2/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q41.protected-partial.json",
+      "listed_bytes": 512,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ba85da0c03a84ec4a5ff3b2369b396b2/metadata.json",
+      "listed_bytes": 1363,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/bd948187a98844faaf47ab6df71fea27/files/constitution/evidence/github/recheck.stdout.bin",
+      "listed_bytes": 113,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/bd948187a98844faaf47ab6df71fea27/metadata.json",
+      "listed_bytes": 1089,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/bfb70853fa7e4ea496a10323819ac2cb/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q07.protected-partial.initial-version.json",
+      "listed_bytes": 4227,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/bfb70853fa7e4ea496a10323819ac2cb/metadata.json",
+      "listed_bytes": 1340,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c1fc5ae1836f4a2a8ba7414232708d77/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes-summary.json",
+      "listed_bytes": 473,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c1fc5ae1836f4a2a8ba7414232708d77/metadata.json",
+      "listed_bytes": 1238,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c28a8f1e328a463f834fe5b63927b519/files/constitution/audit/rebuilt-test-02.stdout.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c28a8f1e328a463f834fe5b63927b519/metadata.json",
+      "listed_bytes": 1100,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c37314bc834242a6935e58b347ffddd0/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q37.tool-visible.manual.json",
+      "listed_bytes": 2948,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c37314bc834242a6935e58b347ffddd0/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c70a050360bd434b8c49ed907f5ce946/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P05/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi/chunk-0.visible.manual.md",
+      "listed_bytes": 8337,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c70a050360bd434b8c49ed907f5ce946/metadata.json",
+      "listed_bytes": 1686,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c7702f1065474c338102f3dc62f808b8/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/evidence-traceability.csv",
+      "listed_bytes": 3621,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c7702f1065474c338102f3dc62f808b8/metadata.json",
+      "listed_bytes": 1230,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c8e3db1b4f864bd1a914a8a191a0eb44/files/constitution/evidence/time-is/pre-reset-observation-01.md",
+      "listed_bytes": 692,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c8e3db1b4f864bd1a914a8a191a0eb44/metadata.json",
+      "listed_bytes": 1168,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cc95c7334e514b74804f1fa25f6765a7/files/constitution/rules/04-sources-and-failures.md",
+      "listed_bytes": 1919,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cc95c7334e514b74804f1fa25f6765a7/metadata.json",
+      "listed_bytes": 1084,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ce6287b8557f4b26abcd3ab2f461817b/files/ingest/angora-1__arena-01a0ce39__5acb613/100-followup-angora-r118-2026-10-26/angora-networks.md",
+      "listed_bytes": 1648,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ce6287b8557f4b26abcd3ab2f461817b/metadata.json",
+      "listed_bytes": 1245,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cf0c91cf23ce4d50aa0691d9dd3549b3/files/constitution/evidence/time-is/direct-after-reset.result.json",
+      "listed_bytes": 147,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cf0c91cf23ce4d50aa0691d9dd3549b3/metadata.json",
+      "listed_bytes": 1128,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d04e1a9a26984470b87230c9b532b776/files/constitution/history/README-before-r118-7ce342a.md",
+      "listed_bytes": 2480,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d04e1a9a26984470b87230c9b532b776/metadata.json",
+      "listed_bytes": 1078,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d1b0386463fa419db59f581457e656ba/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/README.md",
+      "listed_bytes": 3489,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d1b0386463fa419db59f581457e656ba/metadata.json",
+      "listed_bytes": 1212,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d4b50373a73a46b4ae145aaa4a54cef0/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/ledger-tests.stderr.bin",
+      "listed_bytes": 3995,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d4b50373a73a46b4ae145aaa4a54cef0/metadata.json",
+      "listed_bytes": 1224,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8cb28357f4b4a9a9d92ecb4abda71c3/files/tools/test_constitution_ledger.py",
+      "listed_bytes": 19151,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8cb28357f4b4a9a9d92ecb4abda71c3/metadata.json",
+      "listed_bytes": 1095,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8d27bc5c35d44788cd3500cb3c526ca/files/ingest/angora-1__arena-01a0ce39__5acb613/101-audit-r118-2026-10-26.md",
+      "listed_bytes": 3561,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8d27bc5c35d44788cd3500cb3c526ca/metadata.json",
+      "listed_bytes": 1167,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8ef6c887b17404c8f4bc73d76bd85ee/files/constitution/rules/05-sandbox-recovery.md",
+      "listed_bytes": 1262,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8ef6c887b17404c8f4bc73d76bd85ee/metadata.json",
+      "listed_bytes": 1072,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8f1b948fadf45e3bed823059a0beda9/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q42.protected-partial.json",
+      "listed_bytes": 505,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8f1b948fadf45e3bed823059a0beda9/metadata.json",
+      "listed_bytes": 1363,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbb0d0969d124cd7b1ed07c2a2dbcfd5/files/constitution/rules/03-verification.md",
+      "listed_bytes": 1209,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbb0d0969d124cd7b1ed07c2a2dbcfd5/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbfbba1785064393b83a78c1a35b0586/files/constitution/policies/publication-consent.md",
+      "listed_bytes": 1686,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbfbba1785064393b83a78c1a35b0586/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dc1508aa99864ccbab267b6677c3a3a3/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q09.tool-visible.manual.json",
+      "listed_bytes": 4446,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dc1508aa99864ccbab267b6677c3a3a3/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dc3d4d21676e4a24b46d63e5cccecd74/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P08/response-metadata.json",
+      "listed_bytes": 693,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dc3d4d21676e4a24b46d63e5cccecd74/metadata.json",
+      "listed_bytes": 1341,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/e14c2583915844559b14ad0ccee24767/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q25.tool-visible.manual.json",
+      "listed_bytes": 1826,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/e14c2583915844559b14ad0ccee24767/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/e8a1024dd90a4be5a22c2ab2590e297e/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/archive-index/A01/find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi/chunk-0.visible.manual.md",
+      "listed_bytes": 15,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/e8a1024dd90a4be5a22c2ab2590e297e/metadata.json",
+      "listed_bytes": 1567,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/e9b4109376c64cdf934069dc7df6db07/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q32.protected-partial.json",
+      "listed_bytes": 930,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/e9b4109376c64cdf934069dc7df6db07/metadata.json",
+      "listed_bytes": 1363,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ea09e4156f6f4ffeb8d69979ff0b1f73/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q46.tool-visible.manual.json",
+      "listed_bytes": 1625,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ea09e4156f6f4ffeb8d69979ff0b1f73/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ead83a1b194f41689e28f4afc52770f9/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q20.protected-partial.json",
+      "listed_bytes": 2593,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ead83a1b194f41689e28f4afc52770f9/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ef48e68b73b345b5aac8f88b5b9e8b9b/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q01.tool-visible.manual.json",
+      "listed_bytes": 4718,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ef48e68b73b345b5aac8f88b5b9e8b9b/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/f146ea2fcbb34061806b83e23cd535e1/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q26.tool-visible.manual.json",
+      "listed_bytes": 3580,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/f146ea2fcbb34061806b83e23cd535e1/metadata.json",
+      "listed_bytes": 1370,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/f73672af3a074816926cbbd20a4776f7/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-responses/Q29.protected-partial.json",
+      "listed_bytes": 1127,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/f73672af3a074816926cbbd20a4776f7/metadata.json",
+      "listed_bytes": 1364,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/f74d2e4d927f4ceb87d804e394573536/files/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r118.md",
+      "listed_bytes": 2576,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/f74d2e4d927f4ceb87d804e394573536/metadata.json",
+      "listed_bytes": 1353,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/fd4de804c5064953acc9bb7eb5193102/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/search-outcomes.csv",
+      "listed_bytes": 15720,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/fd4de804c5064953acc9bb7eb5193102/metadata.json",
+      "listed_bytes": 1213,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ffb1a636d62b4a5e925b353c8e3d8681/files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/README.bad-link-revision.md",
+      "listed_bytes": 3483,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ffb1a636d62b4a5e925b353c8e3d8681/metadata.json",
+      "listed_bytes": 1266,
+      "kind": "file"
+    }
+  ]
+}

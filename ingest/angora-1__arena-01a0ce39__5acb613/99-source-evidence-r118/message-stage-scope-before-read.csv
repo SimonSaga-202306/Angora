@@ -1,0 +1,16 @@
+path,listed_bytes
+constitution/inbox/assistant-messages/r118-final-response-0001.txt,944
+constitution/records/events/a8fddc438bc0452ea13bb7039d9e413d/event.bin,887
+constitution/records/events/a8fddc438bc0452ea13bb7039d9e413d/metadata.json,1008
+constitution/records/messages/e740f228ff42453a9e63f26d35af5b63/message.bin,944
+constitution/records/messages/e740f228ff42453a9e63f26d35af5b63/metadata.json,978
+constitution/snapshots/29ba77a40c4a42e384229aed173f025e/manifest.json,87450
+constitution/snapshots/29ba77a40c4a42e384229aed173f025e/scope.json,66437
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-message-inventory-after-read.csv,357
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-message-ledger-receipts.jsonl,514
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-message-scope-before-read.csv,241
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/final-push-observation.json,887
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/message-ledger-snapshot.stderr.bin,0
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/message-ledger-snapshot.stdout.bin,211
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/message-ledger-verify.stderr.bin,0
+ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/message-ledger-verify.stdout.bin,381

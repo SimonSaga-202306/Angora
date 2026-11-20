@@ -1,0 +1,8 @@
+{
+  "outcome": "ok",
+  "staged_paths": 18,
+  "matching_paths": 18,
+  "bytes_read": 166565,
+  "mismatches": [],
+  "excludes_this_result_until_separately_staged": true
+}

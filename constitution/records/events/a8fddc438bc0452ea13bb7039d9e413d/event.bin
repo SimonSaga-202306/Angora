@@ -1,0 +1,13 @@
+{
+  "observed_operation": "git push origin arena/5da004bd-angora followed by git rev-parse HEAD and git ls-remote --heads",
+  "branch": "arena/5da004bd-angora",
+  "pushed_research_commit": "28e373b1e3f5a017b31b5835c1bd1a4951543dc2",
+  "local_head_at_observation": "28e373b1e3f5a017b31b5835c1bd1a4951543dc2",
+  "remote_head_at_observation": "28e373b1e3f5a017b31b5835c1bd1a4951543dc2",
+  "heads_matched": true,
+  "worktree_status_at_observation": "clean",
+  "observation_method": "manual transcription of bash tool-visible output; no automatic capture of process output bytes",
+  "actual_observation_time": "unknown",
+  "clock_note": "the date and timezone of the observation were not independently calibrated; no message or historical event time inferred",
+  "limitation": "This is a post-commit observation; a later commit that saves this file will necessarily have a different HEAD."
+}

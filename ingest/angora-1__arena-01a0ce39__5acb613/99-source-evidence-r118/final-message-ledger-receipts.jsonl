@@ -1,0 +1,2 @@
+{"key": "push-observation", "exit_code": 0, "stdout": "{\n  \"id\": \"a8fddc438bc0452ea13bb7039d9e413d\",\n  \"record_dir\": \"/home/user/Angora/constitution/records/events/a8fddc438bc0452ea13bb7039d9e413d\",\n  \"outcome\": \"copied\"\n}\n", "stderr": ""}
+{"key": "final-response", "exit_code": 0, "stdout": "{\n  \"id\": \"e740f228ff42453a9e63f26d35af5b63\",\n  \"record_dir\": \"/home/user/Angora/constitution/records/messages/e740f228ff42453a9e63f26d35af5b63\",\n  \"outcome\": \"copied\"\n}\n", "stderr": ""}
