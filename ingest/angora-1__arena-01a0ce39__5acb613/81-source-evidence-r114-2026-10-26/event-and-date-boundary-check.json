@@ -1,0 +1,8 @@
+{
+  "P01_scheduled_founder_occurrences": 1,
+  "P05_visible_text_contains_angora_case_insensitive": false,
+  "P05_visible_text_contains_levent_case_insensitive": false,
+  "AR02_visible_text_contains_2019": false,
+  "method": "local saved UTF-8 exact substring checks; absence from visible text is not proof of absence from original HTML, image, event or all records",
+  "event_boundary": "P05 reports event held; P01 schedules individual; no logical entailment that individual attended or spoke"
+}

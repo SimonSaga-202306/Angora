@@ -1,0 +1,15 @@
+{
+  "old_limited_paths_read_previously": 97,
+  "old_limited_bytes_previously": 323433,
+  "old_reverified_sha256_now": 96,
+  "old_quarantined_not_reopened_now": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/external-visible/www.angoranetworks.com/angora-networks-_en/index.en.extracted.md"
+  ],
+  "new_limited_paths": 30,
+  "new_full_byte_utf8_reads": 30,
+  "new_bytes": 90584,
+  "combined_distinct_paths_previously_or_now_read": 127,
+  "combined_bytes": 414017,
+  "includes": "discovery metadata, failed records, duplicate same-source chunks and drafts, a redirect, and one wrongly read quarantined old page; not independent sources",
+  "transcription_limit": "saved manual text, not raw HTML; no full automatic comparison to tool output"
+}

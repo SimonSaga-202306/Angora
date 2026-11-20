@@ -1,0 +1,7 @@
+sequence,path,expected_bytes,method
+1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/README.md,5733,full UTF-8 read
+2,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md,8896,full UTF-8 read
+3,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r114-appendix.md,4228,full UTF-8 read
+4,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r114.md,3871,full UTF-8 read
+5,ingest/angora-1__arena-01a0ce39__5acb613/82-followup-angora-r114-2026-10-26/angora-networks.md,1815,full UTF-8 read
+6,ingest/angora-1__arena-01a0ce39__5acb613/83-audit-r114-2026-10-26.md,5829,full UTF-8 read

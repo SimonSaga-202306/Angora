@@ -1,0 +1,9 @@
+{
+  "source_related_scope_paths": 50,
+  "source_related_bytes": 292831,
+  "discovery_metadata_paths": 47,
+  "discovery_metadata_bytes": 30602,
+  "combined_distinct_paths": 97,
+  "combined_bytes": 323433,
+  "notes": "not number of independent sources; includes one wrongly reread quarantined source, unrelated redirect quarantine, old sources, index metadata, failures, and 15 same-source fragments or prior copies; files saved by manual transcription not automatically checked against tool response or original HTML"
+}

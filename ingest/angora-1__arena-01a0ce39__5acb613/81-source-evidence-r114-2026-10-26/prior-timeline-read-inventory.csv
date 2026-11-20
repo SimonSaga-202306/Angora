@@ -1,0 +1,3 @@
+path,expected_bytes,actual_bytes,sha256,full_utf8,status
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/175-angora-design-service-delivery-r106-2026-10-26.md,12676,12676,a30d433221fa929525bc98989d3beaddddcf5d059521a15a000ec1750fa75f77,yes,r106 report; contains mixed old-document overview
+ingest/angora-1__arena-01a0ce39__5acb613/49-source-evidence-r106-2026-10-26/external-visible/www.angoranetworks.com/angora-networks-_en/index.en.extracted.md,4899,4899,c798eb3bd36619a06ad912ce339b38c659c89e57fec638c139d1453796b3948c,yes,ERROR: quarantined r106 page reread; excluded from evidence

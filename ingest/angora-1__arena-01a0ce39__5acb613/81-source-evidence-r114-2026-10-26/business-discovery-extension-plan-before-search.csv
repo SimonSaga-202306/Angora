@@ -1,0 +1,10 @@
+sequence,search_id,query,purpose,stop_rule
+17,Q17,"""Angora Networks"" ""Soft Reset"" ""Kılıç"" -filetype:pdf",find the 2021 magazine statement in a focused page,avoid broad unrelated magazine pages and PDFs
+18,Q18,"""Angora Networks"" ""Taylan Esen"" ""2020"" etkinlik -filetype:pdf",seek early named public events,no personnel outreach
+19,Q19,"""Angora Networks"" ""yerli ağ"" ""2019"" ""kuruldu"" -filetype:pdf",seek contemporaneous media,search year is not source publication year
+20,Q20,"""Angora Networks"" ""2021"" yerli üretim etkinliği -filetype:pdf",seek event organizer or media documents,announcements do not prove participation
+21,Q21,"""Angora Networks"" ""Marmara Üniversitesi"" araştırma -filetype:pdf",seek primary context for previously unverified 2020 survey,do not download reports or infer population representativeness
+22,Q22,"""Angora Networks"" ""2018"" ""2019"" ilk -filetype:pdf",early chronology cross-check,separate modern retrospective from contemporaneous records
+23,Q23,"""Angora Networks"" ""2020"" eğitim protokol -filetype:pdf",seek early training evidence,do not assume performance of announced plans
+24,Q24,"site:iana.org ""Angora Networks"" ""58029"" -filetype:pdf",official PEN primary source lead,PEN is not legal identity certification testing or device deployment
+25,Q25,"site:ictmedia.com.tr ""Angora Networks"" ""2020"" ""2021"" -filetype:pdf",media-focused early timeline,do not treat search snippets as complete sources

@@ -1,0 +1,8 @@
+sequence,search_id,query,purpose,stop_rule
+26,Q26,"site:kamubib-bimy.org/2020 ""Levent KILIÇ"" ""Angora"" -filetype:pdf",seek event organizer context for 2020 agenda,do not infer actual attendance from programme
+27,Q27,"""Levent Kılıç"" ""23 Ekim 2020"" Angora -filetype:pdf",seek 2020 event follow-up or recording,no external contact or PDF
+28,Q28,"""Kamu-BİB'23"" ""Angora"" ""Levent"" 2020 -filetype:pdf",seek independent event documentation,not the same event as 2022 programme
+29,Q29,"""Angora Networks"" ""TBD"" ""2020"" ""Levent Kılıç"" -filetype:pdf",seek association source,do not count copies of same agenda as independent
+30,Q30,"""58029"" ""Angora Networks"" SNMP -filetype:pdf",seek direct evidence connecting registry to specific documentation,do not infer product conformance from PEN
+31,Q31,"""Levent Kılıç"" ""Angora Networks"" ""2020"" ""dijital"" -filetype:pdf",seek contemporaneous speech or report,do not promote search snippets to primary text
+32,Q32,"site:tbd.org.tr ""Angora Networks"" ""2020"" -filetype:pdf",seek professional association report,avoid old procurement documents

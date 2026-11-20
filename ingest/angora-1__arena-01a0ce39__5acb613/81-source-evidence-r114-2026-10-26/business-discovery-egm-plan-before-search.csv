@@ -1,0 +1,3 @@
+sequence,id,query,purpose,boundary
+68,Q68,"""Angora Networks"" ""EGM"" ""Trafik Şekillendirme"" -filetype:pdf -Larch -Scodeno -Lanaotek",seek identity and context of search sidebar headline,do not treat sidebar timestamp as test date or infer certification
+69,Q69,"""Angora Networks"" ""Emniyet Genel Müdürlüğü"" ""trafik"" test -filetype:pdf -Larch -Scodeno -Lanaotek",seek independent institutional confirmation,do not equate vendor claim with procurement or certification

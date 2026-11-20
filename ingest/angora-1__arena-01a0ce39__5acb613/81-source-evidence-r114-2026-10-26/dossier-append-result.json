@@ -1,0 +1,12 @@
+{
+  "head_before": "0f924fe12dd75744f3ef91c6971161eef47491b9",
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "prefix_bytes": 51763,
+  "prefix_sha256": "297a875c5d732c0b8e5bf28338bf180733c898f856e5388fb2519f301bcddb1e",
+  "git_head_prefix_byte_identical": true,
+  "append_bytes": 394,
+  "append_sha256": "feb23f12f4652b7217afbadaec9840ff28b7e001936c8af984847319f5723f57",
+  "total_bytes": 52157,
+  "total_sha256": "69899c8ad15cfcb4a6c2c95498041a473bc33d590832c8b9e12562e646a9f3f7",
+  "operation": "index only; old PASS content not displayed or analyzed; original flawed plan retained and corrected before append"
+}

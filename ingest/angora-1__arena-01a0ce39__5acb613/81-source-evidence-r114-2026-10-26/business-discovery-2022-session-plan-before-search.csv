@@ -1,0 +1,9 @@
+sequence,search_id,query,purpose,stop_rule
+54,Q54,"site:kamubib-bimy.org/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik ""Taylan"" -filetype:pdf",seek session detail on same organizer,agenda detail is not independent proof of attendance
+55,Q55,"""Taylan Esen"" ""19 Kasım 2022"" ""siber"" -filetype:pdf",seek dated speech report,avoid claiming exact day from agenda alone
+56,Q56,"""Angora Networks"" ""Evren Ötesi"" 2022 -filetype:pdf",seek distinct post-event accounts,do not count mirrors as independent sources
+57,Q57,"""Taylan Esen"" ""Her şeyimiz veri"" -filetype:pdf",find whether same quote appears elsewhere,duplicate quotes may derive from same sponsor report
+58,Q58,"""Levent Kılıç"" ""Vizyon 2023"" ""2022"" Angora -filetype:pdf",seek actual participation evidence for separately listed person,do not conflate agenda and report
+59,Q59,"site:youtube.com ""Evren Ötesi ve Siber Güvenlik"" ""Taylan"" -filetype:pdf",seek recording evidence,do not claim audio or attendance if not verified
+60,Q60,"site:tbd.org.tr ""Angora Networks"" ""Kamu"" ""2022"" -filetype:pdf",seek association post-event record,no PDF procurement or stopped subjects
+61,Q61,"""Angora Networks"" ""Vizyon 2023"" ""19 Kasım 2022"" -filetype:pdf",seek independent attendance report,do not infer contracts from co-listing

@@ -1,0 +1,5 @@
+sequence,search_id,query,purpose,stop_rule
+33,Q33,"site:youtube.com ""KAMU-BİB"" ""23102020"" ""14:15"" -filetype:pdf",seek 14:15 session video,no audio is available unless explicitly obtained; title does not prove individual attendance
+34,Q34,"""Levent Kılıç"" ""Kamu"" ""BİMY"" ""2020"" -filetype:pdf",seek individual participation evidence,avoid other same-name people
+35,Q35,"""Angora Networks"" ""Kamu-BİB"" ""2020"" konuştu -filetype:pdf",seek report of actual speech,search snippets are not evidence
+36,Q36,"site:tbd.org.tr ""Levent KILIÇ"" ""Angora"" -filetype:pdf",seek association documentation,not a contact list or procurement request

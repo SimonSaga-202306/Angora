@@ -1,0 +1,6 @@
+sequence,id,path,size_bytes,role
+1,CDX08,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/www.kamubib-bimy.org/2022/program/index.cdx.visible.txt,722,archive index
+2,AR07,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/www.kamubib-bimy.org/2022/program/20220705134406/index.visible.md,7725,July programme replay
+3,AR08,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/www.kamubib-bimy.org/2022/program/20221204195052/index.visible.md,16851,December programme replay
+4,AR08-C0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR08/chunk-0.visible.md,8448,duplicate fragment
+5,AR08-C1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR08/chunk-1.visible.md,8403,duplicate fragment

@@ -1,0 +1,7 @@
+```json
+[["urlkey","timestamp","original","mimetype","statuscode","digest","length"],
+["tr,gov,kvkk)/icerik/6827/kamu-bib-23-ve-bimy-27-butunlesik-etkinligi-gerceklestirildi","20201121114433","https://kvkk.gov.tr/Icerik/6827/Kamu-BIB-23-ve-BIMY-27-Butunlesik-Etkinligi-Gerceklestirildi","text/html","200","Z5VAN2DXIJHY6C7GID3OMMVTQKNLOGUV","7809"],
+["tr,gov,kvkk)/icerik/6827/kamu-bib-23-ve-bimy-27-butunlesik-etkinligi-gerceklestirildi","20201204083706","https://kvkk.gov.tr/Icerik/6827/Kamu-BIB-23-ve-BIMY-27-Butunlesik-Etkinligi-Gerceklestirildi","text/html","200","WDLKMXGXVOZMB5KW5IUR6GWQUGFP7SWH","8091"],
+["tr,gov,kvkk)/icerik/6827/kamu-bib-23-ve-bimy-27-butunlesik-etkinligi-gerceklestirildi","20210227094941","https://www.kvkk.gov.tr/Icerik/6827/Kamu-BIB-23-ve-BIMY-27-Butunlesik-Etkinligi-Gerceklestirildi","text/html","200","RNV4YRPZ26YSJ65PCVOFGGDJWCTGGZEP","8081"]]
+
+```

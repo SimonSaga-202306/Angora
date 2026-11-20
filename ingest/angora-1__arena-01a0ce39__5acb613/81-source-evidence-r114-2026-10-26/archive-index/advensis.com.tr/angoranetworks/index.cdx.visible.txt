@@ -1,0 +1,9 @@
+```json
+[["urlkey","timestamp","original","mimetype","statuscode","digest","length"],
+["tr,com,advensis)/angoranetworks","20201124234344","https://advensis.com.tr/angoranetworks/","text/html","200","RIUU64VY7V6W3F7KAUDYTOOOG5PRJPDJ","35116"],
+["tr,com,advensis)/angoranetworks","20210228034929","https://advensis.com.tr/angoranetworks/","text/html","200","OKRWDBU6SIQD3637AZKTDD7Z23F3LH3J","35661"],
+["tr,com,advensis)/angoranetworks","20210505221633","https://advensis.com.tr/angoranetworks/","text/html","200","PPDI3QQHLYOACIXHDG7ADQ7YMXFI2JNS","35709"],
+["tr,com,advensis)/angoranetworks","20211207122324","https://advensis.com.tr/angoranetworks/","text/html","200","QWYBRCJ5Q6VH7JWDKSRIQITEVG6SJI7P","35605"],
+["tr,com,advensis)/angoranetworks","20220517174927","https://advensis.com.tr/angoranetworks/","text/html","200","2T6OIK6M2YGQJI7HXABAFXPWNYHSST76","35583"]]
+
+```

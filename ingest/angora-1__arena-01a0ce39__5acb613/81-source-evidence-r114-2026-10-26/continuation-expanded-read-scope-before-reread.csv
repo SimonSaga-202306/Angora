@@ -1,0 +1,31 @@
+sequence,id,path,expected_bytes,role
+1,Q48,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q48.csv,718,discovery metadata; not a source
+2,Q49,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q49.csv,1018,discovery metadata; not a source
+3,Q50,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q50.csv,258,discovery metadata; not a source
+4,Q51,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q51.csv,252,discovery metadata; not a source
+5,Q52,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q52.csv,714,discovery metadata; not a source
+6,Q53,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q53.csv,762,discovery metadata; not a source
+7,Q54,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q54.csv,114,discovery metadata; not a source
+8,Q55,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q55.csv,830,discovery metadata; not a source
+9,Q56,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q56.csv,607,discovery metadata; not a source
+10,Q57,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q57.csv,797,discovery metadata; not a source
+11,Q58,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q58.csv,881,discovery metadata; not a source
+12,Q59,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q59.csv,175,discovery metadata; not a source
+13,Q60,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q60.csv,980,discovery metadata; not a source
+14,Q61,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q61.csv,693,discovery metadata; not a source
+15,Q62,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q62.csv,404,discovery metadata; not a source
+16,Q63,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q63.csv,1010,discovery metadata; not a source
+17,Q64,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q64.csv,697,discovery metadata; not a source
+18,Q65,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q65.csv,963,discovery metadata; not a source
+19,Q66,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q66.csv,121,discovery metadata; not a source
+20,Q67,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q67.csv,627,discovery metadata; not a source
+21,Q68,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q68.csv,831,discovery metadata; not a source
+22,Q69,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/search-discovery/Q69.csv,1190,discovery metadata; not a source
+23,CDX08,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/www.kamubib-bimy.org/2022/program/index.cdx.visible.txt,722,archive metadata
+24,AR07,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/www.kamubib-bimy.org/2022/program/20220705134406/index.visible.md,7725,July 2022 organiser replay
+25,AR08-C0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR08/chunk-0.visible.md,8448,December 2022 replay block 0; same source as block 1
+26,AR08-C1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR08/chunk-1.visible.md,8405,December 2022 replay block 1 corrected; same source as block 0
+27,AR08-DRAFT,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-transcription-drafts/AR08/chunk-1.pre-correction.visible.md,8403,pre-correction draft; not another source
+28,CDX09,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/www.kamubib-bimy.org/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik/index.cdx.visible.txt,1051,archive metadata
+29,AR09,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/www.kamubib-bimy.org/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik/20221204180601/index.visible.md,4853,organiser session detail; same organiser as AR08
+30,R111-MEDIA,ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/external-visible/kobi-efor.com.tr/kapak/tbdden-kamu-bib25-ve-bimy29-butunlesik-etkinligidijital-h15774/index.visible.md,36335,"existing event media sponsor report, not copied"

@@ -1,0 +1,9 @@
+{
+  "start_monotonic": 2282.470976013,
+  "end_monotonic": 3005.81530711,
+  "elapsed_seconds": 723.344,
+  "same_runtime": true,
+  "sandbox_wall_clock_end_observed": "2026-11-20T02:17:39.950606+00:00",
+  "session_given_date_utc": "2026-10-26",
+  "limitation": "includes research, reasoning, tool waiting and writing; not continuous keyboard work; no intentional sleep"
+}

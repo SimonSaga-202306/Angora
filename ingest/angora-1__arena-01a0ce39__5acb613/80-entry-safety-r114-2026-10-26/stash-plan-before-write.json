@@ -1,0 +1,8 @@
+{
+  "planned_action": "git stash push --include-untracked with exactly the 868 NUL-delimited literal paths prelisted before safety files",
+  "expected_untracked_tree_entries": 868,
+  "allow_fast_forward_only_after": "third-parent tree matches all paths, Git blob IDs and modes from incoming-read-inventory.csv",
+  "head_before": "691123abc7462489146cece19b81b4f917b58646",
+  "stash_policy": "do not pop; local stash is not durable remote backup",
+  "monotonic_before_action_seconds": 100.088503767
+}

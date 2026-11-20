@@ -1,0 +1,7 @@
+{
+  "deliverables_verified": 6,
+  "deliverable_bytes": 30372,
+  "verification_result_reproduced_byte_for_byte": true,
+  "unit_tests_recorded": 28,
+  "note": "Byte-identical here refers only to local verifier output and reviewed deliverables, not remote page originals."
+}

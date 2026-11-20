@@ -1,0 +1,15 @@
+sequence,id,path,size_bytes,role
+1,CDX05,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/www.kamubib-bimy.org/2020/program/index.cdx.visible.txt,564,index
+2,CDX06,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/www.ortakakil.org.tr/ozgecmisler/levent-kilic/index.cdx.visible.txt,627,index
+3,CDX07,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/www.kvkk.gov.tr/Icerik/6827/index.cdx.visible.txt,883,index
+4,AR04,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/www.kamubib-bimy.org/2020/program/20201025231618/index.visible.md,23226,complete replay
+5,AR05,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/ortakakil.org.tr/ozgecmisler/levent-kilic/20210622052721/index.visible.md,8230,complete replay
+6,AR06,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/kvkk.gov.tr/Icerik/6827/20201121114433/index.visible.md,18153,complete replay
+7,AR04-C0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR04/chunk-0.visible.md,8207,auxiliary same-source block
+8,AR04-C1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR04/chunk-1.visible.md,8268,auxiliary same-source block
+9,AR04-C2,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR04/chunk-2.visible.md,6751,auxiliary same-source block
+10,AR05-C0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR05/chunk-0.visible.md,8179,auxiliary same-source block
+11,AR05-C1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR05/chunk-1.visible.md,51,auxiliary same-source block
+12,AR06-C0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR06/chunk-0.visible.md,8119,auxiliary same-source block
+13,AR06-C1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR06/chunk-1.visible.md,8507,auxiliary same-source block
+14,AR06-C2,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR06/chunk-2.visible.md,1527,auxiliary same-source block

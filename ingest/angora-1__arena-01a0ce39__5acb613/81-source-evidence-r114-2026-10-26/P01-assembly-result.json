@@ -1,0 +1,8 @@
+{
+  "chunks": 3,
+  "bytes": 17146,
+  "sha256": "67d0e71b6df0c4abac686354246070763df18f07a7670d7fad99658909e558df",
+  "output": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.kamubib-bimy.org/2020/program/index.visible.md",
+  "method": "concatenated saved manual transcriptions, no separator",
+  "limitation": "not automatically compared with original tool responses or original HTML; chunks are one source not three independent witnesses"
+}

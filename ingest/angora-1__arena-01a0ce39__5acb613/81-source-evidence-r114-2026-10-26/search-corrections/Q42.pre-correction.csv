@@ -1,0 +1,6 @@
+rank,tool_result_id,title,url,page_age,disposition
+1,1,Angora 2020 23 magazine PDF,https://docs17.chomikuj.pl/7336796603%2CPL%2C0%2C0%2CAngora_2020_23___1564.pdf,,unrelated direct PDF returned despite exclusion; not opened or downloaded
+2,2,Tygodnik ANGORA,https://angora.com.pl/spis.php?w=03&y=2020,,unrelated magazine; not opened
+3,3,About - Angora Networks,https://www.angoranetworks.com/angora-networks-_en/?lang=en,Tuesday December 27 2022,repeat; quarantined r106 page not reopened
+4,4,Press.pl magazine profile,https://www.press.pl/jedynki/pokaz/120/2020-11-23,Monday November 23 2020,unrelated magazine; not opened
+5,5,Tygodnik ANGORA index,https://www.angora.com.pl/spis.php?w=01&y=2020,,unrelated magazine; not opened

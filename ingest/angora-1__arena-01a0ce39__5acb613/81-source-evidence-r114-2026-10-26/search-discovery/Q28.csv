@@ -1,0 +1,6 @@
+rank,tool_result_id,title,url,page_age,disposition
+1,1,Kamu-BİB'23,https://www.kamubib-bimy.org/2020/,,organizer overview; not separate attendance evidence
+2,2,Kamu-BİB'23 ve BİMY’27 Bütünleşik Etkinliği Gerçekleştirildi,https://www.kvkk.gov.tr/Icerik/6827/Kamu-BIB-23-ve-BIMY-27-Butunlesik-Etkinligi-Gerceklestirildi,Monday October 26 2020,government post-event report lead; fetch planned before use
+3,3,Kamu-BİB’23 Çalışmalarımız Başlıyor,https://www.tbd.org.tr/kamu-bib23-calismalarimiz-basliyor/,,association preparation; not opened
+4,4,KAMU-BİB'23 BİMY'27 23102020 09:30,https://www.youtube.com/watch?v=RhYSP3f4nw8,Friday October 23 2020,09:30 opening video lead; scheduled Angora item was 14:15; not assumed same
+5,5,2020 Texas A&M Angora goat test,https://legacy.research.agrilife.org/wp-content/uploads/sites/4/2020/08/Angora-Goat-Test-2020-Description.pdf,Saturday August 01 2020,unrelated PDF returned despite exclusion; not opened or downloaded

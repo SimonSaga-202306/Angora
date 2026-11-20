@@ -1,0 +1,2 @@
+path,expected_head,expected_prefix_bytes,expected_prefix_sha256,operation,content_scope
+ ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,0f924fe12dd75744f3ef91c6971161eef47491b9,51763,297a875c5d732c0b8e5bf28338bf180733c898f856e5388fb2519f301bcddb1e,append only after HEAD and identical historical prefix check,r114 index links only; no PASS content output

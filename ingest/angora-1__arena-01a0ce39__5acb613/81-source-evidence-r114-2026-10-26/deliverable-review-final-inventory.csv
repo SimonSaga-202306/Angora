@@ -1,0 +1,7 @@
+sequence,path,bytes,sha256,method
+1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/README.md,5733,ed520e6d787c0a5893aebcc603728d1206d8ff44648d241d472422d1eef7b0ed,full byte read and UTF-8 decode
+2,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md,8896,3aac2f0e134a7f2a4359867f13e254ae09b4881e4d66a15ffbca7acc41caba99,full byte read and UTF-8 decode
+3,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r114-appendix.md,4228,87571c2851f574d698a5c73a7bc8a7b2a26eee8472c304f1d8f47444591e4c90,full byte read and UTF-8 decode
+4,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r114.md,3871,558924b3a58d750a26899407842f0af222cec28546e6c6965782bf036ce478f6,full byte read and UTF-8 decode
+5,ingest/angora-1__arena-01a0ce39__5acb613/82-followup-angora-r114-2026-10-26/angora-networks.md,1815,db1dfb672ef935744a3806d6e4b59662baea54db4a1d7a47cc3a41f51e6fd5a8,full byte read and UTF-8 decode
+6,ingest/angora-1__arena-01a0ce39__5acb613/83-audit-r114-2026-10-26.md,5829,ae2751c1a791111ae1b37a9ee0dcf1c28048b469da63927469187e9567e0bcd3,full byte read and UTF-8 decode

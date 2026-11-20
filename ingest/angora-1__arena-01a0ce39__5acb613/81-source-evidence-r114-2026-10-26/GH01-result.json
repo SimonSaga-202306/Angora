@@ -1,0 +1,8 @@
+{
+  "endpoint": "repos/wireshark/wireshark/commits/48a8a88e89a0e469d5d5c728abc5bfc6f004ad8f",
+  "returncode": 1,
+  "observed_environment_utc_after_request": "2026-11-20T01:51:33.402314+00:00",
+  "monotonic_after_seconds": 1452.123715718,
+  "status": "error",
+  "stderr": "gh: No commit found for SHA: 48a8a88e89a0e469d5d5c728abc5bfc6f004ad8f (HTTP 422)\n"
+}

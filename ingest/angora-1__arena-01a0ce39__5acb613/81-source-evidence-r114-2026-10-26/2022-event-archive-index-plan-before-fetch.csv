@@ -1,0 +1,2 @@
+id,url,target_path,purpose,limit
+CDX08,https://web.archive.org/cdx/search/cdx?url=www.kamubib-bimy.org%2F2022%2Fprogram&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&to=20261026&limit=4,archive-index/www.kamubib-bimy.org/2022/program/index.cdx.visible.txt,seek historical organizer programme snapshot relating to r111 2022 media report,limited digest-collapsed archive index only; status does not prove target identity or attendance

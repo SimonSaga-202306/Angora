@@ -1,0 +1,17 @@
+sequence,search_id,query,purpose,scope_and_stop_rule
+1,Q01,"""Angora Networks"" 2016 2017 kuruluş yerli ağ anahtarı -filetype:pdf",early founding claims,search discovery only; no procurement files or stopped companies
+2,Q02,"""Angora Networks"" 2018 haber -filetype:pdf",early media mentions,search discovery only; do not open PDF
+3,Q03,"""Angora Networks"" 2019 yerli teknoloji Levent Kılıç -filetype:pdf",early media interviews,search discovery only; no old orders
+4,Q04,"site:ictmedia.com.tr ""Angora Networks"" 2017 -filetype:pdf",media archive 2017,search discovery only
+5,Q05,"site:ictmedia.com.tr ""Angora Networks"" 2018 -filetype:pdf",media archive 2018,search discovery only
+6,Q06,"site:ictmedia.com.tr ""Angora Networks"" 2019 -filetype:pdf",media archive 2019,search discovery only
+7,Q07,"site:kobi-efor.com.tr ""Angora Networks"" 2019 -filetype:pdf",alternative media archive,search discovery only
+8,Q08,"""Angora Networks"" 2017 2018 Ankara teknoloji girişimi -filetype:pdf",early startup context,search discovery only
+9,Q09,"""Angora Networks"" yerli üretim fabrika 2018 2019 -filetype:pdf",historical production statements,do not infer actual manufacture or open product PDF
+10,Q10,"""Angora Networks"" ""2016"" ""2017"" kuruluş anahtar -filetype:pdf",founding chronology cross-check,search discovery only; legal subject unconfirmed
+11,Q11,"""Angora Networks"" ""Taylan Esen"" 2019 -filetype:pdf",historical management media,do not infer current role
+12,Q12,"""Angora Networks"" ""Levent Kılıç"" 2018 -filetype:pdf",historical management media,do not infer current role
+13,Q13,"site:angoranetworks.com 2018 ""Angora Networks"" fuar etkinlik -filetype:pdf",vendor history event leads,do not infer event occurred from announcements
+14,Q14,"site:angoranetworks.com 2019 ""Angora Networks"" haber etkinlik -filetype:pdf",vendor history 2019 leads,do not infer delivery from vendor claims
+15,Q15,"""Angora Networks"" üniversitesi işbirliği 2019 -filetype:pdf",institutional activity leads,no active contact or unwelcome entities
+16,Q16,"""Angora Networks"" 2020 ağ anahtarı girişim röportaj -filetype:pdf",early 2020 context versus prior video,distinguish repetitions from independent evidence

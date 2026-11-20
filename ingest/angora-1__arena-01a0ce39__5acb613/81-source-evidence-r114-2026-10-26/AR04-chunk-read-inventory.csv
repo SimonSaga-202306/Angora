@@ -1,0 +1,4 @@
+sequence,path,bytes,sha256
+1,archive-chunks/AR04/chunk-0.visible.md,8207,29341007ae37819d607c02816c6b7b389075001dde5ff08bfd59abeb2cc766f3
+2,archive-chunks/AR04/chunk-1.visible.md,8268,074d00690a864b9ba61e352699bf8fd7656c29a6647fea22c5f7ed989f31e09c
+3,archive-chunks/AR04/chunk-2.visible.md,6751,cbc2f8e215357c42c9c69cc6d445060ec2fb5eb00994ec379de75aa51fd35de4

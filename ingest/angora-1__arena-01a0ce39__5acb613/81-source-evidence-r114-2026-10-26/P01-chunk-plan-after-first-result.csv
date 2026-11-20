@@ -1,0 +1,4 @@
+source_id,chunk_index,expected_total,target,sequence_note
+P01,0,3,external-chunks/P01/chunk-0.visible.md,first chunk already returned and manually transcribed before chunk count known
+P01,1,3,external-chunks/P01/chunk-1.visible.md,to fetch next and manually transcribe without adding separator
+P01,2,3,external-chunks/P01/chunk-2.visible.md,to fetch last and manually transcribe without adding separator

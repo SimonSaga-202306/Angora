@@ -1,0 +1,14 @@
+{
+  "external_scope_paths": 18,
+  "external_read_paths": 18,
+  "external_bytes": 97445,
+  "unique_semantic_sources_successful": 6,
+  "unique_semantic_sources_note": "P01 P02 P03 P05 AR01 AR02, of which AR01 has no substantive visible body; AR03 redirect quarantined, P04 failure; 3 CDX are metadata and 7 auxiliary files are duplicates/precursors",
+  "prior_round_paths": 14,
+  "prior_round_bytes": 76146,
+  "prior_timeline_paths_including_quarantine": 2,
+  "prior_timeline_bytes": 17575,
+  "total_distinct_scope_paths": 34,
+  "total_bytes": 191166,
+  "limitations": "fully scanned saved files; human transcriptions not automatically compared with tool response or HTML; scope built after initial fetch as disclosed"
+}

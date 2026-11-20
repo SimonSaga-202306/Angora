@@ -1,0 +1,8 @@
+{
+  "source": "AR08",
+  "chunks": 2,
+  "bytes": 16851,
+  "sha256": "6ab5233d4d373e92ac2122ad822cf688db56a8caa12489ed51db5ce79fce2b4d",
+  "method": "concatenated saved manual transcriptions with no separator",
+  "limitation": "no automatic comparison to tool responses or raw HTML; same-origin July and December captures are not independent testimony"
+}

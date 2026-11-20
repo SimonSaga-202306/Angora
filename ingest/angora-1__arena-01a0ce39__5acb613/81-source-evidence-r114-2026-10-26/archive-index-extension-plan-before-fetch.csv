@@ -1,0 +1,2 @@
+id,role,url,target_path,limits
+CDX04,IANA paginated registry history,https://web.archive.org/cdx/search/cdx?url=www.iana.org%2Fassignments%2Fenterprise-numbers%2F%3Fpage%3D581&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&to=20261026,archive-index/www.iana.org/assignments/enterprise-numbers/page-581/index.cdx.visible.txt,empty result does not prove no history; index is metadata not allocation proof

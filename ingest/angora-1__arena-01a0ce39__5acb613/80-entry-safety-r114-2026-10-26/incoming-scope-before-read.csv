@@ -1,0 +1,869 @@
+path,lstat_bytes,lstat_mode_octal,kind
+README.md,1509,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FILE-INDEX.csv,266632,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FILE-INDEX.json,387606,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/FULL-TREE.md,38171,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/INGEST-CATALOG.md,304808,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/SUMMARY.json,3200,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/00-manifest/VERIFICATION.md,2736,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/6th order 6台工业2光8/STI-288DGGPM drawing.dxf,16620800,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/AGENT-CONSTITUTION-v1.0.md,5309,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/AGENT-CONSTITUTION.md,15655,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/AGENT-README.md,184335,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/REPO_ANALYSIS.md,17218,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/00-COVERAGE-AUDIT-REPORT.md,7679,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/00-RESEARCH-LEDGER.md,130147,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/00-TASK-STATUS.md,69766,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/05-verified-quotes-by-speaker.md,13669,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/2026-08-17-l3-strategy-official-reply.md,5276,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/WECHAT-TIMESTAMP-VERIFICATION.md,8158,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1-quotation-xls.md,4817,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1-stsc20241129007-xls.md,6284,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1-tronx-saga-siparis-listesi-3-xlsx.md,1336,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1-tronx-saga-siparis-listesi-smartbyte-xlsx.md,1676,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1st-order-sample-3-10g-24-48-ci-xls.md,3950,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1st-order-sample-3-10g-24-48-pl-for-zhengzhou-saga-telecom-p-24051001-xls.md,1403,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1st-order-sample-3-10g-24-48-quotation-xls.md,2200,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/1st-order-sample-3-10g-24-48-xlsx.md,3149,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/2nd-order-sample-2-10g-16-2-8-ci-xls.md,4005,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/2nd-order-sample-2-10g-16-2-8-pl-xls.md,1398,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/2nd-order-sample-2-10g-16-2-8-stsc20241021007-xls.md,3906,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/2nd-order-sample-2-10g-16-2-8-stsc20241028007-xls.md,3271,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/2nd-order-sample-2-10g-16-2-8-stsc20241105007-xls.md,3273,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/2nd-order-sample-2-10g-16-2-8-ups-xls.md,2537,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/2nd-order-sample-2-10g-16-2-8-xlsx.md,1476,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-packing-list-xls.md,938,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-shipment-info-commercial-invoice-r1-xls.md,4467,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-shipment-info-pl-stsc20250117007-xls.md,1514,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-shipment-info-xls.md,1471,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-shipment-info-xlsx.md,1468,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-smartbyte-quotation-176pcs-industrial-switch-power-adapter-xls.md,3148,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-smartbyte-stsc20250117007-xls.md,3488,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/3rd-order-176-2-16-l2-poe-stsc20250117007-xls.md,5247,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-packing-list-xls.md,1031,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-pl-stsc20250507007-xls.md,1474,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-stsc20250507007-r1-xls.md,4844,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-stsc20250507007-xls.md,3825,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-stsc20250507007-xlsx.md,1442,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-unshipped-packing-list-xls.md,1053,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-unshipped-pl-stsc20250228007-xls.md,1501,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-r1-xls.md,4818,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-r2-xls.md,4821,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-r3-xls.md,5099,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/4th-order-sample-2-10g-24-48-unshipped-stsc20250228007-xls.md,3956,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/5th-order-sample-2-10g-24-48-packing-list-xls.md,959,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/5th-order-sample-2-10g-24-48-shipment-info-ci-xls.md,5084,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/5th-order-sample-2-10g-24-48-shipment-info-pl-stsc20250526007-xls.md,1504,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/5th-order-sample-2-10g-24-48-shipment-info-stsc20250526007-xls.md,1843,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/5th-order-sample-2-10g-24-48-shipment-info-stsc20250526007-xlsx.md,1472,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/5th-order-sample-2-10g-24-48-stsc20250526007-r1-xls.md,5085,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/5th-order-sample-2-10g-24-48-stsc20250526007-xls.md,3741,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/6th-order-6-2-8-shipment-info-ci-xls.md,4354,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/6th-order-6-2-8-shipment-info-pl-stsc20250619007-xls.md,1358,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/6th-order-6-2-8-shipment-info-stsc20250619007-xls.md,1232,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/6th-order-6-2-8-shipment-info-stsc20250619007-xlsx.md,1382,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/6th-order-6-2-8-stsc20250619007-r1-xls.md,4354,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/6th-order-6-2-8-stsc20250619007-xls.md,3374,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/_index.json,46718,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/cgks-field-switch-dlink-dis300g-compliance-xlsx.md,6167,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/mac-address-serial-number-xlsx.md,6313,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/pvcs-xlsx.md,1148,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/quotation-48-port-switch-150pcs-xls.md,2587,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/quotation-5-mc-xls.md,2384,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/rfp-2024-5-27-rfp-xlsx.md,11809,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/rfp-saga-software-function-list-release-7-3-0-xlsx.md,6190,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/rfp-turk-telekom-test-items-xlsx.md,1784,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/saga-feature-list-7-5-x-l2-xlsx.md,6287,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/smartbyte-managed-ethernet-switch-pricelist-for-simon-20240516-xlsx.md,4831,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/smartbyte-managed-ethernet-switch-pricelist-for-simon-2026-09-1-2026-12-30-xlsx.md,4139,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/smartbyte-managed-industrial-ethernet-switch-pricelist-on-cny-for-simon-20240227-xlsx.md,11096,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/smartbyte-managed-industrial-ethernet-switch-pricelist-on-cny-for-simon-2026-09-1-2026-12-30-xlsx.md,11715,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/smartbyte-popular-unmanaged-industrial-ethernet-switch-and-industrial-mc-pricelist-on-cny-for-simon-20240111-xlsx.md,19141,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/try-xls.md,4955,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/turkey-client-list-xlsx.md,8504,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/turkey-police-rfp-compliance-template-xlsx.md,2544,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/commercial-docs/xlsx.md,937,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/counterparty-registry.json,12492,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/counterparty-registry.md,4941,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/2nd-order-sample-2-10g-16-2-8-angora-replies-2024-10-23-docx.json,6241,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/2nd-order-sample-2-10g-16-2-8-angora-replies-2024-10-23-docx.md,3804,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/3rd-order-176-2-16-l2-poe-info-to-be-provided-angora-docx.json,3043,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/3rd-order-176-2-16-l2-poe-info-to-be-provided-angora-docx.md,1705,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/3rd-order-176-2-16-l2-poe-reply-on-174-pieces-of-anw-2116-pg-anw-docx.json,6958,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/3rd-order-176-2-16-l2-poe-reply-on-174-pieces-of-anw-2116-pg-anw-docx.md,4416,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/3rd-order-176-2-16-l2-poe-reply-on-rfp-2024-12-10-docx.json,4338,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/3rd-order-176-2-16-l2-poe-reply-on-rfp-2024-12-10-docx.md,2617,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/5th-order-sample-2-10g-24-48-label-confirmation-docx.json,873,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/5th-order-sample-2-10g-24-48-label-confirmation-docx.md,552,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/_index.json,3189,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/agenda-for-wechat-meeting-at-2024-10-31-docx.json,8239,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/agenda-for-wechat-meeting-at-2024-10-31-docx.md,5584,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/agenda-for-wechat-meeting-at-2025-docx.json,14955,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/agenda-for-wechat-meeting-at-2025-docx.md,9862,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-cli-manual-docx.json,4313454,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-cli-manual-docx.md,2396260,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.json,1447034,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-user-manual-docx.md,1099269,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-web-manual-docx.json,180145,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/info-2025-12-17-web-manual-docx.md,113833,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/key-points-in-wechat-meeting-at-2024-10-31-docx.json,5121,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/key-points-in-wechat-meeting-at-2024-10-31-docx.md,3059,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/proposal-docx.json,6766,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/proposal-docx.md,4612,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/reply-on-saga-enterprise-l3-recommendation-report-docx.json,4494,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/reply-on-saga-enterprise-l3-recommendation-report-docx.md,2837,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-r-d-period-cost-2024-7-12-docx.json,3130,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-r-d-period-cost-2024-7-12-docx.md,2057,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-12-11-docx.json,6091,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-12-11-docx.md,3943,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-5-27-docx.json,1420,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-5-27-docx.md,866,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-5-9-docx.json,2074,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-5-9-docx.md,1063,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-6-15-docx.json,4169,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-6-15-docx.md,1943,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-7-2-docx.json,1047,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2024-7-2-docx.md,530,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2025-1-30-docx.json,1291,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-2025-1-30-docx.md,737,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-sftp-check-list-2025-2-5-docx.json,3950,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-rfp-sftp-check-list-2025-2-5-docx.md,2652,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-sftp-reply-2024-7-11-docx.json,2448,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/rfp-sftp-reply-2024-7-11-docx.md,1408,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/shenhua-guanxi-bangding-strategy.json,23599,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/docx/shenhua-guanxi-bangding-strategy.md,15831,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads.json,160319,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Angora_-_Industrial_RFP_Question.md,4582,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Angora_Networks_-_250_pieces_potential_order.md,15112,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Booster_PoE_Switch.md,7537,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Invoice_5pcs_STC-424DGGPM-280W.md,21257,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Managed_Optical_Bypass_Switch.md,20990,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/New_Quotation.md,8372,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Request_for_DX1518_DX1548_Chips.md,1529,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Supported_SONiC_for_Saga_Ethernet_Switches___COMPUTEX.md,11488,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/TT_switch_administration_guide.md,2951,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/Updated_Ethernet_Switches_Links.md,7259,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/gmail-threads/layer_3_managed_switch.md,30608,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/1st-order-sample-3-10g-24-48-5-8-pdf.json,1509,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/1st-order-sample-3-10g-24-48-5-8-pdf.md,1468,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/1st-order-sample-3-10g-24-48-pdf.json,2994,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/1st-order-sample-3-10g-24-48-pdf.md,2908,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/1st-order-sample-3-10g-24-48-stsc20240508007-pdf.json,3246,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/1st-order-sample-3-10g-24-48-stsc20240508007-pdf.md,3168,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-anw-1108-v-user-manual-pdf.json,6189,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-anw-1108-v-user-manual-pdf.md,5990,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-anw-2116-pg-user-manual-pdf.json,5563,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-anw-2116-pg-user-manual-pdf.md,5385,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-certificate-of-warranty-pdf.json,182,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-certificate-of-warranty-pdf.md,308,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-p20241026-01-5624rmb-1-pdf.json,4675,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-p20241026-01-5624rmb-1-pdf.md,4641,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-p20241106-01-2250rmb-pdf.json,4392,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-p20241106-01-2250rmb-pdf.md,4396,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-we02411006486-pdf.json,1297,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/2nd-order-sample-2-10g-16-2-8-we02411006486-pdf.md,1151,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-payment-receipt-pdf.json,1501,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-payment-receipt-pdf.md,1457,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-shipment-info-certificate-of-warranty-pdf.json,242,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-shipment-info-certificate-of-warranty-pdf.md,228,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-shipment-info-we02503002566-pdf.json,8625,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-shipment-info-we02503002566-pdf.md,7219,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-smartbyte-user-manual-178-lt-is6318gp-2gx16gt-pdf.json,6211,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/3rd-order-176-2-16-l2-poe-smartbyte-user-manual-178-lt-is6318gp-2gx16gt-pdf.md,6027,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/4th-order-sample-2-10g-24-48-unshipped-user-manual-stsc20250228007-pdf.json,5572,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/4th-order-sample-2-10g-24-48-unshipped-user-manual-stsc20250228007-pdf.md,5398,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/4th-order-sample-2-10g-24-48-user-manual-stsc20250507007-pdf.json,5562,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/4th-order-sample-2-10g-24-48-user-manual-stsc20250507007-pdf.md,5388,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/4th-order-sample-2-10g-24-48-we02505007424-pdf.json,1324,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/4th-order-sample-2-10g-24-48-we02505007424-pdf.md,1175,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-shipment-info-tronx-user-manual-reference-only-pdf.json,5560,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-shipment-info-tronx-user-manual-reference-only-pdf.md,5393,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-shipment-info-user-manual-stsc20250526007-pdf.json,5576,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-shipment-info-user-manual-stsc20250526007-pdf.md,5402,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-shipment-info-we02506006381-pdf.json,1281,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-shipment-info-we02506006381-pdf.md,1138,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-stsc20250526007-pdf.json,3611,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-stsc20250526007-pdf.md,3501,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-user-manual-stsc20250526007-pdf.json,5562,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/5th-order-sample-2-10g-24-48-user-manual-stsc20250526007-pdf.md,5388,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-shipment-info-we02506020141-pdf.json,489,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-shipment-info-we02506020141-pdf.md,474,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-sti-288dggpm-drawing-pdf.json,422,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-sti-288dggpm-drawing-pdf.md,383,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-stsc20250619007-pdf.json,3266,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-stsc20250619007-pdf.md,3164,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-user-manual-stsc20250619007-pdf.json,6238,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/6th-order-6-2-8-user-manual-stsc20250619007-pdf.md,6048,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/_index.json,7238,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/angora-ticaret-sicil-11-mart-2024-pdf.json,150,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/angora-ticaret-sicil-11-mart-2024-pdf.md,287,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/angora-ticaret-sicil-2024-03-11-ocr.json,9255,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/angora-ticaret-sicil-2024-03-11-ocr.md,10778,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/anw-verge-2023-enterprise-datasheet-20210423-tr-pdf.json,35458,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/anw-verge-2023-enterprise-datasheet-20210423-tr-pdf.md,34602,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/anw-verge-2023-industrial-datasheet-20210423-tr-pdf.json,30658,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/anw-verge-2023-industrial-datasheet-20210423-tr-pdf.md,29964,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/cgks-section-3-3-network-switches-en-pdf.json,9510,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/cgks-section-3-3-network-switches-en-pdf.md,9282,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/connexite-amazon-biz-plan-draft-pdf.json,18612,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/connexite-amazon-biz-plan-draft-pdf.md,18031,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/egm-sections-3-3-3-4-en-pdf.json,9524,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/egm-sections-3-3-3-4-en-pdf.md,9326,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/info-2025-12-17-anw-dc-rfp-en-pdf.json,3220,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/info-2025-12-17-anw-dc-rfp-en-pdf.md,3124,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/info-rar-inventory.json,1886,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/info-rar-inventory.md,1792,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/iot-board-sc0012-000-pdf.json,16275,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/iot-board-sc0012-000-pdf.md,14418,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/kgys-section33-translation-en-pdf.json,7218,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/kgys-section33-translation-en-pdf.md,7046,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/levent-kilic-passport-ocr.md,1658,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/lk-passport-chip-pdf.json,132,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/lk-passport-chip-pdf.md,251,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/rfp-2024-6-15-tt-rfp-en-pdf.json,7232,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/rfp-2024-6-15-tt-rfp-en-pdf.md,6902,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/rfp-2024-7-2-c-ti-pi-ethernet-anahtar-kgys-pdf.json,4995,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/rfp-2024-7-2-c-ti-pi-ethernet-anahtar-kgys-pdf.md,4909,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/saga-enterprise-l3-recommendation-report-pdf.json,16618,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/saga-enterprise-l3-recommendation-report-pdf.md,13535,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/smartbyte-ethernet-switch-catalog-2025-pdf.json,108223,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/pdfs/smartbyte-ethernet-switch-catalog-2025-pdf.md,100545,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/cost-breakdown.json,7179,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/cost-breakdown.md,2571,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/freight-table.json,2679,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/freight-table.md,946,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/mac-serial.json,106838,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/mac-serial.md,17966,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/pc0012-iot-board-bom.json,5303,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/pc0012-iot-board-bom.md,3033,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/pvcs-inventory.json,4287,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/pvcs-inventory.md,1510,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/saga-feature-list-7.5-l2plus.json,23562,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/saga-feature-list-7.5-l2plus.md,7618,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/saga-software-function-list-7.3.0.json,18231,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/saga-software-function-list-7.3.0.md,7975,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/turk-telekom-test-items.json,5966,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/turk-telekom-test-items.md,2555,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/turkey-client-list.json,13074,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/spreadsheets/turkey-client-list.md,7372,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-2026-business-digest.md,8023,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-2026.json,167585,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-2026.md,113237,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.json,752882,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-conversation-aligned.md,349748,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-conversation.json,991280,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/01-knowledge-base/wechat-conversation.md,353197,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/02-social-intel/10-social-profiles.md,11453,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/02-social-intel/20-people-dossiers.md,12990,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/02-social-intel/30-angora-people-master-dossier.md,10016,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/02-social-intel/40-angora-company-full-history.md,10183,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/02-social-intel/50-angora-youtube-koz23-intelligence.md,17662,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/03-import-data/10-import-profile.md,8135,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/03-import-data/20-angora-import-records-2026-10.md,8368,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/00-crawl-manifest.md,6082,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/10-pages-part1.md,25165,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/11-pages-part2.md,38379,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/12-pages-part3-specs-and-codes.md,10556,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/13-pages-part4-russian.md,8643,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/04-website-mirror/90-downloads.md,3061,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/05-turk-telekom/10-tt-relationship.md,14730,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/10-supplier-competitor-dossiers.md,25933,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/100-my-angora-partner-portal.md,6650,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/110-turkey-local-competitors-deep-dive.md,73506,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/110-turkey-local-competitors.csv,88156,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/112-ewind-website-mirror-2026-10-21.md,14873,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/113-ewind-promo-full-presence-2026-10-21.md,15631,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/127-angora-ecosystem-companies-crawl-2026-10-21.md,20315,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/20-supply-chain-scodeno-lanaotek.md,8003,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/30-angora-datasheet-analysis.md,5948,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/40-larch-saga-email-history.md,9822,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/41-larch-angora-partnership-timeline-2026-10-21.md,20291,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/50-gordion-and-ewind-trade-data.md,8021,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/60-hitit-ewind-proof-and-peers.md,11297,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/70-smartbyte-pricelist-2026-and-chip-shortage.md,8887,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/80-larch-industrial-line-and-dx1500-decoded.md,7771,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/90-chip-generation-reality-correction.md,5532,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/95-smartbyte-price-trend-2024-vs-2026.md,7056,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/96-angora-customer-fingerprints.md,5988,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/06-competitors/97-turkey-anchor-strategy-marvell-route.md,6955,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/07-tenders/10-tender-bidding-dossier.md,10132,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/07-tenders/20-government-projects-and-certifications.md,8954,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/111-turkey-customer-pipeline.csv,82659,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/111-turkey-customer-pipeline.md,30535,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/112-user-customer-lists-deepdive-2026-10-25.md,11661,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/build111_r37.py,43494,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/build114_r38.py,28930,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,30561,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.csv,7162,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/121-angora-master-reanalysis-2026-10-21.md,20388,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/122-angora-financials-internal-dynamics-2026-10-21.md,21905,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/123-angora-88-dead-levent-tt-background-2026-10-21.md,13379,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/124-angora-online-platforms-forensics-2026-10-21.md,9613,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/125-tronx-website-forensics-2026-10-21.md,8300,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/126-angora-partner-bidding-map-2026-10-21.md,9071,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/98-conversation-log/00-conversation-log.md,158824,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/98-conversation-log/conversation-log.json,82912,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/attribute_by_alignment.py,6991,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/audit_coverage.py,9074,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ingest_docx.py,3592,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ingest_hier_spec.py,4275,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ingest_pdfs.py,3066,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ingest_xls_docs.py,4716,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ingest_xlsx.py,5043,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/larch-emails/Booster_PoE_Switch.txt,8243,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/larch-emails/Managed_Optical_Bypass_Switch.txt,21737,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/larch-emails/Request_for_DX1518_DX1548_Chips.txt,1403,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/larch-emails/Supported_SONiC_for_Saga_Ethernet_Switches___COMPUTEX.txt,11607,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/larch-emails/Updated_Ethernet_Switches_Links.txt,7464,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ocr.log,1034,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ocr_aligned.log,1884,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ocr_merge.py,8550,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ocr_wechat.py,2173,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/ocr_wechat_aligned.py,3441,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/pnetworks-datasheets-extract-2026-10-08.md,8154,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/pnetworks-round16-fullscan-2026-10-08.md,14368,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/price_diff.py,2976,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r23-recheck-mining-2026-10-21.md,11164,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r33-partner-company-mining-2026-10-21.md,39324,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r34-ecosystem-crawl-2026-10-21.md,26819,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r35-deep-dive-batch-2026-10-21.md,9094,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r36-turkey-local-customer-mining-2026-10-21.md,8034,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r37-ai-kehu-detail-sheets.tsv,17292,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r37-ai-kehu-eval-master.tsv,64060,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r37-isaf-2025-analysis-2026-10-25.md,10628,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r37-isaf-2025-raw.tsv,22480,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r37-isaf-union.json,26437,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r37-turkey-client-list-299.tsv,9146,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/r37-user-customer-lists-2026-10-25.md,15012,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/rebuild_aligned_conversation.py,8231,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/turkey-companies-round17-2026-10-08.md,21334,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/turkey-companies-round18-2026-10-08.md,17173,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/turkey-customer-list-round19-2026-10-08.md,23581,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/turkey-customer-list-round20-iasf2025-2026-10-08.md,21537,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/turkey-customer-list-round21-iasf2025-full-2026-10-08.md,27343,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223455_452.jsonl,16774,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223548_837.jsonl,29100,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223630_948.jsonl,32238,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223705_915.jsonl,38300,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223749_931.jsonl,39183,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223845_147.jsonl,54198,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223920_371.jsonl,39137,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_223957_115.jsonl,51431,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224033_579.jsonl,46248,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224111_987.jsonl,46831,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224156_330.jsonl,45809,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224233_298.jsonl,59540,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224308_147.jsonl,43720,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224347_969.jsonl,54069,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224435_810.jsonl,59114,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224520_306.jsonl,69605,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224554_074.jsonl,52600,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224626_417.jsonl,56795,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224715_689.jsonl,61522,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224805_273.jsonl,77439,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_224854_016.jsonl,89614,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225131_496.jsonl,72818,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225200_641.jsonl,58287,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225232_904.jsonl,55360,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-09-23_225251_736.jsonl,16037,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/Weixin Image_2026-10-06_172557_877.jsonl,3221,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr-aligned/_alignment.json,6578,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223455_452.txt,3754,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223548_837.txt,7061,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223630_948.txt,8536,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223705_915.txt,9702,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223749_931.txt,9838,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223845_147.txt,14113,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223920_371.txt,9362,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_223957_115.txt,13670,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224033_579.txt,11628,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224111_987.txt,12261,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224156_330.txt,11703,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224233_298.txt,16280,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224308_147.txt,10060,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224347_969.txt,14227,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224435_810.txt,16145,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224520_306.txt,19388,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224554_074.txt,13939,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224626_417.txt,15738,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224715_689.txt,15440,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224805_273.txt,19913,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_224854_016.txt,25246,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225131_496.txt,22301,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225200_641.txt,15380,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225232_904.txt,14158,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/2026-09-23_225251_736.txt,4459,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/99-raw/wechat-ocr/Weixin Image_2026-10-06_172557_877.txt,822,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/README.md,25186,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/警察局项目/EGM.txt,5163,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/警察局项目/KGYS.txt,2912,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/警察局项目/ÇGKS.txt,5465,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/CI.xls.extracted.md,3720,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/PL for Zhengzhou Saga Telecom P-24051001.xls.extracted.md,1941,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/Quotation.xls.extracted.md,2217,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/STSC20240508007.pdf.extracted.md,3797,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/出货/Certificate of Warranty.psd.extracted.md,2378,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/出货/普通快递发票.xlsx.extracted.md,1530,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/水单 5.8.pdf.extracted.md,1889,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/郑州仨戛通讯器材有限公司 P20240510-01（未税6000RMB）.doc.extracted.md,5551,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/采购合同.pdf.extracted.md,3541,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/1st order sample  3层10G 24口 48口/采购合同.xlsx.extracted.md,3846,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pdf.extracted.md,6524,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V User Manual.pub.extracted.md,85705,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pdf.extracted.md,5919,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG User Manual.pub.extracted.md,93303,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/Angora-Replies_2024.10.23.docx.extracted.md,5430,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/CI.xls.extracted.md,3825,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/Certificate of Warranty.pdf.extracted.md,784,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/Certificate of Warranty.psd.extracted.md,1148,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/PL.xls.extracted.md,1411,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/STC-424DGGPM-280W.cdr.extracted.md,376780,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/STC-448DGGPM.cdr.extracted.md,92719,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/STSC20241021007.xls.extracted.md,4245,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/STSC20241028007.xls.extracted.md,3079,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/STSC20241105007.xls.extracted.md,3647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/出货/WE02411006486 土耳其 入仓标签.PDF.extracted.md,1625,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/出货/普通快递发票.xlsx.extracted.md,1611,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/出货/深圳联邦UPS最新版报关需要资料表格-买单 .xls.extracted.md,2423,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/装箱单PL .xls.extracted.md,1995,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/郑州仨戛通讯器材有限公司 P20241026-01（未税5624RMB）(1)_已签章.pdf.extracted.md,5213,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/郑州仨戛通讯器材有限公司 P20241106-01（未税2250RMB）_已签章.pdf.extracted.md,4971,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/采购合同_STSC20241021007.xls.extracted.md,4003,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/2nd order sample 2层10G 16口 2光8管理/采购合同_STSC20241105007.xls.extracted.md,3405,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Info to be provided-Angora.docx.extracted.md,3320,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Packing List.xls.extracted.md,1293,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Payment Receipt.pdf.extracted.md,2027,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Reply on 174 pieces of ANW-2116-PG-ANW.docx.extracted.md,6112,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Reply on RFP 2024.12.10.docx.extracted.md,4026,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/STSC20250117007.xls.extracted.md,5033,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.pdf.extracted.md,769,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Certificate of Warranty.psd.extracted.md,2545,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/Commercial Invoice_R1.xls.extracted.md,4255,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/PL_STSC20250117007.xls.extracted.md,1423,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/WE02503002566 土耳其 入仓标签.PDF.extracted.md,7718,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/买单报关模板.xls.extracted.md,1678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/Shipment Info/普通快递发票.xlsx.extracted.md,1590,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/郑州仨戛通讯器材有限公司 P20250303-01（未税265220RMB）.doc.extracted.md,5401,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/Quotation_176pcs Industrial switch&power adapter.xls.extracted.md,3100,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/User Manual_178台LT-IS6318GP-2GX16GT.pdf.extracted.md,6547,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/3rd order 176台2光16电 L2 PoE/采购_Smartbyte/采购合同_STSC20250117007.xls.extracted.md,3630,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Certificate of Warranty.psd.extracted.md,2572,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/PL_STSC20250507007.xls.extracted.md,1381,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Packing List .xls.extracted.md,1365,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/STSC20250507007.xls.extracted.md,4554,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/STSC20250507007_R1.xls.extracted.md,4588,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/PL_STSC20250228007.xls.extracted.md,1400,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/Packing List .xls.extracted.md,1377,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007.xls.extracted.md,4374,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007_R1.xls.extracted.md,4551,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007_R2.xls.extracted.md,4554,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/STSC20250228007_R3.xls.extracted.md,4948,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/User Manual_STSC20250228007.pdf.extracted.md,5929,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/郑州仨戛通讯器材有限公司 P20250304-01（未税9110RMB）.doc.extracted.md,5469,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/Unshipped/采购合同_STSC20250228007.xls.extracted.md,4038,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/User Manual_STSC20250507007.pdf.extracted.md,5919,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/WE02505007424 土耳其 入仓标签.PDF.extracted.md,1650,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/买单报关_STSC20250507007.xls.extracted.md,1711,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/普通快递发票_STSC20250507007.xlsx.extracted.md,1574,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250508-01（未税8190RMB）.doc.extracted.md,5457,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/4th order sample  2层10G 24口 48口/采购合同_STSC20250507007.xls.extracted.md,3916,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Certificate of Warranty.psd.extracted.md,2550,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Packing List .xls.extracted.md,1304,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/STSC20250526007.xls.extracted.md,5196,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/STSC20250526007_R1.xls.extracted.md,4828,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Shipment Info/CI.xls.extracted.md,4829,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Shipment Info/PL_STSC20250526007.xls.extracted.md,1407,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Shipment Info/TronX User Manual_reference only.pdf.extracted.md,5829,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Shipment Info/User Manual_STSC20250526007.pdf.extracted.md,5933,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Shipment Info/WE02506006381 土耳其 入仓标签.PDF.extracted.md,1613,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Shipment Info/买单报关_STSC20250526007.xls.extracted.md,1933,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/Shipment Info/普通快递发票_STSC20250526007.xlsx.extracted.md,1587,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/TronX Commercial User Manual.pub.extracted.md,94594,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/User Manual_STSC20250526007.pdf.extracted.md,5919,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/label confirmation.docx.extracted.md,1412,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/郑州仨戛通讯器材有限公司 P20250530-01（未税14630RMB）.doc.extracted.md,5462,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/采购合同_STSC20250526007.pdf.extracted.md,4120,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/5th order sample  2层10G 24口 48口/采购合同_STSC20250526007.xls.extracted.md,3842,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/Certificate of Warranty.psd.extracted.md,2461,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.ai.extracted.md,682,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/STI-288DGGPM drawing.pdf.extracted.md,939,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/STSC20250619007.xls.extracted.md,4149,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/STSC20250619007_R1.xls.extracted.md,4145,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/Shipment Info/CI.xls.extracted.md,4147,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/Shipment Info/PL_STSC20250619007.xls.extracted.md,1302,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/Shipment Info/WE02506020141 土耳其 入仓标签.PDF.extracted.md,949,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/Shipment Info/买单报关_STSC20250619007.xls.extracted.md,1442,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/Shipment Info/普通快递发票_STSC20250619007.xlsx.extracted.md,1508,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pdf.extracted.md,6489,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/User Manual_STSC20250619007.pub.extracted.md,94998,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/郑州仨戛通讯器材有限公司 P20250624-01（未税4272RMB）.doc.extracted.md,5219,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/采购合同_STSC20250619007.pdf.extracted.md,3783,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/6th order 6台工业2光8/采购合同_STSC20250619007.xls.extracted.md,3506,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/ANGORA LOGO2.ai.extracted.md,438,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/ANGORA TICARET SICIL 11 MART 2024 .pdf.extracted.md,729,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/ANW-VERGE-2023-ENTERPRISE-DATASHEET-20210423-TR.pdf.extracted.md,35115,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/ANW-VERGE-2023-INDUSTRIAL-DATASHEET-20210423-TR.pdf.extracted.md,30498,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Agenda for WeChat meeting at 2024.10.31.docx.extracted.md,7357,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Agenda for WeChat meeting at 2025.docx.extracted.md,12952,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Black TRONX.psd.extracted.md,499,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Connexite-Amazon-Biz-Plan-DRAFT.pdf.extracted.md,18519,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Angora - Industrial RFP Question.pdf.extracted.md,5283,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Angora Networks - 250 pieces potential order.pdf.extracted.md,15925,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Booster PoE Switch.pdf.extracted.md,9081,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Invoice_5pcs STC-424DGGPM-280W.pdf.extracted.md,21905,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Managed Optical Bypass Switch.pdf.extracted.md,22798,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - New Quotation.pdf.extracted.md,9173,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Request for DX1518_DX1548 Chips.pdf.extracted.md,2202,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Supported SONiC for Saga Ethernet Switches _ COMPUTEX.pdf.extracted.md,12502,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - TT switch administration guide.pdf.extracted.md,3567,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - Updated Ethernet Switches Links.pdf.extracted.md,8302,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Gmail - layer 3 managed switch.pdf.extracted.md,31526,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/ANW-DC-RFP-EN.pdf.extracted.md,3647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/CLI Manual.docx.extracted.md,3172231,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/Performance of PeakNetX Platform_EN.pptx.extracted.md,8776,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/Performance of VastLakes Platform_EN.pptx.extracted.md,11363,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/STH1G Series Switches Datasheet_EN.pptx.extracted.md,13625,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/STH25G Series Switches Datasheet_EN.pptx.extracted.md,8710,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/Saga Software Function List_EN.pptx.extracted.md,20546,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/User Manual.docx.extracted.md,1291026,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/INFO_2025.12.17/Web Manual.docx.extracted.md,139915,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/IoT Board/SC0012-000.pdf.extracted.md,14890,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Key Points in WeChat meeting at 2024.10.31.docx.extracted.md,4543,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/LK-Passport-chip.pdf.extracted.md,760,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/PVCs.xlsx.extracted.md,1798,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Proposal.docx.extracted.md,5975,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Quotation_48 port switch 150pcs.xls.extracted.md,2633,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Quotation_5电口 工业MC.xls.extracted.md,2400,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/2024.5.27_RFP.xlsx.extracted.md,13972,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/2024.6.15_TT-RFP-EN.pdf.extracted.md,7449,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/2024.7.2_C TİPİ ETHERNET ANAHTAR KGYS.pdf.extracted.md,5407,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/R&D period&cost_2024.7.12.docx.extracted.md,2970,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/RFP_2024.12.11.docx.extracted.md,5547,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/RFP_2024.5.27.docx.extracted.md,1637,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/RFP_2024.5.9.docx.extracted.md,1965,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/RFP_2024.6.15.docx.extracted.md,3665,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/RFP_2024.7.2.docx.extracted.md,1304,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/RFP_2025.1.30.docx.extracted.md,1749,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/RFP_SFTP check List_2025.2.5.docx.extracted.md,3879,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/Saga Software Function List-release 7.3.0.xlsx.extracted.md,6121,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/Sftp reply_2024.7.11.docx.extracted.md,2354,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/RFP/Turk_Telekom_Test_Items.xlsx.extracted.md,2061,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Reply on SAGA Enterprise L3 Recommendation Report.docx.extracted.md,4445,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/SAGA Enterprise L3 Recommendation Report.pdf.extracted.md,13975,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Saga Feature List_7.5.x_L2+.xlsx.extracted.md,6623,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/SmartByte Ethernet Switch Catalog - 2025.pdf.extracted.md,101124,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-20240227.xlsx.extracted.md,19967,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/SmartByte Managed Industrial Ethernet switch  pricelist on CNY for Simon-价格有效期2026.09.1--2026.12.30.xlsx.extracted.md,21114,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/SmartByte managed Ethernet switch pricelist for Simon-20240516 更新.xlsx.extracted.md,4504,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/SmartByte managed Ethernet switch pricelist for Simon-价格有效期2026.09.1--2026.12.30.xlsx.extracted.md,3878,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/SmartByte popular Unmanaged industrial Ethernet switch and industrial MC  pricelist on CNY for Simon-20240111 更新.xlsx.extracted.md,31971,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/TRY.xls.extracted.md,4802,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/Turkey Client List.xlsx.extracted.md,7263,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/White TRONX.psd.extracted.md,500,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/mac_address&serial_number.xlsx.extracted.md,30524,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/workstation/06-competitors/110-turkey-local-competitors.xlsx.extracted.md,90041,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/workstation/08-customer-pipeline/111-turkey-customer-pipeline.xlsx.extracted.md,82875,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/workstation/08-customer-pipeline/114-turkey-customer-all-in-one-2026-10-25.xlsx.extracted.md,287349,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/加深关系绑定.docx.extracted.md,20167,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/成本统计.xlsx.extracted.md,2402,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/未付款 1/Quotation.xls.extracted.md,4645,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/未付款 1/STSC20241129007.xls.extracted.md,6051,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/未付款 1/Tronx Saga Siparis Listesi Smartbyte报价.xlsx.extracted.md,1732,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/未付款 1/Tronx Saga Siparis Listesi-3.xlsx.extracted.md,2461,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/警察局项目/CGKS_Field_Switch_DLink_DIS300G_Compliance.xlsx.extracted.md,6511,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/警察局项目/CGKS_Section_3.3_Network_Switches_EN.pdf.extracted.md,9750,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/警察局项目/EGM_Sections_3.3_3.4_EN.pdf.extracted.md,9802,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/警察局项目/KGYS_Section33_Translation_EN.pdf.extracted.md,7516,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/警察局项目/Turkey_Police_RFP_Compliance_Template.xlsx.extracted.md,2803,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/02-extracted/运费一览表.xlsx.extracted.md,1122,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/logo.png.meta.json,612,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/24 port.jpg.meta.json,879,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/8 port.jpg.meta.json,935,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/1.png.meta.json,696,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/10.jpg.meta.json,649,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/2.png.meta.json,697,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/3.jpg.meta.json,649,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/4.jpg.meta.json,649,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/5.jpg.meta.json,726,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/6.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/7.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/8.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/9.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3108-PG/video.mp4.meta.json,618,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/1.png.meta.json,697,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/2.png.meta.json,697,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/3.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/4.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/5.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/6.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/7.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/8.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/9.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3124-PX/video.mp4.meta.json,618,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/1.png.meta.json,697,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/2.png.meta.json,697,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/3.jpg.meta.json,649,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/4.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/5.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/6.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/7.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/8.jpg.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/9.jpg.meta.json,647,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/ANW-3148-PX/video.mp4.meta.json,617,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/after log-in.png.meta.json,693,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/出货/before log-in.png.meta.json,695,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/货款支付记录.jpg.meta.json,642,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/1st order sample  3层10G 24口 48口/银行报文.jpg.meta.json,632,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-1108-V label.png.meta.json,697,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/ANW-2116-PG label.png.meta.json,698,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/GUI after change.png.meta.json,648,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/PVC.png.meta.json,664,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/STC-424DGGPM-280W.cdr.meta.json,538,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/STC-448DGGPM.cdr.meta.json,528,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/awb.png.meta.json,622,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/label format.jpg.meta.json,902,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/shipping mark.png.meta.json,690,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/1.jpg.meta.json,958,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/2.jpg.meta.json,705,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/3.jpg.meta.json,958,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/4.jpg.meta.json,705,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/5.jpg.meta.json,958,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/6.jpg.meta.json,958,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/7.jpg.meta.json,958,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/ANW-1108-V.mp4.meta.json,635,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/1.jpg.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/2.png.meta.json,724,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/3.png.meta.json,852,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/After log-in.png.meta.json,748,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Before log-in.png.meta.json,750,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Steps for upgrading.png.meta.json,761,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip.meta.json,2161,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip.meta.json,6479,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/1.jpg.meta.json,960,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/10.jpg.meta.json,661,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/11.jpg.meta.json,661,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/2.png.meta.json,707,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/3.jpg.meta.json,960,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/4.jpg.meta.json,960,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/5.jpg.meta.json,960,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/6.jpg.meta.json,960,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/7.png.meta.json,707,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/8.jpg.meta.json,960,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/9.jpg.meta.json,659,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/出货/ANW-2116-PG/ANW-2116-PG.mp4.meta.json,640,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/货款支付记录 1.png.meta.json,715,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/货款支付记录 2.png.meta.json,715,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/2nd order sample 2层10G 16口 2光8管理/货款支付记录 3.png.meta.json,715,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/1.jpg.meta.json,883,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/2.jpg.meta.json,883,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/3.jpg.meta.json,883,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/4.jpg.meta.json,883,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/final packing box format.jpg.meta.json,686,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/packing box design.png.meta.json,724,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/packing box format.png.meta.json,723,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/prodcut label.png.meta.json,711,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Sample Confirmation/shipping label.png.meta.json,713,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/1.jpg.meta.json,871,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/2.jpg.meta.json,871,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/3.jpg.meta.json,871,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/4.jpg.meta.json,871,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/5.mp4.meta.json,590,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/6.mp4.meta.json,589,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/7.mp4.meta.json,588,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/8.mp4.meta.json,589,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/Shipping Label.jpg.meta.json,1154,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/Shipment Info/UPS label.png.meta.json,691,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip.meta.json,2325,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/lite-hotfix-7.3.13.bin.meta.json,914,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/货款支付记录 1.png.meta.json,695,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/货款支付记录 2.png.meta.json,695,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/货款支付记录 3.PNG.meta.json,695,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/货款支付记录 4.png.meta.json,695,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/货款支付记录 5.png.meta.json,695,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/货款支付记录 6.png.meta.json,695,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/采购_Yingjiao 2个样品用于测试/front_已P中性.jpg.meta.json,1081,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/采购_Yingjiao 2个样品用于测试/label_已P中性.jpg.meta.json,1081,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/3rd order 176台2光16电 L2 PoE/采购_Yingjiao 2个样品用于测试/收据.jpg.meta.json,875,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/1.jpg.meta.json,711,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/2.jpg.meta.json,635,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/24PX label.png.meta.json,699,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/24PX log-in.png.meta.json,704,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/24PX web gui.png.meta.json,706,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/3.jpg.meta.json,635,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/4.jpg.meta.json,635,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2224-PX/5.jpg.meta.json,635,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2248-PX/1.jpg.meta.json,635,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2248-PX/2.jpg.meta.json,634,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2248-PX/3.jpg.meta.json,635,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2248-PX/48PX label.png.meta.json,700,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2248-PX/48PX log-in.png.meta.json,704,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/ANW-2248-PX/48PX web gui.png.meta.json,706,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/PVC.png.meta.json,675,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/1.jpg.meta.json,757,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/2.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/3.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/4.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/5.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/6.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2224-PX/7.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/1.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/2.jpg.meta.json,680,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/3.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/4.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/发货图片/ANW-2248-PX/5.jpg.meta.json,681,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/Unshipped/需求_2025.2.28.png.meta.json,709,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/awb.png.meta.json,612,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/货款支付记录 1.png.meta.json,705,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/4th order sample  2层10G 24口 48口/货款支付记录 2.png.meta.json,705,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/1.jpg.meta.json,663,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/2.jpg.meta.json,663,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/24PX label.png.meta.json,727,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/24PX log-in.png.meta.json,732,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/24PX web gui.png.meta.json,734,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/3.jpg.meta.json,663,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2224-PX/4.jpg.meta.json,663,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/1.jpg.meta.json,663,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/2.jpg.meta.json,662,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/3.jpg.meta.json,663,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/48PX label.png.meta.json,727,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/48PX log-in.png.meta.json,732,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/ANW-2248-PX/48PX web gui.png.meta.json,734,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/TRX log-in.png.meta.json,704,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/TRX web gui.png.meta.json,706,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip.meta.json,2551,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip.meta.json,2126,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/Shipment Info/awb.png.meta.json,637,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/5th order sample  2层10G 24口 48口/货款支付记录.png.meta.json,701,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/1.jpg.meta.json,615,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/2.jpg.meta.json,614,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/3.jpg.meta.json,615,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/4.jpg.meta.json,615,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/5.jpg.meta.json,615,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/6.jpg.meta.json,615,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/7.png.meta.json,661,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/8.png.meta.json,664,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/9.png.meta.json,664,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/Shipment Info/awb.png.meta.json,665,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/6th order 6台工业2光8/货款支付记录.png.meta.json,677,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/INFO_2025.12.17/CENTEC web gui.jpg.meta.json,850,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/INFO_2025.12.17/INFO.rar.meta.json,4556,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/INFO_2025.12.17/STH-8C48DX/1.png.meta.json,590,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/INFO_2025.12.17/STH-8C48DX/2.png.meta.json,637,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/INFO_2025.12.17/STH-8C48DX/3.png.meta.json,637,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/INFO_2025.12.17/STH-8C48DX/4.png.meta.json,637,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/INFO_2025.12.17/STH-8C48DX/5.png.meta.json,637,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/IoT Board/IoT Prototype.jpg.meta.json,579,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/IoT Board/PC0012_Saga.7z.meta.json,932,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/IoT Board/PCB.jpg.meta.json,636,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/Karen工业模块测试结果/+75 degree.jpg.meta.json,613,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/Karen工业模块测试结果/-40 degree.jpg.meta.json,613,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/Karen工业模块测试结果/testing port 1.jpg.meta.json,621,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/Karen工业模块测试结果/testing port 2.jpg.meta.json,621,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/PCB板带LOGO.png.meta.json,608,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/RFP/第一次沟通_RFP_2024.6.15.mp4.meta.json,562,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/RFP/第二次沟通_RFP_2024.6.15.mp4.meta.json,562,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223455_452.png.meta.json,676,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223548_837.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223630_948.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223705_915.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223749_931.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223845_147.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223920_371.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_223957_115.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224033_579.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224111_987.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224156_330.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224233_298.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224308_147.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224347_969.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224435_810.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224520_306.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224554_074.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224626_417.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224715_689.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224805_273.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_224854_016.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225131_496.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225200_641.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225232_904.png.meta.json,678,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-09-23_225251_736.png.meta.json,676,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/WeChat Talk/Weixin Image_2026-10-06_172557_877.png.meta.json,676,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/03-binary-meta/tronx.png.meta.json,594,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip/customize/config,83,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip/customize/www/favicon.ico.meta.json,389,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip/customize/www/logo_dark.png.meta.json,551,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip/customize/www/logo_light.png.meta.json,554,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/TT-2208-TG.zip/customize/www/sysconf.json,184,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-01.jpg.meta.json,581,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-01.png.meta.json,588,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-02.jpg.meta.json,581,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK-02.png.meta.json,588,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK.ai.extracted.md,4319,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO CMYK.pdf.extracted.md,907,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-01.jpg.meta.json,578,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-01.png.meta.json,585,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-02.jpg.meta.json,578,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB-02.png.meta.json,585,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB.ai.extracted.md,385,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/DEGERLI HISSETTIRIR LOGO/TT DEGERLI LOGO RGB.pdf.extracted.md,825,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK-01.jpg.meta.json,546,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK-02.jpg.meta.json,546,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK.ai.extracted.md,397,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO CMYK.pdf.extracted.md,377,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB-01.jpg.meta.json,545,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB-02.jpg.meta.json,545,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB.ai.extracted.md,464,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/2nd order sample 2层10G 16口 2光8管理/出货/ANW-1108-V/TT-2208-TG/Turk Telekom Logo 3.zip/__MACOSX/DEGERLI HISSETTIRIR LOGO/._TT DEGERLI LOGO RGB.pdf.extracted.md,376,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/customize/config,84,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/customize/www/favicon.ico.meta.json,361,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/customize/www/logo_dark.png.meta.json,523,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/customize/www/logo_light.png.meta.json,526,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/customize/www/sysconf.json,184,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/startup.conf,108,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/3rd order 176台2光16电 L2 PoE/TT-2116-PG/TT-2116-PG.zip/startup.def,107,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip/customize/config,87,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip/customize/www/favicon.ico.meta.json,372,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip/customize/www/logo_dark.png.meta.json,535,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip/customize/www/logo_light.png.meta.json,536,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip/customize/www/sysconf.json,184,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip/startup.conf,108,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-24TP4X.zip/startup.def,107,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip/customize/config,87,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip/customize/www/favicon.ico.meta.json,372,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip/customize/www/logo_dark.png.meta.json,535,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip/customize/www/logo_light.png.meta.json,536,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/5th order sample  2层10G 24口 48口/Shipment Info/TRX-AS-48TP4X.zip/customize/www/sysconf.json,184,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/ARCHIVE-MEMBERS-INDEX.csv,23875,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/INFO_2025.12.17/INFO.rar.inventory.json,4517,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_3Dstep.7z.inventory.json,658,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_BOM.xlsx.extracted.md,2644,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Drill/Con_Cm4Io-Telekom-NPTH-drl_map.gbr,84986,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Drill/Con_Cm4Io-Telekom-NPTH.drl,793,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Drill/Con_Cm4Io-Telekom-PTH-drl_map.gbr,227691,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Drill/Con_Cm4Io-Telekom-PTH.drl,6091,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-B_Courtyard.gbr,8192,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-B_Fab.gbr,87009,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-B_Mask.gbr,128355,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-B_Paste.gbr,3490,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-B_Silkscreen.gbr,79235,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-Edge_Cuts.gbr,644,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-F_Courtyard.gbr,21498,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-F_Fab.gbr,245634,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-F_Mask.gbr,138343,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-F_Paste.gbr,12756,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-F_Silkscreen.gbr,162536,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-L1_F.gbr,206304,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-L2_Gnd.gbr,274342,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-L3_5v.gbr,356439,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-L4_3v3.gbr,336373,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-L5_Gnd.gbr,274572,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-L6_B.gbr,146333,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Gerber/Con_Cm4Io-Telekom-User_Drawings.gbr,491350,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/IPC-D-356/Con_Cm4Io-Telekom.d356,62151,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Place/Con_Cm4Io-Telekom-bottom.pos,3026,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/04-archive-members/IoT Board/PC0012_Saga.7z/PC0012-000_Gerber_r0.zip/Place/Con_Cm4Io-Telekom-top.pos,7995,0o100644,regular
+ingest/angora-1__arena-01a0ce39__5acb613/README.md,7503,0o100644,regular
+tools/build_ingest.py,31415,0o100644,regular
+tools/extract_archives.py,12478,0o100644,regular
+tools/finalize_docs.py,10012,0o100644,regular
+tools/verify_ingest.py,11382,0o100644,regular

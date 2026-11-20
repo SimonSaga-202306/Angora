@@ -1,0 +1,1 @@
+721/https://ortakakil.org.tr/author/oapgelistirme/)

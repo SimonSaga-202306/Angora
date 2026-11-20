@@ -1,0 +1,8 @@
+{
+  "source": "AR04",
+  "chunks": 3,
+  "bytes": 23226,
+  "sha256": "bf993a6addeaaf16a868ed2e65e34ced3df9ba48a9afe5e882eeab36a15c2b0b",
+  "method": "concatenated saved manual transcriptions with no separator",
+  "limitation": "no automatic byte comparison to tool response or raw HTML; fragments are not independent witnesses"
+}

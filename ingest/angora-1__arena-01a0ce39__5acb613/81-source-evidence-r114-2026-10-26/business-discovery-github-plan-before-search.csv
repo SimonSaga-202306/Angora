@@ -1,0 +1,4 @@
+sequence,search_id,query,purpose,stop_rule
+45,Q45,"""58029"" ""Angora Networks"" wireshark github -filetype:pdf",seek dated registry derivative with specific entry,avoid full multi-company directories; independent source status not assumed
+46,Q46,"site:github.com ""58029"" ""Angora Networks"" -filetype:pdf",seek exact GitHub artifact,search snippets are not source text
+47,Q47,"""Angora Networks"" ""58029"" wireshark timestamp -filetype:pdf",seek dated attribution,do not infer exact allocation year from nearby rows

@@ -1,0 +1,8 @@
+{
+  "source": "AR06",
+  "chunks": 3,
+  "bytes": 18153,
+  "sha256": "daf8327b138ee67b7e166411d7a7beaf1e815fb05f271a77220330584dd9d681",
+  "method": "concatenated saved manual transcriptions with no separator",
+  "limitation": "not automatically compared to tool response or HTML; same source as P05"
+}

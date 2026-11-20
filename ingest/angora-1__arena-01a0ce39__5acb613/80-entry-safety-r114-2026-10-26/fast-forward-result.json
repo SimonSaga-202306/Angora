@@ -1,0 +1,11 @@
+{
+  "command": "git merge --ff-only --quiet FETCH_HEAD",
+  "before": "691123abc7462489146cece19b81b4f917b58646",
+  "target": "0f924fe12dd75744f3ef91c6971161eef47491b9",
+  "after": "0f924fe12dd75744f3ef91c6971161eef47491b9",
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "",
+  "monotonic_after_seconds": 121.165595237,
+  "stash_not_popped": "d41cf274399beff7ce61073c0110985b7b3ecfd5"
+}

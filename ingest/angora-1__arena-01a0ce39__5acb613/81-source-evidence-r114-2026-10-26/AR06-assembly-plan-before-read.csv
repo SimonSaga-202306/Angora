@@ -1,0 +1,4 @@
+sequence,input_path,output_path,method
+1,archive-chunks/AR06/chunk-0.visible.md,archive-replay/kvkk.gov.tr/Icerik/6827/20201121114433/index.visible.md,concatenate exact saved bytes without separators
+2,archive-chunks/AR06/chunk-1.visible.md,archive-replay/kvkk.gov.tr/Icerik/6827/20201121114433/index.visible.md,concatenate exact saved bytes without separators
+3,archive-chunks/AR06/chunk-2.visible.md,archive-replay/kvkk.gov.tr/Icerik/6827/20201121114433/index.visible.md,concatenate exact saved bytes without separators

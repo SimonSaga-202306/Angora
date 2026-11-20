@@ -1,0 +1,6 @@
+rank,tool_result_id,title,url,page_age,disposition
+1,1,About - Angora Networks,https://www.angoranetworks.com/angora-networks-_en/?lang=en,Tuesday December 27 2022,repeat retrospective timeline
+2,2,Agora Networks Asset Profile,https://www.preqin.com/data/profile/asset/agora-networks/479627,,different entity with accidental unrelated financial snippet; not opened retained or analyzed
+3,3,Angora Helps You Build an E-Commerce Brand,https://joinangora.com/meet-the-team,,unrelated entity; not opened
+4,4,When Results Are All That Matters The Case of the Angora Fuzzer,https://andreas-zeller.info/2019/10/10/when-results-are-all-that-matters-case.html,Thursday October 10 2019,unrelated software; not opened
+5,5,2019 - Angora file directory,https://chomikuj.pl/greg_23/Angora/2019,,unrelated PDF directory returned despite exclusion; not opened or downloaded

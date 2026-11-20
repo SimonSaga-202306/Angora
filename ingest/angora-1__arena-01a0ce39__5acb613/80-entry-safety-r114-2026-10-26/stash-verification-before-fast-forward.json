@@ -1,0 +1,11 @@
+{
+  "stash_oid": "d41cf274399beff7ce61073c0110985b7b3ecfd5",
+  "stash_third_parent_tree_commit": "b14626d142b3e233e1b11bd0d5112ba4bedeebf4",
+  "planned_count": 868,
+  "observed_count": 868,
+  "extra_count": 0,
+  "missing_count": 0,
+  "mismatch_count": 0,
+  "monotonic_verified_seconds": 111.380651923,
+  "stash_policy": "not popped; local only"
+}

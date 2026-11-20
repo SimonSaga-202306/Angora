@@ -1,0 +1,9 @@
+sequence,path,kind,rule
+1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/README.md,source scope and audit,include complete path inventories and limitations
+2,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md,main report,one existing entity and source-specific claims
+3,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r114-appendix.md,standalone dossier appendix,explicit r111 present-status update and known corrections
+4,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r114.md,standalone mapping,explicit r111 present-status update and boundaries
+5,ingest/angora-1__arena-01a0ce39__5acb613/82-followup-angora-r114-2026-10-26/angora-networks.md,one follow-up file for existing customer,no contact and no PASS inquiries
+6,ingest/angora-1__arena-01a0ce39__5acb613/83-audit-r114-2026-10-26.md,audit,record known deviations and timing
+7,tools/verify_r114.py,read-only verifier,verify explicit scope hashes anchors links and master prefix
+8,tools/test_verify_r114.py,tests,small isolated positive and negative tests

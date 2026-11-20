@@ -1,0 +1,2 @@
+id,api_endpoint,output_path,purpose,stop_guard,boundary
+GH01,repos/wireshark/wireshark/commits/48a8a88e89a0e469d5d5c728abc5bfc6f004ad8f,github-api/wireshark/wireshark/commits/48a8a88e89a0e469d5d5c728abc5bfc6f004ad8f.json,look up exact commit hash discovered in Q37 diff,if response includes stopped entities isolate and do not use,commit JSON and patch are not full enterprises.tsv or independent IANA allocation evidence; git timestamp can be user-controlled

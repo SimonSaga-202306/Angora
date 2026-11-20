@@ -1,0 +1,4 @@
+attempt,result,detail,remediation
+1,FAIL,link checker rejected an existing directory link in audit,change checker to accept existing files or directories within repository; preserve failed attempt
+2,PASS,40 anchors and 101 local links checked,see verification-result-before-review.json; local consistency only
+3,PASS,40 anchors and 102 local links checked,see verification-result.json after deliverable review; local consistency only

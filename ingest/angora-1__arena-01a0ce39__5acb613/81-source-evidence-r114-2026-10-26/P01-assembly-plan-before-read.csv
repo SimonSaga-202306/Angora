@@ -1,0 +1,4 @@
+sequence,input_path,expected_role,output_path,method
+1,external-chunks/P01/chunk-0.visible.md,first returned tool block,external-visible/www.kamubib-bimy.org/2020/program/index.visible.md,concatenate exact saved bytes in order without separators
+2,external-chunks/P01/chunk-1.visible.md,second returned tool block,external-visible/www.kamubib-bimy.org/2020/program/index.visible.md,concatenate exact saved bytes in order without separators
+3,external-chunks/P01/chunk-2.visible.md,third returned tool block,external-visible/www.kamubib-bimy.org/2020/program/index.visible.md,concatenate exact saved bytes in order without separators

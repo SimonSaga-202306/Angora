@@ -1,0 +1,2 @@
+query,old_scheme,corrected_scheme,old_sha256,new_sha256,note
+Q53,https,http,ee3c95389d48a23881956f97dbc366f8a92a021b771e01802fbf7a27635d2085,88e32394384b4a89f320dc978d02b35b83e1ef58d44515445b08677cd08f6e52,unrelated result; not opened

@@ -1,0 +1,8 @@
+```json
+[["urlkey","timestamp","original","mimetype","statuscode","digest","length"],
+["org,kamubib-bimy)/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","20220705120833","https://www.kamubib-bimy.org/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","text/html","200","3AQAWWPVE4ORQ6UC74X54X5MNHAJFDPB","27305"],
+["org,kamubib-bimy)/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","20221204180601","https://www.kamubib-bimy.org/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","text/html","200","3MKRQSZXKSXJFZ32V5TPUT6XBO5Q67IW","28030"],
+["org,kamubib-bimy)/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","20230330105032","https://www.kamubib-bimy.org/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","text/html","200","TT7VND47RHM3U4CH3KI473PSEBIOBR23","28012"],
+["org,kamubib-bimy)/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","20230511184124","https://www.kamubib-bimy.org/2022/oturumlar/oturum-4-evren-otesi-ve-siber-guvenlik","text/html","200","ZZP5NSWNJX7JHXMYKRZCELKV4HEC5OUS","28698"]]
+
+```

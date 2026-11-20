@@ -1,0 +1,8 @@
+{
+  "comparison_count": 5,
+  "source_pairs": "P01/AR04, P02/AR05, P05/AR06; same publisher per pair",
+  "selected_substrings_all_unique_and_equal": true,
+  "AR06_visible_contains_angora": false,
+  "AR06_visible_contains_levent": false,
+  "limitations": "absence from saved visible text does not prove absence from event, recordings, imagery or all documentation; text matching does not prove raw HTML or every revision"
+}

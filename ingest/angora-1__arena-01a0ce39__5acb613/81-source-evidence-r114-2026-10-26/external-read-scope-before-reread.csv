@@ -1,0 +1,19 @@
+sequence,id,path,size_bytes,review_mode
+1,P01,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.kamubib-bimy.org/2020/program/index.visible.md,17146,display complete source
+2,P02,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/ortakakil.org.tr/ozgecmisler/levent-kilic/index.visible.md,4217,display complete source
+3,P03,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.iana.org/assignments/enterprise-numbers/page-581/index.visible.md,6755,display corrected source; manual errors logged
+4,P04,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.linkedin.com/posts/6914088789128720384/fetch-failure.json,443,failure record not source
+5,P05,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.kvkk.gov.tr/Icerik/6827/index.visible.md,9760,display complete source
+6,CDX01,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/advensis.com.tr/angoranetworks/index.cdx.visible.txt,875,display complete index
+7,CDX02,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/support.angoranetworks.com/p/330/index.cdx.visible.txt,413,display complete index
+8,CDX03,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/support.angoranetworks.com/ht_kb/layer-2-technologies-rate-limit-and-storm-control/index.cdx.visible.txt,352,display complete index
+9,AR01,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/advensis.com.tr/angoranetworks/20201124234344/index.visible.md,7029,display complete replay
+10,AR02,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/support.angoranetworks.com/p/330/20240221043438/index.visible.md,2558,display complete replay
+11,AR03,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/layer-2-technologies-rate-limit-and-storm-control/20220814180044/index.visible.md,5645,quarantined redirect; complete byte and UTF8 scan; no target click
+12,P01-C0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-chunks/P01/chunk-0.visible.md,8345,auxiliary duplicate chunk; complete byte and UTF8 scan
+13,P01-C1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-chunks/P01/chunk-1.visible.md,8421,auxiliary duplicate chunk; complete byte and UTF8 scan
+14,P01-C2,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-chunks/P01/chunk-2.visible.md,380,auxiliary duplicate chunk; complete byte and UTF8 scan
+15,P05-C0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-chunks/P05/chunk-0.visible.md,8589,auxiliary duplicate chunk; complete byte and UTF8 scan
+16,P05-C1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-chunks/P05/chunk-1.visible.md,1171,auxiliary duplicate chunk; complete byte and UTF8 scan
+17,P03-OLD,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.iana.org/assignments/enterprise-numbers/page-581/index.visible.pre-correction.md,6760,auxiliary inaccurate pre-correction copy; byte and UTF8 scan
+18,P05-OLD,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-chunks/P05/chunk-0.visible.pre-correction.md,8586,auxiliary pre-correction chunk; byte and UTF8 scan

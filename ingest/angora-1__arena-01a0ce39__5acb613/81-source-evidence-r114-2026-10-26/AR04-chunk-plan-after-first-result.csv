@@ -1,0 +1,4 @@
+source_id,chunk_index,expected_total,target,note
+AR04,0,3,archive-chunks/AR04/chunk-0.visible.md,first block saved before chunk count was known
+AR04,1,3,archive-chunks/AR04/chunk-1.visible.md,fetch and manually transcribe next without separator
+AR04,2,3,archive-chunks/AR04/chunk-2.visible.md,fetch and manually transcribe last without separator

@@ -1,0 +1,15 @@
+{
+  "branch": "arena/5da004bd-angora",
+  "session_given_date_utc": "2026-10-26",
+  "environment_first_observed_utc": "2026-11-20T01:27:40Z",
+  "environment_scope_observed_utc": "2026-11-20T01:28:41.022314+00:00",
+  "monotonic_scope_seconds": 79.744133333,
+  "monotonic_earliest_current_environment_seconds": 18.88,
+  "local_head_before_fetch": "691123abc7462489146cece19b81b4f917b58646",
+  "remote_tip_observed": "0f924fe12dd75744f3ef91c6971161eef47491b9",
+  "incoming_untracked_count_before_safety_files": 868,
+  "incoming_untracked_lstat_bytes": 46015150,
+  "date_caveat": "Session-given UTC date conflicts with sandbox clock. Neither clock is independently calibrated; do not infer old web capture dates from current clock.",
+  "continuation_caveat": "Prior continuation summary reported uncommitted r114 files and a local stash; neither exists in this freshly initialized workspace. No missing file bytes are reconstructed or asserted verified here.",
+  "guardrail": "Prelist; verify every incoming blob, remote original or known protected variant; explicit stash pathspec; verify third parent before ff; no reset, clean, switch, stash pop, or unbounded staging."
+}

@@ -1,0 +1,4 @@
+rank,tool_result_id,title,url,page_age,disposition
+1,1,wireshark - debian-backports enterprises.tsv diff,https://git.progress-linux.org/packages/engywuck-backports/wireshark/diff/enterprises.tsv?h=upstream&amp;id=48a8a88e89a0e469d5d5c728abc5bfc6f004ad8f,,derived registry diff lead; check publisher and dated commit before use
+2,2,AS58029 GROUPAMA SUPPORTS ET SERVICES details,https://ipinfo.io/AS58029,,AS number is unrelated namespace; not opened or attributed to Angora
+3,3,AS58029 GROUPAMA SUPPORTS ET SERVICES Details,https://www.iplocate.io/AS58029,,AS number is unrelated namespace; not opened or attributed to Angora

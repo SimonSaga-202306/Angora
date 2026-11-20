@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "read_scopes": {
+    "previously_read_paths": 97,
+    "previous_rechecked": 96,
+    "quarantined_not_reopened": 1,
+    "new_paths": 30,
+    "combined_paths": 127,
+    "combined_bytes": 414017
+  },
+  "sources_and_anchors": {
+    "catalog_path_rows": 27,
+    "anchors": 40,
+    "boundaries": 13,
+    "corrections": 14
+  },
+  "discovery_and_cdx": {
+    "queries": 69,
+    "nonzero_search_rows": 254,
+    "zero_queries": [
+      "Q32",
+      "Q54",
+      "Q66"
+    ],
+    "new_cdx_records": 8
+  },
+  "ar08": {
+    "chunks_kept_separate": 2,
+    "known_transcription_edits": 1,
+    "selected_substrings": 4
+  },
+  "dossier": {
+    "prefix_bytes": 51763,
+    "append_bytes": 394,
+    "total_bytes": 52157
+  },
+  "local_links_checked": 102,
+  "elapsed_seconds": 723.344,
+  "limitations": "Local consistency only; not remote response, original HTML, certificate, attendance, delivery or device test."
+}

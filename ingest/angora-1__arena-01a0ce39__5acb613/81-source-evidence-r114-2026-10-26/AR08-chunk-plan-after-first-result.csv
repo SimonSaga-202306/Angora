@@ -1,0 +1,3 @@
+source_id,chunk_index,expected_total,target,note
+AR08,0,2,archive-chunks/AR08/chunk-0.visible.md,first block transcribed before chunk plan count known
+AR08,1,2,archive-chunks/AR08/chunk-1.visible.md,fetch last and manually transcribe; if stopped subjects appear quarantine rather than use

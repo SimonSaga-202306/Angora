@@ -1,0 +1,7 @@
+sequence,search_id,query,purpose,stop_rule
+48,Q48,"""Vizyon 2023"" ""Levent Kılıç"" ""23 Ekim"" -filetype:pdf",seek independent 2020 event attendance or speech evidence,agenda name alone is not proof of attendance
+49,Q49,"""Kamu BİB"" ""Levent Kılıç"" ""2020"" konuşmacı -filetype:pdf",seek distinct 2020 retrospective report,do not equate namesakes or 2022 event
+50,Q50,"site:kamubib-bimy.org ""Taylan Esen"" ""Angora"" 2022 -filetype:pdf",seek organizer context for r111 2022 event,separate source from repeat media article
+51,Q51,"""Taylan Esen"" ""metaverse"" ""Angora"" ""2022"" -filetype:pdf",seek independent reporting of 2022 speech,not current employment or client proof
+52,Q52,"""Angora Networks"" ""2019"" ""Levent Kılıç"" konferans -filetype:pdf",seek pre-2020 business evidence,search year does not establish page publication date
+53,Q53,"""Angora Networks"" ""2018"" ""teknoloji"" ""Ankara"" -filetype:pdf",seek 2018 archival leads,avoid old RFQ and PDF and stopped entities

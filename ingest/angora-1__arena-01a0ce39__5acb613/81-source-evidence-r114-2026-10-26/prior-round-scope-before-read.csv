@@ -1,0 +1,15 @@
+sequence,path,size_bytes,purpose
+1,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/182-angora-management-voice-evidence-r113-2026-10-26.md,7612,prior business context or r113 boundary; no old master dossier
+2,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r113-appendix.md,4374,prior business context or r113 boundary; no old master dossier
+3,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r113.md,4024,prior business context or r113 boundary; no old master dossier
+4,ingest/angora-1__arena-01a0ce39__5acb613/78-followup-angora-r113-2026-10-26/angora-networks.md,1887,prior business context or r113 boundary; no old master dossier
+5,ingest/angora-1__arena-01a0ce39__5acb613/79-audit-r113-2026-10-26.md,4852,prior business context or r113 boundary; no old master dossier
+6,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/README.md,7133,prior business context or r113 boundary; no old master dossier
+7,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/claim-boundaries.csv,2981,prior business context or r113 boundary; no old master dossier
+8,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/issues-and-corrections.csv,2249,prior business context or r113 boundary; no old master dossier
+9,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/180-angora-commercial-history-evidence-r111-2026-10-26.md,10678,prior business context or r113 boundary; no old master dossier
+10,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r111-appendix.md,4672,prior business context or r113 boundary; no old master dossier
+11,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r111.md,4272,prior business context or r113 boundary; no old master dossier
+12,ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/time-and-provenance-correction.md,2083,prior business context or r113 boundary; no old master dossier
+13,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/176-angora-early-commercial-evidence-r107-2026-10-26.md,9518,prior business context or r113 boundary; no old master dossier
+14,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/177-angora-koz-survey-channel-evidence-r108-2026-10-26.md,9811,prior business context or r113 boundary; no old master dossier

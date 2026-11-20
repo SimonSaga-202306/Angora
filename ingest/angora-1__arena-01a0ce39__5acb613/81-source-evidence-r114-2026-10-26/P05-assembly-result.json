@@ -1,0 +1,7 @@
+{
+  "chunks": 2,
+  "bytes": 9760,
+  "sha256": "9ee55cf9b440f0fc6a8db7cbe061357619afcd077d6de07038f85682ccbf0395",
+  "method": "concatenated manually saved fragments without separator",
+  "caveat": "not automatically compared with tool response or original HTML; dynamic sidebar has dates later than session-given date"
+}

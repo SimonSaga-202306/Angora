@@ -1,0 +1,58 @@
+{
+  "attempt_1": "stopped before git add; unexpected regenerated Python bytecode",
+  "backups": [
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/stage-attempt-1-paths.txt",
+      "bytes": 28336,
+      "sha256": "107a508298715d73cec01e73b2293d27af48c970535e08e5731c043659cbce58"
+    },
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/stage-attempt-1-manifest.csv",
+      "bytes": 52002,
+      "sha256": "e1cadab6b7004512db6bb690dc68a08e8309173e4f7db9725ba78725a0373cc8"
+    }
+  ],
+  "removed_only_named_test_generated_bytecode": [
+    {
+      "path": "tools/__pycache__/test_verify_r111.cpython-311.pyc",
+      "bytes": 9367,
+      "sha256": "2d1c533b69d598025029580a9f68d13522df8cc5c9edba69048c28816156aa2f"
+    },
+    {
+      "path": "tools/__pycache__/test_verify_r112.cpython-311.pyc",
+      "bytes": 8065,
+      "sha256": "078edaaff24193157d0a3a03ba6a5c9ae53fcbc8172c66447e07f20bd8b68220"
+    },
+    {
+      "path": "tools/__pycache__/test_verify_r113.cpython-311.pyc",
+      "bytes": 5653,
+      "sha256": "bdaa1afec1378440f556e635b8f78711374508222bb176cfbd31ad9474574fd2"
+    },
+    {
+      "path": "tools/__pycache__/test_verify_r114.cpython-311.pyc",
+      "bytes": 8136,
+      "sha256": "750dbe68f3389f7b39311d9e053b0f95dac687f3e092d96c7e6c8382fcf4a20f"
+    },
+    {
+      "path": "tools/__pycache__/verify_r111.cpython-311.pyc",
+      "bytes": 40000,
+      "sha256": "16f08942f8ffeb996c1f2b1a314c3d298a5f8d99b5281a451d1b199fde04d1c8"
+    },
+    {
+      "path": "tools/__pycache__/verify_r112.cpython-311.pyc",
+      "bytes": 47613,
+      "sha256": "c57226b8cc85706d2284c91ea63d259b00b03338e38b5a875c06d8a72ef8b5f1"
+    },
+    {
+      "path": "tools/__pycache__/verify_r113.cpython-311.pyc",
+      "bytes": 35104,
+      "sha256": "3068cd8fc938dc30715a211ac3febfae6689dfd837b534cf31275c8cb64bda93"
+    },
+    {
+      "path": "tools/__pycache__/verify_r114.cpython-311.pyc",
+      "bytes": 27317,
+      "sha256": "d3c46d8e7a65b16a3e76445e67765961261a7bc215618da1f1f9445e61b262bb"
+    }
+  ],
+  "future_python": "PYTHONDONTWRITEBYTECODE=1"
+}

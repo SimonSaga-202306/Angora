@@ -1,0 +1,14 @@
+[
+  {
+    "original": "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md",
+    "draft": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/deliverable-review-drafts/main-report.pre-review.md",
+    "bytes": 8881,
+    "sha256": "b31c14971e41d2e537f9a1be7fd9c8a64397e2ffb31d19115910bcdd1df9d865"
+  },
+  {
+    "original": "ingest/angora-1__arena-01a0ce39__5acb613/83-audit-r114-2026-10-26.md",
+    "draft": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/deliverable-review-drafts/audit.pre-review.md",
+    "bytes": 5531,
+    "sha256": "2064d94bc15f1782091f3af04e3c264994e3da2112b3335d3c340598d6406c87"
+  }
+]

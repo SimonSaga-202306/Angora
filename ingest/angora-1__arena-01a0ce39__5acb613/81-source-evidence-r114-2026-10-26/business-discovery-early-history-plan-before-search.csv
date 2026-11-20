@@ -1,0 +1,7 @@
+sequence,id,query,purpose,boundary
+62,Q62,"""Angora Networks"" ""2018"" ""yerli"" ""ağ"" -filetype:pdf -Larch -Scodeno -Lanaotek",seek pre-2019 primary historical claims,avoid prohibited subjects and PDF
+63,Q63,"""Angora Networks"" ""2017"" ""network"" -filetype:pdf -Larch -Scodeno -Lanaotek",seek contemporaneous 2017 material,search year alone is not publication proof
+64,Q64,"site:youtube.com ""Angora Networks"" ""2019"" ""Levent"" -filetype:pdf -Larch -Scodeno -Lanaotek",seek dated management video earlier than 2020,only use watchable body with identity and dates
+65,Q65,"""Angora Networks"" ""2019"" ""etkinlik"" ""Ankara"" -filetype:pdf -Larch -Scodeno -Lanaotek",seek dated pre-2020 event,programmes are not evidence of attendance
+66,Q66,"""Angora Networks"" ""2020"" ""ihracat"" ""Levent Kılıç"" -filetype:pdf -Larch -Scodeno -Lanaotek",seek historical export statements without old order analysis,no values or transaction claims
+67,Q67,"""Angora Networks"" ""2016"" ""elektronik"" ""üretim"" ""2017"" -filetype:pdf -Larch -Scodeno -Lanaotek",seek source dated before 2020 on 2016 claim,do not equate bio with registry

@@ -1,0 +1,9 @@
+{
+  "base_scope_paths": 34,
+  "base_scope_bytes": 191166,
+  "extension_paths": 2,
+  "extension_bytes": 373,
+  "combined_distinct_paths": 36,
+  "combined_bytes": 191539,
+  "note": "includes failures, indexes, manual chunk duplicates, and the erroneously reread prior quarantined source; not 36 independent sources"
+}

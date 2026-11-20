@@ -1,0 +1,3 @@
+sequence,input_path,expected_role,output_path,method
+1,external-chunks/P05/chunk-0.visible.md,first tool block with logged sidebar spelling correction,external-visible/www.kvkk.gov.tr/Icerik/6827/index.visible.md,concatenate exact saved bytes in order without separators
+2,external-chunks/P05/chunk-1.visible.md,second tool block,external-visible/www.kvkk.gov.tr/Icerik/6827/index.visible.md,concatenate exact saved bytes in order without separators

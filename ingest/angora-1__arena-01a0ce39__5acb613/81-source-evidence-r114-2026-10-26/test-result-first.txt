@@ -1,0 +1,33 @@
+test_chunks_reject_reordering_and_corruption (test_verify_r111.VerifyR111Tests.test_chunks_reject_reordering_and_corruption) ... ok
+test_csv_parser_rejects_unquoted_commas_and_accepts_quotes (test_verify_r111.VerifyR111Tests.test_csv_parser_rejects_unquoted_commas_and_accepts_quotes) ... ok
+test_dossier_rejects_changed_prefix_and_suffix (test_verify_r111.VerifyR111Tests.test_dossier_rejects_changed_prefix_and_suffix) ... ok
+test_file_hash_catches_same_length_tampering (test_verify_r111.VerifyR111Tests.test_file_hash_catches_same_length_tampering) ... ok
+test_file_size_is_not_just_a_hash_check (test_verify_r111.VerifyR111Tests.test_file_size_is_not_just_a_hash_check) ... ok
+test_line_anchor_rejects_wrong_line_and_missing_text (test_verify_r111.VerifyR111Tests.test_line_anchor_rejects_wrong_line_and_missing_text) ... ok
+test_repository_boundary_rejects_escape (test_verify_r111.VerifyR111Tests.test_repository_boundary_rejects_escape) ... ok
+test_cdx_requires_valid_header_and_status (test_verify_r112.VerifyR112Tests.test_cdx_requires_valid_header_and_status) ... ok
+test_chunk_run_rejects_identity_and_count_drift (test_verify_r112.VerifyR112Tests.test_chunk_run_rejects_identity_and_count_drift) ... ok
+test_chunk_run_rejects_incomplete_or_unterminated (test_verify_r112.VerifyR112Tests.test_chunk_run_rejects_incomplete_or_unterminated) ... ok
+test_directory_compare_rejects_changed_blob (test_verify_r112.VerifyR112Tests.test_directory_compare_rejects_changed_blob) ... ok
+test_directory_rejects_duplicate_and_traversal (test_verify_r112.VerifyR112Tests.test_directory_rejects_duplicate_and_traversal) ... ok
+test_git_blob_rejects_same_length_tampering (test_verify_r112.VerifyR112Tests.test_git_blob_rejects_same_length_tampering) ... ok
+test_git_blob_rejects_wrong_size (test_verify_r112.VerifyR112Tests.test_git_blob_rejects_wrong_size) ... ok
+test_join_detects_corrupt_chunk (test_verify_r113.VerifyR113Tests.test_join_detects_corrupt_chunk) ... ok
+test_redacted_view_masks_exactly_two_occurrences (test_verify_r113.VerifyR113Tests.test_redacted_view_masks_exactly_two_occurrences) ... ok
+test_redacted_view_rejects_unexpected_count (test_verify_r113.VerifyR113Tests.test_redacted_view_rejects_unexpected_count) ... ok
+test_selected_body_is_bounded (test_verify_r113.VerifyR113Tests.test_selected_body_is_bounded) ... ok
+test_selected_body_rejects_missing_marker (test_verify_r113.VerifyR113Tests.test_selected_body_rejects_missing_marker) ... ok
+test_source_classification_does_not_confuse_replay_with_index (test_verify_r113.VerifyR113Tests.test_source_classification_does_not_confuse_replay_with_index) ... ok
+test_wayback_normalization_only_replaces_capture_path (test_verify_r113.VerifyR113Tests.test_wayback_normalization_only_replaces_capture_path) ... ok
+test_anchor_must_be_on_expected_line (test_verify_r114.VerifyR114Tests.test_anchor_must_be_on_expected_line) ... ok
+test_cdx_rejects_future_and_bad_wrapper (test_verify_r114.VerifyR114Tests.test_cdx_rejects_future_and_bad_wrapper) ... ok
+test_checked_file_detects_changed_byte (test_verify_r114.VerifyR114Tests.test_checked_file_detects_changed_byte) ... ok
+test_correction_changes_exactly_one_piece (test_verify_r114.VerifyR114Tests.test_correction_changes_exactly_one_piece) ... ok
+test_rejects_escaping_or_absolute_paths (test_verify_r114.VerifyR114Tests.test_rejects_escaping_or_absolute_paths) ... ok
+test_strict_csv_rejects_extra_columns (test_verify_r114.VerifyR114Tests.test_strict_csv_rejects_extra_columns) ... ok
+test_valid_cdx_and_wrong_status (test_verify_r114.VerifyR114Tests.test_valid_cdx_and_wrong_status) ... ok
+
+----------------------------------------------------------------------
+Ran 28 tests in 0.003s
+
+OK

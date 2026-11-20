@@ -1,0 +1,9 @@
+sequence,search_id,query,purpose,stop_rule
+37,Q37,"""58029"" ""Angora Networks"" ""2021"" -filetype:pdf",seek historical PEN context,do not infer allocation date from query
+38,Q38,"""58029"" ""Angora Networks"" ""2022"" -filetype:pdf",seek dated independent registry capture,do not infer allocation date from pageAge
+39,Q39,"site:oidref.com ""1.3.6.1.4.1.58029"" -filetype:pdf",seek referenced identifier context,third-party directory is not device MIB certification
+40,Q40,"""Angora Networks"" ""1.3.6.1.4.1.58029"" -filetype:pdf",seek direct product OID documentation,do not download archives or datasheets
+41,Q41,"""Kamu-BİB’23"" ""Levent Kılıç"" konuştu -filetype:pdf",seek actual participation report,distinguish planned speaker from actual attendance
+42,Q42,"""Angora Networks"" ""2020"" ""Kamu-BİB"" ""23"" -filetype:pdf",seek independent event report,no related old RFQ or PDF
+43,Q43,"site:youtube.com ""KAMU-BİB"" ""23102020"" ""14"" -filetype:pdf",seek session video,do not infer attendance from unrelated video title
+44,Q44,"""Angora Networks"" ""Levent Kılıç"" ""2020"" etkinliği -filetype:pdf",seek source identifying actual attendance,avoid conflating same-name people or years

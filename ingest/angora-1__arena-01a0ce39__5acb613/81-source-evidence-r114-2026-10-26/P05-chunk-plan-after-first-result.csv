@@ -1,0 +1,3 @@
+source_id,chunk_index,expected_total,target,sequence_note
+P05,0,2,external-chunks/P05/chunk-0.visible.md,first block manually transcribed and one sidebar typo corrected with prior copy
+P05,1,2,external-chunks/P05/chunk-1.visible.md,to fetch next and transcribe without adding separator

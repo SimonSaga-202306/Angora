@@ -1,0 +1,3 @@
+sequence,input_path,output_path,method
+1,archive-chunks/AR08/chunk-0.visible.md,archive-replay/www.kamubib-bimy.org/2022/program/20221204195052/index.visible.md,concatenate saved manual transcriptions without separator
+2,archive-chunks/AR08/chunk-1.visible.md,archive-replay/www.kamubib-bimy.org/2022/program/20221204195052/index.visible.md,concatenate saved manual transcriptions without separator

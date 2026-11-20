@@ -1,0 +1,9 @@
+{
+  "session_given_date_utc": "2026-10-26",
+  "sandbox_utc_observed": "2026-11-20T02:05:36.606238+00:00",
+  "sandbox_monotonic_start_seconds": 2282.470976013,
+  "scope": "new user continuation turn: actual research and validation, no sleep; prior ongoing r114 work preserved",
+  "git_branch": "arena/5da004bd-angora",
+  "git_head": "0f924fe12dd75744f3ef91c6971161eef47491b9",
+  "date_caveat": "sandbox wall clock conflicts with session date; monotonic elapsed is used only on same runtime"
+}

@@ -1,0 +1,10 @@
+{
+  "draft_path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-transcription-drafts/AR08/chunk-1.pre-correction.visible.md",
+  "draft_bytes": 8403,
+  "draft_sha256": "e3b6312ef9fef424932ee1cb87db4b16a997b91dc8e2bd39d67213d613fd3ebc",
+  "removed_generated_derivative_path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/www.kamubib-bimy.org/2022/program/20221204195052/index.visible.md",
+  "removed_generated_derivative_bytes": 16851,
+  "removed_generated_derivative_sha256": "6ab5233d4d373e92ac2122ad822cf688db56a8caa12489ed51db5ce79fce2b4d",
+  "removal_basis": "user no-merge; original chunks retained and prior read/assembly logs preserved",
+  "state": "draft backed up and only generated merged derivative removed; single-field correction pending"
+}
