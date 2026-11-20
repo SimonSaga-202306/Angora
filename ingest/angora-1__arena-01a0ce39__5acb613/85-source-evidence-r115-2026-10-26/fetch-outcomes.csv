@@ -1,0 +1,22 @@
+source_id,requested_result,returned_identity,blocks_fetched,blocks_available,scope_status
+P01,success,requested index,1,16,discovery only; incomplete index not used as source; P07 full targeted article
+P02,success,requested organiser page,1,1,full tool-visible block; manual correction preserved
+P03,success,requested energy magazine article,1,1,full tool-visible block; manual correction preserved; no pre-cutoff archive found with given filters
+P04,error,HTTP 404,0,unknown,no page text; negative only for this fetch
+P05,success,public profile only,1,1,no original social post; discovery claim unverified
+P06,success,redirected to generic /haberler,1,1,drift quarantined; not event evidence
+P07,success,requested individual organiser article,1,1,full tool-visible block; publication date and legal identity not established
+P08,success,requested organiser overview,1,1,full tool-visible block; earlier planned schedule not result
+P09,success,redirected to another person's 2022 post,1,1,drift quarantined; no Angora evidence
+P10,success,requested organiser event account,2,2,complete set of separately saved tool-visible blocks; manual correction preserved
+P11,success,requested category result,1,1,full tool-visible block; archive same source
+A01,success,CDX empty,1,1,filtered index only
+A02,success,CDX one capture,1,1,filtered index only
+A03,success,CDX empty,1,1,filtered index only
+A04,success,CDX one capture,1,1,filtered index only
+A05,success,CDX three captures,1,1,filtered index only
+A06,success,CDX one capture,1,1,filtered index only
+AR01,success,requested e-safe nominees replay,2,2,separate chunks; same source as P02
+AR02,success,requested e-safe winner replay,2,2,separate chunks; same source as P11
+AR03,success,requested 2026-01-20 overview replay,1,1,earlier schedule not evidence ceremony occurred
+E01,success,requested e-safe search endpoint,2,2,discovery index only; separately saved chunks

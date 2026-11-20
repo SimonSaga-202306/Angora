@@ -1,0 +1,8 @@
+{
+  "result": "one replacement only",
+  "draft_bytes": 8650,
+  "draft_sha256": "d00bb1142ee909556b34eba75274ee47dbe35c6447b8d04f3e71d8e51c3d1ebe",
+  "corrected_bytes": 8629,
+  "corrected_sha256": "5e4edf3df4e9411fb693a71626cf9cbe79d6bd7ec97f2b46abf737eddf4a5ee1",
+  "scope": "local replacement; original response byte comparison not available"
+}

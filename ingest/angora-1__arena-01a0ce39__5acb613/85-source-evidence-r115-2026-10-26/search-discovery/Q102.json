@@ -1,0 +1,10 @@
+{
+  "id": "Q102",
+  "query": "\"Angora Networks\" \"Levent Kılıç\" 2021 konferans konuşmacı",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 5,
+  "selected_result_metadata": [],
+  "limitations": "Selective URL metadata only; complete tool search response and remaining snippets not preserved. Source facts rely on full separately saved page blocks."
+}

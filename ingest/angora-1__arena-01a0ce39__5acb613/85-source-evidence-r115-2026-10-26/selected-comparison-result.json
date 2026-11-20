@@ -1,0 +1,9 @@
+{
+  "exact_local_anchor_checks": 18,
+  "all_pass": true,
+  "nominee_table_line_identical_live_vs_replay": true,
+  "winner_paragraph_identical_live_vs_replay": true,
+  "scope": "selected local transcribed lines only, not original HTML or entire page byte identity",
+  "same_source_warning": "Live and Wayback copies come from the same e-safe organiser: no independent confirmation.",
+  "category_rule_vs_report": "AR01 says top three; AR02 organiser reports four named finalists; discrepancy unresolved. Do not promote Angora candidate to finalist or infer exhaustive list."
+}

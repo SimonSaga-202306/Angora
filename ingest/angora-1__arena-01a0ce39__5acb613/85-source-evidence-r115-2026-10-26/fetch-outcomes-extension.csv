@@ -1,0 +1,4 @@
+source_id,requested_result,returned_identity,blocks_fetched,blocks_available,scope_status
+P12,success,training provider partnership page,1,1,full tool-visible block
+A07,success,filtered CDX six captures,1,1,archive index metadata
+AR04,success,training provider partnership replay 2025-01-22,1,1,full tool-visible block; same publisher as P12

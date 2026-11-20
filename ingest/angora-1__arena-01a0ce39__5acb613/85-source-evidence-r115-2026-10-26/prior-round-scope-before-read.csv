@@ -1,0 +1,13 @@
+sequence,id,path,size_bytes,purpose
+1,R114-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md,8896,prior findings and boundaries
+2,R114-APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r114-appendix.md,4228,prior appendix without PASS master
+3,R114-MAPPING,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r114.md,3871,prior mapping
+4,R114-SOURCE-README,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/README.md,5733,prior scope and exclusions
+5,R114-AUDIT,ingest/angora-1__arena-01a0ce39__5acb613/83-audit-r114-2026-10-26.md,5829,prior process and caveats
+6,R114-FOLLOW,ingest/angora-1__arena-01a0ce39__5acb613/82-followup-angora-r114-2026-10-26/angora-networks.md,1815,existing entity no contact
+7,R114-CATALOG,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/source-catalog-2022-event.csv,3704,avoid duplicated event source
+8,R111-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/180-angora-commercial-history-evidence-r111-2026-10-26.md,10678,historical export and training boundaries
+9,R108-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/177-angora-koz-survey-channel-evidence-r108-2026-10-26.md,9811,channel preview and survey boundaries
+10,R113-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/182-angora-management-voice-evidence-r113-2026-10-26.md,7612,historical technical document boundaries
+11,R112-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/181-angora-nac-support-bug-evidence-r112-2026-10-26.md,10367,historical NAC/support boundaries
+12,R107-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/176-angora-early-commercial-evidence-r107-2026-10-26.md,9518,prior public business and evidence boundaries

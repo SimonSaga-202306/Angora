@@ -1,0 +1,7 @@
+{
+  "listed": 13,
+  "full_utf8_reads": 13,
+  "bytes": 95096,
+  "excluded": "PASS master, quarantined sources, unrelated old files",
+  "plan_correction": "initial filename error documented; corrected 13-path scope listed before these reads"
+}

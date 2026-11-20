@@ -1,0 +1,9 @@
+id,path,purpose,prohibitions
+REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/184-angora-institutional-partnership-evidence-r115-2026-10-26.md,Primary report with bounded claims and old-round delta,"No new customer merger, no unsupported award, no old PASS pursuit"
+APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r115-appendix.md,Separate named dossier appendix,"Explicit old-round changes and non-changes; no PASS content"
+MAPPING,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r115.md,Mapping note,"Point to existing Angora record only; no merger"
+FOLLOWUP,ingest/angora-1__arena-01a0ce39__5acb613/86-followup-angora-r115-2026-10-26/angora-networks.md,Single entity note,"Passive public research only; do not contact C or stopped parties"
+AUDIT,ingest/angora-1__arena-01a0ce39__5acb613/87-audit-r115-2026-10-26.md,Process and transparency audit,"State partial discovery and missing search response fidelity explicitly"
+README,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/README.md,Source catalogue and date caveats,"Human transcriptions are not raw HTML; never join multi-block files"
+ISSUES,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/issues-and-corrections.csv,Source and procedure issues,"Preserve old drafts and explain corrections"
+MASTER,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,Optional index pointer only,"Verify entire existing prefix against HEAD and known hash; never decode, quote, analyze, or alter existing PASS content"

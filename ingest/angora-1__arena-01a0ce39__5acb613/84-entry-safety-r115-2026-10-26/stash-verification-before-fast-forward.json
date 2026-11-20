@@ -1,0 +1,11 @@
+{
+  "stash_oid": "49624a839ea83a4c133c0b03a3754157ce4e1a63",
+  "third_parent_commit": "ac1a116a5461b842183e959741defa3a4f499088",
+  "prelisted_paths": 868,
+  "stash_paths": 868,
+  "extra_paths": 0,
+  "missing_paths": 0,
+  "blob_mismatches": 0,
+  "monotonic_verification_seconds": 87.101479031,
+  "limitation": "stash is local and not popped; remote originals or protected variants separately matched before stash"
+}

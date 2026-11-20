@@ -1,0 +1,51 @@
+{
+  "cwd": "/home/user/Angora",
+  "repo_root": "/home/user/Angora",
+  "items": [
+    {
+      "relative": "ingest/angora-1__arena-01a0ce39__5acb613/84-entry-safety-r115-2026-10-26/stash-plan-before-write.json",
+      "workspace": {
+        "exists": true,
+        "realpath": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/84-entry-safety-r115-2026-10-26/stash-plan-before-write.json",
+        "bytes": 711,
+        "sha256": "fbb97e9f1db2e433d7b0455861987bd2a31c7200225eeec4131061023178efaa",
+        "inode": 529646
+      },
+      "home": {
+        "exists": false,
+        "realpath": "/home/user/ingest/angora-1__arena-01a0ce39__5acb613/84-entry-safety-r115-2026-10-26/stash-plan-before-write.json"
+      },
+      "samefile": false
+    },
+    {
+      "relative": "ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/prior-scope-correction.md",
+      "workspace": {
+        "exists": true,
+        "realpath": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/prior-scope-correction.md",
+        "bytes": 581,
+        "sha256": "36f142e7bef3754b3e31d1d1161ee285b52f29caee872f13dd4b457510161485",
+        "inode": 537233
+      },
+      "home": {
+        "exists": false,
+        "realpath": "/home/user/ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/prior-scope-correction.md"
+      },
+      "samefile": false
+    },
+    {
+      "relative": "ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/research-plan-before-search.md",
+      "workspace": {
+        "exists": true,
+        "realpath": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/research-plan-before-search.md",
+        "bytes": 2923,
+        "sha256": "a49cbe8f495821f1f1e96f9ccf07d3832b70a4e01ece2822e3e979879ce214f0",
+        "inode": 537237
+      },
+      "home": {
+        "exists": false,
+        "realpath": "/home/user/ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/research-plan-before-search.md"
+      },
+      "samefile": false
+    }
+  ]
+}

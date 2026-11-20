@@ -1,0 +1,128 @@
+sequence,path,bytes_at_listing,scope
+1,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/discovery-partial/timlegirisim.com/tr/etkinlikler-bizden-haberler.html/chunk-0.visible.md,8390,catalogued source block / fetch result; source status in catalog
+2,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-juri-seviyesi/chunk-0.visible.md,8181,catalogued source block / fetch result; source status in catalog
+3,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/www.enerjimagazin.com/haber-epdk-ve-elder-in-enerjim-sensin-programinda-finalistler-aciklandi-12770.html/chunk-0.visible.md,6315,catalogued source block / fetch result; source status in catalog
+4,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/fetch-failures/P04.linkedin-404.json,457,catalogued source block / fetch result; source status in catalog
+5,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/x.com/skyloopc/chunk-0.visible.md,394,catalogued source block / fetch result; source status in catalog
+6,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/fetch-drift/siberkume.org.tr/haberler/chunk-0.visible.md,5930,catalogued source block / fetch result; source status in catalog
+7,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/timlegirisim.com/tr/etkinlikler-diger-tim-teb-girisim-evi-2025-level-up-girisimleri-belirlendi.html/chunk-0.visible.md,1172,catalogued source block / fetch result; source status in catalog
+8,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/e-safe.org/2025-e-safe-siber-guvenlik-odulleri/chunk-0.visible.md,5850,catalogued source block / fetch result; source status in catalog
+9,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/fetch-drift/www.linkedin.com/posts/fmkrm/chunk-0.visible.md,367,catalogued source block / fetch result; source status in catalog
+10,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-chunks/e-safe.org/siber-vatanin-mimarlari-bestepede-43032/chunk-0.visible.md,8629,catalogued source block / fetch result; source status in catalog
+11,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-chunks/e-safe.org/siber-vatanin-mimarlari-bestepede-43032/chunk-1.visible.md,373,catalogued source block / fetch result; source status in catalog
+12,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-ag-guvenligi-kazanani-43446/chunk-0.visible.md,6920,catalogued source block / fetch result; source status in catalog
+13,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-chunks/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-juri-seviyesi/20260513073309/chunk-0.visible.md,8278,catalogued source block / fetch result; source status in catalog
+14,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-chunks/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-juri-seviyesi/20260513073309/chunk-1.visible.md,2225,catalogued source block / fetch result; source status in catalog
+15,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-chunks/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-ag-guvenligi-kazanani-43446/20260513073912/chunk-0.visible.md,8331,catalogued source block / fetch result; source status in catalog
+16,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-chunks/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-ag-guvenligi-kazanani-43446/20260513073912/chunk-1.visible.md,1236,catalogued source block / fetch result; source status in catalog
+17,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-replay/e-safe.org/2025-e-safe-siber-guvenlik-odulleri/20260120153928/chunk-0.visible.md,5153,catalogued source block / fetch result; source status in catalog
+18,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-index/e-safe.org/wp-json/wp/v2/search-E01/chunk-0.visible.txt,8001,catalogued source block / fetch result; source status in catalog
+19,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-index/e-safe.org/wp-json/wp/v2/search-E01/chunk-1.visible.txt,4263,catalogued source block / fetch result; source status in catalog
+20,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-index/timlegirisim.com/tr/etkinlikler-diger-tim-teb-girisim-evi-2025-level-up-girisimleri-belirlendi.html/index.cdx.visible.txt,16,catalogued source block / fetch result; source status in catalog
+21,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-index/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-juri-seviyesi/index.cdx.visible.txt,307,catalogued source block / fetch result; source status in catalog
+22,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-index/www.enerjimagazin.com/haber-epdk-ve-elder-in-enerjim-sensin-programinda-finalistler-aciklandi-12770.html/index.cdx.visible.txt,16,catalogued source block / fetch result; source status in catalog
+23,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-index/e-safe.org/2025-e-safe-siber-guvenlik-odulleri-ag-guvenligi-kazanani-43446/index.cdx.visible.txt,335,catalogued source block / fetch result; source status in catalog
+24,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-index/e-safe.org/2025-e-safe-siber-guvenlik-odulleri/index.cdx.visible.txt,655,catalogued source block / fetch result; source status in catalog
+25,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-index/e-safe.org/siber-vatanin-mimarlari-bestepede-43032/index.cdx.visible.txt,287,catalogued source block / fetch result; source status in catalog
+26,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q01.json,464,search query selective metadata only
+27,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q02.json,463,search query selective metadata only
+28,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q03.json,462,search query selective metadata only
+29,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q04.json,464,search query selective metadata only
+30,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q05.json,468,search query selective metadata only
+31,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q06.json,469,search query selective metadata only
+32,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q07.json,473,search query selective metadata only
+33,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q08.json,466,search query selective metadata only
+34,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q09.json,472,search query selective metadata only
+35,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q10.json,474,search query selective metadata only
+36,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q11.json,464,search query selective metadata only
+37,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q12.json,471,search query selective metadata only
+38,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q13.json,464,search query selective metadata only
+39,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q14.json,469,search query selective metadata only
+40,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q15.json,469,search query selective metadata only
+41,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q16.json,465,search query selective metadata only
+42,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q17.json,472,search query selective metadata only
+43,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q18.json,468,search query selective metadata only
+44,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q19.json,474,search query selective metadata only
+45,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q20.json,478,search query selective metadata only
+46,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q21.json,471,search query selective metadata only
+47,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q22.json,481,search query selective metadata only
+48,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q23.json,465,search query selective metadata only
+49,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q24.json,467,search query selective metadata only
+50,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q25.json,473,search query selective metadata only
+51,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q26.json,460,search query selective metadata only
+52,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q27.json,473,search query selective metadata only
+53,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q28.json,491,search query selective metadata only
+54,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q29.json,456,search query selective metadata only
+55,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q30.json,464,search query selective metadata only
+56,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q31.json,462,search query selective metadata only
+57,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q32.json,474,search query selective metadata only
+58,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q33.json,462,search query selective metadata only
+59,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q34.json,476,search query selective metadata only
+60,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q35.json,478,search query selective metadata only
+61,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q36.json,463,search query selective metadata only
+62,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q37.json,471,search query selective metadata only
+63,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q38.json,479,search query selective metadata only
+64,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q39.json,463,search query selective metadata only
+65,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q40.json,484,search query selective metadata only
+66,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q41.json,494,search query selective metadata only
+67,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q42.json,468,search query selective metadata only
+68,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q43.json,465,search query selective metadata only
+69,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q44.json,481,search query selective metadata only
+70,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q45.json,466,search query selective metadata only
+71,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q46.json,459,search query selective metadata only
+72,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q47.json,477,search query selective metadata only
+73,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q48.json,471,search query selective metadata only
+74,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q49.json,470,search query selective metadata only
+75,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q50.json,462,search query selective metadata only
+76,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q51.json,467,search query selective metadata only
+77,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q52.json,467,search query selective metadata only
+78,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q53.json,464,search query selective metadata only
+79,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q54.json,475,search query selective metadata only
+80,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q55.json,1143,search query selective metadata only
+81,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q56.json,463,search query selective metadata only
+82,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q57.json,473,search query selective metadata only
+83,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q58.json,765,search query selective metadata only
+84,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q59.json,466,search query selective metadata only
+85,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q60.json,830,search query selective metadata only
+86,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q61.json,471,search query selective metadata only
+87,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q62.json,470,search query selective metadata only
+88,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q63.json,597,search query selective metadata only
+89,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q64.json,610,search query selective metadata only
+90,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q65.json,610,search query selective metadata only
+91,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q66.json,472,search query selective metadata only
+92,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q67.json,488,search query selective metadata only
+93,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q68.json,674,search query selective metadata only
+94,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q69.json,485,search query selective metadata only
+95,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q70.json,578,search query selective metadata only
+96,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q71.json,551,search query selective metadata only
+97,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q72.json,839,search query selective metadata only
+98,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q73.json,472,search query selective metadata only
+99,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q74.json,465,search query selective metadata only
+100,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q75.json,667,search query selective metadata only
+101,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q76.json,597,search query selective metadata only
+102,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q77.json,603,search query selective metadata only
+103,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q78.json,466,search query selective metadata only
+104,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q79.json,467,search query selective metadata only
+105,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q80.json,458,search query selective metadata only
+106,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q81.json,468,search query selective metadata only
+107,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q82.json,491,search query selective metadata only
+108,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q83.json,476,search query selective metadata only
+109,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q84.json,477,search query selective metadata only
+110,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q85.json,463,search query selective metadata only
+111,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q86.json,480,search query selective metadata only
+112,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q87.json,615,search query selective metadata only
+113,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q88.json,611,search query selective metadata only
+114,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q89.json,606,search query selective metadata only
+115,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q90.json,488,search query selective metadata only
+116,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q91.json,471,search query selective metadata only
+117,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q92.json,742,search query selective metadata only
+118,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q93.json,600,search query selective metadata only
+119,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q94.json,594,search query selective metadata only
+120,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q95.json,473,search query selective metadata only
+121,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/transcription-drafts/P02/chunk-0.pre-correction.visible.md,8175,retained transcription draft; not an independent source
+122,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/transcription-drafts/P03/chunk-0.pre-correction.visible.md,6313,retained transcription draft; not an independent source
+123,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/transcription-drafts/P10/chunk-0.pre-correction.visible.md,8650,retained transcription draft; not an independent source
+124,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/fetch-drift/P09.redirect-metadata.json,628,scope / exclusion / fetch metadata
+125,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/excluded-discovery-only.csv,2176,scope / exclusion / fetch metadata
+126,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery-summary.json,474,scope / exclusion / fetch metadata
+127,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/fetch-outcomes.csv,1915,scope / exclusion / fetch metadata

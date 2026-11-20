@@ -1,0 +1,8 @@
+{
+  "wall_clock_observed_utc": "2026-11-20T02:44:46.302212+00:00",
+  "monotonic_seconds": 617.385523555,
+  "boot_id": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "initial_monotonic_seconds": 18.709253928,
+  "elapsed_since_initial_seconds": 598.676269627,
+  "caveat": "initial boot id not recorded; no environment reset observed in this continuation; a boot-id checkpoint recorded at 271.765696855 seconds; monotonic includes thinking and waiting"
+}

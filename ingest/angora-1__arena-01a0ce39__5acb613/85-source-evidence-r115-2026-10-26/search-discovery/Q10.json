@@ -1,0 +1,11 @@
+{
+  "id": "Q10",
+  "query": "\"Angora Networks\" 2022 \"kanal ortakları\" bayi",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 5,
+  "selected_result_metadata": [],
+  "limitations": "Selective URL metadata only; other titles/snippets and full tool response were not preserved. Not an exhaustive result index, not full source evidence.",
+  "links_are_not_independent_sources": "Same URLs across queries are duplicate discoveries."
+}

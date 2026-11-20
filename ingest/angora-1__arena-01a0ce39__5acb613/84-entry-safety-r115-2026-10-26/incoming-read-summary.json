@@ -1,0 +1,13 @@
+{
+  "remote_tip": "e3b4765e1b1a8bfcc076d56e542d5013a1f37e23",
+  "paths_prelisted": 868,
+  "paths_read_full": 868,
+  "bytes_read": 46015150,
+  "classifications": {
+    "remote-protected-variant-byte-identical": 32,
+    "remote-original-byte-identical": 836
+  },
+  "previous_r114_inventory_matches": 868,
+  "scope": "all 868 preexisting untracked paths; compares byte hashes and Git blobs, not the content meaning",
+  "next": "selectively stash only frozen paths and verify third parent before ff-only"
+}

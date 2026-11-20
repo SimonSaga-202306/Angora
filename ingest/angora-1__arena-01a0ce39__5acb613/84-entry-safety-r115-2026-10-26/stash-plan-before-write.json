@@ -1,0 +1,10 @@
+{
+  "reason": "Preserve the 868 preexisting untracked paths before bringing the current branch forward to the verified remote tip.",
+  "pathspec_file": "ingest/angora-1__arena-01a0ce39__5acb613/84-entry-safety-r115-2026-10-26/stash-pathspec.nul",
+  "prelisted_count": 868,
+  "remote_original_matching_blobs": 836,
+  "remote_protected_variant_matching_blobs": 32,
+  "operation": "git stash push --include-untracked with NUL-delimited explicit pathspec only",
+  "verification": "compare third-parent tree paths and blob IDs to all 868 local read inventory rows before ff-only",
+  "prohibitions": "no reset, clean, switch, broad add, or stash pop; the stash is local and not promised to survive a fresh sandbox"
+}

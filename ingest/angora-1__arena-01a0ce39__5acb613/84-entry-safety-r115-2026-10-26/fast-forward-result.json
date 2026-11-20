@@ -1,0 +1,9 @@
+{
+  "result": "ff-only succeeded",
+  "head_after": "e3b4765e1b1a8bfcc076d56e542d5013a1f37e23",
+  "branch": "arena/5da004bd-angora",
+  "stash_oid": "49624a839ea83a4c133c0b03a3754157ce4e1a63",
+  "old_paths_stashed_and_verified": 868,
+  "current_untracked_paths_only_in_entry_directory": true,
+  "no_reset_clean_switch_or_stash_pop": true
+}

@@ -1,0 +1,13 @@
+{
+  "previous_queries": 95,
+  "previous_reported_results_including_duplicates": 383,
+  "extension_queries": 13,
+  "extension_reported_results_including_duplicates": 48,
+  "combined_queries": 108,
+  "combined_reported_results_including_duplicates": 431,
+  "extension_zero_query_ids": [
+    "Q96",
+    "Q97"
+  ],
+  "search_response_limitation": "Result counts manually transcribed, and not all search result rows or descriptions retained; do not treat result count as source count or audit of all returned records."
+}

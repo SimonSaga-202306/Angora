@@ -1,0 +1,23 @@
+{
+  "individual_inventories": [
+    {
+      "path": "prior-round-read-inventory.csv",
+      "count": 13,
+      "bytes": 95096
+    },
+    {
+      "path": "source-read-inventory.csv",
+      "count": 127,
+      "bytes": 169015
+    },
+    {
+      "path": "extension-read-inventory.csv",
+      "count": 19,
+      "bytes": 27454
+    }
+  ],
+  "distinct_paths": 159,
+  "total_bytes": 291565,
+  "limitations": "local UTF-8 byte reads; includes metadata, partial discovery, failures, drift, drafts and archived chunks; not a source count and not raw HTML; not all search responses saved",
+  "excluded": "PASS master, prior isolated PDF/about pages"
+}

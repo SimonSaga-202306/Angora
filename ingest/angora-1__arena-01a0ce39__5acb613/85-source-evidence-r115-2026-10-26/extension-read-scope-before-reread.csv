@@ -1,0 +1,20 @@
+sequence,path,bytes_at_listing,scope
+1,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/www.knowledgeclub.net/partnership/chunk-0.visible.md,3744,P12 full partner webpage
+2,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-index/www.knowledgeclub.net/partnership/index.cdx.visible.txt,1045,A07 archive index metadata
+3,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/archive-replay/www.knowledgeclub.net/partnership/20250122212440/chunk-0.visible.md,6280,"AR04 partner page replay, same source as P12"
+4,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q96.json,390,Q96-Q108 selective query metadata
+5,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q97.json,395,Q96-Q108 selective query metadata
+6,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q98.json,389,Q96-Q108 selective query metadata
+7,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q99.json,504,Q96-Q108 selective query metadata
+8,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q100.json,502,Q96-Q108 selective query metadata
+9,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q101.json,390,Q96-Q108 selective query metadata
+10,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q102.json,398,Q96-Q108 selective query metadata
+11,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q103.json,381,Q96-Q108 selective query metadata
+12,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q104.json,384,Q96-Q108 selective query metadata
+13,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q105.json,380,Q96-Q108 selective query metadata
+14,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q106.json,388,Q96-Q108 selective query metadata
+15,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q107.json,388,Q96-Q108 selective query metadata
+16,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery/Q108.json,394,Q96-Q108 selective query metadata
+17,ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/external-visible/www.angoranetworks.com/angora-networks-and-knowledge-club-signed-protocol-for-authorized-training-center/index.en.extracted.md,5216,r107 English manufacturer statement
+18,ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/external-visible/www.angoranetworks.com/angora-networks-ve-knowledge-club-yetkili-egitim-merkezi-icin-protokol-imzaladi/index.tr.extracted.md,5370,r107 Turkish manufacturer statement; same announcement family
+19,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/search-discovery-summary-extension.json,516,query metadata summary

@@ -1,0 +1,9 @@
+{
+  "target": "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "expected_head_and_local_prefix_bytes": 52157,
+  "expected_head_and_local_prefix_sha256": "69899c8ad15cfcb4a6c2c95498041a473bc33d590832c8b9e12562e646a9f3f7",
+  "addition_path": "ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/dossier-index-append-bytes.txt",
+  "addition_bytes": 359,
+  "addition_sha256": "be67dddfa9c69e4c543712d928ed72aa38ffec0953804ffcdb8f37fdf3c739e1",
+  "method": "compare complete existing bytes to git HEAD blob in memory, verify known SHA and length; append bytes only, recheck exact prefix and suffix; never decode or print existing content"
+}

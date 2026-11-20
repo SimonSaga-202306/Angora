@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "branch": "arena/5da004bd-angora",
+  "inventories": [
+    159,
+    291565
+  ],
+  "query_metadata": [
+    108,
+    431,
+    [
+      "Q42",
+      "Q78",
+      "Q96",
+      "Q97"
+    ]
+  ],
+  "catalog_blocks": 28,
+  "selected_local_anchors": 26,
+  "single_replacement_corrections": 3,
+  "documents_and_local_links": [
+    6,
+    79
+  ],
+  "master_prefix_and_append_bytes": [
+    52157,
+    359
+  ],
+  "same_boot_checked_elapsed_seconds": 948.635,
+  "limitations": "Local consistency only; not source fidelity, completeness of search responses, historical publication, legal identity, real-world performance, contract, delivery or award truth."
+}

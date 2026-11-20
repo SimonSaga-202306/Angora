@@ -1,0 +1,6 @@
+{
+  "id": "P04",
+  "requested_url": "https://www.linkedin.com/posts/lal%C9%99-bayramova-727b5a1ba_cybersecurity-siberguvenlik-kiberplatforma-activity-6914088789128720384-5fDN",
+  "fetch_page_result": {"status": "error", "error": "Failed to fetch page (HTTP 404)"},
+  "interpretation": "No post body obtained; a single 404 does not establish permanent unavailability. Search previews are discovery metadata only and are not equivalent to a complete post."
+}

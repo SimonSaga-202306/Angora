@@ -453,3 +453,8 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 ## r114：早期业务与机构议程索引
 
 本轮材料另存：[独立附录](120-angora-orders-dossier-2026-10-21.r114-appendix.md)、[字段映射](120-angora-orders-master-2026-10-21.mapping-r114.md)、[主报告](../08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md)。主体未确认；议程列名、媒体报道与采购／履约分开记录。
+
+
+### r115 索引（2026-10-26 为路径标签）
+
+培训机构伙伴展示、e-Safe 候选与赛后结果、机构项目名单的新增证据和边界见 [r115 独立附录](120-angora-orders-dossier-2026-10-21.r115-appendix.md) 与 [映射说明](120-angora-orders-master-2026-10-21.mapping-r115.md)；主体未确认，不代表采购、认证或履约。

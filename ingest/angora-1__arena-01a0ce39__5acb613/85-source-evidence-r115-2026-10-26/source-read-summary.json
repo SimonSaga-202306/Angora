@@ -1,0 +1,9 @@
+{
+  "scope": "r115 explicitly prelisted local source artifacts and search metadata, including incomplete discovery, drift, errors and retained drafts; not every webpage byte",
+  "listed": 127,
+  "full_local_byte_reads": 127,
+  "utf8_decodes": 127,
+  "total_bytes": 169015,
+  "read_method": "Path.read_bytes then full UTF-8 decode each; no stdout truncation involved",
+  "warning": "No comparison to external raw HTML or original tool-response bytes; local SHA-256 proves only local reread consistency. P01 is only 1 of 16 remote chunks and is excluded from claims."
+}

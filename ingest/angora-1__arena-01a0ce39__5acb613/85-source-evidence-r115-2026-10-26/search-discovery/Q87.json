@@ -1,0 +1,17 @@
+{
+  "id": "Q87",
+  "query": "\"2025 e-Safe\" \"Ağ Güvenliği\" \"Angora\" finalist",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 1,
+  "selected_result_metadata": [
+    {
+      "rank": 1,
+      "tool_id": 1,
+      "url": "https://e-safe.org/2025-e-safe-siber-guvenlik-odulleri-juri-seviyesi"
+    }
+  ],
+  "limitations": "Selective URL metadata only; other titles/snippets and full tool response were not preserved. Not an exhaustive result index, not full source evidence.",
+  "links_are_not_independent_sources": "Same URLs across queries are duplicate discoveries."
+}

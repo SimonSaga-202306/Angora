@@ -1,0 +1,11 @@
+sequence,path,bytes_at_listing
+1,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/184-angora-institutional-partnership-evidence-r115-2026-10-26.md,9341
+2,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r115-appendix.md,4200
+3,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r115.md,2282
+4,ingest/angora-1__arena-01a0ce39__5acb613/86-followup-angora-r115-2026-10-26/angora-networks.md,1991
+5,ingest/angora-1__arena-01a0ce39__5acb613/87-audit-r115-2026-10-26.md,6523
+6,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/README.md,5193
+7,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/issues-and-corrections.csv,3094
+8,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/date-and-session-boundaries.md,1955
+9,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/verify_r115.py,8762
+10,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/test_verify_r115.py,2528

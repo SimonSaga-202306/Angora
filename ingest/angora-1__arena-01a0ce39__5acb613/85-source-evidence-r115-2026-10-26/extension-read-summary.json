@@ -1,0 +1,9 @@
+{
+  "listed": 19,
+  "complete_byte_reads": 19,
+  "utf8_decodes": 19,
+  "total_bytes": 27454,
+  "local_only": true,
+  "includes_prior_r107_sources": 2,
+  "not_independent_duplicate": "P12 and AR04 are live/archive from the same counterparty"
+}

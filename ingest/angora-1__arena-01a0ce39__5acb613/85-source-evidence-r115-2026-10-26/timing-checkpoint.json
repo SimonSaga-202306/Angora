@@ -1,0 +1,12 @@
+{
+  "wall_clock_observed_utc": "2026-11-20T02:54:49.317384+00:00",
+  "boot_id": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "monotonic_seconds": 1220.400628611,
+  "first_boot_id_recorded_checkpoint_seconds": 271.765696855,
+  "elapsed_from_first_checkpoint_seconds": 948.635,
+  "initial_monotonic_seconds": 18.709253928,
+  "elapsed_from_initial_seconds": 1201.691,
+  "initial_boot_id_missing": true,
+  "same_boot_id_as_first_recorded_checkpoint": true,
+  "includes": "reading, research, reasoning, network and user-visible tool overhead; not continuous active typing"
+}

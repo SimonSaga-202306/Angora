@@ -1,0 +1,12 @@
+{
+  "planned_queries": 95,
+  "completed_queries": 95,
+  "reported_total_results_including_repeats": 383,
+  "zero_result_query_ids": [
+    "Q42",
+    "Q78"
+  ],
+  "query_metadata_files": 95,
+  "full_tool_results_preserved": false,
+  "precise_caveat": "Only selected result URLs and manually counted result totals were transcribed, not complete search responses or snippets. Conclusions rely on separately saved full-page visible blocks, not reconstructed search metadata."
+}

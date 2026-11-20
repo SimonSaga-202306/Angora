@@ -1,0 +1,3 @@
+id,url,source_type,scope_and_limitations
+P12,https://www.knowledgeclub.net/partnership/,training provider partnership page,"Counterparty page discovered by Q99-Q100. Compare to Angora r107 announcement; not an executed contract or training proof. Preserve full tool chunks; exact page-update date may be unknown. Do not submit a form or contact."
+A07,https://web.archive.org/cdx/search/cdx?url=www.knowledgeclub.net%2Fpartnership%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&to=20261026&limit=12,filtered archive index,"Check dated page snapshots. Empty index would not prove absence."

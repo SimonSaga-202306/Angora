@@ -1,0 +1,11 @@
+{
+  "session_given_date_utc": "2026-10-26",
+  "sandbox_utc_observed_start": "2026-11-20T02:34:47.625387+00:00",
+  "monotonic_start_seconds": 18.709253928,
+  "branch": "arena/5da004bd-angora",
+  "local_head_before_fetch": "691123abc7462489146cece19b81b4f917b58646",
+  "remote_tip_observed": "e3b4765e1b1a8bfcc076d56e542d5013a1f37e23",
+  "untracked_preexisting_paths": 868,
+  "date_caveat": "session date and observed sandbox UTC conflict; capture dates and session dates are not inferred from clock",
+  "safety": "prelist then verify each path against remote original or protected variant before any selective stash or fast-forward; never reset/clean/switch/stash pop"
+}

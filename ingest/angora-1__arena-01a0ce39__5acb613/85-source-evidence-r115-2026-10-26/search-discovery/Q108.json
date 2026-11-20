@@ -1,0 +1,10 @@
+{
+  "id": "Q108",
+  "query": "\"Angora Networks\" \"2020\" \"şirketi\" \"Ankara\" teknoloji",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 2,
+  "selected_result_metadata": [],
+  "limitations": "Selective URL metadata only; complete tool search response and remaining snippets not preserved. Source facts rely on full separately saved page blocks."
+}

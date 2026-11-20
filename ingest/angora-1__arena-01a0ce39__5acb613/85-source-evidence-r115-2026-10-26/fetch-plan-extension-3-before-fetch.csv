@@ -1,0 +1,3 @@
+id,url,source_type,scope_and_limitations
+P10,https://e-safe.org/siber-vatanin-mimarlari-bestepede-43032,award organiser after-action,"Compare claimed ceremony occurrence and actual date with the two conflicting planned schedules; not independently authored from P02/P08; no Angora attendance inference"
+E01,https://e-safe.org/wp-json/wp/v2/search?search=A%C4%9F%20G%C3%BCvenli%C4%9Fi%20Kazanan%C4%B1&per_page=100,organiser search API,"Discovery metadata only; do not infer no result means no winner or finalist; no authentication"

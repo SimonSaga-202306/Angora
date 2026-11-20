@@ -1,0 +1,5 @@
+```json
+[["urlkey","timestamp","original","mimetype","statuscode","digest","length"],
+["org,e-safe)/siber-vatanin-mimarlari-bestepede-43032","20260410232258","https://e-safe.org/siber-vatanin-mimarlari-bestepede-43032","text/html","200","7KQM645NTNMMQVPB262NJ73H7TXP6FVY","56392"]]
+
+```

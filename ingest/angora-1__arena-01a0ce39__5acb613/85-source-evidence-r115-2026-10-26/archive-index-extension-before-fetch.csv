@@ -1,0 +1,4 @@
+id,url,target,limitation
+A04,https://web.archive.org/cdx/search/cdx?url=e-safe.org%2F2025-e-safe-siber-guvenlik-odulleri-ag-guvenligi-kazanani-43446&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&to=20261026&limit=6,category winner report,filtered discovery index only
+A05,https://web.archive.org/cdx/search/cdx?url=e-safe.org%2F2025-e-safe-siber-guvenlik-odulleri&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&to=20261026&limit=6,original schedule page,filtered discovery index only
+A06,https://web.archive.org/cdx/search/cdx?url=e-safe.org%2Fsiber-vatanin-mimarlari-bestepede-43032&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&to=20261026&limit=6,ceremony after-action,filtered discovery index only

@@ -1,0 +1,17 @@
+{
+  "id": "Q75",
+  "query": "\"Enerjim Sensin\" \"Angora Networks\" \"2026\" \"finalistler\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 1,
+  "selected_result_metadata": [
+    {
+      "rank": 1,
+      "tool_id": 1,
+      "url": "https://www.enerjimagazin.com/haber-epdk-ve-elder-in-enerjim-sensin-programinda-finalistler-aciklandi-12770.html"
+    }
+  ],
+  "limitations": "Selective URL metadata only; other titles/snippets and full tool response were not preserved. Not an exhaustive result index, not full source evidence.",
+  "links_are_not_independent_sources": "Same URLs across queries are duplicate discoveries."
+}

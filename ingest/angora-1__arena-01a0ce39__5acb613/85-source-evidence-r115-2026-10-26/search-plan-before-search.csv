@@ -1,0 +1,25 @@
+id,query,intended_use,depth
+Q01,"""Angora Networks"" 2017 switch Türkiye",earliest indexed third-party business,2
+Q02,"""Angora Networks"" 2018 üretim switch",early production claims,2
+Q03,"""Angora Networks"" 2019 ""yerli"" ağ",early industry coverage,2
+Q04,"""Angora Networks"" 2016 2017 ""Levent""",early founder and company chronology,2
+Q05,"""Angora Networks"" 2018 ""Levent Kılıç""",founder-specific third-party context,2
+Q06,"""Angora Networks"" 2019 ""iş ortaklığı""",early public partnership announcements,2
+Q07,"""Angora Networks"" 2020 ""distribütör"" switch",early distribution announcements,2
+Q08,"""Angora Networks"" 2021 ""distribütör""",historical channel announcements,2
+Q09,"""Angora Networks"" 2021 yerli üretim röportaj",historical media interview,2
+Q10,"""Angora Networks"" 2022 ""kanal ortakları"" bayi",channel programmes,2
+Q11,"""Angora Networks"" 2018 ""Taylan Esen""",management and early business,2
+Q12,"""Angora Networks"" 2019 savunma sanayi kümesi",industry association context,2
+Q13,"""Angora Networks"" 2020 ""yerli malı""",vendor claims and possible third-party source; not cert verification,2
+Q14,"""Angora Networks"" 2021 ""teknoloji"" fuarı",event records and organisers,2
+Q15,"""Angora Networks"" 2019 ""ağ"" ""üretici""",third-party early business,2
+Q16,"""Angora Networks"" 2020 ""switch"" kanal",channel sources,2
+Q17,"""Angora Networks"" 2022 ""tedarikçi"" üretici",business ecosystem; no old orders,2
+Q18,"""Angora Networks"" ""kuruldu"" 2016 şirket",founding claim only no inferred legal identity,2
+Q19,"""Angora Networks"" ""Taylan Esen"" 2021 teknoloji",management interviews,2
+Q20,"""Angora Networks"" ""Levent Kılıç"" 2020 röportaj",early media and event coverage,2
+Q21,"""Angora Networks"" Ankara üniversite 2020 ağ","university public partnership or research, not old procurement",2
+Q22,"""Angora Networks"" 2021 2022 bayi eğitim iş ortakları",independent source training and channel,2
+Q23,"""Angora Networks"" 2020 2019 ""ihracat""",export claim without old orders,2
+Q24,"""Angora Networks"" 2018 teknoloji etkinlik",organiser or media event evidence,2

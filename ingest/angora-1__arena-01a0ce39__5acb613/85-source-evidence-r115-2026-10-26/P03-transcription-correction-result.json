@@ -1,0 +1,8 @@
+{
+  "result": "one formatting replacement",
+  "draft_bytes": 6313,
+  "draft_sha256": "7954851d541d4526d2bc4b86a06b64b265f031e80b832c9cd49f430ed34c2e3e",
+  "corrected_bytes": 6315,
+  "corrected_sha256": "299c93be7e1fe14c2bdfc008ffbd5992e8f1dd563bd06687c5f46643b5cafad6",
+  "scope": "local replacement only"
+}

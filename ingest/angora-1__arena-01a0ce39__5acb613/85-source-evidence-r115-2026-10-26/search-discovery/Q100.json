@@ -1,0 +1,16 @@
+{
+  "id": "Q100",
+  "query": "\"Angora Networks\" \"Knowledge Club\" eğitim protokol 2021",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 5,
+  "selected_result_metadata": [
+    {
+      "rank": 5,
+      "tool_id": 5,
+      "url": "https://www.knowledgeclub.net/partnership/"
+    }
+  ],
+  "limitations": "Selective URL metadata only; complete tool search response and remaining snippets not preserved. Source facts rely on full separately saved page blocks."
+}

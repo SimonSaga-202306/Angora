@@ -1,0 +1,7 @@
+```json
+[["urlkey","timestamp","original","mimetype","statuscode","digest","length"],
+["org,e-safe)/2025-e-safe-siber-guvenlik-odulleri","20260120153928","https://e-safe.org/2025-e-safe-siber-guvenlik-odulleri","text/html","200","5NH6WYNR3BDDYKTCUNMBC7BLBGJRWQXZ","48780"],
+["org,e-safe)/2025-e-safe-siber-guvenlik-odulleri","20260411083415","https://e-safe.org/2025-e-safe-siber-guvenlik-odulleri","text/html","200","SS2KSLVRGJALPJT4OKNUX3E2RMLS4LQ2","54887"],
+["org,e-safe)/2025-e-safe-siber-guvenlik-odulleri","20260722140827","https://e-safe.org/2025-e-safe-siber-guvenlik-odulleri","text/html","200","EOLUOJA2BUI2FGR47R2PBRKK2W3SFYGU","54577"]]
+
+```

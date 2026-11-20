@@ -1,0 +1,11 @@
+sequence,path,bytes_read,sha256,utf8_lines
+1,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/184-angora-institutional-partnership-evidence-r115-2026-10-26.md,9341,2b33862e9feeb41eb6d9934818f1ddbc10eb594f515119a4c75c9fcd3ba2c404,41
+2,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r115-appendix.md,4200,a0ee5074f667b104b42315df4cf3d75ee8be892c39505c002ae088a617aa2705,20
+3,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r115.md,2282,dc2e7655f5c2a30a2e992a10e790269c5f6e2141df98db2b75cb964a23013e1d,12
+4,ingest/angora-1__arena-01a0ce39__5acb613/86-followup-angora-r115-2026-10-26/angora-networks.md,1991,3eae42ede3247a7166ebdacd3cef1e229891830eb567e3ca5d836e06e6fa6eeb,7
+5,ingest/angora-1__arena-01a0ce39__5acb613/87-audit-r115-2026-10-26.md,6523,ebab57e7dedde75e5e710be70c8a19631a35c2b54d77e5a016c2f2e205da9c4f,37
+6,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/README.md,5193,0f60f5d16fa723d8e7d187fa6f0b09a05569994f674bc5fc539bb86bf8dad847,27
+7,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/issues-and-corrections.csv,3094,ceff85be75fb5619b7b4c62680a3234fee23266eaed6929f20147057f5402b03,17
+8,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/date-and-session-boundaries.md,1955,7148a8e311c1bd83b8127b4c979642ca691843699e7109d3b937698b405889a2,7
+9,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/verify_r115.py,8762,bf8763d8d00989e48014a70d4eb3c09e89b9a3e577cbe2b4e186b15ca4afcac6,191
+10,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/test_verify_r115.py,2528,0b7f3eb752d34f9ee00d238f2c2a04901eb89538d78c97ff5876961c97803bc2,67

@@ -1,0 +1,11 @@
+{
+  "target": "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "head_and_original_prefix_identical": true,
+  "prefix_bytes": 52157,
+  "prefix_sha256": "69899c8ad15cfcb4a6c2c95498041a473bc33d590832c8b9e12562e646a9f3f7",
+  "append_bytes": 359,
+  "append_sha256": "be67dddfa9c69e4c543712d928ed72aa38ffec0953804ffcdb8f37fdf3c739e1",
+  "final_bytes": 52516,
+  "final_sha256": "bd9c0646f3f3571819623d92f9df7c693852e0c977218a931ddbe94b25697afc",
+  "scope": "local byte identity against HEAD and exact suffix; historical contents never decoded or displayed"
+}

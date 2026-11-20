@@ -1,0 +1,17 @@
+{
+  "id": "Q68",
+  "query": "\"Angora Networks\" \"Kiber Kafe\" \"Levent\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 2,
+  "selected_result_metadata": [
+    {
+      "rank": 1,
+      "tool_id": 1,
+      "url": "https://www.linkedin.com/posts/lal%C9%99-bayramova-727b5a1ba_cybersecurity-siberguvenlik-kiberplatforma-activity-6914088789128720384-5fDN"
+    }
+  ],
+  "limitations": "Selective URL metadata only; other titles/snippets and full tool response were not preserved. Not an exhaustive result index, not full source evidence.",
+  "links_are_not_independent_sources": "Same URLs across queries are duplicate discoveries."
+}

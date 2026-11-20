@@ -1,0 +1,32 @@
+{
+  "id": "Q55",
+  "query": "\"Angora Networks\" \"etkinliğinde\" 2021",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "reported_result_count": 5,
+  "selected_result_metadata": [
+    {
+      "rank": 1,
+      "tool_id": 1,
+      "url": "https://www.enerjimagazin.com/haber-epdk-ve-elder-in-enerjim-sensin-programinda-finalistler-aciklandi-12770.html"
+    },
+    {
+      "rank": 2,
+      "tool_id": 2,
+      "url": "https://timlegirisim.com/tr/etkinlikler-bizden-haberler.html"
+    },
+    {
+      "rank": 3,
+      "tool_id": 3,
+      "url": "https://www.linkedin.com/posts/enesrodop_together-is-better-g%C3%BCray-%C3%A7eti%CC%87n-beytullah-activity-6968168406797725696-LmMq"
+    },
+    {
+      "rank": 4,
+      "tool_id": 4,
+      "url": "https://www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872"
+    }
+  ],
+  "limitations": "Selective URL metadata only; other titles/snippets and full tool response were not preserved. Not an exhaustive result index, not full source evidence.",
+  "links_are_not_independent_sources": "Same URLs across queries are duplicate discoveries."
+}
