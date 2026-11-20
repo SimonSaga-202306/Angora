@@ -1,0 +1,15 @@
+{
+  "id": "PEN24",
+  "raw_endpoint": "repos/rfinnie/iana-tracker/contents/www.iana.org/assignments/enterprise-numbers/enterprise-numbers?ref=ed5d8ebc0ff572325a5c7c5c54203cea15ca2446",
+  "accept": "application/vnd.github.raw+json",
+  "exit_code": 0,
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/ed5d8ebc0ff572325a5c7c5c54203cea15ca2446/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "bytes": 4705413,
+  "sha256": "96a8faae3bf765cecb30f55e0cc26ed24aef3a4365a0e0e2bee3b0f4170f4773",
+  "computed_git_blob_sha1": "c323d5e010516bd129bf8f97dea9614862991d75",
+  "api_git_blob_sha1": "c323d5e010516bd129bf8f97dea9614862991d75",
+  "api_size": 4705413,
+  "blob_equal": true,
+  "size_equal": true,
+  "observed_monotonic_seconds": 785.846573601
+}

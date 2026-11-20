@@ -1,0 +1,43 @@
+{
+  "parent_commit": "ae9ceebec6bf7a4034e6c8d6768e13b7f4f95883",
+  "child_commit": "fe367b60547788ed755be66dbec17e819f63c77c",
+  "parent_commit_utc": "2021-10-20T10:30:16Z",
+  "child_commit_utc": "2021-10-20T16:45:45Z",
+  "parent_git_blob": "ac90635db5a9c45009660e1292717ec956e3e4c5",
+  "child_git_blob": "ab5cb19763eddeff40840048752ad68db4fe77a4",
+  "parent_bytes": 4425964,
+  "child_bytes": 4426103,
+  "local_diff_exit_code": 1,
+  "local_diff_bytes": 1191,
+  "local_diff_sha256": "811b53ac6d964f5fb8507ba40378748b4935ba9eaa3c605201fc0237c2caa570",
+  "local_diff_hunks_equal_api_patch_ignoring_final_newline": true,
+  "target_addition_present_in_both": true,
+  "source_header_in_both": "last updated 2021-10-20; describes entire registry, not allocation time",
+  "cross_repository_byte_comparisons": [
+    {
+      "left_id": "IETFPARENT",
+      "right_id": "PEN21PARENT",
+      "left_path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/ae9ceebec6bf7a4034e6c8d6768e13b7f4f95883/enterprise-numbers/enterprise-numbers",
+      "right_path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/c99419cac238e3960c1942506514dd2f87df202b/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+      "left_bytes": 4425964,
+      "right_bytes": 4425964,
+      "sha256_left": "0f814eada764e2b6144c588a602858b2314be6aae5a2c6c1fef27280d1ac892b",
+      "sha256_right": "0f814eada764e2b6144c588a602858b2314be6aae5a2c6c1fef27280d1ac892b",
+      "byte_equal": true,
+      "conclusion": "two repository copies; no independent issuance evidence"
+    },
+    {
+      "left_id": "PENIETF1022",
+      "right_id": "PEN21OCT",
+      "left_path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/cb5a1929c3752fdd11958a72fac585afcdbe3aca/enterprise-numbers/enterprise-numbers",
+      "right_path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/0829494816a42c337fe42e869ee9114b816a96ee/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+      "left_bytes": 4427138,
+      "right_bytes": 4427138,
+      "sha256_left": "1f8bb6a355f3a1c4b6b94c6fc3adbf6377e9f2d9fda322e256ad50132cc84da9",
+      "sha256_right": "1f8bb6a355f3a1c4b6b94c6fc3adbf6377e9f2d9fda322e256ad50132cc84da9",
+      "byte_equal": true,
+      "conclusion": "two repository copies; no independent issuance evidence"
+    }
+  ],
+  "observed_monotonic_seconds": 1226.733549541
+}

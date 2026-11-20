@@ -1,0 +1,14 @@
+{
+  "listed": 868,
+  "bytes_listed": 46015150,
+  "bytes_read": 46015150,
+  "classifications": {
+    "divergent-path-not-yet-protected": 29,
+    "exact-remote-path": 836,
+    "divergent-path-protected-by-remote-copy": 3
+  },
+  "unprotected_conflicts_count": 29,
+  "mode_mismatch_exact_paths_count": 0,
+  "remote": "FETCH_HEAD = bbdd0453b27a7a27740e20da05e87b836c3a7290",
+  "method": "full byte hashing; differing protected copies additionally compared byte-for-byte to git cat-file; no untracked body decoded or displayed"
+}

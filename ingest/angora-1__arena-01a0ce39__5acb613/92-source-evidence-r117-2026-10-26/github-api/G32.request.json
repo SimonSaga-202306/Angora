@@ -1,0 +1,13 @@
+{
+  "id": "G32",
+  "repo": "rfinnie/iana-tracker",
+  "path": "www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-07-31T23:59:59Z",
+  "purpose": "resolve summer-2021 mirror state",
+  "endpoint": "repos/rfinnie/iana-tracker/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3227,
+  "stderr_bytes": 0,
+  "stdout_sha256": "04d565e675e0a8210c9d3e3e0e07c66f008a80521a26217e346e7d8f6aa81140",
+  "observed_monotonic_seconds": 890.976731304
+}

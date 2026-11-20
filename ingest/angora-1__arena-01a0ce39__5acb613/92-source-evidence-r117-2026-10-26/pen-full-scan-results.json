@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PEN19",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/819cf521dbf47739491de385ae29a2b501eda5c7/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4194495,
+    "sha256": "f18e93996cf2a8500ea2549ffbf7e3de1569bcab8bcc8bfe0a4fb115b4d93e52",
+    "git_blob": "671ad599ec06b2b2f75a026cc804288709e46a72",
+    "api_blob_matches": true,
+    "line_count": 219738,
+    "source_header_last_updated": [
+      "(last updated 2019-12-26)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "PEN20",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/af28c67f05be5a219391c78196f19b1c808abb01/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4238416,
+    "sha256": "800c34aa43a3a81da45be94f3e47a0d5517a8ac69dc06a73e12b8392a568829c",
+    "git_blob": "86aa8c9ab40836b2a67cf5fb615d393d3d9ea804",
+    "api_blob_matches": true,
+    "line_count": 221966,
+    "source_header_last_updated": [
+      "(last updated 2020-04-11)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "PEN21",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/6924813c73f140a19ebac1292548a791181af0af/enterprise-numbers/enterprise-numbers",
+    "bytes": 4432762,
+    "sha256": "67e3d914241c4effff8abd5dda53d5de9c584a4c68cf6d635aedf303d1aa1a50",
+    "git_blob": "f6ce4b28d088f834c21f5c863c64c97f0c95fa7e",
+    "api_blob_matches": true,
+    "line_count": 232030,
+    "source_header_last_updated": [
+      "(last updated 2021-11-13)"
+    ],
+    "exact_58029_lines": [
+      231668
+    ],
+    "exact_name_lines": [
+      231669
+    ],
+    "adjacent_mapping": true
+  },
+  {
+    "id": "PEN21AUG",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/e1df1d7bfc048d106fb1df85099b285eabbddd62/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4410421,
+    "sha256": "28735d4503f6a1561614ecdc680bcf0e6445402e4f834a62ce5c8d84c598e5db",
+    "git_blob": "efc8d143eb077d56bca4d5fb3d57f5881a896fa2",
+    "api_blob_matches": true,
+    "line_count": 230874,
+    "source_header_last_updated": [
+      "(last updated 2021-08-24)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "PEN21JAN",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/a61a65a4ff64d90f3ddabf3c6b317cfd39947493/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4334979,
+    "sha256": "f0e00f44b8d9efd85f4d8c3a3d43153c9effef2c059f94cf4a479ce0aba264e1",
+    "git_blob": "d92b08f1bbb47847d3741df5d8def8d9f747b5dc",
+    "api_blob_matches": true,
+    "line_count": 226978,
+    "source_header_last_updated": [
+      "(last updated 2021-01-23)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "PEN21JUN",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/904edf70ccd8ef5a81196a0be97dd13294c2d278/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4395081,
+    "sha256": "c2edd4ee7b7ed903328c64b14022c37ff094b0785fef4c32e407fcf7b7f34e89",
+    "git_blob": "a9a10aab6123ec6bb7f850a2136fe0fda63add4c",
+    "api_blob_matches": true,
+    "line_count": 230078,
+    "source_header_last_updated": [
+      "(last updated 2021-06-26)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "PEN21OCT",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/0829494816a42c337fe42e869ee9114b816a96ee/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4427138,
+    "sha256": "1f8bb6a355f3a1c4b6b94c6fc3adbf6377e9f2d9fda322e256ad50132cc84da9",
+    "git_blob": "ae20d455a8afa92c7b0bcc3bafc5ee74ff095a94",
+    "api_blob_matches": true,
+    "line_count": 231730,
+    "source_header_last_updated": [
+      "(last updated 2021-10-22)"
+    ],
+    "exact_58029_lines": [
+      231668
+    ],
+    "exact_name_lines": [
+      231669
+    ],
+    "adjacent_mapping": true
+  },
+  {
+    "id": "PEN21PARENT",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/c99419cac238e3960c1942506514dd2f87df202b/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4425964,
+    "sha256": "0f814eada764e2b6144c588a602858b2314be6aae5a2c6c1fef27280d1ac892b",
+    "git_blob": "ac90635db5a9c45009660e1292717ec956e3e4c5",
+    "api_blob_matches": true,
+    "line_count": 231670,
+    "source_header_last_updated": [
+      "(last updated 2021-10-20)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "PEN21SEP",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/b481152d9b520ebeb4a1cbf89dd05972be61dfab/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4420140,
+    "sha256": "1c95afd0bb9dbfae31d16b673609b0b6a72f4e84fcba8ca2d921d2e99abe5f8c",
+    "git_blob": "de0b3b38bb130de3db4050dd1ffcedff5cf88b3c",
+    "api_blob_matches": true,
+    "line_count": 231378,
+    "source_header_last_updated": [
+      "(last updated 2021-09-26)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "PEN22",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/3cd0b106b99a96f4f473174b7593d61b89daa90a/enterprise-numbers/enterprise-numbers",
+    "bytes": 4577118,
+    "sha256": "43afcd0e2f707670a6ebb030a88cbca5d4ca287f6d9f6467137506f540321347",
+    "git_blob": "cd575bbaba2256c82eba30d5951bb95315c002d1",
+    "api_blob_matches": true,
+    "line_count": 239510,
+    "source_header_last_updated": [
+      "(last updated 2022-12-31)"
+    ],
+    "exact_58029_lines": [
+      232132
+    ],
+    "exact_name_lines": [
+      232133
+    ],
+    "adjacent_mapping": true
+  },
+  {
+    "id": "PEN23",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/5b404b4410d57f5a449febea66ec805a796aeaff/enterprise-numbers/enterprise-numbers",
+    "bytes": 4691099,
+    "sha256": "9ee3b5ce73bef8c4226d6a8d641d76a409c96c06a5ec970fe862c9270aec694f",
+    "git_blob": "e3cee69874d07975ff08c4a201f5b6a6f260c89b",
+    "api_blob_matches": true,
+    "line_count": 245330,
+    "source_header_last_updated": [
+      "(last updated 2023-12-26)"
+    ],
+    "exact_58029_lines": [
+      232132
+    ],
+    "exact_name_lines": [
+      232133
+    ],
+    "adjacent_mapping": true
+  },
+  {
+    "id": "PEN24",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/ed5d8ebc0ff572325a5c7c5c54203cea15ca2446/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+    "bytes": 4705413,
+    "sha256": "96a8faae3bf765cecb30f55e0cc26ed24aef3a4365a0e0e2bee3b0f4170f4773",
+    "git_blob": "c323d5e010516bd129bf8f97dea9614862991d75",
+    "api_blob_matches": true,
+    "line_count": 246046,
+    "source_header_last_updated": [
+      "(last updated 2024-02-13)"
+    ],
+    "exact_58029_lines": [
+      232132
+    ],
+    "exact_name_lines": [
+      232133
+    ],
+    "adjacent_mapping": true
+  }
+]

@@ -1,0 +1,3 @@
+id,path,expected_blob_from_api,scan_terms,purpose
+PEN24,github-raw/github.com/rfinnie/iana-tracker/ed5d8ebc0ff572325a5c7c5c54203cea15ca2446/www.iana.org/assignments/enterprise-numbers/enterprise-numbers,c323d5e010516bd129bf8f97dea9614862991d75,"58029|Angora Networks",read complete bytes and resolve exact row relationship; not an allocation certificate
+PEN23,github-raw/github.com/ietf-tools/iana-registries/5b404b4410d57f5a449febea66ec805a796aeaff/enterprise-numbers/enterprise-numbers,,"58029|Angora Networks",read complete bytes and resolve exact row relationship; compare publisher metadata for blob

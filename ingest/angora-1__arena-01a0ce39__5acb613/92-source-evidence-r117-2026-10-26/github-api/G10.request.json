@@ -1,0 +1,10 @@
+{
+  "id": "G10",
+  "endpoint": "repos/ietf-tools/iana-registries",
+  "query_arguments": [],
+  "exit_code": 0,
+  "stdout_bytes": 6565,
+  "stderr_bytes": 0,
+  "stdout_sha256": "0438d102168d7e4dfaf23a543423e3a890bac33ff94e1ff4e18000f2d07374b7",
+  "observed_monotonic_seconds": 733.165869261
+}

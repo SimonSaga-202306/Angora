@@ -1,0 +1,13 @@
+{
+  "id": "G28",
+  "repo": "rfinnie/iana-tracker",
+  "path": "www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "until_utc": "2019-12-31T23:59:59Z",
+  "purpose": "2019 year-end mirror commit",
+  "endpoint": "repos/rfinnie/iana-tracker/commits",
+  "exit_code": 0,
+  "stdout_bytes": 4340,
+  "stderr_bytes": 0,
+  "stdout_sha256": "eb37cbbb696340ca6fb3feff297025318ff79893e0bcd8bbd17424d5dc50d56a",
+  "observed_monotonic_seconds": 851.73252623
+}

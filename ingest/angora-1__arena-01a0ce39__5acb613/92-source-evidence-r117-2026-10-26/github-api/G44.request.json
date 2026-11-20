@@ -1,0 +1,13 @@
+{
+  "id": "G44",
+  "repo": "ietf-tools/iana-registries",
+  "path": "enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-10-27T23:59:59Z",
+  "purpose": "find other mirror state by rfinnie child commit day",
+  "endpoint": "repos/ietf-tools/iana-registries/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3502,
+  "stderr_bytes": 0,
+  "stdout_sha256": "548396556a989147c61af76550d24f564e38de04a5108ecd9ea356110ae462a1",
+  "observed_monotonic_seconds": 1112.040492718
+}

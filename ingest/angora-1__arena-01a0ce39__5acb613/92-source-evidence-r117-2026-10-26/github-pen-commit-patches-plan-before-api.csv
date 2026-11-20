@@ -1,0 +1,5 @@
+id,repo,commit,commit_utc,purpose
+G37,rfinnie/iana-tracker,774f25670f8be3cf85dc91573740d9fe7d68b8f0,2021-10-06T15:56:02Z,inspect GitHub commit API patch for exact row and parent
+G38,rfinnie/iana-tracker,b547528da5f48a15b7ed8cf786b540696f92c8b0,2021-10-13T15:56:02Z,inspect GitHub commit API patch for exact row and parent
+G39,rfinnie/iana-tracker,c99419cac238e3960c1942506514dd2f87df202b,2021-10-20T15:56:01Z,inspect GitHub commit API patch for exact row and parent
+G40,rfinnie/iana-tracker,0829494816a42c337fe42e869ee9114b816a96ee,2021-10-27T15:56:01Z,inspect GitHub commit API patch for exact row and parent

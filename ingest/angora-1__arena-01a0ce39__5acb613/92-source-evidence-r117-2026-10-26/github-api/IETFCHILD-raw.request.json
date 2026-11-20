@@ -1,0 +1,14 @@
+{
+  "id": "IETFCHILD",
+  "endpoint": "repos/ietf-tools/iana-registries/contents/enterprise-numbers/enterprise-numbers?ref=fe367b60547788ed755be66dbec17e819f63c77c",
+  "exit_code": 0,
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/fe367b60547788ed755be66dbec17e819f63c77c/enterprise-numbers/enterprise-numbers",
+  "bytes": 4426103,
+  "sha256": "3ef1d19b77c9a3de7ed59696561f8a35b82eff59c57da7efd6cfbb11de665350",
+  "computed_git_blob_sha1": "ab5cb19763eddeff40840048752ad68db4fe77a4",
+  "api_git_blob_sha1": "ab5cb19763eddeff40840048752ad68db4fe77a4",
+  "api_size": 4426103,
+  "blob_equal": true,
+  "size_equal": true,
+  "observed_monotonic_seconds": 1196.504415442
+}

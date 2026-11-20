@@ -1,0 +1,13 @@
+{
+  "session_date_utc": "2026-10-26",
+  "observed_wall_clock_not_calibrated": "2026-11-20T05:32:18.907782+00:00",
+  "entry_monotonic_seconds": 20.360302067,
+  "entry_boot_id": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "clock_domain_warning": "New environment monotonic clock restarted near 20 seconds despite same observed boot ID; compare only with this environment local monotonic samples. Do not backdate captures.",
+  "branch": "arena/5da004bd-angora",
+  "initial_head": "691123abc7462489146cece19b81b4f917b58646",
+  "fetched_session_branch": "bbdd0453b27a7a27740e20da05e87b836c3a7290",
+  "initial_untracked_count": 868,
+  "initial_untracked_bytes": 46015150,
+  "tracked_modifications": 0
+}

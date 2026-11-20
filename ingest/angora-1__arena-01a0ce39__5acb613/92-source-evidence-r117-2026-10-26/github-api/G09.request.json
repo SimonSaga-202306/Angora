@@ -1,0 +1,10 @@
+{
+  "id": "G09",
+  "endpoint": "search/repositories",
+  "query": "\"iana-pen\"",
+  "exit_code": 0,
+  "stdout_bytes": 27171,
+  "stderr_bytes": 0,
+  "stdout_sha256": "5402fe83962987dad24b44d3a7966f484d5d6e5731711639eff7acf119fd9700",
+  "observed_monotonic_seconds": 712.420980252
+}

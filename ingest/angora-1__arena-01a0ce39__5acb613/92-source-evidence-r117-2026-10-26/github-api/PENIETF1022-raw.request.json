@@ -1,0 +1,14 @@
+{
+  "id": "PENIETF1022",
+  "endpoint": "repos/ietf-tools/iana-registries/contents/enterprise-numbers/enterprise-numbers?ref=cb5a1929c3752fdd11958a72fac585afcdbe3aca",
+  "exit_code": 0,
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/cb5a1929c3752fdd11958a72fac585afcdbe3aca/enterprise-numbers/enterprise-numbers",
+  "bytes": 4427138,
+  "sha256": "1f8bb6a355f3a1c4b6b94c6fc3adbf6377e9f2d9fda322e256ad50132cc84da9",
+  "computed_git_blob_sha1": "ae20d455a8afa92c7b0bcc3bafc5ee74ff095a94",
+  "api_git_blob_sha1": "ae20d455a8afa92c7b0bcc3bafc5ee74ff095a94",
+  "api_size": 4427138,
+  "blob_equal": true,
+  "size_equal": true,
+  "observed_monotonic_seconds": 1140.567500392
+}

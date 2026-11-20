@@ -1,0 +1,82 @@
+[
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20221001075647/chunk-0.visible.md",
+    "listed_bytes": "8092",
+    "capture": "20221001075647",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 8092,
+    "sha256": "c10c96e950c14b25a33fe655742349b48e5f5e849b9852af1a5f46226973c008",
+    "line_count": 74,
+    "casefold_angora_hits": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20221001075647/chunk-1.visible.md",
+    "listed_bytes": "8124",
+    "capture": "20221001075647",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 8124,
+    "sha256": "857d4d84e4d520425ca38271e19018c9ce66fc3f9a1f3cb7633dbb1551060438",
+    "line_count": 67,
+    "casefold_angora_hits": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20221001075647/chunk-2.visible.md",
+    "listed_bytes": "8115",
+    "capture": "20221001075647",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 8115,
+    "sha256": "ab64289620e2c6cf776268570ae190ee58b31ea2c43a320ebb8825f68af6b309",
+    "line_count": 67,
+    "casefold_angora_hits": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20221001075647/chunk-3.visible.md",
+    "listed_bytes": "3496",
+    "capture": "20221001075647",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 3496,
+    "sha256": "5adfbc32a261717b720a9f3d2318e3b940c51366cf7ecf7a3d74282feea11953",
+    "line_count": 25,
+    "casefold_angora_hits": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20240226204515/chunk-0.visible.md",
+    "listed_bytes": "8092",
+    "capture": "20240226204515",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 8092,
+    "sha256": "1ef501e70af7709482eceae7e12915cc064b70e2f87d8d665847a36a30ee7e49",
+    "line_count": 74,
+    "casefold_angora_hits": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20240226204515/chunk-1.visible.md",
+    "listed_bytes": "8124",
+    "capture": "20240226204515",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 8124,
+    "sha256": "81cd310c3bafb75b1ade6be738527cbc4f3153af0cfa3901f9fbfa23442768ad",
+    "line_count": 67,
+    "casefold_angora_hits": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20240226204515/chunk-2.visible.md",
+    "listed_bytes": "8115",
+    "capture": "20240226204515",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 8115,
+    "sha256": "30d3c7cbc77e3ff9e5a553ca4e39d02ed419172770f661e4b3f3716479cc26bc",
+    "line_count": 67,
+    "casefold_angora_hits": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/archive-chunks/www.kirikkaleteknopark.com/firma-rehberi/20240226204515/chunk-3.visible.md",
+    "listed_bytes": "3499",
+    "capture": "20240226204515",
+    "purpose": "full local chunk read and exact case-insensitive angora search",
+    "bytes_read": 3499,
+    "sha256": "41818c8a82fcca9b8df7eeb83377a706d3b04b0cbae5c1069a6eb02ed140fa93",
+    "line_count": 25,
+    "casefold_angora_hits": []
+  }
+]

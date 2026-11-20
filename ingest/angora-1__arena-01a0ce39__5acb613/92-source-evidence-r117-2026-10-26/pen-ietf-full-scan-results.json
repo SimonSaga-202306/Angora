@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PENIETF1021",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/3f9f64a78665fb8889a3779df01a3f4e8426a65c/enterprise-numbers/enterprise-numbers",
+    "bytes": 4426525,
+    "sha256": "674861770df7568dd9cfb38c3b242fe57b2483ee84f0b6d942ffb63a74844603",
+    "git_blob": "9d361bbe21b84495bbeac93d540bb62e3c2c127a",
+    "api_blob_matches": true,
+    "line_count": 231698,
+    "source_header_last_updated": [
+      "(last updated 2021-10-21)"
+    ],
+    "exact_58029_lines": [
+      231668
+    ],
+    "exact_name_lines": [
+      231669
+    ],
+    "adjacent_mapping": true
+  },
+  {
+    "id": "PENIETF1022",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/cb5a1929c3752fdd11958a72fac585afcdbe3aca/enterprise-numbers/enterprise-numbers",
+    "bytes": 4427138,
+    "sha256": "1f8bb6a355f3a1c4b6b94c6fc3adbf6377e9f2d9fda322e256ad50132cc84da9",
+    "git_blob": "ae20d455a8afa92c7b0bcc3bafc5ee74ff095a94",
+    "api_blob_matches": true,
+    "line_count": 231730,
+    "source_header_last_updated": [
+      "(last updated 2021-10-22)"
+    ],
+    "exact_58029_lines": [
+      231668
+    ],
+    "exact_name_lines": [
+      231669
+    ],
+    "adjacent_mapping": true
+  },
+  {
+    "id": "IETFPARENT",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/ae9ceebec6bf7a4034e6c8d6768e13b7f4f95883/enterprise-numbers/enterprise-numbers",
+    "bytes": 4425964,
+    "sha256": "0f814eada764e2b6144c588a602858b2314be6aae5a2c6c1fef27280d1ac892b",
+    "git_blob": "ac90635db5a9c45009660e1292717ec956e3e4c5",
+    "api_blob_matches": true,
+    "line_count": 231670,
+    "source_header_last_updated": [
+      "(last updated 2021-10-20)"
+    ],
+    "exact_58029_lines": [],
+    "exact_name_lines": [],
+    "adjacent_mapping": false
+  },
+  {
+    "id": "IETFCHILD",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/fe367b60547788ed755be66dbec17e819f63c77c/enterprise-numbers/enterprise-numbers",
+    "bytes": 4426103,
+    "sha256": "3ef1d19b77c9a3de7ed59696561f8a35b82eff59c57da7efd6cfbb11de665350",
+    "git_blob": "ab5cb19763eddeff40840048752ad68db4fe77a4",
+    "api_blob_matches": true,
+    "line_count": 231678,
+    "source_header_last_updated": [
+      "(last updated 2021-10-20)"
+    ],
+    "exact_58029_lines": [
+      231668
+    ],
+    "exact_name_lines": [
+      231669
+    ],
+    "adjacent_mapping": true
+  }
+]

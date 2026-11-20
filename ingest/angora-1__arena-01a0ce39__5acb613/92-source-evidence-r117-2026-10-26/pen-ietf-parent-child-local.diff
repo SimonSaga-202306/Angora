@@ -1,0 +1,20 @@
+diff --git a/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/ae9ceebec6bf7a4034e6c8d6768e13b7f4f95883/enterprise-numbers/enterprise-numbers b/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/fe367b60547788ed755be66dbec17e819f63c77c/enterprise-numbers/enterprise-numbers
+index ac90635..ab5cb19 100644
+--- a/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/ae9ceebec6bf7a4034e6c8d6768e13b7f4f95883/enterprise-numbers/enterprise-numbers
++++ b/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/fe367b60547788ed755be66dbec17e819f63c77c/enterprise-numbers/enterprise-numbers
+@@ -231665,6 +231665,14 @@ Decimal
+   Badan Pemeriksa Keuangan Republik Indonesia
+     netadmin
+       netadmin&bpk.go.id
++58029
++  Angora Networks
++    Taylan Esen
++      tesen&angoranetworks.com
++58030
++  beltskyy.com
++    Pavel Poyasonebov
++      beltskyy&gmail.com
+ 
+ 
+ End of Document
+\ No newline at end of file

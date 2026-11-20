@@ -1,0 +1,9 @@
+{
+  "index_paths_verified": 399,
+  "bytes_verified": 74568972,
+  "added_paths": 398,
+  "modified_paths": 1,
+  "all_index_blobs_equal_worktree": true,
+  "verified_only_before_adding_this_csv_and_summary": true,
+  "stash_ref": "f9bfa35791bcdcb117250166538a408e50dba5d4"
+}

@@ -1,0 +1,9 @@
+{
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "old_bytes": 52717,
+  "old_sha256": "983432504c2b0e6d317c5c5bedc4cda236f72197c3897dc342d5fa5149e2fe2c",
+  "append_bytes": 200,
+  "append_sha256": "d1be4ddd1a02fea03737490ab5a0a9f99b8cfd6b9290c31f0ccac8965461c638",
+  "mode": "one additive r117 index only; no old body displayed or analyzed; never append r116 again",
+  "idempotence_guard": "r117 appendix path absent before append"
+}

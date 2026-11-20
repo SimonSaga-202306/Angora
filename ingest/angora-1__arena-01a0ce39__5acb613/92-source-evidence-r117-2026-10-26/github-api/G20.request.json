@@ -1,0 +1,13 @@
+{
+  "id": "G20",
+  "repo": "rfinnie/iana-tracker",
+  "path": "www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "until_utc": "2026-10-26T23:59:59Z",
+  "purpose": "latest pre-boundary independent hosting mirror commit",
+  "endpoint": "repos/rfinnie/iana-tracker/commits",
+  "exit_code": 0,
+  "stdout_bytes": 4957,
+  "stderr_bytes": 0,
+  "stdout_sha256": "3a22739c888ab129acc894bf43b1da7df8a9039cdde177c1ce98bd69536b6062",
+  "observed_monotonic_seconds": 758.753722689
+}

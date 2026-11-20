@@ -1,0 +1,12 @@
+path,listed_bytes,kind
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/round-readback-scope.csv,47448,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/round-readback-inventory.csv,72348,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/round-readback-summary.json,655,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/final-deliverables-inventory.csv,1191,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/final-deliverables-summary.json,126,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-initial.log,2386,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-result.json,326,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/test-first-run-correction-before-second-run.md,717,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117.log,1741,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-second-result.json,531,utf8
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/test-outcome-note.md,883,utf8

@@ -1,0 +1,9 @@
+{
+  "initial_sha256": "8ef4071fb91a49d05fa2cfacd947eeabc2762e8791b74f085c1ef2366ef50b6d",
+  "corrected_sha256": "d2ce4a89d5c9078f46c405861d26568372a3347d67012c571af658487fb35140",
+  "edits": [
+    "remove accidental two leading hyphens",
+    "correct title Unicode I + combining dot"
+  ],
+  "limitations": "manual transcription, no upstream byte comparison"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "G15",
+  "repo": "ietf-tools/iana-registries",
+  "path": "enterprise-numbers/enterprise-numbers",
+  "until_utc": "2026-10-26T23:59:59Z",
+  "purpose": "latest pre-boundary commit touching registry mirror",
+  "endpoint": "repos/ietf-tools/iana-registries/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3406,
+  "stderr_bytes": 0,
+  "stdout_sha256": "40cebcfbfe2d6e2c55c6d2a9027b545dedfc5d10ab067ddfe20127e8b85aed68",
+  "observed_monotonic_seconds": 754.485149672
+}

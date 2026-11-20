@@ -1,0 +1,5 @@
+id,endpoint_or_query,purpose,limit
+G01,"GET /search/code?q=""Angora Networks"" ""58029"" in:file&per_page=100",search historical PEN mirror,search may not index large files and is not an allocation authority
+G02,"GET /search/repositories?q=iana enterprise numbers mirror&per_page=100",discover PEN mirror repositories,search metadata only not proof of first registration
+G03,"GET /search/repositories?q=enterprise-numbers IANA&per_page=100",discover versioned registry mirrors,search metadata only not proof of first registration
+G04,"GET /search/code?q=""Angora Networks"" ""58029""&per_page=100",search without file filter,incomplete search not negative evidence

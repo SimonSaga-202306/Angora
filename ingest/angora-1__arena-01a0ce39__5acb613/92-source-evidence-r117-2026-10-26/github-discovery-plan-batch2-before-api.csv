@@ -1,0 +1,6 @@
+id,endpoint_or_query,purpose,limit
+G05,"GET /search/code?q=""58029"" ""Angora""&per_page=100",locate versioned PEN number if indexed,incomplete GitHub code search and duplicate mirrors not independent
+G06,"GET /search/code?q=""Angora Networks"" ""enterprise""&per_page=100",locate versioned PEN label if indexed,incomplete GitHub code search not absence proof
+G07,"GET /search/repositories?q=""enterprise-numbers""&per_page=100",discover repositories holding versioned PEN datasets,metadata not proof registry timing
+G08,"GET /search/code?q=filename:enterprise-numbers ""IANA""&per_page=100",look for indexed registry copies,big datasets may be unindexed
+G09,"GET /search/repositories?q=""iana-pen""&per_page=100",discover legacy PEN mirrors or libraries,metadata not a dated registry record

@@ -1,0 +1,12 @@
+path,bytes_read,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/round-readback-scope.csv,47448,6226e42e37c373e1a3447dcd1cdabf4d36011f469d39732e87c245fef2d62704
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/round-readback-inventory.csv,72348,6eea777d974479b1e77a94823252f34fc375ebb69a2549cfdb01f31e48a441ef
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/round-readback-summary.json,655,32a101d118d5abc9a8f6e42e56337399cb172bd461b648102e058f86970de6d4
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/final-deliverables-inventory.csv,1191,51ef0df237937be80d595a6fdef90eaa915a34b1ea0b369ef4d0a8c9af7cb70d
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/final-deliverables-summary.json,126,9310c7ac7b64d5f11dd91ff699da90a5ffb681ba4c6a85aeba9eed4201fb68b9
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-initial.log,2386,dad564904af5760773b7627c956d308e416d427eedad67d68b4dd376bede717d
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-result.json,326,ea8685b5ed51feff71af4208935dd33c4145466b567bc77ba6011596a0d8b62b
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/test-first-run-correction-before-second-run.md,717,43af315f4c7b701c485d92139f32c9a79a2748c483f2e1f9f1804aad5c274acd
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117.log,1741,cb45292002a7825c1fd40ab6ac4e64eb250336cfe89a68b48eee7941d1d448d4
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-second-result.json,531,ad3b57bbe9874f1e68deedcd8a0bce48b4214052ec1ed17d19d5061ba6f3bee4
+ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/test-outcome-note.md,883,5406e59a17e1e49f70f3d423d4932289009ea0fa78e9ad47bd4d531070d8df4d

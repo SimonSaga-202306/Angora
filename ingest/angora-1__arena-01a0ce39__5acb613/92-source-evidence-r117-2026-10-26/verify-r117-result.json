@@ -1,0 +1,8 @@
+{
+  "exit_code": 1,
+  "log_path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-initial.log",
+  "log_bytes": 2386,
+  "log_sha256": "dad564904af5760773b7627c956d308e416d427eedad67d68b4dd376bede717d",
+  "observed_monotonic_seconds": 2073.897100277,
+  "scope": "local integrity only"
+}

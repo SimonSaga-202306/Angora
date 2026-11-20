@@ -1,0 +1,3 @@
+id,repo,path,commit,commit_utc,purpose
+IETFPARENT,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,ae9ceebec6bf7a4034e6c8d6768e13b7f4f95883,2021-10-20T10:30:16Z,complete parent file of candidate addition commit; scan full bytes for exact terms
+IETFCHILD,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,fe367b60547788ed755be66dbec17e819f63c77c,2021-10-20T16:45:45Z,complete child file of candidate addition commit; verify blob and mapping

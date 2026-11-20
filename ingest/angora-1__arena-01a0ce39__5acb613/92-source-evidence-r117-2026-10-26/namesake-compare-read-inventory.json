@@ -1,0 +1,40 @@
+[
+  {
+    "id": "FOUNDER2021",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/ortakakil.org.tr/ozgecmisler/levent-kilic/20210622052721/index.visible.md",
+    "listed_bytes": "8230",
+    "purpose": "prior organization archive biography; compare identifiers without merging",
+    "bytes_read": 8230,
+    "sha256": "f5bf1a27a6b28a8894a4967ba276eebb821a556ad8e62787e9673fb2169319ae",
+    "line_count": 92,
+    "selected_name_disambiguation_lines": [
+      {
+        "line": 48,
+        "text": "Levent KILIÇ Ankara’da 1969 yılında doğmuştur. İçel Anadolu Lisesi’nin ardından sırasıyla Hacettepe Üniversitesi Elektronik Bölümünden lisans, Boğaziçi Üniversitesi Elektronik Bölümünden Yüksek Lisans ve Sabanci Üniversitesinde İsletme Yüksek Lisans derecelerini almıştır. Birçok uluslararası şirkette değişik görevler üstlenmiştir. Ayrıca kısa bir süre Sabanci Üniversitesinde sözleşmeli olarak dersler vermiştir. 2016 yılından beri kurucu ortağı olduğu Angora Networks şirketinde elektronik üretim ve satış konularında çalışmaktadır. Levent KILIÇ evli ve iki kız babasıdır."
+      },
+      {
+        "line": 70,
+        "text": "1960 yılında Ankara’da Selanik göçmeni bir ailenin oğlu olarak doğdu. Ankara Atatürk Anadolu Lisesi ve Ankara Fen Lisesi’nden sonra Üniversitelerarası Sınavda Türkiye altıncısı olarak girdiği Hacettepe Tıp..."
+      },
+      {
+        "line": 90,
+        "text": "1949 doğumlu Muzaffer Eryılmaz, Ankara Atatürk Lisesi ve 1978 yılı Hacettepe Tıp Fakültesi mezunudur. Aynı Üniversite de 1983 yılında profesörlük unvanını almıştır. Siyasete CHP gençlik kollarında başlamış, anılan..."
+      }
+    ]
+  },
+  {
+    "id": "OFFICIALCURRENT",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/external-visible/sincan.gov.tr/makam/chunk-0.visible.md",
+    "listed_bytes": "6238",
+    "purpose": "current official profile returned once; publication date not verified",
+    "bytes_read": 6238,
+    "sha256": "6de4a302ed851a03c0032fb151d32c32b0360b9d27ffa004e44b5e3236c90532",
+    "line_count": 119,
+    "selected_name_disambiguation_lines": [
+      {
+        "line": 47,
+        "text": "        1966 tarihinde Çorum'da doğdu. İlk ve orta öğrenimini Çorum’da, liseyi Kuleli Askeri Lisesi’nde tamamladı. 1989 yılında Ankara Üniversitesi Siyasal Bilgiler Fakültesi Kamu Yönetimi bölümünden mezun oldu."
+      }
+    ]
+  }
+]

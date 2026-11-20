@@ -1,0 +1,3 @@
+id,repo,path,commit,commit_utc,purpose
+PEN20,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,af28c67f05be5a219391c78196f19b1c808abb01,2020-04-12T15:55:01Z,"full latest mirror file touching path before 2020-12-31; compare exact registration row"
+PEN19,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,819cf521dbf47739491de385ae29a2b501eda5c7,2019-12-29T23:55:01Z,"full latest mirror file touching path before 2019-12-31; compare exact registration row"

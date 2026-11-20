@@ -1,0 +1,14 @@
+{
+  "id": "PEN21JUN",
+  "endpoint": "repos/rfinnie/iana-tracker/contents/www.iana.org/assignments/enterprise-numbers/enterprise-numbers?ref=904edf70ccd8ef5a81196a0be97dd13294c2d278",
+  "exit_code": 0,
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/904edf70ccd8ef5a81196a0be97dd13294c2d278/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "bytes": 4395081,
+  "sha256": "c2edd4ee7b7ed903328c64b14022c37ff094b0785fef4c32e407fcf7b7f34e89",
+  "computed_git_blob_sha1": "a9a10aab6123ec6bb7f850a2136fe0fda63add4c",
+  "api_git_blob_sha1": "a9a10aab6123ec6bb7f850a2136fe0fda63add4c",
+  "api_size": 4395081,
+  "blob_equal": true,
+  "size_equal": true,
+  "observed_monotonic_seconds": 906.68349852
+}

@@ -1,0 +1,10 @@
+id,repo,path,until_utc,purpose
+G15,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2026-10-26T23:59:59Z,latest pre-boundary commit touching registry mirror
+G16,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2024-12-31T23:59:59Z,2024 year-end mirror state
+G17,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2023-12-31T23:59:59Z,2023 year-end mirror state
+G18,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2022-12-31T23:59:59Z,2022 year-end mirror state
+G19,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2021-12-31T23:59:59Z,2021 year-end mirror state
+G20,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2026-10-26T23:59:59Z,latest pre-boundary independent hosting mirror commit
+G21,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2023-12-31T23:59:59Z,2023 year-end mirror state
+G22,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2022-12-31T23:59:59Z,2022 year-end mirror state
+G23,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-12-31T23:59:59Z,2021 year-end mirror state

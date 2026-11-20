@@ -1,0 +1,3 @@
+id,repo,path,commit,commit_utc,purpose
+PEN21JAN,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,a61a65a4ff64d90f3ddabf3c6b317cfd39947493,2021-01-27T15:56:02Z,inspect full January 2021 snapshot to narrow observed first appearance
+PEN21JUN,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,904edf70ccd8ef5a81196a0be97dd13294c2d278,2021-06-30T15:56:01Z,inspect full June 2021 snapshot to narrow observed first appearance

@@ -1,0 +1,7 @@
+id,path,purpose
+REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/186-angora-pen-park-identity-evidence-r117-2026-10-26.md,main report
+APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r117-appendix.md,separate appendix
+MAPPING,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r117.md,one entity mapping
+FOLLOWUP,ingest/angora-1__arena-01a0ce39__5acb613/93-followup-angora-r117-2026-10-26/angora-networks.md,one entity internal note
+AUDIT,ingest/angora-1__arena-01a0ce39__5acb613/94-audit-r117-2026-10-26.md,audit
+MASTER,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,append-only index and preserved old prefix

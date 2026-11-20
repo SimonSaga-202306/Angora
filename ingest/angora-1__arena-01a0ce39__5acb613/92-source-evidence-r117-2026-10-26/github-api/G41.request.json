@@ -1,0 +1,13 @@
+{
+  "id": "G41",
+  "repo": "ietf-tools/iana-registries",
+  "path": "enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-10-21T23:59:59Z",
+  "purpose": "find other mirror state before source file last updated 10-22",
+  "endpoint": "repos/ietf-tools/iana-registries/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3502,
+  "stderr_bytes": 0,
+  "stdout_sha256": "44df0fdb6ba11675017d4640a7086a6f64ce9b403fa8e29ca1bd87b436439795",
+  "observed_monotonic_seconds": 1110.119007584
+}

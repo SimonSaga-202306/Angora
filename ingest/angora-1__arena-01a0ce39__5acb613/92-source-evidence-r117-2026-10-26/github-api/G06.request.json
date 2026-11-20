@@ -1,0 +1,10 @@
+{
+  "id": "G06",
+  "endpoint": "search/code",
+  "query": "\"Angora Networks\" \"enterprise\"",
+  "exit_code": 0,
+  "stdout_bytes": 55481,
+  "stderr_bytes": 0,
+  "stdout_sha256": "89262c9ff879b966daa1bdadd9323cb7e700674966c8b8d2d273673e72d1c42c",
+  "observed_monotonic_seconds": 710.374656747
+}

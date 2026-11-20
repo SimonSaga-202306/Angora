@@ -1,0 +1,34 @@
+id,path,listed_bytes,purpose
+R107,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/176-angora-early-commercial-evidence-r107-2026-10-26.md,9518,read prior findings and avoid duplicates
+R108,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/177-angora-koz-survey-channel-evidence-r108-2026-10-26.md,9811,read prior findings and avoid duplicates
+R111,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/180-angora-commercial-history-evidence-r111-2026-10-26.md,10678,read prior findings and avoid duplicates
+R114,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md,8896,read prior findings and avoid duplicates
+R115,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/184-angora-institutional-partnership-evidence-r115-2026-10-26.md,9341,read prior findings and avoid duplicates
+R116,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/185-angora-historical-address-park-evidence-r116-2026-10-26.md,7929,read prior findings and avoid duplicates
+R114-APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r114-appendix.md,4228,review independent appendix only; not PASS master
+R114-MAP,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r114.md,3871,entity mapping and named prior corrections
+R115-APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r115-appendix.md,4200,review independent appendix only; not PASS master
+R115-MAP,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r115.md,2282,entity mapping and named prior corrections
+R116-APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r116-appendix.md,4468,review independent appendix only; not PASS master
+R116-MAP,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r116.md,2270,entity mapping and named prior corrections
+R115-FOLLOW,ingest/angora-1__arena-01a0ce39__5acb613/86-followup-angora-r115-2026-10-26/angora-networks.md,1991,scope and safety continuity
+R116-FOLLOW,ingest/angora-1__arena-01a0ce39__5acb613/89-followup-angora-r116-2026-10-26/angora-networks.md,1919,scope and safety continuity
+R115-AUDIT,ingest/angora-1__arena-01a0ce39__5acb613/87-audit-r115-2026-10-26.md,6523,scope and safety continuity
+R116-AUDIT,ingest/angora-1__arena-01a0ce39__5acb613/90-audit-r116-2026-10-26.md,5972,scope and safety continuity
+R107-README,ingest/angora-1__arena-01a0ce39__5acb613/53-source-evidence-r107-2026-10-26/README.md,6799,source/URL deduplication and evidence level
+R111-CAT,ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/source-catalog.csv,7057,source/URL deduplication and evidence level
+R114-CAT,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/source-catalog.csv,5536,source/URL deduplication and evidence level
+R114-EVENT-CAT,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/source-catalog-2022-event.csv,3704,source/URL deduplication and evidence level
+R115-CAT,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/source-catalog.csv,7069,source/URL deduplication and evidence level
+R115-CAT-EXT,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/source-catalog-extension.csv,1154,source/URL deduplication and evidence level
+R116-README,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/README.md,4526,"explicit previous gaps, query and source overlap"
+R116-CAT,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/source-catalog.csv,18203,"explicit previous gaps, query and source overlap"
+R116-TRACE,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/evidence-traceability.csv,4327,"explicit previous gaps, query and source overlap"
+R116-ISSUES,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/issues-and-corrections.md,2233,"explicit previous gaps, query and source overlap"
+R116-FETCH-OBS,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/fetch-observations-and-limitations.md,5544,"explicit previous gaps, query and source overlap"
+R116-FETCH-META,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/fetch-response-metadata.csv,2577,"explicit previous gaps, query and source overlap"
+R116-SEARCH1,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/search-plan-before-search.csv,3144,"explicit previous gaps, query and source overlap"
+R116-SEARCH2,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/search-plan-extension-before-search.csv,2546,"explicit previous gaps, query and source overlap"
+R116-SEARCH3,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/search-plan-early-history-before-search.csv,1666,"explicit previous gaps, query and source overlap"
+R116-SUPPORT,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/support-dedup-and-discovery-limits.md,1202,"explicit previous gaps, query and source overlap"
+R116-DATE,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/date-boundary-and-refetch-note.md,1154,"explicit previous gaps, query and source overlap"

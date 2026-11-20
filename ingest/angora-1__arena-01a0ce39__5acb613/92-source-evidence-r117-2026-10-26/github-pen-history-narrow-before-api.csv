@@ -1,0 +1,5 @@
+id,repo,path,until_utc,purpose
+G29,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-01-31T23:59:59Z,resolve mirror continuity after 2020-04
+G30,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-03-31T23:59:59Z,resolve early-2021 mirror state
+G31,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-05-31T23:59:59Z,resolve spring-2021 mirror state
+G32,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-07-31T23:59:59Z,resolve summer-2021 mirror state

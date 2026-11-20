@@ -1,0 +1,13 @@
+{
+  "id": "G16",
+  "repo": "ietf-tools/iana-registries",
+  "path": "enterprise-numbers/enterprise-numbers",
+  "until_utc": "2024-12-31T23:59:59Z",
+  "purpose": "2024 year-end mirror state",
+  "endpoint": "repos/ietf-tools/iana-registries/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3406,
+  "stderr_bytes": 0,
+  "stdout_sha256": "8e36bf0de795e4eb5d787472833c8d921a0465ec33a7588c9e5d46f68b3e74b7",
+  "observed_monotonic_seconds": 755.910597649
+}

@@ -1,0 +1,10 @@
+{
+  "first_attempt_exit_code": 1,
+  "first_attempt_log": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117-initial.log",
+  "second_attempt_exit_code": 0,
+  "second_attempt_log": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/verify-r117.log",
+  "second_attempt_log_bytes": 1741,
+  "second_attempt_log_sha256": "cb45292002a7825c1fd40ab6ac4e64eb250336cfe89a68b48eee7941d1d448d4",
+  "observed_monotonic_seconds": 2083.592290269,
+  "scope": "local integrity only"
+}

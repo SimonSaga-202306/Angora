@@ -1,0 +1,3 @@
+id,path,scan_terms,purpose
+PEN22,github-raw/github.com/ietf-tools/iana-registries/3cd0b106b99a96f4f473174b7593d61b89daa90a/enterprise-numbers/enterprise-numbers,"58029|Angora Networks",read full file and locate record without inferring allocation date
+PEN21,github-raw/github.com/ietf-tools/iana-registries/6924813c73f140a19ebac1292548a791181af0af/enterprise-numbers/enterprise-numbers,"58029|Angora Networks",read full file and locate record without inferring allocation date

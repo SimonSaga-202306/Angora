@@ -1,0 +1,6 @@
+id,endpoint,purpose
+G10,GET /repos/ietf-tools/iana-registries,metadata for GitHub IANA mirror discovered in G08
+G11,GET /repos/ietf-tools/iana-registries/contents/enterprise-numbers,directory filenames and object metadata
+G12,GET /repos/rfinnie/iana-tracker,metadata for independent historical IANA mirror discovered in G08
+G13,GET /repos/rfinnie/iana-tracker/contents/www.iana.org/assignments/enterprise-numbers,directory filenames and object metadata
+G14,GET /repos/FreeRADIUS/www.freeradius.org/commits?path=rfc/enterprise-numbers.txt&until=2026-10-26T23:59:59Z&per_page=1,find dated historical mirror commit

@@ -1,0 +1,3 @@
+id,repo,path,commit,commit_utc,purpose
+PEN21AUG,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,e1df1d7bfc048d106fb1df85099b285eabbddd62,2021-08-25T15:56:01Z,narrow first observed mirror appearance without claiming allocation date
+PEN21OCT,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,0829494816a42c337fe42e869ee9114b816a96ee,2021-10-27T15:56:01Z,narrow first observed mirror appearance without claiming allocation date

@@ -1,0 +1,13 @@
+{
+  "id": "G31",
+  "repo": "rfinnie/iana-tracker",
+  "path": "www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-05-31T23:59:59Z",
+  "purpose": "resolve spring-2021 mirror state",
+  "endpoint": "repos/rfinnie/iana-tracker/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3227,
+  "stderr_bytes": 0,
+  "stdout_sha256": "dca2115cca06cd252d6e1bb8a15d61e50c13a25c5cb16c8eb0993acfb37656fa",
+  "observed_monotonic_seconds": 890.592373173
+}

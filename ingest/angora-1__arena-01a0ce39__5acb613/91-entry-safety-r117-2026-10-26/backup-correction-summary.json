@@ -1,0 +1,11 @@
+{
+  "initial_classification_error": "initial script omitted prior r97/r99/r109 protected directories",
+  "corrected_full_byte_verified_variants": 32,
+  "corrected_unprotected_conflicts": 0,
+  "same_path_identical": 836,
+  "listed_untracked": 868,
+  "scope_bytes": 46015150,
+  "modes_discrepancies": 0,
+  "stop_condition_cleared": true,
+  "initial_compare_preserved": true
+}

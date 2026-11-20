@@ -1,0 +1,14 @@
+{
+  "id": "PEN21PARENT",
+  "endpoint": "repos/rfinnie/iana-tracker/contents/www.iana.org/assignments/enterprise-numbers/enterprise-numbers?ref=c99419cac238e3960c1942506514dd2f87df202b",
+  "exit_code": 0,
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/c99419cac238e3960c1942506514dd2f87df202b/www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "bytes": 4425964,
+  "sha256": "0f814eada764e2b6144c588a602858b2314be6aae5a2c6c1fef27280d1ac892b",
+  "computed_git_blob_sha1": "ac90635db5a9c45009660e1292717ec956e3e4c5",
+  "api_git_blob_sha1": "ac90635db5a9c45009660e1292717ec956e3e4c5",
+  "api_size": 4425964,
+  "blob_equal": true,
+  "size_equal": true,
+  "observed_monotonic_seconds": 996.679848006
+}

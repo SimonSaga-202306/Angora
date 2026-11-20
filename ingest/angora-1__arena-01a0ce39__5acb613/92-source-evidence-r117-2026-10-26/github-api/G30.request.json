@@ -1,0 +1,13 @@
+{
+  "id": "G30",
+  "repo": "rfinnie/iana-tracker",
+  "path": "www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-03-31T23:59:59Z",
+  "purpose": "resolve early-2021 mirror state",
+  "endpoint": "repos/rfinnie/iana-tracker/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3227,
+  "stderr_bytes": 0,
+  "stdout_sha256": "946ccd946bf1ca11e8920db79e86bee50478067932fe04d0c4b1e09137ebbfee",
+  "observed_monotonic_seconds": 890.11438098
+}

@@ -1,0 +1,10 @@
+{
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md",
+  "old_bytes": 52717,
+  "old_sha256": "983432504c2b0e6d317c5c5bedc4cda236f72197c3897dc342d5fa5149e2fe2c",
+  "new_bytes": 52917,
+  "new_sha256": "3cff35ed4d84c34450800cca1e22645c67c738561d8e21fc3287f79b6ab4acf5",
+  "appended_bytes": 200,
+  "old_prefix_byte_identical": true,
+  "single_r117_index_occurrence": true
+}

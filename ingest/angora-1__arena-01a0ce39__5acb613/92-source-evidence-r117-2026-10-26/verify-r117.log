@@ -1,0 +1,21 @@
+test_01_sixteen_full_git_snapshots (__main__.Integrity.test_01_sixteen_full_git_snapshots) ... ok
+test_02_ietf_parent_child_and_patch (__main__.Integrity.test_02_ietf_parent_child_and_patch) ... ok
+test_03_cross_repository_equal_bytes (__main__.Integrity.test_03_cross_repository_equal_bytes) ... ok
+test_04_rfinnie_parent_child (__main__.Integrity.test_04_rfinnie_parent_child) ... ok
+test_05_park_chunks_and_reconstruction_disclosure (__main__.Integrity.test_05_park_chunks_and_reconstruction_disclosure) ... ok
+test_06_prior_positive_and_namesake_separate (__main__.Integrity.test_06_prior_positive_and_namesake_separate) ... ok
+test_07_search_outcomes_and_secret_guard (__main__.Integrity.test_07_search_outcomes_and_secret_guard) ... ok
+test_08_video_incomplete_and_draft_preserved (__main__.Integrity.test_08_video_incomplete_and_draft_preserved) ... ok
+test_09_q01_correction (__main__.Integrity.test_09_q01_correction) ... ok
+test_10_named_corrections_and_date_scope (__main__.Integrity.test_10_named_corrections_and_date_scope) ... ok
+test_11_entry_safety_and_stash (__main__.Integrity.test_11_entry_safety_and_stash) ... ok
+test_12_master_index_append_only (__main__.Integrity.test_12_master_index_append_only) ... ok
+test_13_source_catalogue_paths_sizes_hashes (__main__.Integrity.test_13_source_catalogue_paths_sizes_hashes) ... ok
+test_14_round_readback_scope_and_hashes (__main__.Integrity.test_14_round_readback_scope_and_hashes) ... ok
+test_15_deliverable_links_resolve (__main__.Integrity.test_15_deliverable_links_resolve) ... ok
+test_16_clock_and_single_subject (__main__.Integrity.test_16_clock_and_single_subject) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.630s
+
+OK

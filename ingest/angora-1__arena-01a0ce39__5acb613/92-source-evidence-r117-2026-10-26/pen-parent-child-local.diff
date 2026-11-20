@@ -1,0 +1,80 @@
+diff --git a/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/c99419cac238e3960c1942506514dd2f87df202b/www.iana.org/assignments/enterprise-numbers/enterprise-numbers b/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/0829494816a42c337fe42e869ee9114b816a96ee/www.iana.org/assignments/enterprise-numbers/enterprise-numbers
+index ac90635..ae20d45 100644
+--- a/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/c99419cac238e3960c1942506514dd2f87df202b/www.iana.org/assignments/enterprise-numbers/enterprise-numbers
++++ b/ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/rfinnie/iana-tracker/0829494816a42c337fe42e869ee9114b816a96ee/www.iana.org/assignments/enterprise-numbers/enterprise-numbers
+@@ -1,6 +1,6 @@
+ PRIVATE ENTERPRISE NUMBERS
+ 
+-(last updated 2021-10-20)
++(last updated 2021-10-22)
+ 
+ SMI Network Management Private Enterprise Codes:
+ 
+@@ -231665,6 +231665,66 @@ Decimal
+   Badan Pemeriksa Keuangan Republik Indonesia
+     netadmin
+       netadmin&bpk.go.id
++58029
++  Angora Networks
++    Taylan Esen
++      tesen&angoranetworks.com
++58030
++  beltskyy.com
++    Pavel Poyasonebov
++      beltskyy&gmail.com
++58031
++  Gobierno de la Ciudad de Buenos Aires
++    Gustavo Linares
++      linaresg&buenosaires.gob.ar
++58032
++  Colibri SAS - ManoMano
++    Fabien Berteau
++      fabien.berteau&manomano.com
++58033
++  Cayman Islands Government
++    Ian Tibbetts
++      ian.tibbetts&gov.ky
++58034
++  VirtualMetric
++    Yusuf Ozturk
++      yusuf.ozturk&virtualmetric.com
++58035
++  iColor Printing & Mailing Inc.
++    Joe Peterson
++      joe&icolorprinting.net
++58036
++  TELE 9752 Project G11
++    Xi Wang
++      z5327657&ad.unsw.edu.au
++58037
++  ERY BILISIM LTD. STI.
++    Hasan Altin
++      hasan.altin&erysystem.com
++58038
++  TUNA Bilisim ve Yayincilik
++    Kivanc Oskay
++      kivanc.oskay&tuna.technology
++58039
++  TrilineSystems Ltd.
++    Nick Kosenko
++      n.kosenko&3lsystems.ru
++58040
++  Nettec AS
++    Jan Erik Bjerkholt
++      post&nettec.no
++58041
++  Call2Home Networking BV
++    Wouter de Beer
++      wouter.de.beer&call2home.nl
++58042
++  Brian J Lipman MD P.C.
++    Christy Sandoval
++      BJL.CHRISTYS&GMAIL.COM
++58043
++  Polar Communications
++    Edgar Resendiz
++      eresendiz&symas.com
+ 
+ 
+ End of Document
+\ No newline at end of file

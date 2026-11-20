@@ -1,0 +1,15 @@
+{
+  "id": "PEN21",
+  "raw_endpoint": "repos/ietf-tools/iana-registries/contents/enterprise-numbers/enterprise-numbers?ref=6924813c73f140a19ebac1292548a791181af0af",
+  "accept": "application/vnd.github.raw+json",
+  "exit_code": 0,
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/6924813c73f140a19ebac1292548a791181af0af/enterprise-numbers/enterprise-numbers",
+  "bytes": 4432762,
+  "sha256": "67e3d914241c4effff8abd5dda53d5de9c584a4c68cf6d635aedf303d1aa1a50",
+  "computed_git_blob_sha1": "f6ce4b28d088f834c21f5c863c64c97f0c95fa7e",
+  "api_git_blob_sha1": "f6ce4b28d088f834c21f5c863c64c97f0c95fa7e",
+  "api_size": 4432762,
+  "blob_equal": true,
+  "size_equal": true,
+  "observed_monotonic_seconds": 821.349646932
+}

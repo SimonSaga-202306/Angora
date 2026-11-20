@@ -1,0 +1,14 @@
+{
+  "stash_ref": "refs/stash",
+  "stash_commit": "f9bfa35791bcdcb117250166538a408e50dba5d4",
+  "first_parent_head": "691123abc7462489146cece19b81b4f917b58646",
+  "second_parent_index": "f71ef0ba077d85a0985582a5150ed8acf03bcdb4",
+  "third_parent_untracked_commit": "9b06cbebb28507db8940cf3491d31184f1d66123",
+  "third_parent_tree": "49f3654f39e9be719ad2a065dd99ce7868f07d9e",
+  "listed_paths": 868,
+  "third_parent_paths": 868,
+  "matching_blob_paths": 868,
+  "matching_bytes_scope": 46015150,
+  "safety_directory_not_in_stash": true,
+  "status": "verified; do not pop or drop; 32 divergent variants also byte-identically exist in committed protected directories"
+}

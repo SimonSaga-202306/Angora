@@ -1,0 +1,15 @@
+{
+  "id": "G47",
+  "repo": "ietf-tools/iana-registries",
+  "path": "enterprise-numbers/enterprise-numbers",
+  "since_utc": "2021-10-20T00:00:00Z",
+  "until_utc": "2021-10-21T23:59:59Z",
+  "per_page": "100",
+  "purpose": "inspect candidate commits immediately surrounding earliest verified 2021-10-21 snapshot",
+  "endpoint": "repos/ietf-tools/iana-registries/commits",
+  "exit_code": 0,
+  "stdout_bytes": 24508,
+  "stderr_bytes": 0,
+  "stdout_sha256": "8a5d7ec67c91fb80361e5d1ca60593a151565cfa4f856b124f8ec552375f6bb8",
+  "observed_monotonic_seconds": 1153.387288818
+}

@@ -1,0 +1,3 @@
+id,repo,path,commit,commit_utc,purpose
+PEN22,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,3cd0b106b99a96f4f473174b7593d61b89daa90a,2022-12-31T02:38:58Z,"full pre-2023 mirror file to bound when the row appears in observed snapshots"
+PEN21,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,6924813c73f140a19ebac1292548a791181af0af,2021-11-13T04:37:11Z,"full 2021 mirror file to compare same exact term; no first-registration inference"

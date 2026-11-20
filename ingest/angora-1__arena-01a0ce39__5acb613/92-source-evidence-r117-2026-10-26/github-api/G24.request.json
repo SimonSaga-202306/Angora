@@ -1,0 +1,13 @@
+{
+  "id": "G24",
+  "repo": "ietf-tools/iana-registries",
+  "path": "enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-08-31T23:59:59Z",
+  "purpose": "earliest available 2021 mirror period",
+  "endpoint": "repos/ietf-tools/iana-registries/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3301,
+  "stderr_bytes": 0,
+  "stdout_sha256": "39acf6340790148e44b4e561abbf9b4df14879c411d134552ca2811020141c38",
+  "observed_monotonic_seconds": 849.852636093
+}

@@ -1,0 +1,11 @@
+{
+  "session_supplied_date": "2026-10-26 UTC",
+  "wall_clock_at_entry_unverified": "2026-11-20T05:32:18.907782+00:00",
+  "wall_clock_at_finish_unverified": "2026-11-20T06:05:28.628330+00:00",
+  "environment_boot_id_start": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "environment_boot_id_finish": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "entry_monotonic_seconds": 20.360302067,
+  "finish_monotonic_seconds": 2010.079908875,
+  "elapsed_seconds": 1989.72,
+  "limits": "Same environment only; tool waits and reasoning included; no sleep for duration; does not prove continuous activity or a calibrated capture date."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "G18",
+  "repo": "ietf-tools/iana-registries",
+  "path": "enterprise-numbers/enterprise-numbers",
+  "until_utc": "2022-12-31T23:59:59Z",
+  "purpose": "2022 year-end mirror state",
+  "endpoint": "repos/ietf-tools/iana-registries/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3406,
+  "stderr_bytes": 0,
+  "stdout_sha256": "f1b2d7ad30a8139cdf585fc2bf8e70959ce8aa4f613d75256507cc4df5dc5897",
+  "observed_monotonic_seconds": 757.52237114
+}

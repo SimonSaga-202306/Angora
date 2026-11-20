@@ -1,0 +1,5 @@
+id,repo,path,until_utc,purpose
+G41,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2021-10-21T23:59:59Z,find other mirror state before source file last updated 10-22
+G42,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2021-10-22T23:59:59Z,find other mirror state on source file last updated day
+G43,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2021-10-23T23:59:59Z,find other mirror state next day
+G44,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2021-10-27T23:59:59Z,find other mirror state by rfinnie child commit day

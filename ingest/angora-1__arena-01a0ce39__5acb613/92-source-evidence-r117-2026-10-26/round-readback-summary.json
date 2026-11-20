@@ -1,0 +1,21 @@
+{
+  "listed_files": 383,
+  "fully_read_files": 383,
+  "listed_bytes": 74434255,
+  "fully_read_bytes": 74434255,
+  "utf8_decoded_files": 382,
+  "binary_read_files": 1,
+  "created_after_scope": [
+    "commit-verification.json",
+    "final-deliverables-inventory.csv",
+    "final-deliverables-summary.json",
+    "round-readback-inventory.csv",
+    "round-readback-scope.csv",
+    "round-readback-summary.json",
+    "verify-r117-initial.log",
+    "verify-r117-result.json",
+    "verify-r117.log"
+  ],
+  "observed_monotonic_seconds": 2068.628548877,
+  "limit": "Only prelisted local artifacts; not original web HTML, full internet or independent witnesses."
+}

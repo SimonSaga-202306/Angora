@@ -1,0 +1,6 @@
+id,path,purpose
+REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/186-angora-pen-park-identity-evidence-r117-2026-10-26.md,"Chinese main report with new facts, explicit time and source boundaries"
+APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r117-appendix.md,"separate dossier appendix, named correction to r116 and clarification of r114"
+MAPPING,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r117.md,"one entity, no merge, named correction and follow-up boundaries"
+FOLLOWUP,ingest/angora-1__arena-01a0ce39__5acb613/93-followup-angora-r117-2026-10-26/angora-networks.md,one entity internal note only no external contact
+AUDIT,ingest/angora-1__arena-01a0ce39__5acb613/94-audit-r117-2026-10-26.md,"method, preservation, QA, counts, monotonic elapsed, known incomplete records"

@@ -1,0 +1,13 @@
+{
+  "id": "G23",
+  "repo": "rfinnie/iana-tracker",
+  "path": "www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-12-31T23:59:59Z",
+  "purpose": "2021 year-end mirror state",
+  "endpoint": "repos/rfinnie/iana-tracker/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3216,
+  "stderr_bytes": 0,
+  "stdout_sha256": "712b31d5893661f7107370e55c86dda0365530dc5b09dedb290ee5ed10c9df6b",
+  "observed_monotonic_seconds": 760.292299643
+}

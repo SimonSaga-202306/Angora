@@ -1,0 +1,8 @@
+# Preserve each collected file and its manifest hash exactly across checkouts.
+* -text
+# Full historical registry copies are several MB each; do not render giant diffs.
+github-raw/** -diff
+# Tool-extracted source formatting includes intentional trailing whitespace.
+archive-chunks/** -diff
+external-visible/** -diff
+incomplete-observations/** -diff

@@ -1,0 +1,2 @@
+id,repo,path,commit,commit_utc,purpose
+PEN21PARENT,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,c99419cac238e3960c1942506514dd2f87df202b,2021-10-20T15:56:01Z,fetch complete parent file of 2021-10-27 mirror commit; scan exact row absence and verify Git blob

@@ -1,0 +1,16 @@
+{
+  "parent_commit": "c99419cac238e3960c1942506514dd2f87df202b",
+  "child_commit": "0829494816a42c337fe42e869ee9114b816a96ee",
+  "child_commit_utc": "2021-10-27T15:56:01Z",
+  "parent_git_blob": "ac90635db5a9c45009660e1292717ec956e3e4c5",
+  "child_git_blob": "ae20d455a8afa92c7b0bcc3bafc5ee74ff095a94",
+  "parent_bytes": 4425964,
+  "child_bytes": 4427138,
+  "local_diff_exit_code": 1,
+  "local_diff_bytes": 2508,
+  "local_diff_sha256": "56a4c6524b5fc11dc59563757ded22d50ee06fb22ad24e81d0bee57b94dd4108",
+  "local_diff_hunks_equal_github_api_patch_ignoring_final_newline": true,
+  "target_addition_present_in_both": true,
+  "header_old_2021-10-20_new_2021-10-22": "whole registry last updated, not individual allocation date",
+  "observed_monotonic_seconds": 1068.458801035
+}

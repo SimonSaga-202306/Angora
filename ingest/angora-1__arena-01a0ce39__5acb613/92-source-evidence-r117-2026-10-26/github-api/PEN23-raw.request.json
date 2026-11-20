@@ -1,0 +1,15 @@
+{
+  "id": "PEN23",
+  "raw_endpoint": "repos/ietf-tools/iana-registries/contents/enterprise-numbers/enterprise-numbers?ref=5b404b4410d57f5a449febea66ec805a796aeaff",
+  "accept": "application/vnd.github.raw+json",
+  "exit_code": 0,
+  "path": "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/github-raw/github.com/ietf-tools/iana-registries/5b404b4410d57f5a449febea66ec805a796aeaff/enterprise-numbers/enterprise-numbers",
+  "bytes": 4691099,
+  "sha256": "9ee3b5ce73bef8c4226d6a8d641d76a409c96c06a5ec970fe862c9270aec694f",
+  "computed_git_blob_sha1": "e3cee69874d07975ff08c4a201f5b6a6f260c89b",
+  "api_git_blob_sha1": "e3cee69874d07975ff08c4a201f5b6a6f260c89b",
+  "api_size": 4691099,
+  "blob_equal": true,
+  "size_equal": true,
+  "observed_monotonic_seconds": 786.714446557
+}

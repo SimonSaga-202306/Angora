@@ -1,0 +1,6 @@
+{
+  "initial_sha256": "1eba2ac7f57a834472f6a3aab2699b949e3da0fadbfe9edb204b12c88bc7d431",
+  "corrected_sha256": "9c8049fff836f5a915dc1fc3d6f46b9efd7e63be349a5e29799cb443e31d23f6",
+  "operation": "remove mistakenly inserted JavaScript test once",
+  "fidelity": "manual transcription; no upstream byte comparison; source remains incomplete 1/177"
+}

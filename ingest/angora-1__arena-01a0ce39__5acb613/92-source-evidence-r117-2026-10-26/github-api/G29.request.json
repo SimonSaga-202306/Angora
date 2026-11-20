@@ -1,0 +1,13 @@
+{
+  "id": "G29",
+  "repo": "rfinnie/iana-tracker",
+  "path": "www.iana.org/assignments/enterprise-numbers/enterprise-numbers",
+  "until_utc": "2021-01-31T23:59:59Z",
+  "purpose": "resolve mirror continuity after 2020-04",
+  "endpoint": "repos/rfinnie/iana-tracker/commits",
+  "exit_code": 0,
+  "stdout_bytes": 3227,
+  "stderr_bytes": 0,
+  "stdout_sha256": "55fd4717797b36d99adb80f98dc28ff9761ce595ad20db6cda83ffddb1a1271b",
+  "observed_monotonic_seconds": 889.699642397
+}

@@ -1,0 +1,2 @@
+id,repo,path,commit,commit_utc,purpose
+PEN21SEP,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,b481152d9b520ebeb4a1cbf89dd05972be61dfab,2021-09-29T15:56:01Z,narrow observed snapshot interval between August absence and October presence

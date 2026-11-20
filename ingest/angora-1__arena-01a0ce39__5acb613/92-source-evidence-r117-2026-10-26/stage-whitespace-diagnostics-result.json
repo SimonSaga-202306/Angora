@@ -1,0 +1,10 @@
+{
+  "exit_code": 2,
+  "diagnostic_count": 7,
+  "paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/pen-ietf-parent-child-local.diff",
+    "ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/pen-parent-child-local.diff"
+  ],
+  "meaning": "unified-diff blank context marker retained verbatim",
+  "all_diagnostics_expected": true
+}

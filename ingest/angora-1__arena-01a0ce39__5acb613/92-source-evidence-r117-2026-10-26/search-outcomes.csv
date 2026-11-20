@@ -1,0 +1,21 @@
+id,manually_counted_results,full_response_manually_transcribed,repo_relative_path,limitations
+Q01,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q01.json,manual transcription corrected with initial draft and correction log; not byte verified
+Q02,3,no,,unpersisted full response: automatically returned previously quarantined PASS site; no content used
+Q03,3,no,,unpersisted full response: unrelated result contained a signed URL with credential-like parameters; never copied or used
+Q04,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q04.json,manual transcription; search discovery only; no original response byte comparison
+Q05,1,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q05.json,manual transcription; search discovery only; no original response byte comparison
+Q06,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q06.json,includes third-party self-dated future PDF snippet; not used as historical source
+Q07,3,no,,unpersisted full response: incidental debt-status snippet; excluded as financial stop guard
+Q08,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q08.json,manual transcription; search discovery only; no original response byte comparison
+Q09,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q09.json,manual transcription; search discovery only; no original response byte comparison
+Q10,2,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q10.json,includes broad company revenue-growth claim; not analyzed as historic financial discrepancy
+Q11,3,no,,unpersisted full response: unrelated result contained a signed URL with credential-like parameters; never copied or used
+Q12,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q12.json,manual transcription; search discovery only; no original response byte comparison
+Q13,0,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q13.json,manual transcription; search discovery only; no original response byte comparison
+Q14,0,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q14.json,manual transcription; search discovery only; no original response byte comparison
+Q15,1,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q15.json,"same energy preannouncement as r115; final is prospective, not result"
+Q16,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q16.json,namesake results; government profile fetched separately without merging identities
+Q17,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q17.json,namesake results; no actual Angora participation evidence
+Q18,0,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q18.json,empty response; not proof of absence
+Q19,1,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q19.json,vendor claim only; no independent partner evidence
+Q20,3,yes,ingest/angora-1__arena-01a0ce39__5acb613/92-source-evidence-r117-2026-10-26/search-visible/Q20.json,includes unrelated institutional directory search snippet; not opened or used as identity proof

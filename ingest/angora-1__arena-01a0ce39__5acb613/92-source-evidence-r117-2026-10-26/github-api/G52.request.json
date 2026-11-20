@@ -1,0 +1,13 @@
+{
+  "id": "G52",
+  "repo": "ietf-tools/iana-registries",
+  "commit": "0aaf4dd5454f438ab4b0cd63d35b15f0d2d405c6",
+  "commit_utc": "2021-10-20T09:27:43Z",
+  "purpose": "locate first row addition in mirror patch",
+  "endpoint": "repos/ietf-tools/iana-registries/commits/0aaf4dd5454f438ab4b0cd63d35b15f0d2d405c6",
+  "exit_code": 0,
+  "stdout_bytes": 4494,
+  "stderr_bytes": 0,
+  "sha256": "dc1f38fce940f2b1df4503b5b5d6edc071f6cfd8e2888dfa1626dff5d8d5f8b9",
+  "observed_monotonic_seconds": 1172.816239987
+}

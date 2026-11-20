@@ -460,3 +460,5 @@ Performance of VastLakes Platform_EN.pptx / Performance of PeakNetX Platform_EN.
 培训机构伙伴展示、e-Safe 候选与赛后结果、机构项目名单的新增证据和边界见 [r115 独立附录](120-angora-orders-dossier-2026-10-21.r115-appendix.md) 与 [映射说明](120-angora-orders-master-2026-10-21.mapping-r115.md)；主体未确认，不代表采购、认证或履约。
 
 - **r116 补充索引（独立附录）**：[2019 地址范围映射与科技园目录](120-angora-orders-dossier-2026-10-21.r116-appendix.md)；主体未确认，非合同、认证或交付证明。
+
+- r117 历史证据独立附录：[PEN 镜像、园区及同名辨别](120-angora-orders-dossier-2026-10-21.r117-appendix.md)；[主体映射](120-angora-orders-master-2026-10-21.mapping-r117.md)。

@@ -1,0 +1,3 @@
+id,repo,path,commit,commit_utc,purpose
+PENIETF1021,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,3f9f64a78665fb8889a3779df01a3f4e8426a65c,2021-10-21T23:27:28Z,check earlier mirror state with full original file and blob
+PENIETF1022,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,cb5a1929c3752fdd11958a72fac585afcdbe3aca,2021-10-22T17:32:37Z,check source last-update day mirror state with full original file and blob

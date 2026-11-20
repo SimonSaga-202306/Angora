@@ -1,0 +1,10 @@
+{
+  "id": "G05",
+  "endpoint": "search/code",
+  "query": "\"58029\" \"Angora\"",
+  "exit_code": 0,
+  "stdout_bytes": 498607,
+  "stderr_bytes": 0,
+  "stdout_sha256": "8f288bc29a46849c1a5e9bfb9101649697f273474a8c3b6a6b73d72bc5eb3200",
+  "observed_monotonic_seconds": 709.748257323
+}

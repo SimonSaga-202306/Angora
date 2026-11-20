@@ -1,0 +1,4 @@
+id,repo,path,until_utc,purpose
+G33,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-08-31T23:59:59Z,late August 2021 mirror commit
+G34,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-09-30T23:59:59Z,late September 2021 mirror commit
+G35,rfinnie/iana-tracker,www.iana.org/assignments/enterprise-numbers/enterprise-numbers,2021-10-31T23:59:59Z,late October 2021 mirror commit

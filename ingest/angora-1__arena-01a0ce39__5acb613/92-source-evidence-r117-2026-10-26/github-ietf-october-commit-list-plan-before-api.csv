@@ -1,0 +1,2 @@
+id,repo,path,since_utc,until_utc,per_page,purpose
+G47,ietf-tools/iana-registries,enterprise-numbers/enterprise-numbers,2021-10-20T00:00:00Z,2021-10-21T23:59:59Z,100,inspect candidate commits immediately surrounding earliest verified 2021-10-21 snapshot
