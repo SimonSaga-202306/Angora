@@ -1,0 +1,13 @@
+{
+  "full_read_paths": 870,
+  "full_read_bytes": 46015459,
+  "original_paths": 868,
+  "original_bytes": 46015150,
+  "same_path_byte_identical": 836,
+  "other_path_byte_identical": 32,
+  "new_message_paths": 2,
+  "new_message_bytes": 309,
+  "new_copies_byte_identical": 2,
+  "new_paths_absent_in_remote": 2,
+  "tracking_commit": "b5e6d97d01ddc6b5cb014871003c2fa78192a2f7"
+}

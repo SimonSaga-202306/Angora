@@ -1,0 +1,3 @@
+path,listed_bytes,role,method
+constitution/inbox/user-messages/continuation-direction-answer.json,175,user,tool_visible_transcription
+constitution/inbox/assistant-messages/research-resume-progress-0001.txt,134,assistant,manual_transcription

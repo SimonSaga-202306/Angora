@@ -1,0 +1,3 @@
+path,bytes,sha256,git_blob_sha1,protected_copy,copy_byte_identical,remote_path_absent
+constitution/inbox/assistant-messages/research-resume-progress-0001.txt,134,e91bd3d324803466da6705c75dc975b83b887f8ed3f0786ff33a066d287bcc24,ad931fcff0a7bb156b016795cf5d002316d32fa3,ingest/angora-1__arena-01a0ce39__5acb613/98-entry-safety-r118/protected-new-messages/constitution/inbox/assistant-messages/research-resume-progress-0001.txt,True,True
+constitution/inbox/user-messages/continuation-direction-answer.json,175,ad1cd6158af6c4bf5098fdc9348b5c39da4b66b39d0d68f277a9001020baa945,a31c062b9c177cc6ce1c8add05bb891f4eacac4d,ingest/angora-1__arena-01a0ce39__5acb613/98-entry-safety-r118/protected-new-messages/constitution/inbox/user-messages/continuation-direction-answer.json,True,True

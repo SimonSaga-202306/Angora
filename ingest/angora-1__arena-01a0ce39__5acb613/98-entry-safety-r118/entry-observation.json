@@ -1,0 +1,11 @@
+{
+  "paths_listed_before_content_read": 870,
+  "listed_bytes": 46015459,
+  "original_entries": 868,
+  "new_message_entries": 2,
+  "observed_at_beijing_unverified": "2026-11-20T19:53:46.037569+08:00",
+  "monotonic_same_environment_only": 44.118138743,
+  "boot_id": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "branch": "arena/5da004bd-angora",
+  "head": "691123abc7462489146cece19b81b4f917b58646"
+}
