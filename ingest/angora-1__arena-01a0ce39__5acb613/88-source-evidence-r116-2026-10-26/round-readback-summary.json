@@ -1,0 +1,24 @@
+{
+  "listed_paths": 192,
+  "read_paths": 192,
+  "utf8_decoded_paths": 192,
+  "bytes_only_paths": 0,
+  "total_bytes": 7092691,
+  "scope_file": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/round-readback-scope.csv",
+  "scope_sha256": "bd68717f163b82bf3aadcbe901519643fb2d6cb977169bd14a97a241c7b29cb7",
+  "inventory_file": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/round-readback-inventory.csv",
+  "inventory_sha256": "1cecfe4dbe0e3141618d9fae9d1fa1e46baf73d4b014d076524fd0f4817c5a98",
+  "scope_limit": "only the paths prelisted in the scope; not an independent-source count",
+  "not_proved": "byte read and SHA do not prove correctness of human transcription or external truth",
+  "excluded_housekeeping_files": [
+    "completion-clock.json",
+    "final-deliverables-inventory.csv",
+    "final-deliverables-scope.csv",
+    "final-deliverables-summary.json",
+    "round-readback-inventory.csv",
+    "round-readback-scope.csv",
+    "round-readback-summary.json",
+    "verification-final-results.txt",
+    "verification-preflight-results.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+id,url,purpose
+P01,https://kirikkaleteknopark.com/firma-rehberi/,park company directory; verify complete chunks; no claim as of cutoff without old capture
+P02,https://www.kirikkaletso.org.tr/ktso/basin/uyeler/4.GRUP.pdf,"public chamber member-category list; third-party institutional non-datasheet PDF, not Angora website or product PDF; fetch parsed text only and note 30-page tool cap"
+P03,https://advensis.com.tr/en/angora-en/,channel firm present English page; compare 2020 archive when available; no sales claims
+P04,https://siberguvenlikhaftasi.com/2020/,organizer 2020 event schedule; check whether Angora appears and collect all chunks before analysis
+P05,https://uic.jp/mac/vendor/a?p=19,"third-party MAC label discovery, not official registry and date not inferred"
+CDX01,https://web.archive.org/cdx/search/cdx?url=kirikkaleteknopark.com/firma-rehberi/&output=json&filter=statuscode:200&collapse=digest&filter=timestamp:.*&to=2026,Wayback listing; capture dates are not origin publication dates
+CDX02,https://web.archive.org/cdx/search/cdx?url=advensis.com.tr/en/angora-en/&output=json&filter=statuscode:200&collapse=digest&to=2026,counterparty earlier English page snapshots
+CDX03,https://web.archive.org/cdx/search/cdx?url=kirikkaletso.org.tr/ktso/basin/uyeler/4.GRUP.pdf&output=json&filter=statuscode:200&collapse=digest&to=2026,archive metadata for non-datasheet chamber list; not download vendor product PDF
+CDX04,https://web.archive.org/cdx/search/cdx?url=siberguvenlikhaftasi.com/2020/&output=json&filter=statuscode:200&collapse=digest&to=2026,event schedule capture

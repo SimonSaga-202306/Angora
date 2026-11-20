@@ -1,0 +1,12 @@
+{
+  "id": "Q59",
+  "query": "\"Angora Networks\" \"70-B3-D5\"",
+  "depth": "2",
+  "result_count_manually_recorded_including_irrelevant_duplicates": 5,
+  "selected_discovery_urls_only": [
+    "https://janitor.debian.net/git/wireshark/commit/0fcf4b1de93f79cc7d24ecb9c57193a61f822329/",
+    "https://cgit.geodns-global.gentoo.org/proj/hwids.git/plain/ma-small.txt?id=cad1d07b026dd2c04b6940cf9c72b4b8639ae55b"
+  ],
+  "fidelity": "manual metadata; NOT full search response, not original source, counts may be wrong",
+  "scope": "no search snippet treated as a primary source"
+}

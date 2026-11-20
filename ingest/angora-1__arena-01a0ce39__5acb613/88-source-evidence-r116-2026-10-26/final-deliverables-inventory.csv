@@ -1,0 +1,7 @@
+path,bytes_read,sha256,mode,lines
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/185-angora-historical-address-park-evidence-r116-2026-10-26.md,7929,9876cf4cc5da25201d7dbf30621f3cafb5737e846dbf5b1b9b54d818cd43ea64,utf8,40
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r116-appendix.md,4468,ce6c10a0f1f5ca566f9ffcceee30b6883d40763a60cfe849bd064c210727fb4d,utf8,23
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r116.md,2270,53b933c12f907ee1c665aa5be6c9f156b2b71dff15795980350cae3da717db00,utf8,10
+ingest/angora-1__arena-01a0ce39__5acb613/89-followup-angora-r116-2026-10-26/angora-networks.md,1919,90454fd90a561b5db9121edd9fd0ac51bf27daf73069fff27257553a16d7aede,utf8,9
+ingest/angora-1__arena-01a0ce39__5acb613/90-audit-r116-2026-10-26.md,5972,bf62b7ffdc857da4b15e268ac2de66baa166504eee33036a409a41e10f81d908,utf8,33
+ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.md,52717,983432504c2b0e6d317c5c5bedc4cda236f72197c3897dc342d5fa5149e2fe2c,bytes-only,not decoded

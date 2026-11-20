@@ -1,0 +1,5 @@
+id,api_path,purpose
+GH12,/repos/gentoo/hwids/commits?path=ma-small.txt&until=2018-12-31T23:59:59Z&per_page=1,whether the repository has a dated pre-2019 snapshot
+GH13,/repos/gentoo/hwids/commits?path=ma-small.txt&until=2019-02-23T23:59:59Z&per_page=1,last pre-Wireshark-update mirror snapshot
+GH14,/repos/gentoo/hwids/commits?path=ma-small.txt&until=2019-03-31T23:59:59Z&per_page=1,first-quarter 2019 mirror snapshot
+GH15,/search/code?q=%22Angora+Networks%22+filename%3Ama-small.txt&per_page=10,discover an additional publicly indexed registry mirror; search results are discovery only

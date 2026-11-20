@@ -1,0 +1,29 @@
+id,query,intended_use,depth
+Q37,"""Angora Networks"" ""Kırıkkale"" teknopark",park association independently of vendor,2
+Q38,"""Angora Networks Bilişim"" ""Kırıkkale""",park listings matching domain,2
+Q39,"site:kirikkaleteknopark.com ""Angora Networks""",direct park listing,2
+Q40,"""Angora Networks"" ""Kırıkkale Üniversitesi""",park/university link without procurement,2
+Q41,"""Angora Networks"" ""Kırıkkale"" 2023 2024",date-bound evidence of park,2
+Q42,"""Angora Networks"" ""TÜBİTAK"" proje","project funding or acknowledgment source, no assumption",2
+Q43,"""Angora Networks"" ""teknoloji geliştirme bölgesi""",park participant details,2
+Q44,"""Angora Networks"" ""Ar-Ge"" ""teknopark""",additional independent park evidence,2
+Q45,"""Angora Networks"" ""Siber Kümelenme"" firma",association directory search,2
+Q46,"site:siberkume.org.tr/katalog/firma ""Angora""",association directory search,2
+Q47,"""Angora Networks"" ""siberkume.org.tr/katalog""",association catalogue search,2
+Q48,"""Angora Networks"" ""Küme"" ""üye"" site:siberkume.org.tr",organisation-side evidence,2
+Q49,"""Angora Networks"" ""siber güvenlik haftası"" 2020",historical organisation event search,2
+Q50,"""Angora Networks"" ""Soft Reset"" ""regülasyon""",find 2021 original single article,2
+Q51,"""Levent Kılıç"" ""Pandemi sonrası Dünya""",find 2021 original single article,2
+Q52,"""Levent Kılıç"" ""2020"" ""Soft Reset"" bilişim",early interview provenance,2
+Q53,"""Angora Networks"" ""Eğitim"" ""katılım"" 2022","third-party training event, not guaranteed certificate",2
+Q54,"""Angora Networks"" ""Apprentice Level"" 2022",third-party course evidence,2
+Q55,"""Angora Networks"" ""Knowledge Club"" ""eğitim"" 2022",course corroboration,2
+Q56,"""Angora Networks"" ""Skyloop"" 2022 bulut",original provider corroboration,2
+Q57,"site:skyloop.cloud ""Angora Networks""",original provider source,2
+Q58,"site:advensis.com.tr/en/angora-en/ ""2020""",historic channel page,2
+Q59,"""Angora Networks"" ""70-B3-D5""",registration record discover only,2
+Q60,"""Angora Networks"" ""822000""",registry identifiers; assigned year unknown,2
+Q61,"""Angora Networks"" ""ticaret sicil gazetesi""","legal entity original registry source, no paid/private access",2
+Q62,"""Angora Networks"" ""ticaret sicil"" 2016",official registration lead,2
+Q63,"""Angora Networks"" ""enerjim sensin"" 2026 26 ekim",time-bound organiser program before 28 Oct only,2
+Q64,"site:elder.org.tr ""Angora Networks"" ""enerjim""",organiser candidate list before session cutoff,2

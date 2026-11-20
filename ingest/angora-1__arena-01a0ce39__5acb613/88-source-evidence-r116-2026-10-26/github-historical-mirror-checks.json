@@ -1,0 +1,31 @@
+[
+  {
+    "id": "GH16",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/gentoo/hwids/41e194e41bcb65e764c67562e2fba877b0b4408b/ma-small.txt",
+    "bytes": 451081,
+    "sha256": "ac8d65dd68c85f5e0c9e52297c565ff330f72e6344c49bd232d64412349c96ac",
+    "api_blob_sha1": "9bdcb5c868ada4e577819642b3366494cd793958",
+    "git_blob_verified": true,
+    "line_count": 16968,
+    "matches": []
+  },
+  {
+    "id": "GH17",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/gentoo/hwids/2986daf9bf2626efe6ff1d62f9713dad6cb82dae/ma-small.txt",
+    "bytes": 495897,
+    "sha256": "71513d5b5d4f1d6d07b278a51959f25fcf94fb982c1db51a9f3932296fad051a",
+    "api_blob_sha1": "d59a85081a121bc685a2e3d905999c36fed5c396",
+    "git_blob_verified": true,
+    "line_count": 18639,
+    "matches": [
+      {
+        "line": 11069,
+        "text": "70-B3-D5   (hex)\t\tAngora Networks"
+      },
+      {
+        "line": 11070,
+        "text": "822000-822FFF     (base 16)\t\tAngora Networks"
+      }
+    ]
+  }
+]

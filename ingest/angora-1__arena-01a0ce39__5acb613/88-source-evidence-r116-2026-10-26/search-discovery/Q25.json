@@ -1,0 +1,9 @@
+{
+  "id": "Q25",
+  "query": "site:gov.tr \"Angora Networks\" 2021 -ihale -teklif",
+  "depth": "2",
+  "result_count_manually_recorded_including_irrelevant_duplicates": 5,
+  "selected_discovery_urls_only": [],
+  "fidelity": "manual metadata; NOT full search response, not original source, counts may be wrong",
+  "scope": "no search snippet treated as a primary source"
+}

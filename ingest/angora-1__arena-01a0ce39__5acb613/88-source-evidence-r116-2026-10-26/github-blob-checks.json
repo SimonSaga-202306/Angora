@@ -1,0 +1,32 @@
+[
+  {
+    "metadata": "GH07",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/wireshark/wireshark/95bf9f5e0acac09f35cd8e8467cb6d93fb5a0d78/manuf",
+    "size": 1547452,
+    "api_size": 1547452,
+    "sha256": "5a59e494d4c2c4ac9c1c7db085a73b6cf1e96143e9e1ebd704d3c4a33e14f855",
+    "local_git_blob_sha1": "38af9f43023704f33927df0df1a9ecfa408ea764",
+    "api_git_blob_sha1": "38af9f43023704f33927df0df1a9ecfa408ea764",
+    "match": true
+  },
+  {
+    "metadata": "GH08",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/wireshark/wireshark/0fcf4b1de93f79cc7d24ecb9c57193a61f822329/manuf",
+    "size": 1549311,
+    "api_size": 1549311,
+    "sha256": "b62213bf0428f347ca29995456dfcd9a8758178f495e841413a7fcb8a0941fe0",
+    "local_git_blob_sha1": "4a7e2c1ec2e568877c99d72cdbbbd6eeb56a15aa",
+    "api_git_blob_sha1": "4a7e2c1ec2e568877c99d72cdbbbd6eeb56a15aa",
+    "match": true
+  },
+  {
+    "metadata": "GH11",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/gentoo/hwids/cad1d07b026dd2c04b6940cf9c72b4b8639ae55b/ma-small.txt",
+    "size": 592165,
+    "api_size": 592165,
+    "sha256": "85d0c1ec4131774c7a66b75e21d80fdd7b44d98badf5598780afc10eaf0bbe9e",
+    "local_git_blob_sha1": "e31a6ea3803585450687ad813d0100d1f9608bbf",
+    "api_git_blob_sha1": "e31a6ea3803585450687ad813d0100d1f9608bbf",
+    "match": true
+  }
+]

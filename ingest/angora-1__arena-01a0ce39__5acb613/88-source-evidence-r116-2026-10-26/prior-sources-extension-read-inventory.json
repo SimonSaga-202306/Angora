@@ -1,0 +1,29 @@
+[
+  {
+    "id": "OLD-IANA",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.iana.org/assignments/enterprise-numbers/page-581/index.visible.md",
+    "bytes_at_listing": "6755",
+    "purpose": "compare PEN namespace, not allocation year",
+    "bytes_read": 6755,
+    "sha256": "f47e7566f0c531d8215f4fdb69697f5a086d2e174460f32dfd54d0b2ee7df32c",
+    "line_count": 142
+  },
+  {
+    "id": "OLD-ADVENSIS",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/advensis.com.tr/angoranetworks/20201124234344/index.visible.md",
+    "bytes_at_listing": "7029",
+    "purpose": "r114 Turkish archive replay compared with English captures",
+    "bytes_read": 7029,
+    "sha256": "3b6a3db923a57823668b1e793d323ebfc338a9d4656d5230f4ed78ee11cfd477",
+    "line_count": 94
+  },
+  {
+    "id": "OLD-FIND",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/external-visible/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi/index.visible.md",
+    "bytes_at_listing": "9190",
+    "purpose": "compare public directory exact address/name with historical vendor registry mirror; no legal identity inference",
+    "bytes_read": 9190,
+    "sha256": "02b22e1814fb591dcf1e08838e0e55c5531a6d5d03cf7f04178a8707b6cdde72",
+    "line_count": 138
+  }
+]

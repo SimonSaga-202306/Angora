@@ -1,0 +1,18 @@
+sequence,id,path,bytes_at_listing,purpose
+1,R115-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/184-angora-institutional-partnership-evidence-r115-2026-10-26.md,9341,last-round claims and exclusions
+2,R115-APPENDIX,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r115-appendix.md,4200,last-round dossier without PASS master
+3,R115-MAPPING,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r115.md,2282,last-round entity mapping
+4,R115-FOLLOW,ingest/angora-1__arena-01a0ce39__5acb613/86-followup-angora-r115-2026-10-26/angora-networks.md,1991,existing entity no duplicate
+5,R115-AUDIT,ingest/angora-1__arena-01a0ce39__5acb613/87-audit-r115-2026-10-26.md,6523,methods and errors
+6,R115-README,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/README.md,5193,source boundaries
+7,R115-CATALOG,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/source-catalog.csv,7069,avoid duplicate materials
+8,R115-CATALOG-EXT,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/source-catalog-extension.csv,1154,partner listing and archives
+9,R115-ISSUES,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/issues-and-corrections.csv,3094,clock and audit limitations
+10,R115-TRACE,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/evidence-traceability-extension.csv,2631,early training citations
+11,R115-EXCLUDED,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/excluded-discovery-only.csv,2176,do not promote search-only material
+12,R114-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md,8896,earlier events and institution boundaries
+13,R113-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/182-angora-management-voice-evidence-r113-2026-10-26.md,7612,technical documents and management limits
+14,R112-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/181-angora-nac-support-bug-evidence-r112-2026-10-26.md,10367,technical integration and existing GitHub sources
+15,R111-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/180-angora-commercial-history-evidence-r111-2026-10-26.md,10678,overseas sales and training
+16,R108-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/177-angora-koz-survey-channel-evidence-r108-2026-10-26.md,9811,channel events and prior media
+17,R107-REPORT,ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/176-angora-early-commercial-evidence-r107-2026-10-26.md,9518,early public announcements and licensing boundaries

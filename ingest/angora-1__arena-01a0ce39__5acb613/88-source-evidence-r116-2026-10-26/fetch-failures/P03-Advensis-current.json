@@ -1,0 +1,7 @@
+{
+  "id": "P03",
+  "requested_url": "https://advensis.com.tr/en/angora-en/",
+  "status": "error",
+  "error": "Failed to fetch page",
+  "meaning": "Single request failed. Does not establish permanent availability or a negative historical fact. AR06/AR07 separately requested historical captures."
+}

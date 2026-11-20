@@ -1,0 +1,4 @@
+id,path,bytes_at_listing,purpose
+OLD-IANA,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/external-visible/www.iana.org/assignments/enterprise-numbers/page-581/index.visible.md,6755,"compare PEN namespace, not allocation year"
+OLD-ADVENSIS,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/advensis.com.tr/angoranetworks/20201124234344/index.visible.md,7029,r114 Turkish archive replay compared with English captures
+OLD-FIND,ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/external-visible/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi/index.visible.md,9190,compare public directory exact address/name with historical vendor registry mirror; no legal identity inference

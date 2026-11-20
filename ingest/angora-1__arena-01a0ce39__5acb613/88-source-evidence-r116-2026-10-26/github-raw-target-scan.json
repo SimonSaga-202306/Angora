@@ -1,0 +1,52 @@
+[
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/wireshark/wireshark/95bf9f5e0acac09f35cd8e8467cb6d93fb5a0d78/manuf",
+    "bytes_read": 1547452,
+    "sha256": "5a59e494d4c2c4ac9c1c7db085a73b6cf1e96143e9e1ebd704d3c4a33e14f855",
+    "line_count": 36247,
+    "needles": [
+      "angora networks",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": []
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/wireshark/wireshark/0fcf4b1de93f79cc7d24ecb9c57193a61f822329/manuf",
+    "bytes_read": 1549311,
+    "sha256": "b62213bf0428f347ca29995456dfcd9a8758178f495e841413a7fcb8a0941fe0",
+    "line_count": 36284,
+    "needles": [
+      "angora networks",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": [
+      {
+        "line": 26100,
+        "text": "70:B3:D5:82:20:00/36\tAngoraNe\tAngora Networks"
+      }
+    ]
+  },
+  {
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/github-raw/github.com/gentoo/hwids/cad1d07b026dd2c04b6940cf9c72b4b8639ae55b/ma-small.txt",
+    "bytes_read": 592165,
+    "sha256": "85d0c1ec4131774c7a66b75e21d80fdd7b44d98badf5598780afc10eaf0bbe9e",
+    "line_count": 22152,
+    "needles": [
+      "angora networks",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": [
+      {
+        "line": 266,
+        "text": "70-B3-D5   (hex)\t\tAngora Networks"
+      },
+      {
+        "line": 267,
+        "text": "822000-822FFF     (base 16)\t\tAngora Networks"
+      }
+    ]
+  }
+]

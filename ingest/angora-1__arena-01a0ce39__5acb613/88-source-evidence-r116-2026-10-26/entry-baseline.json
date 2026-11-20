@@ -1,0 +1,13 @@
+{
+  "round": "r116",
+  "session_given_date_utc": "2026-10-26",
+  "sandbox_wall_clock_observed_start_utc": "2026-11-20T03:11:04.469464+00:00",
+  "clock_caveat": "Observed sandbox wall clock conflicts with the session date and is not independently calibrated. Do not backdate real-time captures; label historic page dates, archive captures and session cutoff separately.",
+  "monotonic_start_seconds": 2181.654652278,
+  "boot_id": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "branch": "arena/5da004bd-angora",
+  "head_at_entry": "4624b8f52bd5d527a9b91c6e9661d3bdc682e433",
+  "remote_after_fetch": "4624b8f52bd5d527a9b91c6e9661d3bdc682e433",
+  "status_before_round_files": "clean; 0 tracked modifications; 0 untracked paths",
+  "actions": "Fetch current branch only; no stash/pop, reset, clean or branch change. Source work begins with a prelisted scope."
+}

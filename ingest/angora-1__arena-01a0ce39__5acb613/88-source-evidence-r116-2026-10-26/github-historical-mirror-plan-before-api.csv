@@ -1,0 +1,3 @@
+id,api_path,purpose
+GH16,/repos/gentoo/hwids/contents/ma-small.txt?ref=41e194e41bcb65e764c67562e2fba877b0b4408b,full metadata/base64 and original decoded bytes for actual GH12 commit
+GH17,/repos/gentoo/hwids/contents/ma-small.txt?ref=2986daf9bf2626efe6ff1d62f9713dad6cb82dae,full metadata/base64 and original decoded bytes for actual GH14 commit

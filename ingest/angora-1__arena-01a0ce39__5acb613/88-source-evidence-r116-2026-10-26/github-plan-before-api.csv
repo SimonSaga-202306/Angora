@@ -1,0 +1,7 @@
+id,api_path,purpose
+GH01,/repos/gentoo/hwids/commits/cad1d07b026dd2c04b6940cf9c72b4b8639ae55b,verify discovered mirror commit and record metadata
+GH02,/repos/wireshark/wireshark/commits/0fcf4b1de93f79cc7d24ecb9c57193a61f822329,verify whether discovered Debian commit exists in upstream; save failure as failure if not
+GH03,/repos/gentoo/hwids/commits?path=ma-small.txt&until=2021-12-31T23:59:59Z&per_page=1,find pre-cutoff historical mirror snapshot without assuming registration date
+GH04,/repos/gentoo/hwids/commits?path=ma-small.txt&until=2023-12-31T23:59:59Z&per_page=1,find second historical mirror snapshot
+GH05,/repos/gentoo/hwids/contents/ma-small.txt?ref=<GH03 SHA>,"only if an existing commit is actually returned; original byte content, Git blob size and digest verified"
+GH06,/repos/gentoo/hwids/contents/ma-small.txt?ref=<GH04 SHA>,"only if an existing commit is actually returned; original byte content, Git blob size and digest verified"

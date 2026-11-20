@@ -1,0 +1,20 @@
+test_01_five_historical_git_blobs (__main__.R116Integrity.test_01_five_historical_git_blobs) ... ok
+test_02_wireshark_commit_parent_patch_and_time (__main__.R116Integrity.test_02_wireshark_commit_parent_patch_and_time) ... ok
+test_03_full_file_scans_and_target_lines (__main__.R116Integrity.test_03_full_file_scans_and_target_lines) ... ok
+test_04_gentoo_snapshot_dates_and_address (__main__.R116Integrity.test_04_gentoo_snapshot_dates_and_address) ... ok
+test_05_cidr_arithmetic_and_nonexclusive_prefix (__main__.R116Integrity.test_05_cidr_arithmetic_and_nonexclusive_prefix) ... ok
+test_06_three_park_captures_are_separate_chunks (__main__.R116Integrity.test_06_three_park_captures_are_separate_chunks) ... ok
+test_07_advensis_images_and_prior_sources_are_not_overclaimed (__main__.R116Integrity.test_07_advensis_images_and_prior_sources_are_not_overclaimed) ... ok
+test_08_future_chamber_header_and_retained_draft (__main__.R116Integrity.test_08_future_chamber_header_and_retained_draft) ... ok
+test_09_eighty_four_search_metadata_not_claimed_full (__main__.R116Integrity.test_09_eighty_four_search_metadata_not_claimed_full) ... ok
+test_10_catalog_artifact_paths_and_unique_ids (__main__.R116Integrity.test_10_catalog_artifact_paths_and_unique_ids) ... ok
+test_11_old_scoped_reads_and_sizes (__main__.R116Integrity.test_11_old_scoped_reads_and_sizes) ... ok
+test_12_master_prefix_is_byte_identical_without_decoding (__main__.R116Integrity.test_12_master_prefix_is_byte_identical_without_decoding) ... ok
+test_13_round_readback_scope_and_checksums (__main__.R116Integrity.test_13_round_readback_scope_and_checksums) ... ok
+test_14_deliverable_links_resolve (__main__.R116Integrity.test_14_deliverable_links_resolve) ... ok
+test_15_entity_boundary_and_no_forced_identity (__main__.R116Integrity.test_15_entity_boundary_and_no_forced_identity) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.169s
+
+OK

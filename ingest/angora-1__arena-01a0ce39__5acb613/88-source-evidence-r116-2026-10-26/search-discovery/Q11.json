@@ -1,0 +1,9 @@
+{
+  "id": "Q11",
+  "query": "site:e-safe.org \"Angora Networks\" 2021",
+  "depth": "2",
+  "result_count_manually_recorded_including_irrelevant_duplicates": 1,
+  "selected_discovery_urls_only": [],
+  "fidelity": "manual metadata; NOT full search response, not original source, counts may be wrong",
+  "scope": "no search snippet treated as a primary source"
+}

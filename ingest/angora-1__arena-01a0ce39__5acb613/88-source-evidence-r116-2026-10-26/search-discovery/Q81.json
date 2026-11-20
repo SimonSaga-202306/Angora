@@ -1,0 +1,11 @@
+{
+  "id": "Q81",
+  "query": "\"Angora Networks\" \"70:B3:D5:82:20\" 2019",
+  "depth": "2",
+  "result_count_manually_recorded_including_irrelevant_duplicates": 3,
+  "selected_discovery_urls_only": [
+    "https://janitor.debian.net/git/wireshark/commit/0fcf4b1de93f79cc7d24ecb9c57193a61f822329/"
+  ],
+  "fidelity": "manual metadata; NOT full search response, not original source, counts may be wrong",
+  "scope": "no search snippet treated as a primary source"
+}

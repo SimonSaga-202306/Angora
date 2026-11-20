@@ -1,0 +1,6 @@
+id,path,listed_bytes,purpose
+R114-CLI-ANNOUNCEMENT,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/support.angoranetworks.com/p/330/20240221043438/index.visible.md,2558,prior capture of CLI post; verify duplication
+R114-CLI-CDX,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/support.angoranetworks.com/p/330/index.cdx.visible.txt,413,check captures and date limitations
+R112-QUICK-START-CDX,ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/archive-index/support.angoranetworks.com/ht_kb/quick-start-guide/cdx.visible.md,15,whether English quick start had old capture
+R113-TR-QUICK-START,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/20250211062254/index.visible.md,8701,"prior Turkish counterpart, do not assume same source"
+R113-TR-QUICK-START-CDX,ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-index/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/cdx.visible.md,620,date and scope check

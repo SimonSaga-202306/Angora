@@ -1,0 +1,10 @@
+{
+  "session_date_utc": "2026-10-26",
+  "boot_id": "7b0855bc-f0a8-4d24-b70a-1151226e8045",
+  "start_monotonic_seconds": 2181.654652278,
+  "sample_monotonic_seconds": 4141.621103579,
+  "elapsed_seconds_same_boot": 1959.966,
+  "sample_wall_clock_utc_uncalibrated": "2026-11-20T03:43:44.435975+00:00",
+  "meaning": "active research plus verification through this sample, not sleep-padded; wall clock conflicts with session date and cannot backdate captures",
+  "comparison_r115_seconds": 948.635
+}

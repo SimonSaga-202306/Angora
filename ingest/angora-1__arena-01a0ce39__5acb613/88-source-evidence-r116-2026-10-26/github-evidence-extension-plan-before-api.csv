@@ -1,0 +1,6 @@
+id,api_path,purpose
+GH07,/repos/wireshark/wireshark/contents/manuf?ref=95bf9f5e0acac09f35cd8e8467cb6d93fb5a0d78,parent metadata; record full API response
+GH08,/repos/wireshark/wireshark/contents/manuf?ref=0fcf4b1de93f79cc7d24ecb9c57193a61f822329,addition commit metadata; record full API response
+GH09,/repos/wireshark/wireshark/contents/manuf?ref=95bf9f5e0acac09f35cd8e8467cb6d93fb5a0d78,raw parent file; preserve bytes; verify Git blob
+GH10,/repos/wireshark/wireshark/contents/manuf?ref=0fcf4b1de93f79cc7d24ecb9c57193a61f822329,raw post-commit file; preserve bytes; verify Git blob
+GH11,/repos/gentoo/hwids/contents/ma-small.txt?ref=cad1d07b026dd2c04b6940cf9c72b4b8639ae55b,historical 2020 source mirror metadata and if feasible byte-identical raw; not IEEE issuing date

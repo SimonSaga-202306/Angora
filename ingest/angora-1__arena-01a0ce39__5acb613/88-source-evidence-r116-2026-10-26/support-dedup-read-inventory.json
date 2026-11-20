@@ -1,0 +1,47 @@
+[
+  {
+    "id": "R114-CLI-ANNOUNCEMENT",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/support.angoranetworks.com/p/330/20240221043438/index.visible.md",
+    "listed_bytes": "2558",
+    "purpose": "prior capture of CLI post; verify duplication",
+    "bytes_read": 2558,
+    "sha256": "0ce8d4110f023e3077bfb147bb8c0fb72306edca23a9d42e9e04e25db6a91d9a",
+    "lines": 38
+  },
+  {
+    "id": "R114-CLI-CDX",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-index/support.angoranetworks.com/p/330/index.cdx.visible.txt",
+    "listed_bytes": "413",
+    "purpose": "check captures and date limitations",
+    "bytes_read": 413,
+    "sha256": "e102762f746ad3be1eab42984853db2eaebca7873c4a0741c7746c8c28892acc",
+    "lines": 6
+  },
+  {
+    "id": "R112-QUICK-START-CDX",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/73-source-evidence-r112-2026-10-26/archive-index/support.angoranetworks.com/ht_kb/quick-start-guide/cdx.visible.md",
+    "listed_bytes": "15",
+    "purpose": "whether English quick start had old capture",
+    "bytes_read": 15,
+    "sha256": "a64ac82aeeae680db27f5f5c25a98a1942938d3aaedd50aeac00cf02c067b57d",
+    "lines": 4
+  },
+  {
+    "id": "R113-TR-QUICK-START",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-replay/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/20250211062254/index.visible.md",
+    "listed_bytes": "8701",
+    "purpose": "prior Turkish counterpart, do not assume same source",
+    "bytes_read": 8701,
+    "sha256": "e043ed67be1be42cd59cb423005ada277f9bf2b1d47e943bec02255e03ae91b1",
+    "lines": 116
+  },
+  {
+    "id": "R113-TR-QUICK-START-CDX",
+    "path": "ingest/angora-1__arena-01a0ce39__5acb613/77-source-evidence-r113-2026-10-26/archive-index/support.angoranetworks.com/ht_kb/hizli-baslangic-kilavuzu/cdx.visible.md",
+    "listed_bytes": "620",
+    "purpose": "date and scope check",
+    "bytes_read": 620,
+    "sha256": "c3ec07ed8fa16675c98670bc1d0ed935aa343f1450f71e0bb25614ffb6bd4670",
+    "lines": 8
+  }
+]

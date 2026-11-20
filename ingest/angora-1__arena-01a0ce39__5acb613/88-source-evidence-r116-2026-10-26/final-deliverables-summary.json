@@ -1,0 +1,13 @@
+{
+  "listed_paths": 6,
+  "read_paths": 6,
+  "utf8_decoded_paths": 5,
+  "bytes_only_paths": 1,
+  "total_bytes": 75275,
+  "scope_file": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/final-deliverables-scope.csv",
+  "scope_sha256": "97a727a876eaca4e6e5e7a898e09cfb56aba91d495ee80c8c5bb001a48d23d92",
+  "inventory_file": "ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/final-deliverables-inventory.csv",
+  "inventory_sha256": "afb31a9e3ccbe002038eafad0b2a66b1e857d0957c528bec998cc092d7eb32d0",
+  "scope_limit": "only the paths prelisted in the scope; not an independent-source count",
+  "not_proved": "byte read and SHA do not prove correctness of human transcription or external truth"
+}

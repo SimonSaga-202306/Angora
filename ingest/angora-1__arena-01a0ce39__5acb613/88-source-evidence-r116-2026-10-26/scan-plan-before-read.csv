@@ -1,0 +1,6 @@
+id,relative_path,needles,scope
+WS-PARENT,github-raw/github.com/wireshark/wireshark/95bf9f5e0acac09f35cd8e8467cb6d93fb5a0d78/manuf,"angora;70:b3:d5:82:20:00/36;822000-822fff",complete exact full-file substring scan casefold
+WS-CHILD,github-raw/github.com/wireshark/wireshark/0fcf4b1de93f79cc7d24ecb9c57193a61f822329/manuf,"angora;70:b3:d5:82:20:00/36;822000-822fff",complete exact full-file substring scan casefold
+G-2018,github-raw/github.com/gentoo/hwids/41e194e41bcb65e764c67562e2fba877b0b4408b/ma-small.txt,"angora;70:b3:d5:82:20:00/36;822000-822fff",complete exact full-file substring scan casefold
+G-2019,github-raw/github.com/gentoo/hwids/2986daf9bf2626efe6ff1d62f9713dad6cb82dae/ma-small.txt,"angora;70:b3:d5:82:20:00/36;822000-822fff",complete exact full-file substring scan casefold
+G-2020,github-raw/github.com/gentoo/hwids/cad1d07b026dd2c04b6940cf9c72b4b8639ae55b/ma-small.txt,"angora;70:b3:d5:82:20:00/36;822000-822fff",complete exact full-file substring scan casefold

@@ -1,0 +1,12 @@
+{
+  "id": "Q63",
+  "query": "\"Angora Networks\" \"enerjim sensin\" 2026 26 ekim",
+  "depth": "2",
+  "result_count_manually_recorded_including_irrelevant_duplicates": 4,
+  "selected_discovery_urls_only": [
+    "https://www.enerjimagazin.com/haber-epdk-ve-elder-in-enerjim-sensin-programinda-finalistler-aciklandi-12770.html",
+    "https://www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872"
+  ],
+  "fidelity": "manual metadata; NOT full search response, not original source, counts may be wrong",
+  "scope": "no search snippet treated as a primary source"
+}

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "WS-PARENT",
+    "path": "github-raw/github.com/wireshark/wireshark/95bf9f5e0acac09f35cd8e8467cb6d93fb5a0d78/manuf",
+    "bytes_read": 1547452,
+    "sha256": "5a59e494d4c2c4ac9c1c7db085a73b6cf1e96143e9e1ebd704d3c4a33e14f855",
+    "line_count": 36247,
+    "needles": [
+      "angora",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": []
+  },
+  {
+    "id": "WS-CHILD",
+    "path": "github-raw/github.com/wireshark/wireshark/0fcf4b1de93f79cc7d24ecb9c57193a61f822329/manuf",
+    "bytes_read": 1549311,
+    "sha256": "b62213bf0428f347ca29995456dfcd9a8758178f495e841413a7fcb8a0941fe0",
+    "line_count": 36284,
+    "needles": [
+      "angora",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": [
+      {
+        "line": 26100,
+        "needles": [
+          "angora",
+          "70:b3:d5:82:20:00/36"
+        ],
+        "text": "70:B3:D5:82:20:00/36\tAngoraNe\tAngora Networks"
+      }
+    ]
+  },
+  {
+    "id": "G-2018",
+    "path": "github-raw/github.com/gentoo/hwids/41e194e41bcb65e764c67562e2fba877b0b4408b/ma-small.txt",
+    "bytes_read": 451081,
+    "sha256": "ac8d65dd68c85f5e0c9e52297c565ff330f72e6344c49bd232d64412349c96ac",
+    "line_count": 16968,
+    "needles": [
+      "angora",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": []
+  },
+  {
+    "id": "G-2019",
+    "path": "github-raw/github.com/gentoo/hwids/2986daf9bf2626efe6ff1d62f9713dad6cb82dae/ma-small.txt",
+    "bytes_read": 495897,
+    "sha256": "71513d5b5d4f1d6d07b278a51959f25fcf94fb982c1db51a9f3932296fad051a",
+    "line_count": 18639,
+    "needles": [
+      "angora",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": [
+      {
+        "line": 11069,
+        "needles": [
+          "angora"
+        ],
+        "text": "70-B3-D5   (hex)\t\tAngora Networks"
+      },
+      {
+        "line": 11070,
+        "needles": [
+          "angora",
+          "822000-822fff"
+        ],
+        "text": "822000-822FFF     (base 16)\t\tAngora Networks"
+      }
+    ]
+  },
+  {
+    "id": "G-2020",
+    "path": "github-raw/github.com/gentoo/hwids/cad1d07b026dd2c04b6940cf9c72b4b8639ae55b/ma-small.txt",
+    "bytes_read": 592165,
+    "sha256": "85d0c1ec4131774c7a66b75e21d80fdd7b44d98badf5598780afc10eaf0bbe9e",
+    "line_count": 22152,
+    "needles": [
+      "angora",
+      "70:b3:d5:82:20:00/36",
+      "822000-822fff"
+    ],
+    "matches": [
+      {
+        "line": 266,
+        "needles": [
+          "angora"
+        ],
+        "text": "70-B3-D5   (hex)\t\tAngora Networks"
+      },
+      {
+        "line": 267,
+        "needles": [
+          "angora",
+          "822000-822fff"
+        ],
+        "text": "822000-822FFF     (base 16)\t\tAngora Networks"
+      }
+    ]
+  }
+]
