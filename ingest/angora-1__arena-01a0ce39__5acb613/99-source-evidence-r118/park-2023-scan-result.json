@@ -1,0 +1,35 @@
+{
+  "scope": "four separately returned and manually transcribed tool-visible chunks; not original HTML or images",
+  "items": [
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-0.visible.manual.md",
+      "bytes_read": 8092,
+      "sha256": "462e223c223d071a5cf2c53556ce5683c74674727c243bd173a2d431184c880a",
+      "angora_casefold_occurrences": 0,
+      "has_archive_timestamp": true
+    },
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-1.visible.manual.md",
+      "bytes_read": 8124,
+      "sha256": "177d9e4cf8811781daa670226a117473f31faf0c7cee30f4ba2c01f65ad87a71",
+      "angora_casefold_occurrences": 0,
+      "has_archive_timestamp": true
+    },
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-2.visible.manual.md",
+      "bytes_read": 8115,
+      "sha256": "4d4091fcb117e77138f4ee3e9fb60683c329b2bb2f2ee67eb4ba7bc17c8f5944",
+      "angora_casefold_occurrences": 0,
+      "has_archive_timestamp": true
+    },
+    {
+      "path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-3.visible.manual.md",
+      "bytes_read": 3497,
+      "sha256": "c3134e5efe273639425335e60b2af9b3e8e2d2d87bf0943a0ab67d272dcf9b7f",
+      "angora_casefold_occurrences": 0,
+      "has_archive_timestamp": true
+    }
+  ],
+  "total_angora_casefold_occurrences": 0,
+  "limits": "No claim of non-occupancy or identity; no automatic transcription-to-tool byte comparison; source may omit content, use another alias, or have separate pages."
+}

@@ -1,0 +1,10 @@
+{
+  "query":"\"Angora Networks\" \"Kırıkkale\" \"Ulubatlı\" -pdf",
+  "depth":"1",
+  "capture_note":"Manual transcription of tool-visible response; not protocol bytes or automatically compared. The park website footer and LinkedIn similar-page block are not an Angora branch address or identity proof.",
+  "results":[
+    {"description":"##### Angora Networks Bilişim\n**Telefon: 0312 241 7747**\n\n**E-Posta: contact@angoranetworks.com**\n\n**Website: angoranetworks.com** ### BİZE ULAŞIN\n\nYenişehir Mah. Ulubatlı Sok. No:3 Yahşihan / Kırıkkale","id":1,"title":"Firma Rehberi","url":"https://kirikkaleteknopark.com/firma-rehberi/"},
+    {"description":"# AuthTake\n## Konum\n- Birincil Kızılırmak Mahallesi 1443 Cadde No: 25 1071 Usta Plaza B Blok Kat:16 Ofis:117 Ankara, Çankaya 06510, TR Yol tarifi al\n- Yenişehir Mahallesi Ulubatlı Sokak Kırıkkale Üniversitesi Teknopark 1. Ar-Ge Binası Kırıkkale, Yahşihan 71450, TR Yol tarifi al ## Benzer sayfalar\n- Angora Networks Bilgi Teknolojisi ve Hizmetleri Ankara, Ankara\n- Altosec BT Hizmetleri ve BT Danışmanlığı Ankara, Ankara\n- NETSYS BILISIM BT Hizmetleri ve BT Danışmanlığı Üsküdar, Istanbul\n- Bugbounter Bilgisayar ve Ağ Güvenliği","id":2,"title":"AuthTake","url":"https://tr.linkedin.com/company/authtake"}
+  ],
+  "status":"success"
+}

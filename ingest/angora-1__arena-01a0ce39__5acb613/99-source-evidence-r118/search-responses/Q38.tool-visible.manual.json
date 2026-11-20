@@ -1,0 +1,9 @@
+{
+  "query":"\"Angora Networks\" \"Enerjim Sensin\" \"finalist\" -pdf",
+  "depth":"1",
+  "capture_note":"Manual transcription of tool-visible response; not protocol bytes or automatically compared. A planned 28 October event is not asserted to have occurred as of session date.",
+  "results":[
+    {"description":"# TKİB’nin Kurumlararası İletişim Toplantısı TEİAŞ Ev Sahipliğinde Gerçekleştirildi\nEnerji Piyasası Düzenleme Kurumu (EPDK) ve Elektrik Dağıtım Hizmetleri Derneği (Elder) iş birliğiyle yürütülen \"Enerjim Sensin Hızlandırma Programı\"nda son aşamaya geçen 20 girişim belirlendi. Enerji dönüşümü, elektrik dağıtımı ve inovasyon ekosistemine katkı sağlaması hedeflenen program kapsamında, finale kalmayı başaran 20 girişim projelerini 28 Ekim 2026 tarihinde düzenlenecek \"Final Sahnesi\" etkinliğinde jürinin beğenisine sunacak. Dereceye giren başarılı girişimcilere toplamda 4 milyon lira tutarında nakit ödül dağıtılacak. Finalist girişimler belirlendi Programa başvurarak Final Sahnesi'nde yarışmaya hak kazanan 20 girişim şunlardan oluştu: \"Anadolu İnovasyon, Angora Networks, AT-AK, Befault, BIOMIX, BLUE HYBRID, Callmenta, CyberWeave AI OY, EnergyWisePro, Fonify, GMZ Enerji, Indufy, OzBI, Phena, Pulsesystech,","id":1,"pageAge":"Tuesday, October 20, 2026","title":"EPDK ve Elder’in Enerjim Sensin Programında Finalistler Açıklandı","url":"https://www.enerjimagazin.com/haber-epdk-ve-elder-in-enerjim-sensin-programinda-finalistler-aciklandi-12770.html"}
+  ],
+  "status":"success"
+}

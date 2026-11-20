@@ -1,0 +1,7 @@
+id,query,goal
+Q29,"""ANGORA NETWORKS"" ""KIRIKKALE ŞUBESİ"" -pdf",Discover branch directory distinct from main office
+Q30,"""Angora Networks"" ""Kırıkkale Şubesi"" ""kuruluş"" -pdf",Find dated branch claim without assuming official record
+Q31,"""Angora Networks"" ""Kırıkkale Şubesi"" ""ticaret"" -pdf",Find agency or independent publication
+Q32,"""Angora Networks"" ""ŞUBE"" ""Yahşihan"" -pdf",Search exact local branch description
+Q33,"""Angora Networks"" site:find.com.tr/Company/ ""Kırıkkale"" -pdf",Discover individual branch directory URL
+Q34,"""Angora Networks"" ""Kırıkkale"" ""Ulubatlı"" -pdf",Cross check against known park location without assuming legal identity

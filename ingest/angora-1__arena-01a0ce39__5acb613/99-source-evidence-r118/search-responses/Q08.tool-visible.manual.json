@@ -1,0 +1,22 @@
+{
+  "query": "\"Angora Networks\" \"2024\" site:gov.tr",
+  "depth": "1",
+  "capture_note": "Manual transcription of tool-visible response; not protocol bytes or automatically compared.",
+  "results": [
+    {
+      "description": "Ulaştırma ve Altyapı Bakanlığı’nın, ulaşım ve iletişim altyapısına geçtiğimiz 21 yılda\n\n275 milyar dolar yatırım yaparak Türkiye’nin gelişme ve ilerlemesine çok büyük bir katkı\n\nsağladığını belirten Bakan Yardımcısı Sayan, sabit ve mobil genişbant internet abone\n\nsayısının toplamda 93,3 milyona ulaştığını ifade etmiştir. Fiber uzunluğunun 562 bin",
+      "id": 1,
+      "pageAge": "Tuesday, July 30, 2024",
+      "title": "Untitled",
+      "url": "https://www.btk.gov.tr/uploads/pages/elektronik-haberlesme-sektorunde-gelismeler-bulteni/gelismeler-bulteni-temmuz-2024-son.pdf"
+    },
+    {
+      "description": "CLIMATE CHANGE MITIGATION\n\nSTRATEGY AND ACTION PLAN\n\n2024-2030",
+      "id": 2,
+      "pageAge": "Friday, July 16, 2021",
+      "title": "1 CLIMATE CHANGE MITIGATION STRATEGY AND ACTION PLAN 2024-2030",
+      "url": "https://iklim.gov.tr/db/turkce/icerikler/files/CLIMATE%20CHANGE%20MITIGATION%20STRATEGY%20AND%20ACTION%20PLAN%20_EN(1).pdf"
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "\"Angora Networks\" \"TİM\" \"2025\" Ankara girişim",
+  "depth": "1",
+  "status": "success",
+  "capture_note": "Partial manual capture, not the complete response: result 1 is an unrelated funding/metrics page and result 2 contains revenue-related claims; their full text was not retained or used. No link opened.",
+  "results": [
+    {"id":1,"title":"Angora Networks - Crunchbase Company Profile & Funding","url":"https://www.crunchbase.com/organization/angora-networks","description":"[omitted: financial/metrics context]"},
+    {"id":2,"title":"Angora Networks, Kanal Ortakları Zirvede Buluşuyor","url":"https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor","description":"[omitted: contains revenue-related claim]"},
+    {"description":"# Referans Projeler\n### Güzelyalı Konakları\n\nAnkara / Türkiye\n\nHit Town Projesi\n\n### Hit Town\n\nAnkara / Türkiye\n\nHitit Park Konutları Projesi ### Hitit Park Konutları\n\nAnkara / Türkiye\n\nİstGate Projesi\n\nAnkara / Türkiye\n\nİçişleri Bakanlığı Camii Projesi ### İçişleri Bakanlığı Camii\n\nAnkara / Türkiye ### Xanadu Otel\n\n### Yıldızsaray\n\nAnkara / Türkiye\n\nYörsan Genel Merkez Projesi","id":3,"pageAge":"Wednesday, November 19, 2025","title":"Referans Projeler","url":"https://angoraas.com.tr/referanslarimiz/"}
+  ]
+}

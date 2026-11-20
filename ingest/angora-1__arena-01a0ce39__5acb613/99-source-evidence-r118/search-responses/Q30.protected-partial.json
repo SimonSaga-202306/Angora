@@ -1,0 +1,10 @@
+{
+  "query":"\"Angora Networks\" \"Kırıkkale Şubesi\" \"kuruluş\" -pdf",
+  "depth":"1",
+  "status":"success",
+  "capture_note":"Partial manual capture: result 2 has revenue claims, omitted under existing financial boundary; no link opened. Result 1 is the previously analyzed interview and does not name a park.",
+  "results":[
+    {"description":"### “Yerli bir üreticiye verilebilecek en büyük destek, onun ürünlerini kullanmaktır”\nAngora Networks, yüzde 100 yerli sermayeyle kurulduğu 2016 yılından buyana network teknolojileri alanında tasarım, üretim, satış ve pazarlama faaliyetleri yürütüyor. **Angora** **Networks Genel Müdürü Levent KILIÇ,** bilgi iletişim teknolojileri alanında faaliyet gösteren yerli firmalara verilecek en büyük desteğin, o firmanın ürünlerini kullanmak olduğunu vurguladı. ***Murat PEHLİVAN: Angora Network’ün yaptığı kıymetli işleri biliyoruz. Ülkemizin çok ihtiyacı olan ve çok tüketilen ürünleri siz kendi gayret ve çabalarınız ile üretiyorsunuz. İki ortak Angora Networks’ü neden kurdu, niye icat çıkarttınız?*** **Levent KILIÇ:** Teknokente geçtik. Yazılım tarafımız büyümeye başladı. Özetlemek gerekirse; Angora Networks olarak 3-4 tane ana faaliyetimiz var. Bunlardan bir tanesi tasarım, bir tanesi üretim, bir tanesi de pazarlama ve en son ise satış. Bu 4 ana kol üzerinde faaliyet gösteriyoruz. Bu tasarım ve üretim kısımlarını teknokente doğru kaydırmaya başladık.","id":1,"pageAge":"Thursday, June 08, 2023","title":"“Yerli bir üreticiye verilebilecek en büyük destek, onun ürünlerini kullanmaktır”","url":"https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir"},
+    {"id":2,"title":"Angora Networks, Kanal Ortakları Zirvede Buluşuyor","url":"https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor","description":"[omitted: revenue-related claims]"}
+  ]
+}

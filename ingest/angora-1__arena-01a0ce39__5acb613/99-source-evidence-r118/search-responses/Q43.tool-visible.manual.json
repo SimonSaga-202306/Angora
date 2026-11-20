@@ -1,0 +1,7 @@
+{
+  "query":"\"ANGORA NETWORKS\" \"KIRIKKALE ŞUBESİ\" site:ticaretsicil.gov.tr",
+  "depth":"1",
+  "capture_note":"Manual transcription of tool-visible response; not protocol bytes or automatically compared. The returned directorates list does not confirm a branch registration.",
+  "results":[{"description":"### TİCARET SİCİLİ MÜDÜRLÜKLERİ\n| Sıra No | İL VE İLÇELERDE BULUNAN TİCARET SİCİLİ MÜDÜRLÜKLERİ |\n| --- | --- |\n| 224 | KIRIKKALE |","id":1,"title":"Türkiye Ticaret Sicili Gazetesi","url":"https://www.ticaretsicil.gov.tr/view/menu/mudurlukler.php"}],
+  "status":"success"
+}

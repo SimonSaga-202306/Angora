@@ -1,0 +1,11 @@
+{
+  "query": "\"Angora Networks\" \"ticaret sicil\" Ankara",
+  "depth": "1",
+  "status": "success",
+  "capture_note": "Partial manual capture, not the whole tool response: unrelated Result 1 had a publicly displayed third-party mobile and unrelated Result 2 had financial figures. Their full excerpts were not saved or used. Result 3 below is manually transcribed, not protocol bytes. No links were opened.",
+  "results": [
+    {"id":1,"title":"Hesap Bilgilerimiz - Özel Uçak Kiralama","url":"https://angoraair.com/hesap-bilgilerimiz","description":"[omitted: unrelated third-party personal contact and financial/account page]"},
+    {"id":2,"title":"Bilgi Toplumu Hizmetleri","url":"https://angoratd.com/bilgi-toplumu-hizmetleri/","description":"[omitted: unrelated company's capital/audit excerpt]"},
+    {"id":3,"title":"ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ - ANKARA - YENİMAHALLE - (0312) 222 51 ...","url":"https://www.tikla.com.tr/angora-networks-bilisim-teknoloji-ticaret-sanayi-anonim-sirketi.html","description":"ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ iletişim telefon ve adres bilgileri - (0312) 222 51 ... - YENİMAHALLE - ANKARA - BİLGİSAYAR AKSESUARI MAĞAZASI # Angora Networks Bilişim Teknoloji Ticaret Sanayi Anonim Şirketi\nYenimahalle'de bir Bilgisayar Aksesuarı Mağazası\n\n**Tel: (0312) 222 51 21 ☎️** **Adres**: Alacaatlı Mah. Park Cad. 47/31 Yenimahalle Yenimahalle, Ankara ## Çalışma Saatleri\nPazartesi · 09:00 - 18:00\nSalı · 09:00 - 18:00\nÇarşamba · 09:00 - 18:00\nPerşembe · 09:00 - 18:00\nCuma · 09:00 - 18:00 ## Angora Networks Bilişim Teknoloji Ticaret Sanayi Anonim Şirketi Haritadaki yeri ve yol tarifi alın\n\n## Angora Networks Bilişim Teknoloji Ticaret Sanayi Anonim Şirketi Yorumları ve Şikayetleri 3. Bilgisayar Aksesuarı Mağazası\n4. Ankara\n5. Yenimahalle\n6. Angora Networks Bilişim Teknoloji Ticaret Sanayi Anonim Şirketi"}
+  ]
+}

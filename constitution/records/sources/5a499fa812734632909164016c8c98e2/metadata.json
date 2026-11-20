@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "5a499fa812734632909164016c8c98e2",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:20:16.648143+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-2.visible.manual.md",
+  "supersedes_record_id": null,
+  "note": "\u540c\u4e00\u76ee\u5f55\u72ec\u7acb\u54cd\u5e94\u5757\uff0c\u4eba\u5de5\u8f6c\u5b58\uff1b\u975e HTML \u539f\u4ef6\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-2.visible.manual.md",
+  "source_uri": "https://www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim?Sorting=0&ViewType=Grid&Page=37",
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-2.visible.manual.md": {
+      "bytes": 4558,
+      "sha256": "04c23113a1b5e6f7931fb038edd1316498fda3588c3892b606379005d787d978"
+    }
+  }
+}

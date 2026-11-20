@@ -1,0 +1,17 @@
+{
+  "request_url": "https://time.is/Beijing?view=angora-r118-reference",
+  "tool": "functions.fetch_page",
+  "chunk_index": 0,
+  "status": "success",
+  "has_more": false,
+  "total_chunks": 1,
+  "title": "Beijing: 07:56pm",
+  "image_url": "https://time.is/img/shareable/time_is_110011.png",
+  "page_displayed_beijing_time": "2026-11-20T19:56:46+08:00",
+  "page_displayed_precision": "second",
+  "session_utc_date": "2026-10-26",
+  "comparison": "The page calendar date and session date are in conflict; neither the page text nor the host clock establishes historical message times.",
+  "fidelity": "content manually transcribed from tool-visible markdown; not independently compared against tool response bytes; not original HTML",
+  "actual_tool_call_time": "unknown",
+  "response_body": "chunk-0.visible.manual.md"
+}

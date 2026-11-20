@@ -1,0 +1,15 @@
+{
+  "request_url": "https://web.archive.org/web/20230921184425/https://www.kirikkaleteknopark.com/firma-rehberi/",
+  "original_url": "https://www.kirikkaleteknopark.com/firma-rehberi/",
+  "tool": "functions.fetch_page",
+  "status": "success",
+  "title": "Firma Rehberi – Kırıkkale Üniversitesi Teknoloji Geliştirme Bölgesi A.Ş.",
+  "wayback_capture_timestamp_utc": "2023-09-21T18:44:25+00:00",
+  "wayback_capture_timestamp_beijing": "2023-09-22T02:44:25+08:00",
+  "reported_total_chunks": 4,
+  "requested_chunks": [0, 1, 2, 3],
+  "manually_transcribed_chunks": [0, 1, 2, 3],
+  "fidelity": "Separate tool-visible Markdown chunks manually transcribed; not original HTML or automatically compared against protocol bytes. Chunks were obtained in separate calls and remain separate.",
+  "actual_tool_call_time": "unknown",
+  "limits": "Archive toolbar is dynamic, page can contain images or links beyond visible text, and a string not present in saved chunks is not proof of non-existence, entry date, or non-occupancy."
+}

@@ -1,0 +1,9 @@
+id,query,goal
+Q13,"""ANGORA NETWORKS"" ""KÜLTÜR"" ""ÇAKMAKLAR""",Search ambiguous park address without numbers
+Q14,"""Angora Networks"" ""Kırıkkale"" ""2023"" -pdf",Check date and park naming against r117 interview
+Q15,"""Angora Networks"" site:siberkume.org.tr -pdf",Independent cluster listing discovery
+Q16,"""Angora Networks"" ""Türkiye Siber Güvenlik Kümelenmesi"" -pdf",Check cluster claim with other publishers
+Q17,"""ANGORA NETWORKS"" site:immib.org.tr -pdf",Exporter association nontransactional public mentions
+Q18,"""ANGORA NETWORKS"" ""TÜBİTAK"" ""teknokent"" -pdf",Find institutional association rather than funding evidence
+Q19,"""ANGORA NETWORKS"" site:gov.tr ""2023"" siber -pdf",Specific official historical association
+Q20,"""ANGORA NETWORKS"" ""sanayi"" ""teknokent"" ""Ankara"" -pdf",Cross-check address not identity by name

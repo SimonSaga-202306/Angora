@@ -1,0 +1,7 @@
+id,query,goal
+Q35,"""Angora Networks"" ""Enerjim Sensin"" ELDER -pdf",Find program issuer source for r115
+Q36,"""Angora Networks"" ""Enerjim Sensin"" site:elder.org.tr -pdf",Find issuer source not later result
+Q37,"""Angora Networks"" ""Enerjim Sensin"" EPDK ""2026"" -pdf",Cross-check announcement and date with source
+Q38,"""Angora Networks"" ""Enerjim Sensin"" ""finalist"" -pdf",Discover dated independently published statement before session date
+Q39,"""Angora Networks"" ""Level Up"" ""2025"" ""TEB"" -pdf",Find an institutional cross-check for r115 2025 list
+Q40,"""Angora Networks Bilişim Teknoloji"" ""Kırıkkale Şubesi"" site:find.com.tr",Discover branch directory profile link

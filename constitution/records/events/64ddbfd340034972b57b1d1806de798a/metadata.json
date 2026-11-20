@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "64ddbfd340034972b57b1d1806de798a",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:20:13.329709+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/issues/continuation-resumes-research-r118.md",
+  "supersedes_record_id": null,
+  "note": "\u7528\u6237\u660e\u786e\u9009\u62e9\u7ee7\u7eed\u7814\u7a76\uff1b\u4e0d\u89e3\u9664\u5176\u4ed6\u505c\u9879\u3002",
+  "event_kind": "issue",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 827,
+      "sha256": "27f337aa4a4390d5fa63c0f7fca1b5b899301299d5502349b8f906d3539d92b4"
+    }
+  }
+}

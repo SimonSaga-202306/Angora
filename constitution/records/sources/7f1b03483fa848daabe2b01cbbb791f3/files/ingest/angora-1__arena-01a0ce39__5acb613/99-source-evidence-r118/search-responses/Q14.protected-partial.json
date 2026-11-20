@@ -1,0 +1,11 @@
+{
+  "query":"\"Angora Networks\" \"Kırıkkale\" \"2023\" -pdf",
+  "depth":"1",
+  "status":"success",
+  "capture_note":"Partial manual capture: result 1 is a third-party individual's career and contact aggregator; not retained or used. Other results manually transcribed, not protocol bytes. No link opened.",
+  "results":[
+    {"id":1,"title":"[individual contact and career result omitted]","url":"[third-party personal-contact URL omitted]","description":"[omitted to protect third-party privacy]"},
+    {"description":"# Ankara\nThe city gave its name to the Angora wool shorn from Angora rabbits, the long-haired Angora goat (the source of mohair), and the Angora cat. ## Geography\nAnkara shares its borders with Bolu and Çankırı in the north; Konya and Kırıkkale in the east.","id":2,"pageAge":"Monday, November 09, 2026","title":"Ankara","url":"https://en.wikipedia.org/wiki/Ankara"},
+    {"description":"# AuthTake\n## Benzer sayfalar\n- Angora Networks Bilgi Teknolojisi ve Hizmetleri Ankara, Ankara\n- Altosec BT Hizmetleri ve BT Danışmanlığı Ankara, Ankara\n- NETSYS BILISIM BT Hizmetleri ve BT Danışmanlığı Üsküdar, Istanbul\n- Bugbounter Bilgisayar ve Ağ Güvenliği","id":3,"title":"AuthTake","url":"https://tr.linkedin.com/company/authtake"}
+  ]
+}

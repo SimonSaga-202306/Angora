@@ -1,0 +1,11 @@
+{
+  "query":"\"ANGORA NETWORKS\" \"KIRIKKALE ŞUBESİ\" -pdf",
+  "depth":"1",
+  "status":"success",
+  "capture_note":"Partial manual capture: result 2 has revenue claims, omitted under existing financial boundary; no link opened. Result 1 is a park listing and does not itself use the queried branch designation.",
+  "results":[
+    {"description":"##### Angora Networks Bilişim\n**Telefon: 0312 241 7747**\n\n**E-Posta: contact@angoranetworks.com**\n\n**Website: angoranetworks.com**","id":1,"title":"Firma Rehberi","url":"https://kirikkaleteknopark.com/firma-rehberi/"},
+    {"id":2,"title":"Angora Networks, Kanal Ortakları Zirvede Buluşuyor","url":"https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor","description":"[omitted: revenue-related claims]"},
+    {"description":"# Ankara\nAnkara was historically known as Ancyra and Angora. The city gave its name to the Angora wool shorn from Angora rabbits, the long-haired Angora goat (the source of mohair), and the Angora cat.","id":3,"pageAge":"Monday, November 09, 2026","title":"Ankara","url":"https://en.wikipedia.org/wiki/Ankara"}
+  ]
+}

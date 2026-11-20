@@ -1,0 +1,11 @@
+{
+  "query":"\"Angora Networks Bilişim Teknoloji\" \"Kırıkkale Şubesi\" site:find.com.tr",
+  "depth":"1",
+  "capture_note":"Manual transcription of tool-visible response; not protocol bytes or automatically compared. Only result 1 names a candidate branch; the other results are unrelated.",
+  "results":[
+    {"description":"# Firma Rehberi Arama Sonuçları\n## Tree Arge Ticaret Sanayi Limited Şirketi\n- Kategoriler :\n- Elektronik\n\nANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ KIRIKKALE ŞUBESİ ## Angora Networks Bilişim Teknoloji Ticaret Sanayi Anonim Şirketi Kırıkkale Şubesi\n- Kategoriler :\n- Elektronik","id":1,"title":"Elektronik","url":"https://www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim?Sorting=0&ViewType=Grid&Page=37"},
+    {"description":"# Firma Rehberi Arama Sonuçları\n## Ordulu Teknoloji Anonim Şirketi Kırıkkale Teknopark Şubesi\n- Kategoriler :\n- Bilgisayar ve Bilişim","id":2,"title":"KIRIKKALE Firma Rehberi - Find","url":"https://www.find.com.tr/List/TumKategoriler/kirikkale?Page=10&Sorting=3&ViewType=Grid"},
+    {"description":"# Firma Rehberi Arama Sonuçları\n## Beyhan Bilgi Teknolojileri Ve Yazılım Pazarlama Ve Ticaret Limited Şirketi\n- Kategoriler :\n- Bilgisayar ve Bilişim\n\nİNFRASİS BİLGİ TEKNOLOJİLERİ TİCARET ANONİM ŞİRKETİ KIRIKKALE TEKNOPARK ŞUBESİ","id":3,"title":"Find® Türkiye Firma Rehberi","url":"https://www.find.com.tr/Search/B%C4%B0LAD%C4%B0?ViewType=Grid&Sorting=3&Page=90"}
+  ],
+  "status":"success"
+}

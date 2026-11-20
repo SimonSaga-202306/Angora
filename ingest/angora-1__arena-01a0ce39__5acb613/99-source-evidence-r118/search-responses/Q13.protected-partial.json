@@ -1,0 +1,10 @@
+{
+  "query": "\"ANGORA NETWORKS\" \"KÜLTÜR\" \"ÇAKMAKLAR\"",
+  "depth": "1",
+  "status": "success",
+  "capture_note": "Partial manual capture of search snippets. Both contain an apparent numeric identifier adjacent to a named company; digits omitted pending privacy and field/row verification. Search-index pageAge is not an independently verified document date. PDFs not opened in this query.",
+  "results": [
+    {"id":1,"pageAge":"Sunday, April 28, 2024","title":"1/66 0","url":"https://immib.org.tr/download/0edbc54e9f2f4e7b8294f3110a1e7440/EE%C4%B0B_GK_KATILMAYA_HA%C4%B0Z_F%C4%B0RMALAR.pdf","description":"230 [number omitted] | ANGORA NETWORKS BILISIM TEKNOLOJI TICARET SANAYI A.S KÜLTÜR MAHALLESİ.ÇAKMAKLAR CADDESİ.TEKNOKENT ANABİNA BLOK KAT:2 İÇKAPI\n\nNO:39 MERKEZ/BOLU KÜLTÜR MAHA MERKEZ BOLU"},
+    {"id":2,"pageAge":"Wednesday, April 23, 2025","title":"1/78 0","url":"https://immib.org.tr/download/5c0678af3865480d834f2497afbcc2be/EE%C4%B0B_GK_KATILMAYA_HA%C4%B0Z_F%C4%B0RMALAR.pdf","description":"238 [number omitted] | ANGORA NETWORKS BILISIM TEKNOLOJI TICARET SANAYI A.S KÜLTÜR MAHALLESİ.ÇAKMAKLAR CADDESİ.TEKNOKENT ANABİNA BLOK KAT:2 İÇKAPI\n\nNO:39 MERKEZ/BOLU KÜLTÜR MAHA MERKEZ BOLU"}
+  ]
+}

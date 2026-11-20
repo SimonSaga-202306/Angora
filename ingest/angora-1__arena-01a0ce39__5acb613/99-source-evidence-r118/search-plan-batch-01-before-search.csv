@@ -1,0 +1,13 @@
+id,query,goal
+Q01,"""Angora Networks"" site:gov.tr bilişim teknoloji",Turkish government institution mentions
+Q02,"""Angora Networks"" site:edu.tr ağ güvenliği",University institutional historical mentions
+Q03,"""Angora Networks"" ""ticaret sicil"" Ankara",Official trade registry identification discovery
+Q04,"""ANGORA NETWORKS BİLİŞİM"" ""sicil""",Registered name identification discovery
+Q05,"""Angora Networks"" site:teknokent.com.tr",Turkish technopark historical institutional mention
+Q06,"""Angora Networks"" ""2022"" ""yerli"" siber",Dated institution or industry 2022 mention
+Q07,"""Angora Networks"" ""2023"" ""teknokent""",Prior 2023 generic technokent place question
+Q08,"""Angora Networks"" ""2024"" site:gov.tr",2024 government or public institution mention
+Q09,"""Angora Networks"" ""Knowledge Club"" eğitim",Training organizer course evidence without assuming delivery
+Q10,"""Angora Networks"" ""TİM"" ""2025"" Ankara girişim",Entrepreneurship program independent description
+Q11,"""Angora Networks"" ""2021"" ""Türkiye"" siber teknoloji",Early public institutional context
+Q12,"""Angora Networks"" ""2020"" ağ güvenliği etkinlik",Early independently organized public event context

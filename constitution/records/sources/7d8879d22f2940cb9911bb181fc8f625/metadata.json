@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "7d8879d22f2940cb9911bb181fc8f625",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:20:17.052489+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-3.visible.manual.md",
+  "supersedes_record_id": null,
+  "note": "2023 \u56ed\u533a\u5386\u53f2\u56de\u653e\u72ec\u7acb\u5757\uff0c\u4eba\u5de5\u8f6c\u5b58\uff1b\u4e0d\u662f\u539f HTML\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-3.visible.manual.md",
+  "source_uri": "https://web.archive.org/web/20230921184425/https://www.kirikkaleteknopark.com/firma-rehberi/",
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-archive/P06/www.kirikkaleteknopark.com/firma-rehberi/20230921184425/chunk-3.visible.manual.md": {
+      "bytes": 3497,
+      "sha256": "c3134e5efe273639425335e60b2af9b3e8e2d2d87bf0943a0ab67d272dcf9b7f"
+    }
+  }
+}

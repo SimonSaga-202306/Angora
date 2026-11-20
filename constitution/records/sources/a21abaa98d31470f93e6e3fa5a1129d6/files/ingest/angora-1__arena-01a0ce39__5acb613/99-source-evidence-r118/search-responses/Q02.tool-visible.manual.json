@@ -1,0 +1,27 @@
+{
+  "query": "\"Angora Networks\" site:edu.tr ağ güvenliği",
+  "depth": "1",
+  "capture_note": "Manual transcription of the tool-visible response; not protocol bytes and not automatically compared.",
+  "status": "success",
+  "results": [
+    {
+      "description": "güvenliğine yönelik teknik ve teknolojileri en iyi şekilde tanımanız ve bunların işlevlerini\n\nbilir hale gelmeniz amaçlanmıştır.\n\n*AĞ VE BİLGİ GÜVENLİĞİ*\n\nAĞ VE BİLGİ GÜVENLİĞİ\n\nbeklenir:\n\nKurumsal ağ güvenliğinin temellerini açıklayabilmek. “firewall” koyarak dışarıdan gelen\n\nsaldırılara karşı koymak.\n\n E-mail, HTTP, FTP trafiği üzerinde virüs\n\ntaraması yapan Viruswall Çözümleri.\n\n Yönetilen ağların Saldırı Tespit\n\nSistemleri (IDS) ile kontrol edilmesi.\n\n Yerel ağda, ağ trafiğinin üzerinden\n\ngeçtiği cihazların güvenliğinin\n\nsağlanması.\n\n Uç noktaların İnternet altyapısı üzerinden birbirine bağlanmasında VPN  A ğ içerisinde dolaşan önemli verilerin şifrelenmesi.\n\nAĞ VE BİLGİ GÜVENLİĞİ\n\n**Ağ Cihazlarının Güvenliği**\n\n **Fiziksel** **Güvenlik:** Kapı kilitleri,\n\npencereler, yangın alarm ve söndürme\n\nsistemleri, havalandırma, elektrik voltaj\n\ndeğişimleri, güç kaynağı, vb. konularda\n\nönlemler alınmalıdır. \n\n**Kriptolama:** Veriyi davetsiz misafirlerden gizlemek amacıyla kullanılan\n\nservistir.\n\n\n\n**Veri Tanımlama/Doğrulama:** Verinin içeriğinden ve değişmediğinden emin\n\nolarak kaynak ve hedef adreslerini tanımlama.\n\nAĞ VE BİLGİ GÜVENLİĞİ\n\n**İletişim Protokolleri** **Güvenliği**\n\n İletişim protokolleri tasarlanırken sistemin",
+      "id": 1,
+      "pageAge": "Wednesday, October 29, 2025",
+      "title": "Kurumsal Ağ Güvenliği ve Risk Yönetimi",
+      "url": "https://dokumanapi.bys.subu.edu.tr/File/2025/10/29/fc8f0df6-ab88-4d45-a2d5-dc1cd5769ecc.pdf"
+    },
+    {
+      "description": "Ağ güvenliği, günümüz dünyasının en önemli meselelerinden biri haline gelmiştir.\n\nİnternetin yaygınlaşması ile beraber kurumlar ve şirketler, ağlar üzerinden önemli\n\nmahrem bilgiler paylaşmaktadırlar. Erişim izni olmayan üçüncü kişilerin eline\n\ngeçmesi halinde ciddi zararlara yol açabilecek olan bu bilgilerin korunması oldukça **Keywords:** Virtual private network, Data security, Encryption, Tunneling,\n\nVerification Kısmında sanal özel ağlara giriş yapılmış 2. Kısımda ise sanal özel\n\nağlarda veri güvenliği hakkında literatür taraması yapılmıştır.  Kısımda sanal özel\n\nağın ne olduğu, nasıl çalıştığı ve ağ çeşitleri incelenmiştir.  kısımda ise sanal özel\n\nağların temeli olan Kapsülleme (Encapsulation), Doğrulama (Authentication) ve dış IP adresini, o kurumdaki bilgisayarlara dağıtarak kurumda bulunan tüm\n\nbilgisayarların internette tek bir IP adresi ile çıkışını sağlamaktadır. NAT protokolü ile\n\nağ güvenliğini ve ağa bağlı cihazları yönetme imkânı sağlar.\n\n**Şekil 11:** NAT Yapısı. [38]\n\nNAT, ağ güvenliğinin çok önemli bir parçasıdır. Bir kuruluşta kullanılan genel\n\nadreslerin sayısını korur ve güvenlik duvarının her iki tarafındaki kaynaklara erişimi",
+      "id": 2,
+      "title": "T.C. KTO Karatay Üniversitesi Fen Bilimleri Enstitüsü",
+      "url": "https://acikerisim.karatay.edu.tr/dosyalar/748_karatay_handle_net.pdf"
+    },
+    {
+      "description": "3) Veri iletiminde hata denetimi ve akış kontrolü yöntemlerini uygular. 4) Modem ve çoklayıcıların çalışma prensiplerini bilir. 5) Yerel ve Geniş alan ağları tasarlar, yönetimi için gerekli kural ve protokolleri belirler. 6) OSI modelini ve katmanlarını bilir, bilgisayar ağlarında veri iletişimini OSI katmanlarına göre modeller. 7) Bilgisayar ağları için yönlendirme protokollerini analiz eder, yorumlar. 8) Bilgisayar ağlarında güvenlik için gereken yöntem, araç ve kuralları uygular. İletişim katmanları: Veri bağı katmanı, Ağ katmanı ve İletim katmanı.  Ağ güvenliği. Hafta Ağ güvenliği.",
+      "id": 3,
+      "title": "BİL530 - Başkent Üniversitesi",
+      "url": "http://truva.baskent.edu.tr/bilgipaketi/?dil=TR&menu=akademik&inner=katalog&birim=911&ders=501530"
+    }
+  ]
+}

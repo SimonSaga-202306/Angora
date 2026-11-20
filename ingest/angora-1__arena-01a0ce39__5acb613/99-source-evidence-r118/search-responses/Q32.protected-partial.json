@@ -1,0 +1,11 @@
+{
+  "query":"\"Angora Networks\" \"ŞUBE\" \"Yahşihan\" -pdf",
+  "depth":"1",
+  "status":"success",
+  "capture_note":"Partial capture: results concern people/contact aggregators or financing/metrics profiles; full descriptions not retained under privacy and financial boundaries and not used. No links opened.",
+  "results":[
+    {"id":1,"title":"Angora Networks Information","url":"https://rocketreach.co/angora-networks-profile_b402226cfc1524af","description":"[omitted: employee/contact aggregator]"},
+    {"id":2,"title":"Angora Networks - Crunchbase Company Profile & Funding","url":"https://www.crunchbase.com/organization/angora-networks","description":"[omitted: financial/metrics context]"},
+    {"id":3,"title":"Angora Networks - Products, Competitors, Financials, Employees, Headquarters Locations","url":"https://www.cbinsights.com/company/angora-networks","description":"[omitted: financial/metrics context]"}
+  ]
+}

@@ -16,7 +16,8 @@
 - [操作指南](OPERATING-GUIDE.md)／[仓库级代理指引](../AGENTS.md)／[现有停项与权限边界](policies/preexisting-boundaries.md)。
 - [本轮用户请求](inbox/user-messages/constitution-request-0001.txt) 与 [公开选择](inbox/user-messages/privacy-answer-0002.json) 是两条独立记录；[公开仓库及用户决定](policies/publication-consent.md)。
 - [各消息与版本](records/messages/)／[逐源文件](records/sources/)／[问题与变化](records/events/)／[每次抓取](records/crawls/)／[记录快照](snapshots/)。
-- [最新 34 项本地测试原 stderr](audit/rebuilt-test-02.stderr.bin)／[结果](audit/rebuilt-test-02.result.json)；[此前 31 项测试](audit/rebuilt-test-01.result.json)及[符号链接缺口首次失败](audit/symlink-gap-before-fix.result.json)保留；[北京时区参考和时间冲突](issues/clock-disagreement-and-r117.md)；[重置保护](../ingest/angora-1__arena-01a0ce39__5acb613/96-entry-safety-privacy-reset/)。
+- [最新 34 项本地测试原 stderr](audit/rebuilt-test-02.stderr.bin)／[结果](audit/rebuilt-test-02.result.json)；[此前 31 项测试](audit/rebuilt-test-01.result.json)及[符号链接缺口首次失败](audit/symlink-gap-before-fix.result.json)保留；[北京时区参考和时间分歧](issues/clock-disagreement-and-r117.md)及 [r118 新观察与承接摘要的分歧](issues/continuation-date-disagreement-r118.md)；[重置保护](../ingest/angora-1__arena-01a0ce39__5acb613/96-entry-safety-privacy-reset/)。
+- [用户选择恢复研究](issues/continuation-resumes-research-r118.md)，不解除既有停项；本页变更前版本逐字节保存在 [`history/README-before-r118-7ce342a.md`](history/README-before-r118-7ce342a.md)。
 
 ## 诚实边界
 

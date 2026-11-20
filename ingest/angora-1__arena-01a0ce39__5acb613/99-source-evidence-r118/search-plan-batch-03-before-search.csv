@@ -1,0 +1,9 @@
+id,query,goal
+Q21,"""angoranetworks.com"" site:gov.tr -pdf",Institutional domain evidence
+Q22,"""Angora Networks"" ""2022"" ""fuar"" katılımcı -pdf",Dated organizer mention rather than product claims
+Q23,"""Angora Networks"" ""2023"" ""etkinlik"" üniversite -pdf",Dated public institution event
+Q24,"""Angora Networks"" ""Kırıkkale"" teknopark 2021 -pdf",Earlier park independent source
+Q25,"""Angora Networks"" ""Siber Güvenlik Kümelenmesi"" firma -pdf",Cluster membership listing cross-check
+Q26,"""Angora Networks"" ""2021"" fuar savunma sanayii -pdf",Independent early event discovery
+Q27,"""Angora Networks"" ""2025"" ""girişim"" site:timlegirisim.com -pdf",Direct program account
+Q28,"""Angora Networks"" ""2024"" ""Kırıkkale"" -pdf",Park provenance check

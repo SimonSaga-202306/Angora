@@ -1,0 +1,10 @@
+{
+  "query":"\"ANGORA NETWORKS\" site:immib.org.tr -pdf",
+  "depth":"1",
+  "status":"success",
+  "capture_note":"Search returned PDF snippets despite -pdf. Partial manual capture: apparent numeric identifiers removed pending field and privacy verification; not original PDF; pageAge is search metadata. PDFs not opened in this query.",
+  "results":[
+    {"description":"238 [number omitted] | ANGORA NETWORKS BILISIM TEKNOLOJI TICARET SANAYI A.S\n\nANADOLU BLV TİMKO-1 SİTESİNO:20 Z-1 ÇAMLICA 06200 YENİMAHALLE YENİMAHALLE\n\nANKARA\n\n(312) 2417747 | VAR | HAYIR","id":1,"pageAge":"Wednesday, April 23, 2025","title":"1/78 0","url":"https://immib.org.tr/download/5c0678af3865480d834f2497afbcc2be/EE%C4%B0B_GK_KATILMAYA_HA%C4%B0Z_F%C4%B0RMALAR.pdf"},
+    {"description":"230 [number omitted] | ANGORA NETWORKS BILISIM TEKNOLOJI TICARET SANAYI A.S\n\nANADOLU BLV TİMKO-1 SİTESİNO:20 Z-1 ÇAMLICA 06200 YENİMAHALLE YENİMAHALLE\n\nANKARA\n\n(312) 2417747 | VAR | HAYIR","id":2,"pageAge":"Sunday, April 28, 2024","title":"1/66 0","url":"https://immib.org.tr/download/0edbc54e9f2f4e7b8294f3110a1e7440/EE%C4%B0B_GK_KATILMAYA_HA%C4%B0Z_F%C4%B0RMALAR.pdf"}
+  ]
+}

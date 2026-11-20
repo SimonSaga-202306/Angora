@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "b4813182de4542f7bc8e77d5d98049bd",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:20:16.495776+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "manual_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-0.visible.manual.initial-version.md",
+  "supersedes_record_id": null,
+  "note": "P04 \u96f6\u5757\u521d\u7a3f\uff0c\u57ce\u5e02\u5b57\u6bb5\u6709\u5df2\u8bb0\u5f55\u7684\u4eba\u5de5\u9519\u8bef\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-0.visible.manual.initial-version.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P04/www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim/query-Page37-Grid/chunk-0.visible.manual.initial-version.md": {
+      "bytes": 8420,
+      "sha256": "9d8d237a266af0ecd483736770a5469db513409956b4825df4d9b8f835556371"
+    }
+  }
+}

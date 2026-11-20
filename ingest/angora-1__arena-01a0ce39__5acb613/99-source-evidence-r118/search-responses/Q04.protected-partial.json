@@ -1,0 +1,17 @@
+{
+  "query": "\"ANGORA NETWORKS BİLİŞİM\" \"sicil\"",
+  "depth": "1",
+  "status": "success",
+  "capture_note": "Partial manual capture, not the whole tool response: unrelated Result 2 contained financial figures and was not retained in full. Results 1 and 3 are manually transcribed and not protocol bytes. No links were opened.",
+  "results": [
+    {
+      "description": "# ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ\n## Firma Bilgileri\n- Ünvanı : ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ\n- Firma Türü : ANONİM ŞİRKET\n- Kuruluş Tarihi : 28 Kasım 2016 Pazartesi\n- Ticaret Odası : Üyeler Görebilir! - Sicil Numarası : Üyeler Görebilir!\n- NACE Kodu : 620902\n- İşletme Adresi : ALACAATLI MAH. PARK CAD. 47/31 YENİMAHALLE ANKARA TÜRKİYE\n- İlçe /İl : YENİMAHALLE / ANKARA ## Yasal Uyarı / Bildiri!\n**Bu işletme kaydı Find tarafından kamuya açık Ticaret Sicil kayıtlarına göre otomatik olarak oluşturulmuştur, ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ şirketi tarafından onaylanmamış veya ilişkilendirilmemiştir.** ## REKLAM\nBİLGİ TEKNOLOJİLERİ Meslek grubunda, ANKARA ili Bölgesinde Diğer bilgi teknolojisi ve bilgisayar hizmet faaliyetleri (kişisel bilgisayarların ve çevre birimlerinin kurulumu, yazılım kurma vb.) konularında hizmet vermektedir.",
+      "id": 1,
+      "pageAge": "Monday, November 28, 2016",
+      "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ",
+      "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi"
+    },
+    {"id":2,"title":"Bilgi Toplumu Hizmetleri","url":"https://angoratd.com/bilgi-toplumu-hizmetleri/","description":"[omitted: unrelated company's capital/audit excerpt]"},
+    {"id":3,"title":"Şirket Bilgileri","url":"https://www.angoraelektrik.com.tr/copy-of-kurumsal-y%C3%B6netim?lang=tr","description":"### Şirket Bilgileri\nTicaret Sicil Memurluğu ve No'su:      Ankara, 271277"}
+  ]
+}

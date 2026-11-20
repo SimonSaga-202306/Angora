@@ -1,0 +1,11 @@
+{
+  "query":"\"Angora Networks\" \"2023\" \"etkinlik\" üniversite -pdf",
+  "depth":"1",
+  "status":"success",
+  "capture_note":"Partial manual transcription; unique video meeting access URL in result 3 omitted for privacy/security. Event entries are organizer's advertised events, not proof of attendance; no registration attempted.",
+  "results":[
+    {"description":"## En son Etkinlikler\n### Angora Thince İnce İstemci Eğitimi\nOnline\n\nAngora Thince İnce İstemci ile ilgili detaylı bilgilerin paylaşılacağı Online etkinlik sadece Angora Kanal Ortaklarına açıktır.\n\nOca 11 2023\n\n11 Ocak 2023 @ 14:00 - 16:00 ### Angora Kanal Ortağı Satış Eğitimi\nOnline\n\nAngora ürünleri satışı hakkında detaylı bilgilerin paylaşılacağı Online etkinlik sadece Angora Kanal Ortaklarına açıktır. Eğitimi kaçırmamak için lütfen şimdi kayıt yaptırın. Kayıtlar 10 Ocak 2023'de kapanacaktır. […] Angora Thince İnce İstemci Eğitimi Angora Thince İnce İstemci Eğitimi Angora Thince İnce İstemci Eğitimi Angora Thince İnce İstemci Eğitimi","id":1,"title":"Etkinlikler from 12 Temmuz 2023","url":"https://www.angoranetworks.com/events/"},
+    {"description":"- Bu etkinlik geçti. # Angora Thince İnce İstemci Eğitimi\n## 12 Temmuz 2023 @ 14:00 - 16:00\nKayıtlar 13 Haziran 2023’de kapanacaktır. ## Detaylar\n\n**Tarih:**: 12 Temmuz 2023\n**Saat:**: 14:00 - 16:00","id":2,"pageAge":"Thursday, July 06, 2023","title":"Angora Thince İnce İstemci Eğitimi - Angora Networks","url":"https://www.angoranetworks.com/event/angora-thince-ince-istemci-egitimi/"},
+    {"description":"# Angora Kanal Ortağı Satış Eğitimi\n## Detaylar\n**Tarih:**: 11 Ocak 2023\n**Saat:**: 14:00 - 16:00\n**Etkinlik Kategori:**: Eğitim\n**Website:**: [unique meeting link omitted] ## Mekan\n\n## Organizatör\n\nAngora\n\nDestek","id":3,"pageAge":"Wednesday, January 04, 2023","title":"Angora Kanal Ortağı Satış Eğitimi - Angora Networks","url":"https://www.angoranetworks.com/event/angora-kanal-ortagi-satis-egitimi/"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "request_url": "https://www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim?Sorting=0&ViewType=Grid&Page=37",
+  "result_url": "https://www.find.com.tr/List/iletisim-cihazlari-ve-aksesuarlari-uretim?Sorting=0&ViewType=Grid&Page=37#gsc.tab=0",
+  "tool": "functions.fetch_page",
+  "status": "success",
+  "title": "Elektronik | İletişim Cihazları ve Aksesuarları Üretim Firma Rehberi",
+  "image_url": "https://www.find.com.tr/assets/images/Find-Big.png",
+  "reported_total_chunks": 3,
+  "requested_chunks": [0, 1, 2],
+  "manually_transcribed_chunks": [0, 1, 2],
+  "capture_method": "manual transcription of each tool-visible Markdown chunk, not original HTML or automatically compared protocol bytes",
+  "tool_call_actual_time": "unknown",
+  "limitations": "Chunk boundaries are not joined; responses for later chunks are separate calls on a potentially dynamic directory. The company list and company profile are the same publisher."
+}

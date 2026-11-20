@@ -1,0 +1,17 @@
+{
+  "request_url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi",
+  "result_url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi",
+  "tool": "functions.fetch_page",
+  "status": "success",
+  "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ KIRIKKALE ŞUBESİ | YAHŞİHAN / KIRIKKALE | ELEKTRONİK | ELEKTRONİK MALZEME - PARÇA | Find®",
+  "image_url": "https://www.find.com.tr/assets/images/NoLogo.jpg",
+  "reported_total_chunks": 2,
+  "requested_chunks": [0, 1],
+  "manually_transcribed_chunks": [0, 1],
+  "capture_method": "manual transcription of tool-visible Markdown, not the original HTML or automatically compared protocol bytes",
+  "page_self_described_formation_date": "2023-03-24",
+  "page_self_described_last_update": "2023-09-18 06:44:00",
+  "page_update_time_zone": "unknown; no Beijing conversion attempted",
+  "tool_call_actual_time": "unknown",
+  "limits": "Information explicitly marked unverified; Find says its automatically generated listing is not company-approved or linked and is not official documentary evidence. Identifying registration numbers hidden to members; no login or customer contact."
+}

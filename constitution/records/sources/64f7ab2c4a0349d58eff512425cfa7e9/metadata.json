@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "64f7ab2c4a0349d58eff512425cfa7e9",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:20:13.580092+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/time-reference/time.is/Beijing/query-angora-r118-reference/chunk-0.visible.manual.md",
+  "supersedes_record_id": null,
+  "note": "\u4e00\u6b21 time.is \u5de5\u5177\u53ef\u89c1\u6587\u5b57\u4eba\u5de5\u8f6c\u5b58\uff0c\u975e\u539f\u59cb HTML\uff0c\u771f\u5b9e\u8bf7\u6c42\u65f6\u523b\u672a\u77e5\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/time-reference/time.is/Beijing/query-angora-r118-reference/chunk-0.visible.manual.md",
+  "source_uri": "https://time.is/Beijing?view=angora-r118-reference",
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/time-reference/time.is/Beijing/query-angora-r118-reference/chunk-0.visible.manual.md": {
+      "bytes": 4602,
+      "sha256": "dd7efa73d367e7db2416c1124650275b798a6de8eee8b2eeaa934755639a0d02"
+    }
+  }
+}

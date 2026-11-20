@@ -1,0 +1,9 @@
+{
+  "query":"\"ANGORA NETWORKS\" \"TÜBİTAK\" \"teknokent\" -pdf",
+  "depth":"1",
+  "capture_note":"Manual transcription of tool-visible response; not protocol bytes or automatically compared. The result mentions other firms' funding; it is not evidence of Angora receiving funding.",
+  "results":[
+    {"description":"# Türkiye’de teknokentlerde hangi firmalar var\n**Türkiye Teknokent Rehberi**, şehir şehir hangi teknokentlerin bulunduğunu, bu teknokentlerde hangi firmaların yer aldığını ve firmaların ne iş yaptığını tek sayfada toplamayı hedefleyen kapsamlı bir rehberdir. Bu içerik, sadece teknokent isimlerini sıralamakla kalmaz; zamanla her şehir ve her teknopark için daha derin firma katmanı, resmi kaynaklar ve faaliyet özetleriyle genişler. ## İzmir\nŞirketimiz 2023 yılının Ocak ayında TUBİTAK 1512 desteği ile kurulmuştur. Firmamız Tübitak 1512 BİGG programı ile desteklenmiş bir biyoteknoloji ARGE firmasıdır. ## Kırıkkale\n- **Angora Networks Bilişim** — ağ ve bilişim altyapıları geliştiriyor.","id":1,"pageAge":"Tuesday, June 30, 2026","title":"Türkiye’de teknokentlerde hangi firmalar var • Girisimin","url":"https://girisimin.com/2026/04/28/turkiyedeki-teknokentler-rehberi"}
+  ],
+  "status":"success"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "63076592a1be41c5bda334ef8c000112",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T20:20:16.799312+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P05/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi/chunk-1.visible.manual.md",
+  "supersedes_record_id": null,
+  "note": "Find \u5206\u652f\u5019\u9009\u9875\u72ec\u7acb\u54cd\u5e94\u5757\uff0c\u4eba\u5de5\u8f6c\u5b58\uff1b\u975e\u5de5\u5546\u539f\u8bc1\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P05/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi/chunk-1.visible.manual.md",
+  "source_uri": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi",
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P05/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi/chunk-1.visible.manual.md": {
+      "bytes": 1581,
+      "sha256": "69ec1f35d03155a1acd7be9d208c59177d4de9baef723ea116b4d271a9cdff6e"
+    }
+  }
+}

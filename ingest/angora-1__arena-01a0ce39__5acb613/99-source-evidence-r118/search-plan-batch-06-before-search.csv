@@ -1,0 +1,7 @@
+id,query,goal
+Q41,"""ANGORA NETWORKS"" ""KIRIKKALE ŞUBESİ"" ""24"" ""2023"" -pdf",Check claimed branch date against other publication
+Q42,"""ANGORA NETWORKS"" ""KIRIKKALE ŞUBESİ"" ""2023"" -pdf",Find independent historical branch
+Q43,"""ANGORA NETWORKS"" ""KIRIKKALE ŞUBESİ"" site:ticaretsicil.gov.tr",Find official trade registry evidence
+Q44,"""ANGORA NETWORKS"" ""ULUBATLI"" ""2023"" -pdf",Distinguish branch from park generic footer
+Q45,"""angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi""",Find profile itself or archive index
+Q46,"""Angora Networks"" Kırıkkale Şubesi ""24"" ""Mart"" -pdf",Seek independent confirmation not merchant directory copies
