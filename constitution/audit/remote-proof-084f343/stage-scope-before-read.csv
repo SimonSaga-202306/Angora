@@ -1,0 +1,14 @@
+path,listed_bytes
+constitution/audit/remote-proof-084f343/ls-remote.stderr.bin,0
+constitution/audit/remote-proof-084f343/ls-remote.stdout.bin,74
+constitution/audit/remote-proof-084f343/plan-before-verification.md,548
+constitution/audit/remote-proof-084f343/result.json,417
+constitution/audit/remote-proof-084f343/snapshot-03-verify.stderr.bin,0
+constitution/audit/remote-proof-084f343/snapshot-03-verify.stdout.bin,379
+constitution/audit/remote-proof-084f343/snapshot-03.stderr.bin,0
+constitution/audit/remote-proof-084f343/snapshot-03.stdout.bin,211
+constitution/audit/remote-proof-084f343/stage-plan-before-stage.md,474
+constitution/records/events/8f201c40367c4265b3a158921087fc12/event.bin,417
+constitution/records/events/8f201c40367c4265b3a158921087fc12/metadata.json,1052
+constitution/snapshots/76e905ae667c4ffe823c2eaab23a1b1e/manifest.json,26711
+constitution/snapshots/76e905ae667c4ffe823c2eaab23a1b1e/scope.json,19668

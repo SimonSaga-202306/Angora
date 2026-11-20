@@ -1,0 +1,10 @@
+{
+  "local_head": "084f34350bf7fee80e845fabc7344f4a050ed83a",
+  "remote_head": "084f34350bf7fee80e845fabc7344f4a050ed83a",
+  "remote_ref": "refs/heads/arena/5da004bd-angora",
+  "exit_code": 0,
+  "matches": true,
+  "elapsed_monotonic_seconds_same_process": 0.36721,
+  "observed_at_beijing_unverified": "2026-11-20T16:38:15.325197+08:00",
+  "limitation": "one remote-ref observation; does not guarantee future state"
+}

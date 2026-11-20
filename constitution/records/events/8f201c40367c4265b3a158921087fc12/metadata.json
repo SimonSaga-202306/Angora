@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "8f201c40367c4265b3a158921087fc12",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T16:38:15.415109+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/audit/remote-proof-084f343/result.json",
+  "supersedes_record_id": null,
+  "note": "\u72ec\u7acb\u8bb0\u5f55\u5b9e\u73b0\u63d0\u4ea4\u7684\u8fdc\u7aef\u5f15\u7528\u6838\u5bf9\u7ed3\u679c\uff1b\u8fd9\u662f\u5355\u6b21\u89c2\u5bdf\uff0c\u4e0d\u4ee3\u8868\u672a\u6765\u4e0d\u4f1a\u53d8\u5316\u3002",
+  "event_kind": "remote_verification",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 417,
+      "sha256": "e5389d242ec4d0db97c9a4b97113337dcb4a79e81f46850ed5f3388c753b363d"
+    }
+  }
+}
