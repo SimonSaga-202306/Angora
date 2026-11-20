@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "3cd2f895994145049cf74d60e17fcc93",
+  "type": "message",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-20T19:46:46.136997+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "manual_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/inbox/assistant-messages/continue-question-0002.txt",
+  "supersedes_record_id": null,
+  "note": "\u62df\u5448\u73b0\u7684\u4e00\u4e2a\u6f84\u6e05\u95ee\u9898\u53ca\u9009\u9879\uff1b\u5177\u4f53\u5c55\u793a\u683c\u5f0f\u548c\u771f\u5b9e\u63d0\u95ee\u65f6\u95f4\u672a\u77e5\u3002",
+  "role": "assistant",
+  "outcome": "copied",
+  "files": {
+    "message.bin": {
+      "bytes": 319,
+      "sha256": "27c2ea1a92764c48efb172b86b3fc4b5820a94baa6608b8f23ec9dcbb5b685f0"
+    }
+  }
+}

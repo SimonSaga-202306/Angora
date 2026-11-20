@@ -1,0 +1,13 @@
+{
+  "outcome": "ok",
+  "records_checked": 67,
+  "payload_files_checked": 68,
+  "records_with_logged_failures": 1,
+  "snapshot": {
+    "id": "885df9562c9240af85e2abd2faaf5964",
+    "baseline_files": 135,
+    "new_files_since_snapshot": []
+  },
+  "errors": [],
+  "limitation": "hashes check local bytes, not truth or completeness; pin snapshots in Git or another trusted system"
+}

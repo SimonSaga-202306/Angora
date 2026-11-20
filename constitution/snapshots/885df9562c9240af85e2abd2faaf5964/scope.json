@@ -1,0 +1,683 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "885df9562c9240af85e2abd2faaf5964",
+  "listed_at_beijing_unverified": "2026-11-20T19:47:00.861448+08:00",
+  "clock_provenance": "system wall clock, synchronization unverified",
+  "files": [
+    {
+      "path": "records/crawls/3b2f59532fea43139f247b332edfdc60/failure.txt",
+      "listed_bytes": 98,
+      "kind": "file"
+    },
+    {
+      "path": "records/crawls/3b2f59532fea43139f247b332edfdc60/metadata.json",
+      "listed_bytes": 1535,
+      "kind": "file"
+    },
+    {
+      "path": "records/crawls/3b2f59532fea43139f247b332edfdc60/response-headers.json",
+      "listed_bytes": 142,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/0f3387c974824208af333ca9c85fa898/event.bin",
+      "listed_bytes": 440,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/0f3387c974824208af333ca9c85fa898/metadata.json",
+      "listed_bytes": 893,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/26cdc49dfb7d4d179f06c0f2f462987e/event.bin",
+      "listed_bytes": 729,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/26cdc49dfb7d4d179f06c0f2f462987e/metadata.json",
+      "listed_bytes": 899,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/2deba16fd9c0431f93bf83505c678d2f/event.bin",
+      "listed_bytes": 1321,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/2deba16fd9c0431f93bf83505c678d2f/metadata.json",
+      "listed_bytes": 1008,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/397d1be19e5049198757d34c73331af6/event.bin",
+      "listed_bytes": 856,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/397d1be19e5049198757d34c73331af6/metadata.json",
+      "listed_bytes": 968,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/576d8adb921e4f81b635346fc2c45f39/event.bin",
+      "listed_bytes": 1239,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/576d8adb921e4f81b635346fc2c45f39/metadata.json",
+      "listed_bytes": 889,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/5bb7a63b4d4b4b7c848e761f40d16c11/event.bin",
+      "listed_bytes": 664,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/5bb7a63b4d4b4b7c848e761f40d16c11/metadata.json",
+      "listed_bytes": 922,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/6187bfa66cb64e12b33f7ae4ce0a5c16/event.bin",
+      "listed_bytes": 1339,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/6187bfa66cb64e12b33f7ae4ce0a5c16/metadata.json",
+      "listed_bytes": 984,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7652dac4ce324a1195b10754309ff9b1/event.bin",
+      "listed_bytes": 830,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/7652dac4ce324a1195b10754309ff9b1/metadata.json",
+      "listed_bytes": 909,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/8f201c40367c4265b3a158921087fc12/event.bin",
+      "listed_bytes": 417,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/8f201c40367c4265b3a158921087fc12/metadata.json",
+      "listed_bytes": 1052,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/aac96b9514c545b7ad7c52692d5260cc/event.bin",
+      "listed_bytes": 1339,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/aac96b9514c545b7ad7c52692d5260cc/metadata.json",
+      "listed_bytes": 914,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/ac1621c60e664e23a0e5941e1ac8c1c2/event.bin",
+      "listed_bytes": 972,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/ac1621c60e664e23a0e5941e1ac8c1c2/metadata.json",
+      "listed_bytes": 912,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/b743d8d59e654df38fc61f9097b767b4/event.bin",
+      "listed_bytes": 697,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/b743d8d59e654df38fc61f9097b767b4/metadata.json",
+      "listed_bytes": 904,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/f7c9f6431366418ab3c0003f80a8f6f2/event.bin",
+      "listed_bytes": 1528,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/f7c9f6431366418ab3c0003f80a8f6f2/metadata.json",
+      "listed_bytes": 972,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/fa5ec7fb42fd4f90a80b5a2f0f8483d4/event.bin",
+      "listed_bytes": 720,
+      "kind": "file"
+    },
+    {
+      "path": "records/events/fa5ec7fb42fd4f90a80b5a2f0f8483d4/metadata.json",
+      "listed_bytes": 1004,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/2af960438afe4af897259cf1fe9b422a/message.bin",
+      "listed_bytes": 111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/2af960438afe4af897259cf1fe9b422a/metadata.json",
+      "listed_bytes": 1042,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/3cd2f895994145049cf74d60e17fcc93/message.bin",
+      "listed_bytes": 319,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/3cd2f895994145049cf74d60e17fcc93/metadata.json",
+      "listed_bytes": 1030,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/696fad73d6dd4a219dad2aa8bdcfc6f7/message.bin",
+      "listed_bytes": 190,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/696fad73d6dd4a219dad2aa8bdcfc6f7/metadata.json",
+      "listed_bytes": 991,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/6ae48f40b2054cdaa97b59a8c93cfb14/message.bin",
+      "listed_bytes": 6,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/6ae48f40b2054cdaa97b59a8c93cfb14/metadata.json",
+      "listed_bytes": 1043,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7d0dcb0fdcce4f23a694919476f1a6ba/message.bin",
+      "listed_bytes": 174,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7d0dcb0fdcce4f23a694919476f1a6ba/metadata.json",
+      "listed_bytes": 1114,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7eae0be08c5845d2911ecccd3d0f54df/message.bin",
+      "listed_bytes": 669,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7eae0be08c5845d2911ecccd3d0f54df/metadata.json",
+      "listed_bytes": 1119,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7fe291c9d0024cc6aa02431ca854f3ce/message.bin",
+      "listed_bytes": 275,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/7fe291c9d0024cc6aa02431ca854f3ce/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a385a8d924f043c58f4090ac0d2399c3/message.bin",
+      "listed_bytes": 227,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a385a8d924f043c58f4090ac0d2399c3/metadata.json",
+      "listed_bytes": 1117,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a90c5e540f7345809fc1093f9b621cbf/message.bin",
+      "listed_bytes": 300,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/a90c5e540f7345809fc1093f9b621cbf/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/ab80aabf6aff4c57acbac8b2cf0654e0/message.bin",
+      "listed_bytes": 264,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/ab80aabf6aff4c57acbac8b2cf0654e0/metadata.json",
+      "listed_bytes": 1117,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/c58d945833dc490ab9716a2b7b18088b/message.bin",
+      "listed_bytes": 1300,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/c58d945833dc490ab9716a2b7b18088b/metadata.json",
+      "listed_bytes": 1114,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/d95b754961bd44889983e12d84bf0bf0/message.bin",
+      "listed_bytes": 548,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/d95b754961bd44889983e12d84bf0bf0/metadata.json",
+      "listed_bytes": 1094,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/e8cbe55b4f8c4215a794a0512513cf31/message.bin",
+      "listed_bytes": 575,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/e8cbe55b4f8c4215a794a0512513cf31/metadata.json",
+      "listed_bytes": 1106,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/f6f8315353d94c039590865f8748f7d3/message.bin",
+      "listed_bytes": 231,
+      "kind": "file"
+    },
+    {
+      "path": "records/messages/f6f8315353d94c039590865f8748f7d3/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/0862a822b8e64b34a4a94e4c070a0166/files/AGENTS.md",
+      "listed_bytes": 2682,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/0862a822b8e64b34a4a94e4c070a0166/metadata.json",
+      "listed_bytes": 946,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/137ffe02cc82497f8634ee45a0ad4dd9/files/constitution/README.md",
+      "listed_bytes": 2480,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/137ffe02cc82497f8634ee45a0ad4dd9/metadata.json",
+      "listed_bytes": 1017,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/16b3f2b48a374ecaa4a1ff181b739e0d/files/constitution/audit/symlink-gap-before-fix.result.json",
+      "listed_bytes": 183,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/16b3f2b48a374ecaa4a1ff181b739e0d/metadata.json",
+      "listed_bytes": 1126,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/17b7a3d25d404dad975b8069ce3f8660/files/constitution/audit/rebuilt-test-02.result.json",
+      "listed_bytes": 310,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/17b7a3d25d404dad975b8069ce3f8660/metadata.json",
+      "listed_bytes": 1105,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/2a4108bfbbf34a89b1e03bdb85d50224/files/constitution/README.md",
+      "listed_bytes": 920,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/2a4108bfbbf34a89b1e03bdb85d50224/metadata.json",
+      "listed_bytes": 1011,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/36bc8ff0666946d2a0547625394f6ed7/files/constitution/evidence/github/pre-reset-query-success.tool-visible.json",
+      "listed_bytes": 256,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/36bc8ff0666946d2a0547625394f6ed7/metadata.json",
+      "listed_bytes": 1207,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d4f71a426c8453d9ab8adb476ca226c/files/constitution/rules/01-no-merging.md",
+      "listed_bytes": 1149,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/3d4f71a426c8453d9ab8adb476ca226c/metadata.json",
+      "listed_bytes": 1054,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4c8c7807152c44d08f15e16a6797d963/files/constitution/policies/preexisting-boundaries.md",
+      "listed_bytes": 1788,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4c8c7807152c44d08f15e16a6797d963/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4d902dafa3894a2f8a77495014366c3f/files/constitution/policies/publication-consent.md",
+      "listed_bytes": 1302,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/4d902dafa3894a2f8a77495014366c3f/metadata.json",
+      "listed_bytes": 1173,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/536e522a2a8f4ad0a42e5d855334e37d/files/constitution/evidence/time-is/pre-reset-observation-02.md",
+      "listed_bytes": 502,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/536e522a2a8f4ad0a42e5d855334e37d/metadata.json",
+      "listed_bytes": 1168,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/53e59971d97949fd9cf80402814d3c75/files/constitution/evidence/time-is/fetch-page-before-observation.json",
+      "listed_bytes": 246,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/53e59971d97949fd9cf80402814d3c75/metadata.json",
+      "listed_bytes": 1140,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/56d21ee762ed4a9e8a0f1daaf6927439/files/constitution/evidence/time-is/direct-after-reset.stderr.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/56d21ee762ed4a9e8a0f1daaf6927439/metadata.json",
+      "listed_bytes": 1123,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5b786114651d44c495ca6c6b532f6543/files/constitution/audit/symlink-gap-before-fix.stderr.bin",
+      "listed_bytes": 3446,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/5b786114651d44c495ca6c6b532f6543/metadata.json",
+      "listed_bytes": 1124,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6872075e2eef463f86137d075a82bf02/files/constitution/README.md",
+      "listed_bytes": 2341,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/6872075e2eef463f86137d075a82bf02/metadata.json",
+      "listed_bytes": 1015,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/70fe7f56d1b949ebae67ec7ba5fe8895/files/constitution/evidence/github/recheck.stderr.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/70fe7f56d1b949ebae67ec7ba5fe8895/metadata.json",
+      "listed_bytes": 1087,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/772d786bd6174144a05fd3053b09e251/files/constitution/evidence/time-is/fetch-page-post-reset/response-metadata.tool-visible-transcription.json",
+      "listed_bytes": 420,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/772d786bd6174144a05fd3053b09e251/metadata.json",
+      "listed_bytes": 1300,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/80da1b86ba2b4a2a99833579b9e63f92/files/constitution/evidence/time-is/fetch-page-post-reset/chunk-0.tool-visible-transcription.md",
+      "listed_bytes": 4615,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/80da1b86ba2b4a2a99833579b9e63f92/metadata.json",
+      "listed_bytes": 1265,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8aebb79700174d0b9b52c9fe7eb36d2c/files/constitution/rules/02-message-time-version.md",
+      "listed_bytes": 1606,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8aebb79700174d0b9b52c9fe7eb36d2c/metadata.json",
+      "listed_bytes": 1084,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8bbba5baef5249568dbe0c1134f672cc/files/tools/constitution_ledger.py",
+      "listed_bytes": 30163,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8bbba5baef5249568dbe0c1134f672cc/metadata.json",
+      "listed_bytes": 1080,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8dd37bb219b448caaf50ed98b68b90ea/files/constitution/evidence/github/recheck.result.json",
+      "listed_bytes": 147,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/8dd37bb219b448caaf50ed98b68b90ea/metadata.json",
+      "listed_bytes": 1092,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/939b747fb3294a24b9e10b4a41846d46/files/constitution/evidence/time-is/direct-after-reset.stdout.bin",
+      "listed_bytes": 206,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/939b747fb3294a24b9e10b4a41846d46/metadata.json",
+      "listed_bytes": 1125,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ba15ab53b884baea08d3237fa2eeb1d/files/constitution/rules/06-complex-work.md",
+      "listed_bytes": 1076,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/9ba15ab53b884baea08d3237fa2eeb1d/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a0148aab351e4d7b9e037a5ca07c3d8b/files/constitution/evidence/time-is/fetch-page-after-observation.json",
+      "listed_bytes": 247,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a0148aab351e4d7b9e037a5ca07c3d8b/metadata.json",
+      "listed_bytes": 1137,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a65ca1a9af864fa7916d4888992d8805/files/constitution/audit/rebuilt-test-02.stderr.bin",
+      "listed_bytes": 3995,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a65ca1a9af864fa7916d4888992d8805/metadata.json",
+      "listed_bytes": 1103,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a820a9656d394a94a460daea1ce6ac62/files/constitution/audit/symlink-gap-before-fix.stdout.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a820a9656d394a94a460daea1ce6ac62/metadata.json",
+      "listed_bytes": 1121,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a96458afec4344d198bec245fc757d65/files/tools/constitution_ledger.py",
+      "listed_bytes": 30597,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/a96458afec4344d198bec245fc757d65/metadata.json",
+      "listed_bytes": 1083,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ac58cb1742c94f3b81ff765e7d2f6df4/files/constitution/OPERATING-GUIDE.md",
+      "listed_bytes": 6228,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/ac58cb1742c94f3b81ff765e7d2f6df4/metadata.json",
+      "listed_bytes": 1012,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9ad383b2fb84c3996856cf88d52d879/files/constitution/evidence/github/pre-reset-query-failure.tool-visible.stderr.txt",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9ad383b2fb84c3996856cf88d52d879/metadata.json",
+      "listed_bytes": 1226,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9cca2dfcfdc49b89ecd13797ff63fe8/files/tools/test_constitution_ledger.py",
+      "listed_bytes": 20297,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/b9cca2dfcfdc49b89ecd13797ff63fe8/metadata.json",
+      "listed_bytes": 1098,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/bd948187a98844faaf47ab6df71fea27/files/constitution/evidence/github/recheck.stdout.bin",
+      "listed_bytes": 113,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/bd948187a98844faaf47ab6df71fea27/metadata.json",
+      "listed_bytes": 1089,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c28a8f1e328a463f834fe5b63927b519/files/constitution/audit/rebuilt-test-02.stdout.bin",
+      "listed_bytes": 0,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c28a8f1e328a463f834fe5b63927b519/metadata.json",
+      "listed_bytes": 1100,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c8e3db1b4f864bd1a914a8a191a0eb44/files/constitution/evidence/time-is/pre-reset-observation-01.md",
+      "listed_bytes": 692,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/c8e3db1b4f864bd1a914a8a191a0eb44/metadata.json",
+      "listed_bytes": 1168,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cc95c7334e514b74804f1fa25f6765a7/files/constitution/rules/04-sources-and-failures.md",
+      "listed_bytes": 1919,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cc95c7334e514b74804f1fa25f6765a7/metadata.json",
+      "listed_bytes": 1084,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cf0c91cf23ce4d50aa0691d9dd3549b3/files/constitution/evidence/time-is/direct-after-reset.result.json",
+      "listed_bytes": 147,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/cf0c91cf23ce4d50aa0691d9dd3549b3/metadata.json",
+      "listed_bytes": 1128,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8cb28357f4b4a9a9d92ecb4abda71c3/files/tools/test_constitution_ledger.py",
+      "listed_bytes": 19151,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8cb28357f4b4a9a9d92ecb4abda71c3/metadata.json",
+      "listed_bytes": 1095,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8ef6c887b17404c8f4bc73d76bd85ee/files/constitution/rules/05-sandbox-recovery.md",
+      "listed_bytes": 1262,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/d8ef6c887b17404c8f4bc73d76bd85ee/metadata.json",
+      "listed_bytes": 1072,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbb0d0969d124cd7b1ed07c2a2dbcfd5/files/constitution/rules/03-verification.md",
+      "listed_bytes": 1209,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbb0d0969d124cd7b1ed07c2a2dbcfd5/metadata.json",
+      "listed_bytes": 1060,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbfbba1785064393b83a78c1a35b0586/files/constitution/policies/publication-consent.md",
+      "listed_bytes": 1686,
+      "kind": "file"
+    },
+    {
+      "path": "records/sources/dbfbba1785064393b83a78c1a35b0586/metadata.json",
+      "listed_bytes": 1111,
+      "kind": "file"
+    }
+  ]
+}
