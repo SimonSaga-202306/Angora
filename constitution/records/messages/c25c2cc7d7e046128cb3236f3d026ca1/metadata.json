@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "c25c2cc7d7e046128cb3236f3d026ca1",
+  "type": "message",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:07:57.952778+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "platform_visible_copy",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/inbox/user-messages/r119-user-continue-0001.txt",
+  "supersedes_record_id": null,
+  "note": "\u5355\u6761\u8bb0\u5f55\uff1b\u5b9e\u9645\u6536\u53d1\u6216\u4e8b\u4ef6\u53d1\u751f\u65f6\u95f4\u672a\u77e5\uff0c\u4e0d\u7528\u4e3b\u673a\u5899\u949f\u4ee3\u586b\u3002",
+  "role": "user",
+  "outcome": "copied",
+  "files": {
+    "message.bin": {
+      "bytes": 12,
+      "sha256": "47df457a9d5be85617facad8f2945f0273c0149e1ce45f22799d7430b250493f"
+    }
+  }
+}

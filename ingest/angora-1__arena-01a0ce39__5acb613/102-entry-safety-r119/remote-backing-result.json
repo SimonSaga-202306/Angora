@@ -1,0 +1,10 @@
+{
+  "remote_ref": "FETCH_HEAD",
+  "remote_commit": "bda048da28ec70ec95885baab555695c967e61ef",
+  "original_paths": 868,
+  "checked_byte_equal": 868,
+  "same_path": 836,
+  "other_path": 32,
+  "failures": [],
+  "limitation": "Other-path exact backups are not silently merged or deleted; their locations are listed individually. New safety files excluded from comparison."
+}

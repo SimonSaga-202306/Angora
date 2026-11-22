@@ -1,0 +1,11 @@
+{
+  "stash_commit": "7bcc3b9b59d6fe7bda6d2744242ceea1dc6c914f",
+  "third_parent": "1e794196a7bbd891842fcabc1432af64d8d3f14c",
+  "expected_paths": 868,
+  "stash_untracked_paths": 868,
+  "matching_blobs": 868,
+  "missing": [],
+  "unexpected": [],
+  "different": [],
+  "stash_popped_or_dropped": false
+}
