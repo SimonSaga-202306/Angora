@@ -1,0 +1,15 @@
+{
+  "id": "Q01",
+  "query": "\"ANGORA NETWORKS BİLİŞİM TEKNOLOJİ\" \"ticaret sicil\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要，非完整响应或原始协议字节；不保留无关个人／联系方式或贸易数据。",
+  "retained_results": [
+    {"result_id": 1, "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ", "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi", "snippet_selected": "Firma Türü : ANONİM ŞİRKET; Kuruluş Tarihi : 28 Kasım 2016 Pazartesi; Ticaret Odası : Üyeler Görebilir! - Sicil Numarası : Üyeler Görebilir!; 条目称由 Find 自动生成、企业未经批准或关联。", "search_pageAge": "Monday, November 28, 2016", "limits": "非官方记录；搜索 pageAge 不等于页面当年存在；旧 r111 已留目标目录页。"},
+    {"result_id": 2, "title_summary": "目标同名商业目录", "url": "https://www.tikla.com.tr/angora-networks-bilisim-teknoloji-ticaret-sanayi-anonim-sirketi.html", "limits": "目录摘要不是注册公报；未转载联系方式。"}
+  ],
+  "omitted_result_ids": [3, 4, 5],
+  "omission_reason": "贸易数据属本轮停项或无关，近名其他企业不作为目标来源。"
+}

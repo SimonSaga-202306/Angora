@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "87e9cbd5e5294e0cb9215d587912435c",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:25.078199+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r119-appendix.md",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; byte-for-byte pre-v3 backup; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r119-appendix.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-dossier-2026-10-21.r119-appendix.md": {
+      "bytes": 3284,
+      "sha256": "7ab7affcafa49add730852e897fa171d5624c18bc469516c6384c5661f16e6d2"
+    }
+  }
+}

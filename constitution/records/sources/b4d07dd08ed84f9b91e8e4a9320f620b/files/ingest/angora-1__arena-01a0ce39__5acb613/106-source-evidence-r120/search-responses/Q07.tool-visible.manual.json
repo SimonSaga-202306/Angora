@@ -1,0 +1,10 @@
+{
+  "id": "Q07",
+  "query": "site:turkpatent.gov.tr \"ANGORA NETWORKS\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 0,
+  "results": [],
+  "limits": "仅此公开搜索无结果；不证明官方商标记录或权利不存在，也未查询登录数据库。人工转存非原始协议字节。"
+}

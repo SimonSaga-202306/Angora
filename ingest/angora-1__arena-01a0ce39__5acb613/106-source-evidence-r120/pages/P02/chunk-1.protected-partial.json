@@ -1,0 +1,15 @@
+{
+  "request_id": "P02-c1",
+  "url": "https://www.atonet.org.tr/KomiteListe?komiteKodu=8",
+  "requested_chunk": 1,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Ankara Ticaret Odası Web Portali",
+  "tool_total_chunks": 2,
+  "tool_has_more": false,
+  "visible_heading": "8. KOMİTE LİSTESİ",
+  "visible_table_columns": ["Sıra", "Ticaret Sicil No", "Unvan", "Adres", "Firma Tel"],
+  "visible_summary": "6.695 kayıttan 1 - 20 arasındaki kayıtlar gösteriliyor; <<12345…335>>",
+  "observations": ["此块表格显示序号 1–20；人工目视未见 Angora Networks。", "该页文字称共 6,695 条且分页至 335；仅看见第一页 20 行，工具 hasMore=false 不等于网站全部 335 页已检索。", "没有输入条件、点击分页或下载整表；尚不知目标是否属于第 8 委员会。"],
+  "limits": "目标未取得；未保存其他企业／个人的名称、登记号、地址、电话和动态链接；人工保护性观察非原始 HTML，各块为独立请求。"
+}

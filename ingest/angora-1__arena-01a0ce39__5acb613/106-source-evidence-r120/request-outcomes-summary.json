@@ -1,0 +1,10 @@
+{
+  "total_requests": 48,
+  "web_search": 32,
+  "web_search_zero_results": 9,
+  "fetch_page": 8,
+  "fetch_page_archive_index": 4,
+  "fetch_page_archive_replay": 4,
+  "errors": 0,
+  "limits": "Request counts represent separate tool invocations saved as manual protected excerpts or tool-visible transcriptions, NOT independent legal-entity sources or raw HTTP bytes."
+}

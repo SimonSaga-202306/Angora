@@ -1,0 +1,14 @@
+{
+  "id": "Q08",
+  "query": "site:gov.tr \"ANGORA NETWORKS BİLİŞİM\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要，非完整响应或原文。",
+  "retained_results": [
+    {"result_id": 1, "title": "ANGORA TEKNOLOJİ ÇÖZÜMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ", "url": "https://akillisehirekosistem.csb.gov.tr/ActorBank/Detail?mId=360030003300", "snippet_selected": "ANGORA TEKNOLOJİ ÇÖZÜMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ; http://www.angoratech.com", "limits": "近名并非查询中的完整目标名称；r119 对该详情请求返回 HTTP 500，现仍只有搜索摘要，不能证明与 Angora Networks 有或无关联。"}
+  ],
+  "omitted_result_ids": [2, 3, 4, 5],
+  "omission_reason": "一般性 PDF 摘要未显示目标名称；未下载或视为目标记录。"
+}

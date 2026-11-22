@@ -1,0 +1,15 @@
+{
+  "id": "Q06",
+  "query": "\"ANGORA NETWORKS\" \"28.11.2016\" \"ticaret\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要，非完整响应；不转存人员、联系方式和商业分析数据。",
+  "retained_results": [
+    {"result_id": 1, "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ", "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi", "snippet_selected": "Kuruluş Tarihi : 28 Kasım 2016 Pazartesi；Sicil Numarası : Üyeler Görebilir!", "limits": "与 Q01/Q02 同一目录；不是独立原公告。"},
+    {"result_id": 3, "title": "Network teknolojileri alanında: ANGORA NETWORKS- Levent Kılıç - YouTube", "url": "https://www.youtube.com/watch?v=yveHNxOXD3g", "search_pageAge": "Monday, October 12, 2020", "snippet_selected": "摘要称 2016 年成立。", "limits": "只可定位 2016 年的公开视频描述或摘要，不是 11-28 登记原证；r117 视频未取得完整原音。"}
+  ],
+  "omitted_result_ids": [2, 4, 5],
+  "omission_reason": "商业画像／联系方式不是请求的公开商事原公告；不再扩散相关敏感信息。"
+}

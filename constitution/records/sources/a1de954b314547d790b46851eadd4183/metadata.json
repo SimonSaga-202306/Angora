@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "a1de954b314547d790b46851eadd4183",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:55:00.712355+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/drafts/r119-final-0006.unsent.txt",
+  "supersedes_record_id": null,
+  "note": "\u672a\u53d1\u51fa\u8349\u7a3f\uff1b\u539f inbox \u8def\u5f84\u79fb\u52a8\u524d\u540e\u5b57\u8282\u76f8\u540c\uff0c\u4e0d\u662f\u6d88\u606f\u8bb0\u5f55\u3002",
+  "original_relative_path": "constitution/drafts/r119-final-0006.unsent.txt",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/drafts/r119-final-0006.unsent.txt": {
+      "bytes": 1455,
+      "sha256": "9c8d4b5c149e1a52d62c4251ff613ebb8019adbd19f113c7362d3cfee322a3f4"
+    }
+  }
+}

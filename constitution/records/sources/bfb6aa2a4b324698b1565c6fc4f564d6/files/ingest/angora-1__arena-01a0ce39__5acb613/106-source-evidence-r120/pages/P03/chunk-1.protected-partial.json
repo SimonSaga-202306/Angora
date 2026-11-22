@@ -1,0 +1,13 @@
+{
+  "request_id": "P03-c1",
+  "url": "https://www.atonet.org.tr/ticaret-noktas%C4%B1/%C3%BCye-bilgileri",
+  "requested_chunk": 1,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Ankara Ticaret Odası Web Portali",
+  "tool_total_chunks": 2,
+  "tool_has_more": false,
+  "excerpt": "Üye Bilgileri; Üye bilgilerine buradan ulaşabilirsiniz.",
+  "link_observation": "该说明中的链接指向 portal.atonet.org.tr 的一个以 /login.htm 结尾的路径；未点击、登录或提交查询，完整动态路径不保存。",
+  "limits": "说明页不是目标企业记录，也不能证明其他公开的查询路径均需登录；人工保护性摘录，非原始 HTML。"
+}

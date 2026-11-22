@@ -1,0 +1,15 @@
+{
+  "id": "Q17",
+  "query": "\"Ankara Ticaret Odası\" \"firma sorgulama\" \"unvan\" \"sicil\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "工具可见结果的手工保护性摘要，不是完整响应；不保留无关个人、地址或联系方式。",
+  "retained_results": [
+    {"result_id": 1, "title": "Şirket, Firma Sorgulama İşlemi Nasıl Yapılır? - Newbilgi.com", "url": "https://newbilgi.com/sirket-firma-sorgulama-islemi-nasil-yapilir/", "limits": "第三方一般查询指南称 ATO 有会员查询，但未证明当前可匿名使用或有目标记录；未访问该页。"},
+    {"result_id": 5, "title": "ANKARA Ticaret Sicili Müdürlüğü'ne", "url": "https://atonet.org.tr/Uploads/Birimler/Internet/Ticaret%20Sicil%20M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC/%C5%9Eirket%20Evraklar%C4%B1/Dilekce_Belge.pdf", "limits": "官方一般申请表搜索摘要，不是目标记录；PDF 未下载或提交。"}
+  ],
+  "omitted_result_ids": [2, 3, 4],
+  "omission_reason": "无关示例／旧论坛／不同组织，不适合据此判定当前查询权限。"
+}

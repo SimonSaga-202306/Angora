@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "9e13d9605bf5478a9a2bdb84b66d3f4e",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:36.757625+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q01.protected-partial.json",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; r120 search protected partial or zero-result transcription; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q01.protected-partial.json",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q01.protected-partial.json": {
+      "bytes": 1340,
+      "sha256": "41c100d145ca7f9fbebe41e412cbde336f187bc453612814c2ccb89e4bd76fe7"
+    }
+  }
+}

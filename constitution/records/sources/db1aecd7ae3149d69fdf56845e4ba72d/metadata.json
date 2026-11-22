@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "db1aecd7ae3149d69fdf56845e4ba72d",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:28.937508+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/ato-chunk-plan-after-head-before-more.md",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; r120 plan, deliverable, validation or v3 correction file; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/ato-chunk-plan-after-head-before-more.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/ato-chunk-plan-after-head-before-more.md": {
+      "bytes": 856,
+      "sha256": "53d135c36acee9856053f7241fd72fcd3648368c5ba968c3c35d3083804e7b95"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q27",
+  "query": "site:angoranetworks.com \"ünvan\" \"gizlilik\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 3,
+  "capture": "工具可见结果的手工保护性摘要，非完整响应。",
+  "retained_results": [
+    {"result_id": 1, "title": "Privacy Policy - Angora Networks", "url": "https://www.angoranetworks.com/privacy-policy/?lang=en", "snippet_selected": "搜索摘要的同一隐私说明先称 Angora Networks Bilişim Teknolojileri A.Ş. 为数据责任人，另处写 ANGORA NETWORKS BİLİŞİM TEKNOLOJİ A.Ş。", "search_pageAge": "Sunday, May 02, 2021", "limits": "品牌网站自述、名称缩写和单复数不一致；不是工商原证，pageAge 不是核定发表时刻；本轮需单独取页核对。"}
+  ],
+  "omitted_result_ids": [2, 3],
+  "omission_reason": "一般产品／服务页面无目标法人注册原证；不打开产品 PDF。"
+}

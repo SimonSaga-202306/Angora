@@ -1,0 +1,15 @@
+{
+  "id": "Q21",
+  "query": "\"ANGORA NETWORKS BİLİŞİM TEKNOLOJİ\" \"sicil no\" Ankara",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要，非完整响应；不转存无关公司号码、个人或联系方式。",
+  "retained_results": [
+    {"result_id": 1, "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ", "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi", "limits": "Find 对访客隐藏登记号，不能借该摘要确认号码。"},
+    {"result_id": 4, "title": "Bilgi Toplumu Hizmetleri", "url": "https://angoratd.com/bilgi-toplumu-hizmetleri/", "limits": "近名其他域名出现登记号，摘要未指向目标全称；不得套用给 Angora Networks，亦不推定两者法律关系。"}
+  ],
+  "omitted_result_ids": [2, 3, 5],
+  "omission_reason": "商业／合作伙伴信息非公开商事原公告。"
+}

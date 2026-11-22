@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "1306e73d3d6d460ba5fe74b46cc074b6",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:42.393218+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/date-scope-correction-v3.md",
+  "supersedes_record_id": null,
+  "note": "r120 plan and CDX filter date scope correction under v3; preserves original plan files unchanged.",
+  "event_kind": "date_correction_v3",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 1331,
+      "sha256": "da6a1f0bc0ef0b6f8cb214ddf8bbdac8fff70f48954e322351048150ed5514aa"
+    }
+  }
+}

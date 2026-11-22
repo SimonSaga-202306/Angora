@@ -1,0 +1,14 @@
+{
+  "id": "AR02-c0",
+  "kind": "fetch_page_archive_replay",
+  "status": "success",
+  "url": "https://web.archive.org/web/20230203041946/https://www.angoranetworks.com/gizlilik-politikasi/",
+  "requested_chunk": 0,
+  "tool_total_chunks": 2,
+  "tool_has_more": true,
+  "archive_capture_timestamp_utc": "2023-02-03 04:19:46 UTC",
+  "actual_request_time": null,
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/archive-replay/AR02.20230203041946.chunk-0.protected-partial.json"
+  ]
+}

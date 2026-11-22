@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "5914edd159dd4e729271d62090bbd4a6",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:26.191050+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P13/ticaretsicil.gov.tr/index.protected-partial.manual.md",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; r120 page or archive protected excerpt / CDX transcription; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P13/ticaretsicil.gov.tr/index.protected-partial.manual.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P13/ticaretsicil.gov.tr/index.protected-partial.manual.md": {
+      "bytes": 1215,
+      "sha256": "0e42eddfcc954ee321d1c6fcb241b8aefa8a10c48ac421a9d63c8ba90a29961d"
+    }
+  }
+}

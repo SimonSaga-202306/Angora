@@ -1,0 +1,7 @@
+id,query,goal
+Q11,"site:atonet.org.tr/KomiteListe ""ANGORA NETWORKS""",搜索安卡拉商会公开委员会名册中目标完整标识
+Q12,"site:atonet.org.tr ""ANGORA NETWORKS""",搜索安卡拉商会网站目标名称并辨别页面类型
+Q13,"site:atonet.org.tr/KomiteListe ""BİLİŞİM"" ""NETWORKS""",定位信息技术委员会列表与关联目标
+Q14,"Ankara Ticaret Odası ""bilişim"" ""meslek komitesi"" ""komite kodu""",寻找公开业务委员会编号避免随意枚举网站
+Q15,"site:atonet.org.tr ""620902"" ""komite""",查找 Find 候选 NACE 与 ATO 公开委员会的对应关系仅作为查询线索
+Q16,"site:atonet.org.tr ""ANGORA NETWORKS BİLİŞİM"" ""sicil""",检索官网精确公司名与登记列是否共同出现

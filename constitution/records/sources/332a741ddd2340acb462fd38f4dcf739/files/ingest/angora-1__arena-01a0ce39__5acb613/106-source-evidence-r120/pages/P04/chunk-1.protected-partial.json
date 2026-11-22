@@ -1,0 +1,18 @@
+{
+  "request_id": "P04-c1",
+  "url": "https://www.angoranetworks.com/privacy-policy/?lang=en",
+  "requested_chunk": 1,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Privacy Policy - Angora Networks",
+  "tool_total_chunks": 2,
+  "tool_has_more": false,
+  "excerpts": [
+    "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ A.Ş için kişisel verilerinizin korunması",
+    "Angora Networks Bilişim Teknoloji A.Ş.’ye başvurarak",
+    "Angora Networks Bilişim Teknolojileri A.Ş. tarafından"
+  ],
+  "observations": ["本块同见单数 Teknoloji 与复数 Teknolojileri 两种缩写拼写；r111 已记录二者。"],
+  "capture": "手工保护性摘录；不公开地址或其他个人／联系资料，不是原 HTML；两块独立请求不能保证同一时刻或版本。",
+  "limits": "厂商自述不等于工商原件，不证明与 Find 全称是同一法人或有采购关系。"
+}

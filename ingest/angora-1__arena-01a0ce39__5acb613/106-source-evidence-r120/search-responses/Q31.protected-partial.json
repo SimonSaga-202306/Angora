@@ -1,0 +1,12 @@
+{
+  "id": "Q31",
+  "query": "site:tubitak.gov.tr \"ANGORA NETWORKS\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "工具可见结果保护性摘要，非完整响应；5 条均为安哥拉猫／山羊／兔兽医论文，无目标企业。",
+  "retained_results": [],
+  "omitted_result_ids": [1, 2, 3, 4, 5],
+  "omission_reason": "与目标企业无关的兽医学术论文（Angora cat/goat/rabbit）。"
+}

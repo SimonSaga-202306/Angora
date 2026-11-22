@@ -1,0 +1,12 @@
+{
+  "id": "Q05",
+  "query": "\"ANGORA NETWORKS\" \"KIRIKKALE ŞUBESİ\" \"2023\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 1,
+  "capture": "手工保护性摘要，非完整搜索响应。",
+  "retained_results": [
+    {"result_id": 1, "title": "Angora Networks, Kanal Ortakları Zirvede Buluşuyor", "url": "https://ictmedia.com.tr/haber/angora-networks-kanal-ortaklari-zirvede-bulusuyor", "snippet_selected": "搜索摘要提及 Angora KOZ'23，并称 Angora Networks 于 2016 年成立。", "limits": "r119 已识别为渠道峰会，不是所搜 Kırıkkale 分支登记公告；摘要未核 2023-03-24。"}
+  ]
+}

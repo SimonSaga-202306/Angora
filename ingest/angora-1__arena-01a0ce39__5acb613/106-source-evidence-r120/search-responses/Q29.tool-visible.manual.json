@@ -1,0 +1,10 @@
+{
+  "id": "Q29",
+  "query": "site:kik.gov.tr \"ANGORA NETWORKS\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 0,
+  "results": [],
+  "limits": "该搜索索引零结果不证明公共采购局不存在未索引记录。"
+}

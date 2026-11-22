@@ -1,0 +1,12 @@
+{
+  "request_id": "P02-c0",
+  "url": "https://www.atonet.org.tr/KomiteListe?komiteKodu=8",
+  "requested_chunk": 0,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Ankara Ticaret Odası Web Portali",
+  "tool_total_chunks": 2,
+  "tool_has_more": true,
+  "observations": ["第 0 块以一般导航为主，不能据此判断名册完整性或目标是否列名。"],
+  "capture": "人工保护性观察，非完整工具响应或原始 HTML；动态链接未记录。"
+}

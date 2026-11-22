@@ -1,0 +1,16 @@
+{
+  "id": "Q14",
+  "query": "Ankara Ticaret Odası \"bilişim\" \"meslek komitesi\" \"komite kodu\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "工具可见结果的手工保护性摘要，未转存无关个人姓名；非原始响应。",
+  "retained_results": [
+    {"result_id": 1, "title": "8. komite - bilişim teknolojileri meslek komitesi", "url": "https://www.atonet.org.tr/Komite/8", "snippet_selected": "ANA SAYFA > MESLEK KOMİTELERİ > 8. BİLİŞİM TEKNOLOJİLERİ MESLEK KOMİTESİ", "limits": "安卡拉商会第 8 信息技术委员会入口；只提供可能的公开查询路径，不证明目标属于该委员会。"},
+    {"result_id": 2, "title": "Meslek Komiteleri - Komite Önsayfa", "url": "https://www.atso.org.tr/meskom/meslek-komiteleri.html", "limits": "另一组织／网站的编号，不能当成安卡拉商会编号。"},
+    {"result_id": 3, "title": "Ankara Ticaret Odası Web Portali", "url": "https://www.atonet.org.tr/ato-ya-bakis/meslek-komiteleri/14---medya-meslek-komitesi", "snippet_selected": "列表含 6 - Telekomünikasyon 和 8 - Bilişim Teknolojileri。", "limits": "委员会类别可重叠，不由经营范围断定目标登记类别；其他委员姓名未保存。"}
+  ],
+  "omitted_result_ids": [4, 5],
+  "omission_reason": "一般会议报道与个人姓名无助目标工商原证。"
+}

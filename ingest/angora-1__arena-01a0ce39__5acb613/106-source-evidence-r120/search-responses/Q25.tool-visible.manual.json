@@ -1,0 +1,10 @@
+{
+  "id": "Q25",
+  "query": "site:angoranetworks.com \"anonim şirketi\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 0,
+  "results": [],
+  "limits": "此搜索索引零结果不证明网站或企业不存在该自述；人工转存。"
+}

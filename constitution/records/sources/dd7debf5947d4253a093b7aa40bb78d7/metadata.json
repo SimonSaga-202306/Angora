@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "dd7debf5947d4253a093b7aa40bb78d7",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:55:00.886172+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/push-observation-a4b27d9.md",
+  "supersedes_record_id": null,
+  "note": "\u4e0a\u8f6e\u5df2\u5355\u72ec\u4f5c\u4e8b\u4ef6\uff1b\u6b64\u5904\u4e3a\u672c\u5730\u6765\u6e90\u526f\u672c\uff0c\u975e\u6d88\u606f\u3002",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/push-observation-a4b27d9.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/push-observation-a4b27d9.md": {
+      "bytes": 1714,
+      "sha256": "954132b04859f8f5bd10730fec17d407f4b1e029308ba9f3e37e7413838e91f7"
+    }
+  }
+}

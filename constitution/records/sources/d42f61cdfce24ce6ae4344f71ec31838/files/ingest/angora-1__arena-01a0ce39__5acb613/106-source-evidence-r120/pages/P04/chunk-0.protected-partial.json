@@ -1,0 +1,17 @@
+{
+  "request_id": "P04-c0",
+  "url": "https://www.angoranetworks.com/privacy-policy/?lang=en",
+  "requested_chunk": 0,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Privacy Policy - Angora Networks",
+  "tool_total_chunks": 2,
+  "tool_has_more": true,
+  "excerpts": [
+    "Firmamız Angora Networks Bilişim Teknolojileri A.Ş.",
+    "Angora Networks Bilişim Teknolojileri A.Ş. olarak veri sorumlusu sıfatıyla hareket ederek"
+  ],
+  "observations": ["相同域名下的隐私说明中该拼写为网站自述，r111 已保存同一路径的另次文字；不能计为独立来源。", "本块亦有与本研究无关的 SAP 等服务描述，不把模板文字用作产品、客户或履约证据。"],
+  "capture": "手工保护性摘录；不保存地址、联系途径或其他私人资料，不是原 HTML；本次块 1 尚未请求。",
+  "limits": "此缩写、网站域名均不能单独核实 Find 全称、法人、总部／分支关系或登记号。"
+}

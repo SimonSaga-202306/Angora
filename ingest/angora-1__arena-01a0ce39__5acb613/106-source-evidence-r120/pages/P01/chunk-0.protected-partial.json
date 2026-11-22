@@ -1,0 +1,12 @@
+{
+  "request_id": "P01-c0",
+  "url": "https://www.atonet.org.tr/Komite/8",
+  "requested_chunk": 0,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Ankara Ticaret Odası Web Portali",
+  "tool_total_chunks": 7,
+  "tool_has_more": true,
+  "observations": ["第 0 块为商会一般导航，并非目标记录。", "导航含 Ticaret Sicili İşlemleri、Üye Bilgileri 入口。"],
+  "capture": "仅人工保护性观察，未保存完整工具文字或原始 HTML；动态链接与无关人员未记录。"
+}

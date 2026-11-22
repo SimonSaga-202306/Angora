@@ -1,0 +1,14 @@
+{
+  "id": "Q20",
+  "query": "\"ANGORA NETWORKS\" \"Ankara Ticaret Odası\" \"bilişim\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要；不转存联系方式、个人或无关企业信息。",
+  "retained_results": [
+    {"result_id": 1, "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ", "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi", "limits": "仍是同一 Find 未验证记录；商会及登记号隐藏，搜索词不构成 ATO 关联证据。"}
+  ],
+  "omitted_result_ids": [2, 3, 4, 5],
+  "omission_reason": "商业目录、社交与合作页面非所求 ATO 原公告；不转存员工／联系人等。"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "Q23",
+  "query": "site:angoranetworks.com \"MERSİS\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 2,
+  "capture": "工具可见结果手工保护性摘要，非完整响应。",
+  "retained_results": [
+    {"result_id": 1, "title": "Mainpage - Angora Networks", "url": "https://www.angoranetworks.com/?lang=en", "limits": "搜索摘要未显示 MERSİS 或目标工商编号。"},
+    {"result_id": 2, "title": "Services - Angora Networks", "url": "https://www.angoranetworks.com/our-services-2/?lang=en", "limits": "一般服务简介；摘要未显示 MERSİS 或目标工商编号。"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "4ea9d915ebe6479b8d362a13ff869db8",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:26.678490+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/issues/r120-time-conversion-clarification.md",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; r120 plan, deliverable, validation or v3 correction file; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/issues/r120-time-conversion-clarification.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/issues/r120-time-conversion-clarification.md": {
+      "bytes": 1197,
+      "sha256": "5ece24324f71d0cec63101e11b7f67624f22df2813e37642d2439734bec4b3d9"
+    }
+  }
+}

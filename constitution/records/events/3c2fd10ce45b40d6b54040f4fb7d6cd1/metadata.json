@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "3c2fd10ce45b40d6b54040f4fb7d6cd1",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:42.262494+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/issues/r119-r120-date-correction-v3.md",
+  "supersedes_record_id": "3d38b1e37ed14ae6b266a9c4785bc61e",
+  "note": "v3 date correction establishing 2026-11-22 UTC session date; supersedes r120 clarification 3d38b1e37ed14ae6b266a9c4785bc61e and covers v1/v2.",
+  "event_kind": "date_correction_v3",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 3825,
+      "sha256": "c5ae84b5495f83c4cd08ffe571f12d69b34cd7b403b5829d2b8e02045ac1f72a"
+    }
+  }
+}

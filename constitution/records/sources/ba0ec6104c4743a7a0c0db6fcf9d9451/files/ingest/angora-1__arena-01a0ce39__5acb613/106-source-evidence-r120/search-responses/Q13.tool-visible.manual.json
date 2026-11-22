@@ -1,0 +1,10 @@
+{
+  "id": "Q13",
+  "query": "site:atonet.org.tr/KomiteListe \"BİLİŞİM\" \"NETWORKS\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 0,
+  "results": [],
+  "limits": "搜索索引零结果仅适用于该搜索，不代表委员会网站内无这些名称；人工转存。"
+}

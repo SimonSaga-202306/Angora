@@ -1,0 +1,23 @@
+{
+  "request_id": "AR02-c0",
+  "url": "https://web.archive.org/web/20230203041946/https://www.angoranetworks.com/gizlilik-politikasi/",
+  "requested_chunk": 0,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Gizlilik politikası - Angora Networks",
+  "tool_total_chunks": 2,
+  "tool_has_more": true,
+  "archive_capture_timestamp_utc": "2023-02-03 04:19:46 UTC",
+  "archive_toolbar_summary": "工具可见 Wayback 工具栏显示 12 captures, 11 Apr 2021 - 10 Jun 2026。",
+  "excerpts": [
+    "Firmamız Angora Networks Bilişim Teknolojileri A.Ş.",
+    "Angora Networks Bilişim Teknolojileri A.Ş. olarak veri sorumlusu sıfatıyla hareket ederek",
+    "Angora Networks Bilişim Teknolojileri A.Ş. müşterilerinden..."
+  ],
+  "observations": [
+    "2023-02-03 UTC 归档快照第 0 块同样可见复数拼写 Angora Networks Bilişim Teknolojileri A.Ş.。",
+    "第 1 块尚未请求，尚不能判断后半段是否含单数拼写。"
+  ],
+  "capture": "手工保护性摘录；不保存地址、个人／联系资料或动态会话链接，不是原 HTML。",
+  "limits": "属同一网站页面历史自述快照，不算独立法人原证，也不能推算企业设立日期。"
+}

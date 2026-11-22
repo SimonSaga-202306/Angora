@@ -1,0 +1,14 @@
+{
+  "id": "Q26",
+  "query": "\"ANGORA NETWORKS BİLİŞİM TEKNOLOJİ\" \"angoranetworks.com\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "工具可见结果手工保护性摘要，不是完整响应；不转存无关个人及联系方式。",
+  "retained_results": [
+    {"result_id": 1, "title": "Angora Networks", "url": "https://tr.linkedin.com/company/angora-networks", "snippet_selected": "摘要把 Angora Networks 与 angoranetworks.com 并列。", "limits": "摘要未显示候选完整法定名称或登记号，且为社交页面，不是官方工商记录。"}
+  ],
+  "omitted_result_ids": [2, 3, 4, 5],
+  "omission_reason": "商业画像与联系方式不是公开商事原公告；均未打开。"
+}

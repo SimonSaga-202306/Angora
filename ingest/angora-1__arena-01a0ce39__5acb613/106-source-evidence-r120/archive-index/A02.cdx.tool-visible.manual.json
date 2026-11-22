@@ -1,0 +1,12 @@
+{
+  "request_id": "A02-c0",
+  "url": "https://web.archive.org/cdx/search/cdx?url=atonet.org.tr%2FKomiteListe%3FkomiteKodu%3D8&output=json&filter=statuscode%3A200&to=20261026&collapse=timestamp%3A6",
+  "tool": "fetch_page",
+  "status": "success",
+  "requested_chunk": 0,
+  "tool_total_chunks": 1,
+  "tool_has_more": false,
+  "content_tool_visible": "[]",
+  "capture": "工具可见 JSON 人工转录，不是原 HTTP 字节。",
+  "limits": "只针对所列 non-www 精确目标、200 状态、查询上限和月份折叠；不证明其他捕获或目标登记不存在。"
+}

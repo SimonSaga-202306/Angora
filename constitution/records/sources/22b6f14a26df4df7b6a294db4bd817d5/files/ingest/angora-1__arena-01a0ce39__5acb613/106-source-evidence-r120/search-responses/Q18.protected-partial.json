@@ -1,0 +1,12 @@
+{
+  "id": "Q18",
+  "query": "site:atonet.org.tr \"üye bilgileri\" \"sorgulama\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "工具可见结果的手工保护性摘要，不是完整响应。",
+  "retained_results": [],
+  "omitted_result_ids": [1, 2, 3, 4, 5],
+  "omission_reason": "均是一般通知或不相关税务／选举内容，未显示目标可用的商号查询结果。"
+}

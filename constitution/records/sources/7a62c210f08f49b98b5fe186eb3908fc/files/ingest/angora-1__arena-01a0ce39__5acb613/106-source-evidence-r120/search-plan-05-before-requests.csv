@@ -1,0 +1,6 @@
+id,query,goal
+Q28,"site:resmigazete.gov.tr ""ANGORA NETWORKS""",检查土耳其官方公报站点是否有目标公司公开记录
+Q29,"site:kik.gov.tr ""ANGORA NETWORKS""",检查公共采购局公开页面或决议有无目标主体记录
+Q30,"site:rekabet.gov.tr ""ANGORA NETWORKS""",检查竞争局公开文件有无目标主体记录
+Q31,"site:tubitak.gov.tr ""ANGORA NETWORKS""",检查官方科研机构公开页面有无目标项目或机构记录
+Q32,"site:sanayi.gov.tr ""ANGORA NETWORKS""",检查工业与技术部公开页面有无目标研发中心／科技园或备案记录

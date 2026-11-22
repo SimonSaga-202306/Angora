@@ -1,0 +1,6 @@
+id,query,goal
+Q23,"site:angoranetworks.com ""MERSİS"" -pdf",查目标网站是否公开自述工商编号路径不抓产品 PDF
+Q24,"site:angoranetworks.com ""ticaret sicil"" -pdf",查目标网站是否公开引用工商登记信息仅作企业自述线索
+Q25,"site:angoranetworks.com ""anonim şirketi"" -pdf",查目标域名与候选法律名称有无同一页自述
+Q26,"""ANGORA NETWORKS BİLİŞİM TEKNOLOJİ"" ""angoranetworks.com"" -pdf",找可回溯的候选全称与域名关联但不自动当作工商原证
+Q27,"site:angoranetworks.com ""ünvan"" ""gizlilik"" -pdf",查目标站点隐私／法律说明是否自述法人名称

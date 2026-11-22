@@ -1,0 +1,11 @@
+{
+  "id": "Q09",
+  "kind": "web_search",
+  "status": "success",
+  "query": "\"ANGORA NETWORKS BİLİŞİM\" \"tescil\" \"ilan\" -pdf",
+  "visible_result_count": 3,
+  "actual_request_time": null,
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q09.protected-partial.json"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "85081d95c5f34a9d87040c8a728dc606",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:40.729700+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/request-manifests/Q12.json",
+  "supersedes_record_id": null,
+  "note": "One r120 request per derived manifest; tool output is manual protected excerpt or tool-visible transcription. Actual request time unknown.",
+  "event_kind": "tool_request_observation",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 320,
+      "sha256": "2ce5e734cd0c949de66ce1c3559938ecb14cc3c5f292ff37da246ff9ee57c137"
+    }
+  }
+}

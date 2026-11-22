@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "5b5c98406a5a4bc4b629eda6f4dd5215",
+  "type": "message",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:54:21.141887+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "manual_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/inbox/assistant-messages/r120-progress-0001.txt",
+  "supersedes_record_id": null,
+  "note": "\u5355\u6761\u672c\u8f6e\u7528\u6237\u53ef\u89c1\u8fdb\u5ea6\uff1b\u5b9e\u9645\u53d1\u9001\u65f6\u95f4\u672a\u77e5\u3002",
+  "role": "assistant",
+  "outcome": "copied",
+  "files": {
+    "message.bin": {
+      "bytes": 153,
+      "sha256": "78a403a394afadeddd7b7e5cfcb9657d70c82fbddebf4ddda1ff1758472d8443"
+    }
+  }
+}

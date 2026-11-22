@@ -1,0 +1,12 @@
+{
+  "request_id": "P03-c0",
+  "url": "https://www.atonet.org.tr/ticaret-noktas%C4%B1/%C3%BCye-bilgileri",
+  "requested_chunk": 0,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Ankara Ticaret Odası Web Portali",
+  "tool_total_chunks": 2,
+  "tool_has_more": true,
+  "observations": ["第 0 块是一般导航；无法仅凭此块判断是否有可用的按商号查询。"],
+  "capture": "人工保护性观察，不是完整工具文字或原始 HTML；不保存无关资料。"
+}

@@ -1,0 +1,12 @@
+{
+  "request_id": "A03-c0",
+  "url": "https://web.archive.org/cdx/search/cdx?url=www.angoranetworks.com%2Fprivacy-policy%2F&output=json&filter=statuscode%3A200&to=20261026&collapse=timestamp%3A4",
+  "tool": "fetch_page",
+  "status": "success",
+  "requested_chunk": 0,
+  "tool_total_chunks": 1,
+  "tool_has_more": false,
+  "content_tool_visible": "[]",
+  "capture": "工具可见 JSON 人工转录，不是原 HTTP 字节。",
+  "limits": "仅此 www 精确路径、200 状态、查询上限和年度折叠未返回，不证明没有其他域名／参数／时段捕获或网页当时不存在。"
+}

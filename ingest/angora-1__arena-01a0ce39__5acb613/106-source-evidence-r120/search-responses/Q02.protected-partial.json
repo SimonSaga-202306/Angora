@@ -1,0 +1,16 @@
+{
+  "id": "Q02",
+  "query": "\"ANGORA NETWORKS\" \"ticaret sicili gazetesi\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要，非完整响应；不保留无关个人／联系方式和贸易数据。",
+  "retained_results": [
+    {"result_id": 1, "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ", "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi", "snippet_selected": "Find 称企业信息来自公开商事登记、企业网站及商会等；该条目未获企业批准或关联，登记号仅会员可见。", "limits": "同 Q01 Find 条目；自称来源不等于已取得原始公告。"},
+    {"result_id": 2, "title": "Access ticaretsicil.gov.tr. Türkiye Ticaret Sicili Gazetesi", "url": "https://www.accessify.com/t/ticaretsicil.gov.tr", "limits": "第三方网站性能介绍，不是目标公报。"},
+    {"result_id": 5, "title": "Sürekli Bilgilendirme Formu", "url": "https://angoratd.com/surekli-bilgilendirme-formu/", "limits": "近名其他站点，摘要未表明 Angora Networks；不得转用其商事号码。"}
+  ],
+  "omitted_result_ids": [3, 4],
+  "omission_reason": "重复联系方式和本轮停项贸易数据不转存。"
+}

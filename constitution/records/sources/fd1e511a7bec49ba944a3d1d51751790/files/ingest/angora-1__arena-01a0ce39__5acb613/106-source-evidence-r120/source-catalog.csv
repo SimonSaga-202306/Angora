@@ -1,0 +1,15 @@
+source_id,source,local_path,form,limits
+R120-S01,ATO 第 8 委员会块 1,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/pages/P01/chunk-1.protected-partial.json,官方委员会页面保护性摘录,证实 8. Bilişim Teknolojileri Meslek Komitesi 存在；未见第 2–6 块，非目标会员证明
+R120-S02,ATO 第 8 公开名册块 1,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/pages/P02/chunk-1.protected-partial.json,官方名册第一页保护性观察,仅显示第 1–20 / 6,695 条（335 页）且未见目标；未点击分页或下载全表，不证明不在名册
+R120-S03,ATO 会员信息说明块 1,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/pages/P03/chunk-1.protected-partial.json,官方说明链接保护性观察,链接指向 portal /login.htm；未点击或登录，不证明所有路径均需登录
+R120-S04,ATO 名册 Wayback 索引,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/archive-index/A01.cdx.tool-visible.manual.json,CDX 索引人工转录,针对 www 精确目标与 to=20261026 返回空；仅表示检索条件无结果（non-www 见 A02）
+R120-S05,厂商隐私页 P04 块 0,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/pages/P04/chunk-0.protected-partial.json,官网自述保护性摘录,现页先称 Teknolojileri A.Ş.；与 r111 同路径页面及 AR01/AR02 同站，不算新独立法人证明
+R120-S06,厂商隐私页 P04 块 1,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/pages/P04/chunk-1.protected-partial.json,官网自述独立块保护性摘录,同页后半段并存 TEKNOLOJİ A.Ş 与 Teknolojileri A.Ş.；与块 0 属不同请求，非工商原件
+R120-S07,厂商隐私页 CDX 索引 A04,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/archive-index/A04.cdx.tool-visible.manual.json,CDX 索引人工转录,返回 /gizlilik-politikasi/ 2021–2026 五条年度折叠捕获候选；to=20261026 为请求参数非截止日
+R120-S08,2021 隐私回放 AR01 块 0,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/archive-replay/AR01.20210411190159.chunk-0.protected-partial.json,Wayback 历史自述摘录,捕获时间 2021-04-11 19:01:59 UTC；见 Teknolojileri A.Ş.；同站延续自述非工商原件
+R120-S09,2021 隐私回放 AR01 块 1,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/archive-replay/AR01.20210411190159.chunk-1.protected-partial.json,Wayback 独立块历史自述摘录,2021 版本后半段已并存单数 TEKNOLOJİ A.Ş 与复数 Teknolojileri A.Ş.；非新变化
+R120-S10,2023 隐私回放 AR02 块 0,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/archive-replay/AR02.20230203041946.chunk-0.protected-partial.json,Wayback 历史自述摘录,捕获时间 2023-02-03 04:19:46 UTC（北京 12:19:46 +08:00）；见 Teknolojileri A.Ş.
+R120-S11,2023 隐私回放 AR02 块 1,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/archive-replay/AR02.20230203041946.chunk-1.protected-partial.json,Wayback 独立块历史自述摘录,2023 版本同样保留单复数混用；与 AR01/P04 属同一品牌站自述
+R120-S12,近名站点检索 Q21,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q21.protected-partial.json,搜索保护性摘要,angoratd.com 载有 468722；属近名不同域名站点，摘要未指向目标全称，严禁套用给 Angora Networks
+R120-S13,Find 与近名检索 Q01,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q01.protected-partial.json,搜索保护性摘要,仍指向隐藏登记号的 Find 候选及商业目录；不是工商原公告
+R120-S14,官方机构站检索 Q28-Q32,ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q28.tool-visible.manual.json,官方公报零结果人工转存,resmigazete/kik/sanayi 索引零结果、rekabet/tubitak 无目标公司；仅限检索索引，不证实体不存在

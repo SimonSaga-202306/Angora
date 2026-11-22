@@ -1,0 +1,15 @@
+{
+  "id": "Q15",
+  "query": "site:atonet.org.tr \"620902\" \"komite\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "工具可见结果的手工保护性摘要，不是完整响应。",
+  "retained_results": [
+    {"result_id": 4, "title": "Ankara Ticaret Odası Web Portali", "url": "https://www.atonet.org.tr/Komite/28", "snippet_selected": "摘要出现 ÜYE LİSTESİ 导航。", "limits": "陶瓷委员会示例，不提供 620902 与目标的委员会映射。"}
+  ],
+  "omitted_result_ids": [1, 2, 3, 5],
+  "omission_reason": "其他委员类别网页，可见摘要无 620902 或目标完整名称。",
+  "limits": "未找到能从 Find 所称行业码推断目标委员关系的依据。"
+}

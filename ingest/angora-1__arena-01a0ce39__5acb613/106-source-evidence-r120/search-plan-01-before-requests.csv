@@ -1,0 +1,11 @@
+id,query,goal
+Q01,"""ANGORA NETWORKS BİLİŞİM TEKNOLOJİ"" ""ticaret sicil"" -pdf",寻找商号全文与官方登记公告入口而非凭近名合并
+Q02,"""ANGORA NETWORKS"" ""ticaret sicili gazetesi"" -pdf",查找可公开读取的具体公告或其可靠定位信息
+Q03,"site:tobb.org.tr ""ANGORA NETWORKS"" ""sicil"" -pdf",查找商会联合组织公开的目标记录
+Q04,"site:ticaretsicil.gov.tr ""ANGORA NETWORKS BİLİŞİM"" -pdf",查官方公报索引对完整名称的公开可见性
+Q05,"""ANGORA NETWORKS"" ""KIRIKKALE ŞUBESİ"" ""2023"" -pdf",交叉查找分支日期的其他来源及可能的来源依赖
+Q06,"""ANGORA NETWORKS"" ""28.11.2016"" ""ticaret"" -pdf",检索总部候选成立日期能否关联公开公告
+Q07,"site:turkpatent.gov.tr ""ANGORA NETWORKS"" -pdf",寻找官方商标来源作为标识线索而非工商登记证明
+Q08,"site:gov.tr ""ANGORA NETWORKS BİLİŞİM"" -pdf",寻找政府公开文件中精确名称的线索并辨别机构和证据类型
+Q09,"""ANGORA NETWORKS BİLİŞİM"" ""tescil"" ""ilan"" -pdf",寻找有关注册公告的具体公开定位信息
+Q10,"""ANGORA NETWORKS"" ""Ankara Ticaret Odası"" ""sicil"" -pdf",寻找总部候选的商会登记线索避免推断分支关系

@@ -9,5 +9,5 @@
   ],
   "exclusions": "Tool text contains unrelated third-party sole-proprietor identities and addresses; full blocks intentionally not copied to public repository. This file is a partial manually recorded observation, not raw PDF bytes or full text. No target row was found in these three visible blocks; no full-document negative search was performed.",
   "prior_search_difference": "r117 Q06 search snippet purported target row 336 / 009581 in a potentially different or older PDF version. Current observed row 336 is unrelated, and the current apparent numeric gap does not establish cancellation, absence in all pages, or historical status. Search result does not verify the identifier.",
-  "date_limit": "r116's retained chunk 0 states 31.10.2026 but was a separate request and may not match these chunks. Both date and content are after/conflict with session date basis; no claim about 2026-10-26 legal status."
+  "date_limit": "v3 correction: r116's retained chunk 0 states 31.10.2026, which is earlier than the current session date 2026-11-22 UTC (pre-v3 text mistakenly claimed conflict with 2026-10-26 UTC; prior version preserved in constitution/history/r119-before-v3/). Chunk 0 was a separate request and may not match these chunks; without full PDF or official registry extract, legal status remains unverified."
 }

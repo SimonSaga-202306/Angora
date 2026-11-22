@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "3d38b1e37ed14ae6b266a9c4785bc61e",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:55:00.829333+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/issues/r120-time-conversion-clarification.md",
+  "supersedes_record_id": null,
+  "note": "\u72ec\u7acb\u8bb0\u5f55\u65f6\u533a\u8f6c\u6362\u4e0e\u6765\u6e90\u51b2\u7a81\uff0c\u4e0d\u5c06\u7cfb\u7edf\u5899\u949f\u5f53\u6d88\u606f\u65f6\u95f4\u3002",
+  "event_kind": "time_conversion_clarification",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 1197,
+      "sha256": "5ece24324f71d0cec63101e11b7f67624f22df2813e37642d2439734bec4b3d9"
+    }
+  }
+}

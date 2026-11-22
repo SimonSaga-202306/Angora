@@ -1,0 +1,13 @@
+{
+  "id": "P01-c0",
+  "kind": "fetch_page",
+  "status": "success",
+  "url": "https://www.atonet.org.tr/Komite/8",
+  "requested_chunk": 0,
+  "tool_total_chunks": 7,
+  "tool_has_more": true,
+  "actual_request_time": null,
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/pages/P01/chunk-0.protected-partial.json"
+  ]
+}

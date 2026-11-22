@@ -1,0 +1,15 @@
+{
+  "id": "Q10",
+  "query": "\"ANGORA NETWORKS\" \"Ankara Ticaret Odası\" \"sicil\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要，非完整响应；不保留无关企业登记号、地址或联系方式。",
+  "retained_results": [
+    {"result_id": 1, "title": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ", "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi", "limits": "同一 Find 记录，商会和登记号对访客隐藏；不能从搜索词推断已核 ATO 会员。"},
+    {"result_id": 3, "title": "Ankara Ticaret Odası Web Portali", "url": "https://www.atonet.org.tr/KomiteListe?komiteKodu=45", "snippet_selected": "ATO 委员会列表摘要含 Ticaret Sicil No 与 Unvan 两个字段。", "limits": "示例行是近名其他企业，不是 Angora Networks；不能将其号码赋给目标。此 URL 仅作为可进一步寻找正确委员会的公开入口。"}
+  ],
+  "omitted_result_ids": [2, 4, 5],
+  "omission_reason": "其他近名主体不作为目标来源或法人合并依据。"
+}

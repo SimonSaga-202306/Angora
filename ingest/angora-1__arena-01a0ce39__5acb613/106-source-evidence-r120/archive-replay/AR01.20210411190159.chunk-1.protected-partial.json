@@ -1,0 +1,23 @@
+{
+  "request_id": "AR01-c1",
+  "url": "https://web.archive.org/web/20210411190159/https://www.angoranetworks.com/gizlilik-politikasi/",
+  "requested_chunk": 1,
+  "tool": "fetch_page",
+  "status": "success",
+  "tool_title": "Angora KVKK Metni",
+  "tool_total_chunks": 2,
+  "tool_has_more": false,
+  "archive_capture_timestamp_utc": "2021-04-11 19:01:59 UTC",
+  "archive_capture_timestamp_beijing": "2021-04-12T03:01:59+08:00",
+  "excerpts": [
+    "Angora Networks Bilişim Teknolojileri A.Ş.",
+    "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ A.Ş için kişisel verilerinizin korunması...",
+    "Angora Networks Bilişim Teknoloji A.Ş.’ye başvurarak..."
+  ],
+  "observations": [
+    "2021-04-11 UTC 归档第 1 块已出现复数 Teknolojileri A.Ş. 与单数 TEKNOLOJİ A.Ş / Teknoloji A.Ş. 并存。",
+    "证明该站自述的拼写混用与模板表述至少可回溯至该 Wayback 捕获，不是今日新增，且与 chunk-0 为独立请求。"
+  ],
+  "capture": "手工保护性摘录；不保存地址、个人／联系资料或动态链接，不是原 HTML。",
+  "limits": "网站自身历史页面不构成官方工商登记证明，也不能推算成立日期或与 Find 全称的同一性。"
+}

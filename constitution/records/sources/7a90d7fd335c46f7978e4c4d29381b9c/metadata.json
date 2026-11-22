@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "7a90d7fd335c46f7978e4c4d29381b9c",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:26.611989+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/issues/r120-r119-unsent-draft.md",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; r119 deliverable or metadata revised under v3; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/issues/r120-r119-unsent-draft.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/issues/r120-r119-unsent-draft.md": {
+      "bytes": 680,
+      "sha256": "2a8aad31edcbff0fa10ecfe723bb65b214b3a2c27da701afc11e60f8e8c95463"
+    }
+  }
+}

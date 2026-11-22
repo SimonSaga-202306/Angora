@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "7dc5064dcbb94f6997fa3e2c788c4682",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:25.318525+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/claims-comparison-result.json",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; byte-for-byte pre-v3 backup; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/claims-comparison-result.json",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/history/r119-before-v3/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/claims-comparison-result.json": {
+      "bytes": 3275,
+      "sha256": "3571180cd582142290c6c3875c678fb8d9867a09a881aae72a7365005118f367"
+    }
+  }
+}

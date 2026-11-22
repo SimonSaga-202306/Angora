@@ -1,0 +1,13 @@
+{
+  "id": "Q09",
+  "query": "\"ANGORA NETWORKS BİLİŞİM\" \"tescil\" \"ilan\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 3,
+  "capture": "手工保护性摘要，非完整响应；不转存无关个人、房产或采购资料。",
+  "retained_results": [],
+  "omitted_result_ids": [1, 2, 3],
+  "omission_reason": "返回一般招聘、近名住宅公告和非目标机构公告；可见摘要均不含目标完整商号，不取得目标公告。",
+  "limits": "无相关命中不是目标公告不存在的证明。"
+}

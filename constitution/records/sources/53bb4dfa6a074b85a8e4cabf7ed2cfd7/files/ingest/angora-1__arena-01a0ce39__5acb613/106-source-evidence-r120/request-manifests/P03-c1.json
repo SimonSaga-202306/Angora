@@ -1,0 +1,13 @@
+{
+  "id": "P03-c1",
+  "kind": "fetch_page",
+  "status": "success",
+  "url": "https://www.atonet.org.tr/ticaret-noktas%C4%B1/%C3%BCye-bilgileri",
+  "requested_chunk": 1,
+  "tool_total_chunks": 2,
+  "tool_has_more": false,
+  "actual_request_time": null,
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/pages/P03/chunk-1.protected-partial.json"
+  ]
+}

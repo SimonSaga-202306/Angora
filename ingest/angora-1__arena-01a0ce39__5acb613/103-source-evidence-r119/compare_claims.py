@@ -44,7 +44,7 @@ if len(solution_names) != 20 or solution_names.count('Angora Networks') != 1:
     raise ValueError(f'unexpected solution headings: {solution_names!r}')
 expected = ('Pulse Systech', 'AT-AK', 'VoltGuard')
 if any(x not in winner_text for x in expected) or 'Angora Networks' in winner_text:
-    raise ValueError('unexpected future-dated article winner segment')
+    raise ValueError('unexpected article winner segment')
 # Explicit name aliases are heuristic text comparisons, not corporate-identity mappings.
 alias = {'pulsesystech': 'pulse systech', 'blue hybrid': 'blue hybrid solutions',
          'cyberweave ai oy': 'cyber weave ai', 'energywisepro': 'energy wisepro',
@@ -59,7 +59,7 @@ for name in shortlist:
 if unmatched:
     raise ValueError(f'unmatched candidate text: {unmatched}')
 result = {
-    'scope': 'Saved, potentially imperfect manual tool transcriptions only; NOT confirmation of future events or legal entities.',
+    'scope': 'Saved, potentially imperfect manual tool transcriptions only; NOT confirmation of real-world events or legal entities.',
     'shortlist_names_count': len(shortlist),
     'solution_heading_count': len(solution_names),
     'textual_matches_with_explicit_aliases': len(matched),
@@ -74,7 +74,7 @@ result = {
     'elder_self_date_literal': '25 Eylül 2026',
     'article_self_published_literal': article_meta['published_date_as_visible'],
     'article_search_pageAge_literal': q06['results'][1]['pageAge'],
-    'future_date_caveat': 'Source asserts a final on 2026-10-28 and publication 2026-10-30; both are later than the session-provided 2026-10-26 UTC date. Merely a comparison of source claims, not a finding that the final occurred as of that date.',
+    'future_date_caveat': 'v3 correction: Source asserts a final on 2026-10-28 and publication 2026-10-30; both are earlier than the current session date 2026-11-22 UTC (pre-v3 output mistakenly treated 2026-10-26 UTC as current; prior copy preserved in constitution/history/r119-before-v3/). Still merely a comparison of source claims, not primary confirmation of awards or legal entities.',
 }
 assert result['elder_self_date_literal'] in elder
 with (D / 'claims-comparison-inventory-after-read.csv').open('x', encoding='utf-8', newline='') as f:

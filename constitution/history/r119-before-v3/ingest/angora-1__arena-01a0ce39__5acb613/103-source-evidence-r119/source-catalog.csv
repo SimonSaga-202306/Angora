@@ -1,0 +1,28 @@
+source_id,source,local_path,form,limits
+S01,r115 能源媒体候选,ingest/angora-1__arena-01a0ce39__5acb613/85-source-evidence-r115-2026-10-26/external-visible/www.enerjimagazin.com/haber-epdk-ve-elder-in-enerjim-sensin-programinda-finalistler-aciklandi-12770.html/chunk-0.visible.md,媒体手工可见文字,当前正文自标 2026-10-20；列 20 名、预告 10-28，历史当日网页状态和主体未核
+S02,ELDER 组织方计划,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P11/elder.org.tr/bilgi-bankasi/haberler/enerjim-sensin-2026/chunk-0.visible.manual.md,组织方手工可见文字,自标 2026-09-25，介绍计划机会；文本未列 Angora，不证明其未参加或获奖
+S03,Ekonomim 块 0,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P01/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-0.visible.manual.md,媒体手工转录，存在具名错误,自标 10-30；文本称 10-28 结果，日期晚于会话日期；不能作为当日已发生事实
+S04,Ekonomim 块 1,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P01/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-1.visible.manual.md,媒体独立请求，人工转录,转义有具名错误；与块 0 非同快照证明
+S05,Ekonomim P12 块 0,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P12/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-0.reconstructed.manual.md,以 P01 为底的新请求手工重构,不是原字节；与 S03 同一媒体 URL，不是独立报道
+S06,Ekonomim P12 块 1,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P12/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-1.reconstructed.manual.md,以 P01 为底的新请求手工重构,不同块独立请求，非原始响应
+S07,Yeşil Haber 块 0,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P09/yesilhaber.net/enerjim-sensin-2026-uc-girisime-4-milyon-tl/chunk-0.protected-partial.manual.md,媒体保护性摘录,图片注明非颁奖照；结果主张有时间冲突
+S08,Yeşil Haber 块 1,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P09/yesilhaber.net/enerjim-sensin-2026-uc-girisime-4-milyon-tl/chunk-1.protected-partial.manual.md,媒体独立块保护性摘录,称依据 ELDER；对依赖性和时间须保留限定
+S09,商会 PDF 块观察,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P02/protected-blocks-observations.json,三次请求的保护性观察，非 PDF,仅 5–7 块局部；不得认为完整扫描或和表头同版
+S10,商会 PDF 首块表头,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P02/kirikkaletso.org.tr/ktso/basin/uyeler/4.GRUP.pdf/chunk-0-header.protected-partial.manual.md,独立请求的保护性摘录,自标 31.10.2026，不得假定与 S09 同版
+S11,商会索引搜索 Q33,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-responses/Q33.protected-partial.json,单次搜索保护性转录,搜索关联 336/009581 与目标；不证明真实、当前或历史注册
+S12,Kocaeli 园区公司名录,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P04/kouteknopark.com/firmalarimiz/chunk-0.protected-partial.manual.md,组织方目录的部分转录,近名公司，非目标已确认法人；6 个其他块未取
+S13,Kocaeli 园区近名详情,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P06/kouteknopark.com/firma-detay/id-50/chunk-0.protected-partial.manual.md,组织方目录的部分转录,近名与 angoratech.com 同页；不是企业间关系证明
+S14,CompAtlas Kocaeli,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P07/compatlas.com.tr/sehir/kocaeli/gomulu/chunk-0.protected-partial.manual.md,商业目录保护性摘录,同目录可能采用公司/园区数据，第二块未取
+S15,CompAtlas Kırıkkale,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P08/compatlas.com.tr/sehir/kirikkale/gomulu/chunk-0.protected-partial.manual.md,商业目录保护性摘录,短名称不证明分支关系，与 S14 同发布方
+S16,TOBB 公报首页,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P13/ticaretsicil.gov.tr/index.protected-partial.manual.md,官方通用登录提示摘录,非目标企业档案；自标 12-01 改规则属来源主张
+S17,TOBB 名称查询,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P15/response-metadata.json,官方入口请求结果元数据,请求落到登录页；工具未显示 HTTP 重定向链
+S18,TOBB 公告查询,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P16/response-metadata.json,官方入口请求结果元数据,请求落到登录页；未登录、未查询目标
+S19,当前 2022 日程块 0,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P17/kamubib-bimy.org/2022/program/chunk-0.protected-partial.manual.md,组织方动态议程摘录,19 日段列 Levent；计划不是实到证明
+S20,当前 2022 日程块 1,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P17/kamubib-bimy.org/2022/program/chunk-1.protected-partial.manual.md,组织方独立块摘录,列 Taylan 分会；该块没有前置日期；非同版证明
+S21,2022 组织方回放块 0,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR08/chunk-0.visible.md,Wayback 人工转录,2022-12-04 捕获，19 日标题与闭门场次
+S22,2022 组织方回放块 1,ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR08/chunk-1.visible.md,Wayback 独立块人工转录,Taylan 分会和 Levent 列名，不可和 S21 作为自动原文拼接
+S23,KobiEfor 历史正文,ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/external-visible/kobi-efor.com.tr/kapak/tbdden-kamu-bib25-ve-bimy29-butunlesik-etkinligidijital-h15774/index.visible.md,活动媒体赞助商报道可见文字,报道 Taylan 发言，非原音；没有 Levent 实到的明确报道
+S24,Find Kırıkkale 候选,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/institutional-pages/P05/www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketikirikkalesubesi/chunk-0.visible.manual.md,商业目录人工转录,成立 2023-03-24 为条目声称，信息未验证，编号隐藏
+S25,2023 园区回放结果,ingest/angora-1__arena-01a0ce39__5acb613/99-source-evidence-r118/park-2023-scan-result.json,本地手工文字的限定扫描,四块零命中不能证明无主体或无入园
+S26,2024 园区回放首块,ingest/angora-1__arena-01a0ce39__5acb613/88-source-evidence-r116-2026-10-26/archive-chunks/kirikkaleteknopark.com/firma-rehberi/20240920103752/chunk-0.visible.md,Wayback 手工文本,与 2023 不同主机/版式；不能推出入园日期
+S27,time.is 北京观察,ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/time-reference/time.is/Beijing/chunk-0.visible.manual.md,动态时间页人工转录,11-22 与会话基准冲突，不校准消息或历史采集时间

@@ -1,0 +1,10 @@
+{
+  "id": "Q12",
+  "query": "site:atonet.org.tr \"ANGORA NETWORKS\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 0,
+  "results": [],
+  "limits": "搜索索引零结果不代表安卡拉商会数据库无登记；人工转存。"
+}

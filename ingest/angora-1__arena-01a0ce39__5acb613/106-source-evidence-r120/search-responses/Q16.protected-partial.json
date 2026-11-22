@@ -1,0 +1,14 @@
+{
+  "id": "Q16",
+  "query": "site:atonet.org.tr \"ANGORA NETWORKS BİLİŞİM\" \"sicil\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 3,
+  "capture": "工具可见结果的手工保护性摘要，非完整响应。",
+  "retained_results": [
+    {"result_id": 2, "title": "8. komite - bilişim teknolojileri meslek komitesi", "url": "https://www.atonet.org.tr/Komite/8", "limits": "一般委员会页面，搜索摘要没有目标完整名称或登记号；不代表目标是该会会员。"}
+  ],
+  "omitted_result_ids": [1, 3],
+  "omission_reason": "一般通知／新闻，可见摘要不含目标名称。"
+}

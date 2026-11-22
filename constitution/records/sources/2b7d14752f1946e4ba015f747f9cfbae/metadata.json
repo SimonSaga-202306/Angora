@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "2b7d14752f1946e4ba015f747f9cfbae",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T16:14:26.530532+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/issues/r119-r120-date-correction-v3.md",
+  "supersedes_record_id": null,
+  "note": "r120/v3 separate file; r119 deliverable or metadata revised under v3; local file copied byte-for-byte; not an assertion that an upstream web response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/issues/r119-r120-date-correction-v3.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/issues/r119-r120-date-correction-v3.md": {
+      "bytes": 3825,
+      "sha256": "c5ae84b5495f83c4cd08ffe571f12d69b34cd7b403b5829d2b8e02045ac1f72a"
+    }
+  }
+}

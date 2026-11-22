@@ -1,0 +1,14 @@
+{
+  "id": "Q19",
+  "query": "site:atonet.org.tr \"KomiteListe\" \"Ara\" \"unvan\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "手工保护性摘要，非完整响应；无关个人、登记号、地址、邮箱及不明参数链接不转存。",
+  "retained_results": [
+    {"result_id": 1, "title": "Ankara Ticaret Odası Web Portali", "url": "https://www.atonet.org.tr/KomiteListe?komiteKodu=53", "snippet_selected": "委员会列表展示 Sıra、Ticaret Sicil No、Unvan、Adres、Firma Tel 表头。", "limits": "另一委员会及无关行；摘要未说明如何按商号筛选，不视为目标登记。"}
+  ],
+  "omitted_result_ids": [2, 3, 4, 5],
+  "omission_reason": "无关第三方资料、可能敏感参数或一般活动内容；无目标查询结果。"
+}

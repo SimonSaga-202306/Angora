@@ -1,0 +1,7 @@
+id,query,goal
+Q17,"""Ankara Ticaret Odası"" ""firma sorgulama"" ""unvan"" ""sicil""",寻找 ATO 按商号查询的公开入口
+Q18,"site:atonet.org.tr ""üye bilgileri"" ""sorgulama""",定位 ATO 官方会员信息查询说明
+Q19,"site:atonet.org.tr ""KomiteListe"" ""Ara"" ""unvan""",查找公开名册是否有目标筛选功能
+Q20,"""ANGORA NETWORKS"" ""Ankara Ticaret Odası"" ""bilişim""",查找目标与 ATO 的直接机构关联而非仅行业相似
+Q21,"""ANGORA NETWORKS BİLİŞİM TEKNOLOJİ"" ""sicil no"" Ankara",检查是否有可回溯到公开原件的登记号候选不把摘要作为确证
+Q22,"site:atonet.org.tr ""620902"" ""bilişim""",查行业码与委员会的官方对应不由猜测替代

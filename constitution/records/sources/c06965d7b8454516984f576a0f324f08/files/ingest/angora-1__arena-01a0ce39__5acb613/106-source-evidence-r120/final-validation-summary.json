@@ -1,0 +1,19 @@
+{
+  "scope_listed": 175,
+  "fully_read": 175,
+  "bytes": 256379,
+  "sample_seed": 1202026,
+  "streaming_sample_verified": 30,
+  "json_files_parsed": 110,
+  "csv_files_parsed": 14,
+  "privacy_heuristic_hits": 0,
+  "request_manifests_checked": 48,
+  "curated_sources_checked": 14,
+  "claim_rows_checked": 4,
+  "markdown_local_links_checked": 253,
+  "deferred_generated_link_targets": [
+    "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/checkpoint-observation.md",
+    "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/ledger-capture-receipts.jsonl"
+  ],
+  "limitations": "Restricted prelisted versions only; later ledger records, snapshots, final message and pushes excluded. Heuristic privacy scan and hashes do not prove completeness, source truth, legal identity or original-response fidelity."
+}

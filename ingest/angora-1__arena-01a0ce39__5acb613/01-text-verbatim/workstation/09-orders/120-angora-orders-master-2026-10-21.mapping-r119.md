@@ -10,6 +10,6 @@
 
 **增补 r118 mapping**：官方公报本次两个匿名入口返回登录页，未获工商摘录；不能由公开目录、相近名称、邮箱或技术编号补足。Q13–Q23 的旧并行响应按内容人工归类，四个后续单次重复只验证其新结果，不能证明旧归属；Q13 文件名暗示完整而实际删节，详见[具名问题](../../../103-source-evidence-r119/issues-and-corrections.md)。
 
-**时间与证据纠正**：用户未指定 10-26 截止；会话基准与 time.is 观察冲突，不倒填消息时刻。P01 自标 10-30 的结果段列三名非 Angora，与 Angora 方案段分开，不能宣称目标获奖；r111 KobiEfor 正文此前已存，修正本轮一度的“未抓正文”。没有合同、成交或法人原证。Ewind 本轮无新增事实、观察时间未知；不联系、不恢复 PASS。
+**时间与证据纠正（v3 更正）**：当前会话日期为 `2026-11-22 UTC`，与 time.is `2026-11-22 15:09:20` 北京时间（`07:09:20 UTC`）相容（修改前原件保留于 `constitution/history/r119-before-v3/`）；`2026-10-26` 非当前日期亦非用户截止日，旧文件名日期不代表历史发送时间，真实消息时刻仍不倒填。P01 自标 10-30 的结果段列三名非 Angora，与 Angora 方案段分开，不能宣称目标获奖；r111 KobiEfor 正文此前已存，修正本轮一度的“未抓正文”。没有合同、成交或法人原证。Ewind 本轮无新增事实、观察时间未知；不联系、不恢复 PASS。[第三版更正](../../../../../constitution/issues/r119-r120-date-correction-v3.md)。
 
 [主报告](../08-customer-pipeline/188-angora-registry-event-disambiguation-r119-2026-10-26.md) · [附录](120-angora-orders-dossier-2026-10-21.r119-appendix.md) · [来源锚](../../../103-source-evidence-r119/evidence-traceability.csv) · [审计](../../../105-audit-r119.md)。

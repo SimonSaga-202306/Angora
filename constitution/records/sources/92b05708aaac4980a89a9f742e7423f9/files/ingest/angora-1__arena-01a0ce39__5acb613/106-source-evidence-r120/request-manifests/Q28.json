@@ -1,0 +1,11 @@
+{
+  "id": "Q28",
+  "kind": "web_search",
+  "status": "success",
+  "query": "site:resmigazete.gov.tr \"ANGORA NETWORKS\"",
+  "visible_result_count": 0,
+  "actual_request_time": null,
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/106-source-evidence-r120/search-responses/Q28.tool-visible.manual.json"
+  ]
+}

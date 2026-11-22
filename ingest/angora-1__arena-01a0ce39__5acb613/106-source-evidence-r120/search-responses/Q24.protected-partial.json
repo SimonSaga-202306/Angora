@@ -1,0 +1,12 @@
+{
+  "id": "Q24",
+  "query": "site:angoranetworks.com \"ticaret sicil\" -pdf",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 1,
+  "capture": "工具可见结果手工保护性摘要，非完整响应。",
+  "retained_results": [
+    {"result_id": 1, "title": "Services - Angora Networks", "url": "https://www.angoranetworks.com/our-services-2/?lang=en", "limits": "一般服务简介；可见摘要未显示工商登记号码或来源。"}
+  ]
+}

@@ -1,6 +1,6 @@
 # r119 来源、研究范围与诚实边界
 
-本轮聚焦 Angora Networks 的主体候选、能源项目、2022 年机构活动与近名防误认；不联系主体、不恢复 PASS、**主体未确认**。会话提供 `2026-10-26 UTC`，用户未指定截止；[time.is 观察为 2026-11-22 北京时间](time-reference/time.is/Beijing/response-metadata.json)，存在未解决的表面冲突，不倒填历史收发时刻。[日期第二版更正](../../../constitution/issues/r119-time-and-source-date-correction-v2.md)。
+本轮聚焦 Angora Networks 的主体候选、能源项目、2022 年机构活动与近名防误认；不联系主体、不恢复 PASS、**主体未确认**。**v3 日期更正**：当前会话日期为 `2026-11-22 UTC`，与 [time.is 观察 `2026-11-22 15:09:20` 北京时间（`07:09:20 UTC`）](time-reference/time.is/Beijing/response-metadata.json)相容；前版误将 `2026-10-26 UTC` 当作当前日期并称冲突（修改前原件保留于 `constitution/history/r119-before-v3/`）。`2026-10-26` 非当前日期亦非用户截止日；10-28、10-30、10-31 早于当前日期但仍须按来源核实，12-01 规则变化仍属未来；历史消息真实收发时刻不倒填，旧文件名日期非历史发送时间。详见[第三版具名更正](../../../constitution/issues/r119-r120-date-correction-v3.md)。
 
 ## 入口与保真度
 

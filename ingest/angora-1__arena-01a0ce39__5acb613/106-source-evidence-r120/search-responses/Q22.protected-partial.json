@@ -1,0 +1,14 @@
+{
+  "id": "Q22",
+  "query": "site:atonet.org.tr \"620902\" \"bilişim\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 5,
+  "capture": "工具可见结果手工保护性摘要，不是完整响应；不转存无关个人传记、联系方式或第三方企业记录。",
+  "retained_results": [
+    {"result_id": 1, "title": "8. komite - bilişim teknolojileri meslek komitesi", "url": "https://www.atonet.org.tr/Komite/8", "limits": "第 8 委员会页面本身；摘要未显示 620902，不证明目标成员资格或码与委员会映射。"}
+  ],
+  "omitted_result_ids": [2, 3, 4, 5],
+  "omission_reason": "非目标个人、活动或其他企业；可见片段未给出目标码的映射。"
+}

@@ -1,0 +1,19 @@
+{
+  "request_id": "A04-c0",
+  "url": "https://web.archive.org/cdx/search/cdx?url=www.angoranetworks.com%2Fgizlilik-politikasi%2F&output=json&filter=statuscode%3A200&to=20261026&collapse=timestamp%3A4",
+  "tool": "fetch_page",
+  "status": "success",
+  "requested_chunk": 0,
+  "tool_total_chunks": 1,
+  "tool_has_more": false,
+  "content_tool_visible": [
+    ["urlkey", "timestamp", "original", "mimetype", "statuscode", "digest", "length"],
+    ["com,angoranetworks)/gizlilik-politikasi", "20210411190159", "https://www.angoranetworks.com/gizlilik-politikasi/", "text/html", "200", "H6XPKBJNMUQFFBRAIZDWQU2PXSGEEAPM", "25697"],
+    ["com,angoranetworks)/gizlilik-politikasi", "20230203041946", "https://www.angoranetworks.com/gizlilik-politikasi/", "text/html", "200", "UGEPHESL4UJVBIKWZGVX6YLSAWA6WO6B", "29961"],
+    ["com,angoranetworks)/gizlilik-politikasi", "20240526000438", "https://www.angoranetworks.com/gizlilik-politikasi/", "text/html", "200", "WKO2LFS76CSBR73MVGBX3S5NBSFDN7M2", "30346"],
+    ["com,angoranetworks)/gizlilik-politikasi", "20250116090713", "https://www.angoranetworks.com/gizlilik-politikasi/", "text/html", "200", "UKRAXAAYS4DX4U2MWGSU2V2MHQZJG6AT", "30499"],
+    ["com,angoranetworks)/gizlilik-politikasi", "20260218001222", "https://www.angoranetworks.com/gizlilik-politikasi/", "text/html", "200", "5H6DPUMAIZOV7OKIOIOYM2SBUXHBTTGC", "30347"]
+  ],
+  "capture": "工具可见 JSON 人工转录，不是原 HTTP 字节。",
+  "limits": "年度折叠仅保留部分捕获候选；CDX 显示大小和摘要不能代替下载原文件、校验捕获内容或证明法人。"
+}

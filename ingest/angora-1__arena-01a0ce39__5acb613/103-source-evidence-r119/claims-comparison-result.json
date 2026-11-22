@@ -1,5 +1,5 @@
 {
-  "scope": "Saved, potentially imperfect manual tool transcriptions only; NOT confirmation of future events or legal entities.",
+  "scope": "Saved, potentially imperfect manual tool transcriptions only; NOT confirmation of real-world events or legal entities.",
   "shortlist_names_count": 20,
   "solution_heading_count": 20,
   "textual_matches_with_explicit_aliases": 20,
@@ -123,5 +123,5 @@
   "elder_self_date_literal": "25 Eylül 2026",
   "article_self_published_literal": "30 Ekim 2026 00:00",
   "article_search_pageAge_literal": "Thursday, October 29, 2026",
-  "future_date_caveat": "Source asserts a final on 2026-10-28 and publication 2026-10-30; both are later than the session-provided 2026-10-26 UTC date. Merely a comparison of source claims, not a finding that the final occurred as of that date."
+  "future_date_caveat": "v3 correction: Source asserts a final on 2026-10-28 and publication 2026-10-30; both are earlier than the current session date 2026-11-22 UTC (pre-v3 output mistakenly treated 2026-10-26 UTC as current; prior copy preserved in constitution/history/r119-before-v3/). Still merely a comparison of source claims, not primary confirmation of awards or legal entities."
 }

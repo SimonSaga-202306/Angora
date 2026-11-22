@@ -1,0 +1,12 @@
+{
+  "id": "Q30",
+  "query": "site:rekabet.gov.tr \"ANGORA NETWORKS\"",
+  "tool": "web_search",
+  "depth": 2,
+  "status": "success",
+  "visible_result_count": 2,
+  "capture": "工具可见结果保护性摘要，非完整响应；仅返回无关竞争局决议中的“NETWORKS/network”匹配，未见目标公司。",
+  "retained_results": [],
+  "omitted_result_ids": [1, 2],
+  "omission_reason": "无关第三方法人决议，未见 Angora Networks。"
+}
