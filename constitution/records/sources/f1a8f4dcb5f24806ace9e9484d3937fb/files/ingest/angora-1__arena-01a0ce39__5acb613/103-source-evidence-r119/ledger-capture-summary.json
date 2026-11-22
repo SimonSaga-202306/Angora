@@ -1,0 +1,9 @@
+{
+  "scope": 253,
+  "bytes": 782410,
+  "source_records": 253,
+  "request_events": 71,
+  "issue_or_check_events": 9,
+  "receipt_lines": 333,
+  "limits": "Receipts, resulting records, snapshots and later messages are generated after input scope; their consistency requires separate verification."
+}

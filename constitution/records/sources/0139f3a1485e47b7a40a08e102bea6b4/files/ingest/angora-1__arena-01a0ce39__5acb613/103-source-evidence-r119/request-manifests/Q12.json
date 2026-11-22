@@ -1,0 +1,15 @@
+{
+  "id": "Q12",
+  "kind": "web_search",
+  "status": "success",
+  "query_or_url": "\"Angora Networks\" site:epdk.gov.tr -pdf",
+  "result_count": 0,
+  "depth": "not established from retained plan",
+  "retention": "manual tool-visible transcript; transcription may be imperfect",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-plan-batch-02-before-search.csv",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-responses/Q12.tool-visible.manual.json"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

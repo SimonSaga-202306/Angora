@@ -1,0 +1,15 @@
+{
+  "id": "Q04",
+  "kind": "web_search",
+  "status": "success",
+  "query_or_url": "\"Angora Networks\" \"Kırıkkale\" site:edu.tr -pdf",
+  "result_count": 5,
+  "depth": "not established from retained plan",
+  "retention": "protected partial manual transcript",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-plan-batch-01-before-search.csv",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-responses/Q04.protected-partial.json"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

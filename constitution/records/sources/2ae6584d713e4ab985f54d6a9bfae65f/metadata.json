@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "2ae6584d713e4ab985f54d6a9bfae65f",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:40.418863+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/issues/r119-application-state-and-scope.md",
+  "supersedes_record_id": null,
+  "note": "r119 separate file; local r119 analysis, plan, record, version, script, or test output; local file copied byte-for-byte; not an assertion that the internet response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/issues/r119-application-state-and-scope.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/issues/r119-application-state-and-scope.md": {
+      "bytes": 872,
+      "sha256": "1571795782193cc88e2397e2a857010ccb5197529998870e7464a167119574a6"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q20",
+  "kind": "web_search",
+  "status": "success",
+  "query_or_url": "\"ANGORA Teknoloji Çözümleri\" \"Angora Networks\" -pdf",
+  "result_count": 5,
+  "depth": "not established from retained plan",
+  "retention": "protected partial manual transcript; prior parallel-response-to-query association not independently proven",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-plan-batch-04-before-search.csv",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-responses/Q20.protected-partial.json",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-responses/Q20.protected-partial.initial-version.json"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

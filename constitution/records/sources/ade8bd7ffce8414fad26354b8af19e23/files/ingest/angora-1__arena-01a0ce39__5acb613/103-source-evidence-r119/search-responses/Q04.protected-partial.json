@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "retention": "partial: results 3 and 4 withheld because the snippets contain unrelated employee/union and financial identifiers; results 1 and 5 URLs include session-like path tokens and are withheld. This is not a verbatim full response.",
+  "results": [
+    {"id":1,"title":"Kırıkkale Üniversitesi","description":"University department contact-page search result; identifying phone/address and token-like URL omitted as unnecessary."},
+    {"id":2,"title":"About Ankara","url":"https://kaliteguvence.asbu.edu.tr/en/about-ankara","description":"Ankara, formerly known as Ancyra and Angora, is the capital of the Republic of Turkey. The city gave its name to the Angora wool shorn from Angora rabbits, the long-haired Angora goat (the source of mohair), and the Angora cat."},
+    {"id":3,"description":"[UNRELATED SENSITIVE MATERIAL REDACTED: university employee/union and financial account snippet]"},
+    {"id":4,"description":"[UNRELATED SENSITIVE MATERIAL REDACTED: university employee/union and financial snippet]"},
+    {"id":5,"title":"Kırıkkale Üniversitesi","description":"Student-clubs search result; session-like URL omitted."}
+  ]
+}

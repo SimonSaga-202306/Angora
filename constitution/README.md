@@ -18,6 +18,7 @@
 - [各消息与版本](records/messages/)／[逐源文件](records/sources/)／[问题与变化](records/events/)／[每次抓取](records/crawls/)／[记录快照](snapshots/)。
 - [最新 34 项本地测试原 stderr](audit/rebuilt-test-02.stderr.bin)／[结果](audit/rebuilt-test-02.result.json)；[此前 31 项测试](audit/rebuilt-test-01.result.json)及[符号链接缺口首次失败](audit/symlink-gap-before-fix.result.json)保留；[北京时区参考和时间分歧](issues/clock-disagreement-and-r117.md)及 [r118 新观察与承接摘要的分歧](issues/continuation-date-disagreement-r118.md)；[重置保护](../ingest/angora-1__arena-01a0ce39__5acb613/96-entry-safety-privacy-reset/)。
 - [用户选择恢复研究](issues/continuation-resumes-research-r118.md)，不解除既有停项；本页变更前版本逐字节保存在 [`history/README-before-r118-7ce342a.md`](history/README-before-r118-7ce342a.md)。
+- **r119 最新限定**：[时间和来源日期第二版具名更正](issues/r119-time-and-source-date-correction-v2.md)／[第一版时间观察](issues/r119-time-observations-and-scope.md)／[应用状态与隐私范围变化](issues/r119-application-state-and-scope.md)；本页初始更新前逐字节版本为 [`history/README-before-r119-82891bd.md`](history/README-before-r119-82891bd.md)，第二版前为 [`history/README-r119-first-version.md`](history/README-r119-first-version.md)。
 
 ## 诚实边界
 

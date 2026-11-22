@@ -1,0 +1,14 @@
+{
+  "id": "A01-c0",
+  "kind": "fetch_page_archive_index",
+  "query_or_url": "https://web.archive.org/cdx/search/cdx?url=www.kirikkaletso.org.tr%2Fktso%2Fbasin%2Fuyeler%2F4.GRUP.pdf&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cstatuscode%2Cdigest&collapse=digest&to=2026",
+  "chunk_index": 0,
+  "status": "success",
+  "retention": "tool-visible archive index manually transcribed or error metadata, not original HTTP",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/archive-index/A01/response-metadata.json",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/archive-index/A01/www.kirikkaletso.org.tr/ktso/basin/uyeler/4.GRUP.pdf/chunk-0.visible.manual.md"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

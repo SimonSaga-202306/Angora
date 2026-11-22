@@ -1,0 +1,18 @@
+{
+  "prelisted": 22,
+  "fully_read": 22,
+  "bytes": 186101,
+  "sample_seed": 119114,
+  "streaming_sample": 8,
+  "sample_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/09-orders/120-angora-orders-master-2026-10-21.mapping-r114.md",
+    "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-chunks/AR08/chunk-1.visible.md",
+    "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/issues-and-corrections.csv",
+    "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/ortakakil.org.tr/ozgecmisler/levent-kilic/20210622052721/index.visible.md",
+    "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/www.kamubib-bimy.org/2020/program/20201025231618/index.visible.md",
+    "ingest/angora-1__arena-01a0ce39__5acb613/81-source-evidence-r114-2026-10-26/archive-replay/kvkk.gov.tr/Icerik/6827/20201121114433/index.visible.md",
+    "ingest/angora-1__arena-01a0ce39__5acb613/69-source-evidence-r111-2026-10-26/README.md",
+    "ingest/angora-1__arena-01a0ce39__5acb613/01-text-verbatim/workstation/08-customer-pipeline/183-angora-early-business-institutions-evidence-r114-2026-10-26.md"
+  ],
+  "limitations": "Full byte read and UTF-8 decode, not a claim of line-by-line semantic verification or entire r111/r114 tree. Initial targeted reads preceded this remedy, as disclosed in plan."
+}

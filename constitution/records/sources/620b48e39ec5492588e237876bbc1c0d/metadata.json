@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "620b48e39ec5492588e237876bbc1c0d",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:45.474460+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "manual_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P12/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-1.reconstructed.manual.md",
+  "supersedes_record_id": null,
+  "note": "r119 separate file; reconstructed manual transcript; not raw and possibly imperfect; local file copied byte-for-byte; not an assertion that the internet response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P12/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-1.reconstructed.manual.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P12/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-1.reconstructed.manual.md": {
+      "bytes": 2023,
+      "sha256": "27ce639bd2098fe38364d107c6d895c5c22da5028acc65b88039cdc2a6daf2d1"
+    }
+  }
+}

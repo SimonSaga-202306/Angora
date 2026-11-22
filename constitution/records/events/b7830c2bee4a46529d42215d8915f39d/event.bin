@@ -1,0 +1,14 @@
+{
+  "id": "P11-c0",
+  "kind": "fetch_page",
+  "query_or_url": "https://elder.org.tr/bilgi-bankasi/haberler/epdk-l-elder-enerjim-sensin-hizlandirma-programi-2026-basvurular-tamamlandi-final-sahnesi-hazirliklari-devam-ediyor",
+  "chunk_index": 0,
+  "status": "success",
+  "retention": "manual transcription or protected partial excerpt; not original HTTP body",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P11/response-metadata.json",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P11/elder.org.tr/bilgi-bankasi/haberler/enerjim-sensin-2026/chunk-0.visible.manual.md"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

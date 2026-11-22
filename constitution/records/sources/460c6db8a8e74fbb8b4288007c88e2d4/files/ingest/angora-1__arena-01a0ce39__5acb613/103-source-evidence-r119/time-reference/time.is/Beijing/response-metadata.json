@@ -1,0 +1,11 @@
+{
+  "request_url": "https://time.is/Beijing?view=angora-r119",
+  "chunkIndex": 0,
+  "status": "success",
+  "title": "Beijing: 03:09pm",
+  "hasMore": false,
+  "totalChunks": 1,
+  "image": "https://time.is/img/shareable/time_is_110011.png",
+  "visible_time_literal": "Sunday, November 22, 2026; 03:09:20pm Beijing",
+  "provenance": "Tool-visible markdown manually transcribed, not captured HTTP response bytes; possible transcription errors. This dynamically rendered display and its local accuracy claim do not calibrate the conversation, original message timestamps, or the host clock."
+}

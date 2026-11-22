@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "5ac45df2b4ad4ec9a2013621b229d3a3",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:40.032651+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/README.md",
+  "supersedes_record_id": null,
+  "note": "r119 separate file; local r119 analysis, plan, record, version, script, or test output; local file copied byte-for-byte; not an assertion that the internet response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "constitution/README.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/README.md": {
+      "bytes": 3293,
+      "sha256": "91af3172ee373101247cd2cd7e34574ee2c609997855dcc5357d1659c4d62025"
+    }
+  }
+}

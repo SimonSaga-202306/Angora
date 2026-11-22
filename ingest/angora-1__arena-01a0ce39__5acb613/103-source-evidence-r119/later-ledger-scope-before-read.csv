@@ -1,0 +1,8 @@
+path,listed_bytes
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-input-scope-before-read.csv,50593
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-input-inventory-after-read.csv,67043
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-receipts.jsonl,138679
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-summary.json,297
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-run.stdout.txt,297
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-run.stderr.txt,0
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-check-plan-before-list.md,711

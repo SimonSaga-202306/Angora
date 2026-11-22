@@ -1,0 +1,6 @@
+{
+  "documents": 12,
+  "local_links_checked": 141,
+  "missing": [],
+  "limits": "Checks local file/directory targets only; no network, anchor or semantic verification."
+}

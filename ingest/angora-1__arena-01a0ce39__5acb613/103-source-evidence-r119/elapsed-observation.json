@@ -1,0 +1,9 @@
+{
+  "same_boot": true,
+  "start_monotonic_seconds": 62.452311165,
+  "observed_monotonic_seconds": 1941.928385303,
+  "elapsed_seconds": 1879.476,
+  "includes": "research, tool waiting, and reasoning; no claim of continuous input",
+  "time_zone": "elapsed duration only, not a clock timestamp",
+  "no_sleep_for_padding": true
+}

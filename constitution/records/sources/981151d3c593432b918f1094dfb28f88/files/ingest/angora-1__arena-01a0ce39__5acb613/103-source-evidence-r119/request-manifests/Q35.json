@@ -1,0 +1,15 @@
+{
+  "id": "Q35",
+  "kind": "web_search",
+  "status": "success",
+  "query_or_url": "\"VoltGuard\" \"Angora Networks\" \"Enerjim Sensin\" ELDER -pdf",
+  "result_count": 2,
+  "depth": "2",
+  "retention": "reconstruction copied from Q17, visually compared only",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-plan-batch-07-before-search.csv",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-responses/Q35.reconstructed-from-Q17.manual.json"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

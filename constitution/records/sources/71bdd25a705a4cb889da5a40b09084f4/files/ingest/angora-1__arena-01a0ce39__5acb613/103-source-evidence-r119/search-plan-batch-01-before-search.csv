@@ -1,0 +1,7 @@
+id,query,goal
+Q01,"""Angora Networks"" ""Enerjim Sensin"" ""finalistler"" EPDK ELDER -pdf",Find a pre-2026-10-27 issuer or contemporaneous source for candidate list
+Q02,"""ANGORA NETWORKS"" ""proje"" site:tubitak.gov.tr -pdf",Independent official project or program mention without presuming grant
+Q03,"""ANGORA NETWORKS"" ""proje"" site:sanayi.gov.tr -pdf",Official research and innovation activity context
+Q04,"""Angora Networks"" ""Kırıkkale"" site:edu.tr -pdf",University source about park or firm without inferring registration
+Q05,"""Angora Networks"" ""marka"" tescil ""Türk Patent"" -pdf",Identify public trademark registry route without assuming legal entity
+Q06,"""Angora Networks"" ""Enerjim Sensin"" 28 Ekim 2026 -pdf",Find pre-date project mention and distinguish later publication claims

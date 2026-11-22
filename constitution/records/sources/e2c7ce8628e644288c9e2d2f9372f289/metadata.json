@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "e2c7ce8628e644288c9e2d2f9372f289",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:44.805916+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P07/compatlas.com.tr/sehir/kocaeli/gomulu/chunk-0.protected-partial.manual.md",
+  "supersedes_record_id": null,
+  "note": "r119 separate file; tool-visible text or metadata manually retained; possibly partial or corrected; local file copied byte-for-byte; not an assertion that the internet response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P07/compatlas.com.tr/sehir/kocaeli/gomulu/chunk-0.protected-partial.manual.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P07/compatlas.com.tr/sehir/kocaeli/gomulu/chunk-0.protected-partial.manual.md": {
+      "bytes": 476,
+      "sha256": "2bcfa9c1cd785633ce0e99751992a511e8fc67e3c20efe2bb1c762b7749deb78"
+    }
+  }
+}

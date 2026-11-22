@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "54ae3f308db442868b961b3ecb3e4f15",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:45.927437+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P17/kamubib-bimy.org/2022/program/chunk-0.protected-partial.manual.md",
+  "supersedes_record_id": null,
+  "note": "r119 separate file; tool-visible text or metadata manually retained; possibly partial or corrected; local file copied byte-for-byte; not an assertion that the internet response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P17/kamubib-bimy.org/2022/program/chunk-0.protected-partial.manual.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P17/kamubib-bimy.org/2022/program/chunk-0.protected-partial.manual.md": {
+      "bytes": 863,
+      "sha256": "879d60efd7a5fdae3d43c2487480e35fb82bbdcceef095554fd79e1b123d1c9e"
+    }
+  }
+}

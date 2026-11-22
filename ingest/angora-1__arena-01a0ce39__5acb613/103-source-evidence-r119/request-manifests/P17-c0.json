@@ -1,0 +1,14 @@
+{
+  "id": "P17-c0",
+  "kind": "fetch_page",
+  "query_or_url": "https://www.kamubib-bimy.org/2022/program",
+  "chunk_index": 0,
+  "status": "success",
+  "retention": "manual transcription or protected partial excerpt; not original HTTP body",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P17/response-metadata.json",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P17/kamubib-bimy.org/2022/program/chunk-0.protected-partial.manual.md"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

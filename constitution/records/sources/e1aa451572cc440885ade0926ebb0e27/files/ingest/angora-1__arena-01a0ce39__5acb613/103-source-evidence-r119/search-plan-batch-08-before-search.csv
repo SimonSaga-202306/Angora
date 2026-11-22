@@ -1,0 +1,5 @@
+id,query,goal
+Q37,"site:ticaretsicil.gov.tr ""ANGORA NETWORKS"" -pdf",Seek publicly indexed original Turkish Trade Registry Gazette entry; do not log in or pay
+Q38,"site:tobb.org.tr ""ANGORA NETWORKS"" ""KIRIKKALE"" -pdf",Seek institutionally published target-specific business record; no blanket ID inference
+Q39,"""ANGORA NETWORKS BİLİŞİM TEKNOLOJİ"" ""MERSİS"" -pdf",Seek registry route and compare unverified public directory data only; do not treat code as verified
+Q40,"""angoranetworks.com"" ""Kırıkkale"" site:gov.tr -pdf",Seek public regulator/government record linking domain and locality; no searching private accounts

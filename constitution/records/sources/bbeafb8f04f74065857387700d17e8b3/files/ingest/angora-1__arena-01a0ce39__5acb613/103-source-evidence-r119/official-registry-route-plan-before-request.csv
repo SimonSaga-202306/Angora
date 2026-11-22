@@ -1,0 +1,3 @@
+id,url,purpose,limit
+P13,https://www.ticaretsicil.gov.tr/,Check official Turkish Trade Registry Gazette landing and public search availability,"Passive anonymous GET only; no login, CAPTCHA bypass or account. This is route evidence, not target registry certificate."
+P14,https://mersis.ticaret.gov.tr/,Inspect Ministry MERSIS public landing for target-specific publicly accessible registry route,"Passive anonymous GET only; no log in, identity credentials, form submission, or CAPTCHA bypass. Generic system description is not target record."

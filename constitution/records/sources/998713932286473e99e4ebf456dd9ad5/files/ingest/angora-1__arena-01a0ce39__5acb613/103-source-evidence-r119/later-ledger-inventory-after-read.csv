@@ -1,0 +1,8 @@
+path,bytes_read,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-input-scope-before-read.csv,50593,f49e16b03dd6422f65ff7803b83cc8a8f4c10e6ebbc59c0bf6dff9a8e7a52a23
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-input-inventory-after-read.csv,67043,9eca4384c3cfb0aac30459f13c8f82aa78ea938a20cf7a47ade87be08e324af4
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-receipts.jsonl,138679,f450daec30fa3642ce250bfe2e8c48c35250ec010c36760597912a60cfca4200
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-summary.json,297,4127aa6498f9a8386d2437aae7fdbb1245bce2177b7f39c5696bc04b9e52dff8
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-run.stdout.txt,297,4127aa6498f9a8386d2437aae7fdbb1245bce2177b7f39c5696bc04b9e52dff8
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-capture-run.stderr.txt,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-check-plan-before-list.md,711,8229fbaccf10cd140507cfb6bb316222ce229af0565c914af063beec9cde4b84

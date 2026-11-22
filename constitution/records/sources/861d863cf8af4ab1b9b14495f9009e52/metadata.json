@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "861d863cf8af4ab1b9b14495f9009e52",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:45.073086+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P09/yesilhaber.net/enerjim-sensin-2026-uc-girisime-4-milyon-tl/chunk-0.protected-partial.manual.md",
+  "supersedes_record_id": null,
+  "note": "r119 separate file; tool-visible text or metadata manually retained; possibly partial or corrected; local file copied byte-for-byte; not an assertion that the internet response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P09/yesilhaber.net/enerjim-sensin-2026-uc-girisime-4-milyon-tl/chunk-0.protected-partial.manual.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P09/yesilhaber.net/enerjim-sensin-2026-uc-girisime-4-milyon-tl/chunk-0.protected-partial.manual.md": {
+      "bytes": 1080,
+      "sha256": "a0e440f50be48f31310ddae57397b5613f23448f6688d09f2d14dec3d1ac16be"
+    }
+  }
+}

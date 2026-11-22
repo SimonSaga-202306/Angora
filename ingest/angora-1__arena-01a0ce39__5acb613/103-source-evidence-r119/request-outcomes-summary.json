@@ -1,0 +1,11 @@
+{
+  "search_requests": 40,
+  "fetch_page_requests": 25,
+  "archive_index_requests": 5,
+  "time_reference_requests": 1,
+  "all_request_manifests": 71,
+  "search_result_items_in_retained_structures": 109,
+  "zero_result_searches": 5,
+  "fetch_errors": 4,
+  "limitations": "Counts of request records and retained result entries; not independent sources or complete original response bytes. Earlier parallel attribution uncertain. Some entries are entirely withheld."
+}

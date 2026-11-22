@@ -1,0 +1,13 @@
+{
+  "prelisted_staged_paths": 1055,
+  "fully_read_index_blobs": 1055,
+  "bytes": 5240480,
+  "working_tree_equal": 1055,
+  "sha1_git_blobs_verified": 1055,
+  "prior_prestage_files_matching": 1009,
+  "streaming_sample_verified": 30,
+  "sample_seed": 1191054,
+  "privacy_pattern_hit_files": [],
+  "git_diff_check_exit": 0,
+  "limits": "Only index entries listed in staged-scope-before-read.csv; subsequently generated verification and Git-observation files are separate. Hashes do not prove source truth or complete privacy screening."
+}

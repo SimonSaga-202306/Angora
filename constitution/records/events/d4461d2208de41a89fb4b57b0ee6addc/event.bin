@@ -1,0 +1,14 @@
+{
+  "id": "A04-c0",
+  "kind": "fetch_page_archive_index",
+  "query_or_url": "https://web.archive.org/cdx/search/cdx?url=elder.org.tr%2Fbilgi-bankasi%2Fhaberler%2Fepdk-l-elder-enerjim-sensin-hizlandirma-programi-2026-basvurular-tamamlandi-final-sahnesi-hazirliklari-devam-ediyor&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&collapse=digest&to=20261026",
+  "chunk_index": 0,
+  "status": "success",
+  "retention": "tool-visible archive index manually transcribed or error metadata, not original HTTP",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/archive-index/A04/response-metadata.json",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/archive-index/A04/chunk-0.visible.manual.md"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

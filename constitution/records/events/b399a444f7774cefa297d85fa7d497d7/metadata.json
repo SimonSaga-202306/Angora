@@ -1,0 +1,23 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "b399a444f7774cefa297d85fa7d497d7",
+  "type": "event",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:57.766774+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/constitution/issues/r119-time-observations-and-scope.md",
+  "supersedes_record_id": null,
+  "note": "Separate r119 issue or verification; local generated record, not a fabricated event time.",
+  "event_kind": "issue_or_verification",
+  "outcome": "copied",
+  "files": {
+    "event.bin": {
+      "bytes": 2147,
+      "sha256": "022aca83dccd8830df2fa67e0789daa8679ac7f1221c5abd0aacff856f34b4d4"
+    }
+  }
+}

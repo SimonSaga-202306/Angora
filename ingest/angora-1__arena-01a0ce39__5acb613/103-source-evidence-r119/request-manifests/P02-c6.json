@@ -1,0 +1,13 @@
+{
+  "id": "P02-c6",
+  "kind": "fetch_page",
+  "query_or_url": "https://www.kirikkaletso.org.tr/ktso/basin/uyeler/4.GRUP.pdf",
+  "chunk_index": 6,
+  "status": "success",
+  "retention": "observational metadata only; no complete response body retained",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P02/protected-blocks-observations.json"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

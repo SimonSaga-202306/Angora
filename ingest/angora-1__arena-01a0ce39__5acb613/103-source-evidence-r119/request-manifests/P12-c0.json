@@ -1,0 +1,14 @@
+{
+  "id": "P12-c0",
+  "kind": "fetch_page",
+  "query_or_url": "https://www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872",
+  "chunk_index": 0,
+  "status": "success",
+  "retention": "reconstructed from earlier transcription; not a byte-identical response",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P12/response-metadata.json",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P12/www.ekonomim.com/ekonomi/enerji-ihtiyaclarina-iyi-cozum-getiren-3-proje-odullendirildi-haberi-927872/chunk-0.reconstructed.manual.md"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

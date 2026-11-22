@@ -1,0 +1,11 @@
+path,listed_bytes
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-capture-scope-before-read.csv,1295
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-capture-inventory-after-read.csv,2080
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-receipts.jsonl,4121
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-snapshot.stdout.json,214
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-snapshot.stderr.txt,0
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verify.stdout.json,382
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verify.stderr.txt,0
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verification-observation.md,1947
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/post-snapshot-capture-plan-before-list.md,444
+constitution/inbox/assistant-messages/r119-validation-progress-0005.txt,231

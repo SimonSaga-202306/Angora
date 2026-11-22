@@ -1,0 +1,11 @@
+path,bytes_read,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-capture-scope-before-read.csv,1295,8f07fc5ffc2321f8ea7f02e6fe412b849c2d05ed45a1730c463f7f878cf5c5cd
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-capture-inventory-after-read.csv,2080,e56c9dc09813bb5445de4aab165d4473edbaff75d0daf855d06d55c9e3fe6cf2
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/later-ledger-receipts.jsonl,4121,2c60ed976823f8f1595f0a27a9b643503ab146b52dc6fa756441de9d4fb967d8
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-snapshot.stdout.json,214,8ec088dfb62c2b615ea4a342e4e93bbc1645c8fd8452c770be8dd5328c8198c6
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-snapshot.stderr.txt,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verify.stdout.json,382,91e1d8e9379572e38043c15a218fcbd36c9fd4ee535edd1843bdcbee50d26771
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verify.stderr.txt,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verification-observation.md,1947,73b7a87090bf44d6445e22eb5e576abe51a2082cec160ac6a2e6704d8a6d17e1
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/post-snapshot-capture-plan-before-list.md,444,e90056d78e5d62fbc31df4da0f2b012b8d6c2b66a9507951960ec2848fe016b6
+constitution/inbox/assistant-messages/r119-validation-progress-0005.txt,231,c4452be4abc707ccff6de718beb01612e4c80584dd72d617fa27770958568f51

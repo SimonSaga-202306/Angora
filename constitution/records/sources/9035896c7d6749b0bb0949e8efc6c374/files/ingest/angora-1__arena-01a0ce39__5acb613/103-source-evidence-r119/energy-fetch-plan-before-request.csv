@@ -1,0 +1,3 @@
+id,url,scope,retention
+P09,https://yesilhaber.net/enerjim-sensin-2026-uc-girisime-4-milyon-tl/,"Compare report date and declared source to P01, without assuming independent event witnesses; post-session self-dated content is not factual as-of 10-26",Keep public article text if safe; no action/contact/comments; preserve chunk metadata and privacy exclusions
+P10,https://apply.ituseed.com/tr/discover/1/enerjimsensin_2026,"Inspect program application page from project partner, not an award or customer proof",Public GET only; no login or form submission; retain visible excerpt or failure and any truncation

@@ -1,0 +1,3 @@
+id,url,purpose,limit
+P15,https://www.ticaretsicil.gov.tr/view/hizlierisim/unvansorgulama.php,Inspect official title-search page linked by P13,Read-only GET only; no credentials or CAPTCHA; do not search or claim target registration
+P16,https://www.ticaretsicil.gov.tr/view/hizlierisim/ilangoruntuleme.php,Inspect official gazette announcement access page linked by P13,Read-only GET only; no login, CAPTCHA bypass, form submission or third-party data

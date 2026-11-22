@@ -1,0 +1,7 @@
+id,query,goal
+Q07,"""Angora Networks"" ""İTÜ Çekirdek"" finalist -pdf",Find organiser published candidate evidence rather than aggregator copy
+Q08,"""Angora Networks"" ""TEYDEB"" -pdf",Check official research grant assertion if any without assuming award
+Q09,"""Angora Networks"" ""KOSGEB"" -pdf",Check government small business program claim without inferring support
+Q10,"""Angora Networks"" ""2022"" ""2023"" ""siber"" etkinlik -pdf",Find independent dated public event rather than product PDF
+Q11,"""Angora Networks"" ""Veri Diyotu"" ""yerli"" kamu -pdf",Find institutional product context without implying procurement or certification
+Q12,"""Angora Networks"" site:epdk.gov.tr -pdf",Find project owner primary announcement

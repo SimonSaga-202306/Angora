@@ -1,0 +1,6 @@
+id,query,goal
+Q19,"""ANGORA Teknoloji Çözümleri"" ""Kırıkkale"" -pdf",Disambiguate separate same-name park candidate seen in r117 search
+Q20,"""ANGORA Teknoloji Çözümleri"" ""Angora Networks"" -pdf",Check whether a source explicitly distinguishes the two names; do not merge
+Q21,"""ANGORA TEKNOLOJİ ÇÖZÜMLERİ"" ""teknopark"" -pdf",Find supporting directory and scope of similar-name candidate
+Q22,"""angoranetworks.com"" ""angora teknoloji çözümleri"" -pdf",Find explicit link if any; no inference from co-listing
+Q23,"site:kirikkaleteknopark.com ""Angora"" ""Teknoloji Çözümleri"" -pdf",Check park publisher itself rather than derivative indexes

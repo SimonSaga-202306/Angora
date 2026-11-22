@@ -1,0 +1,15 @@
+path,bytes_read,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/precommit-git-plan-before-check.md,644,156d5d6f9bf3fd90329088082f2ca23d814916b991877b6561ecab6d8591a3a8
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/precommit-git-observation.md,765,1b870ae5ef5c4e61fd86a549c52414d842a36daa7dd849b64a143c0d8787ecc4
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/post-generation-link-check.json,171,a7c78ac33adce7f6b9792d4814f077ff0a3713664d9e33b211d0011de763c293
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/prestage-scope-before-read.csv,118326,caaeec19db004e6130aa9c67e5dcbc1e8e577915c2617dd815465b2191f2385e
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/prestage-inventory-after-read.csv,180878,2b5f777599a352e0365320610b6853a80f0af9a6e5531d51395d87abefbb4a62
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/prestage-summary.json,351,34592956068ec45e1865bf59f753595e51219362441eee3ba2a56b0d3e25b1a4
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/post-snapshot-capture-scope-before-read.csv,1024,b8d614bfb26faa78d3e99c9629012aaecf5ab46f3128105adf0ceba2e493dad3
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/post-snapshot-capture-inventory-after-read.csv,1679,1e25a181aa27b654757ae88dcef5a8500762cba67c0f569e1d2e37a633f3bbd8
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/post-snapshot-capture-receipts.jsonl,3633,7ccc1dd1e44ce4725b38cdd3c5a2be89722a6f7cde39ecc6fbe824bb83bdb74d
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-snapshot-final-precommit.stdout.json,214,0b3dbc6047f8b922dcde0f4a1636a60ed2acc22320333424960f237f3fbbf71a
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-snapshot-final-precommit.stderr.txt,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verify-final-precommit.stdout.json,382,04535d4f3a35a8811cbf79eee8fb59caee7be8c7928f372e2f751937b5848b7c
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/ledger-verify-final-precommit.stderr.txt,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/precommit-ledger-plan-before-list.md,431,540e249c10402657195410ae31d60dec7b0b18ad87a89ca383632fe78871711d

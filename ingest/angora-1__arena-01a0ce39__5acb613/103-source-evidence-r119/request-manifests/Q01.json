@@ -1,0 +1,15 @@
+{
+  "id": "Q01",
+  "kind": "web_search",
+  "status": "success",
+  "query_or_url": "\"Angora Networks\" \"Enerjim Sensin\" \"finalistler\" EPDK ELDER -pdf",
+  "result_count": 1,
+  "depth": "not established from retained plan",
+  "retention": "manual tool-visible transcript; transcription may be imperfect",
+  "input_paths": [
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-plan-batch-01-before-search.csv",
+    "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/search-responses/Q01.tool-visible.manual.json"
+  ],
+  "actual_request_time": null,
+  "provenance": "Derived manifest from retained manual/protected tool observations; not original protocol data."
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "e272b17c9d40449cb3e6364b6ee665dc",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:41:45.255085+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "tool_visible_transcription",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "/home/user/Angora/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P11/elder.org.tr/bilgi-bankasi/haberler/enerjim-sensin-2026/chunk-0.visible.manual.md",
+  "supersedes_record_id": null,
+  "note": "r119 separate file; tool-visible text or metadata manually retained; possibly partial or corrected; local file copied byte-for-byte; not an assertion that the internet response was captured byte-for-byte. Event time unknown.",
+  "original_relative_path": "ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P11/elder.org.tr/bilgi-bankasi/haberler/enerjim-sensin-2026/chunk-0.visible.manual.md",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/pages/P11/elder.org.tr/bilgi-bankasi/haberler/enerjim-sensin-2026/chunk-0.visible.manual.md": {
+      "bytes": 3724,
+      "sha256": "0a6e4883a906495749863adba8941922bfb6b75c9464c2dcca487b73ce2e3734"
+    }
+  }
+}

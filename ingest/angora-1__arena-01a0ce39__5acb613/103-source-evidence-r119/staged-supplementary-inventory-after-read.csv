@@ -1,0 +1,7 @@
+path,bytes_read,sha256
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/staged-scope-before-read.csv,171219,c21de7254045675939ef6ce4c9623dc45ee7a77a659d4243d686a7a8680aef96
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/staged-inventory-after-read.csv,239799,06ae5264398e30b4605f95348f790b9a3aa125b073c244cf83b432a712ac02bb
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/staged-summary.json,535,e8cd95b3e8a574d27520f61c7ab22da1707c92f75326cb2ef9c61d4fd0e65e23
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/staged-verify-run.stdout.txt,535,e8cd95b3e8a574d27520f61c7ab22da1707c92f75326cb2ef9c61d4fd0e65e23
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/staged-verify-run.stderr.txt,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ingest/angora-1__arena-01a0ce39__5acb613/103-source-evidence-r119/staged-supplementary-plan-before-list.md,478,7ac0cd17b7a4164ba78667b97c40c8eb33f63f3a8fa22244d659127a6df1a44c

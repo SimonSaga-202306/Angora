@@ -1,0 +1,4 @@
+id,url,scope,retention
+P03,https://akillisehirekosistem.csb.gov.tr/ActorBank/Detail?mId=360030003300,"Government ecosystem directory for ANGORA Teknoloji Çözümleri; distinguish name/location/domain from Angora Networks, do not investigate as new customer",One request at a time; keep target name and organization/domain evidence; exclude unrelated personal/contact data; source is a directory not registration
+P04,https://kouteknopark.com/firmalarimiz,"Kocaeli university technopark operator list, seek separate ANGORA Teknoloji Çözümleri listing",Initial chunk only; protect unrelated third parties; no inference of independence of underlying submissions
+P05,https://compatlas.com.tr/kategori/gomulu,"Compare 2 different entries and domains in one directory; no assumption of legal relationship",Initial chunk only; retain limited target excerpt if found and note other entries withheld

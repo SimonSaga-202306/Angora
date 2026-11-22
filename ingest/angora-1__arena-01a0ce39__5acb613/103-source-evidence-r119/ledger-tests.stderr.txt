@@ -1,0 +1,39 @@
+test_event_is_not_merged_with_message (__main__.LedgerTests.test_event_is_not_merged_with_message) ... ok
+test_failure_record_cannot_be_omitted (__main__.LedgerTests.test_failure_record_cannot_be_omitted) ... ok
+test_fetch_binary_entity (__main__.LedgerTests.test_fetch_binary_entity) ... ok
+test_fetch_requires_authorization_note (__main__.LedgerTests.test_fetch_requires_authorization_note) ... ok
+test_fetch_size_limit_retains_received_prefix (__main__.LedgerTests.test_fetch_size_limit_retains_received_prefix) ... ok
+test_http_error_body_and_failure_kept (__main__.LedgerTests.test_http_error_body_and_failure_kept) ... ok
+test_identical_messages_are_separate (__main__.LedgerTests.test_identical_messages_are_separate) ... ok
+test_incomplete_response_not_claimed_complete (__main__.LedgerTests.test_incomplete_response_not_claimed_complete) ... ok
+test_invalid_fetch_limit_rejected (__main__.LedgerTests.test_invalid_fetch_limit_rejected) ... ok
+test_invalid_time_provenance_detected (__main__.LedgerTests.test_invalid_time_provenance_detected) ... ok
+test_known_time_converted_and_original_preserved (__main__.LedgerTests.test_known_time_converted_and_original_preserved) ... ok
+test_message_preserves_binary_and_unknown_event_time (__main__.LedgerTests.test_message_preserves_binary_and_unknown_event_time) ... ok
+test_message_version_keeps_original (__main__.LedgerTests.test_message_version_keeps_original) ... ok
+test_missing_source_records_failure_not_fake_payload (__main__.LedgerTests.test_missing_source_records_failure_not_fake_payload) ... ok
+test_naive_or_unattributed_time_rejected (__main__.LedgerTests.test_naive_or_unattributed_time_rejected) ... ok
+test_recovery_plan_readonly_and_simulated_protection (__main__.LedgerTests.test_recovery_plan_readonly_and_simulated_protection) ... ok
+test_redirect_not_followed (__main__.LedgerTests.test_redirect_not_followed) ... ok
+test_sensitive_headers_redacted (__main__.LedgerTests.test_sensitive_headers_redacted) ... ok
+test_sensitive_url_refused_without_saving_secret (__main__.LedgerTests.test_sensitive_url_refused_without_saving_secret) ... ok
+test_snapshot_detects_coordinated_payload_and_metadata_change (__main__.LedgerTests.test_snapshot_detects_coordinated_payload_and_metadata_change) ... ok
+test_snapshot_detects_missing_file (__main__.LedgerTests.test_snapshot_detects_missing_file) ... ok
+test_snapshot_lists_then_reads_and_allows_later_additions (__main__.LedgerTests.test_snapshot_lists_then_reads_and_allows_later_additions) ... ok
+test_source_original_path_and_binary (__main__.LedgerTests.test_source_original_path_and_binary) ... ok
+test_successful_crawl_cannot_omit_body (__main__.LedgerTests.test_successful_crawl_cannot_omit_body) ... ok
+test_successful_message_cannot_omit_payload (__main__.LedgerTests.test_successful_message_cannot_omit_payload) ... ok
+test_successful_source_cannot_omit_payload (__main__.LedgerTests.test_successful_source_cannot_omit_payload) ... ok
+test_symlinked_record_bucket_is_rejected (__main__.LedgerTests.test_symlinked_record_bucket_is_rejected) ... ok
+test_symlinked_records_root_rejected_by_snapshot (__main__.LedgerTests.test_symlinked_records_root_rejected_by_snapshot) ... ok
+test_symlinked_records_root_rejected_by_verify (__main__.LedgerTests.test_symlinked_records_root_rejected_by_verify) ... ok
+test_symlinked_snapshot_root_rejected (__main__.LedgerTests.test_symlinked_snapshot_root_rejected) ... ok
+test_transport_failure_has_no_fabricated_body (__main__.LedgerTests.test_transport_failure_has_no_fabricated_body) ... ok
+test_unexpected_file_and_incomplete_record_detected (__main__.LedgerTests.test_unexpected_file_and_incomplete_record_detected) ... ok
+test_unknown_previous_version_rejected (__main__.LedgerTests.test_unknown_previous_version_rejected) ... ok
+test_unsafe_original_paths_rejected (__main__.LedgerTests.test_unsafe_original_paths_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 34 tests in 4.365s
+
+OK

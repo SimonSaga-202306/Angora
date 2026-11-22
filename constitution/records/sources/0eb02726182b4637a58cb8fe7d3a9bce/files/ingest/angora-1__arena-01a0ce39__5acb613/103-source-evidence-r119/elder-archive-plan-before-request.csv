@@ -1,0 +1,3 @@
+id,url,scope
+A04,"https://web.archive.org/cdx/search/cdx?url=elder.org.tr%2Fbilgi-bankasi%2Fhaberler%2Fepdk-l-elder-enerjim-sensin-hizlandirma-programi-2026-basvurular-tamamlandi-final-sahnesi-hazirliklari-devam-ediyor&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&collapse=digest&to=20261026",Exact non-www P11 archive before or on session-provided date
+A05,"https://web.archive.org/cdx/search/cdx?url=www.elder.org.tr%2Fbilgi-bankasi%2Fhaberler%2Fepdk-l-elder-enerjim-sensin-hizlandirma-programi-2026-basvurular-tamamlandi-final-sahnesi-hazirliklari-devam-ediyor&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&collapse=digest&to=20261026",Exact www P11 archive before or on session-provided date

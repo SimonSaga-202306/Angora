@@ -1,0 +1,4 @@
+id,url,scope,retention
+P06,https://kouteknopark.com/firma-detay.aspx?id=50,"Direct detail URL supplied by Kocaeli operator directory P04",Keep public organization name and website context only; omit personal names/emails/phones and unrelated details; not a registry certificate
+P07,https://compatlas.com.tr/sehir/kocaeli/gomulu,"Check city-specific entry for similarly named entity",Keep target corporate name and domain only; partial if other subjects exposed
+P08,https://compatlas.com.tr/sehir/kirikkale/gomulu,"Check city-specific entry for Angora Networks",Keep target corporate name and domain only; partial if other subjects exposed

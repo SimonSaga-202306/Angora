@@ -1,0 +1,24 @@
+{
+  "schema": "constitution-ledger/v1",
+  "id": "b0208c9d7970461b8ded9238ee66c62f",
+  "type": "source",
+  "event_at_beijing": null,
+  "event_time_source": null,
+  "event_time_input_original": null,
+  "recorded_at_beijing_unverified": "2026-11-22T15:43:49.561096+08:00",
+  "clock_provenance": "system wall clock, Asia/Shanghai; synchronization and event time unverified",
+  "capture_method": "supplied_file",
+  "fidelity": "exact copy of supplied input only; upstream completeness and protocol bytes are not assumed",
+  "input_path": "constitution/inbox/assistant-messages/r119-validation-progress-0005.txt",
+  "supersedes_record_id": null,
+  "note": "Separate post-checkpoint r119 local artifact; no asserted event time or raw network fidelity.",
+  "original_relative_path": "constitution/inbox/assistant-messages/r119-validation-progress-0005.txt",
+  "source_uri": null,
+  "outcome": "copied",
+  "files": {
+    "files/constitution/inbox/assistant-messages/r119-validation-progress-0005.txt": {
+      "bytes": 231,
+      "sha256": "c4452be4abc707ccff6de718beb01612e4c80584dd72d617fa27770958568f51"
+    }
+  }
+}

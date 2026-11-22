@@ -1,0 +1,11 @@
+{
+  "prelisted": 1009,
+  "fully_read": 1009,
+  "bytes": 4131531,
+  "utf8_files": 1009,
+  "sample_verified": 30,
+  "sample_seed": 1191009,
+  "privacy_pattern_hit_files": [],
+  "excluded_private_local_paths": 2,
+  "limits": "Prestage scope only, before generated inventory/summary and later Git records; no .arena or semantic/authenticity guarantee."
+}
